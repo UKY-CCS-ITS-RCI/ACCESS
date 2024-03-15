@@ -8,7 +8,7 @@ PrgEnv-nvhpc:PrgEnv-nvhpc/8.4.0
 PrgEnv-nvidia:PrgEnv-nvidia/8.4.0
 anaconda3_Rcpu:anaconda3_Rcpu/22.9.0
 anaconda3_cpu:anaconda3_cpu/23.3.1,, anaconda3_cpu/23.7.4
-anaconda3_gpu:anaconda3_gpu/22.10.0,, anaconda3_gpu/23.3.1, anaconda3_gpu/23.7.4, anaconda3_gpu/23.9.0
+anaconda3_gpu:anaconda3_gpu/22.10.0,, anaconda3_gpu/23.3.1, ...
 anaconda3_mi100:anaconda3_mi100/4.14.0,, anaconda3_mi100/23.7.4
 anaconda3_x86_64:anaconda3_x86_64/23.3.1,, anaconda3_x86_64/23.7.4
 aocc:aocc/4.1.0
@@ -72,7 +72,7 @@ craype-x86-spr:craype-x86-spr
 craype-x86-spr-hbm:craype-x86-spr-hbm
 craype-x86-trento:craype-x86-trento
 craypkg-gen:craypkg-gen/1.3.30
-cuda:cuda/11.7.0,, cuda/11.8.0.testing, cuda/11.8.0, cuda/12.2.1, cuda/12.3.0
+cuda:cuda/11.7.0,, cuda/11.8.0.testing, cuda/11.8.0, cuda/12.2.1, ...
 cudnn:cudnn/8.4.1.50,, cudnn/8.9.0.131
 cue-login-env:cue-login-env/1.0
 cutensor:cutensor/1.5.0.3
@@ -103,7 +103,7 @@ hwloc:hwloc/2.2.0
 inputproto:inputproto/2.3.2
 intel:intel/2022.2.1,, intel/2024.0.0
 intel-oneapi-advisor:intel-oneapi-advisor/2024.0.0
-intel-oneapi-compilers:intel-oneapi-compilers/2022.2.1,, intel-oneapi-compilers/2024.0.0
+intel-oneapi-compilers:intel-oneapi-compilers/2022.2.1,, ...
 intel-oneapi-mkl:intel-oneapi-mkl/2024.0.0
 intel-oneapi-mpi:intel-oneapi-mpi/2021.11.0
 intel-tbb:intel-tbb/2021.9.0
@@ -112,7 +112,7 @@ iperf3:iperf3/3.6
 julia:julia/1.9.0,, julia/1.10.2
 kbproto:kbproto/1.0.7
 kokkos:kokkos/4.2.00
-lammps:lammps/2022.06.cpu,, lammps/2022.06.gpu_cuda, lammps/2023.08.cuda.s11, lammps/2023.08.x86_64.s11
+lammps:lammps/2022.06.cpu,, lammps/2022.06.gpu_cuda, ...
 libaio:libaio/0.3.113
 libbsd:libbsd/0.11.7
 libfabric:libfabric/1.15.2.0
@@ -140,8 +140,8 @@ metis:metis/5.1.0
 muparser:muparser/2.3.4
 mvapich:mvapich/3.0
 mvapich-3.0rc_s11:mvapich-3.0rc_s11/3.0rc
-namd:namd/2.14.cuda.smp.s11,, namd/2.14.x86_64.multicore.s11, namd/2.14.x86_64.s11
-namd3:namd3/2022.07.multicore_cuda,, namd3/2022.07.multinode_cuda, namd3/2024.02.mulitcore_cuda.s11, namd3/2024.02.multinode_cuda.s11
+namd:namd/2.14.cuda.smp.s11,, namd/2.14.x86_64.multicore.s11, ...
+namd3:namd3/2022.07.multicore_cuda,, namd3/2022.07.multinode_cuda, ...
 nccl:nccl/2.19.3-1.awsplugin,, nccl/2.19.3-1
 ncurses:ncurses/6.1.20180224
 ndiff:ndiff/2.00
@@ -149,21 +149,21 @@ netcdf-c:netcdf-c/4.9.2
 netcdf-fortran:netcdf-fortran/4.6.1
 netlib-scalapack:netlib-scalapack/2.2.0
 node:node/21.2.0
-nvhpc:nvhpc/20.7.craype-testing,, nvhpc/22.5, nvhpc/22.11, nvhpc/23.11.testing, nvhpc/24.1
+nvhpc:nvhpc/20.7.craype-testing,, nvhpc/22.5, nvhpc/22.11, ...
 nvhpc_latest:nvhpc_latest/22.11
 nvtop:nvtop/3.0.1
 nwchem:nwchem/7.2.2
 openblas:openblas/0.3.25,, openblas/0.3.26+openmp
 opencv:opencv/4.9.0.x86_64
 openjdk:openjdk/1.8.0_392-b08
-openmpi:openmpi/4.1.5+cuda,, openmpi/4.1.6, openmpi/5.0.1+cuda, openmpi/5.0.2+cuda
+openmpi:openmpi/4.1.5+cuda,, openmpi/4.1.6, openmpi/5.0.1+cuda, ...
 openmpi+cuda:openmpi+cuda/4.1.5+cuda
 openmpi-5.0_beta:openmpi-5.0_beta/5.0.0rc8,, openmpi-5.0_beta/5.0.0rc9
 osu-micro-benchmarks:osu-micro-benchmarks/7.3
 papi:papi/7.0.1.1
 parallel:parallel/20220522
 parallel-netcdf:parallel-netcdf/1.12.3
-paraview:paraview/5.10.0gui,, paraview/5.11.2.egl.cuda, paraview/5.11.2.osmesa.x86_64
+paraview:paraview/5.10.0gui,, paraview/5.11.2.egl.cuda, ...
 parmetis:parmetis/4.0.3
 perftools:perftools
 perftools-base:perftools-base/23.09.0
@@ -175,7 +175,7 @@ perftools-lite-loops:perftools-lite-loops
 perftools-preload:perftools-preload
 petsc:petsc/3.13.6,, petsc/3.20.1
 posix2ime:posix2ime/2020.1
-python:python/3.6.8,, python/3.7.17, python/3.8.18, python/3.9.18, python/3.10.13, python/3.11.6
+python:python/3.6.8,, python/3.7.17, python/3.8.18, python/3.9.18, ...
 r:r/4.3.2
 r_flexiblas:r_flexiblas/4.3.3
 readline:readline/8.2
