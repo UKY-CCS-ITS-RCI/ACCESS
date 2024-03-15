@@ -184,6 +184,8 @@ The following is a list of the modules and extensions currently available:
 
   git-lfs: git-lfs/3.3.0
 
+  glm: glm/0.9.9.8
+
   gnuplot: gnuplot/5.4.3
 
   gromacs: gromacs/2022.5.cuda, gromacs/2022.5.x86_64
@@ -202,6 +204,8 @@ The following is a list of the modules and extensions currently available:
 
   hwloc: hwloc/2.2.0
 
+  inputproto: inputproto/2.3.2
+
   intel: intel/2022.2.1, intel/2024.0.0
 
   intel-oneapi-advisor: intel-oneapi-advisor/2024.0.0
@@ -218,7 +222,9 @@ The following is a list of the modules and extensions currently available:
 
   iperf3: iperf3/3.6
 
-  julia: julia/1.9.0
+  julia: julia/1.9.0, julia/1.10.2
+
+  kbproto: kbproto/1.0.7
 
   kokkos: kokkos/4.2.00
 
@@ -226,19 +232,35 @@ The following is a list of the modules and extensions currently available:
 
   libaio: libaio/0.3.113
 
+  libbsd: libbsd/0.11.7
+
   libfabric: libfabric/1.15.2.0
 
   libffi: libffi/3.4.4
 
+  libice: libice/1.1.1
+
   libjpeg: libjpeg/9e
 
+  libmd: libmd/1.0.4
+
   libnsl: libnsl/2.0.0
+
+  libsm: libsm/1.2.4
 
   libsndfile: libsndfile/1.0.28
 
   libtirpc: libtirpc/1.3.3
 
   libx11: libx11/1.8.4
+
+  libxau: libxau/1.0.8
+
+  libxcb: libxcb/1.14
+
+  libxdmcp: libxdmcp/1.1.4
+
+  libxt: libxt/1.3.0
 
   llvm: llvm/15.0.0
 
@@ -335,7 +357,11 @@ The following is a list of the modules and extensions currently available:
 
   r: r/4.3.2
 
+  r_flexiblas: r_flexiblas/4.3.3
+
   readline: readline/8.2
+
+  rust: rust/1.75.0
 
   sanitizers4hpc: sanitizers4hpc/1.1.1
 
@@ -364,7 +390,11 @@ The following is a list of the modules and extensions currently available:
 
   xerces-c: xerces-c/3.2.4
 
+  xextproto: xextproto/7.3.0
+
   xproto: xproto/7.0.31
+
+  xtrans: xtrans/1.4.0
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
