@@ -1,0 +1,188 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The following is a list of the modules and extensions currently available:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  TACC: TACC
+
+  advisor: advisor/23.1, advisor/24.0
+    Intel Advisor
+
+  amask: amask/1.0
+
+  arpack: arpack/3.9.1
+
+  autotools: autotools/1.4
+
+  biocontainers: biocontainers/0.1.0
+    Biocontainers accessible through module files
+
+  boost: boost/1.83.0, boost/1.84.0
+
+  cdo: cdo/2.3.0
+    a collection of command line Operators to manipulate and analyse Climate and NWP model Data.
+
+  charliecloud: charliecloud/0.36
+    Containerization Runtime
+
+  cmake: cmake/3.28.1
+    tool for generation of files from source
+
+  cp2k: cp2k/2024.1.1
+    quantum chemistry and solid state physics software package
+
+  cxxopts: cxxopts/3.1.1
+
+  ddt: ddt/23.0.1
+    Parallel, graphical, symbolic debugger
+
+  eigen: eigen/3.4.0
+    C++ template library for linear algebra
+
+  fftw3: fftw3/3.3.10
+    Numerical library, contains discrete Fourier transformation
+
+  gcc: gcc/13.2.0
+
+  gklib: gklib/git20240111
+
+  gromacs: gromacs/2023.3
+    molecular dynamics simulation package
+
+  gsl: gsl/2.7.1
+
+  hdf5: hdf5/1.14.0, hdf5/1.14.3
+
+  hypre: hypre/2.30.0-i64, hypre/2.30.0
+
+  idev: idev/2.0
+    Interactive Access to Compute Node(s) for Development via Batch System
+
+  idl: idl/8.4
+
+  impi: impi/21.9, impi/21.11
+    Intel(R) MPI Library
+
+  intel: intel/23.1, intel/24.0
+    Intel Compiler Family (C/C++/Fortran for x86_64)
+
+  itac: itac/21.9, itac/22.0
+    Intel Trace Analyzer and Collector
+
+  kokkos: kokkos/4.2.00-omp
+
+  lammps: lammps/21Nov23
+    Molecular Dynamics Chemistry Package
+
+  lmod: lmod
+    An environment module system
+
+  map: map/23.0.1
+    Parallel, graphical, profiler
+
+  mdspan: mdspan/git20240209
+
+  metis: metis/5.1.0.3
+
+  mkl: mkl/23.1, mkl/24.0
+    Intel Math Kernel Library
+
+  mpl: mpl/0.3.0
+
+  mvapich: mvapich/3.0
+    MPI-3.1 implementation
+
+  namd: namd/ONEAPI, namd/3.0b6
+    Scalable Molecular Dynamics software
+
+  nco: nco/5.2.1
+    Programs for manipulating and analyzing NetCDF files
+
+  ncview: ncview/2.1.9
+
+  netcdf: netcdf/4.9.2
+
+  netcdff: netcdff/4.6.1
+
+  nwchem: nwchem/7.2.2
+    NWChem aims to provide its users with computational chemistry tools that are scalable both in their ability to treat large scientific computational chemistry problems
+    efficiently, and in their use of available parallel computing resources from high-performance parallel supercomputers to conventional workstation clusters.
+
+  opensees: opensees/3.6.0
+    Software framework for developing applications to simulate the performance of structural and geotechnical systems subjected to earthquakes
+
+  p4est: p4est/2.8.5
+
+  papi: papi/7.1.0
+    Interface to monitor performance counter hardware for quantifying application behavior
+
+  parallel-netcdf: parallel-netcdf/4.9.2
+    I/O library which stores and retrieves data in self-describing, machine-independent datasets (Parallel Version).
+
+  parmetis: parmetis/4.0.3
+
+  parpack: parpack/3.9.1
+
+  pcre2: pcre2/git20240106
+
+  petsc: petsc/3.20-complex, petsc/3.20-complexdebug, petsc/3.20-complexf08debug, petsc/3.20-complexf08, petsc/3.20-complexi64debug, petsc/3.20-complexi64, ...
+
+  phdf5: phdf5/1.14.0, phdf5/1.14.3
+
+  pnetcdf: pnetcdf/4.9.2
+
+  pnetcdff: pnetcdff/4.6.1
+
+  python: python/3.9.18
+    scientific scripting package
+
+  python_cacher: python_cacher/1.2
+    Tool for optimal Python IO
+
+  qe: qe/7.3
+    Integrated suite of computer codes for electronic structure calculations and material modeling at the nanoscale.
+
+  remora: remora/2.0
+    REsource MOnitoring for Remote Applications
+
+  sanitytool: sanitytool/3.1
+
+  settarg: settarg
+    The settarg module provides a way to connect the loaded modules with your build system by setting environment variables. 
+
+  swig: swig/4.1.1
+
+  tacc-apptainer: tacc-apptainer/1.2.5
+    Application and environment virtualization
+
+  trilinos: trilinos/14.4.0, trilinos/15.0.0
+
+  udunits: udunits/2.2.28
+
+  vasp: vasp/5.4.4.pl2, vasp/6.4.2
+    Vienna Ab-Initio Simulation Package
+
+  vmd: vmd/1.9.3
+
+  vtune: vtune/23.1, vtune/24.0
+    Intel VTune Amplifier
+
+  xalt: xalt/3.0.1
+    Collects system usage data
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+To learn more about a package execute:
+
+   $ module spider Foo
+
+where "Foo" is the name of a module.
+
+To find detailed information about a particular package you
+must specify the version if there is more than one version:
+
+   $ module spider Foo/11.1
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
