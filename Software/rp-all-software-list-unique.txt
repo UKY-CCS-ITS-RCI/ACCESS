@@ -1876,8 +1876,6 @@ sz3
 szip
 t-coffee
 tabix
-tacc
-tacc-apptainer
 taichi
 talon
 tar
