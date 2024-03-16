@@ -1,5 +1,5 @@
-AMDuProf
-DefaultModules
+amduprof
+defaultmodules
 abaqus
 abinit
 accessusage

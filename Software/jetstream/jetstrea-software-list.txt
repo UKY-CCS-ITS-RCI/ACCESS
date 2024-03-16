@@ -1,7 +1,7 @@
 Matlab
 R
 R-Studio
-Intel Compiler (Intel OneAPI)
+Intel Compiler
 Singularity
 Apptainer
 HPC Toolkit
