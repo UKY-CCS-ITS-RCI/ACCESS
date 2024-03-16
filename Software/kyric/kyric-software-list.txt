@@ -1,4 +1,4 @@
-  EasyBuild
+  easybuild
   advisor
   autoconf
   autoconf-archive
@@ -54,8 +54,8 @@
   intel_ippcp_intel64
   itac
   json-c
-  kyric/Miniconda3
-  kyric/containers/R
+  kyric/miniconda3
+  kyric/containers/r
   kyric/spack
   libaio
   libbsd

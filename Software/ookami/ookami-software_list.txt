@@ -15,7 +15,7 @@ cmake
 cmd
 cmjob
 compiler
-CPE
+cpe
 cray
 cross
 cuda
@@ -32,7 +32,7 @@ forge
 freeipmi
 fribidi
 fujitsu
-Fujitsu
+fujitsu
 gcc
 gdb
 geos
@@ -45,7 +45,7 @@ gnuplot
 go
 gperf
 gperftools
-GPU
+gpu
 gromacs
 harfbuzz
 hpcx
@@ -102,7 +102,7 @@ octave
 oneapi
 openacc
 openblas
-OpenFOAM
+openfoam
 openldap
 openmpi
 openpmix
@@ -121,8 +121,8 @@ python
 pytorch
 qd
 quantum
-QuantumEspresso
-R
+quantumespresso
+r
 rclone
 readline
 rstudio
@@ -140,7 +140,7 @@ sve
 tau
 tbb
 template
-TEST
+test
 texlive
 toolkit
 tools

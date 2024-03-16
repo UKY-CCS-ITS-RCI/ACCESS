@@ -12,4 +12,5 @@ export MODULEPATH=/share/kyric/modulefiles:$MODULEPATH
 module --redirect spider > kyric_module_spider_output.txt
 
 # Extract the contents to our required format
-awk -F':' '{for(i=1; i<NF; i++) {sub(/-[0-9].*/, "", $i); if ($i !~ /:$/) print $i}}' kyric_module_spider_output.txt  |  awk 'NF==1' > kyric-software-list.txt
+awk -F':' '{for(i=1; i<NF; i++) {sub(/-[0-9].*/, "", $i); if ($i !~ /:$/) print tolower($i)}}' kyric_module_spider_output.txt | awk 'NF==1' > kyric-software-list.txt
+

@@ -1,0 +1,13 @@
+matlab
+r
+r-studio
+intel compiler
+singularity
+apptainer
+hpc toolkit
+cuda
+aocc compiler
+anaconda
+jupyter
+jupyterlab
+jupyterhub 
