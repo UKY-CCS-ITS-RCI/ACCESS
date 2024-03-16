@@ -10,5 +10,4 @@ Number of software in jetstream system :  13
 Number of software in kyric system :  133
 
 Total software across all RPs : 3379
-
 Total unique software across all RPs :  2058
