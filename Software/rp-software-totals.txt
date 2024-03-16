@@ -9,4 +9,5 @@ Number of software in ookami system :  154
 Number of software in jetstream system :  13
 Number of software in kyric system :  133
 Total software across all RPs : 3396
-Total unique software across all RPs : 2317
+
+Total unique software across all RPs :  2060
