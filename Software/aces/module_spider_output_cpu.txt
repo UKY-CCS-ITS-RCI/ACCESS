@@ -1,13 +1,13 @@
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The following is a list of the modules and extensions currently available:
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ACTC: ACTC/1.1
     ACTC converts independent triangles into triangle strips or fans.
 
   ANTLR: ANTLR/2.7.7-Java-11
-    ANTLR, ANother Tool for Language Recognition, (formerly PCCTS) is a language tool that provides a framework for constructing recognizers, compilers, and translators from
-    grammatical descriptions containing Java, C#, C++, or Python actions.
+    ANTLR, ANother Tool for Language Recognition, (formerly PCCTS) is a language tool that provides a framework for constructing recognizers, compilers, and translators
+    from grammatical descriptions containing Java, C#, C++, or Python actions.
 
   AOCC: AOCC/4.0.0
     AMD Optimized C/C++ & Fortran compilers (AOCC) based on LLVM 13.0
@@ -19,16 +19,16 @@ The following is a list of the modules and extensions currently available:
     Apache Portable Runtime (APR) util libraries.
 
   ASE: ASE/3.20.1, ASE/3.22.1
-    ASE is a python package providing an open source Atomic Simulation Environment in the Python scripting language. From version 3.20.1 we also include the ase-ext package, it
-    contains optional reimplementations in C of functions in ASE. ASE uses it automatically when installed.
+    ASE is a python package providing an open source Atomic Simulation Environment in the Python scripting language. From version 3.20.1 we also include the ase-ext
+    package, it contains optional reimplementations in C of functions in ASE. ASE uses it automatically when installed.
 
   ATK: ATK/2.36.0, ATK/2.38.0
-    ATK provides the set of accessibility interfaces that are implemented by other toolkits and applications. Using the ATK interfaces, accessibility tools have full access to
-    view and control running applications. 
+    ATK provides the set of accessibility interfaces that are implemented by other toolkits and applications. Using the ATK interfaces, accessibility tools have full access
+    to view and control running applications. 
 
   Abseil: Abseil/20230125.2, Abseil/20230125.3, Abseil/20230802.1
-    Abseil is an open-source collection of C++ library code designed to augment the C++ standard library. The Abseil library code is collected from Google's own C++ code base,
-    has been extensively tested and used in production, and is the same code we depend on in our daily coding lives.
+    Abseil is an open-source collection of C++ library code designed to augment the C++ standard library. The Abseil library code is collected from Google's own C++ code
+    base, has been extensively tested and used in production, and is the same code we depend on in our daily coding lives.
 
   AlphaFold: AlphaFold/2.3.2-CUDA-11.8.0
     AlphaFold can predict protein structures with atomic accuracy even where no similar structure is known
@@ -41,20 +41,20 @@ The following is a list of the modules and extensions currently available:
     molecular dynamics simulations, with either explicit water or generalized Born solvent models.
 
   Anaconda3: Anaconda3/2021.11, Anaconda3/2022.05, Anaconda3/2022.10, Anaconda3/2023.07-2
-    Built to complement the rich, open source Python community, the Anaconda platform provides an enterprise-ready data analytics platform that empowers companies to adopt a
-    modern open data science analytics architecture. 
+    Built to complement the rich, open source Python community, the Anaconda platform provides an enterprise-ready data analytics platform that empowers companies to adopt
+    a modern open data science analytics architecture. 
 
   Armadillo: Armadillo/11.4.3, Armadillo/12.6.2
-    Armadillo is an open-source C++ linear algebra library (matrix maths) aiming towards a good balance between speed and ease of use. Integer, floating point and complex numbers
-    are supported, as well as a subset of trigonometric and statistics functions.
+    Armadillo is an open-source C++ linear algebra library (matrix maths) aiming towards a good balance between speed and ease of use. Integer, floating point and complex
+    numbers are supported, as well as a subset of trigonometric and statistics functions.
 
   Arrow: Arrow/8.0.0, Arrow/11.0.0
     Apache Arrow (incl. PyArrow Python bindings), a cross-language development platform for in-memory data.
 
   Autoconf: Autoconf/2.69, Autoconf/2.71
-    Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages. These scripts can adapt the packages to
-    many kinds of UNIX-like systems without manual user intervention. Autoconf creates a configuration script for a package from a template file that lists the operating system
-    features that the package can use, in the form of M4 macro calls. 
+    Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages. These scripts can adapt the packages
+    to many kinds of UNIX-like systems without manual user intervention. Autoconf creates a configuration script for a package from a template file that lists the operating
+    system features that the package can use, in the form of M4 macro calls. 
 
   Automake: Automake/1.16.2, Automake/1.16.3, Automake/1.16.4, Automake/1.16.5
     Automake: GNU Standards-compliant Makefile generator
@@ -66,8 +66,8 @@ The following is a list of the modules and extensions currently available:
     BBMap short read aligner, and other bioinformatic tools.
 
   BLAST+: BLAST+/2.13.0
-    Basic Local Alignment Search Tool, or BLAST, is an algorithm for comparing primary biological sequence information, such as the amino-acid sequences of different proteins or
-    the nucleotides of DNA sequences.
+    Basic Local Alignment Search Tool, or BLAST, is an algorithm for comparing primary biological sequence information, such as the amino-acid sequences of different
+    proteins or the nucleotides of DNA sequences.
 
   BLIS: BLIS/0.8.1, BLIS/0.9.0
     BLIS is a portable software framework for instantiating high-performance BLAS-like dense linear algebra libraries.
@@ -85,20 +85,20 @@ The following is a list of the modules and extensions currently available:
     Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.
 
   BioPerl: BioPerl/1.7.8
-    Bioperl is the product of a community effort to produce Perl code which is useful in biology. Examples include Sequence objects, Alignment objects and database searching
-    objects.
+    Bioperl is the product of a community effort to produce Perl code which is useful in biology. Examples include Sequence objects, Alignment objects and database
+    searching objects.
 
   Biopython: Biopython/1.79, Biopython/1.81, Biopython/1.82
-    Biopython is a set of freely available tools for biological computation written in Python by an international team of developers. It is a distributed collaborative effort to
-    develop Python libraries and applications which address the needs of current and future work in bioinformatics. 
+    Biopython is a set of freely available tools for biological computation written in Python by an international team of developers. It is a distributed collaborative
+    effort to develop Python libraries and applications which address the needs of current and future work in bioinformatics. 
 
   Bison: Bison/3.3.2, Bison/3.7.1, Bison/3.7.6, Bison/3.8.2
-    Bison is a general-purpose parser generator that converts an annotated context-free grammar into a deterministic LR or generalized LR (GLR) parser employing LALR(1) parser
-    tables.
+    Bison is a general-purpose parser generator that converts an annotated context-free grammar into a deterministic LR or generalized LR (GLR) parser employing LALR(1)
+    parser tables.
 
   Blender: Blender/3.5.0-linux-x86_64-CUDA-11.7.0
-    Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing and motion
-    tracking, even video editing and game creation.
+    Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing and
+    motion tracking, even video editing and game creation.
 
   Blosc2: Blosc2/2.4.3
     Blosc, an extremely fast, multi-threaded, meta-compressor library
@@ -113,14 +113,14 @@ The following is a list of the modules and extensions currently available:
     Boost.Python is a C++ library which enables seamless interoperability between C++ and the Python programming language.
 
   Brotli: Brotli/1.0.9
-    Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding and 2nd order
-    context modeling, with a compression ratio comparable to the best currently available general-purpose compression methods. It is similar in speed with deflate but offers more
-    dense compression. The specification of the Brotli Compressed Data Format is defined in RFC 7932.
+    Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding and 2nd
+    order context modeling, with a compression ratio comparable to the best currently available general-purpose compression methods. It is similar in speed with deflate but
+    offers more dense compression. The specification of the Brotli Compressed Data Format is defined in RFC 7932.
 
   Brotli-python: Brotli-python/1.0.9
-    Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding and 2nd order
-    context modeling, with a compression ratio comparable to the best currently available general-purpose compression methods. It is similar in speed with deflate but offers more
-    dense compression. The specification of the Brotli Compressed Data Format is defined in RFC 7932.
+    Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding and 2nd
+    order context modeling, with a compression ratio comparable to the best currently available general-purpose compression methods. It is similar in speed with deflate but
+    offers more dense compression. The specification of the Brotli Compressed Data Format is defined in RFC 7932.
 
   Brunsli: Brunsli/0.1
     Brunsli is a lossless JPEG repacking library.
@@ -141,31 +141,31 @@ The following is a list of the modules and extensions currently available:
     The CGNS system is designed to facilitate the exchange of data between sites and applications, and to help stabilize the archiving of aerodynamic data.
 
   CLHEP: CLHEP/2.4.6.2
-    The CLHEP project is intended to be a set of HEP-specific foundation and utility classes such as random generators, physics vectors, geometry and linear algebra. CLHEP is
-    structured in a set of packages independent of any external package.
+    The CLHEP project is intended to be a set of HEP-specific foundation and utility classes such as random generators, physics vectors, geometry and linear algebra. CLHEP
+    is structured in a set of packages independent of any external package.
 
   CLIP: CLIP/20230220-CUDA-11.7.0
-    CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to predict the most
-    relevant text snippet, given an image, without directly optimizing for the task, similarly to the zero-shot capabilities of GPT-2 and 3.
+    CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to predict the
+    most relevant text snippet, given an image, without directly optimizing for the task, similarly to the zero-shot capabilities of GPT-2 and 3.
 
   CMake: CMake/3.18.4, CMake/3.20.1, CMake/3.21.1, CMake/3.22.1, CMake/3.23.1, CMake/3.24.3, CMake/3.26.3, CMake/3.27.6
     CMake, the cross-platform, open-source build system. CMake is a family of tools designed to build, test and package software. 
 
   CP2K: CP2K/9.1, CP2K/2022.1, CP2K/2023.1-CUDA-11.8.0, CP2K/2023.1-PLUMED-2.9.0, CP2K/2023.1
-    CP2K is a freely available (GPL) program, written in Fortran 95, to perform atomistic and molecular simulations of solid state, liquid, molecular and biological systems. It
-    provides a general framework for different methods such as e.g. density functional theory (DFT) using a mixed Gaussian and plane waves approach (GPW), and classical pair and
-    many-body potentials. 
+    CP2K is a freely available (GPL) program, written in Fortran 95, to perform atomistic and molecular simulations of solid state, liquid, molecular and biological
+    systems. It provides a general framework for different methods such as e.g. density functional theory (DFT) using a mixed Gaussian and plane waves approach (GPW), and
+    classical pair and many-body potentials. 
 
   CUDA: CUDA/11.1.1, CUDA/11.3.1, CUDA/11.4.1, CUDA/11.7.0, CUDA/11.8.0, CUDA/12.0.0, CUDA/12.1.0, CUDA/12.1.1, CUDA/12.2.0, CUDA/12.2.2, CUDA/12.3.0, CUDA/12.3.2
-    CUDA (formerly Compute Unified Device Architecture) is a parallel computing platform and programming model created by NVIDIA and implemented by the graphics processing units
-    (GPUs) that they produce. CUDA gives developers access to the virtual instruction set and memory of the parallel computational elements in CUDA GPUs.
+    CUDA (formerly Compute Unified Device Architecture) is a parallel computing platform and programming model created by NVIDIA and implemented by the graphics processing
+    units (GPUs) that they produce. CUDA gives developers access to the virtual instruction set and memory of the parallel computational elements in CUDA GPUs.
 
   CUDA-Samples: CUDA-Samples/12.1-CUDA-12.1.1
     Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 
   CUDAcore: CUDAcore/11.1.1
-    CUDA (formerly Compute Unified Device Architecture) is a parallel computing platform and programming model created by NVIDIA and implemented by the graphics processing units
-    (GPUs) that they produce. CUDA gives developers access to the virtual instruction set and memory of the parallel computational elements in CUDA GPUs.
+    CUDA (formerly Compute Unified Device Architecture) is a parallel computing platform and programming model created by NVIDIA and implemented by the graphics processing
+    units (GPUs) that they produce. CUDA gives developers access to the virtual instruction set and memory of the parallel computational elements in CUDA GPUs.
 
   CUnit: CUnit/2.1-3
     Automated testing framework for C.
@@ -177,8 +177,8 @@ The following is a list of the modules and extensions currently available:
     Catch2 is mainly a unit testing framework for C++, but it also provides basic micro-benchmarking features, and simple BDD macros. 
 
   Chameleon: Chameleon/1.2.0
-    Chameleon is a framework written in C which provides routines to solve dense general systems of linear equations, symmetric positive definite systems of linear equations and
-    linear least squares problems, using LU, Cholesky, QR and LQ factorizations.
+    Chameleon is a framework written in C which provides routines to solve dense general systems of linear equations, symmetric positive definite systems of linear
+    equations and linear least squares problems, using LU, Cholesky, QR and LQ factorizations.
 
   Check: Check/0.15.2
     Check is a unit testing framework for C. It features a simple interface for defining unit tests, putting little in the way of the developer. Tests are run in a separate
@@ -186,16 +186,16 @@ The following is a list of the modules and extensions currently available:
     Subunit, TAP, XML, and a generic logging format.
 
   ChimeraX: ChimeraX/1.3, ChimeraX/1.6.1, ChimeraX/1.7.1
-    UCSF ChimeraX (or simply ChimeraX) is the next-generation molecular visualization program from the Resource for Biocomputing, Visualization, and Informatics (RBVI), following
-    UCSF Chimera.
+    UCSF ChimeraX (or simply ChimeraX) is the next-generation molecular visualization program from the Resource for Biocomputing, Visualization, and Informatics (RBVI),
+    following UCSF Chimera.
 
   Clang: Clang/13.0.1, Clang/15.0.5, Clang/16.0.6
     C, C++, Objective-C compiler, based on LLVM. Does not include C++ standard library -- use libstdc++ from GCC.
 
   CliMetLab: CliMetLab/0.12.6
-    CliMetLab is a Python package aiming at simplifying access to climate and meteorological datasets, allowing users to focus on science instead of technical issues such as data
-    access and data formats. It is mostly intended to be used in Jupyter notebooks, and be interoperable with all popular data analytic packages, such as Numpy, Pandas, Xarray,
-    SciPy, Matplotlib, etc. as well as machine learning frameworks, such as Tensorflow, Keras or PyTorch.
+    CliMetLab is a Python package aiming at simplifying access to climate and meteorological datasets, allowing users to focus on science instead of technical issues such
+    as data access and data formats. It is mostly intended to be used in Jupyter notebooks, and be interoperable with all popular data analytic packages, such as Numpy,
+    Pandas, Xarray, SciPy, Matplotlib, etc. as well as machine learning frameworks, such as Tensorflow, Keras or PyTorch.
 
   ColabFold: ColabFold/1.5.2-CUDA-11.7.0
     Making protein folding accessible to all. Predict proteins structures both in google colab and on your machine.
@@ -204,25 +204,26 @@ The following is a list of the modules and extensions currently available:
     Schrodinger-developed 2D Coordinate Generation
 
   CryoSPARC: CryoSPARC/4.2.1
-    CryoSPARC combines powerful innovations in 3D reconstruction algorithms with specially designed software to provide a streamlined end-to-end single particle cryo-EM workflow.
+    CryoSPARC combines powerful innovations in 3D reconstruction algorithms with specially designed software to provide a streamlined end-to-end single particle cryo-EM
+    workflow.
 
   CuPy: CuPy/11.4.0-CUDA-11.4.1
     CuPy is an open-source array library accelerated with NVIDIA CUDA.
 
   CubeGUI: CubeGUI/4.8.2
     Cube, which is used as performance report explorer for Scalasca and Score-P, is a generic tool for displaying a multi-dimensional performance space consisting of the
-    dimensions (i) performance metric, (ii) call path, and (iii) system resource. Each dimension can be represented as a tree, where non-leaf nodes of the tree can be collapsed
-    or expanded to achieve the desired level of granularity. This module provides the Cube graphical report explorer. 
+    dimensions (i) performance metric, (ii) call path, and (iii) system resource. Each dimension can be represented as a tree, where non-leaf nodes of the tree can be
+    collapsed or expanded to achieve the desired level of granularity. This module provides the Cube graphical report explorer. 
 
   CubeLib: CubeLib/4.8.1, CubeLib/4.8.2
     Cube, which is used as performance report explorer for Scalasca and Score-P, is a generic tool for displaying a multi-dimensional performance space consisting of the
-    dimensions (i) performance metric, (ii) call path, and (iii) system resource. Each dimension can be represented as a tree, where non-leaf nodes of the tree can be collapsed
-    or expanded to achieve the desired level of granularity. This module provides the Cube general purpose C++ library component and command-line tools. 
+    dimensions (i) performance metric, (ii) call path, and (iii) system resource. Each dimension can be represented as a tree, where non-leaf nodes of the tree can be
+    collapsed or expanded to achieve the desired level of granularity. This module provides the Cube general purpose C++ library component and command-line tools. 
 
   CubeWriter: CubeWriter/4.8.2
     Cube, which is used as performance report explorer for Scalasca and Score-P, is a generic tool for displaying a multi-dimensional performance space consisting of the
-    dimensions (i) performance metric, (ii) call path, and (iii) system resource. Each dimension can be represented as a tree, where non-leaf nodes of the tree can be collapsed
-    or expanded to achieve the desired level of granularity. This module provides the Cube high-performance C writer library component. 
+    dimensions (i) performance metric, (ii) call path, and (iii) system resource. Each dimension can be represented as a tree, where non-leaf nodes of the tree can be
+    collapsed or expanded to achieve the desired level of granularity. This module provides the Cube high-performance C writer library component. 
 
   Cython: Cython/0.29.33, Cython/3.0.7
     Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). 
@@ -231,15 +232,17 @@ The following is a list of the modules and extensions currently available:
     Berkeley DB enables the development of custom data management solutions, without the overhead traditionally associated with such custom projects.
 
   DBCSR: DBCSR/2.5.0, DBCSR/2.6.0
-    DBCSR stands for Distributed Blocked Compressed Sparse Row. DBCSR is a library designed to efficiently perform sparse matrix-matrix multiplication, among other operations.
+    DBCSR stands for Distributed Blocked Compressed Sparse Row. DBCSR is a library designed to efficiently perform sparse matrix-matrix multiplication, among other
+    operations.
 
   DBus: DBus/1.13.18, DBus/1.14.0, DBus/1.15.2, DBus/1.15.4
-    D-Bus is a message bus system, a simple way for applications to talk to one another. In addition to interprocess communication, D-Bus helps coordinate process lifecycle; it
-    makes it simple and reliable to code a "single instance" application or daemon, and to launch applications and daemons on demand when their services are needed. 
+    D-Bus is a message bus system, a simple way for applications to talk to one another. In addition to interprocess communication, D-Bus helps coordinate process
+    lifecycle; it makes it simple and reliable to code a "single instance" application or daemon, and to launch applications and daemons on demand when their services are
+    needed. 
 
   DCMTK: DCMTK/3.6.7
-    DCMTK is a collection of libraries and applications implementing large parts the DICOM standard. It includes software for examining, constructing and converting DICOM image
-    files, handling offline media, sending and receiving images over a network connection, as well as demonstrative image storage and worklist servers.
+    DCMTK is a collection of libraries and applications implementing large parts the DICOM standard. It includes software for examining, constructing and converting DICOM
+    image files, handling offline media, sending and receiving images over a network connection, as well as demonstrative image storage and worklist servers.
 
   Dorado: Dorado/0.5.2-CUDA-11.8.0
     Dorado is a high-performance, easy-to-use, open source basecaller for Oxford Nanopore reads.
@@ -275,8 +278,8 @@ The following is a list of the modules and extensions currently available:
     Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 
   Emacs: Emacs/27.2, Emacs/28.2
-    GNU Emacs is an extensible, customizable text editor--and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to
-    support text editing.
+    GNU Emacs is an extensible, customizable text editor--and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions
+    to support text editing.
 
   FFTW: FFTW/3.3.8, FFTW/3.3.9, FFTW/3.3.10
     FFTW is a C subroutine library for computing the discrete Fourier transform (DFT) in one or more dimensions, of arbitrary input size, and of both real and complex data.
@@ -295,17 +298,17 @@ The following is a list of the modules and extensions currently available:
     graphics via OpenGL and its built-in GLUT emulation.
 
   FastQC: FastQC/0.11.9-Java-11
-    FastQC is a quality control application for high throughput sequence data. It reads in sequence data in a variety of formats and can either provide an interactive application
-    to review the results of several different QC checks, or create an HTML based report which can be integrated into a pipeline.
+    FastQC is a quality control application for high throughput sequence data. It reads in sequence data in a variety of formats and can either provide an interactive
+    application to review the results of several different QC checks, or create an HTML based report which can be integrated into a pipeline.
 
   Fiona: Fiona/1.8.21, Fiona/1.9.2, Fiona/1.9.5
-    Fiona is designed to be simple and dependable. It focuses on reading and writing data in standard Python IO style and relies upon familiar Python types and protocols such as
-    files, dictionaries, mappings, and iterators instead of classes specific to OGR. Fiona can read and write real-world data using multi-layered GIS formats and zipped virtual
-    file systems and integrates readily with other Python GIS packages such as pyproj, Rtree, and Shapely.
+    Fiona is designed to be simple and dependable. It focuses on reading and writing data in standard Python IO style and relies upon familiar Python types and protocols
+    such as files, dictionaries, mappings, and iterators instead of classes specific to OGR. Fiona can read and write real-world data using multi-layered GIS formats and
+    zipped virtual file systems and integrates readily with other Python GIS packages such as pyproj, Rtree, and Shapely.
 
   Firefox: Firefox/114.0b9, Firefox/118.0.2
-    Firefox is a free, open source Web browser for Windows, Linux and Mac OS X. It is based on the Mozilla code base and offers customization options and features such as its
-    capability to block pop-up windows, tabbed browsing, privacy and security measures, smart searching, and RSS live bookmarks.
+    Firefox is a free, open source Web browser for Windows, Linux and Mac OS X. It is based on the Mozilla code base and offers customization options and features such as
+    its capability to block pop-up windows, tabbed browsing, privacy and security measures, smart searching, and RSS live bookmarks.
 
   Flask: Flask/1.1.2, Flask/2.2.2
     Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. This
@@ -321,9 +324,9 @@ The following is a list of the modules and extensions currently available:
     The Free Implementation of the Unicode Bidirectional Algorithm. 
 
   GATK: GATK/4.4.0.0-Java-17
-    The Genome Analysis Toolkit or GATK is a software package developed at the Broad Institute to analyse next-generation resequencing data. The toolkit offers a wide variety of
-    tools, with a primary focus on variant discovery and genotyping as well as strong emphasis on data quality assurance. Its robust architecture, powerful processing engine and
-    high-performance computing features make it capable of taking on projects of any size.
+    The Genome Analysis Toolkit or GATK is a software package developed at the Broad Institute to analyse next-generation resequencing data. The toolkit offers a wide
+    variety of tools, with a primary focus on variant discovery and genotyping as well as strong emphasis on data quality assurance. Its robust architecture, powerful
+    processing engine and high-performance computing features make it capable of taking on projects of any size.
 
   GCC: GCC/8.3.0, GCC/10.2.0, GCC/10.3.0, GCC/11.2.0, GCC/11.3.0, GCC/12.2.0, GCC/12.3.0, GCC/13.1.0, GCC/13.2.0
     The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Java, and Ada, as well as libraries for these languages (libstdc++, libgcj,...).
@@ -336,8 +339,8 @@ The following is a list of the modules and extensions currently available:
 
   GDAL: GDAL/3.2.1, GDAL/3.3.0, GDAL/3.3.2, GDAL/3.5.0, GDAL/3.6.2, GDAL/3.7.1
     GDAL is a translator library for raster geospatial data formats that is released under an X/MIT style Open Source license by the Open Source Geospatial Foundation. As a
-    library, it presents a single abstract data model to the calling application for all supported formats. It also comes with a variety of useful commandline utilities for data
-    translation and processing.
+    library, it presents a single abstract data model to the calling application for all supported formats. It also comes with a variety of useful commandline utilities for
+    data translation and processing.
 
   GDB: GDB/13.2
     The GNU Project Debugger
@@ -361,8 +364,8 @@ The following is a list of the modules and extensions currently available:
     OpenGL Mathematics (GLM) is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.
 
   GLPK: GLPK/5.0
-    The GLPK (GNU Linear Programming Kit) package is intended for solving large-scale linear programming (LP), mixed integer programming (MIP), and other related problems. It is
-    a set of routines written in ANSI C and organized in the form of a callable library.
+    The GLPK (GNU Linear Programming Kit) package is intended for solving large-scale linear programming (LP), mixed integer programming (MIP), and other related problems.
+    It is a set of routines written in ANSI C and organized in the form of a callable library.
 
   GLib: GLib/2.66.1, GLib/2.68.2, GLib/2.69.1, GLib/2.72.1, GLib/2.75.0, GLib/2.77.1
     GLib is one of the base libraries of the GTK+ project
@@ -371,81 +374,82 @@ The following is a list of the modules and extensions currently available:
     GMP is a free library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating point numbers. 
 
   GObject-Introspection: GObject-Introspection/1.68.0, GObject-Introspection/1.72.0, GObject-Introspection/1.74.0, GObject-Introspection/1.76.1
-    GObject introspection is a middleware layer between C libraries (using GObject) and language bindings. The C library can be scanned at compile time and generate a metadata
-    file, in addition to the actual native C library. Then at runtime, language bindings can read this metadata and automatically provide bindings to call into the C library.
+    GObject introspection is a middleware layer between C libraries (using GObject) and language bindings. The C library can be scanned at compile time and generate a
+    metadata file, in addition to the actual native C library. Then at runtime, language bindings can read this metadata and automatically provide bindings to call into the
+    C library.
 
   GPflow: GPflow/2.9.0-CUDA-11.7.0-TensorFlow-2.11.0
     GPflow is a package for building Gaussian process models in python, using TensorFlow.
 
   GRASS: GRASS/8.2.0, GRASS/8.3.1
-    The Geographic Resources Analysis Support System - used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and
-    visualization
+    The Geographic Resources Analysis Support System - used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling,
+    and visualization
 
-  GROMACS: GROMACS/2021.5-CUDA-11.4.1-PLUMED-2.8.0, GROMACS/2023.1-CUDA-11.7.0, GROMACS/2023.1-CUDA-12.2.0, GROMACS/2023.3-CUDA-11.8.0, GROMACS/2023.3-CUDA-12.1.1-PLUMED-2.9.0, ...
-    GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the Newtonian equations of motion for systems with hundreds to millions of particles. This is a
-    GPU enabled build, containing both MPI and threadMPI builds for both single and double precision. It also contains the gmxapi extension for the single precision MPI build
-    next to PLUMED.
+  GROMACS: GROMACS/2021.5-CUDA-11.4.1-PLUMED-2.8.0, GROMACS/2023.1-CUDA-11.7.0, GROMACS/2023.1-CUDA-12.2.0, GROMACS/2023.3-CUDA-11.8.0, ...
+    GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the Newtonian equations of motion for systems with hundreds to millions of particles. This
+    is a GPU enabled build, containing both MPI and threadMPI builds for both single and double precision. It also contains the gmxapi extension for the single precision
+    MPI build next to PLUMED.
 
   GSL: GSL/2.6, GSL/2.7
     The GNU Scientific Library (GSL) is a numerical library for C and C++ programmers. The library provides a wide range of mathematical routines such as random number
     generators, special functions and least-squares fitting.
 
   GST-plugins-bad: GST-plugins-bad/1.20.2
-    GStreamer is a library for constructing graphs of media-handling components. The applications it supports range from simple Ogg/Vorbis playback, audio/video streaming to
-    complex audio (mixing) and video (non-linear editing) processing.
+    GStreamer is a library for constructing graphs of media-handling components. The applications it supports range from simple Ogg/Vorbis playback, audio/video streaming
+    to complex audio (mixing) and video (non-linear editing) processing.
 
   GST-plugins-base: GST-plugins-base/1.18.5, GST-plugins-base/1.20.2, GST-plugins-base/1.22.1
-    GStreamer is a library for constructing graphs of media-handling components. The applications it supports range from simple Ogg/Vorbis playback, audio/video streaming to
-    complex audio (mixing) and video (non-linear editing) processing.
+    GStreamer is a library for constructing graphs of media-handling components. The applications it supports range from simple Ogg/Vorbis playback, audio/video streaming
+    to complex audio (mixing) and video (non-linear editing) processing.
 
   GStreamer: GStreamer/1.18.5, GStreamer/1.20.2, GStreamer/1.22.1, GStreamer/1.22.5
-    GStreamer is a library for constructing graphs of media-handling components. The applications it supports range from simple Ogg/Vorbis playback, audio/video streaming to
-    complex audio (mixing) and video (non-linear editing) processing.
+    GStreamer is a library for constructing graphs of media-handling components. The applications it supports range from simple Ogg/Vorbis playback, audio/video streaming
+    to complex audio (mixing) and video (non-linear editing) processing.
 
   GTK2: GTK2/2.24.33
     The GTK+ 2 package contains libraries used for creating graphical user interfaces for applications. 
 
   GTK3: GTK3/3.24.31, GTK3/3.24.35, GTK3/3.24.37
-    GTK+ is the primary library used to construct user interfaces in GNOME. It provides all the user interface controls, or widgets, used in a common graphical application. Its
-    object-oriented API allows you to construct user interfaces without dealing with the low-level details of drawing and device interaction. 
+    GTK+ is the primary library used to construct user interfaces in GNOME. It provides all the user interface controls, or widgets, used in a common graphical application.
+    Its object-oriented API allows you to construct user interfaces without dealing with the low-level details of drawing and device interaction. 
 
   GTK4: GTK4/4.7.0
-    GTK+ is the primary library used to construct user interfaces in GNOME. It provides all the user interface controls, or widgets, used in a common graphical application. Its
-    object-oriented API allows you to construct user interfaces without dealing with the low-level details of drawing and device interaction. 
+    GTK+ is the primary library used to construct user interfaces in GNOME. It provides all the user interface controls, or widgets, used in a common graphical application.
+    Its object-oriented API allows you to construct user interfaces without dealing with the low-level details of drawing and device interaction. 
 
   GTS: GTS/0.7.6
-    GTS stands for the GNU Triangulated Surface Library. It is an Open Source Free Software Library intended to provide a set of useful functions to deal with 3D surfaces meshed
-    with interconnected triangles.
+    GTS stands for the GNU Triangulated Surface Library. It is an Open Source Free Software Library intended to provide a set of useful functions to deal with 3D surfaces
+    meshed with interconnected triangles.
 
   Gdk-Pixbuf: Gdk-Pixbuf/2.42.6, Gdk-Pixbuf/2.42.8, Gdk-Pixbuf/2.42.10
-    The Gdk Pixbuf is a toolkit for image loading and pixel buffer manipulation. It is used by GTK+ 2 and GTK+ 3 to load and manipulate images. In the past it was distributed as
-    part of GTK+ 2 but it was split off into a separate package in preparation for the change to GTK+ 3. 
+    The Gdk Pixbuf is a toolkit for image loading and pixel buffer manipulation. It is used by GTK+ 2 and GTK+ 3 to load and manipulate images. In the past it was
+    distributed as part of GTK+ 2 but it was split off into a separate package in preparation for the change to GTK+ 3. 
 
   GenerativeModels: GenerativeModels/0.2.1-CUDA-11.7.0
     
 
   Ghostscript: Ghostscript/9.54.0, Ghostscript/9.56.1, Ghostscript/10.0.0, Ghostscript/10.01.2
-    Ghostscript is a versatile processor for PostScript data with the ability to render PostScript to different targets. It used to be part of the cups printing stack, but is no
-    longer used for that.
+    Ghostscript is a versatile processor for PostScript data with the ability to render PostScript to different targets. It used to be part of the cups printing stack, but
+    is no longer used for that.
 
   GlobalArrays: GlobalArrays/5.8.2
     Global Arrays (GA) is a Partitioned Global Address Space (PGAS) programming model
 
   Globus-CLI: Globus-CLI/3.6.0
-    A Command Line Wrapper over the Globus SDK for Python, which provides an interface to Globus services from the shell, and is suited to both interactive and simple scripting
-    use cases.
+    A Command Line Wrapper over the Globus SDK for Python, which provides an interface to Globus services from the shell, and is suited to both interactive and simple
+    scripting use cases.
 
   GnuTLS: GnuTLS/3.7.3
-    GnuTLS is a secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them. It provides a simple C language application programming
-    interface (API) to access the secure communications protocols as well as APIs to parse and write X.509, PKCS #12, OpenPGP and other required structures. It is aimed to be
-    portable and efficient with focus on security and interoperability.
+    GnuTLS is a secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them. It provides a simple C language application
+    programming interface (API) to access the secure communications protocols as well as APIs to parse and write X.509, PKCS #12, OpenPGP and other required structures. It
+    is aimed to be portable and efficient with focus on security and interoperability.
 
   Go: Go/1.18.3
     Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 
   GraphBLAS: GraphBLAS/8.2.1
-    SuiteSparse:GraphBLAS is a complete implementation of the GraphBLAS standard, which defines a set of sparse matrix operations on an extended algebra of semirings using an
-    almost unlimited variety of operators and types. When applied to sparse adjacency matrices, these algebraic operations are equivalent to computations on graphs.
+    SuiteSparse:GraphBLAS is a complete implementation of the GraphBLAS standard, which defines a set of sparse matrix operations on an extended algebra of semirings using
+    an almost unlimited variety of operators and types. When applied to sparse adjacency matrices, these algebraic operations are equivalent to computations on graphs.
 
   Graphene: Graphene/1.10.8
     Graphene is a thin layer of types for graphic libraries
@@ -454,13 +458,14 @@ The following is a list of the modules and extensions currently available:
     GraphicsMagick is the swiss army knife of image processing.
 
   Graphviz: Graphviz/5.0.0
-    Graphviz is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks. It has
-    important applications in networking, bioinformatics, software engineering, database and web design, machine learning, and in visual interfaces for other technical domains.
+    Graphviz is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks.
+    It has important applications in networking, bioinformatics, software engineering, database and web design, machine learning, and in visual interfaces for other
+    technical domains.
 
   Greenlet: Greenlet/2.0.2
-    The greenlet package is a spin-off of Stackless, a version of CPython that supports micro-threads called "tasklets". Tasklets run pseudo-concurrently (typically in a single
-    or a few OS-level threads) and are synchronized with data exchanges on "channels". A "greenlet", on the other hand, is a still more primitive notion of micro-thread with no
-    implicit scheduling; coroutines, in other words. This is useful when you want to control exactly when your code runs. 
+    The greenlet package is a spin-off of Stackless, a version of CPython that supports micro-threads called "tasklets". Tasklets run pseudo-concurrently (typically in a
+    single or a few OS-level threads) and are synchronized with data exchanges on "channels". A "greenlet", on the other hand, is a still more primitive notion of
+    micro-thread with no implicit scheduling; coroutines, in other words. This is useful when you want to control exactly when your code runs. 
 
   Guile: Guile/3.0.7
     Guile is a programming language, designed to help programmers create flexible applications that can be extended by users or other programmers with plug-ins, modules, or
@@ -476,25 +481,25 @@ The following is a list of the modules and extensions currently available:
     HDF-EOS libraries are software libraries built on HDF libraries. It supports three data structures for remote sensing data: Grid, Point and Swath.
 
   HDF5: HDF5/1.10.7, HDF5/1.12.1, HDF5/1.12.2, HDF5/1.14.0, HDF5/1.14.2
-    HDF5 is a data model, library, and file format for storing and managing data. It supports an unlimited variety of datatypes, and is designed for flexible and efficient I/O
-    and for high volume and complex data.
+    HDF5 is a data model, library, and file format for storing and managing data. It supports an unlimited variety of datatypes, and is designed for flexible and efficient
+    I/O and for high volume and complex data.
 
   HH-suite: HH-suite/3.3.0
     The HH-suite is an open-source software package for sensitive protein sequence searching based on the pairwise alignment of hidden Markov models (HMMs).
 
   HISAT2: HISAT2/2.2.1
-    HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads (both DNA and RNA) against the general human population (as well as against a
-    single reference genome).
+    HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads (both DNA and RNA) against the general human population (as well as
+    against a single reference genome).
 
   HMMER: HMMER/3.3.2
-    HMMER is used for searching sequence databases for homologs of protein sequences, and for making protein sequence alignments. It implements methods using probabilistic models
-    called profile hidden Markov models (profile HMMs). Compared to BLAST, FASTA, and other sequence alignment and database search tools based on older scoring methodology, HMMER
-    aims to be significantly more accurate and more able to detect remote homologs because of the strength of its underlying mathematical models. In the past, this strength came
-    at significant computational expense, but in the new HMMER3 project, HMMER is now essentially as fast as BLAST.
+    HMMER is used for searching sequence databases for homologs of protein sequences, and for making protein sequence alignments. It implements methods using probabilistic
+    models called profile hidden Markov models (profile HMMs). Compared to BLAST, FASTA, and other sequence alignment and database search tools based on older scoring
+    methodology, HMMER aims to be significantly more accurate and more able to detect remote homologs because of the strength of its underlying mathematical models. In the
+    past, this strength came at significant computational expense, but in the new HMMER3 project, HMMER is now essentially as fast as BLAST.
 
   HPC-X: HPC-X/2.14
-    NVIDIA HPC-X is a comprehensive software package that includes Message Passing Interface (MPI), Symmetrical Hierarchical Memory (SHMEM) and Partitioned Global Address Space
-    (PGAS) communications libraries, and various acceleration packages.
+    NVIDIA HPC-X is a comprehensive software package that includes Message Passing Interface (MPI), Symmetrical Hierarchical Memory (SHMEM) and Partitioned Global Address
+    Space (PGAS) communications libraries, and various acceleration packages.
 
   HPRC_utils: HPRC_utils/1.0
     HPRC_utils is a collection of useful utilities to accompany software modules on the TAMU HPRC clusters.
@@ -528,9 +533,9 @@ The following is a list of the modules and extensions currently available:
     IML is a free library of C source code which implements algorithms for computing exact solutions to dense systems of linear equations over the integers.
 
   IPython: IPython/7.26.0, IPython/8.5.0, IPython/8.14.0
-    IPython provides a rich architecture for interactive computing with: Powerful interactive shells (terminal and Qt-based). A browser-based notebook with support for code,
-    text, mathematical expressions, inline plots and other rich media. Support for interactive data visualization and use of GUI toolkits. Flexible, embeddable interpreters to
-    load into your own projects. Easy to use, high performance tools for parallel computing.
+    IPython provides a rich architecture for interactive computing with: Powerful interactive shells (terminal and Qt-based). A browser-based notebook with support for
+    code, text, mathematical expressions, inline plots and other rich media. Support for interactive data visualization and use of GUI toolkits. Flexible, embeddable
+    interpreters to load into your own projects. Easy to use, high performance tools for parallel computing.
 
   ISA-L: ISA-L/2.30.0
     Intelligent Storage Acceleration Library
@@ -590,18 +595,18 @@ The following is a list of the modules and extensions currently available:
     LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGPL.
 
   LAMMPS: LAMMPS/2Aug2023_update2-CUDA-11.8.0-sm90, LAMMPS/2Aug2023_update2-intel-2023.07, LAMMPS/3Aug2023-intel-2023.07, LAMMPS/23Jun2022_update4-kokkos-CUDA-11.4.1, ...
-    LAMMPS is a classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. LAMMPS has potentials for solid-state materials
-    (metals, semiconductors) and soft matter (biomolecules, polymers) and coarse-grained or mesoscopic systems. It can be used to model atoms or, more generically, as a parallel
-    particle simulator at the atomic, meso, or continuum scale. LAMMPS runs on single processors or in parallel using message-passing techniques and a spatial-decomposition of
-    the simulation domain. The code is designed to be easy to modify or extend with new functionality. 
+    LAMMPS is a classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. LAMMPS has potentials for solid-state
+    materials (metals, semiconductors) and soft matter (biomolecules, polymers) and coarse-grained or mesoscopic systems. It can be used to model atoms or, more
+    generically, as a parallel particle simulator at the atomic, meso, or continuum scale. LAMMPS runs on single processors or in parallel using message-passing techniques
+    and a spatial-decomposition of the simulation domain. The code is designed to be easy to modify or extend with new functionality. 
 
   LASSO-Python: LASSO-Python/2.0.0
-    This python library is designed for general purpose usage in the field of Computer Aided Engineering (CAE). It's name originates from the original initiator and donator of
-    the project Lasso GmbH. The library is now maintained by an open-source community.
+    This python library is designed for general purpose usage in the field of Computer Aided Engineering (CAE). It's name originates from the original initiator and donator
+    of the project Lasso GmbH. The library is now maintained by an open-source community.
 
   LERC: LERC/4.0.0
-    LERC is an open-source image or raster format which supports rapid encoding and decoding for any pixel type (not just RGB or Byte). Users set the maximum compression error
-    per pixel while encoding, so the precision of the original input image is preserved (within user defined error bounds).
+    LERC is an open-source image or raster format which supports rapid encoding and decoding for any pixel type (not just RGB or Byte). Users set the maximum compression
+    error per pixel while encoding, so the precision of the original input image is preserved (within user defined error bounds).
 
   LLVM: LLVM/10.0.1, LLVM/11.1.0, LLVM/12.0.1, LLVM/13.0.1, LLVM/14.0.3, LLVM/14.0.6, LLVM/15.0.5, LLVM/16.0.6
     The LLVM Core libraries provide a modern source- and target-independent optimizer, along with code generation support for many popular CPUs (as well as some less common
@@ -609,8 +614,8 @@ The following is a list of the modules and extensions currently available:
     documented, and it is particularly easy to invent your own language (or port an existing compiler) to use LLVM as an optimizer and code generator.
 
   LMDB: LMDB/0.9.24, LMDB/0.9.28, LMDB/0.9.29
-    LMDB is a fast, memory-efficient database. With memory-mapped files, it has the read performance of a pure in-memory database while retaining the persistence of standard
-    disk-based databases.
+    LMDB is a fast, memory-efficient database. With memory-mapped files, it has the read performance of a pure in-memory database while retaining the persistence of
+    standard disk-based databases.
 
   Leptonica: Leptonica/1.83.0
     Leptonica is a collection of pedagogically-oriented open source software that is broadly useful for image processing and image analysis applications.
@@ -619,8 +624,8 @@ The following is a list of the modules and extensions currently available:
     LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 
   LibSoup: LibSoup/3.0.7
-    libsoup is an HTTP client/server library for GNOME. It uses GObjects and the glib main loop, to integrate well with GNOME applications, and also has a synchronous API, for
-    use in threaded applications.
+    libsoup is an HTTP client/server library for GNOME. It uses GObjects and the glib main loop, to integrate well with GNOME applications, and also has a synchronous API,
+    for use in threaded applications.
 
   LibTIFF: LibTIFF/4.1.0, LibTIFF/4.2.0, LibTIFF/4.3.0, LibTIFF/4.4.0, LibTIFF/4.5.0
     tiff: Library and tools for reading and writing TIFF data files
@@ -633,9 +638,9 @@ The following is a list of the modules and extensions currently available:
     Little CMS intends to be an OPEN SOURCE small-footprint color management engine, with special focus on accuracy and performance. 
 
   Lua: Lua/5.4.4
-    Lua is a powerful, fast, lightweight, embeddable scripting language. Lua combines simple procedural syntax with powerful data description constructs based on associative
-    arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode for a register-based virtual machine, and has automatic memory management with
-    incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
+    Lua is a powerful, fast, lightweight, embeddable scripting language. Lua combines simple procedural syntax with powerful data description constructs based on
+    associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode for a register-based virtual machine, and has automatic memory
+    management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
 
   M4: M4/1.4.18, M4/1.4.19
     GNU M4 is an implementation of the traditional Unix macro processor. It is mostly SVR4 compatible although it has some extensions (for example, handling more than 9
@@ -649,16 +654,16 @@ The following is a list of the modules and extensions currently available:
     implemented in METIS are based on the multilevel recursive-bisection, multilevel k-way, and multi-constraint partitioning schemes. 
 
   MFEM: MFEM/70941b4
-    MFEM is a modular parallel C++ library for finite element methods. MFEM can be viewed as a finite element toolbox that provides the building blocks for developing finite
-    element algorithms in a manner similar to that of MATLAB for linear algebra methods.
+    MFEM is a modular parallel C++ library for finite element methods. MFEM can be viewed as a finite element toolbox that provides the building blocks for developing
+    finite element algorithms in a manner similar to that of MATLAB for linear algebra methods.
 
   MONAI: MONAI/1.0.1
     MONAI is a PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem. 
 
   MPC: MPC/1.2.1, MPC/1.3.1
-    Gnu Mpc is a C library for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result. It extends the principles of the IEEE-754
-    standard for fixed precision real floating point numbers to complex numbers, providing well-defined semantics for every operation. At the same time, speed of operation at
-    high precision is a major design goal.
+    Gnu Mpc is a C library for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result. It extends the principles of the
+    IEEE-754 standard for fixed precision real floating point numbers to complex numbers, providing well-defined semantics for every operation. At the same time, speed of
+    operation at high precision is a major design goal.
 
   MPFR: MPFR/4.1.0, MPFR/4.2.0, MPFR/4.2.1
     The MPFR library is a C library for multiple-precision floating-point computations with correct rounding. 
@@ -677,15 +682,15 @@ The following is a list of the modules and extensions currently available:
     A super-fast templating language that borrows the best ideas from the existing templating languages
 
   Mamba: Mamba/23.1.0-4
-    Mamba is a fast, robust, and cross-platform package manager. It runs on Windows, OS X and Linux (ARM64 and PPC64LE included) and is fully compatible with conda packages and
-    supports most of conda's commands. 
+    Mamba is a fast, robust, and cross-platform package manager. It runs on Windows, OS X and Linux (ARM64 and PPC64LE included) and is fully compatible with conda packages
+    and supports most of conda's commands. 
 
   Matlab: Matlab/R2023a, Matlab/R2023b
     A numerical computing environment and fourth-generation programming language. - Homepage: http://www.mathworks.com/products/matlab/
 
   Maven: Maven/3.9.6
-    Binary maven install, Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's
-    build, reporting and documentation from a central piece of information. 
+    Binary maven install, Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a
+    project's build, reporting and documentation from a central piece of information. 
 
   MemoryViewer: MemoryViewer/1.0
     MemoryViewer software gives system administrators comprehensive insight into the physical memory topology as well as the application memory utilization.
@@ -719,7 +724,8 @@ The following is a list of the modules and extensions currently available:
     NASM: General-purpose x86 assembler
 
   NCCL: NCCL/2.8.3-CUDA-11.1.1, NCCL/2.10.3-CUDA-11.3.1, NCCL/2.10.3-CUDA-11.4.1, NCCL/2.12.12-CUDA-11.7.0, NCCL/2.12.12-CUDA-11.8.0, NCCL/2.16.2-CUDA-12.0.0, ...
-    The NVIDIA Collective Communications Library (NCCL) implements multi-GPU and multi-node collective communication primitives that are performance optimized for NVIDIA GPUs.
+    The NVIDIA Collective Communications Library (NCCL) implements multi-GPU and multi-node collective communication primitives that are performance optimized for NVIDIA
+    GPUs.
 
   NCL: NCL/6.6.2
     NCL is an interpreted language designed specifically for scientific data analysis and visualization.
@@ -728,8 +734,8 @@ The following is a list of the modules and extensions currently available:
     The NCO toolkit manipulates and analyzes data stored in netCDF-accessible formats, including DAP, HDF4, and HDF5.
 
   NLopt: NLopt/2.7.0, NLopt/2.7.1
-    NLopt is a free/open-source library for nonlinear optimization, providing a common interface for a number of different free optimization routines available online as well as
-    original implementations of various other algorithms. 
+    NLopt is a free/open-source library for nonlinear optimization, providing a common interface for a number of different free optimization routines available online as
+    well as original implementations of various other algorithms. 
 
   NSPR: NSPR/4.32, NSPR/4.34, NSPR/4.35
     Netscape Portable Runtime (NSPR) provides a platform-neutral API for system level and libc-like functions.
@@ -741,56 +747,57 @@ The following is a list of the modules and extensions currently available:
     C, C++ and Fortran compilers included with the NVIDIA HPC SDK (previously: PGI)
 
   NVSHMEM: NVSHMEM/2.8.0-CUDA-11.7.0
-    NVSHMEM is a parallel programming interface based on OpenSHMEM that provides efficient and scalable communication for NVIDIA GPU clusters. NVSHMEM creates a global address
-    space for data that spans the memory of multiple GPUs and can be accessed with fine-grained GPU-initiated operations, CPU-initiated operations, and operations on CUDA
-    streams. 
+    NVSHMEM is a parallel programming interface based on OpenSHMEM that provides efficient and scalable communication for NVIDIA GPU clusters. NVSHMEM creates a global
+    address space for data that spans the memory of multiple GPUs and can be accessed with fine-grained GPU-initiated operations, CPU-initiated operations, and operations
+    on CUDA streams. 
 
   NiBabel: NiBabel/4.0.2
-    NiBabel provides read/write access to some common medical and neuroimaging file formats, including: ANALYZE (plain, SPM99, SPM2 and later), GIFTI, NIfTI1, NIfTI2, MINC1,
-    MINC2, MGH and ECAT as well as Philips PAR/REC. We can read and write Freesurfer geometry, and read Freesurfer morphometry and annotation files. There is some very limited
-    support for DICOM. NiBabel is the successor of PyNIfTI.
+    NiBabel provides read/write access to some common medical and neuroimaging file formats, including: ANALYZE (plain, SPM99, SPM2 and later), GIFTI, NIfTI1, NIfTI2,
+    MINC1, MINC2, MGH and ECAT as well as Philips PAR/REC. We can read and write Freesurfer geometry, and read Freesurfer morphometry and annotation files. There is some
+    very limited support for DICOM. NiBabel is the successor of PyNIfTI.
 
   Ninja: Ninja/1.10.1, Ninja/1.10.2, Ninja/1.11.1
     Ninja is a small build system with a focus on speed.
 
   ONNX: ONNX/1.15.0
-    Open Neural Network Exchange (ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their project evolves. ONNX provides an open source format
-    for AI models, both deep learning and traditional ML. It defines an extensible computation graph model, as well as definitions of built-in operators and standard data types.
-    Currently we focus on the capabilities needed for inferencing (scoring).
+    Open Neural Network Exchange (ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their project evolves. ONNX provides an open source
+    format for AI models, both deep learning and traditional ML. It defines an extensible computation graph model, as well as definitions of built-in operators and standard
+    data types. Currently we focus on the capabilities needed for inferencing (scoring).
 
   ONNX-Runtime: ONNX-Runtime/1.16.3
-    ONNX Runtime inference can enable faster customer experiences and lower costs, supporting models from deep learning frameworks such as PyTorch and TensorFlow/Keras as well as
-    classical machine learning libraries such as scikit-learn, LightGBM, XGBoost, etc. ONNX Runtime is compatible with different hardware, drivers, and operating systems, and
-    provides optimal performance by leveraging hardware accelerators where applicable alongside graph optimizations and transforms.
+    ONNX Runtime inference can enable faster customer experiences and lower costs, supporting models from deep learning frameworks such as PyTorch and TensorFlow/Keras as
+    well as classical machine learning libraries such as scikit-learn, LightGBM, XGBoost, etc. ONNX Runtime is compatible with different hardware, drivers, and operating
+    systems, and provides optimal performance by leveraging hardware accelerators where applicable alongside graph optimizations and transforms.
 
   OPARI2: OPARI2/2.0.7
-    OPARI2, the successor of Forschungszentrum Juelich's OPARI, is a source-to-source instrumentation tool for OpenMP and hybrid codes. It surrounds OpenMP directives and runtime
-    library calls with calls to the POMP2 measurement interface. 
+    OPARI2, the successor of Forschungszentrum Juelich's OPARI, is a source-to-source instrumentation tool for OpenMP and hybrid codes. It surrounds OpenMP directives and
+    runtime library calls with calls to the POMP2 measurement interface. 
 
   OSU-Micro-Benchmarks: OSU-Micro-Benchmarks/7.1-1
     OSU Micro-Benchmarks
 
   OTF2: OTF2/3.0.3
-    The Open Trace Format 2 is a highly scalable, memory efficient event trace data format plus support library. It is the new standard trace format for Scalasca, Vampir, and TAU
-    and is open for other tools. 
+    The Open Trace Format 2 is a highly scalable, memory efficient event trace data format plus support library. It is the new standard trace format for Scalasca, Vampir,
+    and TAU and is open for other tools. 
 
   OpenBLAS: OpenBLAS/0.3.12, OpenBLAS/0.3.15, OpenBLAS/0.3.18, OpenBLAS/0.3.20, OpenBLAS/0.3.21, OpenBLAS/0.3.23, OpenBLAS/0.3.24
     OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 
   OpenBabel: OpenBabel/3.1.1
-    Open Babel is a chemical toolbox designed to speak the many languages of chemical data. It's an open, collaborative project allowing anyone to search, convert, analyze, or
-    store data from molecular modeling, chemistry, solid-state materials, biochemistry, or related areas.
+    Open Babel is a chemical toolbox designed to speak the many languages of chemical data. It's an open, collaborative project allowing anyone to search, convert, analyze,
+    or store data from molecular modeling, chemistry, solid-state materials, biochemistry, or related areas.
 
   OpenCV: OpenCV/4.6.0-contrib, OpenCV/4.6.0-CUDA-11.7.0-contrib
-    OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for
-    computer vision applications and to accelerate the use of machine perception in the commercial products. Includes extra modules for OpenCV from the contrib repository.
+    OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common
+    infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Includes extra modules for OpenCV from the
+    contrib repository.
 
   OpenEXR: OpenEXR/3.1.5, OpenEXR/3.1.7
     OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic for use in computer imaging applications
 
   OpenFOAM: OpenFOAM/v2206, OpenFOAM/10
-    OpenFOAM is a free, open source CFD software package. OpenFOAM has an extensive range of features to solve anything from complex fluid flows involving chemical reactions,
-    turbulence and heat transfer, to solid dynamics and electromagnetics.
+    OpenFOAM is a free, open source CFD software package. OpenFOAM has an extensive range of features to solve anything from complex fluid flows involving chemical
+    reactions, turbulence and heat transfer, to solid dynamics and electromagnetics.
 
   OpenFold: OpenFold/1.0.1-CUDA-11.3.1
     A faithful PyTorch reproduction of DeepMind's AlphaFold 2
@@ -799,8 +806,8 @@ The following is a list of the modules and extensions currently available:
     OpenImageIO is a library for reading and writing images, and a bunch of related classes, utilities, and applications.
 
   OpenJPEG: OpenJPEG/2.4.0, OpenJPEG/2.5.0
-    OpenJPEG is an open-source JPEG 2000 codec written in C language. It has been developed in order to promote the use of JPEG 2000, a still-image compression standard from the
-    Joint Photographic Experts Group (JPEG). Since may 2015, it is officially recognized by ISO/IEC and ITU-T as a JPEG 2000 Reference Software.
+    OpenJPEG is an open-source JPEG 2000 codec written in C language. It has been developed in order to promote the use of JPEG 2000, a still-image compression standard
+    from the Joint Photographic Experts Group (JPEG). Since may 2015, it is officially recognized by ISO/IEC and ITU-T as a JPEG 2000 Reference Software.
 
   OpenMM: OpenMM/7.5.1-DeepMind-patch, OpenMM/7.7.0, OpenMM/8.0.0-CUDA-11.7.0, OpenMM/8.0.0-CUDA-11.8.0, OpenMM/8.0.0
     OpenMM is a toolkit for molecular simulation.
@@ -810,8 +817,8 @@ The following is a list of the modules and extensions currently available:
 
   OpenPGM: OpenPGM/5.2.122
     OpenPGM is an open source implementation of the Pragmatic General Multicast (PGM) specification in RFC 3208 available at www.ietf.org. PGM is a reliable and scalable
-    multicast protocol that enables receivers to detect loss, request retransmission of lost data, or notify an application of unrecoverable loss. PGM is a receiver-reliable
-    protocol, which means the receiver is responsible for ensuring all data is received, absolving the sender of reception responsibility. 
+    multicast protocol that enables receivers to detect loss, request retransmission of lost data, or notify an application of unrecoverable loss. PGM is a
+    receiver-reliable protocol, which means the receiver is responsible for ensuring all data is received, absolving the sender of reception responsibility. 
 
   OpenSSL: OpenSSL/1.1, OpenSSL/1.1.1q, OpenSSL/3.1.5
     The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured, and Open Source toolchain implementing the Secure Sockets Layer (SSL
@@ -819,16 +826,16 @@ The following is a list of the modules and extensions currently available:
 
   OpenSceneGraph: OpenSceneGraph/3.6.5
     The OpenSceneGraph is an open source high performance 3D graphics toolkit, used by application developers in fields such as visual simulation, games, virtual reality,
-    scientific visualization and modelling. Written entirely in Standard C++ and OpenGL it runs on all Windows platforms, OSX, GNU/Linux, IRIX, Solaris, HP-Ux, AIX and FreeBSD
-    operating systems. The OpenSceneGraph is now well established as the world leading scene graph technology, used widely in the vis-sim, space, scientific, oil-gas, games and
-    virtual reality industries.
+    scientific visualization and modelling. Written entirely in Standard C++ and OpenGL it runs on all Windows platforms, OSX, GNU/Linux, IRIX, Solaris, HP-Ux, AIX and
+    FreeBSD operating systems. The OpenSceneGraph is now well established as the world leading scene graph technology, used widely in the vis-sim, space, scientific,
+    oil-gas, games and virtual reality industries.
 
   OpenSubdiv: OpenSubdiv/3.6.0
     OpenSubdiv is a set of open source libraries that implement high performance subdivision surface (subdiv) evaluation on massively parallel CPU and GPU architectures.
 
   Optuna: Optuna/3.1.0
-    Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user API.
-    Thanks to our define-by-run API, the code written with Optuna enjoys high modularity, and the user of Optuna can dynamically construct the search spaces for the
+    Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user
+    API. Thanks to our define-by-run API, the code written with Optuna enjoys high modularity, and the user of Optuna can dynamically construct the search spaces for the
     hyperparameters.
 
   PAPI: PAPI/7.0.1
@@ -847,55 +854,55 @@ The following is a list of the modules and extensions currently available:
 
   PDT: PDT/3.25.1
     Program Database Toolkit (PDT) is a framework for analyzing source code written in several programming languages and for making rich program knowledge accessible to
-    developers of static and dynamic analysis tools. PDT implements a standard program representation, the program database (PDB), that can be accessed in a uniform way through a
-    class library supporting common PDB operations. 
+    developers of static and dynamic analysis tools. PDT implements a standard program representation, the program database (PDB), that can be accessed in a uniform way
+    through a class library supporting common PDB operations. 
 
   PETSc: PETSc/3.17.4, PETSc/3.19.2, PETSc/3.19.2-64bit, PETSc/20231020-CUDA-11.8.0, PETSc/20231023-CUDA-11.8.0, PETSc/20231110-CUDA-11.8.0
-    PETSc, pronounced PET-see (the S is silent), is a suite of data structures and routines for the scalable (parallel) solution of scientific applications modeled by partial
-    differential equations.
+    PETSc, pronounced PET-see (the S is silent), is a suite of data structures and routines for the scalable (parallel) solution of scientific applications modeled by
+    partial differential equations.
 
   PLUMED: PLUMED/2.7.2, PLUMED/2.7.3, PLUMED/2.8.0, PLUMED/2.8.1, PLUMED/2.9.0
-    PLUMED is an open source library for free energy calculations in molecular systems which works together with some of the most popular molecular dynamics engines. Free energy
-    calculations can be performed as a function of many order parameters with a particular focus on biological problems, using state of the art methods such as metadynamics,
-    umbrella sampling and Jarzynski-equation based steered MD. The software, written in C++, can be easily interfaced with both fortran and C/C++ codes. 
+    PLUMED is an open source library for free energy calculations in molecular systems which works together with some of the most popular molecular dynamics engines. Free
+    energy calculations can be performed as a function of many order parameters with a particular focus on biological problems, using state of the art methods such as
+    metadynamics, umbrella sampling and Jarzynski-equation based steered MD. The software, written in C++, can be easily interfaced with both fortran and C/C++ codes. 
 
   PMIx: PMIx/3.1.5, PMIx/3.2.3, PMIx/4.1.0, PMIx/4.1.2, PMIx/4.2.2, PMIx/4.2.4, PMIx/4.2.5, PMIx/4.2.6, PMIx/5.0.1
-    Process Management for Exascale Environments PMI Exascale (PMIx) represents an attempt to provide an extended version of the PMI standard specifically designed to support
-    clusters up to and including exascale sizes. The overall objective of the project is not to branch the existing pseudo-standard definitions - in fact, PMIx fully supports
-    both of the existing PMI-1 and PMI-2 APIs - but rather to (a) augment and extend those APIs to eliminate some current restrictions that impact scalability, and (b) provide a
-    reference implementation of the PMI-server that demonstrates the desired level of scalability. 
+    Process Management for Exascale Environments PMI Exascale (PMIx) represents an attempt to provide an extended version of the PMI standard specifically designed to
+    support clusters up to and including exascale sizes. The overall objective of the project is not to branch the existing pseudo-standard definitions - in fact, PMIx
+    fully supports both of the existing PMI-1 and PMI-2 APIs - but rather to (a) augment and extend those APIs to eliminate some current restrictions that impact
+    scalability, and (b) provide a reference implementation of the PMI-server that demonstrates the desired level of scalability. 
 
   POV-Ray: POV-Ray/3.7.0.10
     The Persistence of Vision Raytracer, or POV-Ray, is a ray tracing program which generates images from a text-based scene description, and is available for a variety of
-    computer platforms. POV-Ray is a high-quality, Free Software tool for creating stunning three-dimensional graphics. The source code is available for those wanting to do their
-    own ports.
+    computer platforms. POV-Ray is a high-quality, Free Software tool for creating stunning three-dimensional graphics. The source code is available for those wanting to do
+    their own ports.
 
   PROJ: PROJ/7.2.1, PROJ/8.0.1, PROJ/8.1.0, PROJ/9.0.0, PROJ/9.1.1, PROJ/9.2.0
     Program proj is a standard Unix filter function which converts geographic longitude and latitude coordinates into cartesian coordinates
 
   PRRTE: PRRTE/3.0.2
-    The PMIx Reference Runtime Environment is a reference run-time environment that utilizes the PMIx API. It mainly provides run-time environment infrastructure for environments
-    that do not natively have them. In practical terms, this typically means providing infrastructure for non-scheduled environments that have no concept of distributed
-    scheduling, file staging, remote stdout/stderr redirection, and only have ssh to execute commands on remote nodes.
+    The PMIx Reference Runtime Environment is a reference run-time environment that utilizes the PMIx API. It mainly provides run-time environment infrastructure for
+    environments that do not natively have them. In practical terms, this typically means providing infrastructure for non-scheduled environments that have no concept of
+    distributed scheduling, file staging, remote stdout/stderr redirection, and only have ssh to execute commands on remote nodes.
 
   PYTHIA: PYTHIA/8.309
-    PYTHIA is a program for the generation of high-energy physics collision events, i.e. for the description of collisions at high energies between electrons, protons, photons
-    and heavy nuclei. It contains theory and models for a number of physics aspects, including hard and soft interactions, parton distributions, initial- and final-state parton
-    showers, multiparton interactions, fragmentation and decay. It is largely based on original research, but also borrows many formulae and other knowledge from the literature.
-    As such it is categorized as a general purpose Monte Carlo event generator.
+    PYTHIA is a program for the generation of high-energy physics collision events, i.e. for the description of collisions at high energies between electrons, protons,
+    photons and heavy nuclei. It contains theory and models for a number of physics aspects, including hard and soft interactions, parton distributions, initial- and
+    final-state parton showers, multiparton interactions, fragmentation and decay. It is largely based on original research, but also borrows many formulae and other
+    knowledge from the literature. As such it is categorized as a general purpose Monte Carlo event generator.
 
   PadicoTM: PadicoTM/20220531
     PM2 is an umbrella software suite for high-performance runtime systems. Modules may be installed and used together or separately.
 
   Pango: Pango/1.48.5, Pango/1.48.8, Pango/1.50.7, Pango/1.50.12, Pango/1.50.14
-    Pango is a library for laying out and rendering of text, with an emphasis on internationalization. Pango can be used anywhere that text layout is needed, though most of the
-    work on Pango so far has been done in the context of the GTK+ widget toolkit. Pango forms the core of text and font handling for GTK+-2.x.
+    Pango is a library for laying out and rendering of text, with an emphasis on internationalization. Pango can be used anywhere that text layout is needed, though most of
+    the work on Pango so far has been done in the context of the GTK+ widget toolkit. Pango forms the core of text and font handling for GTK+-2.x.
 
   ParMETIS: ParMETIS/4.0.3
-    ParMETIS is an MPI-based parallel library that implements a variety of algorithms for partitioning unstructured graphs, meshes, and for computing fill-reducing orderings of
-    sparse matrices. ParMETIS extends the functionality provided by METIS and includes routines that are especially suited for parallel AMR computations and large scale numerical
-    simulations. The algorithms implemented in ParMETIS are based on the parallel multilevel k-way graph-partitioning, adaptive repartitioning, and parallel multi-constrained
-    partitioning schemes.
+    ParMETIS is an MPI-based parallel library that implements a variety of algorithms for partitioning unstructured graphs, meshes, and for computing fill-reducing
+    orderings of sparse matrices. ParMETIS extends the functionality provided by METIS and includes routines that are especially suited for parallel AMR computations and
+    large scale numerical simulations. The algorithms implemented in ParMETIS are based on the parallel multilevel k-way graph-partitioning, adaptive repartitioning, and
+    parallel multi-constrained partitioning schemes.
 
   ParaFold: ParaFold/2.0-CUDA-11.8.0
     This project is a modified version of DeepMind's AlphaFold2 to achieve high-throughput protein structure prediction.
@@ -906,7 +913,7 @@ The following is a list of the modules and extensions currently available:
   Parabricks: Parabricks/4.1.1
     Clara Parabricks is a GPU-accelerated software suite for performing secondary analysis of next generation sequencing DNA and RNA data.
 
-  Perl: Perl/5.32.0-minimal, Perl/5.32.0, Perl/5.32.1-minimal, Perl/5.32.1, Perl/5.34.0-minimal, Perl/5.34.0, Perl/5.34.1-minimal, Perl/5.34.1, Perl/5.36.0-minimal, Perl/5.36.0, ...
+  Perl: Perl/5.32.0-minimal, Perl/5.32.0, Perl/5.32.1-minimal, Perl/5.32.1, Perl/5.34.0-minimal, Perl/5.34.0, Perl/5.34.1-minimal, Perl/5.34.1, Perl/5.36.0-minimal, ...
     Larry Wall's Practical Extraction and Report Language This is a minimal build without any modules. Should only be used for build dependencies. 
 
   Perl-bundle-CPAN: Perl-bundle-CPAN/5.36.1
@@ -928,10 +935,10 @@ The following is a list of the modules and extensions currently available:
     Parallel netCDF: A Parallel I/O Library for NetCDF File Access
 
   PostgreSQL: PostgreSQL/13.4, PostgreSQL/15.2
-    PostgreSQL is a powerful, open source object-relational database system. It is fully ACID compliant, has full support for foreign keys, joins, views, triggers, and stored
-    procedures (in multiple languages). It includes most SQL:2008 data types, including INTEGER, NUMERIC, BOOLEAN, CHAR, VARCHAR, DATE, INTERVAL, and TIMESTAMP. It also supports
-    storage of binary large objects, including pictures, sounds, or video. It has native programming interfaces for C/C++, Java, .Net, Perl, Python, Ruby, Tcl, ODBC, among
-    others, and exceptional documentation.
+    PostgreSQL is a powerful, open source object-relational database system. It is fully ACID compliant, has full support for foreign keys, joins, views, triggers, and
+    stored procedures (in multiple languages). It includes most SQL:2008 data types, including INTEGER, NUMERIC, BOOLEAN, CHAR, VARCHAR, DATE, INTERVAL, and TIMESTAMP. It
+    also supports storage of binary large objects, including pictures, sounds, or video. It has native programming interfaces for C/C++, Java, .Net, Perl, Python, Ruby,
+    Tcl, ODBC, among others, and exceptional documentation.
 
   Ptex: Ptex/2.4.2
     Ptex is a texture mapping system developed by Walt Disney Animation Studios for production-quality rendering.
@@ -949,9 +956,9 @@ The following is a list of the modules and extensions currently available:
     Python bindings for the cairo library
 
   PyFR: PyFR/1.15.0-Python-3.11.5-CUDA-11.8.0
-    PyFR is an open-source Python based framework for solving advection-diffusion type problems on streaming architectures using the Flux Reconstruction approach of Huynh. The
-    framework is designed to solve a range of governing systems on mixed unstructured grids containing various element types. It is also designed to target a range of hardware
-    platforms via use of an in-built domain specific language derived from the Mako templating engine.
+    PyFR is an open-source Python based framework for solving advection-diffusion type problems on streaming architectures using the Flux Reconstruction approach of Huynh.
+    The framework is designed to solve a range of governing systems on mixed unstructured grids containing various element types. It is also designed to target a range of
+    hardware platforms via use of an in-built domain specific language derived from the Mako templating engine.
 
   PyGObject: PyGObject/3.42.1
     PyGObject is a Python package which provides bindings for GObject based libraries such as GTK, GStreamer, WebKitGTK, GLib, GIO and many more.
@@ -984,7 +991,7 @@ The following is a list of the modules and extensions currently available:
   Pysam: Pysam/0.19.1, Pysam/0.20.0
     Pysam is a python module for reading and manipulating Samfiles. It's a lightweight wrapper of the samtools C-API. Pysam also includes an interface for tabix.
 
-  Python: Python/2.7.18-bare, Python/2.7.18, Python/3.8.6, Python/3.9.5-bare, Python/3.9.5, Python/3.9.6-bare, Python/3.9.6, Python/3.10.4-bare, Python/3.10.4, Python/3.10.8-bare, ...
+  Python: Python/2.7.18-bare, Python/2.7.18, Python/3.8.6, Python/3.9.5-bare, Python/3.9.5, Python/3.9.6-bare, Python/3.9.6, Python/3.10.4-bare, Python/3.10.4, ...
     Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 
   Python-bundle-PyPI: Python-bundle-PyPI/2023.06
@@ -992,9 +999,9 @@ The following is a list of the modules and extensions currently available:
 
   QCA: QCA/2.3.5
     Taking a hint from the similarly-named Java Cryptography Architecture, QCA aims to provide a straightforward and cross-platform crypto API, using Qt datatypes and
-    conventions. QCA separates the API from the implementation, using plugins known as Providers. The advantage of this model is to allow applications to avoid linking to or
-    explicitly depending on any particular cryptographic library. This allows one to easily change or upgrade crypto implementations without even needing to recompile the
-    application! QCA should work everywhere Qt does, including Windows/Unix/MacOSX.
+    conventions. QCA separates the API from the implementation, using plugins known as Providers. The advantage of this model is to allow applications to avoid linking to
+    or explicitly depending on any particular cryptographic library. This allows one to easily change or upgrade crypto implementations without even needing to recompile
+    the application! QCA should work everywhere Qt does, including Windows/Unix/MacOSX.
 
   QGIS: QGIS/3.28.1
     QGIS is a user friendly Open Source Geographic Information System (GIS)
@@ -1009,8 +1016,8 @@ The following is a list of the modules and extensions currently available:
     QScintilla is a port to Qt of Neil Hodgson's Scintilla C++ editor control
 
   Qhull: Qhull/2020.2
-    Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, furthest-site Delaunay triangulation, and furthest-site Voronoi
-    diagram. The source code runs in 2-d, 3-d, 4-d, and higher dimensions. Qhull implements the Quickhull algorithm for computing the convex hull. 
+    Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, furthest-site Delaunay triangulation, and furthest-site
+    Voronoi diagram. The source code runs in 2-d, 3-d, 4-d, and higher dimensions. Qhull implements the Quickhull algorithm for computing the convex hull. 
 
   Qt5: Qt5/5.15.2, Qt5/5.15.5, Qt5/5.15.7, Qt5/5.15.10
     Qt is a comprehensive cross-platform C++ application framework.
@@ -1022,8 +1029,8 @@ The following is a list of the modules and extensions currently available:
     Platform-independent Qt API for storing passwords securely.
 
   QuantumESPRESSO: QuantumESPRESSO/7.1, QuantumESPRESSO/7.2
-    Quantum ESPRESSO is an integrated suite of computer codes for electronic-structure calculations and materials modeling at the nanoscale. It is based on density-functional
-    theory, plane waves, and pseudopotentials (both norm-conserving and ultrasoft). 
+    Quantum ESPRESSO is an integrated suite of computer codes for electronic-structure calculations and materials modeling at the nanoscale. It is based on
+    density-functional theory, plane waves, and pseudopotentials (both norm-conserving and ultrasoft). 
 
   Qwt: Qwt/6.2.0
     The Qwt library contains GUI Components and utility classes which are primarily useful for programs with a technical background.
@@ -1058,9 +1065,9 @@ The following is a list of the modules and extensions currently available:
     ReFrame is a framework for writing regression tests for HPC systems.
 
   Redis: Redis/7.0.8
-    Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. Redis provides data structures such as strings, hashes,
-    lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams. Redis has built-in replication, Lua scripting, LRU eviction,
-    transactions, and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
+    Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. Redis provides data structures such as strings,
+    hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams. Redis has built-in replication, Lua scripting, LRU
+    eviction, transactions, and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
 
   Ruby: Ruby/3.0.1, Ruby/3.0.3
     Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
@@ -1069,7 +1076,8 @@ The following is a list of the modules and extensions currently available:
     Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
 
   SAMtools: SAMtools/1.14, SAMtools/1.16.1, SAMtools/1.17
-    SAM Tools provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position format.
+    SAM Tools provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position
+    format.
 
   SCOTCH: SCOTCH/6.1.2, SCOTCH/7.0.1, SCOTCH/7.0.3
     Software package and libraries for sequential and parallel graph partitioning, static mapping, and sparse matrix block ordering, and sequential mesh and hypergraph
@@ -1087,14 +1095,14 @@ The following is a list of the modules and extensions currently available:
 
   SIONlib: SIONlib/1.7.7-tools, SIONlib/1.7.7
     SIONlib is a scalable I/O library for parallel access to task-local files. The library not only supports writing and reading binary data to or from several thousands of
-    processors into a single or a small number of physical files, but also provides global open and close functions to access SIONlib files in parallel. This package provides a
-    stripped-down installation of SIONlib for use with performance tools (e.g., Score-P), with renamed symbols to avoid conflicts when an application using SIONlib itself is
-    linked against a tool requiring a different SIONlib version. 
+    processors into a single or a small number of physical files, but also provides global open and close functions to access SIONlib files in parallel. This package
+    provides a stripped-down installation of SIONlib for use with performance tools (e.g., Score-P), with renamed symbols to avoid conflicts when an application using
+    SIONlib itself is linked against a tool requiring a different SIONlib version. 
 
   SLEPc: SLEPc/3.17.2
-    SLEPc (Scalable Library for Eigenvalue Problem Computations) is a software library for the solution of large scale sparse eigenvalue problems on parallel computers. It is an
-    extension of PETSc and can be used for either standard or generalized eigenproblems, with real or complex arithmetic. It can also be used for computing a partial SVD of a
-    large, sparse, rectangular matrix, and to solve quadratic eigenvalue problems.
+    SLEPc (Scalable Library for Eigenvalue Problem Computations) is a software library for the solution of large scale sparse eigenvalue problems on parallel computers. It
+    is an extension of PETSc and can be used for either standard or generalized eigenproblems, with real or complex arithmetic. It can also be used for computing a partial
+    SVD of a large, sparse, rectangular matrix, and to solve quadratic eigenvalue problems.
 
   SPAdes: SPAdes/3.15.5
     Genome assembler for single-cell and isolates data sets
@@ -1103,7 +1111,8 @@ The following is a list of the modules and extensions currently available:
     SQLite: SQL Database Engine in a C Library
 
   SRA-Toolkit: SRA-Toolkit/3.0.3
-    The SRA Toolkit, and the source-code SRA System Development Kit (SDK), will allow you to programmatically access data housed within SRA and convert it from the SRA format
+    The SRA Toolkit, and the source-code SRA System Development Kit (SDK), will allow you to programmatically access data housed within SRA and convert it from the SRA
+    format
 
   STAR: STAR/2.7.2b
     STAR aligns RNA-seq reads to a reference genome using uncompressed suffix arrays.
@@ -1137,8 +1146,8 @@ The following is a list of the modules and extensions currently available:
     The serf library is a high performance C-based HTTP client library built upon the Apache Portable Runtime (APR) library
 
   Shapely: Shapely/1.8.2, Shapely/2.0.1
-    Shapely is a BSD-licensed Python package for manipulation and analysis of planar geometric objects. It is based on the widely deployed GEOS (the engine of PostGIS) and JTS
-    (from which GEOS is ported) libraries.
+    Shapely is a BSD-licensed Python package for manipulation and analysis of planar geometric objects. It is based on the widely deployed GEOS (the engine of PostGIS) and
+    JTS (from which GEOS is ported) libraries.
 
   StarPU: StarPU/1.3.11
     PM2 is an umbrella software suite for high-performance runtime systems. Modules may be installed and used together or separately.
@@ -1156,22 +1165,22 @@ The following is a list of the modules and extensions currently available:
     Szip compression software, providing lossless compression of scientific data 
 
   Tcl: Tcl/8.6.10, Tcl/8.6.11, Tcl/8.6.12, Tcl/8.6.13
-    Tcl (Tool Command Language) is a very powerful but easy to learn dynamic programming language, suitable for a very wide range of uses, including web and desktop applications,
-    networking, administration, testing and many more. 
+    Tcl (Tool Command Language) is a very powerful but easy to learn dynamic programming language, suitable for a very wide range of uses, including web and desktop
+    applications, networking, administration, testing and many more. 
 
   TensorFlow: TensorFlow/2.5.0, TensorFlow/2.5.3-CUDA-11.3.1, TensorFlow/2.6.0-CUDA-11.3.1, TensorFlow/2.7.1-CUDA-11.4.1, TensorFlow/2.8.4, TensorFlow/2.11.0-CUDA-11.7.0, ...
     An open-source software library for Machine Intelligence
 
   TensorRT: TensorRT/8.6.0.12-CUDA-11, TensorRT/8.6.0.12-CUDA-12, TensorRT/8.6.1.6-CUDA-11, TensorRT/8.6.1.6-CUDA-12
-    An SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference
-    applications.
+    An SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for
+    inference applications.
 
   Theano: Theano/1.1.2-PyMC
     Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.
 
   Tk: Tk/8.6.10, Tk/8.6.11, Tk/8.6.12, Tk/8.6.13
-    Tk is an open source, cross-platform widget toolchain that provides a library of basic elements for building a graphical user interface (GUI) in many different programming
-    languages.
+    Tk is an open source, cross-platform widget toolchain that provides a library of basic elements for building a graphical user interface (GUI) in many different
+    programming languages.
 
   Tkinter: Tkinter/3.8.6, Tkinter/3.9.6, Tkinter/3.10.4, Tkinter/3.10.8, Tkinter/3.11.3
     Tkinter module, built with the Python buildsystem
@@ -1181,8 +1190,8 @@ The following is a list of the modules and extensions currently available:
     multi-physics engineering and scientific problems. A unique design feature of Trilinos is its focus on packages.
 
   Trim_Galore: Trim_Galore/0.6.10
-    Trim Galore! is a wrapper script to automate quality and adapter trimming as well as quality control, with some added functionality to remove biased methylation positions for
-    RRBS sequence files (for directional, non-directional (or paired-end) sequencing).
+    Trim Galore! is a wrapper script to automate quality and adapter trimming as well as quality control, with some added functionality to remove biased methylation
+    positions for RRBS sequence files (for directional, non-directional (or paired-end) sequencing).
 
   Twisted: Twisted/22.4.0
     Twisted is an event-based framework for internet applications, supporting Python 3.6+.
@@ -1199,15 +1208,16 @@ The following is a list of the modules and extensions currently available:
     Unified Communication X An open-source production grade communication framework for data centric and high-performance applications 
 
   UCX-CUDA: UCX-CUDA/1.10.0-CUDA-11.3.1, UCX-CUDA/1.11.2-CUDA-11.4.1, UCX-CUDA/1.12.1-CUDA-11.7.0, UCX-CUDA/1.12.1-CUDA-11.8.0, UCX-CUDA/1.12.1-CUDA-12.2.0, ...
-    Unified Communication X An open-source production grade communication framework for data centric and high-performance applications This module adds the UCX CUDA support. 
+    Unified Communication X An open-source production grade communication framework for data centric and high-performance applications This module adds the UCX CUDA
+    support. 
 
   UDUNITS: UDUNITS/2.2.26, UDUNITS/2.2.28
-    UDUNITS supports conversion of unit specifications between formatted and binary forms, arithmetic manipulation of units, and conversion of values between compatible scales of
-    measurement.
+    UDUNITS supports conversion of unit specifications between formatted and binary forms, arithmetic manipulation of units, and conversion of values between compatible
+    scales of measurement.
 
   UnZip: UnZip/6.0
-    UnZip is an extraction utility for archives compressed in .zip format (also called "zipfiles"). Although highly compatible both with PKWARE's PKZIP and PKUNZIP utilities for
-    MS-DOS and with Info-ZIP's own Zip program, our primary objectives have been portability and non-MSDOS functionality.
+    UnZip is an extraction utility for archives compressed in .zip format (also called "zipfiles"). Although highly compatible both with PKWARE's PKZIP and PKUNZIP
+    utilities for MS-DOS and with Info-ZIP's own Zip program, our primary objectives have been portability and non-MSDOS functionality.
 
   VESTA: VESTA/3.5.8-gtk3
     VESTA is a 3D visualization program for structured models, volumetric data such as electron/nuclear densities, and crystal morphologies. 
@@ -1216,23 +1226,23 @@ The following is a list of the modules and extensions currently available:
     VMD is a molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting.
 
   VSCode: VSCode/1.85.0
-    Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support
-    for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). Begin your
-    journey with VS Code with these introductory videos. 
+    Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in
+    support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET).
+    Begin your journey with VS Code with these introductory videos. 
 
   VTK: VTK/9.0.1, VTK/9.1.0, VTK/9.2.2, VTK/9.2.6
-    The Visualization Toolkit (VTK) is an open-source, freely available software system for 3D computer graphics, image processing and visualization. VTK consists of a C++ class
-    library and several interpreted interface layers including Tcl/Tk, Java, and Python. VTK supports a wide variety of visualization algorithms including: scalar, vector,
-    tensor, texture, and volumetric methods; and advanced modeling techniques such as: implicit modeling, polygon reduction, mesh smoothing, cutting, contouring, and Delaunay
-    triangulation.
+    The Visualization Toolkit (VTK) is an open-source, freely available software system for 3D computer graphics, image processing and visualization. VTK consists of a C++
+    class library and several interpreted interface layers including Tcl/Tk, Java, and Python. VTK supports a wide variety of visualization algorithms including: scalar,
+    vector, tensor, texture, and volumetric methods; and advanced modeling techniques such as: implicit modeling, polygon reduction, mesh smoothing, cutting, contouring,
+    and Delaunay triangulation.
 
   VTune: VTune/2022.3.0
     Intel VTune Amplifier XE is the premier performance profiler for C, C++, C#, Fortran, Assembly and Java.
 
   Voro++: Voro++/0.4.6
-    Voro++ is a software library for carrying out three-dimensional computations of the Voronoi tessellation. A distinguishing feature of the Voro++ library is that it carries
-    out cell-based calculations, computing the Voronoi cell for each particle individually. It is particularly well-suited for applications that rely on cell-based statistics,
-    where features of Voronoi cells (eg. volume, centroid, number of faces) can be used to analyze a system of particles.
+    Voro++ is a software library for carrying out three-dimensional computations of the Voronoi tessellation. A distinguishing feature of the Voro++ library is that it
+    carries out cell-based calculations, computing the Voronoi cell for each particle individually. It is particularly well-suited for applications that rely on cell-based
+    statistics, where features of Voronoi cells (eg. volume, centroid, number of faces) can be used to analyze a system of particles.
 
   VulkanSDK: VulkanSDK/1.3.239.0
     The Khronos Vulkan API is an explicit, low-overhead, cross-platform graphics and compute API.
@@ -1242,19 +1252,19 @@ The following is a list of the modules and extensions currently available:
     atmospheric research needs.
 
   Wayland: Wayland/1.20.0, Wayland/1.21.0, Wayland/1.22.0
-    Wayland is a project to define a protocol for a compositor to talk to its clients as well as a library implementation of the protocol. The compositor can be a standalone
-    display server running on Linux kernel modesetting and evdev input devices, an X application, or a wayland client itself. The clients can be traditional applications, X
-    servers (rootless or fullscreen) or other display servers. 
+    Wayland is a project to define a protocol for a compositor to talk to its clients as well as a library implementation of the protocol. The compositor can be a
+    standalone display server running on Linux kernel modesetting and evdev input devices, an X application, or a wayland client itself. The clients can be traditional
+    applications, X servers (rootless or fullscreen) or other display servers. 
 
   Waylandpp: Waylandpp/1.0.0
-    Wayland is an object oriented display protocol, which features request and events. Requests can be seen as method calls on certain objects, whereas events can be seen as
-    signals of an object. This makes the Wayland protocol a perfect candidate for a C++ binding. The goal of this library is to create such a C++ binding for Wayland using the
-    most modern C++ technology currently available, providing an easy to use C++ API to Wayland.
+    Wayland is an object oriented display protocol, which features request and events. Requests can be seen as method calls on certain objects, whereas events can be seen
+    as signals of an object. This makes the Wayland protocol a perfect candidate for a C++ binding. The goal of this library is to create such a C++ binding for Wayland
+    using the most modern C++ technology currently available, providing an easy to use C++ API to Wayland.
 
   WebKitGTK+: WebKitGTK+/2.37.1
     WebKitGTK+ is a full-featured port of the WebKit rendering engine, suitable for projects requiring any kind of web integration, from hybrid HTML/CSS applications to
-    full-fledged web browsers. It offers WebKit's full functionality and is useful in a wide range of systems from desktop computers to embedded systems like phones, tablets, and
-    televisions.
+    full-fledged web browsers. It offers WebKit's full functionality and is useful in a wide range of systems from desktop computers to embedded systems like phones,
+    tablets, and televisions.
 
   WebProxy: WebProxy/0000
     WebProxy module sets up web proxy environment variables, http_proxy and https_proxy, for internet acceess from the compute nodes. Wiki page:
@@ -1273,40 +1283,40 @@ The following is a list of the modules and extensions currently available:
     xz: XZ utilities
 
   Xerces-C++: Xerces-C++/3.2.4
-    Xerces-C++ is a validating XML parser written in a portable subset of C++. Xerces-C++ makes it easy to give your application the ability to read and write XML data. A shared
-    library is provided for parsing, generating, manipulating, and validating XML documents using the DOM, SAX, and SAX2 APIs.
+    Xerces-C++ is a validating XML parser written in a portable subset of C++. Xerces-C++ makes it easy to give your application the ability to read and write XML data. A
+    shared library is provided for parsing, generating, manipulating, and validating XML documents using the DOM, SAX, and SAX2 APIs.
 
   Xvfb: Xvfb/1.20.11, Xvfb/1.20.13, Xvfb/21.1.3, Xvfb/21.1.6
     Xvfb is an X server that can run on machines with no display hardware and no physical input devices. It emulates a dumb framebuffer using virtual memory.
 
   YACS: YACS/0.1.8
-    YACS was created as a lightweight library to define and manage system configurations, such as those commonly found in software designed for scientific experimentation. These
-    "configurations" typically cover concepts like hyperparameters used in training a machine learning model or configurable model hyperparameters, such as the depth of a
-    convolutional neural network.
+    YACS was created as a lightweight library to define and manage system configurations, such as those commonly found in software designed for scientific experimentation.
+    These "configurations" typically cover concepts like hyperparameters used in training a machine learning model or configurable model hyperparameters, such as the depth
+    of a convolutional neural network.
 
   Yasm: Yasm/1.3.0
     Yasm: Complete rewrite of the NASM assembler with BSD license
 
   Z3: Z3/4.10.2-Python-3.10.4, Z3/4.10.2, Z3/4.12.2-Python-3.11.3, Z3/4.12.2
-    Z3 is a theorem prover from Microsoft Research with support for bitvectors, booleans, arrays, floating point numbers, strings, and other data types. This module includes
-    z3_solver, the Python interface of Z3. 
+    Z3 is a theorem prover from Microsoft Research with support for bitvectors, booleans, arrays, floating point numbers, strings, and other data types. This module
+    includes z3_solver, the Python interface of Z3. 
 
   ZeroMQ: ZeroMQ/4.3.4
     ZeroMQ looks like an embeddable networking library but acts like a concurrency framework. It gives you sockets that carry atomic messages across various transports like
-    in-process, inter-process, TCP, and multicast. You can connect sockets N-to-N with patterns like fanout, pub-sub, task distribution, and request-reply. It's fast enough to be
-    the fabric for clustered products. Its asynchronous I/O model gives you scalable multicore applications, built as asynchronous message-processing tasks. It has a score of
-    language APIs and runs on most operating systems.
+    in-process, inter-process, TCP, and multicast. You can connect sockets N-to-N with patterns like fanout, pub-sub, task distribution, and request-reply. It's fast enough
+    to be the fabric for clustered products. Its asynchronous I/O model gives you scalable multicore applications, built as asynchronous message-processing tasks. It has a
+    score of language APIs and runs on most operating systems.
 
   Zip: Zip/3.0
-    Zip is a compression and file packaging/archive utility. Although highly compatible both with PKWARE's PKZIP and PKUNZIP utilities for MS-DOS and with Info-ZIP's own UnZip,
-    our primary objectives have been portability and other-than-MSDOS functionality
+    Zip is a compression and file packaging/archive utility. Although highly compatible both with PKWARE's PKZIP and PKUNZIP utilities for MS-DOS and with Info-ZIP's own
+    UnZip, our primary objectives have been portability and other-than-MSDOS functionality
 
   aiohttp: aiohttp/3.8.3, aiohttp/3.8.5
     Asynchronous HTTP client/server framework for asyncio and Python.
 
   ant: ant/1.10.11-Java-11, ant/1.10.12-Java-11
-    Apache Ant is a Java library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. The
-    main known usage of Ant is the build of Java applications.
+    Apache Ant is a Java library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each
+    other. The main known usage of Ant is the build of Java applications.
 
   archspec: archspec/0.1.2, archspec/0.1.3, archspec/0.1.4, archspec/0.2.0
     A library for detecting, labeling, and reasoning about microarchitectures
@@ -1339,16 +1349,16 @@ The following is a list of the modules and extensions currently available:
     Statistical and novel interactive HTML plots for Python
 
   bzip2: bzip2/1.0.8
-    bzip2 is a freely available, patent free, high-quality data compressor. It typically compresses files to within 10% to 15% of the best available techniques (the PPM family of
-    statistical compressors), whilst being around twice as fast at compression and six times faster at decompression. 
+    bzip2 is a freely available, patent free, high-quality data compressor. It typically compresses files to within 10% to 15% of the best available techniques (the PPM
+    family of statistical compressors), whilst being around twice as fast at compression and six times faster at decompression. 
 
   c-ares: c-ares/1.18.1
     c-ares is a C library for asynchronous DNS requests (including name resolves)
 
   cURL: cURL/7.72.0, cURL/7.76.0, cURL/7.78.0, cURL/7.83.0, cURL/7.86.0, cURL/8.0.1, cURL/8.3.0
-    libcurl is a free and easy-to-use client-side URL transfer library, supporting DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3, POP3S, RTMP, RTSP,
-    SCP, SFTP, SMTP, SMTPS, Telnet and TFTP. libcurl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form based upload, proxies, cookies, user+password
-    authentication (Basic, Digest, NTLM, Negotiate, Kerberos), file transfer resume, http proxy tunneling and more. 
+    libcurl is a free and easy-to-use client-side URL transfer library, supporting DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3, POP3S, RTMP,
+    RTSP, SCP, SFTP, SMTP, SMTPS, Telnet and TFTP. libcurl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form based upload, proxies, cookies,
+    user+password authentication (Basic, Digest, NTLM, Negotiate, Kerberos), file transfer resume, http proxy tunneling and more. 
 
   cairo: cairo/1.16.0, cairo/1.17.4, cairo/1.17.8
     Cairo is a 2D graphics library with support for multiple output devices. Currently supported output targets include the X Window System (via both Xlib and XCB), Quartz,
@@ -1359,8 +1369,8 @@ The following is a list of the modules and extensions currently available:
 
   captum: captum/0.5.0
     Captum is a model interpretability and understanding library for PyTorch. Captum means comprehension in Latin and contains general purpose implementations of integrated
-    gradients, saliency maps, smoothgrad, vargrad and others for PyTorch models. It has quick integration for models built with domain-specific libraries such as torchvision,
-    torchtext, and others.
+    gradients, saliency maps, smoothgrad, vargrad and others for PyTorch models. It has quick integration for models built with domain-specific libraries such as
+    torchvision, torchtext, and others.
 
   ccache: ccache/4.6.1, ccache/4.6.3
     Ccache (or “ccache”) is a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again
@@ -1385,8 +1395,8 @@ The following is a list of the modules and extensions currently available:
     Software for the Correlated K-Distribution Model Intercomparison Project (CKDMIP).
 
   cppy: cppy/1.1.0, cppy/1.2.1
-    A small C++ header library which makes it easier to write Python extension modules. The primary feature is a PyObject smart pointer which automatically handles reference
-    counting and provides convenience methods for performing common object operations.
+    A small C++ header library which makes it easier to write Python extension modules. The primary feature is a PyObject smart pointer which automatically handles
+    reference counting and provides convenience methods for performing common object operations.
 
   cryptography: cryptography/41.0.1, cryptography/41.0.4
     cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
@@ -1394,7 +1404,7 @@ The following is a list of the modules and extensions currently available:
   cuDF: cuDF/23.04.0, cuDF/23.08.00
     Built based on the Apache Arrow columnar memory format, cuDF is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data.
 
-  cuDNN: cuDNN/8.0.4.30-CUDA-11.1.1, cuDNN/8.2.1.32-CUDA-11.3.1, cuDNN/8.2.2.26-CUDA-11.4.1, cuDNN/8.4.1.50-CUDA-11.7.0, cuDNN/8.6.0.163-CUDA-11.8.0, cuDNN/8.7.0.84-CUDA-11.8.0, ...
+  cuDNN: cuDNN/8.0.4.30-CUDA-11.1.1, cuDNN/8.2.1.32-CUDA-11.3.1, cuDNN/8.2.2.26-CUDA-11.4.1, cuDNN/8.4.1.50-CUDA-11.7.0, cuDNN/8.6.0.163-CUDA-11.8.0, ...
     The NVIDIA CUDA Deep Neural Network library (cuDNN) is a GPU-accelerated library of primitives for deep neural networks.
 
   cuSPARSELt: cuSPARSELt/0.5.0.1-CUDA-12.2.2
@@ -1419,16 +1429,16 @@ The following is a list of the modules and extensions currently available:
     DeepDiff: Deep Difference of dictionaries, iterables and almost any other object recursively.
 
   dill: dill/0.3.4, dill/0.3.6, dill/0.3.7
-    dill extends python's pickle module for serializing and de-serializing python objects to the majority of the built-in python types. Serialization is the process of converting
-    an object to a byte stream, and the inverse of which is converting a byte stream back to on python object hierarchy.
+    dill extends python's pickle module for serializing and de-serializing python objects to the majority of the built-in python types. Serialization is the process of
+    converting an object to a byte stream, and the inverse of which is converting a byte stream back to on python object hierarchy.
 
   dm-tree: dm-tree/0.1.6, dm-tree/0.1.8
-    dm-tree provides tree, a library for working with nested data structures. In a way, tree generalizes the builtin map function which only supports flat sequences, and allows
-    to apply a function to each "leaf" preserving the overall structure.
+    dm-tree provides tree, a library for working with nested data structures. In a way, tree generalizes the builtin map function which only supports flat sequences, and
+    allows to apply a function to each "leaf" preserving the overall structure.
 
   docker-user: docker-user/202311
-    Rootless mode allows running the Docker daemon and containers as a non-root user to mitigate potential vulnerabilities in the daemon and the container runtime. Rootless mode
-    executes the Docker daemon and containers inside a user namespace.
+    Rootless mode allows running the Docker daemon and containers as a non-root user to mitigate potential vulnerabilities in the daemon and the container runtime. Rootless
+    mode executes the Docker daemon and containers inside a user namespace.
 
   double-conversion: double-conversion/3.1.5, double-conversion/3.2.0, double-conversion/3.2.1, double-conversion/3.3.0
     Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
@@ -1437,8 +1447,8 @@ The following is a list of the modules and extensions currently available:
     A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems 
 
   ecCodes: ecCodes/2.24.2, ecCodes/2.27.0, ecCodes/2.31.0
-    ecCodes is a package developed by ECMWF which provides an application programming interface and a set of tools for decoding and encoding messages in the following formats:
-    WMO FM-92 GRIB edition 1 and edition 2, WMO FM-94 BUFR edition 3 and edition 4, WMO GTS abbreviated header (only decoding).
+    ecCodes is a package developed by ECMWF which provides an application programming interface and a set of tools for decoding and encoding messages in the following
+    formats: WMO FM-92 GRIB edition 1 and edition 2, WMO FM-94 BUFR edition 3 and edition 4, WMO GTS abbreviated header (only decoding).
 
   einops: einops/0.4.1
     Flexible and powerful tensor operations for readable and reliable code. Supports numpy, pytorch, tensorflow, jax, and others.
@@ -1447,21 +1457,21 @@ The following is a list of the modules and extensions currently available:
     The elfutils project provides libraries and tools for ELF files and DWARF data. 
 
   enchant-2: enchant-2/2.3.3
-    Enchant aims to provide a simple but comprehensive abstraction for dealing with different spell checking libraries in a consistent way. A client, such as a text editor or
-    word processor, need not know anything about a specific spell-checker, and since all back-ends are plugins, new spell-checkers can be added without needing any change to the
-    program using Enchant.
+    Enchant aims to provide a simple but comprehensive abstraction for dealing with different spell checking libraries in a consistent way. A client, such as a text editor
+    or word processor, need not know anything about a specific spell-checker, and since all back-ends are plugins, new spell-checkers can be added without needing any
+    change to the program using Enchant.
 
   exiv2: exiv2/0.27.5
     Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata.
 
   expat: expat/2.2.9, expat/2.4.1, expat/2.4.8, expat/2.4.9, expat/2.5.0
-    Expat is an XML parser library written in C. It is a stream-oriented parser in which an application registers handlers for things the parser might find in the XML document
-    (like start tags) 
+    Expat is an XML parser library written in C. It is a stream-oriented parser in which an application registers handlers for things the parser might find in the XML
+    document (like start tags) 
 
   expecttest: expecttest/0.1.3, expecttest/0.1.5
-    This library implements expect tests (also known as "golden" tests). Expect tests are a method of writing tests where instead of hard-coding the expected output of a test,
-    you run the test to get the output, and the test framework automatically populates the expected output. If the output of the test changes, you can rerun the test with the
-    environment variable EXPECTTEST_ACCEPT=1 to automatically update the expected output.
+    This library implements expect tests (also known as "golden" tests). Expect tests are a method of writing tests where instead of hard-coding the expected output of a
+    test, you run the test to get the output, and the test framework automatically populates the expected output. If the output of the test changes, you can rerun the test
+    with the environment variable EXPECTTEST_ACCEPT=1 to automatically update the expected output.
 
   eztrace: eztrace/2.1
     EZTrace is a tool that aims at generating automatically execution trace from HPC programs.
@@ -1500,8 +1510,8 @@ The following is a list of the modules and extensions currently available:
     freeglut is a completely OpenSourced alternative to the OpenGL Utility Toolkit (GLUT) library.
 
   freetype: freetype/2.10.3, freetype/2.10.4, freetype/2.11.0, freetype/2.12.1, freetype/2.13.0
-    FreeType 2 is a software font engine that is designed to be small, efficient, highly customizable, and portable while capable of producing high-quality output (glyph images).
-    It can be used in graphics libraries, display servers, font conversion tools, text image generation tools, and many other products as well. 
+    FreeType 2 is a software font engine that is designed to be small, efficient, highly customizable, and portable while capable of producing high-quality output (glyph
+    images). It can be used in graphics libraries, display servers, font conversion tools, text image generation tools, and many other products as well. 
 
   g2clib: g2clib/1.6.3
     Library contains GRIB2 encoder/decoder ('C' version).
@@ -1516,29 +1526,30 @@ The following is a list of the modules and extensions currently available:
     GNU Compiler Collection (GCC) based compiler toolchain, along with CUDA toolkit.
 
   geopandas: geopandas/0.12.2
-    GeoPandas is a project to add support for geographic data to pandas objects. It currently implements GeoSeries and GeoDataFrame types which are subclasses of pandas.Series
-    and pandas.DataFrame respectively. GeoPandas objects can act on shapely geometry objects and perform geometric operations.
+    GeoPandas is a project to add support for geographic data to pandas objects. It currently implements GeoSeries and GeoDataFrame types which are subclasses of
+    pandas.Series and pandas.DataFrame respectively. GeoPandas objects can act on shapely geometry objects and perform geometric operations.
 
   gettext: gettext/0.21, gettext/0.21.1, gettext/0.22
-    GNU 'gettext' is an important step for the GNU Translation Project, as it is an asset on which we may build many other steps. This package offers to programmers, translators,
-    and even users, a well integrated set of tools and documentation
+    GNU 'gettext' is an important step for the GNU Translation Project, as it is an asset on which we may build many other steps. This package offers to programmers,
+    translators, and even users, a well integrated set of tools and documentation
 
   gfbf: gfbf/2022a, gfbf/2022b, gfbf/2023a, gfbf/2023.09
     GNU Compiler Collection (GCC) based compiler toolchain, including FlexiBLAS (BLAS and LAPACK support) and (serial) FFTW.
 
   giflib: giflib/5.2.1
-    giflib is a library for reading and writing gif images. It is API and ABI compatible with libungif which was in wide use while the LZW compression algorithm was patented.
+    giflib is a library for reading and writing gif images. It is API and ABI compatible with libungif which was in wide use while the LZW compression algorithm was
+    patented.
 
   git: git/2.28.0-nodocs, git/2.32.0-nodocs, git/2.33.1-nodocs, git/2.36.0-nodocs, git/2.38.1-nodocs, git/2.41.0-nodocs
     Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
   git-lfs: git-lfs/3.2.0, git-lfs/3.3.0
-    Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a
-    remote server like GitHub.com
+    Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents
+    on a remote server like GitHub.com
 
   glew: glew/2.2.0-egl
-    The OpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for determining
-    which OpenGL extensions are supported on the target platform.
+    The OpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for
+    determining which OpenGL extensions are supported on the target platform.
 
   glib-networking: glib-networking/2.72.1
     Network extensions for GLib
@@ -1559,13 +1570,13 @@ The following is a list of the modules and extensions currently available:
     Google's framework for writing C++ tests on a variety of platforms
 
   gperf: gperf/3.1
-    GNU gperf is a perfect hash function generator. For a given list of strings, it produces a hash function and hash table, in form of C or C++ code, for looking up a value
-    depending on the input string. The hash function is perfect, which means that the hash table has no collisions, and the hash table lookup needs a single string comparison
-    only. 
+    GNU gperf is a perfect hash function generator. For a given list of strings, it produces a hash function and hash table, in form of C or C++ code, for looking up a
+    value depending on the input string. The hash function is perfect, which means that the hash table has no collisions, and the hash table lookup needs a single string
+    comparison only. 
 
   gperftools: gperftools/2.10, gperftools/2.13
-    gperftools is a collection of a high-performance multi-threaded malloc() implementation, plus some pretty nifty performance analysis tools. Includes TCMalloc, heap-checker,
-    heap-profiler and cpu-profiler. 
+    gperftools is a collection of a high-performance multi-threaded malloc() implementation, plus some pretty nifty performance analysis tools. Includes TCMalloc,
+    heap-checker, heap-profiler and cpu-profiler. 
 
   gpflow: gpflow/2.9.0-CUDA-11.7.0-TensorFlow-2.11.0, gpflow/2.9.0-CUDA-11.7.0
     GPflow is a package for building Gaussian process models in python, using TensorFlow.
@@ -1599,33 +1610,36 @@ The following is a list of the modules and extensions currently available:
     help2man produces simple manual pages from the '--help' and '--version' output of other commands.
 
   hiredis: hiredis/1.0.2
-    Hiredis is a minimalistic C client library for the Redis database. It is minimalistic because it just adds minimal support for the protocol, but at the same time it uses a
-    high level printf-alike API in order to make it much higher level than otherwise suggested by its minimal code base and the lack of explicit bindings for every Redis command.
+    Hiredis is a minimalistic C client library for the Redis database. It is minimalistic because it just adds minimal support for the protocol, but at the same time it
+    uses a high level printf-alike API in order to make it much higher level than otherwise suggested by its minimal code base and the lack of explicit bindings for every
+    Redis command.
 
   humann: humann/3.6
     HUMAnN v3 is a pipeline for efficiently and accurately determining the coverage and abundance of microbial pathways in a community from metagenomic data. Sequencing a
-    metagenome typically produces millions of short DNA/RNA reads. This process, referred to as functional profiling, aims to describe the metabolic potential of a microbial
-    community and its members. More generally, functional profiling answers the question: What are the microbes in my community-of-interest doing (or capable of doing)?
+    metagenome typically produces millions of short DNA/RNA reads. This process, referred to as functional profiling, aims to describe the metabolic potential of a
+    microbial community and its members. More generally, functional profiling answers the question: What are the microbes in my community-of-interest doing (or capable of
+    doing)?
 
   hunspell: hunspell/1.7.1
-    Hunspell is a spell checker and morphological analyzer library and program designed for languageswith rich morphology and complex word compounding or character encoding.
+    Hunspell is a spell checker and morphological analyzer library and program designed for languageswith rich morphology and complex word compounding or character
+    encoding.
 
   hwloc: hwloc/2.2.0, hwloc/2.4.1, hwloc/2.5.0, hwloc/2.7.1, hwloc/2.8.0, hwloc/2.9.1, hwloc/2.9.2
     The Portable Hardware Locality (hwloc) software package provides a portable abstraction (across OS, versions, architectures, ...) of the hierarchical topology of modern
-    architectures, including NUMA memory nodes, sockets, shared caches, cores and simultaneous multithreading. It also gathers various system attributes such as cache and memory
-    information as well as the locality of I/O devices such as network interfaces, InfiniBand HCAs or GPUs. It primarily aims at helping applications with gathering information
-    about modern computing hardware so as to exploit it accordingly and efficiently. 
+    architectures, including NUMA memory nodes, sockets, shared caches, cores and simultaneous multithreading. It also gathers various system attributes such as cache and
+    memory information as well as the locality of I/O devices such as network interfaces, InfiniBand HCAs or GPUs. It primarily aims at helping applications with gathering
+    information about modern computing hardware so as to exploit it accordingly and efficiently. 
 
   hypothesis: hypothesis/5.41.2, hypothesis/6.13.1, hypothesis/6.14.6, hypothesis/6.46.7, hypothesis/6.68.2, hypothesis/6.82.0, hypothesis/6.88.1
-    Hypothesis is an advanced testing library for Python. It lets you write tests which are parametrized by a source of examples, and then generates simple and comprehensible
-    examples that make your tests fail. This lets you find more bugs in your code with less work.
+    Hypothesis is an advanced testing library for Python. It lets you write tests which are parametrized by a source of examples, and then generates simple and
+    comprehensible examples that make your tests fail. This lets you find more bugs in your code with less work.
 
   iimpi: iimpi/2021b, iimpi/2022a, iimpi/2022b, iimpi/2022.12, iimpi/2023a, iimpi/2023b, iimpi/2023.03, iimpi/2023.07
     Intel C/C++ and Fortran compilers, alongside Intel MPI.
 
   imageio: imageio/2.22.2
-    Imageio is a Python library that provides an easy interface to read and write a wide range of image data, including animated images, video, volumetric data, and scientific
-    formats.
+    Imageio is a Python library that provides an easy interface to read and write a wide range of image data, including animated images, video, volumetric data, and
+    scientific formats.
 
   imake: imake/1.0.8
     imake is a Makefile-generator that is intended to make it easier to develop software portably for multiple systems.
@@ -1645,7 +1659,7 @@ The following is a list of the modules and extensions currently available:
   intel: intel/2021b, intel/2022a, intel/2022b, intel/2022.11, intel/2022.12, intel/2023a, intel/2023b, intel/2023.03, intel/2023.07
     Compiler toolchain including Intel compilers, Intel MPI and Intel Math Kernel Library (MKL).
 
-  intel-compilers: intel-compilers/2021.2.0, intel-compilers/2021.4.0, intel-compilers/2022.1.0, intel-compilers/2022.2.0, intel-compilers/2022.2.1, intel-compilers/2023.0.0, ...
+  intel-compilers: intel-compilers/2021.2.0, intel-compilers/2021.4.0, intel-compilers/2022.1.0, intel-compilers/2022.2.0, intel-compilers/2022.2.1, ...
     Intel C, C++ & Fortran compilers (classic and oneAPI)
 
   intel/2023a: intel/2023a
@@ -1666,8 +1680,8 @@ The following is a list of the modules and extensions currently available:
     jemalloc is a general purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support.
 
   json-c: json-c/0.16
-    JSON-C implements a reference counting object model that allows you to easily construct JSON objects in C, output them as JSON formatted strings and parse JSON formatted
-    strings back into the C representation of JSON objects.
+    JSON-C implements a reference counting object model that allows you to easily construct JSON objects in C, output them as JSON formatted strings and parse JSON
+    formatted strings back into the C representation of JSON objects.
 
   jupyter-server: jupyter-server/2.7.0, jupyter-server/2.7.2
     The Jupyter Server provides the backend (i.e. the core services, APIs, and REST endpoints) for Jupyter web applications like Jupyter notebook, JupyterLab, and Voila.
@@ -1676,10 +1690,10 @@ The following is a list of the modules and extensions currently available:
     KAUST BLAS (KBLAS) is a high performance CUDA library implementing a subset of BLAS as well as Linear Algebra PACKage (LAPACK) routines on NVIDIA GPUs.
 
   kim-api: kim-api/2.2.1, kim-api/2.3.0
-    Open Knowledgebase of Interatomic Models. KIM is an API and OpenKIM is a collection of interatomic models (potentials) for atomistic simulations. This is a library that can
-    be used by simulation programs to get access to the models in the OpenKIM database. This EasyBuild only installs the API, the models can be installed with the package
-    openkim-models, or the user can install them manually by running kim-api-collections-management install user MODELNAME or kim-api-collections-management install user OpenKIM
-    to install them all. 
+    Open Knowledgebase of Interatomic Models. KIM is an API and OpenKIM is a collection of interatomic models (potentials) for atomistic simulations. This is a library that
+    can be used by simulation programs to get access to the models in the OpenKIM database. This EasyBuild only installs the API, the models can be installed with the
+    package openkim-models, or the user can install them manually by running kim-api-collections-management install user MODELNAME or kim-api-collections-management install
+    user OpenKIM to install them all. 
 
   kineto: kineto/0.4.0
     A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters
@@ -1688,13 +1702,13 @@ The following is a list of the modules and extensions currently available:
     The OpenGL Utility Library (GLU) is a computer graphics library for OpenGL. 
 
   libROM: libROM/93ca278
-    A free, lightweight, scalable C++ library for data-driven physical simulation methods from the intrusive projection-based reduced order models to non-intrusive black-box
-    approaches.
+    A free, lightweight, scalable C++ library for data-driven physical simulation methods from the intrusive projection-based reduced order models to non-intrusive
+    black-box approaches.
 
   libaec: libaec/1.0.6
     Libaec provides fast lossless compression of 1 up to 32 bit wide signed or unsigned integers (samples). The library achieves best results for low entropy data as often
-    encountered in space imaging instrument data or numerical model output from weather or climate simulations. While floating point representations are not directly supported,
-    they can also be efficiently coded by grouping exponents and mantissa.
+    encountered in space imaging instrument data or numerical model output from weather or climate simulations. While floating point representations are not directly
+    supported, they can also be efficiently coded by grouping exponents and mantissa.
 
   libarchive: libarchive/3.4.3, libarchive/3.5.1, libarchive/3.6.1, libarchive/3.6.2, libarchive/3.7.2
     Multi-format archive and compression library 
@@ -1724,12 +1738,12 @@ The following is a list of the modules and extensions currently available:
     libevent also support callbacks due to signals or regular timeouts. 
 
   libfabric: libfabric/1.11.0, libfabric/1.12.1, libfabric/1.13.2, libfabric/1.15.1, libfabric/1.16.1, libfabric/1.18.0, libfabric/1.19.0
-    Libfabric is a core component of OFI. It is the library that defines and exports the user-space API of OFI, and is typically the only software that applications deal with
-    directly. It works in conjunction with provider libraries, which are often integrated directly into libfabric. 
+    Libfabric is a core component of OFI. It is the library that defines and exports the user-space API of OFI, and is typically the only software that applications deal
+    with directly. It works in conjunction with provider libraries, which are often integrated directly into libfabric. 
 
   libffi: libffi/3.3, libffi/3.4.2, libffi/3.4.4
-    The libffi library provides a portable, high level programming interface to various calling conventions. This allows a programmer to call any function specified by a call
-    interface description at run-time.
+    The libffi library provides a portable, high level programming interface to various calling conventions. This allows a programmer to call any function specified by a
+    call interface description at run-time.
 
   libgcrypt: libgcrypt/1.9.3
     Libgcrypt is a general purpose cryptographic library originally based on code from GnuPG
@@ -1741,8 +1755,8 @@ The following is a list of the modules and extensions currently available:
     Library for reading and writing coordinate system information from/to GeoTIFF files
 
   libgit2: libgit2/1.1.0, libgit2/1.1.1, libgit2/1.4.3, libgit2/1.5.0
-    libgit2 is a portable, pure C implementation of the Git core methods provided as a re-entrant linkable library with a solid API, allowing you to write native speed custom Git
-    applications in any language which supports C bindings.
+    libgit2 is a portable, pure C implementation of the Git core methods provided as a re-entrant linkable library with a solid API, allowing you to write native speed
+    custom Git applications in any language which supports C bindings.
 
   libglvnd: libglvnd/1.3.3, libglvnd/1.4.0, libglvnd/1.6.0
     libglvnd is a vendor-neutral dispatch layer for arbitrating OpenGL API calls between multiple vendors.
@@ -1757,22 +1771,23 @@ The following is a list of the modules and extensions currently available:
     Libiconv converts from one character encoding to another through Unicode conversion
 
   libidn: libidn/1.38
-    GNU Libidn is a fully documented implementation of the Stringprep, Punycode and IDNA specifications. Libidn's purpose is to encode and decode internationalized domain names.
+    GNU Libidn is a fully documented implementation of the Stringprep, Punycode and IDNA specifications. Libidn's purpose is to encode and decode internationalized domain
+    names.
 
   libidn2: libidn2/2.3.2
     Libidn2 implements the revised algorithm for internationalized domain names called IDNA2008/TR46.
 
   libjpeg-turbo: libjpeg-turbo/2.0.5, libjpeg-turbo/2.0.6, libjpeg-turbo/2.1.3, libjpeg-turbo/2.1.4, libjpeg-turbo/2.1.5.1
-    libjpeg-turbo is a fork of the original IJG libjpeg which uses SIMD to accelerate baseline JPEG compression and decompression. libjpeg is a library that implements JPEG image
-    encoding, decoding and transcoding. 
+    libjpeg-turbo is a fork of the original IJG libjpeg which uses SIMD to accelerate baseline JPEG compression and decompression. libjpeg is a library that implements JPEG
+    image encoding, decoding and transcoding. 
 
   libogg: libogg/1.3.4, libogg/1.3.5
     Ogg is a multimedia container format, and the native file and stream format for the Xiph.org multimedia codecs.
 
   libopus: libopus/1.3.1
-    Opus is a totally open, royalty-free, highly versatile audio codec. Opus is unmatched for interactive speech and music transmission over the Internet, but is also intended
-    for storage and streaming applications. It is standardized by the Internet Engineering Task Force (IETF) as RFC 6716 which incorporated technology from Skype’s SILK codec
-    and Xiph.Org’s CELT codec.
+    Opus is a totally open, royalty-free, highly versatile audio codec. Opus is unmatched for interactive speech and music transmission over the Internet, but is also
+    intended for storage and streaming applications. It is standardized by the Internet Engineering Task Force (IETF) as RFC 6716 which incorporated technology from
+    Skype’s SILK codec and Xiph.Org’s CELT codec.
 
   libpciaccess: libpciaccess/0.16, libpciaccess/0.17
     Generic PCI access library.
@@ -1784,9 +1799,9 @@ The following is a list of the modules and extensions currently available:
     C library for the Public Suffix List
 
   libreadline: libreadline/8.0, libreadline/8.1, libreadline/8.1.2, libreadline/8.2
-    The GNU Readline library provides a set of functions for use by applications that allow users to edit command lines as they are typed in. Both Emacs and vi editing modes are
-    available. The Readline library includes additional functions to maintain a list of previously-entered command lines, to recall and perhaps reedit those lines, and perform
-    csh-like history expansion on previous commands. 
+    The GNU Readline library provides a set of functions for use by applications that allow users to edit command lines as they are typed in. Both Emacs and vi editing
+    modes are available. The Readline library includes additional functions to maintain a list of previously-entered command lines, to recall and perhaps reedit those
+    lines, and perform csh-like history expansion on previous commands. 
 
   librsvg: librsvg/2.55.1
     Librsvg is a library to render SVG files using cairo.
@@ -1808,8 +1823,8 @@ The following is a list of the modules and extensions currently available:
     SpatiaLite is an open source library intended to extend the SQLite core to support fully fledged Spatial SQL capabilities.
 
   libtasn1: libtasn1/4.18.0
-    Libtasn1 is the ASN.1 library used by GnuTLS, GNU Shishi and some other packages. It was written by Fabio Fiorina, and has been shipped as part of GnuTLS for some time but is
-    now a proper GNU package.
+    Libtasn1 is the ASN.1 library used by GnuTLS, GNU Shishi and some other packages. It was written by Fabio Fiorina, and has been shipped as part of GnuTLS for some time
+    but is now a proper GNU package.
 
   libtirpc: libtirpc/1.3.1, libtirpc/1.3.2, libtirpc/1.3.3
     Libtirpc is a port of Suns Transport-Independent RPC library to Linux.
@@ -1821,9 +1836,9 @@ The following is a list of the modules and extensions currently available:
     This library provides functions for manipulating Unicode strings and for manipulating C strings according to the Unicode standard.
 
   libunwind: libunwind/1.4.0, libunwind/1.5.0, libunwind/1.6.2
-    The primary goal of libunwind is to define a portable and efficient C programming interface (API) to determine the call-chain of a program. The API additionally provides the
-    means to manipulate the preserved (callee-saved) state of each call-frame and to resume execution at any point in the call-chain (non-local goto). The API supports both local
-    (same-process) and remote (across-process) operation. As such, the API is useful in a number of applications
+    The primary goal of libunwind is to define a portable and efficient C programming interface (API) to determine the call-chain of a program. The API additionally
+    provides the means to manipulate the preserved (callee-saved) state of each call-frame and to resume execution at any point in the call-chain (non-local goto). The API
+    supports both local (same-process) and remote (across-process) operation. As such, the API is useful in a number of applications
 
   libvorbis: libvorbis/1.3.7
     Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format
@@ -1837,8 +1852,8 @@ The following is a list of the modules and extensions currently available:
     richer images that make the web faster.
 
   libwpe: libwpe/1.13.3
-    WPE is the reference WebKit port for embedded and low-consumption computer devices. It has been designed from the ground-up with performance, small footprint, accelerated
-    content rendering, and simplicity of deployment in mind, bringing the excellence of the WebKit engine to countless platforms and target devices.
+    WPE is the reference WebKit port for embedded and low-consumption computer devices. It has been designed from the ground-up with performance, small footprint,
+    accelerated content rendering, and simplicity of deployment in mind, bringing the excellence of the WebKit engine to countless platforms and target devices.
 
   libxc: libxc/5.2.3, libxc/6.1.0, libxc/6.2.2
     Libxc is a library of exchange-correlation functionals for density-functional theory. The aim is to provide a portable, well tested and reliable set of exchange and
@@ -1875,7 +1890,8 @@ The following is a list of the modules and extensions currently available:
     maeparser is a parser for Schrodinger Maestro files.
 
   magma: magma/2.6.1-CUDA-11.3.1, magma/2.6.2-CUDA-11.7.0, magma/2.6.2-CUDA-11.8.0, magma/2.7.1-CUDA-12.0.0, magma/2.7.2-CUDA-12.1.1
-    The MAGMA project aims to develop a dense linear algebra library similar to LAPACK but for heterogeneous/hybrid architectures, starting with current Multicore+GPU systems.
+    The MAGMA project aims to develop a dense linear algebra library similar to LAPACK but for heterogeneous/hybrid architectures, starting with current Multicore+GPU
+    systems.
 
   make: make/4.3, make/4.4.1
     GNU version of make utility
@@ -1884,16 +1900,16 @@ The following is a list of the modules and extensions currently available:
     The makedepend package contains a C-preprocessor like utility to determine build-time dependencies.
 
   makeinfo: makeinfo/6.7-minimal, makeinfo/7.0.3, makeinfo/7.1
-    makeinfo is part of the Texinfo project, the official documentation format of the GNU project. This is a minimal build with very basic functionality. Should only be used for
-    build dependencies. 
+    makeinfo is part of the Texinfo project, the official documentation format of the GNU project. This is a minimal build with very basic functionality. Should only be
+    used for build dependencies. 
 
   matplotlib: matplotlib/3.3.3, matplotlib/3.4.3, matplotlib/3.5.2, matplotlib/3.7.0, matplotlib/3.7.2
     matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
     matplotlib can be used in python scripts, the python and ipython shell, web application servers, and six graphical user interface toolkits.
 
   maturin: maturin/1.1.0, maturin/1.4.0-Rust-1.75.0
-    This project is meant as a zero configuration replacement for setuptools-rust and milksnake. It supports building wheels for python 3.5+ on windows, linux, mac and freebsd,
-    can upload them to pypi and has basic pypy and graalpy support.
+    This project is meant as a zero configuration replacement for setuptools-rust and milksnake. It supports building wheels for python 3.5+ on windows, linux, mac and
+    freebsd, can upload them to pypi and has basic pypy and graalpy support.
 
   meson-python: meson-python/0.13.2
     Python build backend (PEP 517) for Meson projects
@@ -1905,12 +1921,12 @@ The following is a list of the modules and extensions currently available:
     mold is a high-performance drop-in replacement for existing Unix linkers.
 
   motif: motif/2.3.8
-    Motif refers to both a graphical user interface (GUI) specification and the widget toolkit for building applications that follow that specification under the X Window System
-    on Unix and other POSIX-compliant systems. It was the standard toolkit for the Common Desktop Environment and thus for Unix.
+    Motif refers to both a graphical user interface (GUI) specification and the widget toolkit for building applications that follow that specification under the X Window
+    System on Unix and other POSIX-compliant systems. It was the standard toolkit for the Common Desktop Environment and thus for Unix.
 
   mpi4py: mpi4py/3.1.4, mpi4py/3.1.5
-    MPI for Python (mpi4py) provides bindings of the Message Passing Interface (MPI) standard for the Python programming language, allowing any Python program to exploit multiple
-    processors.
+    MPI for Python (mpi4py) provides bindings of the Message Passing Interface (MPI) standard for the Python programming language, allowing any Python program to exploit
+    multiple processors.
 
   musl: musl/1.2.4
     An implementation of the C standard library built on top of the Linux system call API, including interfaces defined in the base language standard, POSIX, and widely
@@ -1939,16 +1955,16 @@ The following is a list of the modules and extensions currently available:
     Python/numpy interface to netCDF.
 
   nettle: nettle/3.7.2, nettle/3.7.3, nettle/3.8, nettle/3.8.1
-    Nettle is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in
-    applications like LSH or GNUPG, or even in kernel space.
+    Nettle is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...),
+    in applications like LSH or GNUPG, or even in kernel space.
 
   networkx: networkx/2.6.3, networkx/2.8.4, networkx/3.0, networkx/3.1
     NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 
   nghttp2: nghttp2/1.48.0
     This is an implementation of the Hypertext Transfer Protocol version 2 in C. The framing layer of HTTP/2 is implemented as a reusable C library. On top of that, we have
-    implemented an HTTP/2 client, server and proxy. We have also developed load test and benchmarking tools for HTTP/2. An HPACK encoder and decoder are available as a public
-    API.
+    implemented an HTTP/2 client, server and proxy. We have also developed load test and benchmarking tools for HTTP/2. An HPACK encoder and decoder are available as a
+    public API.
 
   nghttp3: nghttp3/0.6.0
     nghttp3 is an implementation of RFC 9114 HTTP/3 mapping over QUIC and RFC 9204 QPACK in C. It does not depend on any particular QUIC transport implementation.
@@ -1963,15 +1979,15 @@ The following is a list of the modules and extensions currently available:
     PM2 is an umbrella software suite for high-performance runtime systems. Modules may be installed and used together or separately.
 
   nodejs: nodejs/14.17.0, nodejs/14.17.6, nodejs/16.15.1, nodejs/18.12.1, nodejs/18.17.1
-    Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that
-    makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+    Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model
+    that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 
   nsync: nsync/1.24.0, nsync/1.25.0, nsync/1.26.0
     nsync is a C library that exports various synchronization primitives, such as mutexes
 
   numactl: numactl/2.0.13, numactl/2.0.14, numactl/2.0.16
-    The numactl program allows you to run your application program on specific cpu's and memory nodes. It does this by supplying a NUMA memory policy to the operating system
-    before running your program. The libnuma library provides convenient ways for you to add NUMA memory policies into your own program. 
+    The numactl program allows you to run your application program on specific cpu's and memory nodes. It does this by supplying a NUMA memory policy to the operating
+    system before running your program. The libnuma library provides convenient ways for you to add NUMA memory policies into your own program. 
 
   numba: numba/0.52.0, numba/0.54.1-CUDA-11.4.1, numba/0.56.4-CUDA-11.7.0, numba/0.56.4
     Numba is an Open Source NumPy-aware optimizing compiler for Python sponsored by Continuum Analytics, Inc. It uses the remarkable LLVM compiler infrastructure to compile
@@ -1987,8 +2003,8 @@ The following is a list of the modules and extensions currently available:
     The OTF2 library provides an interface to write and read trace data.
 
   p11-kit: p11-kit/0.24.1
-    Provides a way to load and enumerate PKCS#11 modules. Provides a standard configuration setup for installing PKCS#11 modules in such a way that they're discoverable. Also
-    solves problems with coordinating the use of PKCS#11 by different components or libraries living in the same process.
+    Provides a way to load and enumerate PKCS#11 modules. Provides a standard configuration setup for installing PKCS#11 modules in such a way that they're discoverable.
+    Also solves problems with coordinating the use of PKCS#11 by different components or libraries living in the same process.
 
   patchelf: patchelf/0.15.0, patchelf/0.17.2, patchelf/0.18.0
     PatchELF is a small utility to modify the dynamic linker and RPATH of ELF executables.
@@ -2004,12 +2020,12 @@ The following is a list of the modules and extensions currently available:
     PM2 is an umbrella software suite for high-performance runtime systems. Modules may be installed and used together or separately.
 
   pixman: pixman/0.40.0, pixman/0.42.2
-    Pixman is a low-level software library for pixel manipulation, providing features such as image compositing and trapezoid rasterization. Important users of pixman are the
-    cairo graphics library and the X server. 
+    Pixman is a low-level software library for pixel manipulation, providing features such as image compositing and trapezoid rasterization. Important users of pixman are
+    the cairo graphics library and the X server. 
 
   pkg-config: pkg-config/0.29.2
-    pkg-config is a helper tool used when compiling applications and libraries. It helps you insert the correct compiler options on the command line so an application can use gcc
-    -o test test.c `pkg-config --libs --cflags glib-2.0` for instance, rather than hard-coding values on where to find glib (or other libraries). 
+    pkg-config is a helper tool used when compiling applications and libraries. It helps you insert the correct compiler options on the command line so an application can
+    use gcc -o test test.c `pkg-config --libs --cflags glib-2.0` for instance, rather than hard-coding values on where to find glib (or other libraries). 
 
   pkgconf: pkgconf/1.8.0, pkgconf/1.9.3, pkgconf/1.9.5, pkgconf/2.0.3
     pkgconf is a program which helps to configure compiler and linker flags for development libraries. It is similar to pkg-config from freedesktop.org.
@@ -2061,10 +2077,10 @@ The following is a list of the modules and extensions currently available:
     Python interface to PROJ4 library for cartographic transformations
 
   pytesseract: pytesseract/0.3.10
-    Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper
-    for Google's Tesseract-OCR Engine. It is also useful as a stand-alone invocation script to tesseract, as it can read all image types supported by the Pillow and Leptonica
-    imaging libraries, including jpeg, png, gif, bmp, tiff, and others. Additionally, if used as a script, Python-tesseract will print the recognized text instead of writing it
-    to a file.
+    Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a
+    wrapper for Google's Tesseract-OCR Engine. It is also useful as a stand-alone invocation script to tesseract, as it can read all image types supported by the Pillow and
+    Leptonica imaging libraries, including jpeg, png, gif, bmp, tiff, and others. Additionally, if used as a script, Python-tesseract will print the recognized text instead
+    of writing it to a file.
 
   pytest: pytest/7.2.2
     The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
@@ -2076,17 +2092,17 @@ The following is a list of the modules and extensions currently available:
     pytest plugin to re-run tests to eliminate flaky failures.
 
   pytest-shard: pytest-shard/0.1.2
-    pytest plugin to support parallelism across multiple machines. Shards tests based on a hash of their test name enabling easy parallelism across machines, suitable for a wide
-    variety of continuous integration services. Tests are split at the finest level of granularity, individual test cases, enabling parallelism even if all of your tests are in a
-    single file (or even single parameterized test method). 
+    pytest plugin to support parallelism across multiple machines. Shards tests based on a hash of their test name enabling easy parallelism across machines, suitable for a
+    wide variety of continuous integration services. Tests are split at the finest level of granularity, individual test cases, enabling parallelism even if all of your
+    tests are in a single file (or even single parameterized test method). 
 
   pytest-xdist: pytest-xdist/2.3.0, pytest-xdist/2.5.0
-    xdist: pytest distributed testing plugin The pytest-xdist plugin extends pytest with some unique test execution modes: * test run parallelization: if you have multiple CPUs
-    or hosts you can use those for a combined test run. This allows to speed up development or to use special resources of remote machines. * --looponfail: run your tests
-    repeatedly in a subprocess. After each run pytest waits until a file in your project changes and then re-runs the previously failing tests. This is repeated until all tests
-    pass after which again a full run is performed. * Multi-Platform coverage: you can specify different Python interpreters or different platforms and run tests in parallel on
-    all of them. Before running tests remotely, pytest efficiently “rsyncs” your program source code to the remote place. All test results are reported back and displayed to
-    your local terminal. You may specify different Python versions and interpreters.
+    xdist: pytest distributed testing plugin The pytest-xdist plugin extends pytest with some unique test execution modes: * test run parallelization: if you have multiple
+    CPUs or hosts you can use those for a combined test run. This allows to speed up development or to use special resources of remote machines. * --looponfail: run your
+    tests repeatedly in a subprocess. After each run pytest waits until a file in your project changes and then re-runs the previously failing tests. This is repeated until
+    all tests pass after which again a full run is performed. * Multi-Platform coverage: you can specify different Python interpreters or different platforms and run tests
+    in parallel on all of them. Before running tests remotely, pytest efficiently “rsyncs” your program source code to the remote place. All test results are reported
+    back and displayed to your local terminal. You may specify different Python versions and interpreters.
 
   python-isal: python-isal/0.11.1
     Faster zlib and gzip compatible compression and decompression by providing python bindings for the isa-l library. 
@@ -2095,8 +2111,9 @@ The following is a list of the modules and extensions currently available:
     RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 
   re2c: re2c/2.2, re2c/3.0, re2c/3.1
-    re2c is a free and open-source lexer generator for C and C++. Its main goal is generating fast lexers: at least as fast as their reasonably optimized hand-coded counterparts.
-    Instead of using traditional table-driven approach, re2c encodes the generated finite state automata directly in the form of conditional jumps and comparisons.
+    re2c is a free and open-source lexer generator for C and C++. Its main goal is generating fast lexers: at least as fast as their reasonably optimized hand-coded
+    counterparts. Instead of using traditional table-driven approach, re2c encodes the generated finite state automata directly in the form of conditional jumps and
+    comparisons.
 
   redis-py: redis-py/4.5.1
     The Python interface to the Redis key-value store.
@@ -2115,9 +2132,9 @@ The following is a list of the modules and extensions currently available:
     scikit-image is a collection of algorithms for image processing.
 
   scikit-learn: scikit-learn/0.24.2, scikit-learn/1.1.2, scikit-learn/1.2.1
-    Scikit-learn integrates machine learning algorithms in the tightly-knit scientific Python world, building upon numpy, scipy, and matplotlib. As a machine-learning module, it
-    provides versatile tools for data mining and analysis in any field of science and engineering. It strives to be simple and efficient, accessible to everybody, and reusable in
-    various contexts.
+    Scikit-learn integrates machine learning algorithms in the tightly-knit scientific Python world, building upon numpy, scipy, and matplotlib. As a machine-learning
+    module, it provides versatile tools for data mining and analysis in any field of science and engineering. It strives to be simple and efficient, accessible to
+    everybody, and reusable in various contexts.
 
   settarg: settarg
     The settarg module provides a way to connect the loaded modules with your build system by setting environment variables. 
@@ -2129,8 +2146,8 @@ The following is a list of the modules and extensions currently available:
     setuptools-rust is a plugin for setuptools to build Rust Python extensions implemented with PyO3 or rust-cpython.
 
   snappy: snappy/1.1.8, snappy/1.1.9, snappy/1.1.10
-    Snappy is a compression/decompression library. It does not aim for maximum compression, or compatibility with any other compression library; instead, it aims for very high
-    speeds and reasonable compression.
+    Snappy is a compression/decompression library. It does not aim for maximum compression, or compatibility with any other compression library; instead, it aims for very
+    high speeds and reasonable compression.
 
   spaCy: spaCy/3.4.4
     Industrial-strength Natural Language Processing (NLP) in Python.
@@ -2148,19 +2165,20 @@ The following is a list of the modules and extensions currently available:
     Statsmodels is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
 
   sympy: sympy/1.10.1, sympy/1.12
-    SymPy is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to
-    be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.
+    SymPy is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in
+    order to be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.
 
   synthcity: synthcity/0.2.4
     A library for generating and evaluating synthetic tabular data.
 
   tbb: tbb/2021.5.0
-    Intel(R) Threading Building Blocks (Intel(R) TBB) lets you easily write parallel C++ programs that take full advantage of multicore performance, that are portable, composable
-    and have future-proof scalability.
+    Intel(R) Threading Building Blocks (Intel(R) TBB) lets you easily write parallel C++ programs that take full advantage of multicore performance, that are portable,
+    composable and have future-proof scalability.
 
   tcsh: tcsh/6.24.01, tcsh/6.24.07
-    Tcsh is an enhanced, but completely compatible version of the Berkeley UNIX C shell (csh). It is a command language interpreter usable both as an interactive login shell and
-    a shell script command processor. It includes a command-line editor, programmable word completion, spelling correction, a history mechanism, job control and a C-like syntax.
+    Tcsh is an enhanced, but completely compatible version of the Berkeley UNIX C shell (csh). It is a command language interpreter usable both as an interactive login
+    shell and a shell script command processor. It includes a command-line editor, programmable word completion, spelling correction, a history mechanism, job control and a
+    C-like syntax.
 
   tensorboard: tensorboard/2.8.0, tensorboard/2.10.0
     TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs.
@@ -2175,16 +2193,16 @@ The following is a list of the modules and extensions currently available:
     Tesseract is an optical character recognition engine
 
   texlive: texlive/20230313
-    TeX is a typesetting language. Instead of visually formatting your text, you enter your manuscript text intertwined with TeX commands in a plain text file. You then run TeX
-    to produce formatted output, such as a PDF file. Thus, in contrast to standard word processors, your document is a separate file that does not pretend to be a representation
-    of the final typeset output, and so can be easily edited and manipulated.
+    TeX is a typesetting language. Instead of visually formatting your text, you enter your manuscript text intertwined with TeX commands in a plain text file. You then run
+    TeX to produce formatted output, such as a PDF file. Thus, in contrast to standard word processors, your document is a separate file that does not pretend to be a
+    representation of the final typeset output, and so can be easily edited and manipulated.
 
   time: time/1.9
     The `time' command runs another program, then displays information about the resources used by that program, collected by the system while the program was running.
 
   tmux: tmux/3.3a
-    tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen. tmux may be detached from a screen and continue
-    running in the background, then later reattached.
+    tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen. tmux may be detached from a screen and
+    continue running in the background, then later reattached.
 
   torchsampler: torchsampler/0.1.2
     A (PyTorch) imbalanced dataset sampler for oversampling low classes and undersampling high frequent ones.
@@ -2222,30 +2240,31 @@ The following is a list of the modules and extensions currently available:
     acceleration in mind, leveraging common 3D graphics APIs for best performance.
 
   wxPython: wxPython/4.2.0
-    Wraps the wxWidgets C++ toolkit and provides access to the user interface portions of the wxWidgets API, enabling Python applications to have a native GUI on Windows, Macs or
-    Unix systems, with a native look and feel and requiring very little (if any) platform specific code.
+    Wraps the wxWidgets C++ toolkit and provides access to the user interface portions of the wxWidgets API, enabling Python applications to have a native GUI on Windows,
+    Macs or Unix systems, with a native look and feel and requiring very little (if any) platform specific code.
 
   wxWidgets: wxWidgets/3.2.0, wxWidgets/3.2.2.1
-    wxWidgets is a C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. It has popular language bindings
-    for Python, Perl, Ruby and many other languages, and unlike other cross-platform toolkits, wxWidgets gives applications a truly native look and feel because it uses the
-    platform's native API rather than emulating the GUI.
+    wxWidgets is a C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. It has popular language
+    bindings for Python, Perl, Ruby and many other languages, and unlike other cross-platform toolkits, wxWidgets gives applications a truly native look and feel because it
+    uses the platform's native API rather than emulating the GUI.
 
   x264: x264/20210414, x264/20210613, x264/20220620, x264/20230226
-    x264 is a free software library and application for encoding video streams into the H.264/MPEG-4 AVC compression format, and is released under the terms of the GNU GPL. 
+    x264 is a free software library and application for encoding video streams into the H.264/MPEG-4 AVC compression format, and is released under the terms of the GNU GPL.
+    
 
   x265: x265/3.5
     x265 is a free software library and application for encoding video streams into the H.265 AVC compression format, and is released under the terms of the GNU GPL. 
 
   xarray: xarray/0.20.1, xarray/2022.6.0, xarray/2022.9.0, xarray/2023.4.2, xarray/2023.9.0
-    xarray (formerly xray) is an open source project and Python package that aims to bring the labeled data power of pandas to the physical sciences, by providing N-dimensional
-    variants of the core pandas data structures.
+    xarray (formerly xray) is an open source project and Python package that aims to bring the labeled data power of pandas to the physical sciences, by providing
+    N-dimensional variants of the core pandas data structures.
 
   xorg-macros: xorg-macros/1.19.2, xorg-macros/1.19.3, xorg-macros/1.20.0
     X.org macros utilities.
 
   xprop: xprop/1.2.5
-    The xprop utility is for displaying window and font properties in an X server. One window or font is selected using the command line arguments or possibly in the case of a
-    window, by clicking on the desired window. A list of properties is then given, possibly with formatting information.
+    The xprop utility is for displaying window and font properties in an X server. One window or font is selected using the command line arguments or possibly in the case
+    of a window, by clicking on the desired window. A list of properties is then given, possibly with formatting information.
 
   xproto: xproto/7.0.31
     X protocol and ancillary headers
@@ -2257,14 +2276,14 @@ The following is a list of the modules and extensions currently available:
     Zarr is a Python package providing an implementation of compressed, chunked, N-dimensional arrays, designed for use in parallel computing.
 
   zlib: zlib/1.2.11, zlib/1.2.12, zlib/1.2.13
-    zlib is designed to be a free, general-purpose, legally unencumbered -- that is, not covered by any patents -- lossless data-compression library for use on virtually any
-    computer hardware and operating system.
+    zlib is designed to be a free, general-purpose, legally unencumbered -- that is, not covered by any patents -- lossless data-compression library for use on virtually
+    any computer hardware and operating system.
 
   zstd: zstd/1.4.5, zstd/1.4.9, zstd/1.5.0, zstd/1.5.2, zstd/1.5.5
-    Zstandard is a real-time compression algorithm, providing high compression ratios. It offers a very wide range of compression/speed trade-off, while being backed by a very
-    fast decoder. It also offers a special mode for small data, called dictionary compression, and can create dictionaries from any sample set.
+    Zstandard is a real-time compression algorithm, providing high compression ratios. It offers a very wide range of compression/speed trade-off, while being backed by a
+    very fast decoder. It also offers a special mode for small data, called dictionary compression, and can create dictionaries from any sample set.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To learn more about a package execute:
 
@@ -2277,7 +2296,7 @@ must specify the version if there is more than one version:
 
    $ module spider Foo/11.1
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
 

@@ -202,6 +202,7 @@ flit
 fltk
 foldseek
 fontconfig
+formats
 foss
 fosscuda
 freebayes
