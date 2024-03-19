@@ -482,6 +482,7 @@ flye                               	anvil
 foldseek                           	faster
 fontconfig                         	aces, faster
 forge                              	ookami
+formats                            	aces, faster
 foss                               	aces, faster
 fosscuda                           	aces, faster
 fq                                 	anvil
