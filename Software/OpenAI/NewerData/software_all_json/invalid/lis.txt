@@ -1,5 +1,0 @@
-```json
-{
-    "error": "Please provide a list of software, compilers, python libraries, computational software, conda packages, bioinformatics, and HPC tools to generate the detailed JSON output."
-}
-```

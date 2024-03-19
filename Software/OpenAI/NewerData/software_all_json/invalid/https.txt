@@ -1,9 +1,0 @@
-{
-  "software": [],
-  "compiler": [],
-  "python_libraries": [],
-  "computational_software": [],
-  "conda_packages": [],
-  "bioinformatics": [],
-  "HPC_tools": []
-}

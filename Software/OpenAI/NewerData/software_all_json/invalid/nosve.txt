@@ -1,5 +1,0 @@
-```json
-{
-    "error": "No information found for the provided input."
-}
-```

@@ -1,6 +1,0 @@
-{
-  "name": "Nosve",
-  "softwareURL": "No official link, unable to find any software named 'Nosve'",
-  "documentationURLs": [],
-  "trainingURLs": []
-}

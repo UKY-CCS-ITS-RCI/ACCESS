@@ -1,3 +1,0 @@
-{
-  "error": "No information found for the input provided. Please provide a valid list of software, compilers, python libraries, computational software, conda packages, bioinformatics, or HPC tools."
-}

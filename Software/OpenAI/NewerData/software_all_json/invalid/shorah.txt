@@ -1,3 +1,0 @@
-{
-    "error": "No valid input provided. Please provide a list of software, compilers, python libraries, computational software, conda packages, bioinformatics, and HPC tools."
-}
