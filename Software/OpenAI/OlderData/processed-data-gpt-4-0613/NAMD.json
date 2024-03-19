@@ -1,0 +1,12 @@
+
+{
+  "NAMD": {
+    "Software Page": "https://www.ks.uiuc.edu/Research/namd/",
+    "Documentation": "https://www.ks.uiuc.edu/Research/namd/2.14/ug/",
+    "Tutorials": [
+      "https://www.ks.uiuc.edu/Training/Tutorials/science/namd/",
+      "https://www.ks.uiuc.edu/Research/namd/tutorial/NCSA2002/"
+    ]
+  }
+}
+

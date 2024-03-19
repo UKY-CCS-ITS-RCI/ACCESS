@@ -1,0 +1,22 @@
+{
+  "software": {
+    "name": "nvtop",
+    "softwareUrl": "https://github.com/Syllo/nvtop",
+    "documentationUrl": "https://github.com/Syllo/nvtop/blob/master/INSTALL.md",
+    "tutorials": [
+      {
+        "name": "Building RPM/DEB packages",
+        "url": "https://github.com/Syllo/nvtop/wiki/Building-RPM/DEB-packages"
+      },
+      {
+        "name": "NVTOP GitLab repository",
+        "url": "https://gitlab.com/glatard/nvtop"
+      },
+      {
+        "name": "NVTOP Code Blocks",
+        "url": "https://www.codeblocks.org/"
+      }
+    ],
+    "trainingMaterials": []
+  }
+}

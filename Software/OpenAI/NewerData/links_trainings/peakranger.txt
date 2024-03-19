@@ -1,0 +1,19 @@
+{
+  "Software": "PeakRanger",
+  "Details": [
+    {
+      "SoftwarePage": "http://ranger.sourceforge.net/",
+      "Documentation": "http://ranger.sourceforge.net/manual.html",
+      "Tutorials_Training": [
+        {
+          "name": "PeakRanger Tutorial in R",
+          "link": "http://cistrome.org/Cistrome/CisGenome_Tutorial_files/PeakRanger_tutorial.pdf"
+        },
+        {
+          "name": "PeakRanger Presentation",
+          "link": "https://slideplayer.com/slide/7646377/"
+        }
+      ]
+    }
+  ]
+}

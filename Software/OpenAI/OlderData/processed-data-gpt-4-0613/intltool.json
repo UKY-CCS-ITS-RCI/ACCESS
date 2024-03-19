@@ -1,0 +1,12 @@
+{
+  "Software": "intltool",
+  "Details": {
+    "Software Link": "https://freedesktop.org/wiki/Software/intltool/",
+    "Documentation": "https://freedesktop.org/wiki/Software/intltool/",
+    "Tutorials": [
+      {
+        "Tutorial Link": "https://wiki.gnome.org/TranslationProject/DevGuidelines/Intltool"
+      }
+    ]
+  }
+}

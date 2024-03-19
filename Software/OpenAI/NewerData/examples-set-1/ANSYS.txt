@@ -1,0 +1,34 @@
+Use Case: Use ANSYS for performing finite element analysis and computational fluid dynamics simulations.
+
+Code details and examples: Code.
+
+**Finite Element Analysis**
+
+Input file: For a finite element simulation in ANSYS, the input file is generally a model of the solid object under study. This model is typically created using ANSYS or a program like AutoCAD, saved as a STEP file (.stp), and imported into the ANSYS environment.
+
+Command to run: In the ANSYS environment, the analysis process typically consists of these steps:
+
+1. Import the model (File > Import > Select file)
+2. Define the material properties (Engineering Data)
+3. Assign the material to the parts of the model (Geometry)
+4. Apply boundary conditions and loads (Model)
+5. Determine the type and properties of the finite elements to be used (Mesh)
+6. Solve the finite element model (Solution).
+7. Post-processing (Results)
+
+**Computational Fluid Dynamics (CFD)**
+
+Input files: The input for a fluid flow simulation in ANSYS CFD typically includes a geometric model of the flow domain, a definition of the fluid material properties, and data on the boundary conditions of the flow.
+
+Command to run: CFD simulations in ANSYS are typically done using the Fluent solver. The process involves the following steps:
+
+1. Import the geometric model (File > Import > Select file)
+2. Define the fluid and its material properties (Materials > Fluent Database > Select Fluid)
+3. Set up the flow model type and options (Models)
+4. Set up the boundary conditions (Boundary Conditions)
+5. Set up the fluid mesh (Mesh)
+6. Initialize the solution (Solution Initialization)
+7. Solve the flow (Run Calculations)
+8. Post-process and analyze the results (Results)
+
+Please note that the exact details and additional options can vary depending on the specifics of the study. The exact format of input files can also vary depending on the tools used to create them. For additional commands and options, you can always refer to the official documentation provided by ANSYS.

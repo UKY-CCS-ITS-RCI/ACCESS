@@ -1,0 +1,10 @@
+{
+  "Software Name": "Chameleon",
+  "Software Page": "https://www.chameleoncloud.org/",
+  "Documentation": "https://chameleoncloud.readthedocs.io/en/latest/",
+  "Tutorials and Training Materials": {
+    "Getting Started with Chameleon": "https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html",
+    "Creating a Lease on Chameleon": "https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html#creating-a-lease",
+    "Running an Experiment on Chameleon": "https://chameleoncloud.readthedocs.io/en/latest/technical/tutorial_xenon1t.html"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "software_name": "Open Data Cube Core",
+  "software_page": "https://www.opendatacube.org/",
+  "documentation": {
+    "GitHub Wiki": "https://github.com/opendatacube/datacube-core/wiki",
+    "Datacube Python API": "https://datacube-core.readthedocs.io/en/latest/"
+  },
+  "training_materials": {
+    "Open Data Cube Workshop": "https://www.opendatacube.org/datacube-workshop",
+    "Open Data Cube on Github": "https://github.com/opendatacube",
+    "Training slide deck": "https://www.opendatacube.org/datacube-oss",
+    "Data Cube Jupyter Notebooks": "https://github.com/ceos-seo/data_cube_notebooks"
+  }
+}

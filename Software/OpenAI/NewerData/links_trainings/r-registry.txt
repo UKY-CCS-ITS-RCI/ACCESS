@@ -1,0 +1,26 @@
+{
+  "r-registry": {
+    "softwarePage": "https://www.rdocumentation.org/packages/registry/versions/0.5-1",
+    "documentation": [
+        "https://www.rdocumentation.org/packages/registry/versions/0.5-1",
+        "https://cran.r-project.org/web/packages/registry/registry.pdf"
+    ],
+
+    "trainingMaterials": [
+        {
+            "title": "R Programming - Data Science Tutorial",
+            "link": "https://www.youtube.com/watch?v=_V8eKsto3Ug"
+        },
+        {
+            "title": "R Tutorial for Beginners - Learn R Programming",
+            "link": "https://www.javatpoint.com/r-tutorial"
+        }
+    ],
+    "tutorials": [
+        {
+            "title": "R Programming Tutorial",
+            "link": "https://www.tutorialspoint.com/r/index.htm"
+        }
+    ]
+  }
+}

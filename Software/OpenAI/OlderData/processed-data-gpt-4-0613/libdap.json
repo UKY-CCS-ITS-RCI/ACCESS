@@ -1,0 +1,9 @@
+{
+    "software": "libdap",
+    "resources": {
+        "softwareHomepage": "https://www.opendap.org/software/libdap",
+        "documentation": "https://docs.opendap.org/index.php/Developer/Source_Code/libdap",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "softwareName": "Einops",
+    "softwareURL": "https://github.com/arogozhnikov/einops",
+    "documentationLink": "https://einops.rocks/",
+    "trainingMaterials": [
+        {
+            "trainingName": "Einops package introduction and tutorial",
+            "trainingURL": "https://arogozhnikov.github.io/einops/"
+        }
+    ]
+}

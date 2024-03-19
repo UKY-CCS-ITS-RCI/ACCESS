@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "JsonCpp": {
+      "MainPage": "https://github.com/open-source-parsers/jsoncpp",
+      "Documentation": "https://github.com/open-source-parsers/jsoncpp/wiki",
+      "Tutorials": [
+        "https://www.codeproject.com/Articles/55340/JsonCpp-A-C-JSON-parser-generator-implemented-with",
+        "https://riptutorial.com/cplusplus/example/31679/how-to-use-jsoncpp",
+        "https://xiaoyusilen.gitbook.io/jsoncpp-tutorials/"
+      ]
+    }
+  }
+}

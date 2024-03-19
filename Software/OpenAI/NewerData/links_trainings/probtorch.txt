@@ -1,0 +1,9 @@
+{
+"Software Name": "probtorch",
+"Official Website": "https://github.com/probtorch/probtorch",
+"Documentation": "https://probtorch.github.io/probtorch",
+"Training Materials and Tutorials": {
+    "1": "https://probtorch.github.io/probtorch/tutorials.html",
+    "2": "https://github.com/probtorch/probtorch/tree/master/examples"
+  }
+}

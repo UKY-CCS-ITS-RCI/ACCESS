@@ -1,0 +1,19 @@
+{
+"name": "AlphaFold",
+"softwarePage": "https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19",
+"documentation": "https://github.com/deepmind/alphafold",
+"tutorialMaterials": [
+    {
+        "name": "AlphaFold Code User Guide",
+        "url": "https://www.alphafold.ebi.ac.uk/user-guide"
+    },
+    {
+        "name": "How does AlphaFold work?",
+        "url": "https://medium.com/@chubbsondubs/how-does-alphafold-work-4142f1aee245"
+    },
+    {
+        "name": "How to Run AlphaFold 2.0 on Your Personal Computer",
+        "url": "https://www.justintank.com/blog/how-to-run-alphafold-2-personal-computer"
+    }
+  ]
+}

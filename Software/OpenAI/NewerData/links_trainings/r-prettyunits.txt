@@ -1,0 +1,10 @@
+{
+    "software": "r-prettyunits",
+    "web_url": "https://cran.r-project.org/web/packages/prettyunits/index.html",
+    "documentation_links": [
+        "https://cran.r-project.org/web/packages/prettyunits/prettyunits.pdf"
+    ],
+    "tutorials_and_training_materials": [
+        "https://www.rdocumentation.org/packages/prettyunits/versions/1.1.1"
+    ]
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "Laplace Transform",
+    "reference_page": "https://mathworld.wolfram.com/LaplaceTransform.html",
+    "documentation": "https://tutorial.math.lamar.edu/classes/de/laplacetransform.aspx",
+    "tutorials": [
+        "https://www.khanacademy.org/math/differential-equations/laplace-transform",
+        "https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/differential-equations-and-linear-algebra/laplace-transform/",
+        "https://www.youtube.com/watch?v=mr_zLu4CHnc"
+    ],
+    "additional_resources": [
+        "https://en.wikipedia.org/wiki/Laplace_transform",
+        "https://www.math24.net/laplace-transforms/",
+        "https://math.stackexchange.com/questions/tagged/laplace-transform"
+    ]
+}

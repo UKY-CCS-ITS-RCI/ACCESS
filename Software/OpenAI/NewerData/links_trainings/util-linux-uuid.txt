@@ -1,0 +1,14 @@
+{
+  "Util-linux-uuid": {
+    "software_page": "https://en.wikipedia.org/wiki/Util-linux",
+    "documentation": [
+      "https://www.man7.org/linux/man-pages/man1/uuid.1.html",
+      "https://linux.die.net/man/3/libuuid"
+    ],
+    "tutorials_and_training_materials": [
+      "https://www.cyberciti.biz/faq/linux-unix-creating-a-new-uuid-using-uuidgen-command/",
+      "https://www.howtoforge.com/linux-uuid-command/",
+      "http://seekingtomorrow.com/2016/07/25/generating-uuid-linux-command-line/"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "software_name": "blast+",
+    "software_page": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
+    "documentation": [
+        {
+            "title": "User Manual",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK279690/"
+        }
+    ],
+    "training_materials": [
+        {
+            "title": "BLAST+ Command line applications tutorial",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK279680/"
+        },
+        {
+            "title": "BLAST+ Help manual",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK131777/"
+        },
+        {
+            "title": "Biostars Tutorial on blast+",
+            "link": "https://www.biostars.org/p/66921/"
+        },
+        {
+            "title": "BLAST+ on HPC",
+            "link": "https://www.vbi.vt.edu/hsd/tutorials/blast/index.php"
+        }
+    ]
+}

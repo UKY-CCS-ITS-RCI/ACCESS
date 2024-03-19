@@ -1,0 +1,11 @@
+{
+  "software": {
+    "name": "ExpansionHunter",
+    "software_url": "https://github.com/Illumina/ExpansionHunter",
+    "documentation_url": "https://github.com/Illumina/ExpansionHunter/blob/master/docs/README.md",
+    "tutorials": {
+      "overview": "https://www.youtube.com/watch?v=ARd-tzw9KPE",
+      "user_manual": "https://illumina.github.io/ExpansionHunter/v4/manual/"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+   "Software": "bcl2fastq",
+   "Website": "https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html",
+   "Documentation": "https://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq2-v2-20-software-guide-15051736-03.pdf",
+   "Tutorial_and_Training": [
+       "https://informatics.fas.harvard.edu/illumina-bcl-to-fastq-conversion.html",
+       "https://galaxyproject.org/tutorials/ngs/"
+   ]
+}

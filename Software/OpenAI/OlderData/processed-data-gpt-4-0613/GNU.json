@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GNU": {
+      "MainPage": "https://www.gnu.org/",
+      "Documentation": "https://www.gnu.org/manual/manual.html",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=8e2fJfiddx4",
+        "https://www.gnu.org/software/software.html",
+        "https://www.computerhope.com/unix.htm"
+      ]
+    }
+  }
+}

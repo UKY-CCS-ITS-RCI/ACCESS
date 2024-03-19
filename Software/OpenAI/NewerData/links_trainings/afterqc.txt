@@ -1,0 +1,10 @@
+{
+    "name": "AfterQC",
+    "software_url": "https://github.com/OpenGene/AfterQC",
+    "documentation_url": "https://github.com/OpenGene/AfterQC#usage",
+    "tutorial_urls": [
+        "https://opengene.org/AfterQC/tutorial.html",
+        "https://bioconda.github.io/recipes/afterqc/README.html",
+        "https://www.biostars.org/p/271879/"
+    ]
+}

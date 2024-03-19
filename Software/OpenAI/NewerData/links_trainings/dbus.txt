@@ -1,0 +1,19 @@
+{
+   "software": "dbus",
+   "link": "https://www.freedesktop.org/wiki/Software/dbus/",
+   "documentation": "https://dbus.freedesktop.org/doc/api/html/index.html",
+   "tutorial": [
+      {
+         "title": "D-Bus Tutorial",
+         "link": "https://developer.gnome.org/gio/stable/ch01.html"
+      },
+      {
+         "title": "D-Bus IPC tutorial",
+         "link": "https://linoxide.com/linux-how-to/d-bus-ipc-mechanism-linux/"
+      },
+      {
+         "title": "D-Bus Tutorial from freedesktop",
+         "link": "https://dbus.freedesktop.org/doc/dbus-tutorial.html"
+      }
+   ]
+}

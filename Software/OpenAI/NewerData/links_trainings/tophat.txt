@@ -1,0 +1,19 @@
+{
+    "Software_Name": "TopHat",
+    "Software_URL": "https://ccb.jhu.edu/software/tophat/index.shtml",
+    "Documentation_URL": "https://ccb.jhu.edu/software/tophat/manual.shtml",
+    "Training_Materials": [
+        {
+            "Type": "Tutorial",
+            "URL": "https://ccb.jhu.edu/software/tophat/tutorial.shtml"
+        },
+        {
+            "Type": "User Guide",
+            "URL": "https://ccb.jhu.edu/software/tophat/manual.shtml"
+        },
+        {
+            "Type": "Installation Guide",
+            "URL": "https://ccb.jhu.edu/software/tophat/installation.shtml"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "Software": "imageio",
+  "Details": {
+    "Software Link": "https://imageio.readthedocs.io/",
+    "Documentation": "https://imageio.readthedocs.io/en/stable/userapi.html",
+    "Tutorials": [
+      {
+        "Tutorial Link": "https://imageio.readthedocs.io/en/stable/examples.html"
+      },
+      {
+        "Tutorial Link": "https://pythontic.com/visualization/signals/imageio"
+      }
+    ]
+  }
+}

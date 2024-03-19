@@ -1,0 +1,43 @@
+Use Case: PyTorch is an open-source machine learning framework that accelerates the path from research to production, enabling faster prototyping and reducing the need for recoding. It provides a wide range of algorithms for deep learning, and uses the dynamic computational graph of TorchScript for processing. PyTorch is mostly used for applications such as natural language processing.
+
+Code Details and Examples:
+
+Code:
+
+```python
+import torch
+
+# Create a random tensor
+x = torch.rand(5, 3)
+print(x)
+
+# Create a tensor based on an existing tensor. 
+# These methods will reuse properties of the input tensor, e.g. dtype, unless new values are provided by user
+x = x.new_ones(5, 3, dtype=torch.double)      
+print(x)
+
+# Add two tensors with the same shape
+y = torch.rand(5, 3)
+print(x + y)
+
+# Resize/reshape tensor
+x = torch.randn(4, 4)
+y = x.view(16)
+z = x.view(-1, 8)  # the size -1 is inferred from other dimensions
+print(x.size(), y.size(), z.size())
+```
+
+Input:
+
+No specific input file necessary. PyTorch's data manipulation is done through tensors, and it has utilities for loading data in parallel.
+
+Command:
+
+To run a python file using PyTorch, you would typically execute:
+```sh
+python filename.py
+```
+
+Specifications:
+
+All tensor operations considering the computation graph are defined under torch namespace. PyTorch supports a variety of tensor types and operations, much like numpy. Additionally, it also offers rich API for neural network. One of the major advantages of PyTorch is that it uses dynamic computation graph, meaning the graph is generated on the fly and the graph operation could be changed dynamically in the program.

@@ -1,0 +1,28 @@
+Use Case: YAML is not a software package in itself, but a human-friendly data serialization language that is often used to write configuration files for many software applications. It’s particularly popular in configuration files for Ruby on Rails and other Ruby applications, Docker, Kubernetes, and more. 
+
+Code details and examples: 
+
+For example, in the following YAML file (sample_input.css.yml), the CSS styles are defined and loaded in a Ruby on Rails application.
+
+```yaml
+stylesheets:
+  - reset
+  - grid
+  - typography
+```
+
+In this Ruby code snippet, the YAML file is loaded:
+
+```ruby
+require 'yaml'
+
+file = YAML.load_file('sample_input.css.yml')
+
+file['stylesheets'].each do |stylesheet|
+  puts stylesheet
+end
+```
+
+This Ruby code reads in the YAML file, then for each stylesheet mentioned in the file, it prints the name of the stylesheet to the command line. There's no particular command to run YAML files as they are typically used as configuration files. 
+
+The format of YAML files is quite versatile and depends on the specific use case. The data in YAML files often looks like key-value pairs, such as in the example above. Here, the key is "stylesheets" and the value is a list of stylesheets ("reset", "grid", "typography").

@@ -1,0 +1,14 @@
+{
+    "software": "libtool",
+    "resources": {
+        "softwareHomepage": "https://www.gnu.org/software/libtool/",
+        "documentation": "https://www.gnu.org/software/libtool/manual/",
+        "tutorials": [
+            {
+                "title": "Automake and Libtool",
+                "url": "https://www.lrde.epita.fr/~adl/autotools.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

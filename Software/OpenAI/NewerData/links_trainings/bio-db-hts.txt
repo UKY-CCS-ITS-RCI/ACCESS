@@ -1,0 +1,30 @@
+{
+  "software": "bio-db-hts",
+  "details": {
+    "software_homepage": "https://metacpan.org/pod/Bio::DB::HTS",
+    "documentation": [
+      {
+        "title": "HTSlib Docs",
+        "url": "https://www.htslib.org/doc/"
+      },
+      {
+        "title": "DB::HTS Docs",
+        "url": "https://metacpan.org/pod/Bio::DB::HTS"
+      }
+    ],
+    "tutorials_and_training_materials": [
+      {
+        "title": "Github Bio-DB-HTS",
+        "url": "https://github.com/Ensembl/Bio-DB-HTS"
+      },
+      {
+        "title": "BioPerl Introduction",
+        "url": "http://bioperl.org/tutorial/"
+      },
+      {
+        "title": "BioPerl HOWTOs",
+        "url": "http://bioperl.org/howtos/"
+      }
+    ]
+  }
+}

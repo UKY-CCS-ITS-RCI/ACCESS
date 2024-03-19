@@ -1,0 +1,12 @@
+{
+  "Software Name": "Serf",
+  "links": {
+    "software page": "https://serf.apache.org/",
+    "documentation": "https://serf.apache.org/docs/",
+    "tutorials": [
+      "https://serf.apache.org/start.html",
+      "https://www.youtube.com/watch?v=8F_YC8Adkk8",
+      "https://www.lynda.com/Apache-Subversion-tutorials/Version-control-with-SVN-Apache-Subversion"
+    ]
+  }
+}

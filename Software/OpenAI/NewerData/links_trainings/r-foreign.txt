@@ -1,0 +1,38 @@
+{
+    "software_name": "R-Foreign",
+    "software_url": "https://cran.r-project.org/web/packages/foreign/index.html",
+    "documentation_links": [
+        {
+            "documentation_name": "CRAN",
+            "documentation_url": "https://cran.r-project.org/web/packages/foreign/foreign.pdf"
+        },
+        {
+            "documentation_name": "rdrr.io",
+            "documentation_url": "https://rdrr.io/cran/foreign/man/foreign-package.html"
+        }
+    ],
+    "tutorial_links": [
+        {
+            "tutorial_name": "DataCamp",
+            "tutorial_url": "https://www.datacamp.com/community/tutorials/r-data-import-tutorial"
+        },
+        {
+            "tutorial_name": "Stack Overflow",
+            "tutorial_url": "https://stackoverflow.com/questions/7285316/need-help-reading-in-stata-data-with-foreign-package-read-dta"
+        },
+        {
+            "tutorial_name": "Nick Horton's Blog",
+            "tutorial_url": "https://nhorton.people.amherst.edu/r2/datasets.html"
+        }
+    ],
+    "training_links": [
+        {
+            "training_name": "Edureka",
+            "training_url": "https://www.edureka.co/blog/r-packages"
+        },
+        {
+            "training_name": "DataCamp",
+            "training_url": "https://www.datacamp.com/tracks/r-programming"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "softwareName": "Giflib",
+  "links": {
+    "softwarePage": "http://giflib.sourceforge.net/",
+    "documentation": "http://giflib.sourceforge.net/libungif-4.x/ungif_3.html",
+    "tutorial1": "https://schafercorp.com/giflib/",
+    "tutorial2": "https://opensource.com/article/19/2/command-line-tools-image-conversion"
+  }
+}

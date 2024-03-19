@@ -1,0 +1,22 @@
+{
+    "softwareName": "Gurobi",
+    "softwarePage": {
+        "link": "https://www.gurobi.com/"
+    },
+    "documentation": {
+        "link": "https://www.gurobi.com/documentation/"
+    },
+    "tutorialMaterials": [
+        {
+            "introToGurobi": {
+                "link": "https://www.gurobi.com/resource/tutorial-mathematical-programming/"
+            },
+            "gurobiPython": {
+                "link": "https://www.gurobi.com/documentation/9.1/quickstart_mac/cs_grbpy_the_gurobi_python.html"
+            },
+            "gurobiExamples": {
+                "link": "https://www.gurobi.com/resource/example-models/"
+            }
+        }
+    ]
+}

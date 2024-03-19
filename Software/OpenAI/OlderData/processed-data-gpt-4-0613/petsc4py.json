@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "petsc4py",
+  "Homepage": "https://petsc4py.readthedocs.io/en/stable/",
+  "Resources": {
+    "Documentation": "https://petsc4py.readthedocs.io/en/stable/",
+    "Tutorials": [
+      "https://www.mcs.anl.gov/petsc/documentation/tutorials/",
+      "https://www.mcs.anl.gov/petsc/documentation/installation.html"
+    ],
+    "TrainingMaterial": [
+      "https://www.mcs.anl.gov/petsc/petsc-current/docs/linearsolvertable.html",
+      "https://jakevdp.github.io/blog/2013/08/07/conway-life/"
+    ]
+  }
+}

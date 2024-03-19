@@ -1,0 +1,10 @@
+{
+    "Software": "BLAST",
+    "Website": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
+    "Documentation": "https://www.ncbi.nlm.nih.gov/books/NBK279690/",
+    "Tutorial_and_Training": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK279681/",
+        "https://evomicsorg.github.io/workshops/genomics/blast/",
+        "https://www.youtube.com/watch?v=TEx2W6Io7vs"
+    ]
+}

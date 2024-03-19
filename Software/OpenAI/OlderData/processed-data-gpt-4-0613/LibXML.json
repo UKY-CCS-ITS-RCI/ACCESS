@@ -1,0 +1,14 @@
+
+{
+    "name": "LibXML",
+    "software_page": "http://xmlsoft.org/",
+    "documentation": "http://xmlsoft.org/html/libxml-xmlversion.html",
+    "tutorials": [
+        "https://www.xml.com/pub/a/1999/09/expat/index.html",
+        "https://en.wikibooks.org/wiki/XML_-_Managing_Data_Exchange/Libxml"
+    ],
+    "additional_resources": [
+        "https://www.rpmfind.net/linux/rpm2html/search.php?query=libxml2",
+        "https://stackoverflow.com/questions/tagged/libxml2"
+    ]
+}

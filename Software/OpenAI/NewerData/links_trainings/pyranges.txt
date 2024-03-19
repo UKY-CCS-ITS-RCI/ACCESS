@@ -1,0 +1,14 @@
+{
+  "Software": {
+    "pyranges": {
+      "Website": "https://pyranges.readthedocs.io/en/latest/",
+      "Documentation": "https://pyranges.readthedocs.io/en/latest/autoapi/pyranges/index.html",
+      "Training": [
+        {
+          "Tutorial": "https://nbviewer.jupyter.org/github/biocore-ntnu/pyranges/blob/master/docs/tutorial.ipynb",
+          "Usage Examples": "https://bioinformaticsdotca.github.io/pyranges"
+        }
+      ]
+    }
+  }
+}

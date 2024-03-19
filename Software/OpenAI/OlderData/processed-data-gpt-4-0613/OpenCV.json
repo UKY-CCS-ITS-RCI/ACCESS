@@ -1,0 +1,32 @@
+{
+  "software": "OpenCV",
+  "website": "https://opencv.org/",
+  "documentation": [
+    {
+      "title": "OpenCV Documentation",
+      "url": "https://docs.opencv.org/master/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "OpenCV Python Tutorials",
+      "url": "https://docs.opencv.org/master/d6/d00/tutorial_py_root.html"
+    },
+    {
+      "title": "OpenCV C++ Tutorials",
+      "url": "https://docs.opencv.org/master/d9/df8/tutorial_root.html"
+    },
+    {
+      "title": "OpenCV Tutorials (Introduction to OpenCV)",
+      "url": "https://www.learnopencv.com/"
+    },
+    {
+      "title": "OpenCV Courses and Tutorials on Udemy",
+      "url": "https://www.udemy.com/topic/opencv/"
+    },
+    {
+      "title": "Youtube Tutorials on OpenCV",
+      "url": "https://www.youtube.com/results?search_query=OpenCV+tutorials"
+    }
+  ]
+}

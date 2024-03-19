@@ -1,0 +1,19 @@
+{
+    "software": {
+        "name": "Unicycler",
+        "details": {
+            "url": "https://github.com/rrwick/Unicycler",
+            "additional_links": {
+                "documentation": "https://github.com/rrwick/Unicycler/wiki",
+                "tutorials": [
+                    "https://angus.readthedocs.io/en/2017/unicycler.html",
+                    "https://protocols.scienceexchange.com/protocols/plasmid-recovery-from-nanopore-data-using-unicycler"
+                ],
+                "training_materials": [
+                    "https://angus.readthedocs.io/en/2017/unicycler.html",
+                    "https://www.biorxiv.org/content/10.1101/219915v1"
+                ]
+            }
+        }
+    }
+}

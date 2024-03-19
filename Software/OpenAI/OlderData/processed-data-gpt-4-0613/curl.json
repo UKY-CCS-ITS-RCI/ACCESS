@@ -1,0 +1,10 @@
+{
+    "software_name": "curl",
+    "software_link": "https://curl.se/",
+    "documentation_link": "https://curl.se/docs/",
+    "tutorial_links": {
+        "tutorial_1": "https://www.tutorialspoint.com/curl/curl_tutorial.pdf",
+        "tutorial_2": "https://www.educba.com/curl-command-tutorial/",
+        "tutorial_3": "https://readwrite.com/2011/09/23/curl-tutorial-with-examples-of-usage/"
+    }
+}

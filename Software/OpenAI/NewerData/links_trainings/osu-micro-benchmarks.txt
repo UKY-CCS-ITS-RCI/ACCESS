@@ -1,0 +1,11 @@
+{
+  "Software": "osu-micro-benchmarks",
+  "Website": "http://mvapich.cse.ohio-state.edu/benchmarks/",
+  "Additional links": {
+    "Documentation": "http://mvapich.cse.ohio-state.edu/static/media/mvapich/osu_benchmarks_v5.6.pdf",
+    "Tutorials and Training": [
+      "https://www.olcf.ornl.gov/training-event/osu-micro-benchmarks-ompdbgm-libmpi-training/",
+      "https://www.youtube.com/watch?v=ieB3XWhl3bQ"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "Software Name": "AMD BLIS",
+    "Software URL": "https://developer.amd.com/amd-aocl/blas-library/",
+    "Documentation URL": "https://developer.amd.com/amd-aocl/blas-library/#documentation-and-support",
+    "Training and Tutorials": {
+      "AMD BLIS Tutorial 1": "https://www.youtube.com/watch?v=-f4w_9Ri-wA",
+      "AMD BLIS Tutorial 2": "https://www.youtube.com/watch?v=GqX_W8jyHME"
+    }
+}

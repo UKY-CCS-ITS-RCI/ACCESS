@@ -1,0 +1,24 @@
+{
+  "software": "idl",
+  "software_url": "https://www.harrisgeospatial.com/Software-Technology/IDL",
+  "documentation": [
+    {
+      "documentation_title": "Harris Geospatial Documentation Center",
+      "documentation_url": "https://www.harrisgeospatial.com/docs/home.html"
+    }
+  ],
+  "tutorial": [
+    {
+      "tutorial_title": "IDL Tutorial",
+      "tutorial_url": "https://www.harrisgeospatial.com/docs/Using_IDL_HOME.html"
+    },
+    {
+      "tutorial_title": "An Introduction to Programming with IDL",
+      "tutorial_url": "https://www.harrisgeospatial.com/docs/An_Introduction_to_Programming_with_IDL.html"
+    },
+    {
+      "tutorial_title": "IDL Programming Techniques",
+      "tutorial_url": "https://www.harrisgeospatial.com/docs/IDL_Programming_Techniques.html"
+    }
+  ]
+}

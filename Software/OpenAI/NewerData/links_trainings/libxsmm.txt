@@ -1,0 +1,10 @@
+{
+  "name": "libxsmm",
+  "software_page": "https://github.com/hfp/libxsmm",
+  "additional_URLs": [
+    {
+      "documentation": "https://github.com/hfp/libxsmm#readme",
+      "tutorial": "https://software.intel.com/content/www/us/en/develop/articles/how-to-use-libxsmm.html"
+    }
+  ]
+}

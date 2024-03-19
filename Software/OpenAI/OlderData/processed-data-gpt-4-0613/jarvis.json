@@ -1,0 +1,13 @@
+{
+  "Software_Details": [
+    {
+      "Software_Name": "Jarvis",
+      "Software_URL": "https://jarvis-tools.github.io/jarvis/",
+      "Documentation_URL": "https://jarvis-tools.readthedocs.io/en/latest/",
+      "Tutorial_URLS": [
+        "https://medium.com/swlh/simple-way-to-install-jarvis-on-ubuntu-45de96956f1c",
+        "https://www.youtube.com/watch?v=ZeuyIrck91M"
+      ]
+    }
+  ]
+}

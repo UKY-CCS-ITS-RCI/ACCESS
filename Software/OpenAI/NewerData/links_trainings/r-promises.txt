@@ -1,0 +1,21 @@
+{
+  "software_name": "r-promises",
+  "software_link": "https://cran.r-project.org/web/packages/promises/index.html",
+  "additional_resources": {
+    "documentation_link": "https://cran.r-project.org/web/packages/promises/promises.pdf",
+    "tutorial_materials": [
+      {
+        "title": "Intro to promises package",
+        "link": "https://rstudio.github.io/promises/"
+      },
+      {
+        "title": "Using promises in R package",
+        "link": "https://rstudio.github.io/promises/articles/intro.html"
+      },
+      {
+        "title": "Futures and Promises in R",
+        "link": "https://www.datacamp.com/community/tutorials/future-future-apply-promises"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "software_name": "tar",
+  "software_URL": "https://www.gnu.org/software/tar/",
+  "documentation_links": [
+    {
+      "doc_name": "GNU tar manual",
+      "doc_URL": "https://www.gnu.org/software/tar/manual/"
+    }
+  ],
+  "training_materials": [
+    {
+      "material_name": "GNU tar tutorial",
+      "material_URL": "https://www.gnu.org/software/tar/tar_tutorial.html"
+    },
+    {
+      "material_name": "Introduction to Tar",
+      "material_URL": "https://tutorialspoint.com/unix_commands/tar.htm"
+    },
+    {
+      "material_name": "The Tar Command in Linux",
+      "material_URL": "https://www.linode.com/docs/tools-reference/tools/the-tar-command-in-linux/"
+    }
+  ]
+}

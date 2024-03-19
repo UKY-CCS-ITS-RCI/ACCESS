@@ -1,0 +1,13 @@
+{
+  "Scientific Software": [
+    {
+      "Name": "lhsmdu",
+      "Software Page": "https://pypi.org/project/lhsmdu/",
+      "Documentation": "https://pythonhosted.org/lhsmdu/",
+      "Tutorials": [
+        "https://pythonhosted.org/lhsmdu/tutorial.html"
+      ],
+      "Training Materials": ["Not Available"]
+    }
+  ]
+}

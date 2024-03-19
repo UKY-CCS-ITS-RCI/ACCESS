@@ -1,0 +1,16 @@
+{
+  "software": "pyvcf3",
+  "softwareURL": "https://pypi.org/project/PyVCF3/",
+  "documentation": [
+    {
+      "docTitle": "PyVCF Documentation",
+      "docURL": "https://pypi.org/project/PyVCF3/"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorialTitle": "Python $ VCF (PyVCF3)",
+      "tutorialURL": "https://www.youtube.com/watch?v=6Y2afWi0Yzs"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+Use Case: Cairo is a 2D graphics library with support for multiple output devices. It is used to provide high-quality display and print output.
+
+Code details and examples: Code
+Cairo's input is typically via its API. Below is an example of how Cairo might be used to draw a simple line in the Python language using the PyCairo library. 
+
+```python
+import cairo
+
+#First, let's set up the surface and context
+surf = cairo.ImageSurface(cairo.FORMAT_ARGB32, 200, 200) #The 'surface' is where we are drawing
+cr = cairo.Context(surf) #The context is the 'pen' we are drawing with
+
+#Then let's draw our line: start the path at 50, 50
+cr.move_to(50, 50)
+#Draw a line to 150, 150
+cr.line_to(150, 150)
+#A line is not actually drawn until we call 'stroke'
+cr.stroke()
+
+#And then let's save our surface to a PNG file and clean up
+surf.write_to_png("line.png")
+```
+
+Running the script: 
+
+This script can be run using python by saving the script to a file, say `cairo_example.py` and then at the command line you would type `python cairo_example.py`. This would create a PNG file in the same directory named `line.png` containing a diagonal line. 
+
+Remember that Cairo does not have simple input files like some raw data processing software does, it is used in application code. This is a more direct, in-code sample and execution.

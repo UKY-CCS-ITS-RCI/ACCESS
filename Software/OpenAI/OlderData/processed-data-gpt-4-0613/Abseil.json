@@ -1,0 +1,19 @@
+{
+  "Software": "Abseil",
+  "Website": "https://abseil.io/",
+  "Documentation": "https://abseil.io/docs/cpp/guides/",
+  "Tutorials and Training material": [
+    {
+      "Title": "Getting Started with Abseil",
+      "Link": "https://abseil.io/docs/cpp/quickstart"
+    },
+    {
+      "Title": "Abseil Tips of the Week",
+      "Link": "https://abseil.io/tips/"
+    },
+    {
+      "Title": "C++ Samples for Abseil",
+      "Link": "https://github.com/abseil/abseil-cpp/tree/master/absl"
+    }
+  ]
+}

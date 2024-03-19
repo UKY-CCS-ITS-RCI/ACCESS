@@ -1,0 +1,15 @@
+{
+  "Software": "libwpe",
+  "Software_URL": "https://wpewebkit.org/release/libwpe-1.6.0.html",
+  "Documentation": [
+    {
+      "Documentation_1": "https://manpages.debian.org/unstable/libwpe-1.0-1/libwpe-1.0.0.2.en.html"
+    }
+  ],
+  "Training_Materials": [
+    {
+      "Training_Material_1": "https://wpewebkit.org/overview/",
+      "Training_Material_2": "https://wpewebkit.org/docs/webkit-in-automotive/"
+    }
+  ]
+}

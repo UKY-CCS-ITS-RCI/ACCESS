@@ -1,0 +1,38 @@
+Use Case: NCL (NCAR Command Language) is a language designed specifically for scientific data analysis and visualization, particularly suitable for working with large netCDF, HDF, GRIB, and other dataset files.
+
+Code details and examples: 
+
+Code:
+
+```
+; Load the necessary libraries
+load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl"
+load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_csm.ncl"
+
+; Start a graphics workstation
+wks = gsn_open_wks("png","plot")
+
+; Define a variable
+data = addfile("data.nc","r")
+
+; Define a data variable from the file
+var = data->temperature(0,:,:)
+
+; Create a contour plot of the variable
+plot = gsn_csm_contour_map(wks,var,False)
+
+; Draw the plot
+draw(plot)
+end
+```
+This example reads a netCDF file named 'data.nc', selects the 'temperature' variable from the file, generates a contour map of the variable, and outputs the plot to a 'png' image file named 'plot'. 
+
+The input file should be a netCDF file that contains a 'temperature' variable. 
+
+To run this script, save it as a '.ncl' file and run the 'ncl' command followed by the file name. For example, if the file is named script.ncl, you would run:
+
+```
+ncl script.ncl
+```
+
+This will generate a new PNG image file named 'plot' in the same directory.

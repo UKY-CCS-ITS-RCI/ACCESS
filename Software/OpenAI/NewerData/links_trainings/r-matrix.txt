@@ -1,0 +1,16 @@
+{
+"r-matrix": {
+"software_page": "https://cran.r-project.org/web/packages/Matrix/index.html",
+"documentation": {
+"User’s Guide": "https://cran.r-project.org/web/packages/Matrix/Matrix.pdf",
+"Vignettes": "https://cran.r-project.org/web/packages/Matrix/vignettes/Matrix.pdf"
+},
+"tutorial_materials_links": {
+"indices and values of an R matrix": "https://www.datamentor.io/r-programming/matrix/#:~:text=In%20R%2C%20a%20matrix%20is,two%20types%20of%20numerical%20indexes.",
+"R matrices and arrays": "https://datascienceplus.com/r-matrices-and-arrays/",
+"Matrix Algebra in R": "https://www.statmethods.net/advstats/matrix.html",
+"Data Manipulation with Matrices in R": "https://www.datacamp.com/community/tutorials/r-tutorial-matrix",
+"R Matrix Tutorial": "https://www.guru99.com/r-matrix-tutorial.html"
+}
+}
+}

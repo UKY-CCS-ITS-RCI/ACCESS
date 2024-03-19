@@ -1,0 +1,19 @@
+{
+  "Software": {
+    "Name": "Atp",
+    "Official_Page": "https://www.anylogic.com/resources/atp-engine/",
+    "Documentation": [
+      {
+        "Link": "https://www.manualslib.com/manual/1526708/Agilent-Technologies-Atp.html"
+      }
+    ],
+    "Tutorials_and_Trainings": [
+      {
+        "Link": "https://www.youtube.com/watch?v=d9qn6n5-6aQ"
+      },
+      {
+        "Link": "https://www.rohm.com/products/power-management/switching-regulator/dcdc-switching-regulator/series.html"
+      }
+    ]
+  }
+}

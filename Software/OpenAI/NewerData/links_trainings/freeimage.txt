@@ -1,0 +1,17 @@
+{
+  "software": "freeimage",
+  "software_url": "http://freeimage.sourceforge.net/",
+  "documentation": [
+    {
+     "url": "http://freeimage.sourceforge.net/fnet/html/index.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "url": "https://stackoverflow.com/questions/5770940/how-use-the-freeimage-library"
+    },
+    {
+      "url": "https://www.braynzarsoft.net/viewtutorial/q16390-04-loading-textures-with-freeimage"
+    }
+  ]
+}

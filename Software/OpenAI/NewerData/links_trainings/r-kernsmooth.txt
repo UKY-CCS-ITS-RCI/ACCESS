@@ -1,0 +1,20 @@
+{
+  "Software_Name": "R-Kernsmooth",
+  "Software_URL": "https://cran.r-project.org/web/packages/KernSmooth/index.html",
+  "Documentation": [
+    {
+      "Documentation_URL": "https://cran.r-project.org/web/packages/KernSmooth/KernSmooth.pdf",
+      "Title": "R-KernSmooth Documentation"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Tutorial_URL": "https://www.rdocumentation.org/packages/KernSmooth/versions/2.23-20/topics/kernSmooth-package",
+      "Title": "Understanding R-KernSmooth package"
+    },
+    {
+      "Tutorial_URL": "https://stat.ethz.ch/R-manual/R-devel/library/KernSmooth/html/density.html",
+      "Title": "KernSmooth Density Function Usage"
+    }
+  ]
+}

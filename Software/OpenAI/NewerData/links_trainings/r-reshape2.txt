@@ -1,0 +1,27 @@
+{
+  "software": "r-reshape2",
+  "software_info": {
+    "link": "https://cran.r-project.org/web/packages/reshape2/index.html",
+    "additional_links": {
+      "documentation": "https://cran.r-project.org/web/packages/reshape2/reshape2.pdf",
+      "training_materials": [
+         {
+           "name": "Introduction to reshape2",
+           "link": "https://seananderson.ca/2013/10/19/reshape.html"
+         },
+         {
+           "name": "Reshape package tutorial",
+           "link": "https://www.r-bloggers.com/2018/01/reshape-package-tutorial/"
+         },
+         {
+           "name": "R Tutorials: Data Reshape",
+           "link": "https://data-flair.training/blogs/reshape-in-r/"
+         },
+         {
+           "name": "Data Management with dplyr and reshape2",
+           "link": "https://rstudio-education.github.io/r-packages/tidyverse-man01.html"
+         }
+      ]
+    }
+  }
+}

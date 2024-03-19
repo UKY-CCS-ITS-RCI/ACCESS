@@ -1,0 +1,12 @@
+{
+  "Software Name": "UCX",
+  "links": {
+    "software page": "https://www.openucx.org/",
+    "documentation": "https://readthedocs.org/projects/ucx/downloads/pdf/latest/",
+    "tutorials": [
+      "https://www.mellanox.com/pdf/whitepapers/Wimbledon_Systems_HFT_in_a_Cost-Effective_Way_WP_EN.pdf",
+      "https://docs.mellanox.com/display/HPCXv22/Unified+Communication+X+Framework+UCX",
+      "https://docs.nersc.gov/development/perftools/ucx/"
+    ]
+  }
+}

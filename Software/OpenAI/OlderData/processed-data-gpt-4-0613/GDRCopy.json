@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GDRCopy": {
+      "MainPage": "https://github.com/NVIDIA/gdrcopy",
+      "Documentation": "https://nvidia.github.io/gdrcopy-doc/",
+      "Tutorials": [
+        "https://devblogs.nvidia.com/gdrcopy-delivering-flexibility-portability-gpu-accelerated-applications/",
+        "https://www.osadl.org/?id=2589",
+        "https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=s9148-gdrcopy%3A+a+low+latency+gpu+memory+copy+library"
+      ]
+    }
+  }
+}

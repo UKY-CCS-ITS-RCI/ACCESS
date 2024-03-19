@@ -1,0 +1,9 @@
+{
+  "Modules": {
+    "software_url": "http://modules.sourceforge.net/",
+    "documentation_url": "https://modules.readthedocs.io/en/latest/",
+    "tutorial_urls": [
+      "https://modules.readthedocs.io/en/latest/module.html#module-example"
+    ]
+  }
+}

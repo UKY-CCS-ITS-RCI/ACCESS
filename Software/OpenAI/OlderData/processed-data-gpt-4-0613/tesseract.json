@@ -1,0 +1,16 @@
+{
+  "software": "Tesseract",
+  "software_url": "https://github.com/tesseract-ocr/tesseract",
+  "documentation": [
+    {
+      "documentation_url": "https://tesseract-ocr.github.io/tessdoc/Home.html"
+    }
+  ],
+  "training_materials": [
+    {
+      "tutorial1": "https://medium.com/quantrium-tech/installing-and-using-tesseract-4-on-windows-10-4f7930313f82",
+      "tutorial2": "https://nanonets.com/blog/ocr-with-tesseract/",
+      "tutorial3": "https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/"
+    }
+  ]
+}

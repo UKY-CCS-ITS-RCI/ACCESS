@@ -1,0 +1,22 @@
+
+{
+  "HPCC": {
+    "software_page": "https://hpccsystems.com/",
+    "documentation": "https://hpccsystems.com/download/documentation/all",
+    "training_materials": [
+      {
+        "title": "HPCC Systems Training Courses",
+        "url": "https://learn.lexisnexis.com/hp"
+      },
+      {
+        "title": "Learning ECL Documentation and Videos",
+        "url": "https://hpccsystems.com/training/documentation/learning-ecl"
+      },
+      {
+        "title": "Introduction to HPCC",
+        "url" : "https://www.youtube.com/watch?v=GJjMjB3rkJM"
+      }
+    ]
+  }
+}
+

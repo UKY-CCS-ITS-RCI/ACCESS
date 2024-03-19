@@ -1,0 +1,14 @@
+{
+  "Software": "edta",
+  "Details": {
+    "software_page": "https://github.com/oushujun/EDTA",
+    "documentation": "https://github.com/oushujun/EDTA#readme",
+    "tutorial_materials_links": [
+      {
+        "link1": "https://www.researchgate.net/post/How_to_use_EDTA_te_annotate_transposable_elements_in_a_genome",
+        "link2": "https://www.biostars.org/p/428646/",
+        "link3": "https://seqanswers.com/forums/showthread.php?t=91830"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "hh-suite": {
+        "software_page": "https://github.com/soedinglab/hh-suite",
+        "documentation": "https://github.com/soedinglab/hh-suite/wiki",
+        "tutorial_materials": [
+            "http://wwwuser.gwdg.de/~compbiol/data/hhsuite/userguide/hh_manual.pdf",
+            "http://wwwuser.gwdg.de/~compbiol/data/hhsuite/tutorials/hh-suite_casp12_workshop_201609.pdf",
+            "https://www.rostlab.org/owiki/index.php/PredictProtein_-_Tutorial#HH-suite"
+        ]
+    }
+}

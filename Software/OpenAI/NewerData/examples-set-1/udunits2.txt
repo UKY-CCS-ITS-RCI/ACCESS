@@ -1,0 +1,56 @@
+Use Case: Udunits2 is a library used to manipulate units of physical quantities. It helps in handling the units in arithmetic operations, converting from one unit to another, and simplifying the units.
+
+Code Details and Examples: Code
+
+1. Reading the UDUNITS-2 XML Database
+The UDUNITS-2 package uses an XML database to define units. This database is typically at `/usr/share/udunits/udunits2.xml`.
+
+```C
+#include <udunits2.h>
+...
+ut_system *unitSystem;
+ut_unit *unit;
+int status;
+
+unitSystem = ut_read_xml(NULL);  // null for the default database path
+if (unitSystem == NULL)
+    ...handle error...
+
+unit = ut_get_unit_by_name(unitSystem, "meters");
+if (unit == NULL)
+    ...handle error...
+```
+
+2. Converting Between Units
+
+```C
+#include <udunits2.h>
+...
+ut_system *unitSystem;
+ut_unit *sourceUnit, *targetUnit;
+cv_converter *converter;
+double sourceValue = 10.0, targetValue;
+int status;
+
+unitSystem = ut_read_xml(NULL);
+sourceUnit = ut_get_unit_by_name(unitSystem, "meters");
+targetUnit = ut_get_unit_by_name(unitSystem, "feet");
+converter = ut_get_converter(sourceUnit, targetUnit);
+if (converter == NULL)
+    ...handle error...
+targetValue = cv_convert_double(converter, sourceValue); //converts the meters to feet
+```
+
+To compile the C programs that use this library, you would use the gcc compiler as follows:
+
+```bash
+gcc -o program program.c -ludunits2
+```
+
+To run the compiled program:
+
+```bash
+./program
+```
+
+Note: The XML database file path in the `ut_read_xml` function can be substituted with the path to your udunits2.xml file. It is NULL here because the database is at the default location.

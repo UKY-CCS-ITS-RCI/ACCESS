@@ -1,0 +1,9 @@
+{
+  "softwareName": "gst-plugins-base",
+  "softwarePage": "https://github.com/GStreamer/gst-plugins-base",
+  "additionalLinks": {
+    "documentation": "https://gstreamer.freedesktop.org/documentation/",
+    "trainingAndTutorial1": "https://gstreamer.freedesktop.org/documentation/tutorials/basic/index.html",
+    "trainingAndTutorial2": "https://gstreamer.freedesktop.org/documentation/tutorials/basic/debugging-tools.html"
+  }
+}

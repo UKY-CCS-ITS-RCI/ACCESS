@@ -1,0 +1,16 @@
+{
+    "software_name": "nghttp2",
+    "software_page": "https://nghttp2.org/",
+    "Documentation_links": [
+        "https://nghttp2.org/documentation/",
+        "https://nghttp2.org/documentation/tutorial-client.html",
+        "https://nghttp2.org/documentation/tutorial-server.html",
+        "https://nghttp2.org/documentation/libnghttp2_asio.html"
+    ],
+    "Training_and_tutorial_materials": [
+        "https://nghttp2.org/documentation/tutorial-client.html",
+        "https://nghttp2.org/documentation/tutorial-server.html",
+        "https://nghttp2.org/documentation/nghttpx-howto.html",
+        "https://www.youtube.com/watch?v=42NOp3VKxMs"
+    ]
+}

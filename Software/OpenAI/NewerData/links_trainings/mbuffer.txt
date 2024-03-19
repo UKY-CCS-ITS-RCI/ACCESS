@@ -1,0 +1,8 @@
+{
+  "Software": "mbuffer",
+  "Link": "https://www.maier-komor.de/mbuffer.html",
+  "Documentation": "https://linux.die.net/man/1/mbuffer",
+  "Tutorials": [
+    "https://www.team-cymru.com/readingroom/UNIXforpenetrationtesters.pdf"
+  ]
+}

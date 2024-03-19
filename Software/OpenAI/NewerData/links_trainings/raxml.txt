@@ -1,0 +1,23 @@
+{
+  "SoftwareName": "RAxML",
+  "SoftwarePage": "https://cme.h-its.org/exelixis/web/software/raxml/",
+  "Documentation": "https://cme.h-its.org/exelixis/resource/download/NewManual.pdf",
+  "TrainingTutorials": [
+    {
+      "Title": "Tutorial on RAxML by Alexandros Stamatakis",
+      "URL": "https://www.youtube.com/watch?v=v3Z5vB3eB_M"
+    },
+    {
+      "Title": "Tutorial on Phylogenetic Tree Construction with RAxML",
+      "URL": "https://www.youtube.com/watch?v=5jaFS_MGLUk"
+    },
+    {
+      "Title": "Using RAxML to build phylogenetic trees",
+      "URL": "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/raxml/"
+    },
+    {
+      "Title": "RAxML Tutorial by Melissa Wilson Sayres",
+      "URL": "https://wilsonsayreslab.github.io/PHYLIP_TUTORIAL/"
+    }
+  ]
+}

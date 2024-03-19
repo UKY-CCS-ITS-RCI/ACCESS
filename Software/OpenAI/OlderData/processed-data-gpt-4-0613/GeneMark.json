@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GeneMark": {
+      "MainPage": "http://exon.gatech.edu/GeneMark/",
+      "Documentation": "http://exon.gatech.edu/GeneMark/gmhmmp.shtml",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=Swf8fSRJkdQ",
+        "https://www.biostars.org/p/465644/",
+        "http://metagenomics-workshop.readthedocs.io/en/latest/annotation/genemark.html"
+      ]
+    }
+  }
+}

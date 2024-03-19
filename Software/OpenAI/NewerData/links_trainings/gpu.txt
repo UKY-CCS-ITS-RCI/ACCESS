@@ -1,0 +1,15 @@
+{
+  "Software": "GPU",
+  "Software Page": "https://www.nvidia.com/en-us/gpu-cloud/",
+  "Documentation and Training Materials": [
+    {
+      "NVIDIA Documentation": "https://docs.nvidia.com/",
+      "GPU Programming Guide": "https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html",
+      "CUDA Tutorials": "https://cuda-tutorial.readthedocs.io/en/latest/",
+      "NVIDIA Developer Zone": "https://developer.nvidia.com/",
+      "GPU Programming in Python": "https://numba.pydata.org/numba-doc/latest/cuda/index.html",
+      "GPUs and TensorFlow Tutorial":"https://www.tensorflow.org/install/gpu",
+      "PyTorch and GPU Tutorial":"https://pytorch.org/tutorials/"
+    }
+  ]
+}

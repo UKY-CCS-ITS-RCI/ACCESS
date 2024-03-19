@@ -1,0 +1,11 @@
+{
+  "lastz": {
+    "software_page": "http://www.bx.psu.edu/~rsharris/lastz/",
+    "documentation": "http://www.bx.psu.edu/~rsharris/lastz/README.lastz-1.04.00.html",
+    "training_materials": {
+      "tutorial1": "https://www.biostars.org/p/294501/",
+      "tutorial2": "https://bioinformatics.stackexchange.com/questions/13707/lastz-tile-size-in-structural-variation检测",
+      "tutorial3": "https://www.youtube.com/watch?v=sVx0sko_rUs"
+    }
+  }
+}

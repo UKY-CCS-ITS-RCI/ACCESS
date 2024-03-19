@@ -1,0 +1,31 @@
+{
+  "name": "protobuf",
+  "software_page": "https://developers.google.com/protocol-buffers",
+  "documentation": "https://developers.google.com/protocol-buffers/docs/pythontutorial",
+  "training_materials": [
+    {
+      "name": "Python Protocol Buffers tutorial",
+      "link": "https://developers.google.com/protocol-buffers/docs/pythontutorial"
+    },
+    {
+      "name": "C++ Protocol Buffers tutorial",
+      "link": "https://developers.google.com/protocol-buffers/docs/cpptutorial"
+    },
+    {
+      "name": "Introduction to Protocol Buffers",
+      "link": "https://www.coursera.org/lecture/cloud-computing-2/introduction-to-protocol-buffers-b5qzm"
+    },
+    {
+      "name": "Protocol Buffers Basics: Python",
+      "link": "https://developers.google.com/protocol-buffers/docs/pythontutorial"
+    },
+    {
+      "name": "Protocol Buffers Basics: C++",
+      "link": "https://developers.google.com/protocol-buffers/docs/cpptutorial"
+    },
+    {
+      "name": "Protocol Buffers (Protobuf) tutorial",
+      "link": "https://www.tutorialspoint.com/protocol_buffers/index.htm"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+    "software_name": "CuPy",
+    "software_page": "https://cupy.dev/",
+    "documentation": "https://docs.cupy.dev/en/stable/",
+    "tutorials_and_training_materials": [
+        {
+            "name": "Getting Started with CuPy",
+            "link": "https://docs.cupy.dev/en/stable/tutorial/"
+        },
+        {
+            "name": "CuPy User Manual",
+            "link": "https://docs.cupy.dev/en/stable/user_guide/"
+        },
+        {
+            "name": "CuPy on GitHub",
+            "link": "https://github.com/cupy/cupy"
+        },
+        {
+            "name": "CuPy Tutorial on YouTube",
+            "link": "https://www.youtube.com/watch?v=s8_PkhjWGaY"
+        }
+    ]
+}

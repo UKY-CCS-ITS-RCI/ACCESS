@@ -1,0 +1,14 @@
+{
+    "SoftwareName": "HighWay",
+    "SoftwarePage": {
+      "url": "https://developers.google.com/speed/webp/docs/highway"
+    },
+    "Documentation": {
+      "url1": "https://aomedia.org/highway/",
+      "url2": "https://javadoc.io/doc/com.squareup.retrofit2/retrofit/latest/com/squareup/retrofit2/-high-way.html"
+    },
+    "TrainingMaterials": {
+      "url1": "https://developers.google.com/speed/webp/docs",
+      "url2": "https://aomedia.org/userguide/"
+    }
+}

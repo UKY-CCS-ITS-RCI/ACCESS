@@ -1,0 +1,12 @@
+{
+  "vawk": {
+    "Software_URL": "https://github.com/cc2qe/vawk",
+    "Documentation": "https://github.com/cc2qe/vawk/blob/master/README.md",
+    "Tutorials": [
+      {
+        "name": "Basic vawk usage tutorial",
+        "url": "https://bcbio.wordpress.com/2014/08/04/easier-variant-filtering-with-vawk/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "software": "SRA Toolkit",
+  "comprehensive_overview": "The SRA Toolkit is a suite of tools provided by the NCBI for accessing and manipulating data stored in the Sequence Read Archive (SRA). It includes utilities for downloading sequencing data, converting file formats, quality control, and performing various analyses on high-throughput sequencing data.",
+  "core_features": [
+    "Data retrieval",
+    "File format conversion",
+    "Quality control"
+  ],
+  "general_tags": [
+    "sequencing data",
+    "NCBI tools",
+    "data manipulation"
+  ],
+  "additional_tags": {
+    "research_discipline": "Genomics",
+    "research_area": "High-Throughput Sequencing",
+    "software_class": "Toolset",
+    "software_type": "Data Manipulation"
+  }
+}

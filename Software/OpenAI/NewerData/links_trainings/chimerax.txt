@@ -1,0 +1,18 @@
+{
+  "software_name": "ChimeraX",
+  "software_page": "https://www.rbvi.ucsf.edu/chimerax/",
+  "documentation_link": "https://www.rbvi.ucsf.edu/chimerax/docs/user/index.html",
+  "tutorial_links": {
+    "Basic usage tutorial": "https://www.rbvi.ucsf.edu/chimerax/docs/user/tutorials/tutorial_basics.html",
+    "Specific tutorials": "https://www.rbvi.ucsf.edu/chimerax/docs/user/tutorials/index.html",
+    "Video demonstrations": "https://www.rbvi.ucsf.edu/chimerax/docs/user/videos.html"
+  },
+  "training_materials_links": {
+    "Workshop sessions": "https://www.rbvi.ucsf.edu/chimerax/docs/user/workshops.html",
+    "Commands": "https://www.rbvi.ucsf.edu/chimerax/docs/user/commands.html"
+  },
+  "other_resources": {
+    "Download": "https://www.rbvi.ucsf.edu/chimerax/download.html",
+    "User's Guide": "https://www.rbvi.ucsf.edu/chimerax/docs/user.html"
+  }
+}

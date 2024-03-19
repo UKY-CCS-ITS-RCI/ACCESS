@@ -1,0 +1,20 @@
+{
+  "protobuf-python": {
+    "software_page": "https://pypi.org/project/protobuf/",
+    "documentation": "https://developers.google.com/protocol-buffers/docs/pythontutorial",
+    "tutorial_materials": [
+      {
+        "name": "Google Developers Tutorial",
+        "link": "https://developers.google.com/protocol-buffers/docs/pythontutorial"
+      },
+      {
+        "name": "YouTube: Protocol Buffers (protobuf) for Python - Tutorial",
+        "link": "https://www.youtube.com/watch?v=EAFK-tN_nrQ"
+      },
+      {
+        "name": "Medium: Python Protobuf Guide",
+        "link": "https://levelup.gitconnected.com/python-guide-to-protocol-buffers-protobuf-631b5fc24c35"
+      }
+    ]
+  }
+}

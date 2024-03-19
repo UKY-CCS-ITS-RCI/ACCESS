@@ -1,0 +1,13 @@
+{
+  "netcdf-cxx4": {
+    "SoftwarePage": "https://www.unidata.ucar.edu/software/netcdf/",
+    "Documentation": [
+      "https://www.unidata.ucar.edu/software/netcdf/docs/",
+      "https://www.unidata.ucar.edu/software/netcdf/docs/cxx4/"
+    ],
+    "Tutorials": [
+      "https://www.unidata.ucar.edu/software/netcdf/workshops/2012/tutorial.html",
+      "https://www.unidata.ucar.edu/software/netcdf/tutorial_2011_esa/"
+    ]
+  }
+}

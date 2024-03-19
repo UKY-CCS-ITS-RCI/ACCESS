@@ -1,0 +1,10 @@
+{
+  "SoftwareName": "mdspan",
+  "SoftwarePage": "https://github.com/kokkos/mdspan",
+  "Documentation": "https://docs.kokkos.io/mdspan/md_intro.html",
+  "Tutorials_and_Training_Materials": [
+    "https://kokkos.github.io/mdspan/Doxygen/html/md_doxygen_md_md_continuation.html",
+    "https://tutorial.kokkos.io",
+    "https://github.com/kokkos/kokkos/wiki/Intro-Tutorial%3A-01-BuildKokkos"
+  ]
+}

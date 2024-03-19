@@ -1,0 +1,13 @@
+{
+  "software": {
+    "name": "Modulefiles",
+    "software_url": "https://modules.sourceforge.net/",
+    "documentation_link": "https://modules.sourceforge.net/cmods/cmds/module.html",
+    "tutorial_links": {
+      "tutorial_1": "https://learn.lusid.com/docs/tutorials/command-line-tutorials/using-environment-modules/",
+      "tutorial_2": "https://www.tacc.utexas.edu/user-services/user-guides/module-system-user-guide",
+      "tutorial_3": "http://cms-sw.github.io/tutorial-files.html",
+      "training_materials": "https://www.hpc.nrw/en/documentation/software-development/using-environment-modules"
+    }
+  }
+}

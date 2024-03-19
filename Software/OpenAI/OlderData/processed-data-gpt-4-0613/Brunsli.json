@@ -1,0 +1,19 @@
+{
+  "Software": "Brunsli",
+  "Website": "https://github.com/google/brunsli",
+  "Documentation": "https://github.com/google/brunsli",
+  "Tutorials and Training material": [
+    {
+      "Title": "Brunsli GitHub Repository",
+      "Link": "https://github.com/google/brunsli"
+    },
+    {
+      "Title": "Introduction to Brunsli",
+      "Link": "https://www.infoq.com/news/2020/11/brunsli-jpeg-compression/"
+    },
+    {
+      "Title": "Understanding Brunsli",
+      "Link": "https://cloudinary.com/blog/google_s_brunsli_the_new_jpeg"
+    }
+  ]
+}

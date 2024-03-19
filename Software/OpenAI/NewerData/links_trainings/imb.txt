@@ -1,0 +1,23 @@
+{
+  "imb": {
+    "name": "Intel(R) MPI Benchmark",
+    "description": "Intel MPI Benchmark (IMB) is a suite of benchmarks for measuring MPI communications performance of a cluster.",
+    "softwareURL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/mpi-library.html",
+    "documentation": [
+      {
+        "title": "Intel MPI Benchmarks User Guide",
+        "url": "https://software.intel.com/content/www/us/en/develop/articles/intel-mpi-benchmarks.html"
+      }
+    ],
+    "trainingMaterials": [
+      {
+        "title": "Intel MPI Library - Introduction",
+        "url": "https://software.intel.com/content/www/us/en/develop/tools/mpi-library.html"
+      },
+      {
+        "title": "Intel MPI Library - Developer Workshop",
+        "url": "https://software.intel.com/content/www/us/en/develop/training/course-intel-mpi-library-developer-workshop.html"
+      }
+    ]
+  }
+}

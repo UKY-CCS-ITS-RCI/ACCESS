@@ -1,0 +1,27 @@
+{
+  "software_name": "py-dask",
+  "software_URL": "https://dask.org/",
+  "documentation_URL": "https://docs.dask.org/en/latest/",
+  "tutorials_and_training_materials": [
+    {
+      "name": "Dask Tutorial",
+      "URL": "https://tutorial.dask.org/"
+    },
+    {
+      "name": "Dask Examples",
+      "URL": "https://examples.dask.org/"
+    },
+    {
+      "name": "Dask YouTube Tutorial by PyData",
+      "URL": "https://www.youtube.com/watch?v=mqdglv9GnM8"
+    },
+    {
+      "name": "Dask Coursera Course",
+      "URL": "https://www.coursera.org/lecture/python-data-processing/dask-aGJyP"
+    },
+    {
+      "name": "Dask GitHub Examples",
+      "URL": "https://github.com/dask/dask-examples"
+    }
+  ]
+}

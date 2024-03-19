@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Ghostscript": {
+      "MainPage": "https://www.ghostscript.com/",
+      "Documentation": "https://www.ghostscript.com/doc/current/Use.htm",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=a4jsUXd_OXE",
+        "https://acumen.lib.ua.edu/about/guides/ghostscript0",
+        "https://www.gammon.com.au/scripts/doc.php?general=Ghostscript"
+      ]
+    }
+  }
+}

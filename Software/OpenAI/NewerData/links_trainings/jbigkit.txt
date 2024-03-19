@@ -1,0 +1,17 @@
+{
+   "jbigkit":{
+      "software_page":"https://www.cl.cam.ac.uk/~mgk25/jbigkit/",
+      "documentation":"https://www.cl.cam.ac.uk/~mgk25/jbigkit/",
+      "tutorials":[
+         {
+            "tutorial_1":"https://www.cl.cam.ac.uk/~mgk25/jbigkit/jbigkit.pdf"
+         },
+         {
+            "tutorial_2":"https://manpages.debian.org/stretch/jbigkit-bin/jbig.1.en.html"
+         },
+         {
+            "tutorial_3":"https://jbig2dec.com/#Examples"
+         }
+      ]
+   }
+}

@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Name": "Dorado",
+    "Website": "https://github.com/pasqal-io/Dorado",
+    "Documentation": "https://dorado.readthedocs.io/en/latest/",
+    "Tutorials": [
+      {
+        "Description": "Dorado Tutorials",
+        "URL": "https://dorado.readthedocs.io/en/latest/tutorials.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "software": "harfbuzz",
+  "software_url": "https://harfbuzz.github.io/",
+  "documentation": [
+    {
+      "documentation_url": "https://harfbuzz.github.io/documentation.html",
+      "description": "Official Harfbuzz documentation"
+    }
+  ],
+  "tutorial": [
+    {
+      "tutorial_url": "https://python.hotexamples.com/examples/harfbuzz/-/-/python-harfbuzz-class-examples.html",
+      "description": "Harfbuzz Tutorial with Python Examples"
+    }
+  ],
+  "training": [
+    {
+      "training_url": "https://fossies.org/dox/harfbuzz-2.6.4/",
+      "description": "Harfbuzz Training on Fossies"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "Texlive": 
+    { 
+      "URL": "https://www.tug.org/texlive/",
+      "Documentation": "https://www.tug.org/texlive/doc.html",
+      "Tutorials": 
+      [
+        {
+          "Install TeX Live 2021 on Windows": "https://www.tug.org/texlive/windows.html"
+        },
+        {
+          "Install TeX Live 2021 on Unix": "https://www.tug.org/texlive/unixinstall.html"
+        },
+        {
+          "TeX Live Guide—2021": "https://www.tug.org/texlive/tlmgr.html"
+        },
+        {
+          "Quick install for Unix": "https://www.tug.org/texlive/quickinstall.html"
+        }
+      ]
+    }
+  }
+}

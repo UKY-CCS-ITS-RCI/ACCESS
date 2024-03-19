@@ -1,0 +1,15 @@
+{
+  "software_name": "FastANI",
+  "software_page": "https://github.com/ParBLiSS/FastANI",
+  "documentation": "https://github.com/ParBLiSS/FastANI/blob/master/README.md",
+  "tutorial_materials": [
+    {
+      "tutorial_name": "MUMmer Tutorial",
+      "tutorial_link": "http://mummer.sourceforge.net/tutorial/"
+    },
+    {
+      "tutorial_name": "FastANI - bioconda",
+      "tutorial_link": "https://bioconda.github.io/recipes/fastani/README.html"
+    }
+  ]
+}

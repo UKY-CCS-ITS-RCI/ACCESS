@@ -1,0 +1,82 @@
+Use Case: libyaml is a YAML parser and emitter written in C. YAML (YAML Ain't Markup Language) is a human-readable data serialization format. It's used in many applications for reading configurations or for data serialization and deserialization.
+
+Code Details and Examples:
+
+File format required: YAML
+Specifications in Input files: YAML supported data types including strings, booleans, integers, floats, arrays, and dictionaries.
+Sample Input File (config.yaml):
+
+```yaml
+name: test-user
+files:
+  - file1.txt
+  - file2.txt
+age: 25
+location:
+  city: New-York
+  country: USA
+```
+
+Code Snippet to parse this file:
+
+```c
+#include <stdio.h>
+#include <yaml.h>
+
+int main(void)
+{
+   FILE *fh = fopen("config.yaml", "r");
+   yaml_parser_t parser;
+   yaml_token_t token; 
+
+   /* Initialize parser */
+   if(!yaml_parser_initialize(&parser)) {
+      fputs("Failed to initialize parser\n", stderr);
+      return 1;
+   }
+
+   /* Set input file */
+   yaml_parser_set_input_file(&parser, fh);
+
+   /* START new code */
+   do {
+      yaml_parser_scan(&parser, &token);
+
+      switch(token.type)
+      { 
+      case YAML_KEY_TOKEN: printf("(Key)   "); break;
+      case YAML_VALUE_TOKEN: printf("(Value) "); break;
+
+      default:
+      /* Others */
+      break;
+      }
+		
+      if(token.type != YAML_STREAM_END_TOKEN)
+         printf("TOKEN: %d\n", token.type);
+	
+   } while(token.type != YAML_STREAM_END_TOKEN);
+   yaml_parser_delete(&parser);
+   
+   fclose(fh);
+   return 0;
+}
+```
+
+Command to compile and run:
+
+To compile, you need to link against libyaml.
+
+```bash
+gcc -lyaml code.c -o program
+```
+
+To run:
+
+```bash
+./program
+```
+
+Note that the YAML library needs to be installed in your system for the program to run.
+
+PS: The program won't display the actual content of the yaml file. It will only print the token types. Comprehensive parsing of a yaml file is a little more complex and needs additional code.

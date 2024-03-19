@@ -1,0 +1,36 @@
+Use Case: Use statsmodels for linear regression problem and prediction.
+
+Code Details and Examples: Code 
+
+1. Required python libraries: pandas, numpy, statsmodels.api
+2. Input data: The input file is a CSV file with numeric data for the independent and dependent variables.
+
+```
+import pandas as pd
+import numpy as np
+import statsmodels.api as sm
+
+df = pd.read_csv('input.csv')
+
+X = df['independent_var']
+Y = df['dependent_var']
+
+# Add a constant to the independent value
+X = sm.add_constant(X)
+
+# Carry out the linear regression
+model = sm.OLS(Y, X)
+
+# Fit the model
+results = model.fit()
+
+# Use the model to make predictions
+predictions = results.predict(X)
+
+# Save predictions to csv
+predictions.to_csv('predictions.csv')
+```
+
+Command to run: This python script can be run from the command line with the command python3 script_name.py, replacing 'script_name.py' with the name of your file.
+  
+This code reads in the 'input.csv' file with pandas. It then assigns the 'independent_var' and 'dependent_var' columns to X and Y respectively. The statsmodels.api.OLS method is used to perform the linear regression, and the model is then used to make predictions on the input data. These predictions are then written to a new CSV file called 'predictions.csv'. For the purpose of this code snippet, it's assumed that the 'input.csv' file has numeric data for 'independent_var' and 'dependent_var' columns.

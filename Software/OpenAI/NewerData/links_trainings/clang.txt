@@ -1,0 +1,19 @@
+{
+  "software": {
+    "name": "Clang",
+    "link": "https://clang.llvm.org/",
+    "documents": {
+      "introduction": "https://clang.llvm.org/docs/",
+      "tutorial_links": {
+        "llvm_tutorial": "https://llvm.org/docs/tutorial/",
+        "clang_tutorial": "https://clang.llvm.org/get_started.html",
+        "kaleidoscope": "https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html",
+        "building_llvm": "https://llvm.org/docs/GettingStarted.html#overview"
+      }
+    },
+    "conda_package": {
+      "install_llvm": "https://anaconda.org/conda-forge/llvm",
+      "install_clangdev": "https://anaconda.org/conda-forge/clangdev"
+    }
+  }
+}

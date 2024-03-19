@@ -1,0 +1,18 @@
+
+{
+  "GST": {
+    "software_page": "https://gstreamer.freedesktop.org/",
+    "documentation": "https://gstreamer.freedesktop.org/documentation/",
+    "training_materials": [
+      {
+        "title": "GStreamer Tutorial",
+        "url": "https://gstreamer.freedesktop.org/documentation/tutorials/"
+      },
+      {
+        "title": "GStreamer basic real time streaming tutorial",
+        "url": "https://www.youtube.com/watch?v=6JZbJ3nt2zQ"
+      }
+    ]
+  }
+}
+

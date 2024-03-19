@@ -1,0 +1,8 @@
+{
+  "Software Name": "WPS",
+  "Webpage": "https://www.weather.gov/mdl/wps_home",
+  "Documentation Links": {
+    "Documentation": "https://www.weather.gov/media/mdl/WPS_Users_Guide_v3.pdf",
+    "Tutorial": "https://www.youtube.com/watch?v=_V32zRz26qE"
+  }
+}

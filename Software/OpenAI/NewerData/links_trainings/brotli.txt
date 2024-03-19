@@ -1,0 +1,27 @@
+{
+  "name": "brotli",
+  "software_page": "https://github.com/google/brotli",
+  "documentation": "https://tools.ietf.org/id/draft-alakuijala-brotli-00.html",
+  "tutorials_and_training_materials": [
+    {
+      "title": "Brotli Tutorial",
+      "link": "https://pawandeep2156.medium.com/brotli-compression-a-better-alternative-towards-gzip-compression-enhanced-version-brotli-1-0-4266c11338da"
+    },
+    {
+      "title": "Brotli Compression in Performance",
+      "link": "https://developers.google.com/web/updates/2015/10/saving-data-with-brotli"
+    },
+    {
+      "title": "Using Brotli compression to reduce CDN costs",
+      "link": "https://www.fastly.com/blog/new-gzip-settings-and-deciding-what-compress"
+    },
+    {
+      "title": "Brotli Compression – How to Configure Brotli on Nginx Setup",
+      "link": "https://www.keycdn.com/support/brotli-compression"
+    },
+    {
+      "title": "Brotli Compression With Webpack",
+      "link": "https://jeremygayed.com/brotli-webpack-plugin-6fa6a63e47cd"
+    }
+  ]
+}

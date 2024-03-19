@@ -1,0 +1,13 @@
+{
+    "Software Name": "nlohmann",
+    "Software Type": "JSON library for modern C++",
+    "Links": {
+        "Software Page": "https://github.com/nlohmann/json",
+        "Documentation": "https://nlohmann.github.io/json/",
+        "Tutorials and Training materials": [
+            {
+                "A complete guide to nlohmann JSON: " : "https://cpp.libhunt.com/r/nlohmann-json"
+             }
+        ]
+    }
+}

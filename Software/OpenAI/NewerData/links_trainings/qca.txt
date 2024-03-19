@@ -1,0 +1,11 @@
+{
+  "QCA": {
+    "Software Page": "https://pypi.org/project/qca/",
+    "Documentation": "https://cirlabs.github.io/qca/",
+    "Training Material and Tutorials": [
+      {
+        "QCA Tutorials on Github": "https://github.com/hussius/deep-learning-notebooks/tree/master/networks/qca"
+      }
+    ]
+  }
+}

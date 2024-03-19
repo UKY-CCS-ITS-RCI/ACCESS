@@ -1,0 +1,13 @@
+{
+  "software_name": "VarScan",
+  "software_page_link": "http://varscan.sourceforge.net/",
+  "documentation_links": [
+    "https://github.com/dkoboldt/varscan/blob/master/Using_VarScan.md",
+    "https://academic.oup.com/bioinformatics/article/25/11/1382/219101"
+],
+  "tutorial_links": [
+    "https://www.mutect.org/varscan/",
+    "https://sourceforge.net/p/varscan/wiki/Calling_copy_number_variants/",
+    "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000592"
+]
+}

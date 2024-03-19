@@ -1,0 +1,24 @@
+{
+  "software": "nvtop",
+  "website": "https://github.com/Syllo/nvtop",
+  "documentation": [
+    {
+      "title": "nvtop Github Repository",
+      "url": "https://github.com/Syllo/nvtop"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Monitor GPU usage in Linux Terminal for NVIDIA graphics cards - nvtop",
+      "url": "https://ostechnix.com/how-to-monitor-gpu-usage-in-linux/"
+    },
+    {
+      "title": "How to Install and Use nvtop (Htop for Nvidia GPUs) on Ubuntu",
+      "url": "https://linuxhint.com/install_use_nvtop_ubuntu/"
+    },
+    {
+      "title": "How To Use NVIDIA’s nvtop to Monitor Your GPU in Ubuntu",
+      "url": "https://www.howtogeek.com/696722/how-to-use-nvidias-nvtop-to-monitor-your-gpu-on-ubuntu/"
+    }
+  ]
+}

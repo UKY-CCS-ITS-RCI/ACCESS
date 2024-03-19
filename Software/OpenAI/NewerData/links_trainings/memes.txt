@@ -1,0 +1,17 @@
+{
+  "Software": "MEME Suite",
+  "Software_URL": "http://meme-suite.org/",
+  "Documentation": {
+    "Documentation_URL": "http://meme-suite.org/doc/overview.html"
+  },
+  "Tutorials": [
+    {
+      "Tutorial_Title": "MEME Suite Tutorial",
+      "Tutorial_URL": "http://meme-suite.org/doc/tutorial/tutorials.html"
+    },
+    {
+      "Tutorial_Title": "MEME Suite Webinar",
+      "Tutorial_URL": "https://www.youtube.com/watch?v=7dwprFA9sxM"
+    }
+  ]
+}

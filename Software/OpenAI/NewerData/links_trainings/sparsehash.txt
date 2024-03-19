@@ -1,0 +1,14 @@
+{
+  "software": "sparsehash",
+  "details": {
+    "software_url": "https://github.com/sparsehash/sparsehash",
+    "documentation_urls": [
+      "https://github.com/sparsehash/sparsehash/tree/master/doc",
+      "https://github.com/sparsehash/sparsehash/blob/master/README"
+    ],
+    "tutorial_urls": [
+      "https://sparsehash-users.narkive.com/cjG8tKGV/tutorial-or-example-on-sparsehash",
+      "https://www.youtube.com/watch?v=ZDe7Mp8yCJI"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "sage",
+  "software_page": "https://www.sagemath.org/",
+  "documentation": {
+    "doc1": "https://doc.sagemath.org/html/en/tutorial/index.html",
+    "doc2": "https://doc.sagemath.org/pdf/en/tutorial/sagetutorial.pdf"
+  },
+  "tutorials_and_training": {
+    "tutorial1": "https://www.sagemath.org/links-tutorials.html",
+    "tutorial2": "https://wiki.sagemath.org/TeachingTools",
+    "tutorial3": "https://www.youtube.com/results?search_query=sage+math+tutorial",
+    "tutorial4": "https://people.smp.uq.edu.au/DirkKroese/sage.pdf",
+    "training1": "https://www.futurelearn.com/courses/advanced-mathematica"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "software": "openpmix",
+  "description": "OpenPMIx or Open Process Management Interface (Exascale) is an open-source, exascale, high-performance computing library for parallel computing.",
+  "links": {
+    "software_page": "https://pmix.org/",
+    "documentation": "https://openpmix.github.io/prrte/",
+    "tutorial": [
+                "https://cran.r-project.org/web/packages/pmix/vignettes/pmix.html", 
+                "https://pmix.org/pmix-docs/pdf.html"
+              ],
+    "training_materials": [
+                           "https://cmse4life.wordpress.com/2018/01/23/tutorial-on-pmix/",
+                           "https://pmix.org/pmix-docs/index.html"
+                         ]
+  }
+}

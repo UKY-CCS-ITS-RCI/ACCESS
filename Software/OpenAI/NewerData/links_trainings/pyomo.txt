@@ -1,0 +1,24 @@
+{
+  "Software": "Pyomo",
+  "Links": {
+    "Software Page": "http://www.pyomo.org/",
+    "Documentation": "https://pyomo.readthedocs.io/",
+    "Training and Tutorial": [
+      {
+        "Pyomo Tutorial COIN-OR 2012": "https://www.coin-or.org/events/presentations/PyomoTutorial_COINOR2012.pdf"
+      },
+      {
+        "Pyomo Tutorials at Github": "https://github.com/Pyomo/PyomoGallery/wiki"
+      },
+      {
+        "Pyomo Hands-On Tutorial at PyomoGallery": "https://github.com/Pyomo/PyomoGallery/tree/master/hands_on"
+      },
+      {
+        "A Pyomo Tutorial (For GAMS Users) from Carnegie Mellon University": "https://www.andrew.cmu.edu/user/vanhoeve/teaching/advanced_opt_2018/pyomo_tutorial.html"
+      },
+      {
+        "Pyomo Tutorial at Youtube": "https://www.youtube.com/watch?v=zVMqXQn-5-w"
+      }
+    ]
+  }
+}

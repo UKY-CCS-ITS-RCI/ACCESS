@@ -1,0 +1,21 @@
+{
+   "software":{
+      "name":"CellTyper",
+      "software_url":"https://celltypist.cog.sanger.ac.uk/",
+      "documentation_url":"https://celltypist.cog.sanger.ac.uk/docs/",
+      "tutorial_and_training_materials":[
+         {
+            "name":"Tutorial Notebook",
+            "url":"https://celltypist.cog.sanger.ac.uk/tutorial.html"
+         },
+         {
+            "name":"Github Repository",
+            "url":"https://github.com/Teichlab/SangerSingleCellSeminar2021"
+         },
+         {
+            "name":"Getting Started Guide",
+            "url":"https://celltypist.cog.sanger.ac.uk/docs/getting-started"
+         }
+      ]
+   }
+}

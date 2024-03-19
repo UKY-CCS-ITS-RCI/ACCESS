@@ -1,0 +1,43 @@
+Use Case: Use YASM to compile an assembly file.
+
+Code details and examples: Code
+
+Input File: asm_file.asm - assembly programming file.
+Format required: .asm - Assembly language file format, which contains low level programming code.
+
+Sample input file (asm_file.asm - Hello World in Assembly Language):
+
+```assembly
+section .data
+    hello db 'Hello, world!',0
+
+section .text
+    global _start
+
+_start:
+    ; write our string to stdout
+    mov eax, 4           
+    mov ebx, 1           
+    mov ecx, hello       
+    mov edx, 13          
+    int 0x80             
+
+    ; exit
+    mov eax, 1           
+    xor ebx, ebx         
+    int 0x80             
+```
+
+Command to Run: YASM
+
+```shell
+yasm -f elf asm_file.asm
+ld -m elf_i386 -o asm_file asm_file.o
+./asm_file    # Runs the compiled binary from the asm_file.asm assembly language file.
+``` 
+
+Here;
+-f specifies the output file format
+elf is for linking.
+ld -m elf_i386 specifies the i386 architecture for the linker and -o specifies the output file name.
+./asm_file runs the compiled binary.

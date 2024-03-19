@@ -1,0 +1,19 @@
+{
+    "software": "Tcl",
+    "resources": {
+        "softwareHomepage": "https://www.tcl.tk/",
+        "documentation": "https://www.tcl.tk/man/tcl8.6/TclCmd/contents.htm",
+        "tutorials": [
+            {
+                "title": "Tcl Tutorial",
+                "url": "https://www.tutorialspoint.com/tcl-tk/index.htm"
+            }
+        ],
+        "trainingMaterials": [
+            {
+                "title": "Tcl Training Material",
+                "url": "https://wiki.tcl-lang.org/page/Tcl+Training+Materials"
+            }
+        ]
+    }
+}

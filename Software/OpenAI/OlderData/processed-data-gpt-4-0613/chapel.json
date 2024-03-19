@@ -1,0 +1,10 @@
+{
+    "Software": "Chapel",
+    "Website": "https://chapel-lang.org/",
+    "Documentation": "https://chapel-lang.org/docs/master/",
+    "Tutorial_and_Training": [
+        "https://chapel-lang.org/tutorials.html",
+        "https://www.youtube.com/playlist?list=PLTP5hBADC5jqhWSpee0DK3JwIvJfTR9Lo",
+        "http://pages.cs.wisc.edu/~padua/tutorials/cs483-883.tutorial.pdf"
+    ]
+}

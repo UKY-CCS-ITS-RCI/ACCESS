@@ -1,0 +1,12 @@
+{
+"kover": {
+"software_page": "https://github.com/aldro61/kover",
+"documentation": "https://aldro61.github.io/kover/doc/",
+"tutorial_materials": [
+"https://aldro61.github.io/kover/tutorial_kw/#start-with-a-kover-dataset",
+"https://aldro61.github.io/kover/tutorial_rf/#kernel-functions",
+"https://aldro61.github.io/kover/dataset/",
+"https://aldro61.github.io/kover/examples/",
+"https://www.youtube.com/watch?v=5OgCOozJHVA"]
+}
+}

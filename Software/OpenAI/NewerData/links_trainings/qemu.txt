@@ -1,0 +1,13 @@
+{
+  "Software": "qemu",
+  "Website": "https://www.qemu.org/",
+  "Documentation": "https://wiki.qemu.org/Manual",
+  "Tutorials": [
+    {
+      "Tutorial 1": "https://www.linux.com/training-tutorials/getting-started-qemu/",
+      "Tutorial 2": "https://en.wikibooks.org/wiki/QEMU/Devices",
+      "Tutorial 3": "https://stef.dev/blog/qemu-tutorial/#virtualization-with-qemu",
+      "Tutorial 4": "https://rwmj.wordpress.com/2010/11/04/tip-how-to-install-windows-2000-under-qemu/"
+    }
+  ]
+}

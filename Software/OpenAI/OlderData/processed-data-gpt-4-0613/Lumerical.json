@@ -1,0 +1,14 @@
+
+{
+    "name": "Lumerical",
+    "software_page": "https://www.lumerical.com/products/",
+    "documentation": "https://support.lumerical.com/hc/en-us/categories/360000038034-Knowledge-Base",
+    "tutorials": [
+        "https://support.lumerical.com/hc/en-us/sections/360000038634-Tutorials",
+        "https://www.youtube.com/playlist?list=PL9B4edd-p2ajtzUT2Ef-2RZBt4gr6vnmS"
+    ],
+    "additional_resources": [
+        "https://www.lumerical.com/support/",
+        "https://www.lumerical.com/learn/courses/"
+    ]
+}

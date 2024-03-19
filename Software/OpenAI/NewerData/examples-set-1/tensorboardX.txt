@@ -1,0 +1,23 @@
+Use Case: Visualization of PyTorch training runs. TensorboardX provides a neat interface to visualize training runs, which allows you to view metrics such as loss and accuracy, visualize model graphs, etc.
+
+Code details and examples: Code
+
+Sample python code below to create a summary writer and some random scalars.
+
+```python
+from tensorboardX import SummaryWriter
+from datetime import datetime
+import numpy as np
+
+# Writer will output to ./runs/ directory by default.
+writer = SummaryWriter()
+
+for n_iter in range(100):
+    # Simulating some metrics for the progress of a training run
+    writer.add_scalars('Loss', {'train loss': np.random.random(), 'test loss': np.random.random()}, n_iter)
+    writer.add_scalars('Accuracy', {'train accuracy': np.random.random(), 'test accuracy': np.random.random()}, n_iter)
+    
+writer.close()
+```
+
+To view the results in tensorboard, you would run the command `tensorboard --logdir runs` in the command line, this will then start Tensorboard and give you a URL you can visit to see. Please note that the directory path after --logdir is location of the output of the SummaryWriter. Make sure you change to the correct directory if your log files are not in the "runs" directory mentioned in the Python script. This command to start Tensorboard would be in the directory where the Python script is being run. If our Python script is saved as "tbx_example.py", for instance, we'd run the script via `python tbx_example.py`, and then subsequently we'd use the `tensorboard --logdir runs` command. The data would then be accessible in your browser at localhost:6006.

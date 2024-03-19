@@ -1,0 +1,12 @@
+{
+  "software_name": "r-clipr",
+  "software_url": "https://cran.r-project.org/web/packages/clipr/index.html",
+  "documentation_links": [
+    "https://cran.r-project.org/web/packages/clipr/clipr.pdf"
+  ],
+  "tutorial_and_training_materials": [
+    "https://rdrr.io/cran/clipr/f/README.md",
+    "https://datascienceplus.com/a-handy-way-to-use-small-functions-from-other-people-using-clipr/",
+    "https://rmarkdown.rstudio.com/articles_report_from_r_script.html"
+  ]
+}

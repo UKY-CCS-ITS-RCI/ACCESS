@@ -1,0 +1,19 @@
+{
+  "SoftwareName": "Sambamba",
+  "URL": "https://lomereiter.github.io/sambamba/",
+  "Documentation": "https://lomereiter.github.io/sambamba/docs/sambamba-view.html",
+  "LearningMaterial": [
+    {
+      "Name": "Bioinformatics-cookbook",
+      "URL": "https://github.com/apeltzer/Bioinformatics-Cookbook"
+    },
+    {
+      "Name": "SEQanswers - Sambamba sort tutorial",
+      "URL": "http://seqanswers.com/forums/showthread.php?t=27799"
+    },
+    {
+      "Name": "Sambamba Tutorial - Bioinformatics Workbook",
+      "URL": "https://bioinformaticsworkbook.org/Appendix/Sambamba.html"
+    }
+  ]
+}

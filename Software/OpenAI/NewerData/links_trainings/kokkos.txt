@@ -1,0 +1,14 @@
+{
+  "Kokkos": {
+    "Software Page": "https://github.com/kokkos/kokkos",
+    "Documentation": [
+      "https://github.com/kokkos/kokkos/wiki",
+      "https://kokkos.readthedocs.io/en/latest/"
+    ],
+    "Training and Tutorial Materials": [
+      "https://github.com/kokkos/kokkos-tutorials",
+      "https://kokkos.readthedocs.io/en/latest/tutorial.html",
+      "https://www.youtube.com/user/KokkosCXX/videos"
+    ]
+  }
+}

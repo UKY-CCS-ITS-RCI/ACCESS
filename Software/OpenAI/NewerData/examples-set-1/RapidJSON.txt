@@ -1,0 +1,40 @@
+Use Case: RapidJSON is a JSON parser and generator for C++. It is used to process JSON data: reading it from an input and/or writing it to an output. In particular, it is commonly used for tasks like reading configuration files into memory, or writing logs of activity to disk in a format that can be easily processed later.
+
+Code details and examples:
+
+Code:
+
+```C++
+#include "rapidjson/document.h"
+#include "rapidjson/prettywriter.h" // for stringify JSON
+
+using namespace rapidjson;
+
+// Parse JSON string into DOM
+const char* json = "{\"project\":\"rapidjson\",\"stars\":10}";
+Document d;
+d.Parse(json);
+
+// Conversely, "stringify" a DOM into JSON
+StringBuffer buffer;
+PrettyWriter<StringBuffer> writer(buffer);
+d.Accept(writer);
+
+// Output {"project":"rapidjson","stars":10}
+std::cout << buffer.GetString() << std::endl;
+```
+The code snippet above demonstrates how to use RapidJSON to parse a JSON string into a Document object, and then how to "stringify" (serialize) this object back into a JSON string. 
+
+To run the example: 
+
+1. Save the code above into a file, e.g., main.cpp.
+2. Compile the file using a C++ compiler, such as g++. For example: `g++ main.cpp -o rapidjson_example`
+3. Run the compiled executable: `./rapidjson_example`
+
+This should output: `{"project":"rapidjson","stars":10}`
+
+RapidJSON does not require any specific input file format. As long as the input is a valid JSON string, RapidJSON can parse it.
+
+For the code above, the JSON string 
+```{"project":"rapidjson","stars":10}```
+is hard-coded into the program. This string could have instead been read from an input file or network connection.

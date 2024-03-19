@@ -1,0 +1,11 @@
+{
+  "Software Name": "Grace",
+  "Software Link": "https://plasma-gate.weizmann.ac.il/Grace/",
+  "Additional Documentation": {
+    "Documentation": "http://plasma-gate.weizmann.ac.il/Grace/doc/UsersGuide.html",
+    "Tutorial Materials": [
+      "https://plasma-gate.weizmann.ac.il/Grace/doc/tutorial.html",
+      "https://www.statedecoded.com/tutorial_grace.html"
+    ]
+  }
+}

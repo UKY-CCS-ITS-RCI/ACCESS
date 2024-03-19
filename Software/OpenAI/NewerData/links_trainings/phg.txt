@@ -1,0 +1,12 @@
+{
+    "software": "PHG",
+    "description": "Parallel Computing in Genomic Prediction",
+    "page_link": "https://github.com/codepurpl3/phg",
+    "links": {
+        "documentation": "https://github.com/codepurpl3/phg/wiki",
+        "tutorials": [
+            "https://www.researchgate.net/publication/333678644_Parallel_Genomic_Prediction_With_PHG_and_Hadoop",
+            "https://www.youtube.com/watch?v=CRzPRYq3GTU"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "gpaw": {
+    "software_page": "https://wiki.fysik.dtu.dk/gpaw/",
+    "documentation": "https://wiki.fysik.dtu.dk/gpaw/documentation.html",
+    "tutorials": [
+      "https://wiki.fysik.dtu.dk/gpaw/tutorials/tutorials.html",
+      "https://wiki.fysik.dtu.dk/gpaw/tutorials/dg.html",
+      "https://wiki.fysik.dtu.dk/gpaw/tutorials/gpw_tutorial.html"
+    ],
+    "training_materials": [
+      "https://wiki.fysik.dtu.dk/gpaw/tutorials/kpt_tutorial.html",
+      "https://wiki.fysik.dtu.dk/gpaw/tutorials/lcaotddft_tutorial.html"
+    ]
+  }
+}

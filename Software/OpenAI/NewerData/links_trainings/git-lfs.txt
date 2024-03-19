@@ -1,0 +1,17 @@
+{
+  "SoftwareName": "git-lfs",
+  "SoftwareLink": "https://git-lfs.github.com/",
+  "DocumentationLinks": [
+    {
+      "DocLink1": "https://github.com/git-lfs/git-lfs/wiki",
+      "DocLink2": "https://github.com/git-lfs/git-lfs/blob/main/docs/man/git-lfs.1.ronn"
+    }
+  ],
+  "TrainingMaterials": [
+    {
+      "TutorialLink1": "https://www.atlassian.com/git/tutorials/git-lfs",
+      "TutorialLink2": "https://www.youtube.com/watch?v=uLR1RNqJ1Mw",
+      "TutorialLink3": "https://docs.github.com/en/github/managing-large-files/versioning-large-files"
+    }
+  ]
+}

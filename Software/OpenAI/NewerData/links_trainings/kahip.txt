@@ -1,0 +1,17 @@
+{
+  "Software Name": "KaHIP",
+  "Software link": "https://algo2.iti.kit.edu/kahip/",
+  "Documentation": [
+    {
+      "link": "https://algo2.iti.kit.edu/documents/kahip/README"
+    }
+  ],
+  "Training and Tutorial materials": [
+    {
+      "link": "https://www.youtube.com/watch?v=RGZbg5s4uJA"
+    },
+    {
+      "link": "https://pdfs.semanticscholar.org/93f8/438d7a96dcd924c03ccc70e6e3ac6f0790e1.pdf"
+    }
+  ]
+}

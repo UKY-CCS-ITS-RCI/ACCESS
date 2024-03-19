@@ -1,0 +1,16 @@
+{
+  "Software Name": "libpsl",
+  "Software URL": "https://github.com/rockdaboot/libpsl",
+  "Documentation":
+  [
+    {
+      "Name": "Libpsl Documentation",
+      "URL": "https://rockdaboot.github.io/libpsl/"
+    },
+    {
+      "Name": "Freedesktop Libpsl Documentation",
+      "URL": "https://www.freedesktop.org/software/libpsl/"
+    }
+  ],
+  "Training & Tutorial": []
+}

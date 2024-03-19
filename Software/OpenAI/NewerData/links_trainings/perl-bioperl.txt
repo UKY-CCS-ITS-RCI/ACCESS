@@ -1,0 +1,28 @@
+{
+  "perl-bioperl": {
+    "SoftwarePage": {
+      "URL": "https://bioperl.org/"
+    },
+    "Documentation": {
+      "URL": "https://bioperl.org/Tutorial/"
+    },
+    "TutorialsAndTrainingMaterials": [
+      {
+        "Name": "BioPerl Tutorial and Examples",
+        "URL": "https://bioperl.org/howtos/index.html"
+      },
+      {
+        "Name": "BioPerl Tutorial from Bioinformatics.org",
+        "URL": "http://www.bioinformatics.org/tutorial/perl-bioperl"
+      },
+      {
+        "Name": "BioPerl Tutorial on GitHub",
+        "URL": "https://github.com/bioperl/bioperl-live/blob/master/docs/Tutorial/Tutorial.pod"
+      },
+      {
+        "Name": "BioPerl YouTube Tutorial",
+        "URL": "https://www.youtube.com/watch?v=rI_yx_I5T1k"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "SoftwareName": "c-ares",
+  "SoftwareData": [
+    {
+      "InfoType": "SoftwarePage",
+      "InfoLink": "https://c-ares.haxx.se/"
+    },
+    {
+      "InfoType": "Documentation",
+      "InfoLink": "https://c-ares.haxx.se/docs.html"
+    },
+    {
+      "InfoType": "Tutorial-1",
+      "InfoLink": "https://evanjones.ca/c-ares.html"
+    },
+    {
+      "InfoType": "Tutorial-2",
+      "InfoLink": "https://gavv.github.io/articles/intro-to-async-dns-c-ares/"
+    },
+    {
+      "InfoType": "GithubPage",
+      "InfoLink": "https://github.com/c-ares/c-ares"
+    }
+  ]
+}

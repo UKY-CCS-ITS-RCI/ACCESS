@@ -1,0 +1,22 @@
+{
+  "software_name": "fastx toolkit",
+  "comprehensive_overview": "The FASTX-Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing. The main target of this tool is to provide flexible options to modify and correct sequencing errors and biases.",
+  "core_features": [
+    "Quality filtering",
+    "Trimming",
+    "Conversion from/to FASTA/FASTQ formats",
+    "Collapsing",
+    "Barcode processing"
+  ],
+  "general_tags": [
+    "sequence analysis",
+    "preprocessing",
+    "quality control"
+  ],
+  "additional_tags": {
+    "research_discipline": "bioinformatics",
+    "research_area": "genomics",
+    "software_class": "bioinformatics tool",
+    "software_type": "command line tool"
+  }
+}

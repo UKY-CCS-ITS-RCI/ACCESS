@@ -1,0 +1,19 @@
+{
+"name": "Xerces",
+"softwarePage": "https://xerces.apache.org/",
+"documentation": "https://xerces.apache.org/xerces-j/",
+"tutorialMaterials": [
+    {
+        "name": "Apache Xerces Tutorial",
+        "url": "https://www.edureka.co/blog/apache-xerces-tutorial/"
+    },
+    {
+        "name": "Java XML Parser - Apache Xerces",
+        "url": "https://www.youtube.com/watch?v=RXj_T-WF-ek"
+    },
+    {
+        "name": "XML parsing with Apache Xerces",
+        "url": "https://www.progress.com/tutorials/jdbc/xml-parsing-with-apache-xerces"
+    }
+  ]
+}

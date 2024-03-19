@@ -1,0 +1,37 @@
+Use Case: Use lftp for file transfer protocols including FTP, HTTP, FISH, SFTP, HTTPS and FTPS with features such as mirroring directories, resuming transfers, backgrounding, and throttling bandwidth.
+
+Code details and examples:
+
+Code: 
+
+1. Login to FTP server
+```
+lftp -u user,password ftp.yourserver.com
+```
+After this command, you'll be logged into the server and can interact directly from the shell.
+
+2. Transfer file from server to local machine
+```
+get file_name
+```
+This command retrieves "file_name" from the server.
+
+3. Transfer directory from server to local machine
+```
+mirror directory_name
+```
+This command copies the entire directory named "directory_name" from server.
+
+4. Upload file or directory to server 
+```
+put file_name
+```
+This command uploads "file_name" to your current directory on the server. For directories use `mirror -R directory_name`.
+
+5. Close the connection
+```
+exit
+```
+Above commands are used to run lftp directly from the command line.
+
+Input files: In the above examples "file_name" and "directory_name" are the input files/directories. Format & specifications: They are regular files/directories of any format or specification.

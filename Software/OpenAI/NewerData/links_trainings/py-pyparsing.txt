@@ -1,0 +1,24 @@
+{
+  "software": "py-pyparsing",
+  "href": "https://pypi.org/project/pyparsing/",
+  "documentation": [
+    {
+      "docTitle": "PyParsing Documentation",
+      "docLink": "https://pyparsing-docs.readthedocs.io/en/latest/"
+    }
+  ],
+  "tutorials_and_trainings": [
+    {
+      "title": "PyParsing Tutorial 1",
+      "link": "https://infohost.nmt.edu/tcc/help/pubs/pyparsing/web/index.html"
+    },
+    {
+      "title": "PyParsing Tutorial 2",
+      "link": "https://pythonhosted.org/pyparsing/"
+    },
+    {
+      "title": "Getting started with pyparsing",
+      "link": "https://python-forum.io/Thread-Getting-started-with-pyparsing"
+    }
+  ]
+}

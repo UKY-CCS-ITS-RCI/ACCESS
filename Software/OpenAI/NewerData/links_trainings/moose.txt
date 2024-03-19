@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "moose",
+    "software_url": "https://mooseframework.org/",
+    "documentation_url": "https://mooseframework.inl.gov/getting_started/index.html",
+    "tutorials": [
+      {
+        "name": "MOOSE Tutorial: Getting Started",
+        "url": "https://mooseframework.inl.gov/getting_started/installation/"
+      },
+      {
+        "name": "MOOSE Tutorial: Running an Application",
+        "url": "https://mooseframework.org/getting-started/running-an-application/"
+      },
+      {
+        "name": "MOOSE Training Material",
+        "url": "https://mooseframework.inl.gov/training.html"
+      }
+    ]
+  }
+}

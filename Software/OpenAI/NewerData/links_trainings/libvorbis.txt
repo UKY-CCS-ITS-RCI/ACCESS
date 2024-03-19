@@ -1,0 +1,29 @@
+{
+  "software": "libvorbis",
+  "details": [
+    {
+      "link": "https://xiph.org/vorbis/",
+      "documentation": "https://xiph.org/vorbis/doc/",
+      "tutorials": [
+        {
+          "title": "Guide to libvorbis",
+          "url": "https://www.xiph.org/vorbis/doc/vorbis-tools-intro.html"
+        },
+        {
+          "title": "libvorbis tutorial",
+          "url": "https://riptutorial.com/libvorbis"
+        }
+      ],
+      "training_materials": [
+        {
+          "title": "libvorbis: Getting started",
+          "url": "https://github.com/xiph/vorbis/blob/master/doc/vorbisfile.txt"
+        },
+        {
+          "title": "libvorbis usage examples",
+          "url": "https://www.programcreek.com/java-api-examples/?api=libvorbisjava.InteropUtil"
+        }
+      ]
+    }
+  ]
+}

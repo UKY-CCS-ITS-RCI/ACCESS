@@ -1,0 +1,15 @@
+{
+    "software": "Parpack",
+    "software_url": "https://www.caam.rice.edu/software/ARPACK/",
+    "documentation_url": "https://www.caam.rice.edu/software/ARPACK/UG/ug.html",
+    "tutorial_and_training_materials": [
+        {
+            "name": "ARPACK and PARPACK guide",
+            "url": "https://www.caam.rice.edu/software/ARPACK/UG/node152.html"
+        },
+        {
+            "name": "ARPACK GitHub with Examples",
+            "url": "https://github.com/opencollab/arpack-ng/tree/master/EXAMPLES"
+        }
+    ]
+}

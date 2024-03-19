@@ -1,0 +1,15 @@
+{
+"Software_Name": "GeneMark",
+"Software_URL": "http://exon.gatech.edu/GeneMark/",
+"Documentation": [
+    {
+      "Docs_Link": "http://exon.gatech.edu/GeneMark/gm_manual.pdf"
+    }
+  ],
+"Tutorials_and_Training_Materials": [
+    {
+      "Tutorial_Link1": "https://www.biostars.org/p/89434/",
+      "Tutorial_Link2": "http://manuals.bioinformatics.ucr.edu/home/htseq:genemark"
+    }
+  ]
+}

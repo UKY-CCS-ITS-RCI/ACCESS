@@ -1,0 +1,19 @@
+{
+    "software": "pypy",
+    "details": [
+        {
+            "link": "https://www.pypy.org/",
+            "documentation": "https://doc.pypy.org/en/latest/",
+            "tutorials": [
+                {
+                    "name": "Getting Started with PyPy",
+                    "URL": "https://doc.pypy.org/en/latest/getting-started-python.html"
+                },
+                {
+                    "name": "PyPy Frequently Asked Questions",
+                    "URL": "https://doc.pypy.org/en/latest/faq.html"
+                }
+            ]
+        }
+    ]
+}

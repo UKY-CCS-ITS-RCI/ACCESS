@@ -1,0 +1,16 @@
+{
+  "plasmidfinder": {
+    "software_page": "https://bitbucket.org/genomicepidemiology/plasmidfinder/src/master/",
+    "documentation": "https://bitbucket.org/genomicepidemiology/plasmidfinder/src/master/README.md",
+    "tutorials_and_training": [
+      {
+        "name": "PlasmidFinder Web Tutorial",
+        "url": "https://www.youtube.com/watch?v=MQUGOHMWvIc"
+      },
+      {
+        "name": "Plasmid typing using PlasmidFinder",
+        "url": "https://www.protocols.io/view/plasmid-typing-using-plasmidfinder-bkjtknn6"
+      }
+    ]
+  }
+}

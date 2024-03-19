@@ -1,0 +1,18 @@
+{
+  "Software": "py-scikit-optimize",
+  "url": "https://scikit-optimize.github.io/stable/",
+  "Documentation": {
+    "url": "https://scikit-optimize.github.io/stable/user_guide.html"
+  },
+  "Tutorials": [
+    {
+      "url": "https://scikit-optimize.github.io/stable/auto_examples/index.html"
+    },
+    {
+      "url": "https://machinelearningmastery.com/scikit-optimize-for-hyperparameter-tuning-in-machine-learning/"
+    },
+    {
+      "url": "https://github.com/scikit-optimize/scikit-optimize/blob/main/examples/hyperparameter-optimization.ipynb"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "software": "MaxQuant",
+  "software_url": "https://www.maxquant.org/",
+  "documentation": [
+    {
+      "doc_title": "MaxQuant User Guide",
+      "doc_url": "https://maxquant.net/maxquant/help/"
+    },
+    {
+      "doc_title": "MaxQuant documentation on Google Groups",
+      "doc_url": "https://groups.google.com/g/maxquant-list"
+    }
+  ],
+  "tutorials_training": [
+    {
+      "tutorial_title": "MaxQuant Live Tutorial - YouTube",
+      "tutorial_url": "https://www.youtube.com/watch?v=nS4Cw4j0y_Y"
+    },
+    {
+      "tutorial_title": "Getting Started with MaxQuant - YouTube",
+      "tutorial_url": "https://www.youtube.com/watch?v=UXLi23Ybz20"
+    },
+    {
+      "tutorial_title": "Mass Spectrometry Data processing with MaxQuant course",
+      "tutorial_url": "https://www.eventscribe.com/2019/posters/ASMS/SplitViewer.asp?PID=MTQzMTEzODgzODI"
+    },
+    {
+      "tutorial_title": "MaxQuant Tutorial - omicX",
+      "tutorial_url": "https://www.omicx.com/maxquant-tutorial/"
+    }
+  ]
+}

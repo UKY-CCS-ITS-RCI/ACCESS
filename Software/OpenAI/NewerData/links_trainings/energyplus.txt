@@ -1,0 +1,17 @@
+{
+  "software": {
+    "name": "EnergyPlus",
+    "details": {
+      "link": "https://energyplus.net/",
+      "docs": [
+        "https://energyplus.net/documentation",
+        "https://nrel.github.io/EnergyPlus/InputOutputReference/overview.html"
+      ],
+      "tutorials": [
+        "https://www.youtube.com/playlist?list=PLc9HmbynPl+i4PQYtV1NK_1H_4tsm0xbW",
+        "https://energyplus.net/training",
+        "https://unmethours.com/questions/energyplus/"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "software": "LAMMPS",
+    "resources": {
+        "softwareHomepage": "https://lammps.sandia.gov/",
+        "documentation": "https://lammps.sandia.gov/doc/Manual.html",
+        "tutorials": [
+            {
+                "title": "LAMMPS Tutorials",
+                "url": "https://lammps.sandia.gov/tutorials.html"
+            },
+            {
+                "title": "LAMMPS tutorial videos",
+                "url": "https://lammps.sandia.gov/workshops/Aug19/presentations.html"
+            }
+        ],
+        "trainingMaterials": [
+            {
+                "title": "LAMMPS Workshop and Symposium",
+                "url": "https://lammps.sandia.gov/workshops.html"
+            }
+        ]
+    }
+}

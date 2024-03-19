@@ -1,0 +1,12 @@
+{
+    "graphblas": {
+        "softwarePage": "https://graphblas.github.io/",
+        "documentationLink": "https://graphblas.github.io/GraphBLAS_API_C_v13.pdf",
+        "trainingAndTutorialMaterials": {
+            "GraphBLAS: A Primer": "https://people.eecs.berkeley.edu/~aydin/GraphBLAS_Primer.pdf",
+            "Graph Algorithms via SuiteSparse:GraphBLAS": "https://www.youtube.com/watch?v=ZeZIxx_S48k",
+            "GraphBLAS Course": "https://cscapes.cs.purdue.edu/graphblas/#:~:text=The%20goal%20of%20the%20Graph%20Blas%20forum%20is,of%20problems%20across%20a%20wide%20range%20of%20applications.",
+            "GraphBLAS Tutorial at HPEC": "https://graphblas.github.io/HPEC20_tutorial.pdf"
+        }
+    }
+}

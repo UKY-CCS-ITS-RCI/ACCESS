@@ -1,0 +1,10 @@
+{
+  "Name": "OSPRay",
+  "SoftwareURL": "https://www.ospray.org/",
+  "DocumentationURL": "https://raytracing-docs.intel.com/ospray/index.html",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://www.ospray.org/download.html",
+    "Tutorial_2_URL": "https://www.youtube.com/watch?v=U3fjQHVSa0I",
+    "Example_1_URL": "https://www.ospray.org/resources.html"
+  }
+}

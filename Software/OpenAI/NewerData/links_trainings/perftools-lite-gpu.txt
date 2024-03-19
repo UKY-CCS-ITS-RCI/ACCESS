@@ -1,0 +1,15 @@
+{
+  "software": "perftools-lite-gpu",
+  "software_url": "https://www.arm.com/products/development-tools/server-and-hpc/forge/map",
+  "documentation_url": "https://developer.arm.com/tools-and-software/server-and-hpc/help/help-and-tutorials",
+  "training_materials": [
+    {
+      "name": "Tutorial on GitHub",
+      "url": "https://github.com/ARM-software/Allinea-PTX-tutorial"
+    },
+    {
+      "name": "Allinea MAP Tutorial",
+      "url": "https://www.youtube.com/watch?v=FIeG3aPLtD0"
+    }
+  ]
+}

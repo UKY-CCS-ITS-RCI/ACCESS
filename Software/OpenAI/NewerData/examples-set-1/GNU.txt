@@ -1,0 +1,28 @@
+Use Case: GNU Compiler Collection (GCC) is often used to compile and run C programs. 
+
+Code details and examples: Code
+
+1. The Sample Input File:
+Save this C-program as "hello_world.c". 
+
+```c
+#include <stdio.h>
+
+int main() {
+   printf("Hello, World!\n");
+   return 0;
+}
+```
+
+2. Specifications and Details in Input Files: 
+The file must be a valid C program. 
+
+3. Command to Run the Code:
+
+```
+gcc hello_world.c -o output_file
+./output_file
+```
+
+This first command will compile the c code and the second one will run it.
+

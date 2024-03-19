@@ -1,0 +1,19 @@
+{
+  "software": "py3Dmol",
+  "website": "https://3dmol.csb.pitt.edu/",
+  "documentation": "https://3dmol.csb.pitt.edu/doc/index.html",
+  "tutorials": [
+    {
+      "tutorial_link1": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4300567/",
+      "tutorial_link2": "https://mousebiology.jax.org/mtbwi/index.php?gwtItem=py3Dmol_py3Dmol",
+      "tutorial_link3": "https://nanome.readthedocs.io/en/latest/quickstart.html#visualizing-molecules"
+    }
+  ],
+  "training_materials": [
+    {
+      "training_material_link1": "https://www.blopig.com/blog/2017/10/visualising-protein-structures-in-jupyter-notebooks-py3dmol-tutorial/",
+      "training_material_link2": "https://www.proteinstructures.com/bioinformatics-and-molecular-modeling-softwares/pele-hopping/",
+      "training_material_link3": "http://ugene.net/wiki/display/UUOUM/3D+structure+viewer"
+    }
+  ]
+}

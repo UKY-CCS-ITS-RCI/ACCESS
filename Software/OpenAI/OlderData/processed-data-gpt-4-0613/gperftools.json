@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "gperftools",
+    "softwareUrl": "https://github.com/gperftools/gperftools",
+    "documentationUrl": "https://gperftools.github.io/gperftools/",
+    "trainingAndTutorials": [
+      {
+        "name": "gperftools GitHub Wiki",
+        "url": "https://github.com/gperftools/gperftools/wiki"
+      },
+      {
+        "name": "gperftools Google Performance Tools Tutorial and Presentations",
+        "url": "https://sites.google.com/site/gperftools/home"
+      },
+      {
+        "name": "gperftools user Guide",
+        "url": "https://gperftools.github.io/gperftools/userguide.html"
+      }
+    ]
+  }
+}

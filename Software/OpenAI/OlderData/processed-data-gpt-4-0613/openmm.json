@@ -1,0 +1,28 @@
+{
+  "software": "OpenMM",
+  "website": "http://openmm.org/",
+  "documentation": [
+    {
+      "title": "OpenMM Documentation",
+      "url": "http://docs.openmm.org/latest/userguide/index.html"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Getting Started with OpenMM",
+      "url": "http://docs.openmm.org/latest/userguide/application.html#running-the-application"
+    },
+    {
+      "title": "A Practical Introduction to OpenMM",
+      "url": "https://www.ks.uiuc.edu/Training/SumSchool/materials/sources/tutorials/5-openmm-tutorial/openmm-tutorial-html/node1.html"
+    },
+    {
+      "title": "OpenMM Tutorials on GitHub",
+      "url": "https://github.com/choderalab/openmm-tutorials"
+    },
+    {
+      "title": "OpenMM Script Builder User Guide",
+      "url": "http://builder.openmm.org/"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "software": "Optuna",
+  "software_url": "https://optuna.org/",
+  "documentation_url": "https://optuna.readthedocs.io/en/stable/",
+  "training_tutorials_materials": [
+    {
+      "name": "Optuna Tutorial",
+      "url": "https://optuna.readthedocs.io/en/stable/tutorial/index.html"
+    },
+    {
+      "name": "A Gentle Introduction to Optuna",
+      "url": "https://towardsdatascience.com/a-gentle-introduction-to-optuna-46feb29eec76"
+    },
+    {
+      "name": "Optuna for Pythonic Hyperparameter Optimization",
+      "url": "https://dev.to/optuna/optuna-for-pythonic-hyperparameter-optimization-1806"
+    },
+    {
+      "name": "Optuna Hands-On",
+      "url": "https://jnewman.io/deep/learning/2020/03/17/optuna-hands-on.html"
+    },
+    {
+      "name": "Optuna Python Kernel Density Estimation",
+      "url": "https://www.kaggle.com/corochann/optuna-tutorial-for-hyperparameter-optimization"
+    }
+  ]
+}

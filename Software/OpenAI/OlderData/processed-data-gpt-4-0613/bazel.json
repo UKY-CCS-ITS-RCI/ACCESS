@@ -1,0 +1,10 @@
+{
+    "Software": "Bazel",
+    "Website": "https://bazel.build/",
+    "Documentation": "https://docs.bazel.build/versions/main/bazel-overview.html",
+    "Tutorial_and_Training": [
+        "https://docs.bazel.build/versions/main/tutorial/index.html",
+        "https://www.tutorialspoint.com/bazel/index.htm",
+        "https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsgl6Y9ZUzJDfn_tfXFrAVWl"
+    ]
+}

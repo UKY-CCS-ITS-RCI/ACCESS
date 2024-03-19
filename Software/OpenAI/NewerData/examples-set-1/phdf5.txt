@@ -1,0 +1,58 @@
+Use Case: Parallel HDF5 (PHDF5) is used when large amounts of data need to be stored and handled. By distributing the data across multiple processors, we can perform operations like data analysis and visualization at a much faster rate. PHDF5 can also be used in Monte Carlo Simulations, Computational Fluid Dynamics, etc.
+
+Code details and examples:
+Code:
+
+The input format required in the case of hdf5 (PHDF5) usually is in the form of structured data. The data layout of hdf5 is hierarchical and is organized in the form of a "file directory". The fundamental structures under this file system are 'groups' (which are the container structures organizing the data) and 'datasets' (which are multidimensional arrays of a homogeneous type). 
+
+Here is a sample of a PHDF5 program (in C):
+
+```C
+#include "hdf5.h"
+#define FILE "test.h5"
+int main() {
+   hid_t       file_id, dataset_id;  /* identifiers */
+   herr_t      status;
+   int         i, j, dset_data[4][6]; /* define a buffer for our dataset */
+
+   /* Initialize the dataset */
+   for (i = 0; i < 4; i++)
+      for (j = 0; j < 6; j++)
+         dset_data[i][j] = i * 6 + j + 1;
+
+   /* Create a new file using the default properties */
+   file_id = H5Fcreate(FILE, H5F_ACC_TRUNC, H5P_DEFAULT, H5P_DEFAULT);
+
+   /* Create the dataspace for the dataset */
+   hsize_t dims[2] = {4, 6};
+   hid_t dataspace_id = H5Screate_simple(2, dims, NULL);
+
+   /* Create the dataset */
+   dataset_id = H5Dcreate2(file_id, "/dset", H5T_STD_I32BE, dataspace_id, 
+		      H5P_DEFAULT, H5P_DEFAULT, H5P_DEFAULT);
+
+   /* Write the dataset */
+   status = H5Dwrite(dataset_id, H5T_NATIVE_INT, H5S_ALL, H5S_ALL, H5P_DEFAULT, 
+		      dset_data);
+
+   /* End access to the dataset and release resources used by it */
+   status = H5Dclose(dataset_id);
+
+   /* Terminate access to the data space */
+   status = H5Sclose(dataspace_id);
+
+   /* Close the file */
+   status = H5Fclose(file_id);
+}
+```
+To compile the program:
+
+```
+mpicc -o h5_write h5_write.c -lhdf5
+```
+
+And, to run this MPI program:
+
+```
+mpirun -np 8 ./h5_write
+```

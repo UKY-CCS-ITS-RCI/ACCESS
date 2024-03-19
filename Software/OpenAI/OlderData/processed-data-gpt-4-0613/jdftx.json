@@ -1,0 +1,18 @@
+{
+  "Software": "jdftx",
+  "Details": {
+    "Software Link": "https://jdftx.org/",
+    "Documentation": "https://jdftx.org/Manual.html",
+    "Tutorials": [
+      {
+        "Tutorial Link": "https://jdftx.org/Spin+Model+tutorial"
+      },
+      {
+        "Tutorial Link": "https://jdftx.org/Electronic+structure+tutorials.html"
+      },
+      {
+        "Tutorial Link": "https://jdftx.org/Fluid+solvent+tutorials.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "ffmpeg",
+  "software_link": "https://ffmpeg.org/",
+  "additional_links": {
+    "documentation": [
+      {
+        "name": "Official Documentation",
+        "url": "https://ffmpeg.org/documentation.html"
+      }
+    ],
+    "tutorials": [
+      {
+        "name": "TutorialOne",
+        "url": "https://www.ostechnix.com/20-ffmpeg-commands-beginners/"
+      }, 
+      {
+        "name": "TutorialTwo",
+        "url": "https://www.labnol.org/internet/useful-ffmpeg-commands/28490/"
+      },
+      {
+        "name": "TutorialThree",
+        "url": "https://www.geeksforgeeks.org/ffmpeg-command-in-linux-with-examples/"
+      }
+    ],
+    "training": [
+      {
+        "name": "Training one",
+        "url": "https://www.linkedin.com/learning/learning-ffmpeg"
+      }
+    ]
+  }
+}

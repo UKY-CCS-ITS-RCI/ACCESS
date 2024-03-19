@@ -1,0 +1,25 @@
+{
+  "software": "binutils",
+  "links": {
+    "software_url": "https://www.gnu.org/software/binutils/",
+    "documentation": [
+      {
+        "doc_link": "https://www.gnu.org/software/binutils/manual/"
+      },
+      {
+        "doc_link": "https://sourceware.org/binutils/docs/"
+      }
+    ],
+    "training_and_tutorials": [
+      {
+        "tutorial_link": "https://www.assemblylanguagetuts.com/binutils/"
+      },
+      {
+        "tutorial_link": "https://www.codesynthesis.com/~boris/blog/2014/12/27/building-binutils-tutorial/"
+      },
+      {
+        "tutorial_link": "https://www.oreilly.com/library/view/understanding-open-source/0596005814/re45.html"
+      }
+    ]
+  }
+}

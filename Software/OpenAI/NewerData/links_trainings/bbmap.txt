@@ -1,0 +1,13 @@
+{
+  "software_name": "BBMap",
+  "software_page_url": "https://sourceforge.net/projects/bbmap/",
+  "documentation": {
+    "BBMap Guide": "https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/bbmap-guide/",
+    "BBMap - A Fast, Accurate, Splice-Aware Aligner": "https://www.osti.gov/servlets/purl/1241166"
+  },
+  "training_materials": {
+    "BBMap - Brilliant Bioinformatics": "https://www.biostarhandbook.com/tools/bbmap.html",
+    "BBMap start guide": "https://www.biostars.org/p/124298/",
+    "Video tutorial on BBMap": "https://www.youtube.com/watch?v=K3IBePw4Tj4"
+  }
+}

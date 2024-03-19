@@ -1,0 +1,21 @@
+{
+  "berkeley-db": {
+    "softwarePage": "https://www.oracle.com/database/technologies/related/berkeleydb.html",
+    "documentation": [
+      "https://www.oracle.com/database/technologies/related/berkeleydb/berkeley-db-documentation.html",
+      {
+        "db": "https://docs.oracle.com/cd/E17276_01/html/index.html",
+        "optimizer": "https://docs.oracle.com/cd/E17276_01/html/gsg/C/db_tutorial.html",
+        "library": "https://docs.oracle.com/cd/E17276_01/html/api_reference/C/index.html"
+      }
+    ],
+    "tutorials": [
+      "https://docs.oracle.com/cd/E17276_01/html/gsg/index.html",
+      "https://www.tutorialspoint.com/berkeleydb/index.htm"
+    ],
+    "additionalResources": [
+      "https://en.wikipedia.org/wiki/Berkeley_DB",
+      "https://www.oracle.com/database/technologies/related/berkeleydb/overview.html"
+    ]
+  }
+}

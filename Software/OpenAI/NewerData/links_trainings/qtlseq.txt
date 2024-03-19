@@ -1,0 +1,10 @@
+{
+  "software": "qtlseq",
+  "software_url": "https://github.com/masaomi/qtlseq",
+  "documentation_url": "https://github.com/masaomi/qtlseq/blob/master/README.md",
+  "tutorial_urls": [
+    "https://molbiodiv.wordpress.com/2017/04/20/qtl-mapping-in-bulk-segregant-analysis-with-qtlseq-g/",
+    "https://www.biostars.org/p/193668/",
+    "https://www.youtube.com/watch?v=MfR4bh6ilWY"
+  ]
+}

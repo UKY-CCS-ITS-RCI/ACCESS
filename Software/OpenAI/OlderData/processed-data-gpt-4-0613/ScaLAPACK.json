@@ -1,0 +1,12 @@
+{
+  "Software Name": "ScaLAPACK",
+  "links": {
+    "software page": "http://www.netlib.org/scalapack/",
+    "documentation": "http://www.netlib.org/scalapack/slug/",
+    "tutorials": [
+      "https://software.intel.com/content/www/us/en/develop/documentation/mkl-tutorial-c/top/dense-matrix-operations/blas-and-lapack-routines/blas-and-lapack-performance/scalapack-routines.html",
+      "https://www.ibm.com/support/knowledgecenter/en/ssw_aix_72/com.ibm.aix.basetrf2/scalapack.htm",
+      "https://people.eecs.berkeley.edu/~demmel/cs267_Spr09/hw2_files/scalapack_tutorial.pdf"
+    ]
+  }
+}

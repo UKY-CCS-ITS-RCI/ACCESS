@@ -1,0 +1,19 @@
+{
+  "software": "r-summarizedexperiment",
+  "software_url": "https://bioconductor.org/packages/release/bioc/html/SummarizedExperiment.html",
+  "documentation_url": "https://bioconductor.org/packages/release/bioc/vignettes/SummarizedExperiment/inst/doc/SummarizedExperiment.html",
+  "tutorial_materials": [
+    {
+      "title": "Introduction to SummarizedExperiment",
+      "url": "https://osca.bioconductor.org/summarizedexperiment.html"
+    },
+    {
+      "title": "Bioconductor - SummarizedExperiment Data Class",
+      "url": "http://www.bioconductor.org/help/course-materials/2017/BiocIntroSeattleNov2017/SummarizedExperiment.html"
+    },
+    {
+      "title": "R / Bioconductor - SummarizedExperiment",
+      "url": "https://littlesturl.com/bioconductor-summarizedexperiment/"
+    }
+  ]
+}

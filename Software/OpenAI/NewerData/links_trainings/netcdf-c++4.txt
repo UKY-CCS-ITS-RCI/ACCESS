@@ -1,0 +1,28 @@
+{
+  "name": "netCDF-C++4",
+  "description": "A C++ interface for the netCDF data format from Unidata.",
+  "url": "https://github.com/Unidata/netcdf-cxx4",
+  "documentation_url": "https://www.unidata.ucar.edu/software/netcdf/docs/cxx4/",
+  "tutorial_url": [
+    {
+      "name": "NetCDF Tutorial",
+      "url": "https://www.unidata.ucar.edu/software/netcdf/workshops/2011/"
+    },
+    {
+      "name": "NetCDF Workshop - Unidata",
+      "url": "https://www.unidata.ucar.edu/software/netcdf/workshops/2011/"
+    },
+    {
+      "name": "Getting Started with netCDF",
+      "url": "https://www.unidata.ucar.edu/software/netcdf/docs/getting_and_building_netcdf/"
+    },
+    {
+      "name": "Example Programs - netCDF",
+      "url": "https://www.unidata.ucar.edu/software/netcdf/examples/programs/"
+    },
+    {
+      "name": "C++ Interface - netCDF",
+      "url": "https://www.unidata.ucar.edu/software/netcdf/docs/cxx4/"
+    }
+  ]
+}

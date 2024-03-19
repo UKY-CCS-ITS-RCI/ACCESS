@@ -1,0 +1,14 @@
+{
+  "softwareName": "r-hms",
+  "softwarePage": "https://anaconda.org/conda-forge/r-hms",
+  "documentation": [
+    "https://anaconda.org/conda-forge/r-hms"
+  ],
+  "trainingMaterial": [
+    "https://cran.r-project.org/web/packages/hms/readme/README.html",
+    "https://rdocumentation.org/packages/hms/versions/1.1.1"
+  ],
+  "tutorials": [
+    "https://cran.rstudio.com/web/packages/hms/vignettes/hms.html"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Software Name": "netcdf-fortran",
+  "Software URL": "https://www.unidata.ucar.edu/software/netcdf/docs/fortran-netcdf/",
+  "Documentation URL": "https://www.unidata.ucar.edu/software/netcdf/docs/fortran-netcdf/",
+  "Training and Tutorial URLs": [
+    "https://www.unidata.ucar.edu/software/netcdf/workshops/2011/fortran.html",
+    "https://www.unidata.ucar.edu/software/netcdf/docs/fortran-quick-start.html",
+    "https://cmapskm.ihmc.us/servlet/SBReadResourceServlet?rid=1193220904443_1523297873_827&partName=htmltext",
+    "https://www.sharcnet.ca/help/index.php/Fortran_and_netcdf"
+  ]
+}

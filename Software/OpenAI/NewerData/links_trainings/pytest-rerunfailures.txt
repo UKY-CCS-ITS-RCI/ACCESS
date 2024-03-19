@@ -1,0 +1,19 @@
+{
+  "Software": "pytest-rerunfailures",
+  "Software_URL": "https://pypi.org/project/pytest-rerunfailures/",
+  "Documentation": [
+    {
+      "Doc_URL": "https://pytest-rerunfailures.readthedocs.io/en/latest/"
+    }
+  ],
+  "Tutorials_Training": [
+    {
+      "Tutorial_URL": "https://www.youtube.com/watch?v=9xjHgz3oGq4",
+      "Link_Title": "Youtube_Tutorial"
+    },
+    {
+      "Training_URL": "https://docs.pytest.org/en/latest/how-to/rerun.html",
+      "Link_Title": "Pytest Official Documentation on Rerunning Failures"
+    }
+  ]
+}

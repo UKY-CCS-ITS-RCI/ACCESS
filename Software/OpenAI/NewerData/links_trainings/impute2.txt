@@ -1,0 +1,29 @@
+{
+  "software": "impute2",
+  "software_url": "https://mathgen.stats.ox.ac.uk/impute/impute_v2.html",
+  "documentation": [
+    {
+      "url": "https://mathgen.stats.ox.ac.uk/impute/impute_v2.html#documentation"
+    },
+    {
+      "url": "https://www.well.ox.ac.uk/~gav/thrash/MyTools/impute2_manual/instructions.html"
+    },
+    {
+      "url": "https://mathgen.stats.ox.ac.uk/impute/data_download_1000G_pilot_plus_hapmap3.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "url": "https://www.well.ox.ac.uk/~gav/thrash/MyTools/impute2_manual/PART_1_IMPUTE_DATA_PREPARATION.html"
+    },
+    {
+      "url": "https://www.well.ox.ac.uk/~gav/thrash/MyTools/impute2_manual/PART_2_RUNNING_IMPUTE.html"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C0e-aVRalJg"
+    },
+    {
+      "url": "https://www.well.ox.ac.uk/~gav/thrash/MyTools/impute2_manual/PART_3_RESULT_ANALYSIS.html"
+    }
+  ]
+}

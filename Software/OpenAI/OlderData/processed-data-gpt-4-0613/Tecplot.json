@@ -1,0 +1,12 @@
+{
+  "Software Name": "Tecplot",
+  "links": {
+    "software page": "https://www.tecplot.com/",
+    "documentation": "https://www.tecplot.com/docs/360/",
+    "tutorials": [
+      "https://www.tecplot.com/support/learning-center/tutorials/",
+      "https://www.youtube.com/playlist?list=PLcvt8zDnYAMXR7JE6Hfv3fWZCd4WNgJKM",
+      "https://kb.tecplot.com/?ht_kb=animate-streamtraces-in-tecplot-360"
+    ]
+  }
+}

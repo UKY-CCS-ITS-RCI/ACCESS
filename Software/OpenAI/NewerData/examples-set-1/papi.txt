@@ -1,0 +1,50 @@
+Use Case: PAPI software, a.k.a Performance API, is used to access the hardware performance counters present in most modern microprocessors. It provides a consistent interface and methodology to collect performance counters information from the CPU. PAPI can be used to monitor the CPU cycles, instructions completed, cache misses, etc.
+
+Code details and examples:
+
+Code:
+
+PAPI provides C, C++, and Fortran programming interfaces. Here is a simple C snippet to measure the number of Level 1 data cache misses:
+
+```cpp
+#include "papi.h"
+
+#define NUM_EVENTS 1
+
+int main()
+{
+    int Events[NUM_EVENTS] = { PAPI_L1_DCM };
+    long long values[NUM_EVENTS];
+
+    /* Start counting events */
+    if (PAPI_start_counters(Events, NUM_EVENTS) != PAPI_OK)
+    {
+        printf("Error in PAPI_start_counters\n");
+        return 1;
+    }
+
+   /* Run your code here which you want to measure */
+
+    /* Stop counting events */
+    if (PAPI_stop_counters(values, NUM_EVENTS) != PAPI_OK)
+    {
+        printf("Error in PAPI_stop_counters\n");
+    }
+    else
+    {
+        printf("Level 1 data cache misses: %lld\n", values[0]);
+    }
+
+    return 0;
+}
+```
+
+This program will count the number of Level 1 data cache misses while running the code between the `PAPI_start_counters` and `PAPI_stop_counters` calls.
+
+Command to run the code -
+
+To compile: `gcc -o papi_example papi_example.c -lpapi`
+
+To run: `./papi_example`
+
+The output will show the number of Level 1 data cache misses that occurred while running the unspecified piece of code.

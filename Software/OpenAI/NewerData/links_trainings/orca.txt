@@ -1,0 +1,19 @@
+{
+  "software_name": "Orca",
+  "software_page": "https://github.com/orca-project",
+  "documentation": "https://orca-project.github.io/",
+  "tutorials_and_training_materials": [
+    {
+      "name": "Quickstart with Orca",
+      "url": "https://orca-project.github.io/guide/quickstart.html"
+    },
+    {
+      "name": "Orca GitHub Wiki",
+      "url": "https://github.com/orca-project/Orca/wiki"
+    },
+    {
+      "name": "Detailed setup guide for Orca",
+      "url": "https://orca-project.github.io/guide/setup.html"
+    }
+  ]
+}

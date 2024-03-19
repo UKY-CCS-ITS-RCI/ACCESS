@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "das_tool",
+    "page_link": "https://github.com/cmks/DAS_Tool",
+    "documentation_link": "https://github.com/cmks/DAS_Tool",
+    "tutorials_and_training": [
+      {
+        "title": "Tutorial 1: DAS_TOOL basic usage",
+        "link": "https://github.com/cmks/DAS_Tool/wiki#basic_usage"
+      },
+      {
+        "title": "DAS_Tool installation guide",
+        "link": "https://github.com/cmks/DAS_Tool/wiki#installation"
+      },
+      {
+        "title": "Example data",
+        "link": "https://github.com/cmks/DAS_Tool/tree/master/example_data"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Software Name": "imkl",
+  "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/math-kernel-library.html",
+  "Documentation": [
+    {
+      "Title": "Intel Math Kernel Library (MKL) Documentation",
+      "URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html"
+    }
+  ],
+  "Training and Tutorials": [
+    {
+      "Title": "Intel oneAPI Math Kernel Library (oneMKL) - Introduction",
+      "URL": "https://www.youtube.com/watch?v=VpDDQm-QB3A"
+    },
+    {
+      "Title": "oneMKL - Vector Mathematics",
+      "URL": "https://www.youtube.com/watch?v=VpDDQm-QB3A"
+    }
+  ]
+}

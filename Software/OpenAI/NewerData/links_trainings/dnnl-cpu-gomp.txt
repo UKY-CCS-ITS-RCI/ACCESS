@@ -1,0 +1,22 @@
+{
+  "softwareName": "dnnl-cpu-gomp",
+  "softwarePage": "https://anaconda.org/conda-forge/dnnl-cpu-gomp",
+  "documentation": {
+    "mainLink": "https://oneapi-src.github.io/oneDNN/",
+    "additionalLinks": [
+      {
+        "link": "https://intel.github.io/mkl-dnn/",
+        "description": "legacy documentation"
+      }
+    ]
+  },
+  "tutorials": {
+    "mainLink": "https://github.com/intel/mkl-dnn/tree/master/examples",
+    "additionalLinks": [
+      {
+        "link": "https://intel.github.io/mkl-dnn/getting_started_c_cpp.html",
+        "description": "C/C++ API tutorial"
+      }
+    ]
+  }
+}

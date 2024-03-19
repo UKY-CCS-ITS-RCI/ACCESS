@@ -1,0 +1,20 @@
+{
+   "iccifort":{
+      "softwarePage":"https://software.intel.com/content/www/us/en/develop/tools/compilers.html",
+      "documentationLink":"https://software.intel.com/content/www/us/en/develop/articles/intel-software-technical-documentation.html",
+      "trainingMaterials":[
+         {
+            "name":"ICC installation guide",
+            "link":"https://software.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/installation.html"
+         },
+         {
+            "name":"Getting Started with Intel C++ Compiler",
+            "link":"https://software.intel.com/content/www/us/en/develop/documentation/get-started-with-pxe/top.html"
+         },
+         {
+            "name":"Intel C++ Compiler Developer Guide and Reference",
+            "link":"https://software.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top.html"
+         }
+      ]
+   }
+}

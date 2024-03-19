@@ -1,0 +1,19 @@
+{
+  "Software": 
+  { 
+    "Xclock": 
+    { 
+      "URL": "https://www.x.org/releases/current/doc/man/man1/xclock.1.xhtml",
+      "Documentation": "https://manpages.ubuntu.com/manpages/natty/man1/xclock.1.html", 
+      "Tutorials": 
+      [
+        {
+          "XClock - How To Display Time And Calendar On Pictures - Linux TUI/VNC/GUI": "https://www.tutonics.com/2012/08/xclock-how-to-display-time-and-calendar.html"
+        },
+        {
+          "Xclock usage": "https://www.computerhope.com/unix/uxclock.htm"
+        }
+      ]
+    }
+  }
+}

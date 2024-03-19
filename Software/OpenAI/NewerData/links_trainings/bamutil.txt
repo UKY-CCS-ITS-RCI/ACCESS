@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Name": "bamutil",
+    "Link": "https://genome.sph.umich.edu/wiki/BamUtil",
+    "Documentation": {
+      "Link": "https://genome.sph.umich.edu/wiki/BamUtil:_FAQ"
+    },
+    "Tutorials": {
+      "Link1": "https://www.youtube.com/watch?v=Jf7C-Dt1cVg",
+      "Link2": "https://www.youtube.com/watch?v=u3bNPMOjk5A"
+    }
+  }
+}

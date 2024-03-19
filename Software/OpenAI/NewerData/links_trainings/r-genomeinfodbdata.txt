@@ -1,0 +1,16 @@
+{
+  "Software Name": "r-genomeinfodbdata",
+  "Software Page": "https://bioconductor.org/packages/release/data/annotation/html/GenomeInfoDbData.html",
+  "Documentation": [
+    {
+      "Document Name": "Bioconductor - GenomeInfoDbData",
+      "Document URL": "https://www.bioconductor.org/packages/devel/data/annotation/vignettes/GenomeInfoDbData/inst/doc/GenomeInfoDbData.html"
+    }
+  ],
+  "Tutorial and Training Materials": [
+    {
+      "Material Name": "Bioconductor Tutorial - GenomeInfoDbData",
+      "Material URL": "https://bioconductor.org/packages/release/data/annotation/vignettes/GenomeInfoDbData/inst/doc/GenomeInfoDbData.html"
+    }
+  ]
+}

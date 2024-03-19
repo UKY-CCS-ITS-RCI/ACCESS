@@ -1,0 +1,31 @@
+{
+  "software": "multiqc",
+  "details": [
+    {
+      "softwarePage": "http://multiqc.info",
+      "documentation": "https://multiqc.info/docs/",
+      "tutorial": [
+        {
+          "link": "https://multiqc.info/docs/",
+          "description": "MultiQC official tutorial and documentation"
+        },
+        {
+          "link": "https://bioinformaticsworkbook.org/Appendix/MultiQC/MultiQC.html#gsc.tab=0",
+          "description": "Bioinformatics Workbook - A walk through of MultiQC’s website visualization"
+        },
+        {
+          "link": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/multiqc/tutorial.html",
+          "description": "Galaxy Training - Metagenomics - Introduction to MultiQC"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=oiBJj-3vV7E",
+          "description": "YouTube - Tutorial: Evaluating the Quality of the Sequencing Process with FastQC and MultiQC"
+        },
+        {
+          "link": "https://www.ebi.ac.uk/training/online/courses/bioinformatics-for-next-generation-sequencing/module-2-quality-control/fastqc-multiqc/",
+          "description": "EBI Training - Bioinformatics for Next Generation Sequencing - Quality Control with FastQC and MultiQC"
+        }
+      ]
+    }
+  ]
+}

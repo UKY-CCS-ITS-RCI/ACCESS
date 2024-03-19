@@ -1,0 +1,22 @@
+{
+"software_name": "ivar",
+"software_url": "https://andersen-lab.github.io/ivar/html/",
+"documentation_url": "https://andersen-lab.github.io/ivar/html/manualpage.html",
+"tutorial_materials": [
+    {
+      "tutorial_name": "iVar manual",
+      "tutorial_url": "https://andersen-lab.github.io/ivar/html/manualpage.html"
+    },
+    {
+      "tutorial_name": "Workflow for Genome Detective and iVar",
+      "tutorial_url": "https://www.protocols.io/view/workflow-for-genome-detective-and-ivar-bhqqj8pw"
+    },
+    {
+      "tutorial_name": "CAT_SEPP Tutorial",
+      "tutorial_url": "https://www.jcvi.org/sites/default/files/CAT_SEPP_Tutorial.pdf"
+    },
+    {
+      "tutorial_name": "COVID-19 Nanopore sequencing using ARTIC protocol - analysis conducted using iVar",
+      "tutorial_url": "https://artic.network/ncov-2019/ncov2019-bioinformatics-sop.html"
+    }]
+}

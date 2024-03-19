@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GATK": {
+      "MainPage": "https://gatk.broadinstitute.org/hc/en-us",
+      "Documentation": "https://gatk.broadinstitute.org/hc/en-us/categories/360002056592-User-guide-Table-of-Contents",
+      "Tutorials": [
+        "https://gatk.broadinstitute.org/hc/en-us/categories/360002076452-Workflows-Pipelines",
+        "https://gatk.broadinstitute.org/hc/en-us/categories/360002056992-Workshops-Courses",
+        "https://www.coursera.org/lecture/genomics-research/gatk-best-practices-CrI7a"
+      ]
+    }
+  }
+}

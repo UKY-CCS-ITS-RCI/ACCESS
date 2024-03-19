@@ -1,0 +1,11 @@
+{
+  "softwareName": "IGV",
+  "links": {
+    "softwarePage": "https://software.broadinstitute.org/software/igv/",
+    "documentation": "https://software.broadinstitute.org/software/igv/UserGuide",
+    "officialTutorial": "https://software.broadinstitute.org/software/igv/UserGuide",
+    "tutorial1": "https://www.biostars.org/p/218671/",
+    "tutorial2": "https://www.youtube.com/watch?v=8974H5XnAxA",
+    "tutorial3": "https://hbctraining.github.io/Training-modules/DGE-functional-analysis/lessons/06_IGVbrowser.html"
+  }
+}

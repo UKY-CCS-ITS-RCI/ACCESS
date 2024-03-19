@@ -1,0 +1,13 @@
+{
+  "Software": "Transformers",
+  "URL": "https://github.com/huggingface/transformers",
+  "Documentation": "https://huggingface.co/transformers/",
+  "Tutorials": {
+    "Quickstart," : "https://huggingface.co/transformers/quickstart.html",
+    "Fine-tuning with custom datasets": "https://huggingface.co/transformers/custom_datasets.html",
+    "Trainer": "https://huggingface.co/transformers/main_classes/trainer.html",
+    "Training big models": "https://huggingface.co/transformers/training.html",
+    "Youtube Tutorial": "https://www.youtube.com/watch?v=NLP-sdLTEg0"
+  },
+  "Python Library": "https://pypi.org/project/transformers/"
+}

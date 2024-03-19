@@ -1,0 +1,12 @@
+{
+  "software": {
+    "n50": {
+      "software_url": "https://sourceforge.net/projects/n50/",
+      "documentation": [
+        "https://sourceforge.net/p/n50/wiki/Home/"
+      ],
+      "training": [],
+      "tutorial": []
+    }
+  }
+}

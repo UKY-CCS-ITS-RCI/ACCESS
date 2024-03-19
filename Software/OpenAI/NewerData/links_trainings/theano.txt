@@ -1,0 +1,30 @@
+{
+   "software": [
+      {
+         "name": "theano",
+         "link": "http://deeplearning.net/software/theano/",
+         "documentation": [
+            {
+               "link": "http://deeplearning.net/software/theano/introduction.html"
+            },
+            {
+               "link": "http://docs.deeplearning.net/"
+            }
+         ],
+         "tutorials": [
+            {
+               "link": "http://deeplearning.net/software/theano/tutorial/"
+            },
+            {
+               "link": "https://github.com/lamblin/ccw_tutorial"
+            },
+            {
+               "link": "http://deeplearning.net/software/theano/tutorial/adding.html"
+            },
+            {
+               "link": "https://www.kdnuggets.com/2017/05/gentle-introduction-deep-learning-theano.html"
+            }
+         ]
+      }
+   ]
+}

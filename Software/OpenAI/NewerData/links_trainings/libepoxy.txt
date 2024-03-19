@@ -1,0 +1,14 @@
+{
+  "Software": "libepoxy",
+  "Details": {
+    "Software Page": "https://github.com/anholt/libepoxy",
+    "Documentation Links": [
+      "https://people.freedesktop.org/~anholt/dri/doxygen/epoxy/gl_8h.html",
+      "https://docs.mesalock-linux.org/api/epoxy-1.4/index.html"
+    ],
+    "Tutorial and Training Materials": [
+      "https://medium.com/synistry/libepoxy-getting-started-guide-4cb0a3b2351e",
+      "https://gist.github.com/8b30f0a852b111c0fa558ff9d8cc3db1"
+    ]
+  }
+}

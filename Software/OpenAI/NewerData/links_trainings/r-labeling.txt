@@ -1,0 +1,24 @@
+{
+  "software": "r-labeling",
+  "software_url": "https://cran.r-project.org/web/packages/labeling/index.html",
+  "documentation": [
+    {
+      "doc_name": "CRAN package labeling",
+      "doc_url": "https://cran.r-project.org/web/packages/labeling/labeling.pdf"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorial_name": "Introduction to R",
+      "tutorial_url": "https://cran.r-project.org/doc/manuals/R-intro.pdf"
+    },
+    {
+      "tutorial_name": "R Data Import/Export",
+      "tutorial_url": "https://cran.r-project.org/doc/manuals/r-release/R-data.html"
+    },
+    {
+      "tutorial_name": "CRAN Task View",
+      "tutorial_url": "https://cran.r-project.org/web/views/"
+    }
+  ]
+}

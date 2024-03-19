@@ -1,0 +1,15 @@
+{
+  "Software": "slamdunk",
+  "Homepage": "https://t-neumann.github.io/slamdunk/",
+  "Documentation": [
+    {
+      "Slamdunk Documentation": "https://t-neumann.github.io/slamdunk/docs/"
+    }
+  ],
+  "Tutorials & Training materials": [
+    {
+      "Slamdunk Tutorial": "https://t-neumann.github.io/slamdunk/docs/#5-tutorial",
+      "Slamdunk Multiqc Report": "https://t-neumann.github.io/slamdunk/docs/#35-multiqc-report"
+    }
+  ]
+}

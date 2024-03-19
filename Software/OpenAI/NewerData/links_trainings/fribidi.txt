@@ -1,0 +1,19 @@
+{
+    "software": "fribidi",
+    "details": [
+        {
+            "softwareHomepage": "https://fribidi.org/",
+            "documentation": [
+                "https://fribidi.org/documentation",
+                "https://github.com/fribidi/fribidi/blob/master/README"
+            ],
+            "trainingMaterials": [
+                "https://fribidi.org/download",
+                "https://github.com/fribidi/fribidi"
+            ],
+            "condaPackage": [
+                "https://anaconda.org/conda-forge/fribidi"
+            ]
+        }
+    ]
+}

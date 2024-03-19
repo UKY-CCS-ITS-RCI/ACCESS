@@ -1,0 +1,27 @@
+Use Case: Aspera is a software toolkit developed by IBM for high-speed data transfer. Typically used for transfer of large data sets over long distances, allowing maximum utilization of bandwidth, regardless of network conditions.
+
+Code details and examples: 
+
+Code:
+
+In Aspera, we often make use of the `ascp` command-line utility. The basic command structure for `ascp` is:
+
+```
+ascp [options] source destination
+```
+
+The source and destination parameters can be either a single file/directory, or multiple files. 
+
+Here's an example where we transfer a single file from a local machine to a remote machine:
+
+```
+ascp -i ~/aspera/cli/etc/asperaweb_id_dsa.openssh -Tr -l100m -P33001 -L- file.txt aspera_user@remote.aspera.com:destination_dir/
+```
+
+In this example, `~/aspera/cli/etc/asperaweb_id_dsa.openssh` is the private key file for authentication, `-Tr` enables resume for the transfer, `-l100m` sets the target transfer rate to 100 Mbps, `-P33001` sets the TCP port for SSH, `-L-` disables logging, `file.txt` is the file to be transferred, and `aspera_user@remote.aspera.com:destination_dir/` is the transfer destination.
+
+File format needed is `.txt` or any other file formats according to the requirement.
+
+Specifications and details in input files: The input file is "file.txt" and it can be any file that needs to be transferred. It is recommended to use full file paths to avoid any confusion. 
+
+Command to run them: As seen in the code snippet, `ascp` is the main command used to initiate the file transfer in Aspera.

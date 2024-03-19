@@ -1,0 +1,16 @@
+{
+  "Software Name": "Hypothesis",
+  "Software Page": "https://hypothesis.readthedocs.io/en/latest/",
+  "Additional Links": {
+    "Documentation": "https://hypothesis.readthedocs.io/en/latest/",
+    "Tutorials": {
+      "Tutorial 1": "https://hypothesis.works/articles/tutorial/",
+      "Tutorial 2": "https://docs.python-guide.org/writing/tests/",
+      "Turorial 3": "https://realpython.com/python-testing/"
+    },
+    "Training Materials": {
+      "Training Material 1": "https://hypothesis.works/articles/reproducible/",
+      "Training Material 2": "https://hypothesis.works/articles/testing-pandas/"
+    }
+  }
+}

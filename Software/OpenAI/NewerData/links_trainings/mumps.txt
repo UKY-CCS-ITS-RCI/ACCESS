@@ -1,0 +1,13 @@
+{
+"Mumps": {
+"Software Page": "http://mumps.enseeiht.fr/",
+"Documentation": "http://mumps.enseeiht.fr/index.php?page=dwnld#doc",
+"Tutorials and Training Materials": [
+"http://hpc-wiki.info/hpc/MUMPS_Matrix_Solver_Tutorial",
+"https://scicomp.stackexchange.com/questions/17842/example-of-simple-mumps-usage",
+"https://www.researchgate.net/post/performance_improvement_for_MUMPS",
+"https://www.researchgate.net/publication/263025352_Using_the_MUMPS_parallel_sparse_direct_solver_in_application_codes",
+"https://epubs.siam.org/doi/abs/10.1137/1.9780898719918.3",
+"https://cm.bell-labs.com/cm/cs/cstr/299.pdf"]
+}
+}

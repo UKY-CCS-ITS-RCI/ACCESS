@@ -1,0 +1,17 @@
+{
+  "software": "pylauncher",
+  "software_url": "https://pypi.org/project/pylauncher/",
+  "documentation": {
+    "url": "https://pylauncher.readthedocs.io/en/latest/"
+  },
+  "tutorials": [
+    {
+      "url": "https://www.youtube.com/watch?v=BVXv0-1Rcc8",
+      "title": "Python Scripts as a Replacement for Bash Utility Scripts"
+    },
+    {
+      "url":"https://www.freecodecamp.org/news/what-exactly-can-you-do-with-python-here-are-pythons-3-main-applications-7189b308c54a/",
+      "title": "What Exactly Can You Do With Python? Here Are Python's 3 Main Applications"
+    }
+  ]
+}

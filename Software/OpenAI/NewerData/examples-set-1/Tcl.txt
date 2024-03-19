@@ -1,0 +1,48 @@
+Use Case: Tcl (Tool Command Language) is a general-purpose scripting language that's commonly used for web and desktop application development. Tcl is also used for testing, network programming and GUI development.
+
+Code details and examples: Code
+
+Tcl script requires an input file with a '.tcl' extension and Tcl commands inside it.
+
+Sample Input File: script.tcl
+
+Here is an example Tcl script file that prints "Hello, World!" on the console:
+
+```
+# Hello World program in Tcl language
+puts "Hello, World!"
+```
+
+Sample Command to run it:
+
+```
+tclsh script.tcl
+```
+
+The command `tclsh` runs the Tcl interpreter followed by the filename `script.tcl` to execute your Tcl script.
+
+Another advanced Tcl script example that takes input and uses if-else condition and loop to print numbers:
+
+```
+# script.tcl
+puts "Please enter a number:"
+gets stdin number
+
+if {$number >= 0} {
+    puts "You have entered a non-negative number."
+    for {set i 0} {$i <= $number} {incr i} {
+        puts $i
+    }
+} else {
+    puts "You have entered a negative number."
+    for {set i 0} {$i >= $number} {incr i -1} {
+        puts $i
+    }
+}
+```
+
+Command to run the script:
+
+```
+tclsh script.tcl
+```

@@ -1,0 +1,22 @@
+{
+  "ataqv": {
+    "software_page": "https://github.com/ParkerLab/ataqv",
+    "additional_links": {
+      "documentation": "https://github.com/ParkerLab/ataqv/blob/master/README.md",
+      "tutorial_materials": [
+        {
+          "title": "Installation guide",
+          "link": "https://github.com/ParkerLab/ataqv#installation"
+        },
+        {
+          "title": "General usage",
+          "link": "https://github.com/ParkerLab/ataqv#general-usage"
+        },
+        {
+          "title": "ataqv metrics",
+          "link": "https://github.com/ParkerLab/ataqv#ataqv-metrics"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Software Name": "Perl Bundle2::CPAN",
+  "Software Link": "https://metacpan.org/pod/distribution/perl-5.19.10/lib/Bundle2/CPAN.pm",
+  "Documentation": [
+    {
+      "Title": "How to install Perl modules - Perl Beginner's Site",
+      "Link": "http://perl-begin.org/tutorials/perl-modules/"
+    },
+    {
+      "Title": "CPAN - Perl Doc",
+      "Link": "https://perldoc.perl.org/CPAN.html"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Title": "Perl: How to use CPAN - ComputerHope",
+      "Link": "https://www.computerhope.com/unix/perl-cpan.htm"
+    },
+    {
+      "Title": "Installing Perl Modules From CPAN - HostingAdvice",
+      "Link": "https://www.hostingadvice.com/how-to/install-perl-modules-cpan/"
+    },
+    {
+      "Title": "How to Install Perl and Get Started with Perl Programming - Ntulinux",
+      "Link": "http://www.ntu.edu.sg/home/ehchua/programming/perl/perl_quick_guide.html"
+    },
+    {
+      "Title": "The CPAN Command-Line Interface - CPAN",
+      "Link": "https://www.cpan.org/modules/INSTALL.html"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "srst2": {
+    "software_page": "https://github.com/katholt/srst2",
+    "documentation": "https://github.com/katholt/srst2#readme",
+    "training_tutorials": [
+      {
+        "name": "SRST2 Tutorial",
+        "url": "https://readthedocs.org/projects/srst2/downloads/pdf/latest/"
+      },
+      {
+        "name": "SRST2 Short Read Sequence Typing for Bacterial Pathogens on GitHub",
+        "url": "https://github.com/katholt/srst2"
+      }
+    ]
+  }
+}

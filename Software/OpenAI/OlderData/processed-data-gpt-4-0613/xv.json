@@ -1,0 +1,22 @@
+{
+  "Software": 
+  { 
+    "XV": 
+    { 
+      "URL": "https://en.wikipedia.org/wiki/Xv_(software)",
+      "Documentation": "https://www.trilon.com/xv/docs/xvdocs.html",
+      "Tutorials": 
+      [
+        {
+          "Basic usage of XV": "https://www.linux.com/topic/desktop/oldie-goodie-xv-does-images-fast-and-simply/"
+        },
+        {
+          "Common XV Operations": "https://www.thexlab.com/faqs/ujlogxv.html"
+        },
+        {
+          "XV User Manual": "https://www.unix.com/man-page/all/1/xv/"
+        }
+      ]
+    }
+  }
+}

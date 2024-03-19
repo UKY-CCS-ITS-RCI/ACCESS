@@ -1,0 +1,10 @@
+{
+  "softwareName": "Cutadapt",
+  "links": {
+    "softwarePage": "https://cutadapt.readthedocs.io",
+    "documentation": "https://cutadapt.readthedocs.io/en/stable/",
+    "tutorial1": "https://cutadapt.readthedocs.io/en/stable/guide.html",
+    "tutorial2": "https://angus.readthedocs.io/en/2018/cutadapt.html",
+    "tutorial3": "https://www.youtube.com/watch?v=fPzdu4jklvQ"
+  }
+}

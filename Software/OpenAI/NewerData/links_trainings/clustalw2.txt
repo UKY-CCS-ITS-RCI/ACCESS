@@ -1,0 +1,11 @@
+{
+  "clustalw2": {
+    "Software_page": "http://www.clustal.org/clustal2/",
+    "Documentation": "http://www.clustal.org/download/current_userman.pdf",
+    "Tutorials_Training_materials": {
+      "Tutorial_1": "https://drive5.com/usearch/manual/uchime_clustalw.html",
+      "Tutorial_2": "https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/Clustalw2+Help+and+Documentation",
+      "Tutorial_3": "https://www.tutorialspoint.com/bioinformatics/bioinformatics_clustalw.htm"
+    }
+  }
+}

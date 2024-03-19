@@ -1,0 +1,27 @@
+{
+  "Software": {
+    "Name": "r-xml",
+    "Web_URL": "https://www.rdocumentation.org/packages/xml2/versions/1.3.2",
+    "Description": "r-xml is an R package for parsing XML files.",
+    "Documentation": [
+      {
+        "URL": "https://cran.r-project.org/web/packages/xml2/xml2.pdf",
+        "Description": "CRAN r-xml PDF Manual"
+      }
+    ],
+    "Tutorials": [
+      {
+        "URL": "https://datascienceplus.com/xml-data-in-r/",
+        "Description": "DataScience+ Tutorial on XML in R"
+      },
+      {
+        "URL": "https://www.tutorialspoint.com/r/r_xml_files.htm",
+        "Description": "TutorialsPoint R-XML Tutorial"
+      },
+      {
+        "URL": "https://www.youtube.com/watch?v=3bE4s-0uJXE",
+        "Description": "YouTube Video on parsing XML with the XML package"
+      }
+    ]
+  }
+}

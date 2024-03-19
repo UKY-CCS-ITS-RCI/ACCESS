@@ -1,0 +1,12 @@
+{
+    "spdlog": {
+        "software_page": "https://github.com/gabime/spdlog",
+        "documentation": "https://spdlog.docsforge.com/v1.x/",
+        "tutorials_and_trainings": [
+            "https://github.com/gabime/spdlog/wiki/1.-QuickStart",
+            "https://github.com/gabime/spdlog/wiki/2.-Creating-loggers",
+            "https://github.com/gabime/spdlog/wiki/3.-Custom-formatting",
+            "https://www.youtube.com/watch?v=QBVCg_b4fjU"
+        ]
+    }
+}

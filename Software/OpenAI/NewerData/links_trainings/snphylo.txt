@@ -1,0 +1,15 @@
+{
+  "Software_Name": "snphylo",
+  "Software_Page_Link": "https://github.com/thlee/SNPhylo",
+  "Documentation_Link": "http://chibba.pgml.uga.edu/snphylo/",
+  "Training_Materials": [
+    {
+      "Name": "SNPhylo: a pipeline to construct a phylogenetic tree from huge SNP data",
+      "Link": "https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-162"
+    },
+    {
+      "Name": "SNPhylo GitHub Issues - Community discussions and troubleshooting",
+      "Link": "https://github.com/thlee/SNPhylo/issues"
+    }
+  ]
+}

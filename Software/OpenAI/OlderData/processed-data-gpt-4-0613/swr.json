@@ -1,0 +1,15 @@
+{ 
+  "SoftwareName": "SWR",
+  "Homepage" : "https://dri.freedesktop.org/doxygen/gallium/swr.html", 
+  "Resources" : { 
+    "Documentation" : "https://01.org/sites/default/files/documentation/avx512_guide_524362_vmi1_avx512intrinsicsguide.pdf", 
+    "Tutorials": [
+      "https://www.intel.com/content/www/us/en/develop/articles/rendering-pipeline-hindrances.html",
+      "https://www.phoronix.com/scan.php?page=article&item=intel-swr-xeone&num=1" 
+    ],
+    "TrainingMaterial": [
+      "http://u.cs.biu.ac.il/~haimga/Teaching/Cg-Seminar/Presentations/Swr.pptx", 
+      "https://www.intel.com/content/www/us/en/develop/articles/rendering-pipeline-hindrances.html"
+    ] 
+  } 
+}

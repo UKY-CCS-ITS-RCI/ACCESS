@@ -1,0 +1,20 @@
+{
+    "SoftwareName": "dill",
+    "SoftwareURL": "https://pypi.org/project/dill/",
+    "Documentation": [
+        {
+        "URL": "https://dill.readthedocs.io/en/latest/"
+        }
+    ],
+    "Tutorials":[
+        {
+        "URL":"https://stackoverflow.com/questions/tagged/python-dill"
+        },
+        {
+        "URL":"https://www.tutorialspoint.com/serialize-python-function-call-with-dill"
+        },
+        {
+        "URL":"https://www.codota.com/python/module/dill"
+        }
+    ]
+}

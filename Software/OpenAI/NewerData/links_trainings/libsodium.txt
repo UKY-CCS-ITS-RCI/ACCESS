@@ -1,0 +1,23 @@
+{
+  "name": "libsodium",
+  "software_page": "https://libsodium.gitbook.io/doc/",
+  "documentation_link": "https://libsodium.gitbook.io/doc/",
+  "training_materials": [
+    {
+      "material_name": "Using libsodium in PHP Projects",
+      "material_link": "https://paragonie.com/book/pecl-libsodium"
+    },
+    {
+      "material_name": "A quick introduction to libsodium",
+      "material_link": "https://www.zerodoppler.com/2017/05/29/getting-started-with-libsodium-in-c/"
+    },
+    {
+      "material_name": "A brief introduction to using Libsodium",
+      "material_link": "https://kev.baselabs.dev/libsodium/"
+    },
+    {
+      "material_name": "libsodium for beginners",
+      "material_link": "https://cryptologie.net/article/418/libsodium-for-beginners/"
+    }
+  ]
+}

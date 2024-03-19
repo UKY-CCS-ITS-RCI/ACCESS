@@ -1,0 +1,10 @@
+{
+  "software": "mvapich2-gdr",
+  "link": "http://mvapich.cse.ohio-state.edu/",
+  "documentation": "http://mvapich.cse.ohio-state.edu/userguide/",
+  "tutorials": [
+    "https://www.nersc.gov/users/computational-systems/edison/programming/using-openmpi/mvapich2-2-x/",
+    "https://training.prace-ri.eu/material/2018-08-28-Dublin/mpi/mvapich2_Dublin_MPI2018.pdf",
+    "https://www.osc.edu/book/export/html/3901"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+   "Software":[
+      {
+         "Name":"motus",
+         "Link":"https://github.com/motu-tool/mOTUs_v2",
+         "Documentation":[
+            {
+               "Name":"Installation Instructions",
+               "URL":"https://github.com/motu-tool/mOTUs_v2#installation"
+            },
+            {
+               "Name":"Usage Instructions",
+               "URL":"https://github.com/motu-tool/mOTUs_v2#usage"
+            }
+         ],
+         "Tutorials":[
+            {
+               "Name":"mOTUs2 Tutorial",
+               "URL":"https://motu-tool.github.io/mOTUs_tutorial/"
+            }
+         ]
+      }
+   ]
+}

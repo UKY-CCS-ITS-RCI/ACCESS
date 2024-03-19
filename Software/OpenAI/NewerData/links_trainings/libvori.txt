@@ -1,0 +1,7 @@
+{
+"libvori": {
+    "software_page": "https://gitlab.com/libvori/libvori",
+    "documentation": "https://gitlab.com/libvori/libvori/-/blob/master/README.md",
+    "tutorial_material": "No specific tutorials found."
+    }
+}

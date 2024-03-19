@@ -1,0 +1,12 @@
+{
+  "Guile": {
+    "Software_link": "https://www.gnu.org/software/guile/",
+    "Documentation": "https://www.gnu.org/software/guile/docs/",
+    "Training and Tutorial Links": {
+      "Guile tutorial": "https://www.gnu.org/software/guile/docs/master/guile-tut/tutorial.html",
+      "Guile for Programmers": "https://www.gnu.org/software/guile/docs/guile-tut/guile-tut.html",
+      "Learn Scheme in Guile": "https://www.youtube.com/watch?v=PLYstZhdumk",
+      "Guile Programming Tutorial pointer-io": "https://www.pointer.io/article/guile-a-language-orientated-towards-programmability"
+    }
+  }
+}

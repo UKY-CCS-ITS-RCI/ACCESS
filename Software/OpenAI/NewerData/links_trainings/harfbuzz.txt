@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "harfbuzz",
+    "software_url": "https://www.freedesktop.org/wiki/Software/HarfBuzz/",
+    "documentation_url": "https://harfbuzz.github.io/",
+    "training_materials": [
+    {
+      "name": "Introduction to HarfBuzz",
+      "url": "https://harfbuzz.github.io/ch01.html"
+    },
+    {
+      "name": "HarfBuzz tutorial",
+      "url": "https://fossies.org/linux/harfbuzz/docs/tutorial.html"
+    },
+    {
+      "name": "HarfBuzz API Documentation",
+      "url": "https://harfbuzz.github.io/api/index.html"
+    }
+    ]
+  }
+}

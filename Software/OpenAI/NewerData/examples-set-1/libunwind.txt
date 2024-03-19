@@ -1,0 +1,50 @@
+Use Case: Use the libunwind library to get a backtrace of a program; 
+
+Code details and examples:
+
+Code:
+
+```c
+#include <libunwind.h>
+#include <stdio.h>
+
+void print_backtrace() {
+    unw_cursor_t cursor;
+    unw_context_t context;
+
+    // Initialize cursor to current frame for local unwinding.
+    unw_getcontext(&context);
+    unw_init_local(&cursor, &context);
+
+    // Unwind frames one by one, going up the frame stack.
+    while (unw_step(&cursor) > 0) {
+        unw_word_t offset, pc;
+        unw_get_reg(&cursor, UNW_REG_IP, &pc);
+
+        if (pc == 0) {
+            break;
+        }
+        printf ("0x%lx:", pc);
+
+        char sym[256];
+        if (unw_get_proc_name(&cursor, sym, sizeof(sym), &offset) == 0) {
+            printf (" (%s+0x%lx)\n", sym, offset);
+        } else {
+            printf (" -- error: unable to obtain symbol name for this frame\n");
+        }
+    }
+}
+
+int main() {
+    print_backtrace();
+    return 0;
+}
+```
+
+This C program uses the libunwind library to print a stack trace of the current frame.
+
+For running the program you will usually need to compile and then execute the binary:
+```
+gcc -o test_unwind test_unwind.c -lunwind
+./test_unwind
+```

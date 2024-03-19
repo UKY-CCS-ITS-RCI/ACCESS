@@ -1,0 +1,14 @@
+{
+    "r-rhdf5lib": {
+        "SoftwarePage": "https://bioconductor.org/packages/release/bioc/html/rhdf5lib.html",
+        "Documentation": {
+            "BasicDocumentation": "https://bioconductor.org/packages/release/bioc/html/rhdf5lib.html",
+            "Vignettes": "https://bioconductor.org/packages/release/bioc/vignettes/rhdf5lib/inst/doc/rhdf5lib.pdf"
+        },
+        "TutorialMaterials": {
+            "BioconductorTutorial": "https://bioconductor.org/packages/devel/bioc/vignettes/rhdf5lib/inst/doc/rhdf5lib.html",
+            "BasicTutorial": "https://www.huber.embl.de/users/anders/HTSeq/doc/tour.html#tour",
+            "AdvancedTutorial": "https://www.bioconductor.org/help/workflows/rnaseqGene/"
+        }
+    }
+}

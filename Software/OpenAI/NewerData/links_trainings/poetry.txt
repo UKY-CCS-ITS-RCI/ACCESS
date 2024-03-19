@@ -1,0 +1,13 @@
+{
+  "software": "Poetry",
+  "software_url": "https://python-poetry.org/",
+  "documentation_url": "https://python-poetry.org/docs/",
+  "tutorial_urls": [
+    "https://dev.to/codemouse92/dead-simple-python-project-setup-with-poetry-and-vscode-107m",
+    "https://www.fullstackpython.com/poetry.html",
+    "https://levelup.gitconnected.com/manage-your-python-project-with-poetry-6316dd8c2b32",
+    "https://python-poetry.org/docs/basic-usage/",
+    "https://python-poetry.org/docs/cli/",
+    "https://blog.jonasneubert.com/2019/10/22/poetry-walkthrough-a-python-packaging-tutorial/"
+  ]
+}

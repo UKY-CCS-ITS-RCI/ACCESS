@@ -1,0 +1,11 @@
+{
+    "Software": "amd-uprof",
+    "Link to Software": "https://developer.amd.com/amd-uprof/",
+    "Additional Links": {
+        "Documentation": "https://developer.amd.com/amd-uprof/user-guide-windows/",
+        "Training and Tutorial Materials": [
+            "https://developer.amd.com/amd-uprof/",
+            "https://www.youtube.com/watch?v=27OlnS4likU"
+        ]
+    }
+}

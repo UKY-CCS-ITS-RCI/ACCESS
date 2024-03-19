@@ -1,0 +1,26 @@
+Use Case: Downloading and extracting SRA (Sequence Read Archive) files using SRA Toolkit  
+Code details and examples:  
+1. Download SRA Toolkit from NCBI:  
+```
+wget https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/current/sratoolkit.current-centos_linux64.tar.gz
+tar -xzf sratoolkit.current-centos_linux64.tar.gz
+```
+
+2. Extracting SRA files using `fastq-dump`:  
+```
+./sratoolkit.current-centos_linux64/bin/fastq-dump SRR390728 --outdir output_directory
+```
+
+3. Converting SRA to FASTQ format:  
+```
+./sratoolkit.current-centos_linux64/bin/fastq-dump --split-files SRR390728
+```
+
+4. Getting metadata for an SRA accession:  
+```
+./sratoolkit.current-centos_linux64/bin/prefetch SRR390728
+./sratoolkit.current-centos_linux64/bin/vdb-validate SRR390728
+```
+
+Note: Replace `SRR390728` with your desired SRA accession number.  
+Ensure to adjust the paths accordingly if you are running the commands from a different directory.

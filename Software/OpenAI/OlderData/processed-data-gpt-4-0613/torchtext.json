@@ -1,0 +1,15 @@
+{
+  "torchtext": 
+  {
+    "software_page": "https://pytorch.org/text/", 
+    "documentation": "https://torchtext.readthedocs.io/en/latest/", 
+    "training_materials": 
+    [
+      {
+        "tutorial_1": "https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/",
+        "tutorial_2": "https://pytorch.org/tutorials/beginner/torchtext_tutorial.html",
+        "tutorial_3": "https://github.com/pytorch/text"
+      }
+    ]
+  }
+}

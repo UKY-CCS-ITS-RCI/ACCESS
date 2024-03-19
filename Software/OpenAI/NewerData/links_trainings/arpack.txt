@@ -1,0 +1,15 @@
+{
+  "software": {
+    "name": "arpack",
+    "url": "https://www.caam.rice.edu/software/ARPACK/",
+    "documentation": {
+      "url": "https://www.caam.rice.edu/software/ARPACK/UG/ug.html"
+    },
+    "tutorial": {
+      "url": [
+        "https://github.com/opencollab/arpack-ng/blob/master/EXAMPLES/SYM.doc",
+        "https://janroman.dhis.org/stud/ARPACK/Arpack%20Tutorial.htm"
+      ]
+    }
+  }
+}

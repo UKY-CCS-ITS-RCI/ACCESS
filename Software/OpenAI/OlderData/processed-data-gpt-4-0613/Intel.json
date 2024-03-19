@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Intel": {
+      "MainPage": "https://software.intel.com/content/www/us/en/develop/home.html",
+      "Documentation": "https://software.intel.com/content/www/us/en/develop/documentation.html",
+      "Tutorials": [
+        "https://software.intel.com/content/www/us/en/develop/training.html",
+        "https://www.youtube.com/user/intelswnetwork",
+        "https://software.intel.com/content/www/us/en/develop/articles/intel-sdks-overview.html"
+      ]
+    }
+  }
+}

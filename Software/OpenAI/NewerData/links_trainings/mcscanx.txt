@@ -1,0 +1,14 @@
+{
+  "software": "MCScanX",
+  "details": [
+    {
+      "link": "https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)",
+      "documentation": "http://chibba.pgml.uga.edu/mcscan2/",
+      "tutorials": [
+        "https://bio.tools/mcscanx",
+        "https://www.biostars.org/p/108669/",
+        "https://www.youtube.com/watch?v=3aoYrAaUCF4"
+      ]
+    }
+  ]
+}

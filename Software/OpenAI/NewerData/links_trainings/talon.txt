@@ -1,0 +1,17 @@
+{
+  "software": {
+    "name": "talon",
+    "url": "https://github.com/mortazavilab/TALON",
+    "documentation": {
+      "talon_initialization": "https://mortazavilab.github.io/TALON/initializing_a_TALON_database.html",
+      "talon_label_reads": "https://mortazavilab.github.io/TALON/labeling_reads_with_TALON.html",
+      "talon_filter_transcripts": "https://mortazavilab.github.io/TALON/filtering_transcripts_with_TALON.html"
+    },
+    "tutorials": {
+      "talon_workflow_tutorial": "https://github.com/mortazavilab/TALON/wiki/TALON-workflow-tutorial",
+      "talon_installation_instructions": "https://github.com/mortazavilab/TALON/wiki/Installation",
+      "usage_talon": "https://github.com/mortazavilab/TALON/wiki/Usage"
+    }
+  }
+}
+

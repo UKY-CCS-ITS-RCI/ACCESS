@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GCCcore": {
+      "MainPage": "https://gcc.gnu.org/",
+      "Documentation": "https://gcc.gnu.org/onlinedocs/",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=Ubfgi4NoTPk",
+        "https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html",
+        "https://www.cs.cmu.edu/~gilpin/tutorial/"
+      ]
+    }
+  }
+}

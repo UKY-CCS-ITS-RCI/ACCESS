@@ -1,0 +1,11 @@
+{
+  "pre": {
+    "software_page": "https://www.open-mpi.org/",
+    "documentation": "https://www.open-mpi.org/doc/current/",
+    "training_materials": [
+      "https://www.open-mpi.org/faq/?category=running",
+      "https://www.open-mpi.org/faq/?category=building",
+      "https://www.citutor.org/login.php?course=148"
+    ]
+  }
+}

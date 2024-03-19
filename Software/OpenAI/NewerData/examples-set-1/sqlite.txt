@@ -1,0 +1,35 @@
+Use Case: Sqlite can be used in applications where a local lightweight database is required that runs on the disk. It can be run with a SQL interface that executes SQL queries and returns results.
+
+Code details and examples: 
+
+Code: 
+
+```python
+import sqlite3
+from sqlite3 import Error
+
+def create_connection():
+    conn = None;
+    try:
+        conn = sqlite3.connect(':memory:') # create a database in RAM 
+        print(sqlite3.version)
+    except Error as e:
+        print(e)
+        
+    if conn:
+        conn.close()
+
+
+if __name__ == '__main__':
+    create_connection()
+```
+
+This is a simple example of how to interact with SQLITE in Python.
+
+Command to run:
+
+You can run this script using Python command line interface:
+
+```bash
+python script_name.py
+```

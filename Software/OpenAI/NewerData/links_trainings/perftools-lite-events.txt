@@ -1,0 +1,19 @@
+{
+  "softwareName": "perftools-lite-events",
+  "softwareLink": "https://docs.nersc.gov/performance/debugging/cray/#manually-instrumenting-your-program-with-perftools",
+  "documentationLink": "https://pubs.cray.com/content/S-2396/CLE%206.0.UP07/HTML-S-2396-Book/home.html",
+  "trainingMaterials": [
+    {
+      "name": "CrayPat-lite's instrumentation options",
+      "link": "https://docs.nersc.gov/performance/debugging/cray/#instrumentation-options"
+    },
+    {
+      "name": "Cray Performance Analysis Tools",
+      "link": "https://pubs.cray.com/bundle/CTM_Series_S-2396/page/PAT_User_Guide/S-2396-922612/S-2396-922612.html"
+    },
+    {
+      "name": "Performance measurements with CrayPat-lite at CSC",
+      "link": "https://docs.csc.fi/computing/running/debugging-and-profiling/#performance-measurements-with-craypat-lite"
+    }
+  ]
+}

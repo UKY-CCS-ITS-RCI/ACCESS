@@ -1,0 +1,11 @@
+{
+  "Software": "agfusion",
+  "Links": {
+    "Software Homepage": "https://github.com/murphycj/agfusion",
+    "Documentation": "https://github.com/murphycj/AGFusion/wiki",
+    "Tutorials and Training": {
+      "Tutorial_1": "https://github.com/murphycj/AGFusion/wiki/Python-API",
+      "Tutorial_2": "https://github.com/murphycj/AGFusion/wiki/Command-Line-Interface"
+    }
+  }
+}

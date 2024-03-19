@@ -1,0 +1,28 @@
+Use Case: Prokka is used to rapidly annotate bacterial, archaeal and viral genomes producing standard output files.
+
+Code details and examples:
+
+1. Code snippet:
+
+```
+prokka --outdir mydir --prefix mygenome –-kb 250 myfile.fasta
+```
+ 
+2. Commands:
+ 
+The above command will run Prokka using the genome contained in myfile.fasta, generate an output directory named mydir, output files will have prefix `mygenome`, and specify –kb as 250.
+
+3. Input file:
+ 
+`myfile.fasta`: This is the input file for annotation. The FASTA format is a text-based format for representing either nucleotide sequences or peptide sequences, in which nucleotides or amino acids are represented using single-letter codes. It should contain the perfect and complete sequence of the genome to be annotated.
+
+4. Input file formats: 
+
+Prokka can accept FASTA (.fasta, .fna, .ffn, .faa, .frn), Genbank (.gbk) and EMBL (.embl) files.
+
+5. Output:
+
+Prokka will create an output directory specified by the user (e.g., `mydir`), containing several files. The most important one is .gbk (GenBank file) which contains the annotated genome that can be visualized by genome browsers.
+
+Note: Here, `mydir`, `mygenome`, `myfile.fasta` are user specific and should be replaced with user specific names and path if any.
+

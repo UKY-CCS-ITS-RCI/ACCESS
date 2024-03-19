@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "bayescan",
+    "webURL": "https://www.cmpg.unibe.ch/software/bayescan/",
+    "documentationURL": "http://cmpg.unibe.ch/software/BayeScan/files/BayeScan2.1_manual.pdf",
+    "tutorialsAndTrainingMaterials": [
+      {
+        "resourceName": "Tutorial on population genomics methods - Using BayeScan",
+        "resourceURL": "https://popgen.nescent.org/2017-03-10_BayeScan.html"
+      },
+      {
+        "resourceName": "BayeScan 2.1 Tutorial",
+        "resourceURL": "https://www.molecularecologist.com/2012/05/bayescan-21-tutorial/"
+      },
+      {
+        "resourceName": "Bayescan User's Manual",
+        "resourceURL": "http://cmpg.unibe.ch/software/BayeScan/files/BayeScan2.1_manual.pdf"
+      }
+    ]
+  }
+}

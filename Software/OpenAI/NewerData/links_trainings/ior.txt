@@ -1,0 +1,10 @@
+```json
+{
+  "ior": {
+    "softwarePage": "https://github.com/IOR-LANL/ior",
+    "documentation": "",
+    "trainingMaterials": [],
+    "tutorialMaterials": []
+  }
+}
+```

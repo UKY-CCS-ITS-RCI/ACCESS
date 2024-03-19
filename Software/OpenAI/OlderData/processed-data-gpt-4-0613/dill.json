@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "dill",
+    "url": "https://pypi.org/project/dill/",
+    "documentation_url": "https://dill.readthedocs.io/en/latest/",
+    "training_materials": [
+      {
+        "title": "Tutorial: How to Use Dill for Python Object Serialization",
+        "url": "https://towardsdatascience.com/how-to-use-dill-for-python-object-serialization-49245c14eeb8"
+      },
+      {
+        "title": "StackOverflow: Using Dill library in Python",
+        "url": "https://stackoverflow.com/questions/11218477/how-can-i-use-pickle-to-save-a-dict"
+      },
+      {
+        "title": "Dill User Guide",
+        "url": "https://crosscompute.com/docs/tools/dill/"
+      }
+    ]
+  }
+}

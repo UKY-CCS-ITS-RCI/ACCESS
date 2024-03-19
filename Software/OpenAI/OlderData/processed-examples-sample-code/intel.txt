@@ -1,0 +1,46 @@
+Use Case: Intel oneAPI Base Toolkit includes compilers, libraries, and analysis tools for high-performance computing workloads.
+
+Code details and examples:
+
+1. Compile a C++ code using the Intel C++ Compiler:
+```bash
+icpc -o output_filename input_filename.cpp
+```
+
+2. Compile a Fortran code using the Intel Fortran Compiler:
+```bash
+ifort -o output_filename input_filename.f90
+```
+
+3. Perform parallel execution using Intel MPI Library:
+```bash
+mpiexec -n num_processes ./executable
+```
+
+4. Profile and optimize code using Intel Advisor:
+```bash
+advixe-cl -collect survey -project-dir ./results ./executable
+advixe-cl -collect tripcounts -project-dir ./results ./executable
+```
+
+5. Use Intel Math Kernel Library (MKL) for accelerated math functions:
+```c
+#include <mkl.h>
+
+void matrix_multiply(int n, double* A, double* B, double* C) {
+    cblas_dgemm(CblasRowMajor, CblasNoTrans, CblasNoTrans, n, n, n, 1.0, A, n, B, n, 0.0, C, n);
+}
+```
+
+6. Use Intel Data Analytics Acceleration Library (DAAL) for data analytics:
+```cpp
+#include "daal.h"
+
+void perform_pca(DaalContext& context, NumericTablePtr inputData) {
+    pca::Batch<> algorithm;
+    algorithm.input.setDataset(pca::data, inputData);
+    algorithm.compute();
+    pca::ResultPtr result = algorithm.getResult();
+    NumericTablePtr eigenvalues = result->get(pca::eigenvalues);
+}
+```

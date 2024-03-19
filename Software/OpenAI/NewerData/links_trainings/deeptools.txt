@@ -1,0 +1,25 @@
+{
+  "deeptools": {
+    "software_page": "https://deeptools.readthedocs.io/en/latest/",
+    "documentation": [
+      {
+        "name": "deeptools documentation",
+        "url": "https://deeptools.readthedocs.io/en/latest/content/list_of_tools.html"
+      }
+    ],
+    "training_materials": [
+      {
+        "name": "Tutorial Galaxy",
+        "url": "https://galaxyproject.github.io/training-material/topics/introduction/tutorials/galaxy-intro-ngs-data-managment/tutorial.html"
+      },
+      {
+        "name": "G3PO Github",
+        "url": "https://github.com/grp-bork/g3po/blob/master/tutorials/deeptools.md"
+      },
+      {
+        "name": "deeptools Tutorial Galaxy",
+        "url": "https://galaxyproject.github.io/training-material/topics/chip-seq/tutorials/deeptools/tutorial.html"
+      }
+    ]
+  }
+}

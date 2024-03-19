@@ -1,0 +1,20 @@
+{
+  "software": "xerces-c++",
+  "details": {
+    "software_url": "https://xerces.apache.org/xerces-c/",
+    "documentation_links": [
+      "https://xerces.apache.org/xerces-c/documentation.html",
+      "https://xerces.apache.org/xerces-c/program-synopsis.html",
+      "https://xerces.apache.org/xerces-c/build.html"
+    ],
+    "tutorial_links": [
+      "https://www.yolinux.com/TUTORIALS/XML-Xerces-C.html",
+      "https://xerces.apache.org/xerces-c/program-2-8.html",
+      "https://www.tutorialspoint.com/xerces/index.htm"
+    ],
+    "training_materials": [
+      "https://xerces.apache.org/xerces-c/program-1.html",
+      "https://xerces.apache.org/xerces-c/program-3.html"
+    ]
+  }
+}

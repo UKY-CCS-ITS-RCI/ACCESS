@@ -1,0 +1,14 @@
+{
+    "software": "Squashfs",
+    "resources": {
+        "softwareHomepage": "https://github.com/plougher/squashfs-tools",
+        "documentation": "https://github.com/plougher/squashfs-tools/blob/master/README-4.4",
+        "tutorials": [
+            {
+                "title": "How to use SquashFS filesystem",
+                "url": "https://linuxhint.com/how_to_use_squashfs/"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

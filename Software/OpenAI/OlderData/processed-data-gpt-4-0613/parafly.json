@@ -1,0 +1,13 @@
+{
+  "name": "Parafly",
+  "software_link": "https://github.com/pezmaster31/bamtools",
+  "additional_links": [
+    {
+      "documentation": "https://github.com/pezmaster31/bamtools/wiki",
+      "tutorials": [
+        "https://www.biostars.org/p/2822/",
+        "https://www.biostars.org/p/317526/"
+      ]
+    }
+  ]
+}

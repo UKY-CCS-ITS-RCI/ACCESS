@@ -1,0 +1,21 @@
+Use Case: Encode a video into H.265 (also known as HEVC) format. This is commonly used for sending video files over the internet, as the high efficiency allows for smaller file sizes with equivalent quality.
+
+Code details and examples:
+
+The x265 package usually takes in a Raw YUV video file as input. YUV is a color encoding system typically used as part of a color image pipeline. 
+
+Input File: myVideo.yuv 
+
+Format Required: .yuv (A YUV file consists of uncompressed pixel data. For example, in a 1920x1080 video, the file would have 1920x1080 Y (luma) values, followed by 960x540 U and V (chroma) values.)
+
+Specification: The YUV input file does not contain any information about the frame rate or resolution - the user needs to specify this in the command line.
+
+Code: 
+
+x265 -o encoded_output.hevc --fps 24 --input-res 1920x1080 myVideo.yuv 
+
+This command reads myVideo.yuv, interprets it as 24 frames per second 1920x1080 video, encodes it into H.265/HEVC format, and outputs the encoded data to encoded_output.hevc.
+
+This is of course a basic example, the x265 encoder has numerous options that can be set to control the quality and efficiency of the output file. For example, to increase the efficiency of the output file (at the cost of encoding time), the --slow preset can be used:
+
+x265 --preset slow -o encoded_output.hevc --fps 24 --input-res 1920x1080 myVideo.yuv

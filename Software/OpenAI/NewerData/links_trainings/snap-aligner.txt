@@ -1,0 +1,28 @@
+{
+  "snap-aligner": {
+    "software_link": "https://github.com/amplab/snap",
+    "documentation_link": "https://github.com/amplab/snap/blob/master/README.md",
+    "tutorial_links": [
+      {
+        "name": "GitHub - amplab/snap: A fast, easy-to-use tool for aligning short reads to reference genomes",
+        "url": "https://github.com/amplab/snap#tutorial"
+      },
+      {
+        "name": "BioStars - Tutorial-How to use SNAP aligner?",
+        "url": "https://www.biostars.org/p/104837/"
+      },
+      {
+        "name": "BioInformatics StackExchange - Problems compiling snap-aligner on Fedora 24",
+        "url": "https://bioinformatics.stackexchange.com/questions/413/problems-compiling-snap-aligner-on-fedora-24"
+      },
+      {
+        "name": "Quora - How to use SNAP aligner for mapping reads",
+        "url": "https://www.quora.com/How-can-I-use-SNAP-aligner-for-mapping-reads"
+      },
+      {
+        "name": "YouTube Tutorial - How to align reads using SNAP aligner",
+        "url": "https://www.youtube.com/watch?v=Jg6ZwN7V1IM"
+      }
+    ]
+  }
+}

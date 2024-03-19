@@ -1,0 +1,12 @@
+{
+  "smoove": {
+    "software_url": "https://github.com/brentp/smoove",
+    "documentation_url": "https://github.com/brentp/smoove",
+    "additional_resources": [
+      {
+        "resource_name": "Smoove Tutorial",
+        "resource_url": "https://brentp.github.io/smoove/"
+      }
+    ]
+  }
+}

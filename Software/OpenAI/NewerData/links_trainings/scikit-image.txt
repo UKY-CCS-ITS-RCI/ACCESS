@@ -1,0 +1,27 @@
+{
+  "Software": "scikit-image",
+  "Website": "https://scikit-image.org/",
+  "Documentation": "https://scikit-image.org/docs/stable/",
+  "Training and Tutorial Material": [
+    {
+      "Link": "https://scikit-image.org/docs/stable/auto_examples/",
+      "Description": "Gallery of Examples"
+    },
+    {
+      "Link": "https://scikit-image.org/docs/stable/user_guide.html",
+      "Description": "User Guide"
+    },
+    {
+      "Link": "https://scikit-image.org/docs/dev/api/api.html",
+      "Description": "API Reference"
+    },
+    {
+      "Link": "https://www.datacamp.com/community/tutorials/python-data-science-scikit-image",
+      "Description": "Datacamp Tutorial"
+    },
+    {
+      "Link": "https://www.youtube.com/watch?v=IJe9P6RcSBI",
+      "Description": "YouTube Tutorial"
+    }
+  ]
+}

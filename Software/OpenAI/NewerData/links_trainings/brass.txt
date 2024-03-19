@@ -1,0 +1,12 @@
+{
+  "Brass": {
+    "Software page": "https://github.com/cancerit/BRASS",
+    "Documentation": "https://cancerit.github.io/Brass/",
+    "Tutorials and training materials": [
+      {
+        "BRASS ICGC Workshop": "https://icgc.org/node/10451",
+        "BRASS Bioinformatics Hands-on Training": "http://bioinformaticstraining.github.com/brass"
+      }
+    ]
+  }
+}

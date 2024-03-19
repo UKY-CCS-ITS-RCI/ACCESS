@@ -1,0 +1,45 @@
+Case: Molecular dynamics simulations using GROMACS software.
+
+Code details and examples:
+
+Code:
+
+GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the Newtonian equations of motion for systems with hundreds to millions of particles. 
+
+Input File Format: 
+GROMACS uses its own file formats, but the most common ones are .gro (GROningen Machine for Chemical Simulations) for the coordinate files and .top for the topology files. 
+
+Sample Input File Content: 
+
+.top file
+```
+; File 'topol.top' 
+;
+; Position restraint for each water oxygen 
+#ifdef POSRES_WATER 
+[ position_restraints ]
+; i funct       fcx        fcy        fcz
+   1    1       1000       1000       1000
+#endif 
+
+#include "spc.itp"
+```
+
+.gro file
+```
+POSRES_WATER
+    3
+    1SPC     OW    1   0.126   0.177   0.123
+    1SPC    HW1    2   0.190   0.213   0.132
+    1SPC    HW2    3   0.107   0.209   0.195
+1.0   1.0   1.0
+```
+
+Command to run GROMACS:
+```
+gmx grompp -f params.mdp -c system.gro -p system.top 
+gmx mdrun -deffnm system
+```
+Here "params.mdp" contains your simulation parameters, "system.gro" and "system.top" are your input files. The above commands will generate your simulation system and the trajectory. 
+
+Note: Ensure to handle your system's environment variables as needed.

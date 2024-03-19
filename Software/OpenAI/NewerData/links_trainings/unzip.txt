@@ -1,0 +1,28 @@
+{
+  "software_name": "unzip",
+  "software_page": "https://www.info-zip.org/UnZip.html",
+  "documentation": [
+    {
+      "doc_name": "info-ZIP documentation",
+      "doc_URL": "https://www.info-zip.org/doc/"
+    },
+    {
+      "doc_name": "Linux 'unzip' command explained for beginners",
+      "doc_URL": "https://www.howtoforge.com/linux-unzip-command/"
+    }
+  ],
+  "training_materials": [
+    {
+      "tutorial_name": "How to unzip a file in Ubuntu Linux via command line",
+      "tutorial_URL": "https://www.cyberciti.biz/faq/how-to-unzip-a-file-in-ubuntu-linux-using-terminal/"
+    },
+    {
+      "tutorial_name": "Using 'unzip' command in Linux",
+      "tutorial_URL": "https://linuxize.com/post/how-to-unzip-files-in-linux/"
+    },
+    {
+      "tutorial_name": "'unzip' command in Linux explained",
+      "tutorial_URL": "https://www.youtube.com/watch?v=eE_oB1h1W2g"
+    }
+  ]
+}

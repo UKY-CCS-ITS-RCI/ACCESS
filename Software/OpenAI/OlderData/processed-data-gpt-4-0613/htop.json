@@ -1,0 +1,10 @@
+{
+  "softwareName": "Htop",
+  "links": {
+    "softwarePage": "https://hisham.hm/htop/",
+    "documentation": "https://linux.die.net/man/1/htop",
+    "tutorial1": "https://www.tecmint.com/install-htop-linux-process-monitoring-for-rhel-centos-fedora/",
+    "tutorial2": "https://www.howtogeek.com/107217/how-to-use-the-htop-linux-process-monitor/",
+    "tutorial3": "https://www.youtube.com/watch?v=EY8oK_5o3jQ"
+  }
+}

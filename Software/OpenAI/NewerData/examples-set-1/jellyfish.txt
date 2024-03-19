@@ -1,0 +1,35 @@
+Use Case: Jellyfish is a bioinformatics software that aids in fast, memory-efficient counting of K-mers in DNA data. Ideal for genome assembly projects.
+
+Code details and examples: Code 
+
+For Jellyfish, an input file is required, preferably in FASTA or FASTQ format. The input files should contain DNA or RNA sequences.
+
+For example, if you have a FASTA file containing the following sequences:
+
+```sh
+>seq1
+AGTCTAGTAGTCGATGCTAGT
+>seq2
+TGCATAGTCGTACTACGATCT
+```
+
+1. Counting k-mers of size 22 with jellyfish:
+
+```sh
+jellyfish count -m 22 -s 100M -t 10 -C -o output.jf input.fasta
+```
+
+In this command, `-m` specifies the size of the k-mer (22 in this case), `-s` specifies the initial hash size (100M is 100 million),  `-t` specifies the number of threads, `-C` enables canonical (lexicographically smaller between a k-mer and its reverse complement) counting, `-o` specifies the output file, and finally, the input file.
+
+2. Getting k-mer statistics:
+
+```sh
+jellyfish stats output.jf
+```
+3. Querying a specific k-mer:
+
+```sh
+jellyfish query output.jf AGTCTAGTAGTCGATGCTAGT
+```
+
+In the above command, `output.jf` is the output file from the count process, and `AGTCTAGTAGTCGATGCTAGT` is the k-mer being queried. This would return the count of this specific k-mer.

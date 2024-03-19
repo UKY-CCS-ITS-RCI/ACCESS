@@ -1,0 +1,18 @@
+{
+  "SoftwareName": "freexl",
+  "SoftwareNamePage": "https://www.gaia-gis.it/fossil/freexl/index",
+  "Documentation": [
+    {
+      "DocumentationLink": "https://www.gaia-gis.it/fossil/freexl/doc/trunk/README"
+    },
+    {
+      "FreeXL_ReferenceManual": "https://www.gaia-gis.it/fossil/freexl/doc/trunk/FreeXL-spatialite-4.0.0.html"
+    }
+  ],
+  "TrainingAndTutorials": [
+    {
+      "TrainingName": "FreeXL Git Repository",
+      "TrainingLink": "https://github.com/OSGeo/FREEXL"
+    }
+  ]
+}

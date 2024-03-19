@@ -1,0 +1,15 @@
+{
+  "name": "datasets",
+  "softwareURL": "https://pypi.org/project/datasets/",
+  "docURL": "https://huggingface.co/docs/datasets/",
+  "trainingMaterials": [
+    {
+      "name": "Hugging Face YouTube",
+      "url": "https://www.youtube.com/watch?v=mpJFJVTXdZs"
+    },
+    {
+      "name": "Getting started with the datasets library",
+      "url": "https://huggingface.co/docs/datasets/quicktour.html"
+    }
+  ]
+}

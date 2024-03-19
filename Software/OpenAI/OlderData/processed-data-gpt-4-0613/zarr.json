@@ -1,0 +1,11 @@
+{
+  "Software": "Zarr",
+  "Webpage": "https://zarr.readthedocs.io/en/stable/",
+  "AdditionalLinks": {
+    "Documentation": "https://zarr.readthedocs.io/en/stable/tutorial.html",
+    "Tutorial on Scipy 2019": "https://www.youtube.com/watch?v=MmXBqUOlVys",
+    "Tutorial on Pangeo": "https://pangeo.io/tutorials.html",
+    "Zarr GitHub Repository": "https://github.com/zarr-developers/zarr",
+    "Zarr API Overview": "https://zarr.readthedocs.io/en/stable/api/core.html"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "software_name": "gawk",
+  "software_url": "https://www.gnu.org/software/gawk/",
+  "documentation": [
+    {
+      "doc_title": "Official Gawk Documentation",
+      "doc_url": "https://www.gnu.org/software/gawk/manual/gawk.html"
+    }
+  ],
+  "training_materials": [
+    {
+      "training_title": "Gawk Tutorial",
+      "training_url": "https://www.gnu.org/software/gawk/manual/html_node/Getting-Started.html"
+    },
+    {
+      "training_title": "Linux Gawk Command Tutorial for Beginners",
+      "training_url": "https://www.howtoforge.com/tutorial/linux-gawk-command/"
+    },
+    {
+      "training_title": "Gawk - A Tutorial and Introduction",
+      "training_url": "http://www.grymoire.com/Unix/Awk.html"
+    }
+  ]
+}

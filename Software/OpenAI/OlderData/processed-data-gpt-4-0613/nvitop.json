@@ -1,0 +1,24 @@
+{
+  "software": "nvitop",
+  "website": "https://github.com/XUJINKAI/nvitop",
+  "documentation": [
+    {
+      "title": "nvitop Github Repository",
+      "url": "https://github.com/XUJINKAI/nvitop"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "nvitop: the interactive NVIDIA-GPU process viewer",
+      "url": "https://pypi.org/project/nvitop/"
+    },
+    {
+      "title": "NVIDIA System Management Interface User Guide",
+      "url": "https://developer.download.nvidia.com/compute/DCGM/docs/nvidia-smi-367.38.pdf"
+    },
+    {
+      "title": "Monitoring GPU usage in Python using psutil and GPUtil",
+      "url": "https://www.mikulskibartosz.name/monitoring-gpu-usage-in-python-using-psutil-and-gputil/"
+    }
+  ]
+}

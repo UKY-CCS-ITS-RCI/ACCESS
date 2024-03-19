@@ -1,0 +1,16 @@
+{
+    "SoftwareName": "quickmirseq",
+    "SoftwarePage": "https://sourceforge.net/projects/quickmirseq",
+    "Documentation": [
+        {
+            "Title": "User Guide-SourceForge",
+            "URL": "https://sourceforge.net/p/quickmirseq/wiki/User%20Guide"
+        }
+    ],
+    "TrainingMaterials": [
+        {
+            "Title": "QuickMIRSeq-MirGeneDB2.0",
+            "URL": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005691"
+        }
+    ]
+}

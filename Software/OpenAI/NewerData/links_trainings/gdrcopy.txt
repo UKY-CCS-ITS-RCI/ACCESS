@@ -1,0 +1,12 @@
+{
+    "Software": "gdrcopy",
+    "URL": {
+        "Home page": "https://github.com/NVIDIA/gdrcopy",
+        "Developer Documentation": "https://github.com/NVIDIA/gdrcopy/blob/master/README.md",
+        "Training Material": {
+            "NVIDIA GPU Direct RDMA (GDR Copy)": "https://developer.nvidia.com/gpudirect-rdma",
+            "Lambda Stack": "https://lambdalabs.com/lambda-stack-deep-learning-software",
+            "Video Tutorial": "https://www.youtube.com/watch?v=QQO7tBwJr_I"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "software_name": "biopython",
+    "software_page": "https://biopython.org/",
+    "documentation_url": "https://biopython.org/docs/1.75/api/",
+    "training_materials": [
+        {
+            "name": "Biopython Tutorial and Cookbook",
+            "url": "https://biopython.org/DIST/docs/tutorial/Tutorial.html"
+        },
+        {
+            "name": "Biopython Workshop",
+            "url": "https://github.com/tiagoantao/biopython-notebook"
+        },
+        {
+            "name": "Beginner's Guide to Biopython",
+            "url": "https://biopython.readthedocs.io/en/latest/"
+        }
+    ]
+}

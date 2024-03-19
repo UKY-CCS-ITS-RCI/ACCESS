@@ -1,0 +1,14 @@
+{
+    "software": "LIKWID",
+    "resources": {
+        "softwareHomepage": "https://hpc.fau.de/research/tools/likwid/",
+        "documentation": "https://hpc.fau.de/research/tools/likwid/#TOC-Wiki",
+        "tutorials": [
+            {
+                "title": "LIKWID: Lightweight Performance Tools",
+                "url": "https://hpc.fau.de/research/tools/likwid/"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

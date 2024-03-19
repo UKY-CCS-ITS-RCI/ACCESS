@@ -1,0 +1,24 @@
+Use Case: PCRE2 is a library for Perl-compatible regular expressions. It is used for pattern matching functionalities which are used in a variety of utilities such as grep and can be integrated into applications for insights such as text analysis, pattern detection and others.
+
+Code details and examples:
+
+Code: 
+There's a feature in PCRE2 which lets you compile multiple regular expressions together. This is done using `pcre2_code **` type. First, you create a list of regex patterns, then pass this list to `pcre2_compile_multi` function. Here's an example:
+
+```c
+#include <pcre2.h>
+
+int main(void)
+{
+  PCRE2_SPTR patterns[] = { PCRE2_SPTR "a", PCRE2_SPTR "b", NULL };
+  int errornumber;
+  size_t erroroffset;
+  pcre2_code **codes = pcre2_compile_multi(patterns, NULL, NULL, NULL, 0, &errornumber, &erroroffset, NULL);
+  // Check codes for NULL to ensure there was no error
+  return 0;
+}
+```
+
+Command to Run: `gcc -o program program.c -lpcre2-8 && ./program`
+
+In this example, 'patterns' variable holds an array of our regular expressions. We then use 'pcre2_compile_multi' to compile these regular expressions, the result of which is stored in the 'codes' variable. If the compilation is successful, 'codes' will not be NULL.

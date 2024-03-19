@@ -1,0 +1,10 @@
+{
+  "Software Name": "AccessUsage",
+  "Home page": "https://github.com/CDLUC3/Access-Usage",
+  "Documentation": "https://github.com/CDLUC3/Access-Usage#documentation",
+  "Tutorials & Training Materials": [
+    "https://github.com/CDLUC3/Access-Usage#installation",
+    "https://github.com/CDLUC3/Access-Usage#configuration",
+    "https://github.com/CDLUC3/Access-Usage#usage"
+  ]
+}

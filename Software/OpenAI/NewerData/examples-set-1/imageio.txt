@@ -1,0 +1,29 @@
+Use Case: Use Imageio for reading and writing image data. It supports a wide variety of image types, including animated images, volumetric data, and scientific formats. 
+
+Code details and examples:
+
+Code:
+
+```
+import imageio
+
+# Reading an image
+image = imageio.imread('/path/to/image.png')
+
+# Displaying the image
+import matplotlib.pyplot as plt
+plt.imshow(image)
+plt.show()
+
+# Writing an image
+output_image = function_that_manipulates_image(image)  # This could be any function that returns a numpy array
+imageio.imsave('/path/to/output.png', output_image)
+```
+
+Input files: The input for imageio.imread and imageio.imsave are strings that specify the path to the image file. The path can be either relative or absolute. The mentioned image files can be in various formats like jpg, png, tif etc.
+
+Command to run:
+
+In a python environment where imageio is installed, this script can just be run as a regular python script:
+
+`python script.py`

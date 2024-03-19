@@ -1,0 +1,31 @@
+{
+  "software": {
+    "name": "freetype",
+    "main_url": "https://www.freetype.org/",
+    "documentation": {
+      "main": "https://www.freetype.org/freetype2/docs/tutorial/index.html",
+      "additional_docs": [
+        "https://state-of-the-art.org/software/freetype/docs/reference/freetype2/freetype-modules.html",
+        "https://www.freetype.org/freetype2/docs/glyphs/"
+      ]
+    },
+    "tutorial_and_training": [
+      {
+        "name": "Freetype tutorial - Lets write a Bitmap to disk!",
+        "url": "https://www.freetype.org/freetype2/docs/tutorial/example1.html"
+      },
+      {
+        "name": "The FreeType Tutorial",
+        "url": "https://www.freetype.org/freetype2/docs/tutorial/index.html"
+      },
+      {
+        "name": "Platform-specific notes for the FreeType library",
+        "url": "https://www.freetype.org/freetype2/docs/reference/freetype2/platform-specific.html"
+      },
+      {
+        "name": "FreeType 2 Tutorial - Creating a Glyph Image Using the Unpatented Rasterizer",
+        "url": "https://www.freetype.org/freetype2/docs/tutorial/step2.html"
+      }
+    ]
+  }
+}

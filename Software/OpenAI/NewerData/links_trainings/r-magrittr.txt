@@ -1,0 +1,13 @@
+{
+  "Software Name": "r-magrittr",
+  "Software Page": "https://cran.r-project.org/web/packages/magrittr/index.html",
+  "Documentation": "https://cran.r-project.org/web/packages/magrittr/magrittr.pdf",
+  "Tutorials and Training Materials": [
+    {
+      "Tutorial - DataCamp": "https://www.datacamp.com/community/tutorials/r-pipes-magrittr",
+      "Tutorial- tidyverse.org": "https://magrittr.tidyverse.org/",
+      "Tutorial - Rdocumentation": "https://www.rdocumentation.org/packages/magrittr/versions/1.5",
+      "Lesson - R for Data Science": "https://r4ds.had.co.nz/pipes.html"
+    }
+  ]
+}

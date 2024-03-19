@@ -1,0 +1,14 @@
+{
+  "software": {
+    "name": "numexpr",
+    "description": "Numexpr is a package that efficiently evaluates arrays of element-wise arithmetic operations.",
+    "website_url": "https://github.com/pydata/numexpr",
+    "documentation_urls": [
+      "https://numexpr.readthedocs.io/en/latest/user_guide.html"
+    ],
+    "tutorial_urls": [
+      "https://stackoverflow.com/questions/25453159/understanding-numexpr"
+    ],
+    "training_materials_urls": []
+  }
+}

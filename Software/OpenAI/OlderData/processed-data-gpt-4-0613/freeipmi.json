@@ -1,0 +1,30 @@
+{
+  "software": "freeipmi",
+  "software_url": "https://www.gnu.org/software/freeipmi/",
+  "documentation":
+  [
+    {
+      "title": "FreeIPMI Documentation",
+      "url": "https://www.gnu.org/software/freeipmi/documentation.html"
+    },
+    {
+      "title": "FreeIPMI Manpage",
+      "url": "https://www.mankier.com/package/freeipmi"
+    },
+    {
+      "title": "FreeIPMI User Guide",
+      "url": "http://ftp.cvut.cz/gnu/freeipmi/freeipmi_user_guide.pdf"
+    }
+  ],
+  "training_and_tutorials":
+  [
+    {
+      "title": "FreeIPMI Tutorial Video",
+      "url": "https://www.youtube.com/watch?v=3FiRU9dQkP4"
+    },
+    {
+      "title": "FreeIPMI User Guide Tutorial",
+      "url": "https://phoenixnap.com/kb/ipmitool-commands-examples"
+    }
+  ]
+}

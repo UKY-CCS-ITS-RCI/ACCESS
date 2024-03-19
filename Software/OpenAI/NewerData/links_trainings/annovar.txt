@@ -1,0 +1,29 @@
+{
+  "Software Name": "ANNOVAR",
+  "Software URL": "https://annovar.openbioinformatics.org/en/latest/",
+  "Documentation": [
+    {
+      "URL": "https://annovar.openbioinformatics.org/en/latest/user-guide/startup/"
+    },
+    {
+      "URL": "https://annovar.openbioinformatics.org/en/latest/user-guide/download/"
+    },
+    {
+      "URL": "https://annovar.openbioinformatics.org/en/latest/user-guide/filter/"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "https://annovar.openbioinformatics.org/en/latest/user-guide/startup/"
+    },
+    {
+      "URL": "https://annovar.openbioinformatics.org/en/latest/user-guide/download/"
+    },
+    {
+      "URL": "https://annovar.openbioinformatics.org/en/latest/user-guide/filter/"
+    },
+    {
+      "URL": "https://www.youtube.com/watch?v=OiGdKWhbBKs"
+    }
+  ]
+}

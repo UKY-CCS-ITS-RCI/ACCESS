@@ -1,0 +1,22 @@
+
+{
+  "Captum": {
+    "software_page": "https://captum.ai/",
+    "documentation": "https://captum.ai/docs/introduction",
+    "training_materials": [
+      {
+        "title": "Captum Examples",
+        "url": "https://captum.ai/tutorials/"
+      },
+      {
+        "title": "Model Interpretation with Captum",
+        "url": "https://pytorch.org/tutorials/intermediate/captum_insights_titanic.html"
+      },
+      {
+        "title": "Understanding Decisions and Predictions Made by Neural Networks with Facebook's Captum",
+        "url": "https://analyticsindiamag.com/understanding-decisions-and-predictions-made-by-neural-networks-with-facebooks-captum/"
+      }
+    ]
+  }
+}
+

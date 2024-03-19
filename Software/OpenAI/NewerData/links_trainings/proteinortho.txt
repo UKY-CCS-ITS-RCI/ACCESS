@@ -1,0 +1,19 @@
+{
+  "Software": "proteinortho",
+  "Webpage": "https://www.bioinf.uni-leipzig.de/Software/proteinortho/",
+  "Documentation": "https://www.bioinf.uni-leipzig.de/Software/proteinortho/manual.html",
+  "Tutorials_and_Training": [
+    {
+      "name": "Brief tutorial",
+      "URL": "https://embnet.vital-it.ch/TeSS/events/ws-iwbbio14/programme/embnetpractical/protortho_tutorial_simple.pdf"
+    },
+    {
+      "name": "Practical Guide",
+      "URL": "https://git.embl.de/grp-steen/bioinformatics-workshop/wikis/home"
+    },
+    {
+      "name": "Worked example",
+      "URL": "https://academic.oup.com/bioinformatics/article/35/15/2657/5131778"
+    }
+  ]
+}

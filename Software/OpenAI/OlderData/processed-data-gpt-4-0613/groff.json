@@ -1,0 +1,15 @@
+{
+  "software": "groff",
+  "website": "https://www.gnu.org/software/groff/",
+  "documentation": "https://www.gnu.org/software/groff/manual/",
+  "tutorials": [
+    {
+      "name": "Groff Tutorial",
+      "link": "https://www.systutorials.com/docs/linux/man/7-groff/"
+    },
+    {
+      "name": "GNU Groff Guide",
+      "link": "https://www.gnu.org/software/groff/groff.html"
+    }
+  ]
+}

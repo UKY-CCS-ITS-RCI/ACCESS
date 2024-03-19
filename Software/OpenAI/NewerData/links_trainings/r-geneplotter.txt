@@ -1,0 +1,14 @@
+{
+  "Software": "r-geneplotter",
+  "Details": [
+    {
+      "Software Homepage": "https://bioconductor.org/packages/release/bioc/html/geneplotter.html",
+      "Documentation": "https://www.bioconductor.org/packages/devel/bioc/manuals/geneplotter/man/geneplotter.pdf",
+      "Tutorials and Training Materials": [
+        "https://bioconductor.org/packages/devel/bioc/vignettes/geneplotter/inst/doc/geneplotter.pdf",
+        "https://www.bioconductor.org/help/course-materials/2017/BioC2017/workshop_materials/huber_gentleman/Bioc2017-Workshop-GenePlotter.pdf",
+        "https://www.bioconductor.org/packages/devel/bioc/manuals/geneplotter/man/geneplotter.pdf"
+      ]
+    }
+  ]
+}

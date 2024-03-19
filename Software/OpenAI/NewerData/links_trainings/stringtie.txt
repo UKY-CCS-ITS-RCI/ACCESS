@@ -1,0 +1,27 @@
+{
+  "software_name": "stringtie",
+  "software_url": "https://ccb.jhu.edu/software/stringtie/",
+  "documentation_url": "https://ccb.jhu.edu/software/stringtie/index.shtml?t=manual",
+  "additional_resources": [
+    {
+      "resource_name": "STRINGTIE & BALLGOWN",
+      "resource_url": "http://bioinformaticstools.mayo.edu/research/stringtie/"
+    },
+    {
+      "resource_name": "RNA-Seq Alignment and Visualization Using STAR aligner, StringTie Quantification & IGV -protocols.io",
+      "resource_url": "https://www.protocols.io/view/rna-seq-alignment-and-visualization-using-star-ali-iu4ca6n"
+    },
+    {
+      "resource_name": "RNA-Seq workflow: gene-level exploratory analysis and differential expression",
+      "resource_url": "https://www.bioconductor.org/help/workflows/rnaseqGene/"
+    },
+    {
+      "resource_name": "A comprehensive comparison of tools for differential splicing analysis",
+      "resource_url": "https://www.nature.com/articles/s41596-019-0214-5"
+    },
+    {
+      "resource_name": "Bioinformatics Tutorial: de novo RNA-seq using Trinity",
+      "resource_url": "http://zvfak.blogspot.com/2017/05/bioinformatics-tutorial-de-novo-rna-seq.html"
+    }
+  ]
+}

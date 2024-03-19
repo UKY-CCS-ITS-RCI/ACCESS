@@ -1,0 +1,39 @@
+{
+  "Software Name": "py-statsmodels",
+  "Software Page": {
+    "Link": "https://www.statsmodels.org",
+    "Type": "Official"
+  },
+  "Documentation": [
+    {
+      "Link": "https://www.statsmodels.org/stable/user-guide.html",
+      "Type": "User Guide"
+    },
+    {
+      "Link": "https://www.statsmodels.org/dev/examples/index.html",
+      "Type": "Examples"
+    },
+    {
+      "Link": "https://www.statsmodels.org/stable/examples/index.html",
+      "Type": "Stable Examples"
+    }
+  ],
+  "Training": [
+    {
+      "Link": "https://www.youtube.com/watch?v=EYnC4ACIt2g",
+      "Type": "Youtube"
+    },
+    {
+      "Link": "https://www.dataschool.io/python-statsmodels-regression",
+      "Type": "Online Tutorial"
+    },
+    {
+      "Link": "https://www.kaggle.com/lmorgan95/statsmodels-intro-tutorial",
+      "Type": "Kaggle Tutorial"
+    }
+  ],
+  "Conda Package": {
+    "Link": "https://anaconda.org/conda-forge/statsmodels",
+    "Type": "Conda Forge"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "gcc-runtime": {
+    "SoftwareLink": "https://gcc.gnu.org/",
+    "Documentation": [
+      "https://gcc.gnu.org/onlinedocs/",
+      "https://www.gnu.org/software/gcc/manual/"
+    ],
+    "Tutorials": [
+      {
+        "Name": "GCC and Make Tutorial",
+        "Link": "https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html"
+      },
+      {
+        "Name": "Compile C program with gcc compiler on Bash on Ubuntu on Windows",
+        "Link": "https://www.geekhideout.com/what-is-mingw.shtml"
+      },
+      {
+        "Name": "GCC Compiler Tutorial",
+        "Link": "https://www.studytonight.com/c/gcc-compiler"
+      },
+      {
+        "Name": "Guide to GCC",
+        "Link": "http://www.linuxforums.org/articles/tutorial-a-beginners-guide-to-compiling-programs-under-linux_218.html"
+      }
+    ]
+  }
+}

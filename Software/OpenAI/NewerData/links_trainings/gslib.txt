@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "gslib",
+  "HomePage": "https://github.com/gslib/gslib",
+  "Documentation": "https://github.com/gslib/gslib/blob/master/README.md",
+  "Tutorials": [
+    {
+      "TutorialName": "GSlib: Geostatistics Library",
+      "URL": "https://readthedocs.org/projects/gslib/geostatistics-library/"
+    },
+    {
+      "TutorialName": "GSlib tutorials on GitHub",
+      "URL": "https://github.com/gslib/gslib/tree/master/examples"
+    }
+  ]
+}

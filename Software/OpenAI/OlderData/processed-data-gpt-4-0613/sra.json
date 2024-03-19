@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "SRA Toolkit",
+  "Homepage": "https://www.ncbi.nlm.nih.gov/sra/docs/toolkitsoft/",
+  "Resources": {
+    "Documentation": "https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software",
+    "Tutorials": [
+      "https://www.youtube.com/watch?v=lNwQZLlTo8E",
+      "https://reneshbedre.github.io/blog/fetch-sra.html"
+    ],
+    "TrainingMaterial": [
+      "https://www.ncbi.nlm.nih.gov/sra/docs/sradownload/",
+      "https://www.ncbi.nlm.nih.gov/books/NBK242621/"
+    ]
+  }
+}

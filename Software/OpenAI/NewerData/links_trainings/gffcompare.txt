@@ -1,0 +1,15 @@
+{
+  "software": "gffcompare",
+  "links": {
+    "software_page": "https://ccb.jhu.edu/software/stringtie/gffcompare.shtml",
+    "documentation": "https://ccb.jhu.edu/software/stringtie/gffcompare.shtml",
+    "tutorial_materials": [
+      "http://www.htslib.org/doc/samtools.html",
+      "http://cole-trapnell-lab.github.io/cufflinks/cuffcompare/index.html"
+    ],
+    "training_materials": [
+      "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/cufflinks-tuxedo-protocol-cufflinks-cuffdiff/",
+      "https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html"
+    ]
+  }
+}

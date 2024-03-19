@@ -1,0 +1,19 @@
+{
+  "software": "WRF",
+  "software_url": "https://www.mmm.ucar.edu/weather-research-and-forecasting-model",
+  "documentation_url": "https://www2.mmm.ucar.edu/wrf/OnLineTutorial/",
+  "tutorial_materials": [
+    {
+      "title": "WRF Tutorial",
+      "url": "https://www2.mmm.ucar.edu/wrf/OnLineTutorial/"
+    },
+    {
+      "title": "WRF-ARW Online Tutorial",
+      "url": "http://www2.mmm.ucar.edu/wrf/OnLineTutorial/index.htm"
+    },
+    {
+      "title": "WRF Modeling System Overview",
+      "url": "http://www2.mmm.ucar.edu/wrf/users/tutorial/201001/tutorial_overview.html"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "Software": "LongQC",
+    "Website": "https://github.com/yfukasawa/LongQC",
+    "Documentation": "https://github.com/yfukasawa/LongQC#long-qc",
+    "Tutorials_and_Training_Materials": [
+        "https://github.com/yfukasawa/LongQC#long-qc",
+        "https://omictools.com/longqc-tool",
+        "https://www.researchgate.net/post/How_to_install_LongQC_on_MacOS"
+    ]
+}

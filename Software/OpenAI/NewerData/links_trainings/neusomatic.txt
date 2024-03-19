@@ -1,0 +1,16 @@
+{
+  "Neusomatic": {
+    "Software Page": "https://github.com/bioinform/neusomatic",
+    "Documentation": "https://github.com/bioinform/neusomatic/blob/master/README.md",
+    "Tutorials/training_materials": [
+      {
+        "Name": "Neusomatic Installation Tutorial",
+        "URL": "https://www.biostars.org/p/494650/",
+      },
+      {
+        "Name": "Neusomatic Issues Tracker for troubleshooting",
+        "URL": "https://github.com/bioinform/neusomatic/issues"
+      }
+    ]
+  }
+}

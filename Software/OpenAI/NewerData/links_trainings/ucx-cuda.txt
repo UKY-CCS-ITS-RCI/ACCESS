@@ -1,0 +1,26 @@
+{
+  "Name": "Ucx-Cuda",
+  "Software Link": "https://www.openucx.org/",
+  "Documentation Links": [
+    {
+      "NVIDIA Documentation": "https://docs.nvidia.com/cuda/index.html"
+    },
+    {
+      "Read the Docs": "https://ucx-py.readthedocs.io/en/latest/"
+    },
+    {
+      "Github Documentation": "https://github.com/openucx/ucx/wiki"
+    }
+  ],
+  "Tutorials Links": [
+    {
+      "NVIDIA Developer Tutorial": "https://developer.nvidia.com/using-unified-communication-x-gpus"
+    },
+    {
+      "OpenUCX on Github": "https://github.com/openucx/ucx/wiki/UCX-CUDA-and-GPU-DirectRDMA#building-ucx-with-cuda"
+    },
+    {
+      "UCX-Py Workshop on Github": "https://github.com/rapidsai/ucx-py/tree/branch-0.2/examples/workshop"
+    }
+  ]
+}

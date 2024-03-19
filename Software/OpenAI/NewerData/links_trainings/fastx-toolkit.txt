@@ -1,0 +1,22 @@
+{
+  "Software": {
+    "Name": "fastx-toolkit",
+    "Website": "http://hannonlab.cshl.edu/fastx_toolkit/",
+    "Links": {
+      "Documentation": "http://hannonlab.cshl.edu/fastx_toolkit/commandline.html",
+      "Tutorials": [
+        {
+          "Name": "FastX-Toolkit User Guide",
+          "URL": "https://wikis.utexas.edu/display/bioiteam/FastX-Toolkit+User+Guide"
+        },
+        {
+          "Name": "FASTX-Toolkit Tutorial",
+          "URL": "https://pub.towardsai.net/fastx-toolkit-tutorial-c2e0a6322a"
+        },
+        {
+          "Name": "Quick Guide to the Fastx toolkit",
+          "URL": "https://www.ecseq.com/support/ngs/quick-guide-to-the-fastx-toolkit"
+        }]
+    }
+  }
+}

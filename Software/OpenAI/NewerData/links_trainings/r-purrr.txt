@@ -1,0 +1,28 @@
+{
+  "software_name": "r-purrr",
+  "software_link": "https://purrr.tidyverse.org/",
+  "documentation_links": [
+    {
+      "name": "official_documentation",
+      "url": "https://purrr.tidyverse.org/reference/index.html"
+    }
+  ],
+  "tutorial_material_links": [
+    {
+      "name": "tidyverse tutorial",
+      "url": "https://tidyverse.org/learn/"
+    },
+    {
+      "name": "DataCamp tutorial",
+      "url": "https://www.datacamp.com/community/tutorials/purrr-tutorial"
+    },
+    {
+      "name": "Introduction to purrr",
+      "url": "https://jennybc.github.io/purrr-tutorial/"
+    },
+    {
+      "name": "Rstudio cheat sheet",
+      "url": "https://github.com/rstudio/cheatsheets/raw/master/purrr.pdf"
+    }
+  ]
+}

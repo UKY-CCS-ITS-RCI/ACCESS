@@ -1,0 +1,10 @@
+{
+  "Software": "r-siggenes",
+  "Website": "https://bioconductor.org/packages/release/bioc/html/siggenes.html",
+  "Documentation": "https://www.bioconductor.org/packages/release/bioc/vignettes/siggenes/inst/doc/siggenes.pdf",
+  "Training Material": [
+    "http://faculty.washington.edu/jhoffman/R/microarray/siggenes.html",
+    "https://csgillespie.github.io/efficientR/8-2-r-packages.html",
+    "https://cran.r-project.org/web/packages/siggenes/siggenes.pdf"
+  ]
+}

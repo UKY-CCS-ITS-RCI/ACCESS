@@ -1,0 +1,33 @@
+Use Case: ImageMagick is a software suite to create, edit, and compose bitmap images. It can read, convert and write images in a variety of formats (over 100) including DPX, EXR, GIF, JPEG, JPEG-2000, PDF, PhotoCD, PNG, Postscript, SVG, and TIFF. ImageMagick is used to translate, flip, mirror, rotate, scale, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bézier curves.
+
+Code details and examples: Code.
+
+The program interface is primarily through command line commands. Here's a simple example:
+
+Example: Convert an image from JPEG to PNG format
+
+Command to use:
+```
+convert image.jpg image.png
+```
+The input file for this example is image.jpg and it is in JPEG format.
+
+Example: Resize an image
+
+Command to use:
+```
+convert -resize 50% image.jpg image_small.jpg
+```
+This command will resize the input file `image.jpg` to 50% of its original size and output the result to `image_small.jpg`.
+
+Example: Combine multiple images into one
+
+Command to use:
+```
+convert image1.jpg image2.jpg +append output.jpg
+```
+In this example, ImageMagick takes image1.jpg and image2.jpg as input, and combines them into one image (output.jpg) placed side by side. 
+
+Important to note: In the input file, there are no particular restrictions other than it should be in a format recognizable by ImageMagick.
+
+Make sure to replace `image.jpg`, `image.png` etc with your actual file paths.

@@ -1,0 +1,11 @@
+{
+    "Software": "CellChat",
+    "Links":{
+    	"Software Page": "https://github.com/sqjin/CellChat",
+    	"Documentation": "https://htmlpreview.github.io/?https://github.com/sqjin/CellChat/blob/master/vignettes/CellChat-vignette.html",
+    	"Tutorials": {
+    		"Basic Tutorial": "https://github.com/sqjin/CellChat/blob/master/vignettes/CellChat-vignette.html",
+    		"Advanced Tutorial": "https://htmlpreview.github.io/?https://github.com/sqjin/CellChat/blob/master/vignettes/CellChat_advanced_annotatation.html"
+    	}
+    }
+}

@@ -1,0 +1,42 @@
+Use Case: libgeotiff is used often used in Geographic Information Systems (GIS) applications for manipulating GeoTIFF data. GeoTIFFs are essentially TIFF files embedded with geographic metadata.
+
+Code details and examples:
+
+The sample input file required for this library would be a TIFF file with geographic metadata (GeoTIFF). The format for GeoTIFF includes, but is not limited to: geographic coordinates, datums, map projections, etc.
+
+An example of how to use the libgeotiff library in a C program:
+
+Code:
+```c
+#include "geotiff.h"
+#include "geo_normalize.h"
+
+int main()
+{
+    GeoTIFFDirectory *dir;
+    GTIF *gtif;
+    TIFF *tif;
+    // open TIF file
+    tif = XTIFFOpen("sample.tif", "r");
+    if (tif) {
+        // create GeoTIFF structure
+        gtif = GTIFNew(tif);
+        if (gtif) {
+            // print all key-value pairs
+            GTIFPrint(gtif, 0, 0);
+            // cleanup
+            GTIFFree(gtif);
+        }
+        XTIFFClose(tif);
+    }
+    return 0;
+}
+```
+This code simply opens a sample GeoTIFF file `sample.tif`, creates a GeoTIFF structure from it, prints all key-value pairs in the metadata, and then cleans up its resources.
+
+Command to run for the code written in a `main.c`:
+
+```sh
+gcc -o main main.c -lgeotiff
+./main
+```

@@ -1,0 +1,18 @@
+{
+  "software": "intel-tbb",
+  "details": {
+    "software_url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb.html",
+    "documentation_links": [
+      "https://spec.oneapi.io/versions/latest/elements/oneTBB/source/index.html",
+      "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb/documentation.html"
+    ],
+    "tutorial_links": [
+      "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/choose-download/threading-building-blocks-windows.html",
+      "https://github.com/oneapi-src/oneTBB/blob/master/examples/README.md"
+    ],
+    "training_links": [
+      "https://software.seek.intel.com/performance_libraries",
+      "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb/training/introduction.html"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+
+{
+  "Ncdu": {
+    "Software Page": "https://dev.yorhel.nl/ncdu",
+    "Documentation": "https://dev.yorhel.nl/ncdu/man",
+    "Tutorials": [
+      "https://www.example.com/ncdu_tutorial1",
+      "https://www.example.com/ncdu_tutorial2"
+    ]
+  }
+}
+

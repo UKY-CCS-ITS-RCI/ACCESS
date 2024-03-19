@@ -1,0 +1,18 @@
+{
+  "Software":
+  {
+    "name": "foss",
+    "web_page": "https://easybuild.readthedocs.io/en/latest/Common-toolchains.html#foss-toolchain",
+    "documentation": "https://easybuild.readthedocs.io/en/latest/",
+    "training_materials": [
+      {
+        "name": "EasyBuild Tutorial: How to use the foss toolchain",
+        "link": "https://easybuild.readthedocs.io/en/latest/Tutorial.html"
+      },
+      {
+        "name": "Foss Toolchain Video Tutorial",
+        "link": "https://www.youtube.com/watch?v=b7h-OMioRIC"
+      }
+    ]
+  }
+}

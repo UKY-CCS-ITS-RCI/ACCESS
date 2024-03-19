@@ -1,0 +1,9 @@
+{
+  "Scientific Software": {
+    "Name": "Intel Software",
+    "Link": "https://software.intel.com/content/www/us/en/develop/home.html",
+    "Documentation": "https://software.intel.com/content/www/us/en/develop/support/documentation.html",
+    "Tutorial": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/training.html",
+    "Training Material": "https://software.intel.com/content/www/us/en/develop/webinars.html"
+  }
+}

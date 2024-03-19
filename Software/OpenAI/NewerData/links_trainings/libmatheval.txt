@@ -1,0 +1,19 @@
+{
+  "Software": "libmatheval",
+  "Homepage": "https://www.gnu.org/software/libmatheval/",
+  "Documentation": "https://www.gnu.org/software/libmatheval/manual/libmatheval.html",
+  "Tutorials": [
+    {
+      "Title": "Introduction to libmatheval",
+      "URL": "https://www.xuebuyuan.com/3225943.html"
+    },
+    {
+      "Title": "Getting started with libmatheval",
+      "URL": "https://cs.uwaterloo.ca/~bdduffin/libmatheval.html"
+    },
+    {
+      "Title": "libmatheval API usage",
+      "URL": "https://lpsa.swarthmore.edu/Representations/SysRepSoftware/LPSAProgs/CompilingLibMatheval/UsingLibMathevalAPI.html"
+    }
+  ]
+}

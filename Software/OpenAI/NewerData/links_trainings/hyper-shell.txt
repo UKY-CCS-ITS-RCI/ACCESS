@@ -1,0 +1,13 @@
+{
+  "software_name": "hyper-shell",
+  "software_link": "https://github.com/zeit/hyper",
+  "documentation_links": [
+    "https://hyper.is/#docs",
+    "https://github.com/zeit/hyper/wiki"
+  ],
+  "tutorial_material_links": [
+    "https://dev.to/arnavaggarwal/10-hyper-js-tips-for-better-workflow-43nb",
+    "https://www.youtube.com/watch?v=6PdRvDaHP84",
+    "https://www.youtube.com/watch?v=LDx0IELDulI"
+  ]
+}

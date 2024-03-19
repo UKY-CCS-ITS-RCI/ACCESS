@@ -1,0 +1,28 @@
+{
+  "software": {
+    "name": "mummer4",
+    "url": "https://mummer4.github.io/",
+    "documentation":
+    [
+      {
+        "name": "MUMmer4 Manual",
+        "link": "https://mummer4.github.io/manual/manual.html"
+      },
+      {
+        "name": "MUMmer Github page",
+        "link": "https://github.com/mummer4/mummer/"
+      }
+    ],
+    "tutorials":
+    [
+      {
+        "name": "MUMmer & NUCmer Tutorial",
+        "link": "https://www.youtube.com/watch?v=M7JXvO_k9vA"
+      },
+      {
+        "name": "MUMmer Tutorial",
+        "link": "https://www.slideshare.net/srmapelli/genome-alignment-with-mummer"
+      }
+    ]
+  }
+}

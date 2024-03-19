@@ -1,0 +1,16 @@
+{
+  "software_name": "vasp6",
+  "software_page": "https://www.vasp.at/",
+  "documentation": {
+    "doc1": "https://www.vasp.at/vasp-workshop/slides_vasp.4.6.handouts.pdf",
+    "doc2": "https://www.vasp.at/vasp-workshop/book.pdf",
+    "doc3": "https://www.vasp.at/vasp-workshop/index.html?v=detailed_overview.md"
+  },
+  "training_materials": {
+    "tutorial1": "https://www.vasp.at/vasp-workshop/index.html?v=detailed_overview.md",
+    "tutorial2": "https://www.uml.edu/Research/Centers/PHAST/Training/VASP.aspx",
+    "tutorial3": "https://www.youtube.com/watch?v=K1D5lh_xcN4",
+    "tutorial4": "https://vaspkit.com/tutorials.html",
+    "tutorial5": "http://cms.mpi.univie.ac.at/vasp/vasp/vasp.html"
+  }
+}

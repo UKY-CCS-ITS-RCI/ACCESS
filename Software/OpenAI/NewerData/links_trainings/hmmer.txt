@@ -1,0 +1,14 @@
+{
+"Software_Name": "HMMER",
+"Software_page_link": "http://hmmer.org/",
+"Additional_Links": 
+    [
+        {
+        "Documentation": "http://eddylab.org/software/hmmer3/3.1b2/Userguide.pdf",
+        "Tutorial1": "https://cryptogenomicon.org/2011/05/27/hmmer3-howto/",
+        "Tutorial2": "https://github.com/Pbdas/epa-ng/tree/master/Tutorial",
+        "Online_Training": "https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/sequence-searching/hmmer/",
+        "Conda_package": "https://anaconda.org/bioconda/hmmer"
+        }
+    ]
+}

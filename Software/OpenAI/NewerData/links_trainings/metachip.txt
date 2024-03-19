@@ -1,0 +1,22 @@
+{
+  "Software": "metachip",
+  "Software_url": "https://cran.r-project.org/web/packages/metachip/index.html",
+  "Documentation": [
+    {
+      "Documentation_url": "https://cran.r-project.org/web/packages/metachip/metachip.pdf"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Tutorial_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008091"
+    },
+    {
+      "Tutorial_url": "https://www.youtube.com/watch?v=jVUf7T-PSZM"
+    }
+  ],
+  "Training": [
+    {
+      "Training_url": "https://www.bioinformatics.babraham.ac.uk/training/Courses/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "software": "geos",
+  "links": {
+    "software-page": "https://trac.osgeo.org/geos/",
+    "documentation": "https://trac.osgeo.org/geos/",
+    "training-materials": [
+      {
+        "name": "Introduction to GEOS",
+        "url": "https://pkg.hakukale.com:8080/doc/geos/html/index.html"
+      },
+      {
+        "name": "GEOS API interface",
+        "url": "https://geos.osgeo.org/doxygen/index.html"
+      },
+      {
+        "name": "Using the GEOS library",
+        "url": "https://trac.osgeo.org/geos/wiki/TopoTutorial"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Software": "fftw3",
+  "WebPage": "http://www.fftw.org/",
+  "Resources": {
+    "Documentation": "http://www.fftw.org/fftw3_doc/",
+    "Tutorials": [
+      "http://www.fftw.org/fftw2_doc/fftw_2.html",
+      "https://www.cs.dartmouth.edu/~doug/fftw.html",
+      "https://physik.uni-graz.at/~pep/CompOri/FFTW_Tutorial.pdf"
+    ]
+  }
+}

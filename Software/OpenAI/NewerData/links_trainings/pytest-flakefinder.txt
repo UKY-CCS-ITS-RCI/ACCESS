@@ -1,0 +1,24 @@
+{
+  "Software": "pytest-flakefinder",
+  "Link": "https://pypi.org/project/pytest-flakefinder/",
+  "Documentation": [
+    {
+      "Name": "Usage Instructions on Pypi",
+      "Link": "https://pypi.org/project/pytest-flakefinder/"
+    },
+    {
+      "Name": "Pytest-flakefinder on Github",
+      "Link": "https://github.com/dropbox/pytest-flakefinder"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Name": "Pytest-flakefinder blog post tutorial",
+      "Link": "https://dropbox.tech/application/pytest-plugins-that-should-be-factored-into-pytest-core"
+    },
+    {
+      "Name": "The Art of Pytest Python Testing for Data Science",
+      "Link": "https://medium.com/analytics-vidhya/a-guide-to-pytest-for-python-for-data-science-d85275766bcb"
+    }
+  ]
+}

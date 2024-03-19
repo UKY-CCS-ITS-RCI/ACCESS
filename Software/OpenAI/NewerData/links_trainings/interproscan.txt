@@ -1,0 +1,20 @@
+{
+  "Software": "InterProScan",
+  "Software_URL": "https://www.ebi.ac.uk/interpro/download/",
+  "Documentation": 
+  [
+    {
+      "Documentation1": "https://www.ebi.ac.uk/interpro/userguide/introduction_interpro",
+      "Documentation2": "https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/sequence-search-patmatch-blast/interproscan/",
+      "Documentation3": "https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/InterProScan+Help+and+Documentation"
+    }
+  ],
+  "Tutorials":
+  [
+    {
+      "Tutorial1": "https://www.ebi.ac.uk/training/online/course/interpro-functional-and-structural-analysis-protei/tutorial",
+      "Tutorial2": "https://www.youtube.com/watch?v=NE2VLl3E068",
+      "Tutorial3": "https://m.ensembl.org/info/docs/tools/vep/vep_script/vep_plugins.html#iprscan"
+    }
+  ]
+}

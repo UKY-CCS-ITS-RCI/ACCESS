@@ -1,0 +1,21 @@
+{
+  "aspera": {
+    "overview": "Aspera is a high-speed data transfer technology that enables secure and efficient transfer of large files and data sets over long distances. It offers accelerated transfer speeds, robust security features, and seamless integration with various storage systems and cloud platforms.",
+    "core_features": [
+      "High-speed data transfer",
+      "Secure file transfer",
+      "Integration with storage systems"
+    ],
+    "general_tags": [
+      "Data transfer",
+      "Accelerated transfer",
+      "Security"
+    ],
+    "additional_tags": {
+      "research_discipline": "Information Technology",
+      "research_area": "Data management",
+      "software_class": "Data transfer tool",
+      "software_type": "File transfer software"
+    }
+  }
+}

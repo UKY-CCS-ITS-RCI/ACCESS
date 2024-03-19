@@ -1,0 +1,27 @@
+{
+  "Software": "r-nlme",
+  "Link": "https://cran.r-project.org/web/packages/nlme/index.html",
+  "Documentation": "https://cran.r-project.org/web/packages/nlme/nlme.pdf",
+  "Training_Materials": [
+    {
+      "Title": "Mixed-Effects Models in S and S-PLUS: nlme",
+      "URL": "https://link.springer.com/book/10.1007%2Fb98882"
+    },
+    {
+      "Title": "r-nlme Tutorial 1",
+      "URL": "https://staff.pubhealth.ku.dk/~pdiniz/ShortCourses/UseR2019/lectures/Part1.pdf"
+    },
+    {
+      "Title": "r-nlme Tutorial 2",
+      "URL": "https://data.library.virginia.edu/getting-started-with-nlme/"
+    },
+    {
+      "Title": "r-nlme Trainning Material",
+      "URL": "https://m-clark.github.io/mixed-models-with-R/nlme_basics.html"
+    },
+    {
+      "Title": "Understanding r-nlme",
+      "URL": "https://ourcodingclub.github.io/tutorials/mixed-models/"
+    }
+  ]
+}

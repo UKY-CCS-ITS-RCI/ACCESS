@@ -1,0 +1,10 @@
+{
+  "softwareName": "FFTW",
+  "links": {
+    "softwarePage": "http://www.fftw.org/",
+    "documentation": "http://www.fftw.org/fftw3_doc/index.html",
+    "tutorial1": "http://www.fftw.org/fftw2_doc/fftw_2.html",
+    "tutorial2": "https://www.youtube.com/watch?v=jegbUURXtGI",
+    "tutorial3": "http://www.sao.ru/tb/manuals/fftw/node5.html"
+  }
+}

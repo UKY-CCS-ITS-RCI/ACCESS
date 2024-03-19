@@ -1,0 +1,11 @@
+{
+  "raxml-ng": {
+    "softwarePage": "https://github.com/amkozlov/raxml-ng",
+    "documentation": "https://github.com/amkozlov/raxml-ng/wiki",
+    "trainingMaterials": {
+      "Tutorial": "https://github.com/amkozlov/raxml-ng/wiki/Tutorial",
+      "Manual": "https://github.com/amkozlov/raxml-ng/wiki/Manual",
+      "Benchmarking": "https://github.com/amkozlov/raxml-ng/wiki/Benchmarking"
+    }
+  }
+}

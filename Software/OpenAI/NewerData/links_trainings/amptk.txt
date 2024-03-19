@@ -1,0 +1,12 @@
+{
+  "Software Name": "amptk",
+  "Software Page": "https://github.com/nextgenusfs/amptk",
+  "Additional Links": {
+    "Documentation": "http://amptk.readthedocs.io/",
+    "Tutorials": [
+      "http://amptk.readthedocs.io/en/latest/tutorials.html",
+      "https://nextgenusfs.github.io/ufits/tutorials/ufits-adapters-setup.html"
+      ],
+    "Training Materials": "None Found"
+  }
+}

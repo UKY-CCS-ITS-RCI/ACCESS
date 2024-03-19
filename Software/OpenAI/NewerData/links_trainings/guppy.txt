@@ -1,0 +1,15 @@
+{
+  "softwareName": "Guppy",
+  "softwarePage": "https://community.nanoporetech.com/downloads",
+  "documentation": "https://community.nanoporetech.com/protocols/Guppy-protocol/v/GPB_9086_v109_revM_14Dec2018",
+  "trainingMaterials": [
+    {
+      "name": "Training Guide: Guppy GPU Basecalling",
+      "URL": "https://labs.oicr.on.ca/boutros-lab/software/gpu-guppy"
+    },
+    {
+      "name": "Tutorial: Introduction to Guppy Basecalling",
+      "URL": "https://nanoporetech.com/resource-centre/videos/introduction-basecalling-guppy"
+    }
+  ]
+}

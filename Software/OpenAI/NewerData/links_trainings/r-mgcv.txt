@@ -1,0 +1,25 @@
+{
+  "Software": "r-mgcv",
+  "Links": {
+    "Software Page": {
+      "URL": "https://cran.r-project.org/web/packages/mgcv/index.html"
+    },
+    "Documentation": {
+      "URL": "https://cran.r-project.org/web/packages/mgcv/mgcv.pdf"
+    },
+    "Training and Tutorial Materials": [
+      {
+        "Title": "An Introduction to mgcv",
+        "URL": "https://cran.r-project.org/web/packages/mgcv/vignettes/mgcv.pdf"
+      },
+      {
+        "Title": "Generalized Additive Models: An Introduction with R (Book)",
+        "URL": "https://www.crcpress.com/Generalized-Additive-Models-An-Introduction-with-R/Wood/p/book/9781584884743"
+      },
+      {
+        "Title": "Generalized Additive Models: An Introduction with R (Online Course)",
+        "URL": "https://www.datacamp.com/community/blog/generalized-additive-models"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "software": [
+    {
+      "name": "r",
+      "software_url": "https://www.r-project.org",
+      "documentation_urls": {
+        "official_documentation": "https://www.r-project.org/other-docs.html",
+        "cran_docs": "https://cran.r-project.org/manuals.html"
+      },
+      "tutorial_urls": {
+        "official_tutorials": "https://www.r-project.org/doc/contrib/index.html",
+        "coursera_intro_r": "https://www.coursera.org/learn/r-programming",
+        "datacamp_tutorial": "https://www.datacamp.com/courses/free-introduction-to-r"
+      }
+    }
+  ]
+}

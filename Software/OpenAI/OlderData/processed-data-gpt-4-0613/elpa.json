@@ -1,0 +1,11 @@
+{
+  "ELPA": {
+    "softwarePage": "https://elpa.mpcdf.mpg.de/",
+    "documentation": "https://elpa.mpcdf.mpg.de/html/Documentation/",
+    "trainingMaterials": [
+      "https://elpa.mpcdf.mpg.de/html/Documentation/Tutorial_manual_2tutorials.pdf",
+      "https://gitlab.mpcdf.mpg.de/elpa/elpa/wikis/Tutorial",
+      "https://elpa.mpcdf.mpg.de/html/Documentation/ELPA-2017.05.003-HowTos-and-Tutorials.pdf"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "softwareName": "Gnuplot",
+  "links": {
+    "softwarePage": "http://www.gnuplot.info/",
+    "documentation": "http://www.gnuplot.info/documentation.html",
+    "officialTutorial": "http://gnuplot.sourceforge.net/tutorial/",
+    "tutorial1": "https://www.cs.hmc.edu/~vrable/gnuplot/using-gnuplot.html",
+    "tutorial2": "https://mathewpeet.org/?p=527",
+    "tutorial3": "https://www.youtube.com/watch?v=0hU9efClCJE"
+  }
+}

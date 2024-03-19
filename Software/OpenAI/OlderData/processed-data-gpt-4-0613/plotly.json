@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "Plotly",
+  "Homepage": "https://plotly.com/",
+  "Resources": {
+    "Documentation": "https://plotly.com/python/",
+    "Tutorials": [
+      "https://plotly.com/python/getting-started/",
+      "https://www.w3schools.com/python/plotly_getting_started.asp"
+    ],
+    "TrainingMaterial": [
+      "https://plotly.com/python/plotly-fundamentals/",
+      "https://www.datacamp.com/community/tutorials/learn-plotly"
+    ]
+  }
+}

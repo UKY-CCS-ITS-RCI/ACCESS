@@ -1,0 +1,15 @@
+{
+    "software": "amdscalapack",
+    "software_url": "https://developer.amd.com/amd-aocl/scalapack/",
+    "documentation_link": "https://developer.amd.com/wp-content/resources/54583_AOCL_2.2_Floating_P.pdf",
+    "tutorials_and_training_materials": [
+        {
+            "tutorial_name": "SCALAPACK User's Guide",
+            "tutorial_link": "https://www.netlib.org/scalapack/slug/"
+        },
+        {
+            "tutorial_name": "SCALAPACK: Getting Started",
+            "tutorial_link": "https://www.netlib.org/scalapack/#_getting_started"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "software": "SQLite",
+    "resources": {
+        "softwareHomepage": "https://www.sqlite.org/index.html",
+        "documentation": "https://www.sqlite.org/docs.html",
+        "tutorials": [
+            {
+                "title": "SQLite Tutorial",
+                "url": "https://www.sqlitetutorial.net/"
+            },
+            {
+                "title": "SQLite: Getting Started",
+                "url": "https://www.tutorialspoint.com/sqlite/"
+            }
+        ],
+        "trainingMaterials": [
+            {
+                "title": "SQL As Understood By SQLite",
+                "url": "https://www.sqlite.org/lang.html"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "Software": "scirpy",
+  "Software URL": "https://icbi-lab.github.io/scirpy/",
+  "Documentation": {
+    "Documentation URL": "https://icbi-lab.github.io/scirpy/generated/scirpy.pl.repertoire_overlap.html"
+  },
+  "Tutorials": [
+    {
+      "Tutorial 1": "https://icbi-lab.github.io/scirpy/tutorials.html",
+      "Tutorial URL": "https://icbi-lab.github.io/scirpy/tutorials/tl-repertoire_overlap.html"
+    },
+    {
+      "Tutorial 2": "https://icbi-lab.github.io/scirpy/tutorials/tl-clonotypes.html",
+      "Tutorial URL": "https://icbi-lab.github.io/scirpy/tutorials/tl-clonotypes.html"
+    }
+  ],
+  "Training Materials": [
+    {
+      "Training Material 1": "https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html",
+      "Training Material URL": "https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html"
+    }
+  ]
+}

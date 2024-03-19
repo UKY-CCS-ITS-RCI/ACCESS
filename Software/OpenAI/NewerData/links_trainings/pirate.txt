@@ -1,0 +1,10 @@
+{
+  "software": "Pirate",
+  "software_url": "https://github.com/SexGenomicsToolkit/Pirate",
+  "additional_links": {
+    "documentation": "https://github.com/SexGenomicsToolkit/Pirate/wiki",
+    "tutorial_1": "https://github.com/SexGenomicsToolkit/Pirate/wiki/Tutorial-1:-Installation-and-backend-description",
+    "tutorial_2": "https://youtu.be/Hzfp3y8ROjs",
+    "paper": "https://academic.oup.com/gbe/article/11/9/2691/5557936"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "openai-gym": {
+    "software_page": "https://gym.openai.com/",
+    "links": {
+      "documentation": "https://gym.openai.com/docs/",
+      "tutorial": {
+        "Getting started with Gym": "https://gym.openai.com/docs/",
+        "Install Gym": "https://gym.openai.com/docs/#installation",
+        "Tutorial on Medium": "https://towardsdatascience.com/getting-started-with-openai-gym-d2e5d8b8fa91",
+        "Tutorial on Analytics Vidhya": "https://www.analyticsvidhya.com/blog/2020/11/getting-started-with-openai-gym/"
+      }
+    }
+  }
+}

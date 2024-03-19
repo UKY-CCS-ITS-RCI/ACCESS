@@ -1,0 +1,12 @@
+{
+  "squeezemeta": {
+    "software_page_link": "https://github.com/jtamames/SqueezeMeta",
+    "documentation": [
+      {"doc_link_1": "https://squeezemeta.readthedocs.io/en/latest/"},
+      {"doc_link_2": "https://anaconda.org/bioconda/squeezemeta"}
+    ],
+    "training_materials": [
+      {"tutorial_link_1": "https://github.com/jtamames/SqueezeMeta/tree/master/tutorials"}
+    ]
+  }
+}

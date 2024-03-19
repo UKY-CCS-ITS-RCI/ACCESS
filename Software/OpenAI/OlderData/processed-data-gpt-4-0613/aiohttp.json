@@ -1,0 +1,19 @@
+{
+"name": "aiohttp",
+"softwarePage": "https://aiohttp.readthedocs.io/en/stable/",
+"documentation": "https://docs.aiohttp.org/en/stable/",
+"tutorialMaterials": [
+    {
+        "name": "Getting started with aiohttp",
+        "url": "https://aiohttp-demos.readthedocs.io/en/latest/tutorial.html"
+    },
+    {
+        "name": "Python aiohttp module Introduction and GET Request Example",
+        "url": "https://www.youtube.com/watch?v=Z784Mwm4VBg"
+    },
+    {
+        "name": "Aiohttp for Python. Basic Examples",
+        "url": "https://dev.to/ssbozy/aiohttp-for-python-basic-examples-13fd"
+    }
+  ]
+}

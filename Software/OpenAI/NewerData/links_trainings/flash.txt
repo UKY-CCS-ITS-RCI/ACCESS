@@ -1,0 +1,13 @@
+{
+"Software_Name": "flash",
+"Software_URL": "https://ccb.jhu.edu/software/FLASH/",
+"Documentation": {
+  "User_Guide":"https://ccb.jhu.edu/software/FLASH/manual.shtml",
+  "README":"https://github.com/dstreett/FLASH2/blob/master/README"
+},
+"Tutorials": {
+  "FLASH_tutorial":"https://informatics.fas.harvard.edu/using-flash-for-paired-end-reads.html",
+  "FLASH_Video_Tutorial":"https://www.youtube.com/watch?v=nfM2t6i4zWI",
+  "Bioinformatics_Workshop":"http://ged.msu.edu/angus/tutorials-2011/flash.html"
+}
+}

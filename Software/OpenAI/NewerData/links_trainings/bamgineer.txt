@@ -1,0 +1,11 @@
+{
+    "name": "bamgineer",
+    "software_page": "https://github.com/parklab/bamgineer",
+    "documentation_links": [
+      "https://github.com/parklab/bamgineer/blob/master/README.md"
+    ],
+    "training_materials": [
+      "https://github.com/parklab/bamgineer/wiki",
+      "https://www.youtube.com/watch?v=wb8gHE2Ubws"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "softwareName": "R-Tidyr",
+  "softwarePage": "https://tidyr.tidyverse.org/",
+  "documentation": "https://tidyr.tidyverse.org/articles/tidyr.html",
+  "trainingMaterials": [
+    {
+      "title": "Data Wrangling with dplyr and tidyr",
+      "URL": "https://rstudio-education.github.io/tidyr/"
+    },
+    {
+      "title": "Data Transformation with dplyr and Tidyr",
+      "URL": "https://datacarpentry.org/R-ecology-lesson/03-dplyr.html"
+    },
+    {
+      "title": "Data Cleaning with R and the Tidyverse: Detect, diagnose, and treat dirty data",
+      "URL": "https://www.rstudio.com/resources/webinars/data-cleaning-with-r-and-the-tidyverse-detect-diagnose-and-treat-dirty-data/"
+    },
+    {
+      "title": "Data Wrangling with dplyr and tidyr Cheat Sheet",
+      "URL": "https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "Software Name": "mageck",
+    "Software Page": "https://sourceforge.net/projects/mageck/",
+    "Additional Links": {
+        "Documentation": "https://sourceforge.net/p/mageck/wiki/Home/",
+        "Tutorial": "https://media.readthedocs.org/pdf/mageck-docs/latest/mageck-docs.pdf",
+        "Training Materials": "https://sourceforge.net/p/mageck/wiki/examples/"
+    }
+}

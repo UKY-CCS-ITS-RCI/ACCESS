@@ -1,0 +1,12 @@
+{
+  "software": "r-deseq2",
+  "website": "https://bioconductor.org/packages/release/bioc/html/DESeq2.html",
+  "documentation": "http://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html",
+  "tutorials": [
+    {
+      "tutorial1": "https://hbctraining.github.io/DGE_workshop/lessons/04_DGE_DESeq2_analysis.html",
+      "tutorial2": "https://monashbioinformaticsplatform.github.io/rna-seq-workshop/differential_expression.html",
+      "tutorial3": "https://rstudio-pubs-static.s3.amazonaws.com/275642_57c94e81f1784f089a05f8a07e7d6b3c.html"
+    }
+  ]
+}

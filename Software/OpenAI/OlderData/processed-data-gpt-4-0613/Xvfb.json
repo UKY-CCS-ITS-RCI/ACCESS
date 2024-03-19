@@ -1,0 +1,23 @@
+{
+"name": "Xvfb",
+"softwarePage": "https://www.x.org/releases/X11R7.7/doc/man/man1/Xvfb.1.xhtml",
+"documentation": "",
+"tutorialMaterials": [
+    {
+        "name": "Xvfb - Virtual framebuffer 'fake' X server",
+        "url": "https://linux.die.net/man/1/xvfb"
+    },
+    {
+        "name": "Xvfb tutorial",
+        "url": "https://en.wikipedia.org/wiki/Xvfb"
+    },
+    {
+        "name": "Getting Started with Headless Chrome, using xvfb-run",
+        "url": "https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai"
+    },
+    {
+        "name": "Introduction To Using xvfb Interface and Xvfb Test",
+        "url": "http://elementalselenium.com/tips/38-headless"
+    }
+  ]
+}

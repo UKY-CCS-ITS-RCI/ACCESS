@@ -1,0 +1,32 @@
+{
+    "tools": [
+        {
+            "name": "beast1",
+            "link": "https://beast.community/beast1",
+            "documentation": [
+                {
+                    "name": "Documentation of Beast",
+                    "link": "https://beast.community/man1"
+                },
+                {
+                    "name": "The BEAST documentation",
+                    "link": "https://beast.community/2019/06/26/new-to-beast-where-to-start.html"
+                },
+                {
+                    "name": "Beast-Mcmc - Google Code Archive",
+                    "link": "https://code.google.com/archive/p/beast-mcmc/"
+                }
+            ],
+            "tutorials": [
+                {
+                    "name": "How to create input files for BEAST - Naturalis/",
+                    "link": "https://science.naturalis.nl/en/people/scientists/frank-stokvis/how-create-input-files-beast"
+                },
+                {
+                    "name": "BEAST tutorial 1 | Bayesian coalescent analysis of SARS-CoV-2",
+                    "link": "https://www.youtube.com/watch?v=Qm1Xd3GYtcw"
+                }
+            ]
+        }
+    ]
+}

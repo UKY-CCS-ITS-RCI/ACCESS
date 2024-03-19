@@ -1,0 +1,28 @@
+{
+  "Software_Name": "vsearch",
+  "Software_Link": "https://github.com/torognes/vsearch", 
+  "Documentation": [
+    {
+      "Documentation_1": {
+        "Link": "https://github.com/torognes/vsearch/wiki"
+      },
+      "Documentation_2": {
+        "Link": "https://manpages.ubuntu.com/manpages/hirsute/man1/vsearch.1.html"
+      }
+    }
+  ],
+
+  "Training_Materials": [
+    {
+      "Training_Material_1": {
+        "Link": "https://astrobiomike.github.io/amplicon/vsearch"
+      },
+      "Training_Material_2": {
+        "Link": "https://www.drive5.com/usearch/manual/cmd_vsearch.html"
+      },
+      "Training_Material_3": {
+        "Link": "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/sequence-quality-control-vsearch/"
+      }
+    }
+  ]
+}

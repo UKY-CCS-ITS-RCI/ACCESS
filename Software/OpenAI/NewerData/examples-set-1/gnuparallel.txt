@@ -1,0 +1,19 @@
+Use Case: GNU Parallel is a command-line driven utility that facilitates the execution of commands, scripts, or programs in parallel on one or multiple computers. For example, if you have a script that processes a single file and you want to run that script for each file in a directory.
+
+Code details and examples:
+
+Code:
+
+Considering a scenario where you have a bash script (let's name it script.sh) that takes filename as an argument and processes it. Now, you want to execute this script on all text files in a current directory:
+
+```bash
+ls *.txt | parallel ./script.sh
+```
+
+The above command will run script.sh on each text file in parallel.
+
+Input File: The input files would be the text files that are present in the current directory. There isn't a specific structure to them as they can contain any data relevant to the user's script.
+
+Specifications and Details in Input Files: This would depend on what your script is designed to do. It could be processing text files of DNS logs, Apache logs, etc.
+
+Command to run it: As mentioned in the code, you would navigate to the directory containing the files you want to process and the script. Then you would execute the 'ls *.txt | parallel ./script.sh' command in your terminal. This would start the parallel processing of the files.

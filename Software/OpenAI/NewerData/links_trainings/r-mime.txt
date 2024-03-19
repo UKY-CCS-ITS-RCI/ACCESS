@@ -1,0 +1,17 @@
+{
+  "SoftwareName": "r-mime",
+  "SoftwarePage": "https://www.rdocumentation.org/packages/mime/versions/0.10",
+  "AdditionalLinks": {
+    "Documentation": "https://www.rdocumentation.org/packages/mime/versions/0.10",
+    "Tutorials": [
+      {
+        "TutorialName": "R Markdown: The Definitive Guide",
+        "URL": "https://bookdown.org/yihui/rmarkdown-cookbook/file-path.html"
+      },
+      {
+        "TutorialName": "R Base64 Encode and Decode Example",
+        "URL": "https://www.tutorialkart.com/r/r-base64-encode-and-decode-example/"
+      }
+    ]
+  }
+}

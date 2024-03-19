@@ -1,0 +1,12 @@
+
+{
+  "Nextflow": {
+    "Software Page": "https://www.nextflow.io/",
+    "Documentation": "https://www.nextflow.io/docs/latest/index.html",
+    "Tutorials": [
+      "https://www.nextflow.io/docs/latest/getstarted.html",
+      "https://www.nextflow.io/example4/index.html"
+    ]
+  }
+}
+

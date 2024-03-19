@@ -1,0 +1,23 @@
+{
+  "software": {
+    "name": "Captum",
+    "software_url": "https://captum.ai/",
+    "documentation_url": "https://captum.ai/api/",
+    "training_materials": [{
+      "name": "Tutorial 1: Understanding outputs, features and neurons",
+      "link": "https://captum.ai/tutorials/OutputFeatureAndNeuron"
+    }, {
+      "name": "Tutorial 2: GradientShap Titanic Tutorial",
+      "link": "https://captum.ai/tutorials/gradient_shap_titanic"
+    }, {
+      "name": "Tutorial 3: Captum Recipe - Interpreting Text Classifiers",
+      "link": "https://captum.ai/tutorials/Text_Classifier_Captum_Recipe"
+    }, {
+      "name": "Tutorial 4: Classification Interpretability with Captum",
+      "link": "https://captum.ai/tutorials/CIFAR_TorchVision_Interpret"
+    },{
+      "name": "Understanding CI with captum for multiclass classification using layered gradient",
+      "link": "https://captum.ai/tutorials/Covid_19_Interpret"
+    }]
+  }
+}

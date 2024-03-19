@@ -1,0 +1,22 @@
+{
+  "Software": 
+  { 
+    "Xpdf": 
+    { 
+      "URL": "https://www.xpdfreader.com/",
+      "Documentation": "https://www.xpdfreader.com/doc.html",
+      "Tutorials": 
+      [
+        {
+          "How to Use Xpdf": "https://www.youtube.com/watch?v=0fuyP83JrcI"
+        },
+        {
+          "Xpdf Installation and Usage Guide": "https://www.wikihow.com/Use-Xpdf"
+        },
+        {
+          "A Complete Guide to Xpdf": "https://www.techwalla.com/articles/how-to-use-xpdf"
+        }
+      ]
+    }
+  }
+}

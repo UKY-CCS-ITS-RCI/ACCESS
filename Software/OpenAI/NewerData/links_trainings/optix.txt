@@ -1,0 +1,21 @@
+{
+  "software": "OptiX",
+  "software_info": {
+    "official_page": "https://developer.nvidia.com/optix",
+    "documentation": "https://raytracing-docs.nvidia.com/optix7/index.html",
+    "tutorials_and_training": [
+      {
+        "name": "Introduction to OptiX",
+        "url": "https://www.youtube.com/watch?v=JgMzROTw2wY"
+      },
+      {
+        "name": "NVIDIA OptiX AI-Accelerated Denoiser",
+        "url": "https://www.youtube.com/watch?v=g9f48TbS-nI"
+      },
+      {
+        "name": "OptiX Programming Guide",
+        "url": "https://raytracing-docs.nvidia.com/optix7/guide/index.html"
+      }
+    ]
+  }
+}

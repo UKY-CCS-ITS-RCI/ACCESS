@@ -1,0 +1,20 @@
+{
+    "software_name": "Global Arrays",
+    "software_url": "http://hpc.pnl.gov/globalarrays/",
+    "documentation": [
+        {
+            "documentation_url": "http://hpc.pnl.gov/globalarrays/documentation/",
+            "titulo": "Global Arrays Documentation"
+        }
+    ],
+    "training_tutorials": [
+        {
+            "tutorial_url": "\"https://www.shodor.org/media/content/petascale/materials/UPModules/globalArraysModule/index.html",
+            "title": "Global Arrays (GA): A Data Parallel Programming Model for HPC"
+        },
+        {
+            "tutorial_url": "https://www.tacc.utexas.edu/documents/13601/150568/L09-Global+Arrays.pdf",
+            "title": "Global Arrays Tutorial for Texas Advanced Computing Center"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "software": "r-genefilter",
+  "links": {
+    "software_page": "https://bioconductor.org/packages/release/bioc/html/genefilter.html",
+    "documentation": [
+      {
+          "Bioconductor": "https://www.bioconductor.org/packages/release/bioc/manuals/genefilter/man/genefilter.pdf",
+          "Package PDF": "https://bioconductor.riken.jp/packages/3.0/bioc/manuals/genefilter/man/genefilter.pdf"
+      }
+    ],
+    "tutorials": [
+      {
+        "Bioconductor Case Studies": "https://www.bioconductor.org/packages/devel/bioc/vignettes/CaseStudies/inst/doc/Ch11.pdf",
+        "R-Biostar": "https://www.r-biostar.org/post/show/923-how-to-use-genefilter-and-rafalib-in-order-to-make-a-microarray-analysis/",
+        "Github repo with examples": "https://github.com/benilton/genefilter-paper"
+      }
+    ]
+  }
+}

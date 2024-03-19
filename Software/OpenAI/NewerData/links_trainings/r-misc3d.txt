@@ -1,0 +1,23 @@
+```json
+{
+  "r-misc3d": {
+    "softwarePage": "https://cran.r-project.org/web/packages/misc3d/index.html",
+    "documentation": [
+      {
+        "title": "CRAN - Package misc3d",
+        "url": "https://cran.r-project.org/web/packages/misc3d/misc3d.pdf"
+      }
+    ],
+    "trainingMaterials": [
+      {
+        "title": "Sticking R packages in the browser. misc3d and rgl",
+        "url": "http://www.magesblog.com/2015/08/sticking-r-packages-in-browser-misc3d.html"
+      },
+      {
+        "title": "R Programming/3D Plotting",
+        "url": "https://en.wikibooks.org/wiki/R_Programming/3D_Plotting"
+      }
+    ]
+  }
+}
+```

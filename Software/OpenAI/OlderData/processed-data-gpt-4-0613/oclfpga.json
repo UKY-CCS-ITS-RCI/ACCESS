@@ -1,0 +1,28 @@
+{
+  "software": "oclfpga",
+  "website": "https://github.com/intel/FPGA-OpenCL",
+  "documentation": [
+    {
+      "title": "oclfpga Github Repository",
+      "url": "https://github.com/intel/FPGA-OpenCL"
+    },
+    {
+      "title": "OpenCL Design Guide",
+      "url": "https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/opencl-sdk/aocl_programming_guide.pdf"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Intel FPGA SDK for OpenCL",
+      "url": "https://www.intel.com/content/www/us/en/software/programmable/sdk-for-opencl/overview.html"
+    },
+    {
+      "title": "OpenCL on Intel FPGA Tutorial",
+      "url": "https://www.youtube.com/watch?v=zY4vNANO8_Y"
+    },
+    {
+      "title": "Getting Started with OpenCL on Intel FPGA",
+      "url": "https://www.youtube.com/watch?v=f2InUKQ6sC8"
+    }
+  ]
+}

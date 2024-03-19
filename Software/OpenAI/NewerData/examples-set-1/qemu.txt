@@ -1,0 +1,27 @@
+Use Case: Running an ARM binary on a different machine (like x86).
+
+Code details and examples:
+
+Code:
+
+Suppose we have an ARM executable named `hello`. We want to run it on a QEMU emulator on an x86 machine.
+
+The binary file `hello` could be a simple "Hello, World!" program compiled for ARM. Its contents are irrelevant for the case, it's only important that it's a valid ARM binary.
+
+The command to run the ARM binary using QEMU would be:
+
+```
+qemu-arm -L /usr/arm-linux-gnueabi/ hello
+```
+
+This command assumes that:
+
+- `qemu-arm` is the QEMU emulator for the ARM processor. This may vary depending on the version of ARM your binary is targeting.
+
+- `-L` /usr/arm-linux-gnueabi/ allows us to specify the location of the "sysroot". This folder should contains the libraries needed by the `hello` binary. This may vary depending on your specific setup.
+
+- `hello` is the ARM binary we want to run.
+
+Several input/output/error redirections, environment variables and command line arguments can be passed after the binary name.
+
+Again, please note that paths, binary names and ARM versions may vary broadly depending on your specific needs and setup.

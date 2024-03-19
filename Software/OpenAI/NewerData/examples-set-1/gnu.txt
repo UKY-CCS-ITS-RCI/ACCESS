@@ -1,0 +1,44 @@
+Use Case: Program Compilation
+
+Code details and examples:
+
+Code:  
+GCC (GNU Compiler Collection) is an integral part of GNU Project that provides compilers for several programming languages like C, C++, Fortran etc.
+
+Sample Input File, Format Required: 
+You need a source file in C, C++ or Fortran to use GCC. File extension depends on the programming language used (.c for C, .cpp for C++, .f for Fortran).
+
+Example using C:
+```c
+// hello.c
+#include <stdio.h>
+
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
+```
+
+And then in the terminal, you'd run:
+
+```
+gcc hello.c -o hello
+```
+
+This tells gcc to take hello.c as input and output it as an executable named hello. If there are no errors in your code, you can then run your program with:
+
+```
+./hello
+```
+
+Specifications and Details in Input Files:
+The input files would be any valid C, C++, Fortran etc files, which follow the language-specific syntax and semantics. An example is provided above for a C program. Note that the code must not contain any syntax errors, otherwise the compilation process will fail and the compiler will output error messages. 
+
+You can use various options with gcc command to customize the compilation process. For example, you could use -Wall to get all warning messages, -o to specify the output file name etc.
+
+
+Command to Run It:
+The general format is:
+```
+gcc [options] [source files] [object files] [-o output file]
+```

@@ -1,0 +1,11 @@
+{
+  "software": "fosscuda",
+  "links": {
+    "software_page": "https://easybuild.readthedocs.io/en/latest/Theming_fosscuda_toolchain.html",
+    "documentation": "https://easybuild.readthedocs.io/en/latest/version-specific/Theming_fosscuda_toolchain.html",
+    "training_materials": [
+      "http://bioinformaticsonline.com/bookmarks/view/53032/gpu-acceleration-for-hpc-fosscuda-with-easybuild",
+      "https://www.youtube.com/watch?v=Z1P6AR19wek"
+    ]
+  }
+}

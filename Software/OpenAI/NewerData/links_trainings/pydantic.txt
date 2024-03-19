@@ -1,0 +1,18 @@
+{
+  "software": "pydantic",
+  "link": "https://pydantic-docs.helpmanual.io/",
+  "additional_links": {
+    "documentation": "https://pydantic-docs.helpmanual.io/",
+    "tutorial": "https://pydantic-docs.helpmanual.io/tutorial/",
+    "training_materials": [
+      "https://pydantic-docs.helpmanual.io/tutorial/settings/",
+      "https://pydantic-docs.helpmanual.io/tutorial/post_parse/",
+      "https://pydantic-docs.helpmanual.io/tutorial/types/",
+      "https://pydantic-docs.helpmanual.io/tutorial/exporting_models/",
+      "https://pydantic-docs.helpmanual.io/tutorial/excluding_defaults/",
+      "https://pydantic-docs.helpmanual.io/tutorial/validators/",
+      "https://pydantic-docs.helpmanual.io/tutorial/model_config/",
+      "https://pydantic-docs.helpmanual.io/tutorial/extra_types/"
+    ]
+  }
+}

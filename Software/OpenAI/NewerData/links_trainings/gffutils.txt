@@ -1,0 +1,12 @@
+{
+  "Software": {
+    "Name": "gffutils",
+    "HomePage": "https://daler.github.io/gffutils/",
+    "Documentation": "https://daler.github.io/gffutils/index.html",
+    "Tutorials&Trainings": [{
+      "Tutorial1": "https://daler.github.io/gffutils/tutorial.html",
+      "Tutorial2": "https://github.com/daler/gffutils",
+      "Tutorial3": "https://gffutils.readthedocs.io/en/latest/overview.html"
+    }]
+  }
+}

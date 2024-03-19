@@ -1,0 +1,19 @@
+{
+  "Software": "OpenJPEG",
+  "Main Link": "https://www.openjpeg.org/",
+  "Resources": {
+    "Documentation": [
+      {
+        "Link": "https://www.openjpeg.org/documentation.html"
+      }
+    ],
+    "Tutorials and Training": [
+      {
+        "Link": "https://gdz.sub.uni-goettingen.de/zhb_docs/j/openjpeg/openjpeg-introduction/tutorial.html"
+      },
+      {
+        "Link": "https://software.intel.com/content/www/us/en/develop/articles/transitioning-from-libjpeg-turbo-to-openjpeg.html"
+      }
+    ]
+  }
+}

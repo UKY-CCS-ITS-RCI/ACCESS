@@ -1,0 +1,17 @@
+{
+"Globus-CLI": 
+    {
+    "Software Homepage": "https://docs.globus.org/cli/",
+    "Documentation": [
+        {
+            "URL": "https://docs.globus.org/cli/reference/"
+        }],
+    "Tutorials & Training Materials": [
+        { 
+            "URL": "https://www.youtube.com/watch?v=3E-3PveBcJ8" 
+        },
+        {
+            "URL": "https://www.globus.org/globus-connect-personal"
+        }]
+    }
+}

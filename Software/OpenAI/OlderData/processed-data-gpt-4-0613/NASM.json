@@ -1,0 +1,12 @@
+
+{
+  "NASM": {
+    "Software Page": "https://www.nasm.us/",
+    "Documentation": "https://www.nasm.us/doc/",
+    "Tutorials": [
+      "https://www.nasm.us/tutorial1",
+      "https://www.nasm.us/tutorial2"
+    ]
+  }
+}
+

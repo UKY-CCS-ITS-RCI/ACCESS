@@ -1,0 +1,11 @@
+
+{
+    "Software": "Chemprop",
+    "Website": "https://chemprop.csail.mit.edu/",
+    "Documentation": "https://chemprop.readthedocs.io/en/latest/",
+    "Tutorial_and_Training": [
+        "https://chemprop.readthedocs.io/en/latest/tutorial.html",
+        "https://github.com/chemprop/chemprop/blob/master/README.md",
+        "https://www.chemoinfo.org/gin/"
+    ]
+}

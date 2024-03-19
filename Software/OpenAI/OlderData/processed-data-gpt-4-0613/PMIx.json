@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "PMIx",
+  "Homepage": "https://pmix.org/",
+  "Resources": {
+    "Documentation": "https://pmix.org/documentation/",
+    "Tutorials": [
+      "https://pmix.org/doc/",
+      "https://pmix.org/doc/pmix-latest.pdf"
+    ],
+    "TrainingMaterial": [
+      "https://github.com/pmix/pmix/wiki",
+      "https://www.open-mpi.org/projects/pmix/"
+    ]
+  }
+}

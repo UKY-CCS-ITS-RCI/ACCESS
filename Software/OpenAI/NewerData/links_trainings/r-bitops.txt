@@ -1,0 +1,14 @@
+{
+  "Software_Name": "r-bitops",
+  "Software_URL": "https://cran.r-project.org/web/packages/bitops/index.html",
+  "Documentation_URL": "https://www.rdocumentation.org/packages/bitops/versions/1.0-6",
+  "Tutorial_Materials": [
+    {
+      "Tutorial_Name": "Getting started with bitops Package R",
+      "Tutorial_URL": "https://www.datasciencemadesimple.com/bitwise-operator-in-r/"
+    }, 
+    {
+      "Tutorial_Name": "Bitwise Operators in R",
+      "Tutorial_URL": "https://www.geeksforgeeks.org/bitwise-operators-in-r-programming/"
+    }]
+}

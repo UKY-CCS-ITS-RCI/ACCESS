@@ -1,0 +1,16 @@
+{
+  "Pydicom": {
+    "Software page": "https://pydicom.github.io/",
+    "Documentation": "https://pydicom.github.io/pydicom/stable/index.html",
+    "Tutorials and training materials": [
+      {
+        "Getting started with pydicom": "https://pydicom.github.io/pydicom/stable/tutorials/getting_started.html",
+        "Manipulating Pixel Data": "https://pydicom.github.io/pydicom/stable/auto_tutorials/manipulate_pixel_data.html",
+        "Diving into DICOM": "https://medium.com/@taposhdr/programming-dicom-with-python-5891d8fae3c6",
+        "pip install pydicom Tutorial": "https://www.youtube.com/watch?v=H7EIBrJZMhM",
+        "dicom to png using pydicom": "https://www.kaggle.com/pankajr141/dicom-to-png-conversion-pydicom-tutorial",
+        "Pydicom Documentation PDF": "https://media.readthedocs.org/pdf/pydicom/stable/pydicom.pdf"
+      }
+    ]
+  }
+}

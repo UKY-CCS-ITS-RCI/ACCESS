@@ -1,0 +1,20 @@
+{
+"NCO": {
+"software_page": "http://nco.sourceforge.net/",
+"links": {
+"documentation": "http://nco.sourceforge.net/nco.html",
+"training_materials": [
+{   
+"name": "NCO User Guide", 
+"url": "http://nco.sourceforge.net/nco.pdf"
+},
+{
+"name": "GitHub Repository",
+"url": "https://github.com/nco/nco"
+},
+{
+"name": "NCO Tutorials",
+"url": "https://www.ncl.ucar.edu/Training/Tutorials/NUG/"
+}]
+}
+}

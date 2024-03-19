@@ -1,0 +1,20 @@
+{
+    "software": "rocm-smi",
+    "software_url": "https://github.com/RadeonOpenCompute/ROC-smi",
+    "documentation": [
+        {
+            "documentation_name": "ROC-smi GitHub Documentation",
+            "url": "https://github.com/RadeonOpenCompute/ROC-smi"
+        }
+    ],
+    "training": [
+        {
+            "training_name": "Introduction to ROCm",
+            "url": "https://rocmdocs.amd.com/en/latest/"
+        },
+        {
+            "training_name": "ROCm Learning Center",
+            "url": "https://developer.amd.com/resources/training-hub/learn/roc/"
+        }
+    ]
+}

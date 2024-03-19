@@ -1,0 +1,15 @@
+{
+  "software_name": "R-Markdown",
+  "software_page": "https://rmarkdown.rstudio.com/",
+  "documentation": {
+    "intro": "https://rmarkdown.rstudio.com/lesson-1.html",
+    "cheatsheet": "https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf",
+    "reference_guide": "https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf"
+  },
+  "training_materials": {
+    "tutorial_1": "https://www.datacamp.com/community/tutorials/r-markdown-guide",
+    "tutorial_2": "https://www.datasci.com.au/r-markdown-tutorial/",
+    "online_course_1": "https://rmarkdown.rstudio.com/lesson-6.html",
+    "book_1": "https://bookdown.org/yihui/rmarkdown/"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Software": "pkgconf",
+  "Software_URL": "https://github.com/pkgconf/pkgconf",
+  "Documentation":
+  [
+    {
+      "URL": "https://man.archlinux.org/man/pkgconf.1"
+    },
+    {
+      "URL": "https://people.freedesktop.org/~dbn/pkg-config-guide.html"
+    }
+  ],
+  "Tutorials":
+  [
+    {
+      "URL": "https://freedesktop.org/wiki/Software/pkg-config/"
+    }
+  ]
+}

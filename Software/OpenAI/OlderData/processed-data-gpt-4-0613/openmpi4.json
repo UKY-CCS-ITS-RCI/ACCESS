@@ -1,0 +1,28 @@
+{
+  "software": "OpenMPI",
+  "website": "https://www.open-mpi.org/",
+  "documentation": [
+    {
+      "title": "OpenMPI Documentation",
+      "url": "https://www.open-mpi.org/doc/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "OpenMPI Getting Started Guide",
+      "url": "https://www.open-mpi.org/faq/?category=running#mpi-environmental-variables"
+    },
+    {
+      "title": "OpenMPI Tutorials",
+      "url": "https://cvw.cac.cornell.edu/MPI/openmpi/default.aspx"
+    },
+    {
+      "title": "Introduction to OpenMPI",
+      "url": "https://www.citutor.org/viewtutor.php?tutorid=1003"
+    },
+    {
+      "title": "OpenMPI Tutorial on YouTube",
+      "url": "https://www.youtube.com/watch?v=2k-dluuY1tE"
+    }
+  ]
+}

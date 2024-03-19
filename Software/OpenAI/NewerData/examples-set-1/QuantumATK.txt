@@ -1,0 +1,36 @@
+Use Case: QuantumATK is used for atomic-scale modeling and simulations in materials science and nanotechnology. It provides a complete suite of features for studying both periodic and non-periodic systems, with a particular focus on nanoscale devices.
+
+Code Details and Examples:
+
+Code: For QuantumATK, the input file can be in the python scripting language. Here is a sample of code to run a script file with the name "MyScript.py" in QuantumATK.
+
+```python
+# -*- coding: utf-8 -*-
+from NL.Computer import *
+from NL.Job import *
+from NL.IO import *
+atom_config = BulkConfiguration(
+    bravais_lattice=FaceCenteredCubic(4.05 * Angstrom),
+    elements=[Aluminum],
+    fractional_coordinates=[(0, 0, 0)]
+)
+nonlocal_psp = ProjectorAugmentedWave(
+    kinetic_energy_cutoff=75 * Hartree,
+    electronic_temperature=300 * Kelvin
+)
+calculator = LCAOCalculator(pseudopotential=nonlocal_psp)
+atom_config.setCalculator(calculator)
+bulk_configuration = calculate(atom_config)
+nlsave('Aluminum.py', bulk_configuration)
+```
+
+To run this QuantumATK python script one could use the following command line option:
+
+```bash
+atkpython MyScript.py
+```
+
+Here 'MyScript.py' is python script file which is used as the input file for QuantumATK.
+
+The python script file requires the definition of the atomic configuration, pseudopotential, and calculator setup. The 'nlsave' method is used to save the results in the 'Aluminum.py' file.
+This script runs an LCAO calculation on a bulk Aluminum system, and the output is saved in a file named "Aluminum.py".

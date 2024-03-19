@@ -1,0 +1,23 @@
+{
+  "software_name": "MATLAB Unlicensed",
+  "software_url": "https://www.mathworks.com/products/matlab.html",
+  "documentation_url": "https://www.mathworks.com/help/matlab/",
+  "tutorials_and_training_materials": [
+    {
+      "name": "MATLAB Course by MATLAB Academy",
+      "url": "https://matlabacademy.mathworks.com/"
+    },
+    {
+      "name": "MATLAB Tutorials By Mathworks",
+      "url": "https://www.mathworks.com/help/matlab/getting-started-with-matlab.html"
+    },
+    {
+      "name": "Interactive Lessons | MATLAB",
+      "url": "https://www.mathworks.com/products/matlab/interactive-lessons.html"
+    },
+    {
+      "name": "MATLAB - Online Courses",
+      "url": "https://www.coursera.org/courses?query=matlab"
+    }
+  ]
+}

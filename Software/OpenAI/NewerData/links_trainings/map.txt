@@ -1,0 +1,12 @@
+{
+  "software_name": "map",
+  "software_url": "https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/map",
+  "documentation_url": "https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/map",
+  "tutorial_materials":[
+    {
+      "tutorial_1":"https://r4ds.had.co.nz/iteration.html#the-map-functions",
+      "tutorial_2":"https://jennybc.github.io/purrr-tutorial/ls01_map-functions.html",
+      "tutorial_3":"https://bookdown.org/yih_huynh/Guide-to-R-Book/itreate-over-a-list-using-map-function.html"
+    }
+  ]
+}

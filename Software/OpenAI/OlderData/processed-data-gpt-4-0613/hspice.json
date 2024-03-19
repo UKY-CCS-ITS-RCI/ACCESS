@@ -1,0 +1,10 @@
+{
+  "softwareName": "HSPICE",
+  "links": {
+    "softwarePage": "https://www.synopsys.com/implementation-and-signoff/verification/hspice/hspice.html",
+    "documentation": "https://www.synopsys.com/cgi-bin/hspice/6.0/ds_wp.cgi?hspice",
+    "tutorial1": "http://www2.ee.unsw.edu.au/~pliu/teaching/F10/elec3104/node39.html",
+    "tutorial2": "https://web.stanford.edu/class/ee272/reader/A-hspice-tutorial.pdf",
+    "tutorial3": "https://www.youtube.com/watch?v=vl0v8lGEmlw"
+  }
+}

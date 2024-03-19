@@ -1,0 +1,22 @@
+
+{
+  "Homer": {
+    "software_page": "http://homer.ucsd.edu/homer/",
+    "documentation": "http://homer.ucsd.edu/homer/introduction/programs.html",
+    "training_materials": [
+      {
+        "title": "Homer Tutorial - Basic Analysis",
+        "url": "http://homer.ucsd.edu/homer/basicTutorial/index.html"
+      },
+      {
+        "title": "Homer Motif Tutorial",
+        "url": "http://homer.ucsd.edu/homer/motif/index.html"
+      },
+      {
+        "title": "HOMER - Bioinformatics of DNA regions",
+        "url": "https://www.youtube.com/watch?v=-52hUVJXsF4"
+      }
+    ]
+  }
+}
+

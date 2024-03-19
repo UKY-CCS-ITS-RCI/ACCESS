@@ -1,0 +1,11 @@
+{
+  "spoa": {
+    "software_page": "https://github.com/rvaser/spoa",
+    "documentation": "",
+    "tutorials_and_training": [
+      {
+        "bioinformatics_recipe_using_spoa": "https://bioinformaticsworkbook.org/Appendix/CommandLine/BioinformaticsRecipes/recipe3.html#gsc.tab=0"
+      }
+    ]
+  }
+}

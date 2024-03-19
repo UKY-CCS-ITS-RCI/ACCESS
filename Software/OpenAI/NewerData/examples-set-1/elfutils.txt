@@ -1,0 +1,41 @@
+Use Case: elfutils is used for reading, creating and modifying ELF binary files. You can use it to inspect binary files, libraries or executables and also to add sections to existing ELF files or modify the details of the existing sections. 
+
+Code details and examples:
+Code:
+1. Parsing an ELF File:
+
+Sample input file: example.out - a binary ELF file
+Example command to run elfutils: 
+```bash 
+readelf -a example.out
+```
+This will display all information about the ELF file- headers, sections, symbols, etc. 
+
+2. Creating an ELF file:
+
+```C
+#include <libelf.h>
+#include <gelf.h>
+
+int main()
+{
+    Elf *e;
+    char *id, tmp[128];
+    GElf_Ehdr ehdr;
+
+    if (elf_version(EV_CURRENT) == EV_NONE)
+        return 2;
+
+    e = elf_begin(0, NULL, NULL);
+    if (gelf_newehdr(e, EV_CURRENT) == NULL)
+        return 1;
+
+    if (gelf_getehdr(e, &ehdr) == NULL)
+        return 3;
+
+    id = elf_getident(e, NULL);
+}
+```
+This code creates a new ELF header in the ELF descriptor. Compile the C file and run the output file. The output ELF file will have the new section header added.
+
+Note: The code provided above is a sample code snippet to demonstrate elfutils functionality, the actual code will depend on the specific use case and requirements.

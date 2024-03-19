@@ -1,0 +1,32 @@
+{
+  "software_name": "picrust2",
+  "software_url": "https://github.com/picrust/picrust2",
+  "documentation": [
+    {
+      "guide": "PICRUSt2 Pipeline Tutorial",
+      "guide_url": "https://github.com/picrust/picrust2/wiki/PICRUSt2-pipeline"
+    },
+    {
+      "guide": "Full list of commands",
+      "guide_url": "https://github.com/picrust/picrust2/wiki/List-of-Commands"
+    },
+    {
+      "guide": "PICRUSt2 Pathway analysis",
+      "guide_url": "https://github.com/picrust/picrust2/wiki/Pathway-Prediction-Analysis"
+    },
+    {
+      "source": "PICRUSt2 Installation",
+      "source_url": "https://github.com/picrust/picrust2/wiki/Installation"
+    }
+  ],
+  "tutorials_and_training": [
+    {
+      "source": "Metagenomics Bioinformatics using PICRUSt2",
+      "source_url": "https://www.youtube.com/watch?v=ycPUJXQ8S_A"
+    },
+    {
+      "source": "Analyzing your QIIME2 data with PICRUSt2",
+      "source_url": "https://github.com/LangilleLab/microbiome_helper/wiki/Analyzing-your-QIIME2-data-with-PICRUSt2"
+    }
+  ]
+}

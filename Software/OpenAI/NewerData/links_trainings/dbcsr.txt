@@ -1,0 +1,12 @@
+{
+  "software_name": "dbcsr",
+  "web_url_links": {
+    "software_page": "https://github.com/cp2k/dbcsr",
+    "documentation_link": "https://media.readthedocs.org/pdf/dbcsr/latest/dbcsr.pdf",
+    "tutorials_and_training_materials": [
+      "https://www.cp2k.org/howto:dbcsr_intro",
+      "https://dbcsr.readthedocs.io/en/latest/",
+      "https://cps-vo.org/node/47239"
+    ]
+  }
+}

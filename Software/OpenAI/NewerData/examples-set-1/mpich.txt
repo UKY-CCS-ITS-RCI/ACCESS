@@ -1,0 +1,66 @@
+Use Case: MPI (Message Passing Interface) is a standardized and portable message-passing system. It used by programmers developing applications that require multiple nodes in a computer cluster to communicate with each other. In this particular case, we will proceed with MPICH - an open-source high-performance implementation of the MPI standard that includes several features like being truly multi-threaded, scalable etc. A simple MPI program goal is to communicate between different processes and get the job done.
+
+Code details and examples:
+
+Code:
+Let's consider a basic MPI program written in C that passes a message in a ring. The "message" is the integer rank of each process, which is incremented at each pass. 
+
+Below is an example of an MPI code.
+
+```c
+#include <mpi.h>
+#include <stdio.h>
+
+int main(int argc, char** argv) {
+    MPI_Init(NULL, NULL);
+
+    // Find out rank, size
+    int world_rank;
+    MPI_Comm_rank(MPI_COMM_WORLD, &world_rank);
+    int world_size;
+    MPI_Comm_size(MPI_COMM_WORLD, &world_size);
+
+    int token;
+    if (world_rank != 0) {
+        MPI_Recv(&token, 1, MPI_INT, world_rank - 1, 0, MPI_COMM_WORLD,
+             MPI_STATUS_IGNORE);
+        printf("Process %d received token %d from process %d\n", world_rank, token,
+           world_rank - 1);
+    } else {
+        // Set the token's value if you are process 0
+        token = -1;
+    }
+    MPI_Send(&token, 1, MPI_INT, (world_rank + 1) % world_size,
+         0, MPI_COMM_WORLD);
+
+    // Now process 0 can receive from the last process. This makes sure that at least one MPI_Send is called before finalizing.
+    if (world_rank == 0) {
+        MPI_Recv(&token, 1, MPI_INT, world_size - 1, 0, MPI_COMM_WORLD,
+             MPI_STATUS_IGNORE);
+        printf("Process %d received token %d from process %d\n", world_rank, token,
+           world_size - 1);
+    }
+
+    MPI_Finalize();
+}
+```
+
+MPICH uses `mpicc` to compile and `mpirun` to run the programs. Here is a sample of how you can compile and run the above C code:
+
+```bash
+mpicc -o mpi_hello_world mpi_hello_world.c
+mpirun -np 4 ./mpi_hello_world
+```
+
+The `-np 4` flag indicates that 4 processes should be used to execute the program.
+
+The code output will look something like this, but the exact order of the messages may vary because of the inherent parallelism:
+
+```
+Process 1 received token -1 from process 0
+Process 2 received token -1 from process 1
+Process 3 received token -1 from process 2
+Process 0 received token -1 from process 3
+```
+
+The message is passed around in a ring until it returns to process 0. Each process waits to receive a message before sending one. The only exception is process 0, which sends a message before receiving one.

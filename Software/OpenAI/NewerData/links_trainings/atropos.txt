@@ -1,0 +1,23 @@
+{
+  "software": "Atropos",
+  "software_url": "https://github.com/jdidion/atropos",
+  "documentation": [
+    {
+      "documentation_url": "https://atropos.readthedocs.io/en/latest/index.html"
+    }
+  ],
+  "training_materials": [
+    {
+      "tutorial_name": "Getting started with Atropos",
+      "tutorial_url": "https://atropos.readthedocs.io/en/latest/guide.html"
+    },
+    {
+      "tutorial_name": "Atropos command-line options",
+      "tutorial_url": "https://atropos.readthedocs.io/en/latest/commands.html"
+    },
+    {
+      "tutorial_name": "Atropos API",
+      "tutorial_url": "https://atropos.readthedocs.io/en/latest/api.html"
+    }
+  ]
+}

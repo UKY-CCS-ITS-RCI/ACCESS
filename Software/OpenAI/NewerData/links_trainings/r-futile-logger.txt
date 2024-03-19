@@ -1,0 +1,24 @@
+{
+  "softwareName": "r-futile-logger",
+  "softwarePage": "https://cran.r-project.org/web/packages/futile.logger/index.html",
+  "documentationLinks": [
+    {
+      "link": "https://cran.r-project.org/web/packages/futile.logger/futile.logger.pdf",
+      "description": "CRAN - Package futile.logger"
+    }
+  ],
+  "tutorialAndTrainingMaterials": [
+    {
+      "link": "https://www.rdocumentation.org/packages/futile.logger/versions/1.4.3",
+      "description": "RDocumentation for futile.logger"
+    },
+    {
+      "link": "https://stat.ethz.ch/R-manual/R-devel/library/base/html/warning.html",
+      "description": "R Warning/Error/Message Handling"
+    },
+    {
+      "link": "https://stackoverflow.com/questions/11728799/logging-with-futile-logger",
+      "description": "Stack Overflow - Using futile.logger"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Name": "fwdpy11",
+    "URL": "https://github.com/molpopgen/fwdpy11",
+    "Documentation": "https://fwdpy11.readthedocs.io/en/latest/",
+    "Tutorials_and_Training_Materials": {
+      "Tutorial1": "https://molpopgen.github.io/fwdpy11_tutorial/",
+      "Tutorial2": "https://molpopgen.github.io/fwdpy11_tutorial/rad.html",
+      "Training_Material1": "https://github.com/molpopgen/fwdpy11_tutorial",
+      "Training_Material2": "https://molpopgen.github.io/fwdpy11_tutorial_basic_q_and_a/"
+    }
+  }
+}

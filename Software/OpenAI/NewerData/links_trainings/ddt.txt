@@ -1,0 +1,11 @@
+{
+  "name": "DDT",
+  "software_page_link": "https://www.arm.com/products/development-tools/server-and-hpc/forge/ddt",
+  "documentation_links": [
+    "https://www.arm.com/products/development-tools/server-and-hpc/forge/help/2020.4/DDT/ArmDDT.pdf"
+  ],
+  "training_materials": [
+    "https://www.youtube.com/watch?v=MSu0SIB_lkM",
+    "https://www.hpc.dtu.dk/?page_id=1750"
+  ]
+}

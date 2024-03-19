@@ -1,0 +1,10 @@
+{
+    "ucc-cuda": {
+        "software_page": "https://developer.nvidia.com/unified-communication-collective-fabric",
+        "documentation": "https://docs.nvidia.com/cuda/",
+        "tutorials": [
+            "https://developer.nvidia.com/cuda-education/training",
+            "https://www.youtube.com/playlist?list=PL5B692fm6--tIGoOebwIIDGbGQvGJHyvw"
+        ]
+    }
+}

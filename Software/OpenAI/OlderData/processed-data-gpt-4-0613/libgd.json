@@ -1,0 +1,9 @@
+{
+    "software": "libgd",
+    "resources": {
+        "softwareHomepage": "https://libgd.github.io/",
+        "documentation": "https://libgd.github.io/manuals/2.3.0/index.html",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

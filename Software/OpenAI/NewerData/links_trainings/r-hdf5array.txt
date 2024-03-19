@@ -1,0 +1,14 @@
+{
+  "Software": "r-hdf5array",
+  "SoftwarePage": "https://bioconductor.org/packages/release/bioc/html/HDF5Array.html",
+  "AdditionalLinks": {
+    "Documentation": "https://bioconductor.org/packages/release/bioc/manuals/HDF5Array/man/HDF5Array.pdf",
+    "Training": [
+      "https://www.bioconductor.org/help/course-materials/2017/BiocIntroMay2017/2.WeeksOctHDF5.pdf"
+    ],
+    "Tutorial": [
+      "http://bioinformatics.oxfordjournals.org/content/31/20/3398.abstract",
+      "https://support.bioconductor.org/p/9132437/"
+    ]
+  }
+}

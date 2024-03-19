@@ -1,0 +1,25 @@
+Use Case: Downloading sequences from the SRA (Sequence Read Archive), which can be utilized in bioinformatics analyses.
+
+Code details and examples:
+
+Command to prefetch and download the SRA file:
+
+Code:
+
+    prefetch SRR390728
+
+The command above downloads SRR390728.sra file.
+
+Command to dump fastq file using fastq-dump:
+
+Code:
+
+    fastq-dump --split-files SRR390728
+
+The command above dumps the fastq file for the downloaded SRA file.
+
+Specification of Input Files:
+
+- The accession number (e.g., SRR390728) of the SRA sequence you want to download from NCBI.
+
+The above commands utilize the SRA toolkit to download and convert SRA files into fastq format. The commands should be run in a Unix/Linux shell.

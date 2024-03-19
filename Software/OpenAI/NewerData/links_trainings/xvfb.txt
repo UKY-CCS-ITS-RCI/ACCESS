@@ -1,0 +1,14 @@
+{
+  "Software": {
+    "name": "xvfb",
+    "Software page": "https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml",
+    "Documentation": {
+      "Link1": "https://www.x.org/releases/X11R7.7/doc/man/man1/Xvfb.1.xhtml"
+    },
+    "Tutorials and Training": {
+      "Link1": "https://www.youtube.com/watch?v=hh_prYnACb4",
+      "Link2": "https://linuxhint.com/install_xvfb_virtual_frame_buffer_ubuntu/",
+      "Link3": "https://www.systutorials.com/docs/linux/man/1-Xvfb/"
+    }
+  }
+}

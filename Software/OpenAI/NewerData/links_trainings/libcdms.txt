@@ -1,0 +1,13 @@
+{
+  "Software_Name": "libcdms",
+  "Software_URL": "https://anaconda.org/conda-forge/libcdms",
+  "Documentation": [
+  { "URL": "https://www.unidata.ucar.edu/software/cdms/cdms-2/tutorial.html" },
+  { "URL": "https://cdms.readthedocs.io/en/latest/" },
+  { "URL": "https://www.ncl.ucar.edu/Document/Manuals/Ref_Manual/NclFormatSupport.shtml#CDMS" }
+  ],
+  "Training_and_Tutorial": [
+  { "URL": "https://www.unidata.ucar.edu/software/cdms/docs.html" },
+  { "URL": "https://www.youtube.com/watch?v=_qhF9Xparation07g" }
+  ]
+}

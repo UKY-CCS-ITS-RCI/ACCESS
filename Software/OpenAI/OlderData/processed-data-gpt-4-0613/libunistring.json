@@ -1,0 +1,20 @@
+{
+  "softwareName": "libunistring",
+  "softwarePage": "https://www.gnu.org/software/libunistring/",
+  "documentationLinks": [
+    {
+      "name": "GNU libunistring manual",
+      "url": "https://www.gnu.org/software/libunistring/manual/libunistring.html"
+    },
+    {
+      "name": "GNU libunistring reference manual",
+      "url": "https://www.gnu.org/software/libunistring/reference.pdf"
+    }
+  ],
+  "trainingMaterials": [
+    {
+      "name": "GNU software",
+      "url": "https://www.gnu.org/software/software.html"
+    }
+  ]
+}

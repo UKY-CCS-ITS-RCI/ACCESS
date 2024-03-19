@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GraphicsMagick": {
+      "MainPage": "http://www.graphicsmagick.org/",
+      "Documentation": "http://www.graphicsmagick.org/documentation.html",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=1JGt6uSZzaE",
+        "http://www.graphicsmagick.org/utilities.html",
+        "https://www.sitepoint.com/cleaning-up-user-submitted-images-with-graphicsmagick/"
+      ]
+    }
+  }
+}

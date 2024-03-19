@@ -1,0 +1,12 @@
+{
+  "Software Name": "TAU",
+  "links": {
+    "software page": "https://tau.uoregon.edu/",
+    "documentation": "https://tau.uoregon.edu/documentation.htm",
+    "tutorials": [
+      "https://tau.uoregon.edu/tau.tutorial.htm",
+      "https://tau.uoregon.edu/perfexplorer.tutorial.htm",
+      "https://tau.uoregon.edu/paraprof.tutorials.htm"
+    ]
+  }
+}

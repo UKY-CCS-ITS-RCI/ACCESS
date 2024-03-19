@@ -1,0 +1,19 @@
+{
+  "Software": "CFITSIO",
+  "Website": "https://heasarc.gsfc.nasa.gov/fitsio/fitsio.html",
+  "Documentation": "https://heasarc.gsfc.nasa.gov/fitsio/c/c_user/cfitsio.html",
+  "Tutorials and Training material": [
+    {
+      "Title": "CFITSIO User’s Reference Guide",
+      "Link": "https://heasarc.gsfc.nasa.gov/docs/software/fitsio/c/c_user/cfitsio.html"
+    },
+    {
+      "Title": "FITSIO: a FITS subroutine library",
+      "Link": "https://fits.gsfc.nasa.gov/fits_libraries.html#FITSIO"
+    },
+    {
+      "Title": "CFITSIO Tutorial",
+      "Link": "https://heasarc.gsfc.nasa.gov/docs/software/fitsio/cexamples.html"
+    }
+  ]
+}

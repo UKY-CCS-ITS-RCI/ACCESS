@@ -1,0 +1,33 @@
+Use Case: To use Python for doing basic statistical analysis with the pandas library.
+
+Code Details and Examples: 
+
+ ```python
+ # Import Required Library
+ import pandas as pd
+ 
+ # Create a Sample Dataset
+ data = {"Name": ["Tom", "Nick", "John", "Tom", "John"],
+         "Age": [20, 21, 19, 20, 18],
+         "Rating": [4.23, 3.24, 3.98, 2.56, 3.20]}
+ df = pd.DataFrame(data)
+ 
+ # Display Basic Statistics
+ print(df.describe())
+ ```
+The input here is a dictionary with keys as "Name", "Age", "Rating" and values are the corresponding list of values. There is no specific format requirement for the dictionary. The sample output for this code will look like: 
+
+```
+             Age    Rating
+count   5.000000  5.000000
+mean   19.600000  3.442000
+std     1.140175  0.694285
+min    18.000000  2.560000
+25%    19.000000  3.200000
+50%    20.000000  3.240000
+75%    20.000000  3.980000
+max    21.000000  4.230000
+```
+This code snippet performs basic statistical computation like count, mean, min, 25%, 50%, 75%, and max.
+
+The command to run the python script is: `python filename.py` in the terminal, where filename.py is the python file containing this code.

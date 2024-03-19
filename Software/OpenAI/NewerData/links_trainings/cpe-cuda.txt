@@ -1,0 +1,12 @@
+{
+  "Software Name": "cpe-cuda",
+  "Software Info": "https://developer.nvidia.com/cuda-toolkit",
+  "Documentation": {
+    "Documentation Link 1": "https://docs.nvidia.com/cuda/ "
+  },
+  "Tutorial": {
+    "Tutorial Link 1": "https://developer.nvidia.com/cuda-education",
+    "Tutorial Link 2": "https://www.youtube.com/playlist?list=PLqovPL9ftq3bsM5JJ5OMXYVDR4C6MW0SG",
+    "Tutorial Link 3": "https://www.udemy.com/course/cuda-programming-masterclass/"
+  }
+}

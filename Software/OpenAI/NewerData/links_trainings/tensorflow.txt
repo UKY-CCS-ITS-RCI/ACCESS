@@ -1,0 +1,12 @@
+{
+  "SoftwareName": "TensorFlow",
+  "SoftwareLink": "https://www.tensorflow.org/",
+  "DocumentationLink": "https://www.tensorflow.org/guide",
+  "Tutorials_and_Training_Materials": {
+    "Tutorial1": "https://www.tensorflow.org/tutorials",
+    "Tutorial2": "https://www.tensorflow.org/tutorials/quickstart/beginner",
+    "Tutorial3": "https://www.tensorflow.org/tutorials/structured_data/imbalanced_data",
+    "Course1": "https://www.coursera.org/learn/tensorflow-in-practice",
+    "Course2": "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187"
+  }
+}

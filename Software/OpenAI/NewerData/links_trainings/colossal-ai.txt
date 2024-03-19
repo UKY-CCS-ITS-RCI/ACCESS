@@ -1,0 +1,19 @@
+{
+  "software_name": "Colossal-AI",
+  "software_homepage": "https://github.com/hpcaitech/ColossalAI",
+  "documentation_link": "https://colossal-ai.readthedocs.io/en/latest/",
+  "training_materials": [
+    {
+      "name": "Example code",
+      "url": "https://github.com/hpcaitech/ColossalAI/tree/main/examples"
+    }, 
+    {
+      "name": "API tutorials on ColossalAI",
+      "url": "https://colossal-ai.readthedocs.io/en/latest/tutorials/tutorial_1.html"
+    },
+    {
+      "name": "DeepSpeed vs Megatron vs ColossalAI comparison",
+      "url": "https://colossal-ai.readthedocs.io/en/latest/tutorials/tutorial_2.html"
+    }
+  ]
+}

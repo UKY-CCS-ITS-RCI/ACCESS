@@ -1,0 +1,15 @@
+{
+  "name": "FASTQ",
+  "software_url": "https://www.ncbi.nlm.nih.gov/sra/docs/submitformats/#fastq-files",
+  "documentation_url": "https://en.wikipedia.org/wiki/FASTQ_format",
+  "tutorial_materials": [
+    {
+      "name": "Introduction to FASTQ Files",
+      "url": "https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html"
+    },
+    {
+      "name": "FASTQ Format Tutorial",
+      "url": "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/fastq-format/#:~:text=FASTQ%20format%20is%20a%20text,ASCII%20offset%20of%2033%20(Phred%2B33)."
+    }
+  ]
+}

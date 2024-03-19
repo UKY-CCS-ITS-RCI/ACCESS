@@ -1,0 +1,13 @@
+{
+  "Software Name": "dace",
+  "Software Page": "https://spcl.github.io/dace/",
+  "Documentation": "https://spcl.github.io/dace/master/",
+  "Training & Tutorial Materials": [
+    {
+      "Tutorial 1": "https://spcl.github.io/dace/tutorial/1_mapreduce/",
+      "Tutorial 2": "https://spcl.github.io/dace/tutorial/2_sdfg/",
+      "Tutorial 3": "https://spcl.github.io/dace/tutorial/3_transformations/",
+      "Tutorial 4": "https://spcl.github.io/dace/tutorial/4_frontends/"
+    }
+  ]
+}

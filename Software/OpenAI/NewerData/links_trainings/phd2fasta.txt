@@ -1,0 +1,19 @@
+{
+  "software": "phd2fasta",
+  "website": "https://sourceforge.net/projects/phd2fasta/files/",
+  "documentation": "None",
+  "training_materials": [
+    {
+      "name": "SourceForge phd2fasta",
+      "url": "https://sourceforge.net/projects/phd2fasta/"
+    },
+    {
+      "name": "GitHub phd2fasta",
+      "url": "https://github.com/pgaudet/phd2fasta"
+    },
+    {
+      "name": "Bioinformatics phd2fasta",
+      "url": "https://bioinformatics.stackexchange.com/questions/4306/how-to-convert-phd-files-to-fasta"
+    }
+  ]
+}

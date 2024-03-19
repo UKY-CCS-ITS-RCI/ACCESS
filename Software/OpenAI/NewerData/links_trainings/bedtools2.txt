@@ -1,0 +1,21 @@
+{
+  "software_name": "bedtools2",
+  "software_info": {
+    "main_page": "https://bedtools.readthedocs.io",
+    "documentation": "https://bedtools.readthedocs.io/en/latest/content/bedtools-suite.html",
+    "tutorials_and_trainings": [
+      {
+        "tutorial_name": "A quick introduction to BEDTools",
+        "tutorial_link": "http://quinlanlab.org/tutorials/bedtools/bedtools.html"
+      },
+      {
+        "tutorial_name": "BEDTools tutorial from Baby Rhino Data Science",
+        "tutorial_link": "https://babyrhinodata.wordpress.com/2014/07/14/bedtools-tutorial/"
+      },
+      {
+        "tutorial_name": "BEDTools Tutorial from Galaxy Training",
+        "tutorial_link": "https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101/tutorial.html"
+      }
+    ]
+  }
+}

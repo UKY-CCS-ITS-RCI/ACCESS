@@ -1,0 +1,30 @@
+{
+  "software": {
+    "name": "glib",
+    "software_url": "https://developer.gnome.org/glib/",
+    "documentation": [
+      {
+        "name": "API Documentation",
+        "url": "https://developer.gnome.org/glib/stable/"
+      },
+      {
+        "name": "Manual",
+        "url": "https://developer.gnome.org/glib/stable/glib.html"
+      }
+    ],
+    "tutorials_and_trainings": [
+      {
+        "name": "Getting Started with GLib",
+        "url": "https://developer.gnome.org/glib-tutorial/stable/"
+      },
+      {
+        "name": "Introduction to Glib",
+        "url": "https://www.ibm.com/developerworks/linux/tutorials/l-glib/"
+      },
+      {
+        "name": "Glib Programming",
+        "url": "https://www.tutorialspoint.com/unix_terminal_online.php?page=glib-programming"
+      }
+    ]
+  }
+}

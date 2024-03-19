@@ -1,0 +1,25 @@
+Use Case: D-Bus is a messaging tool for software-based on the Linux desktop stack. It is effective in building a single API that can function across multiple bus systems. D-Bus is best for applications that involve communicating with various parts of the system, such as detecting system status, configuring network interfaces, etc.
+
+Code details and examples: Code
+
+Input file: D-Bus doesn’t use traditional file inputs, instead it works by sending and receiving messages between applications. The messages are structured data defined by a schema. The D-Bus specification contains the XML schema definition.
+
+Code Snippet:
+
+```python
+import dbus
+
+bus = dbus.SessionBus()
+
+helloservice = bus.get_object('org.freedesktop.SampleService', '/org/freedesktop/sample/object')
+hello = helloservice.get_dbus_method('hello', 'org.freedesktop.SampleInterface')
+
+print (hello())
+```
+
+Command to run the code:
+
+```shell
+python dbus_example.py
+```
+In this script, we're connecting to a hypothetical D-Bus service 'SampleService', getting an object '/sample/object' from it, calling the 'hello' method on this object which belongs to the 'SampleInterface', and printing the result. The method call 'hello' would correspond to the 'hello' element in the service's XML schema. In practice, the service and interface names, object path, and method would be decided by the service you're connecting to.

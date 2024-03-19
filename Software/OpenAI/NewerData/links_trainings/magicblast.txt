@@ -1,0 +1,19 @@
+{
+  "SoftwareName": "magicblast",
+  "MainURL": "https://ncbi.github.io/magicblast/",
+  "DocumentationURL": "https://ncbi.github.io/magicblast/manual/magicblast.html",
+  "Tutorials": [
+    {
+      "TutorialName": "Magic-Blast Introduction",
+      "TutorialURL": "https://www.youtube.com/watch?v=yBdYRZryF3g"
+    },
+    {
+      "TutorialName": "Magic-Blast Tutorial",
+      "TutorialURL": "https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/Magic-blast.html#gsc.tab=0"
+    },
+    {
+      "TutorialName": "MagicBLAST guide on SeqAnswers",
+      "TutorialURL": "http://seqanswers.com/forums/showthread.php?t=84606"
+    }
+  ]
+}

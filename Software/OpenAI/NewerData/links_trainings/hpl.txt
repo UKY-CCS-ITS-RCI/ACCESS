@@ -1,0 +1,13 @@
+{
+  "software": {
+    "HPL": {
+      "website": "https://www.netlib.org/benchmark/hpl/",
+      "documentation": "https://www.netlib.org/benchmark/hpl/hpl_tuning.html",
+      "tutorials": {
+        "HPC Tech Shorts": "https://www.youtube.com/watch?v=2GFNm5Mv4lQ",
+        "HPC University": "http://hpcuniversity.org",
+        "Tokyo Tech team's guide on HPL": "https://www.titech.ac.jp/graduate_school/disciplines/GlobalScientificInformationAndComputingCenter/pdf/HPL_guide_en_201807.pdf"
+      }
+    }
+  }
+}

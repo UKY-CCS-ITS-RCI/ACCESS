@@ -1,0 +1,14 @@
+{
+  "software": "ipython",
+  "Software_url": "https://ipython.org/",
+  "Documentation": {
+    "url1": "https://ipython.readthedocs.io/en/stable/",
+    "url2": "https://jupyter.org/documentation"
+  },
+  "Tutorials_and_Training_Materials": {
+    "url1": "https://ipython.readthedocs.io/en/stable/interactive/tutorial.html",
+    "url2": "https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook",
+    "url3": "https://nbviewer.jupyter.org/github/ipython/ipython/blob/3.x/examples/IPython%20Kernel/Index.ipynb",
+    "url4": "https://www.youtube.com/watch?v=VQBZ2MqWBZI"
+  }
+}

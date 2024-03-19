@@ -1,0 +1,16 @@
+{
+  "Software Name": "ncbi-vdb",
+  "Official Website": "https://www.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software",
+  "Documentation": [
+    {
+      "title": "About ncbi-vdb",
+      "url": "https://www.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software"
+    }
+  ],
+  "Training and Tutorial Material": [
+    {
+      "title": "SeqAnswers forum about ncbi-vdb",
+      "url": "http://seqanswers.com/"
+    }
+  ]
+}

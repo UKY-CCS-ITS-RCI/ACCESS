@@ -1,0 +1,13 @@
+{
+  "SoftwareName": "LAPACK",
+  "SoftwareURL": "http://www.netlib.org/lapack/",
+  "DocumentationURL": "http://www.netlib.org/lapack/lug/",
+  "TutorialsAndTrainingMaterials": [
+    {
+      "PythonLAPACKtutorial": "https://numpy.org/doc/stable/reference/routines.linalg.html",
+      "IntelMKLLAPACKExamples": "https://software.intel.com/content/www/us/en/develop/documentation/mkl-tutorial-c/top/solving-linear-least-squares-problems/using-lapack-routines.html",
+      "IntroductionToLAPACK": "https://www.nag.com/numeric/fl/nagdoc_fl25/examples/intro/introlapacke01.html",
+      "UsingLAPACKwithGCC": "https://solarianprogrammer.com/2017/02/25/using-gcc-lapack-osx/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "mpi4py": {
+    "softwarePage": "https://mpi4py.readthedocs.io/en/stable/",
+    "documentation": "https://mpi4py.readthedocs.io/en/stable/",
+    "tutorialAndTrainingMaterials": [
+      "https://mpi4py.readthedocs.io/en/stable/tutorial.html",
+      "https://nyu-cds.github.io/python-mpi/05-collective-communication/",
+      "https://materials.jeremybejarano.com/MPIwithPython/",
+      "https://github.com/jbornschein/mpi4py-examples"
+    ]
+  }
+}

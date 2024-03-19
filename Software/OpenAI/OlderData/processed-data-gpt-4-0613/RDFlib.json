@@ -1,0 +1,12 @@
+{
+  "Software Name": "RDFlib",
+  "links": {
+    "software page": "https://rdflib.readthedocs.io/",
+    "documentation": "https://rdflib.readthedocs.io/en/stable/gettingstarted.html",
+    "tutorials": [
+      "https://www.youtube.com/watch?v=8XJpagYj0M4",
+      "https://rdflib.readthedocs.io/en/stable/apidocs/rdflib.html",
+      "https://realpython.com/python-rdflib/"
+    ]
+  }
+}

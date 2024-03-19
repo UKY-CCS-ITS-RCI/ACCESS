@@ -1,0 +1,20 @@
+{
+  "Software Name": "R-Bioconductor BiocGenerics",
+  "Software URL": "https://bioconductor.org/packages/release/bioc/html/BiocGenerics.html",
+  "Documentation": [
+    {
+      "URL": "https://bioconductor.org/packages/release/bioc/vignettes/BiocGenerics/inst/doc/BiocGenerics.pdf",
+      "Description": "R-Bioconductor BiocGenerics PDF Documentation"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "https://bioconductor.org/packages/devel/bioc/vignettes/BiocGenerics/inst/doc/RDoc.html",
+      "Description": "R-Bioconductor Tutorial for BiocGenerics"
+    },
+    {
+      "URL": "https://www.bioconductor.org/help/course-materials/2017/BioC2017/Bioconductor_Generics_Tutorial.html",
+      "Description": "Bioconductor Generics Tutorial from BioC 2017"
+    }
+  ]
+}

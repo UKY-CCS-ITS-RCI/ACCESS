@@ -1,0 +1,12 @@
+{
+  "software_name": "r-zlibbioc",
+  "software_page": "https://bioconductor.org/packages/release/bioc/html/zlibbioc.html",
+  "additional_links": {
+    "documentation": "https://bioconductor.org/packages/release/bioc/vignettes/zlibbioc/inst/doc/zlibbioc.pdf",
+    "tutorials_and_training": [
+      {
+        "Bioconductor Package Vignette": "https://bioconductor.org/packages/devel/bioc/vignettes/zlibbioc/inst/doc/zlibbioc.pdf"
+      }
+    ]
+  }
+}

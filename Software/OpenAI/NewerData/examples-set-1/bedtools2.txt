@@ -1,0 +1,41 @@
+Use Case: Bedtools is a powerful toolset for genome arithmetic. It allows one to intersect, merge, count, complement, and shuffle genomic intervals from multiple files in widely-used genomic file formats such as BAM, BED, GFF/GTF, VCF.
+
+Code details and examples:
+
+Code:
+
+Here is an example. Assume you have two BED files, `file1.bed` and `file2.bed`.
+
+File1.bed
+```
+chr1    100    200
+chr1    200    300
+chr1    300    400
+```
+
+File2.bed
+```
+chr1    150   350
+```
+
+You can use the `bedtools intersect` command to find overlapping intervals in these two BED files.
+
+The command would be:
+
+```bash
+bedtools intersect -a file1.bed -b file2.bed
+```
+
+This command would output overlapping intervals:
+
+```bash
+chr1    150    200
+chr1    200    300
+chr1    300    350
+```
+
+Specifications on Input Files:
+- The BED files should be tab separated and should not contain header lines.
+- The files should contain genomic intervals (chromosome, start, end).
+- The start position is 0-based and the end position is 1-based.
+- The intervals in the BED files should be sorted based on the chromosome and start position. If not sorted, you can use `bedtools sort` command to sort them.

@@ -1,0 +1,10 @@
+{
+    "softwareName": "maeparser",
+    "softwareLink": "https://github.com/schrodinger/maeparser",
+    "additionalLinks": {
+        "documentationLink": "https://github.com/schrodinger/maeparser/blob/master/README.md",
+        "tutorialLinks": [
+            "https://github.com/schrodinger/maeparser/tree/master/test"
+        ]
+    }
+}

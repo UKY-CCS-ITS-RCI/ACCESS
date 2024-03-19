@@ -1,0 +1,13 @@
+{
+  "Software": "RELION",
+  "Web_Page": "https://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page",
+  "Documentation": {
+    "User_Manual": "https://www2.mrc-lmb.cam.ac.uk/relion/index.php/User_Manual"
+  },
+  "Tutorials": {
+    "3D_classification_tutorial": "https://www2.mrc-lmb.cam.ac.uk/relion/index.php/3D_classification_tutorial",
+    "3D_auto-refine_tutorial": "https://www2.mrc-lmb.cam.ac.uk/relion/index.php/3D_auto-refine_tutorial",
+    "CTF_correction_tutorial": "https://www2.mrc-lmb.cam.ac.uk/relion/index.php/CTF_correction_tutorial",
+    "Particle_polishing_tutorial": "https://www2.mrc-lmb.cam.ac.uk/relion/index.php/Particle_polishing_tutorial"
+  }
+}

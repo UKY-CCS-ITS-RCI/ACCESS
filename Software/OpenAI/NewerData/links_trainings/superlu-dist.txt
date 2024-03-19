@@ -1,0 +1,25 @@
+{
+  "software_name": "superlu-dist",
+  "software_page_link": "https://github.com/xiaoyeli/superlu_dist",
+  "documentation": 
+  [
+    {
+      "link": "https://portal.nersc.gov/project/sparse/superlu/SuperLU_DIST_Doc.pdf"
+    }
+  ],
+  "training_and_tutorial_materials": 
+  [
+    {
+      "title": "Sparse Matrix Factorization on Distributed-Memory Machines",
+      "link": "http://www.csm.ornl.gov/workshops/sparsematrixfactorization/presentations/day1/superlu_par.pdf"
+    },
+    {
+      "title": "SuperLU_DIST: A Scalable Distributed-Memory Sparse Direct Solver for Unsymmetric Linear Systems",
+      "link": "https://computation.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods/download/4-american.pdf"
+    },
+    {
+      "title": "Installation Guide for PETSc and SuperLU_DIST",
+      "link": "https://paws.kettering.edu/~jhuggins/letters/parallel/amath_483_583/petsc_superlu_dist_install.pdf"
+    }
+  ]
+}

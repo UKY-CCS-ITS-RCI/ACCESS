@@ -1,0 +1,88 @@
+Use Case: Used for parallel computing on NVIDIA graphics processing units (GPUs).
+
+Code details and examples: Code
+
+1. CUDA C/C++ 
+
+This is an example of a code for summing two large arrays using CUDA. 
+
+The input requirement for this code is two large arrays of equal size. Here, the size is mentioned as N.
+
+The code is designed to perform the addition in parallel.
+
+```C++
+#define N   (1024*1024)
+#define FULL_DATA_SIZE   (N*20)
+
+__global__ void add( int *a, int *b, int *c, int offset ) {
+    int i = offset + threadIdx.x + blockIdx.x*blockDim.x;
+    c[i] = a[i] + b[i];
+}
+
+int main() {
+    int *a, *b, *c;
+    int *dev_a, *dev_b, *dev_c;
+
+    // allocate the memory on the CPU
+    a = (int*)malloc( FULL_DATA_SIZE*sizeof(int) );
+    b = (int*)malloc( FULL_DATA_SIZE*sizeof(int) );
+    c = (int*)malloc( FULL_DATA_SIZE*sizeof(int) );
+
+    // allocate the memory on the GPU
+    HANDLE_ERROR( cudaMalloc( (void**)&dev_a, FULL_DATA_SIZE * sizeof(int) ) );
+    HANDLE_ERROR( cudaMalloc( (void**)&dev_b, FULL_DATA_SIZE * sizeof(int) ) );
+    HANDLE_ERROR( cudaMalloc( (void**)&dev_c, FULL_DATA_SIZE * sizeof(int) ) );
+
+    // fill in the host memory with data
+    for (int i=0; i<FULL_DATA_SIZE; i++) {
+        a[i] = i;
+        b[i] = i*2;
+    }
+
+    // computer the size of just one 'full' section
+    int size = FULL_DATA_SIZE / N;
+
+    // start the timer
+    StartTimer();
+
+    // now loop over full data, in bite-sized chunks
+    for (int i=0; i<N; i++) {
+        // copy the input data to the GPU
+        cudaMemcpy( dev_a, a, size * sizeof(int), cudaMemcpyHostToDevice );
+        cudaMemcpy( dev_b, b, size * sizeof(int), cudaMemcpyHostToDevice );
+
+        add<<< size/256, 256 >>>( dev_a, dev_b, dev_c, 0 );
+       
+        cudaMemcpy( c, dev_c, size * sizeof(int), cudaMemcpyDeviceToHost );
+    }
+
+    printf( "Time taken:  %3.1f ms\n", GetTimer() );
+
+    // check that the results are correct
+    for (int i=0; i<FULL_DATA_SIZE; i++) {
+        if ((a[i] + b[i]) != c[i]) {
+            printf( "Error:  %d + %d != %d\n", a[i], b[i], c[i] );
+            return -1;
+        }
+    }
+
+    // free memory on the gpu side
+    cudaFree( dev_a );
+    cudaFree( dev_b );
+    cudaFree( dev_c );
+   
+    // free memory on the cpu side
+    free( a );
+    free( b );
+    free( c );
+
+    return 0;
+}
+```
+
+You can compile and run this code using the nvcc command: 
+
+```bash
+$ nvcc add.cu 
+$ ./a.out
+```

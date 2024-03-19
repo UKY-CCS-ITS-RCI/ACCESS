@@ -1,0 +1,17 @@
+{
+    "Software": "pybedtools",
+    "Software_URL": "https://daler.github.io/pybedtools/",
+    "Documentation": [
+        {
+            "URL": "https://bedtools.readthedocs.io/en/latest/content/tools/intersect.html"
+        }
+    ],
+    "Tutorials_and_Training": [
+        {
+            "URL": "https://daler.github.io/pybedtools/intervals.html"
+        },
+        {
+            "URL": "https://bedtools.readthedocs.io/en/latest/content/bedtools-suite.html"
+        }
+    ]
+}

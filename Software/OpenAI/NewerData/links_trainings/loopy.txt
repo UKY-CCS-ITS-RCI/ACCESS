@@ -1,0 +1,19 @@
+{
+    "software_name": "loopy",
+    "software_page_link": "https://documen.tician.de/loopy/",
+    "documentation_link": "https://documen.tician.de/loopy/tutorial.html",
+    "training_material_links": [
+        {
+            "name": "Loopy Tutorial",
+            "url": "https://documen.tician.de/loopy/tutorial.html"
+        },
+        {
+            "name": "Loopy in PyOpenCL",
+            "url": "https://indico.cern.ch/event/626641/contributions/2539957/attachments/1473277/2231118/170613_Loopy.pdf"
+        },
+        {
+            "name": "Using Loopy in a Notebook",
+            "url": "https://nbviewer.jupyter.org/github/inducer/loopy/blob/main/examples/tutorial.ipynb"
+        ]
+    ]
+}

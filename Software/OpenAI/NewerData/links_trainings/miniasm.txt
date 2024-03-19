@@ -1,0 +1,16 @@
+{
+  "Software": "miniasm",
+  "Software_URL": "https://github.com/lh3/miniasm",
+  "Documentation": [
+    {
+      "Documentation_URL": "https://github.com/lh3/miniasm/blob/master/README.md"
+    }],
+  "Tutorials_Training": [
+    {
+      "Tutorial_URL": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006542"
+    }, 
+    {
+      "Training_URL": "http://pbio121.github.io/HPCBio_Workshops/Oct1-F15/UsingMiniasm.html"
+    }
+  ]
+}

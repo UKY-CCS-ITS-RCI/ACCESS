@@ -1,0 +1,11 @@
+{
+  "software_name": "tpmcalculator",
+  "website_link": "https://github.com/ncbi/TPMCalculator",
+  "documentation_links": [
+    "https://github.com/ncbi/TPMCalculator/blob/master/README.md"
+  ],
+  "tutorial_links": [
+    "https://github.com/ncbi/TPMCalculator/blob/master/docs/TPMCalculator.md",
+    "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE114687"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "software": "r-tidyselect",
+  "software_page": "https://cran.r-project.org/web/packages/tidyselect/index.html",
+  "additional_links": {
+    "documentation": "https://cran.r-project.org/web/packages/tidyselect/tidyselect.pdf",
+    "tutorials": [
+      {
+        "name": "tidyselect functions tutorial",
+        "url": "https://www.tidysensor.tw/2019/08/24/tidyselect-function-family/"
+      },
+      {
+        "name": "Use tidyselect verbs",
+        "url": "https://dplyr.tidyverse.org/articles/programming.html"
+      }
+    ],
+    "training_materials": [
+      {
+        "name": "R for Data Science: Transform",
+        "url": "https://r4ds.had.co.nz/transform.html"
+      },
+      {
+        "name": "Data cleaning with tidyverse",
+        "url": "https://www.wiley.com/en-us/Data+Cleaning-p-9781839213106"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Software Name": "pbmm2",
+  "Software Page": "https://github.com/PacificBiosciences/pbmm2",
+  "Documentation": "https://github.com/PacificBiosciences/pbmm2#readme",
+  "Training and Tutorial Materials": [
+    {
+      "URL": "https://www.biorxiv.org/content/10.1101/630087v1.full"
+    },
+    {
+      "URL": "https://github.com/PacificBiosciences/pbmm2#using-pbmm2"
+    }
+  ]
+}

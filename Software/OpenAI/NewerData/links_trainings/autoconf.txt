@@ -1,0 +1,12 @@
+{
+  "Software": "autoconf",
+  "Website_Link": "https://www.gnu.org/software/autoconf/autoconf.html",
+  "Documentation": {
+    "GNU": "https://www.gnu.org/software/autoconf/manual/autoconf.html"
+    },
+  "Tutorial_Materials": {
+    "Autotools Tutorial": "http://www.gnu.org/software/automake/manual/html_node/Autotools-Tutorial.html",
+    "GNU Online Manual": "https://www.gnu.org/software/autoconf/manual/",
+    "Autoconf Macro API": "https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.69/html_node/Autoconf-Language.html"
+  }
+}

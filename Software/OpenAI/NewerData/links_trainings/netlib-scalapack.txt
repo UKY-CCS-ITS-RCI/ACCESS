@@ -1,0 +1,24 @@
+{
+  "software_name": "netlib-scalapack",
+  "software_url": "http://www.netlib.org/scalapack/",
+  "documentation_links": [
+    {
+      "doc_name": "User Guide",
+      "doc_url": "http://www.netlib.org/scalapack/slug/"
+    },
+    {
+      "doc_name": "Installation Guide",
+      "doc_url": "http://www.netlib.org/scalapack/#_installation"
+    }
+  ],
+  "tutorial_materials_links": [
+    {
+      "tutorial_name": "ScaLAPACK Tutorial",
+      "tutorial_url": "https://www.cs.utexas.edu/users/flame/web/scalapack/tutorial/main.html"
+    },
+    {
+      "tutorial_name": "YouTube - ScaLAPACK Tutorial",
+      "tutorial_url": "https://www.youtube.com/watch?v=qa4uXdujKv0"
+    }
+  ]
+}

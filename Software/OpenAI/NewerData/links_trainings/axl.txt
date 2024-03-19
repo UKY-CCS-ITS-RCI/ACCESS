@@ -1,0 +1,15 @@
+{
+  "name": "axl",
+  "softwarePage": "https://github.com/gismo/axl",
+  "documentation": "https://readthedocs.org/projects/axl/downloads/pdf/latest/",
+  "trainingResources": [
+    {
+      "name": "Basic Geometric Objects",
+      "link": "http://www.gismo.at/doc/html/tutorial_components.html"
+    },
+    {
+      "name": "Getting Started with Axl",
+      "link": "https://www.geocities.ws/terrigu/build/axl/index.html"
+    }
+  ]
+}

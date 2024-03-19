@@ -1,0 +1,11 @@
+{
+  "anvio": {
+    "softwareHomepage": "http://merenlab.org/software/anvio/",
+    "documentation": "http://merenlab.org/software/anvio/help/",
+    "tutorials": [
+      "http://merenlab.org/2016/06/22/anvio-tutorial-v2/",
+      "http://merenlab.org/2016/12/01/additional-anvio-tutorials/",
+      "https://github.com/merenlab/anvio/wiki/Tutorials"
+    ]
+  }
+}

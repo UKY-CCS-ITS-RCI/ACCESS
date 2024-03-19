@@ -1,0 +1,10 @@
+{
+  "softwareName": "Cython",
+  "links": {
+    "softwarePage": "https://cython.org/",
+    "documentation": "https://cython.readthedocs.io/en/latest/",
+    "officialTutorial": "https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html",
+    "tutorial1": "https://pythonprogramming.net/introduction-and-basics-cython-tutorial/",
+    "tutorial2": "https://www.youtube.com/watch?v=JKCjsRDffXo"
+  }
+}

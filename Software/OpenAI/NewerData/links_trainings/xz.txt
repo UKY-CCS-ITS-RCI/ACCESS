@@ -1,0 +1,19 @@
+{
+  "software_name": "xz",
+  "software_URL": "https://tukaani.org/xz/",
+  "documentation_URL": "https://www.freebsd.org/cgi/man.cgi?query=xz&sektion=1",
+  "tutorial_links": [
+    {
+      "tutorial_name": "Introduction to xz",
+      "tutorial_URL": "https://linux.die.net/man/1/xz"
+    },
+    {
+      "tutorial_name": "Working with xz",
+      "tutorial_URL": "https://ostechnix.com/how-to-compress-and-decompress-files-in-linux-using-gzip-bzip2-and-xz-commands/"
+    },
+    {
+      "tutorial_name": "Compression with xz",
+      "tutorial_URL": "https://www.howtoforge.com/tutorial/linux-xz-command/"
+    }
+  ]
+}

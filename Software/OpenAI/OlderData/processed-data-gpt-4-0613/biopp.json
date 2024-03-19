@@ -1,0 +1,18 @@
+
+{
+  "Bio++": {
+    "software_page": "http://www.biopp.org/",
+    "documentation": "http://www.biopp.org/docs/biopp/latest/bppsuite/",
+    "training_materials": [
+      {
+        "title": "Bio++: a set of C++ libraries for sequence analysis, phylogenetics, molecular evolution and population genetics",
+        "url": "https://academic.oup.com/bioinformatics/article/22/8/1035/236316"
+      },
+      {
+        "title": "Bio++ Tutorial on Sequence Analysis",
+        "url": "https://peerj.com/preprints/3328/"
+      }
+    ]
+  }
+}
+

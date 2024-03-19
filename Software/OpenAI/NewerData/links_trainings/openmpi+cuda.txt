@@ -1,0 +1,11 @@
+{
+  "software": "openmpi+cuda",
+  "website": "https://www.open-mpi.org/",
+  "documentation": "https://www.open-mpi.org/doc/",
+  "training_materials": {
+    "openMPI for beginners": "https://www.open-mpi.org/faq/?category=running#mpi-cuda-support",
+    "openMPI tutorial on Intel's website": "https://software.intel.com/content/www/us/en/develop/tools/mpi-library/tutorial-open-mpi.html",
+    "openMPI tutorial on GitHub": "https://github.com/adriano-pinaffo/openmpi-cuda"
+  },
+  "conda_package":"https://anaconda.org/conda-forge/openmpi"
+}

@@ -1,0 +1,49 @@
+Use Case: OpenPGM is a reliable network transport layer protocol in multicasting, optimized for applications ranging from financial platforms to large scale multicast file transfers. 
+
+Code details and examples: 
+
+OpenPGM does not typically utilize user-produced input files, since it operates on a protocol level, below direct end-user interaction. However, applications that use OpenPGM may use it as follows:
+
+You could set up the PGM socket like:
+
+Code:
+```
+#include <pgm/pgm.h>
+
+pgm_error_t* err = NULL;
+pgm_sock_t* sock = NULL;
+if (!pgm_init (&err)) {
+    /* handle error "err" */
+}
+
+struct pgm_sockaddr_t sa;
+memset (&sa, 0, sizeof(sa));
+sa.sa_port = 7500;
+sa.sa_addr.sport = pgm_gsi_create_from_hostname();
+
+if (!pgm_sock_create (&sock, &sa, 16, &err)) {
+    /* handle error "err" */
+}
+
+pgm_sock_start (sock, FALSE, &err)
+```
+
+To read from the socket, you do something like:
+Code:
+```
+size_t len;
+struct pgm_msgv_t msgv[10];
+int status = pgm_recvmsgv (sock, msgv, 10, 0, &len)
+if (status == PGM_IO_STATUS_NORMAL) {
+  for (int i = 0; i < 10 && len > 0; ++i) {
+    /* can read "msgv[i].iov_len" bytes from "msgv[i].iov_base" */
+    len -= msgv[i].iov_len; 
+  }
+} else {
+  /* handle error */
+}
+```
+
+The code snippets were written following the OpenPGM C API guide: http://openpgm.googlecode.com/svn/trunk/doc/html/index.html
+
+There are no commands to run the code as it all depends on how you compile your C program. If you have a Makefile, it will look something like `make yourprogram`.

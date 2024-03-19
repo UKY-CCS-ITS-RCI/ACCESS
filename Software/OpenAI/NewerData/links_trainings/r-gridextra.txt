@@ -1,0 +1,21 @@
+{
+    "software": {
+        "name": "R GridExtra",
+        "software_url": "https://cran.r-project.org/web/packages/gridExtra/index.html",
+        "documentation": "https://cran.r-project.org/web/packages/gridExtra/gridExtra.pdf",
+        "tutorials": [
+            {
+                "tutorial_name": "GridExtra Tutorial",
+                "tutorial_url": "https://www.stat.auckland.ac.nz/~paul/grid/doc/grid.pdf"
+            },
+            {
+                "tutorial_name": "Arrange multiple ggplot2 in one page",
+                "tutorial_url": "https://rpkgs.datanovia.com/ggpubr/reference/arrange.html"
+            },
+            {
+                "tutorial_name": "GGPlot2 Visualisation - Using GridExtra",
+                "tutorial_url": "https://web.stanford.edu/class/bios221/labs/ggplot2/ggplot2_T2.html"
+            }
+        ]
+    }
+}

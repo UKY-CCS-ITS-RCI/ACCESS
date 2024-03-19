@@ -1,0 +1,15 @@
+{
+    "name": "breseq",
+    "software_page": {
+      "link": "https://barricklab.org/twiki/bin/view/Lab/ToolsBacterialGenomeResequencing"
+    },
+    "documentation": {
+      "link": "https://barricklab.org/twiki/bin/view/Lab/ToolsBacterialGenomeResequencing"
+    },
+    "training_materials": [
+      {
+        "title": "Tutorial",
+        "link": "https://barricklab.org/twiki/bin/view/Lab/ToolsBacterialGenomeResequencing"
+      }
+    ]
+}

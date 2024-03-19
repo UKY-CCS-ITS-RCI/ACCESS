@@ -1,0 +1,14 @@
+{
+  "Software_Details": {
+    "Software_Name": "Poppler",
+    "Software_Link": "https://poppler.freedesktop.org/",
+    "Documentation": {
+      "Doc_URL_1": "https://people.freedesktop.org/~aacid/docs/qt5/"
+    },
+    "Tutorials_Trainings": {
+      "Tutorial_Link_1": "https://wiki.scribus.net/canvas/Working_with_transparent_PDF_files_-_a_workaround",
+      "Tutorial_Link_2": "http://manpages.ubuntu.com/manpages/focal/man1/pdfimages.1.html",
+      "Training_Link_1": "https://www.openprinting.org/kpfeifle/Poppler/PopplerIntroduction.html"
+    }
+  }
+}

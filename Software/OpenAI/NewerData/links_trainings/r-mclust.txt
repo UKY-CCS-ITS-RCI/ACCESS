@@ -1,0 +1,21 @@
+{
+  "softwareName": "r-mclust",
+  "softwarePage": "https://mclust-org.github.io/mclust/",
+  "additionalLinks": {
+    "documentation": "https://cran.r-project.org/web/packages/mclust/mclust.pdf",
+    "tutorialMaterials": [
+      {
+        "title": "Introduction to mclust",
+        "link": "https://mclust-org.github.io/mclust/docs/mclust.pdf"
+      },
+      {
+        "title": "mclust Tutorial1",
+        "link": "https://www.stat.washington.edu/mclust/versions/3/mclust-tutorial-3.4.pdf"
+      },
+      {
+        "title": "mclust Tutorial2",
+        "link": "http://www.stat.washington.edu/research/reports/2012/tr597.pdf"
+      }
+    ]
+  }
+}

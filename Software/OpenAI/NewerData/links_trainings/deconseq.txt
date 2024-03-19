@@ -1,0 +1,8 @@
+{
+  "Software": "deconseq",
+  "Official_Web_page": "http://deconseq.sourceforge.net/",
+  "Conference_Publication": "http://bioinformatics.oxfordjournals.org/content/30/1/104",
+  "Documentation": "http://deconseq.sourceforge.net/manual.html",
+  "Tutorial_Guide": "https://manpages.ubuntu.com/manpages/trusty/man1/deconseq.1.html",
+  "Source_Code": "http://deconseq.cvs.sourceforge.net/deconseq/"
+}

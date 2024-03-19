@@ -1,0 +1,7 @@
+{
+  "softwareName": "xdusage",
+  "softwareURL": "https://github.com/ubccr/xdusage",
+  "documentationLink": "https://ubccr.freshdesk.com/support/solutions/articles/5000684260-xdusage",
+  "tutorialLinks": ["https://ubccr.freshdesk.com/support/solutions/articles/5000684260-xdusage"],
+  "otherRelevantLinks": ["https://www.xdmod.org/"]
+}

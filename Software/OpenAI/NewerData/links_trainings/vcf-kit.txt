@@ -1,0 +1,16 @@
+{
+  "Software": "VCF-kit",
+  "Software_URL": "https://github.com/AndersenLab/VCF-kit",
+  "Documentation": [
+    {
+      "Documentation_URL": "https://vcf-kit.readthedocs.io/en/latest/"
+    }
+  ],
+  "Training_Materials": [
+    {
+      "Tutorial_URL_1": "https://andersenlab.org/Getting-Started-With-Variant-Calling/",
+      "Tutorial_URL_2": "https://www.youtube.com/watch?v=LFRQxIk_sHs",
+      "Tutorial_URL_3": "https://bioinformatics.stackexchange.com/questions/2115/how-to-merge-multiple-vcf-files-into-one"
+    }
+  ]
+}

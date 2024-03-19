@@ -1,0 +1,33 @@
+{
+  "software_name": "r-cluster",
+  "software_page": "https://cran.r-project.org/web/packages/cluster/index.html",
+  "documentation": "https://cran.r-project.org/web/packages/cluster/cluster.pdf",
+  "training_materials": [
+    {
+      "description": "Cluster Analysis Basics and Extensions",
+      "url": "https://www.datanovia.com/en/lessons/clustering-distance-measures"
+    },
+    {
+      "description": "R cluster package tutorial",
+      "url": "http://rischanlab.github.io/datamining/2017/02/03/clusterRpkg.html"
+    },
+    {
+      "description": "Cluster Analysis & Visualization in R",
+      "url": "https://www.r-exercises.com/2019/05/26/cluster-analysis-visualization"
+    },
+    {
+      "description": "Cluster Analysis with R",
+      "url": "https://www.datacamp.com/community/tutorials/cluster-analysis-r"
+    }
+  ],
+  "additional_resources": [
+    {
+      "description": "R Cluster package on Stackoverflow",
+      "url": "https://stackoverflow.com/questions/tagged/r+cluster"
+    },
+    {
+      "description": "R Cluster Analysis: Quick Start Guide",
+      "url": "https://www.silota.com/docs/recipes/r-cluster-analysis.html"
+    }
+  ]
+}

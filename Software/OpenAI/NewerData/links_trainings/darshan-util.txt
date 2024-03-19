@@ -1,0 +1,26 @@
+{
+   "software_name":"darshan-util",
+   "software_info":{
+      "category":"HPC tool",
+      "official_website":"https://www.mcs.anl.gov/research/projects/darshan/",
+      "documentation":"https://www.mcs.anl.gov/research/projects/darshan/docs/darshan-util.html",
+      "training_tutorials":[
+         {
+            "name":"Darshan Training",
+            "url":"https://www.youtube.com/watch?v=ZkG4sHlnKiw"
+         },
+         {
+            "name":"Slide deck explanation of Darshan",
+            "url":"https://www.alcf.anl.gov/sites/www.alcf.anl.gov/files/darshan_tutorial_lu2013.pdf"
+         },
+         {
+            "name":"Darshan documentation",
+            "url":"https://www.mcs.anl.gov/research/projects/darshan/docs/darshan-runtime.html"
+         },
+         {
+            "name":"How to use Darshan",
+            "url":"https://www.alcf.anl.gov/user-guides/using-darshan"
+         }
+      ]
+   }
+}

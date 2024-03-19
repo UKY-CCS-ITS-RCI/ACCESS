@@ -1,0 +1,14 @@
+{
+  "software_name": "maturin",
+  "software_page": "https://pypi.org/project/maturin/",
+  "additional_links": {
+    "documentation": [
+      "https://maturin.readthedocs.io/"
+    ],
+    "training_material": [
+      "https://github.com/PyO3/maturin/blob/main/DEVELOPMENT.md",
+      "https://www.youtube.com/watch?v=aW0yFwpBkS4",
+      "https://github.com/PyO3/maturin/issues/473"
+    ]
+  }
+}

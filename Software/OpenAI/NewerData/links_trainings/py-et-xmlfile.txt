@@ -1,0 +1,23 @@
+{
+  "software": "py-et-xmlfile",
+  "official_page": "https://pypi.org/project/et-xmlfile/",
+  "documentation": "https://et-xmlfile.readthedocs.io/en/latest/",
+  "training_and_tutorials": [
+    {
+      "link": "https://www.geekhideout.com/py-xml-file.shtml",
+      "title": "Python XML with ElementTree: Beginner's Guide"
+    },
+    {
+      "link": "https://stackabuse.com/reading-and-writing-xml-files-in-python-with-pandas/",
+      "title": "Reading and Writing XML Files in Python with pandas"
+    },
+    {
+      "link": "https://www.datacamp.com/community/tutorials/python-xml-elementtree",
+      "title": "Python XML with ElementTree: Beginner's Guide"
+    },
+    {
+      "link": "https://www.w3schools.com/python/python_xml.asp",
+      "title": "Python XML"
+    }
+  ]
+}

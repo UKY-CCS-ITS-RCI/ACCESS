@@ -1,0 +1,12 @@
+
+{
+  "Morpheus": {
+    "Software Page": "https://morpheus.gitlab.io/",
+    "Documentation": "https://morpheus.gitlab.io/getting-started/",
+    "Tutorials": [
+      "https://morpheus.gitlab.io/examples/",
+      "https://morpheus.gitlab.io/tutorial/"
+    ]
+  }
+}
+

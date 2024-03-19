@@ -1,0 +1,21 @@
+{
+  "software": "BEAST",
+  "details": {
+    "software_url": "http://beast.community/",
+    "documentation_url": "http://beast.community/documentation.html",
+    "tutorial_materials": [
+      {
+        "title": "Intermediate BEAUti/BEAST Workshop",
+        "url": "https://taming-the-beast.org/tutorials/Intermediate-BEAST-workshop/"
+      },
+      {
+        "title": "Substitution model adequacy testing",
+        "url": "https://taming-the-beast.org/tutorials/SubstitutionModelAdequacy/"
+      },
+      {
+        "title": "Phylogsnetic analysis of SARS-CoV-2",
+        "url": "https://taming-the-beast.org/tutorials/Phylogenetics-of-SARS-CoV-2/"
+      }
+    ]
+  }
+}

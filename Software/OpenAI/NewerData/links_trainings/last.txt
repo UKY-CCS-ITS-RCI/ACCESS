@@ -1,0 +1,10 @@
+{
+  "last": {
+    "softwarePage": "https://last.cbrc.jp/",
+    "documentation": "https://last.cbrc.jp/doc/last.html",
+    "tutorialMaterials": [
+      "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/next-generation-sequencing-tutorials/sequence-alignmentmap-alignment-tutorials/",
+      "https://www.youtube.com/watch?v=Yd_P7FovD6A"
+    ]
+  }
+}

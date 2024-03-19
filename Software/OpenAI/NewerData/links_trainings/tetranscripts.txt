@@ -1,0 +1,9 @@
+{
+  "TETRANSCRIPTS": {
+    "Software_page": "https://github.com/XiaopanQ/TETRANSCRIPTS",
+    "Documentation": "The documentation is not available",
+    "Tutorials_and_Training": {
+      "Tutorial": "The tutorial information is not directly available"
+    }
+  }
+}

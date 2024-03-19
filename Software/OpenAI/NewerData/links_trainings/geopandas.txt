@@ -1,0 +1,27 @@
+{
+  "Software": "geopandas",
+  "Software_URL": "https://geopandas.org/",
+  "Documentation": [
+    {
+      "URL": "https://geopandas.org/docs.html"
+    }
+  ],
+  "Tutorials_Training": [
+    {
+      "URL": "https://geopandas.org/getting_started.html",
+      "Title": "Getting Started"
+    },
+    {
+      "URL": "https://geopandas.org/docs/user_guide/io.html",
+      "Title": "Input/Output"
+    },
+    {
+      "URL": "https://automating-gis-processes.github.io/site/notebooks/L2/geopandas-basics.html",
+      "Title": "Automating GIS processes - Geopandas Basics"
+    },
+    {
+      "URL": "https://www.datacamp.com/community/tutorials/geospatial-data-python",
+      "Title": "DataCamp - Working with Geospatial Data in Python"
+    }
+  ]
+}

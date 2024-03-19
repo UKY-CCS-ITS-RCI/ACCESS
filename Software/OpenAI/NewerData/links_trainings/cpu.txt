@@ -1,0 +1,10 @@
+{
+  "cpu": {
+    "softwarePage": "https://en.wikipedia.org/wiki/Central_processing_unit",
+    "documentation": "https://www.computerhope.com/jargon/c/cpu.htm",
+    "tutorial": [
+      "https://www.youtube.com/watch?v=cNN_tTXABUA",
+      "https://www.khanacademy.org/computing/computer-science/computer-architecture/v/introduction-to-the-cpu"
+    ]
+  }
+}

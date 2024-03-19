@@ -1,0 +1,20 @@
+{
+  "tassel": {
+    "software_page": "https://www.maizegenetics.net/tassel",
+    "documentation": "https://www.maizegenetics.net/tassel/docs/TasselPipelineGBS.pdf",
+    "tutorials_and_training": [
+      {
+        "name": "GBS Pipeline Tutorial",
+        "url": "https://www.maizegenetics.net/tassel/tassel-5-standalone-manual/tassel-5-ziplip-dna-pipeline-overview"
+      },
+      {
+        "name": "TASSEL 3.0 YouTube Tutorial",
+        "url": "https://www.youtube.com/watch?v=_UUeHjAkxL8"
+      },
+      {
+        "name": "TASSEL 5.0 GBSv2.7 Pipeline Tutorial",
+        "url": "https://www.youtube.com/watch?v=Qgalkl3jT7I"
+      }
+    ]
+  }
+}

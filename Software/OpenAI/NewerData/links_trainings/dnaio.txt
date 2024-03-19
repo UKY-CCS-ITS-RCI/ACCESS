@@ -1,0 +1,10 @@
+{
+  "Software": "dnaio",
+  "Website": "https://pypi.org/project/dnaio/",
+  "Documentation": "https://github.com/marcelm/dnaio",
+  "Tutorials_Training": {
+    "Tutorial_1": "https://anaconda.org/bioconda/dnaio",
+    "Tutorial_2": "https://bioconda.github.io/recipes/dnaio/README.html",
+    "Tutorial_3": "https://libraries.io/pypi/dnaio"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "software_name": "aiohttp",
+    "software_page": "https://docs.aiohttp.org/en/stable/index.html",
+    "links": {
+        "documentation": "https://docs.aiohttp.org/en/stable/",
+        "tutorials_and_training_materials": [
+            {
+                "name": "aiohttp for beginners",
+                "url": "https://docs.aiohttp.org/en/stable/tutorial.html"
+            },
+            {
+                "name": "aiohttp Workshop by Python Software Foundation",
+                "url": "https://us.pycon.org/2018/schedule/presentation/116/"
+            },
+            {
+                "name": "aiohttp - Async HTTP client/server for asyncio and Python",
+                "url": "https://aiohttp.readthedocs.io/en/stable/"
+            },
+            {
+                "name": "aiohttp Basics by Nicholas C. Zakas",
+                "url": "https://www.nczonline.net/blog/2017/10/03/aiohttp-basics-in-python/"
+            }
+        ]
+    }
+}

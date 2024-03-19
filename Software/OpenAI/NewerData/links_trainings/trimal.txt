@@ -1,0 +1,19 @@
+{
+  "software_name": "trimal",
+  "software_page": {
+    "link": "http://trimal.cgenomics.org/"
+  },
+  "documentation": {
+    "link": "http://trimal.cgenomics.org/trimal"
+  },
+  "training_materials": [
+    {
+      "tutorial_name": "Using trimAl to remove gaps from alignments",
+      "tutorial_link": "http://bioinfweb.org/wiki/index.php/Trimal_tutorial"
+    },
+    {
+      "tutorial_name": "Automated alignment trimming in phylogenetic analyses",
+      "tutorial_link": "https://academic.oup.com/bioinformatics/article/25/15/1972/309801"
+    }
+  ]
+}

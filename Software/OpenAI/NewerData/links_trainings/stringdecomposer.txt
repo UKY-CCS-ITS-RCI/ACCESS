@@ -1,0 +1,15 @@
+{
+  "software_name": "stringdecomposer",
+  "software_url": "https://github.com/jbelyeu/StringDecomposer",
+  "documentation_url": "https://stringdecomposer.readthedocs.io/en/latest/",
+  "training_materials": [
+    {
+      "tutorial_name": "StringDecomposer: Hierarchical decomposition of contig sets",
+      "tutorial_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006268"
+    },
+    {
+      "tutorial_name": "A Beginner's Guide to the StringDecomposer Package",
+      "tutorial_url": "https://www.geeksforgeeks.org/a-beginners-guide-to-the-stringdecomposer-package/"
+    }
+  ]
+}

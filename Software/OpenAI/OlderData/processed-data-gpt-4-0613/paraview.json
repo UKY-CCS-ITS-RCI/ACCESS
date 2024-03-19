@@ -1,0 +1,29 @@
+{
+    "software": "Paraview",
+    "link": "https://www.paraview.org/",
+    "additional_links": {
+        "documentation": "https://www.paraview.org/documentation/",
+        "training_materials": [
+            {
+                "title": "Kitware and ParaView Training",
+                "url": "https://www.paraview.org/services/training/"
+            },
+            {
+                "title": "ParaView Tutorial (YouTube)",
+                "url": "https://www.youtube.com/watch?v=amxLadn_S8M"
+            },
+            {
+                "title": "ParaView Guide",
+                "url": "https://www.paraview.org/wp-content/uploads/2018/11/ParaViewGuide-5.6.0.pdf"
+            },
+            {
+                "title": "ParaView Tutorials by Matplotlib",
+                "url": "https://matplotlib.org/tutorials/index.html#introductory"
+            },
+            {
+                "title": "For Developers - ParaView Wiki",
+                "url": "https://www.paraview.org/Wiki/ParaView"
+            }
+        ]
+    }
+}

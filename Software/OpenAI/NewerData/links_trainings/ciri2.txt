@@ -1,0 +1,22 @@
+{
+  "software_name": "ciri2",
+  "software_link": "https://sourceforge.net/projects/ciri/",
+  "software_documentation": [
+    {
+      "link": "https://academic.oup.com/bioinformatics/article/32/4/511/1744022"
+    },
+    {
+      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006403"
+    }
+  ],
+  "tutorials_training_materials": [
+    {
+      "name": "CIRI tutorial",
+      "link": "https://www.youtube.com/watch?v=f8tc2FsejGk"
+    },
+    {
+      "name": "CIRI: an efficient and unbiased algorithm for de novo circular RNA detection",
+      "link": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0581-3"
+    }
+  ]
+}

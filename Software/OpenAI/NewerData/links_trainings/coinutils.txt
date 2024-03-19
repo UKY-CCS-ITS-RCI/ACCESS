@@ -1,0 +1,19 @@
+{
+  "coinutils": {
+    "software_page": "https://projects.coin-or.org/CoinUtils",
+    "documentation": "https://coin-or.github.io/userguide/CoinUtils.html",
+    "isPythonPackage": false,
+    "isBioinformaticsTool": false,
+    "isHPCTool": false,
+    "training_materials": [
+      {
+        "title": "CoinUtils Tutorial Part 1",
+        "url": "https://www.youtube.com/watch?v=Ot0jPygt5EA"
+      },
+      {
+        "title": "CoinUtils Tutorial Part 2",
+        "url": "https://www.youtube.com/watch?v=9F8QSDF1j4M"
+      }
+    ]
+  }
+}

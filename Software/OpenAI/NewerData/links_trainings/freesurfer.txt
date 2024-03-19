@@ -1,0 +1,20 @@
+{
+  "freesurfer": {
+    "SoftwarePage": "https://surfer.nmr.mgh.harvard.edu/",
+    "Documentation": "https://surfer.nmr.mgh.harvard.edu/fswiki",
+    "Tutorials": [
+      {
+        "URL": "https://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial",
+        "Title": "FsTutorial"
+      },
+      {
+        "URL": "https://surfer.nmr.mgh.harvard.edu/fswiki/FreeviewGuide",
+        "Title": "Freeview Guide"
+      },
+      {
+        "URL": "https://surfer.nmr.mgh.harvard.edu/fswiki/ReconAllTraining",
+        "Title": "Recon All Training"
+      }
+    ]
+  },
+}

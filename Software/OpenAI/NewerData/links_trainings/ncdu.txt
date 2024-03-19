@@ -1,0 +1,23 @@
+{
+  "name": "ncdu",
+  "home_url": "https://dev.yorhel.nl/ncdu",
+  "doc_url": "https://dev.yorhel.nl/ncdu/man",
+  "tutorial_materials": [
+    {
+      "url": "https://www.tecmint.com/install-ncdu-ncurses-disk-usage-in-linux/",
+      "title": "How to Install ncdu"
+    },
+    {
+      "url": "https://www.linode.com/docs/guides/disk-usage-with-du-and-ncdu/",
+      "title": "Analyzing Disk Usage with du and ncdu"
+    },
+    {
+      "url": "https://www.cyberciti.biz/tips/howto-find-linux-directory-size.html",
+      "title": "Linux Directory Size: How to find directory size in Linux"
+    },
+    {
+      "url": "https://www.geekhideout.com/ncdu.shtml",
+      "title": "ncdu: NCurses Disk Usage"
+    }
+  ]
+}

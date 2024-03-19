@@ -1,0 +1,27 @@
+{
+  "Software": "nvhpc",
+  "Info": {
+    "Official Page": "https://developer.nvidia.com/hpc-sdk",
+    "Documentation": "https://docs.nvidia.com/hpc-sdk/index.html",
+    "Training Material": [
+      {
+        "nvhpc": {
+          "title": "nvhpc Getting Started Guide",
+          "url": "https://docs.nvidia.com/hpc-sdk/compilers/hpc-compilers-user-guide/index.html"
+        }
+      },
+      {
+        "nvhpc": {
+          "title": "nvhpc SDK Overview Video Tutorial",
+          "url": "https://www.youtube.com/watch?v=oBmO6_HI0JM"
+        }
+      },
+      {
+        "nvhpc": {
+          "title": "NVIDIA HPC SDK Code Migration Guides",
+          "url": "https://developer.nvidia.com/hpc-sdk/migration-guides"
+        }
+      }
+    ]
+  }
+}

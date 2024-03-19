@@ -1,0 +1,24 @@
+{
+  "neuron": {
+    "software_page": "https://neuronsimulator.github.io/nrn/", 
+    "documentation": "https://neuronsimulator.github.io/nrn/",
+    "tutorials_and_training_materials": [
+      {
+        "title": "NEURON Course",
+        "link": "https://neuron.yale.edu/neuron/static/docs/neuronpython/course/index.html"
+      },
+      {
+        "title": "Modeling realistic synapses in NEURON",
+        "link": "https://neuron.yale.edu/neuron/static/docs/neuronpython/models/synapses.html"
+      },
+      {
+        "title": "NEURON on SourceForge - Tutorial",
+        "link": "https://sourceforge.net/p/nrn/wiki/Tutorial/"
+      },
+      {
+        "title": "NEURON for Newbies - Wikibooks",
+        "link": "https://en.wikibooks.org/wiki/NEURON_for_Newbies"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "software_name": "Schrodinger",
+    "software_link": "https://www.schrodinger.com/",
+    "documentation_links": [
+        {
+            "doc_name": "User Manual",
+            "doc_link": "https://www.schrodinger.com/support/center/manuals"
+        },
+        {
+            "doc_name": "Online technical support",
+            "doc_link": "https://www.schrodinger.com/supportcenter"
+        }
+    ],
+    "training_materials": [
+        {
+            "training_name": "Tutorials",
+            "training_link": "https://www.schrodinger.com/support/center/tutorials"
+        },
+        {
+            "training_name": "Webinars",
+            "training_link": "https://www.schrodinger.com/webinars"
+        }
+    ]
+}

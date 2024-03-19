@@ -1,0 +1,12 @@
+{
+    "software_name": "py-scikit-learn",
+    "software_url": "https://scikit-learn.org/stable/",
+    "documentation_url": "https://scikit-learn.org/stable/user_guide.html",
+    "tutorial_and_training_materials": {
+        "First_material_url": "https://scikit-learn.org/stable/tutorial/index.html",
+        "Second_material_url": "https://scikit-learn.org/stable/auto_examples/index.html",
+        "Third_material_url": "https://www.datacamp.com/community/tutorials/machine-learning-python",
+        "Fourth_material_url": "https://www.coursera.org/learn/machine-learning-with-python",
+        "Fifth_material_url": "https://www.udemy.com/topic/scikit-learn/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "Software Name": "svaba",
+  "Software Link": "https://github.com/walaj/svaba",
+  "Documentation": "https://github.com/walaj/svaba/wiki",
+  "Tutorial Links": {
+    "1": "https://github.com/walaj/svaba/wiki/Example-1:-single-sample-tumor-normal-svaba-run",
+    "2": "https://github.com/walaj/svaba/wiki/Example-2:-germline-structural-variant-detection",
+    "3": "https://github.com/walaj/svaba/wiki/Example-3:-contig-alignment"
+  },
+  "Training Materials": {
+    "1": "https://github.com/walaj/svaba-examples",
+    "2": "https://www.biostars.org/p/319555/",
+    "3": "https://www.biostars.org/p/294975/"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "software": "PyTorch Lightning",
+  "categories": ["scientific software", "python libraries"],
+  "package_info": {
+    "conda-forge": "https://anaconda.org/conda-forge/pytorch-lightning",
+    "pypi": "https://pypi.org/project/pytorch-lightning/"
+  },
+  "links": {
+    "software_page": "https://www.pytorchlightning.ai/",
+    "documentation": "https://pytorch-lightning.readthedocs.io/",
+    "training_materials": [
+      {
+        "name": "PyTorch Lightning 101",
+        "url": "https://pytorch-lightning.readthedocs.io/en/latest/starter/introduction_guide.html"
+      },
+      {
+        "name": "Coursera course on Deep Learning using pytorch lightning",
+        "url": "https://www.coursera.org/projects/deep-learning-pytorch-lightning"
+      },
+      {
+        "name": "PyTorch Lightning Tutorials",
+        "url": "https://pytorch-lightning.readthedocs.io/en/stable/notebooks/lightning_examples/mnist-hello-world.html"
+      },
+      {
+        "name": "PyTorch Lightning YouTube Channel",
+        "url": "https://www.youtube.com/c/PytorchLightning/videos"
+      }
+    ]
+  }
+}

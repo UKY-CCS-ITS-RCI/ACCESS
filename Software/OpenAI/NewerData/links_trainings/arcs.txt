@@ -1,0 +1,11 @@
+{
+  "software_name": "arcs",
+  "software_url": "https://github.com/bcgsc/arcs",
+  "documentation_url": "https://github.com/bcgsc/arcs/README.md",
+  "tutorial_links": [
+    {
+      "description": "ARCS method",
+      "url": "https://genome.cshlp.org/content/early/2018/02/16/gr.221028.117"
+    }
+  ]
+}

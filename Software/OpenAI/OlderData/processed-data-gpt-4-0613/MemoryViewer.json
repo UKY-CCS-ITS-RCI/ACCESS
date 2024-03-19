@@ -1,0 +1,9 @@
+{
+"Software": "MemoryViewer",
+"Link_to_software_page": "https://www.dllme.com/dll/files/memoryviewer_dll.html",
+"Additional_links": {
+   "Documentation": "https://appdoc.app/artifact/com.github.leyan95.richeditor/richeditor",
+   "Tutorial_Materials": ["https://www.w3schools.com/sitesearch/results.aspx?q=memory+viewer"],
+    "Training": ["https://www.youtube.com/watch?v=6tB_7p4iEps"]
+ }
+}

@@ -1,0 +1,12 @@
+{
+  "Software Name": "STAR",
+  "links": {
+    "software page": "https://github.com/alexdobin/STAR",
+    "documentation": "https://github.com/alexdobin/STAR/blob/master/doc/STARmanual.pdf",
+    "tutorials": [
+      "https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/05_alignment.html",
+      "https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html",
+      "https://www.youtube.com/watch?v=Xwv0TANNO5g"
+    ]
+  }
+}

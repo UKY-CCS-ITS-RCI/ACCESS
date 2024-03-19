@@ -1,0 +1,23 @@
+{
+  "Software": "Bokeh",
+  "Web_URL": "https://bokeh.org/",
+  "Documentation": "https://docs.bokeh.org/",
+  "Training": [
+    {
+      "Training_Name": "Introduction to Bokeh",
+      "Training_URL": "https://www.geeksforgeeks.org/introduction-to-bokeh/"
+    },
+    {
+      "Training_Name": "Python Bokeh – Introduction",
+      "Training_URL": "https://www.tutorialspoint.com/python_bokeh/index.htm"
+    },
+    {
+      "Training_Name": "Data Visualization with Bokeh",
+      "Training_URL": "https://programminghistorian.org/en/lessons/visualizing-with-bokeh"
+    },
+    {
+      "Training_Name": "Interactive Data Visualization in Python With Bokeh",
+      "Training_URL": "https://realpython.com/python-bokeh/"
+    }
+  ]
+}

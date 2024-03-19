@@ -1,0 +1,12 @@
+{
+    "Software Name": "python-parasail",
+    "Software Page": "https://github.com/jeffdaily/parasail",
+    "Documentation": "https://parasail-python.readthedocs.io/en/latest/",
+    "Training and Tutorial":
+    [
+        {
+            "Title": "Using the Parasail Python Module",
+            "Link": "https://github.com/jeffdaily/parasail/wiki/Using-the-Parasail-Python-Module"
+        }
+    ]
+}

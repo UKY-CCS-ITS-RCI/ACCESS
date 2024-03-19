@@ -1,0 +1,10 @@
+{
+  "Software Name": "ncbi-genome-download",
+  "Software Page": "https://github.com/kblin/ncbi-genome-download",
+  "Documentation": "https://github.com/kblin/ncbi-genome-download#readme",
+  "Tutorials & Training Materials": [
+    "https://anaconda.org/bioconda/ncbi-genome-download",
+    "https://hub.docker.com/r/staphb/ncbi-genome-download",
+    "https://github.com/StaPH-B/docker-builds/blob/master/ncbi-genome-download/0.2.12/Dockerfile"
+  ]
+}

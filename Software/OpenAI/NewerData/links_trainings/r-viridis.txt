@@ -1,0 +1,15 @@
+{
+  "software_name": "r-viridis",
+  "software_page_link": "https://cran.r-project.org/web/packages/viridis/index.html",
+  "additional_links": {
+    "documentation": [
+      "https://cran.r-project.org/web/packages/viridis/viridis.pdf",
+      "https://rdrr.io/cran/viridis/man/viridis.html"
+    ],
+    "tutorial_materials": [
+      "https://www.datanovia.com/en/lessons/viridis-color-palettes-in-r/",
+      "https://www.rdocumentation.org/packages/viridis/versions/0.5.1/topics/viridis",
+      "https://sjmgarnier.github.io/viridisLite/"
+    ]
+  }
+}

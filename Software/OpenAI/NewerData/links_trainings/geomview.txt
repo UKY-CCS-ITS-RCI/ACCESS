@@ -1,0 +1,12 @@
+{
+    "Software": {
+      "Name": "Geomview",
+      "Website": "https://www.geomview.org/",
+      "Documentation": {
+        "URL-1": "https://www.geomview.org/docs/html/Manual-page.html"
+      },
+      "Training and Tutorials": {
+        "URL-1": "https://www.geomview.org/docs/html/Tutorial-intro.html"
+      }
+    }
+}

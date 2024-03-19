@@ -1,0 +1,13 @@
+{
+  "Software": "Extrae",
+  "Links": {
+    "Software Page": "https://tools.bsc.es/extrae",
+    "Documentation": "https://tools.bsc.es/doc/extrae/",
+    "Tutorials and Training Materials": [
+      "https://tools.bsc.es/sites/default/files/documentation/extrae_tutorial_v2.pdf",
+      "https://www.youtube.com/watch?v=o7SqREVRIdU",
+      "http://repositorio.unb.br/bitstream/10482/33809/1/ARTIGO_ParallelPerformanceAnalysis.pdf",
+      "https://manpages.debian.org/testing/extrae/extrae.7.en.html"
+    ]
+  }
+}

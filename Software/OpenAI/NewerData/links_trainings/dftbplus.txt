@@ -1,0 +1,24 @@
+{
+  "Software Name": "dftbplus",
+  "Software URL": "https://www.dftbplus.org/",
+  "Documentation": [
+    {
+      "Title": "Official Documentation",
+      "Link": "https://www.dftbplus.org/documentation/"
+    }
+  ],
+  "Training Materials": [
+    {
+      "Title": "YouTube Tutorial",
+      "Link": "https://www.youtube.com/watch?v=nipBeDXIpZI"
+    },
+    {
+      "Title": "Introduction to DFTB+",
+      "Link": "https://moldis-group.github.io/tutorials/dftb/"
+    },
+    {
+      "Title": "DFTB+ Tutorial on QuantumATK",
+      "Link": "https://docs.quantumwise.com/tutorials/dftb/dftb.html"
+    }
+  ]
+}

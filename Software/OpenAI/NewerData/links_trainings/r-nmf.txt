@@ -1,0 +1,11 @@
+{
+  "Software": "r-nmf",
+  "Website": "https://bioconductor.org/packages/release/bioc/html/NMF.html",
+  "Documentation": {
+    "Bioconductor_NMF": "https://bioconductor.org/packages/release/bioc/vignettes/NMF/inst/doc/NMF-vignette.pdf"
+  },
+  "Tutorials_and_Training": {
+    "bioinformaticsonline_r-nmf": "https://bioinformaticsonline.com/bookmarks/view/63418/nonnegative-matrix-factorization-nmf-bioconductor-tutorial",
+    "Woven_NMF": "https://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/node20.html"
+  }
+}

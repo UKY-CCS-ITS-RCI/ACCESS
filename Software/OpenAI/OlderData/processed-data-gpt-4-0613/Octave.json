@@ -1,0 +1,32 @@
+{
+  "software": "Octave",
+  "website": "https://www.gnu.org/software/octave/",
+  "documentation": [
+    {
+      "title": "GNU Octave Documentation",
+      "url": "https://www.gnu.org/software/octave/doc/interpreter/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "GNU Octave Wiki",
+      "url": "https://wiki.octave.org/Wiki_home_page"
+    },
+    {
+      "title": "Programs and Scripts Tutorial - GNU Octave",
+      "url": "https://www.gnu.org/software/octave/doc/v4.2.1/Scripts.html"
+    },
+    {
+      "title": "Octave Programming Tutorial",
+      "url": "https://en.wikibooks.org/wiki/Octave_Programming_Tutorial"
+    },
+    {
+      "title": "Octave/MATLAB Tutorial",
+      "url": "http://www.scipy-lectures.org/intro/matlab/matlab.html"
+    },
+    {
+      "title": "GNU Octave Beginner's Guide",
+      "url": "https://en.wikibooks.org/wiki/GNU_Octave"
+    }
+  ]
+}

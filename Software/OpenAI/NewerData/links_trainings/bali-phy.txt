@@ -1,0 +1,21 @@
+{
+  "software_name": "bali-phy",
+  "software_web_page": "https://www.bali-phy.org/",
+  "docs": {
+    "documentation_link": "https://www.bali-phy.org/manual/main.pdf",
+    "education_materials": [
+      {
+        "title": "Reference Manual",
+        "link": "https://www.bali-phy.org/manual/main.pdf"
+      },
+      {
+        "title": "Examples of Use",
+        "link": "https://www.bali-phy.org/examples/"
+      },
+      {
+        "title": "Tutorial",
+        "link": "https://www.bali-phy.org/tutorial/tutorial.pdf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "CCL": {
+        "software_page": "https://github.com/LSSTDESC/CCL",
+        "documentation": "https://readthedocs.org/projects/lsstdesc-ccl/downloads/pdf/latest/",
+        "tutorials_and_trainings": [
+            "https://ccl.readthedocs.io/en/latest/tutorial.html",
+            "https://github.com/LSSTDESC/CCL/tree/master/examples",
+            "https://github.com/LSSTDESC/CCL/blob/master/benchmarks/README.md"
+        ]
+    }
+}

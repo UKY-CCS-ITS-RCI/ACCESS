@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GTK3": {
+      "MainPage": "https://www.gtk.org/",
+      "Documentation": "https://developer.gnome.org/gtk3/stable/",
+      "Tutorials": [
+        "https://developer.gnome.org/gtk3/stable/gtk-getting-started.html",
+        "https://www.youtube.com/watch?v=ZKCON2MEO9Y",
+        "https://prognotes.net/2015/05/gtk-3-c-code-hello-world-tutorial-as-3-separate-files-in-netbeans-ide/"
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Software_Name": "iDev",
+  "Software_URL": "https://www.tacc.utexas.edu/support/user-guides/idev",
+  "Documentation": [
+    {
+      "Documentation_URL": "https://www.tacc.utexas.edu/support/user-guides/idev"
+    }
+  ],
+  "Training_Materials": [
+    {
+      "Training_URL": "https://www.tacc.utexas.edu/training"
+    },
+    {
+      "Tutorial_URL": "https://learn.tacc.utexas.edu/"
+    }
+  ]
+}

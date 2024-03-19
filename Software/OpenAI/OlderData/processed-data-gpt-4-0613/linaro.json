@@ -1,0 +1,16 @@
+{
+  "software": {
+    "name": "linaro",
+    "software_url": "https://www.linaro.org/",
+    "documentation_url": "https://www.linaro.org/documentation/",
+    "training_materials": {
+      "Getting Started Guide": "https://www.linaro.org/start/",
+      "Linaro Developer Wiki": "https://wiki.linaro.org/",
+      "Linaro Connect Resources": "https://connect.linaro.org/resources/"
+    },
+    "tutorial_materials": {
+      "Linaro Training": "https://training.linaro.org/",
+      "YouTube Tutorials": "https://www.youtube.com/user/LinaroOrg/videos"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "Software_Name": "icu",
+    "Software_URL": "http://site.icu-project.org/",
+    "Documentation_Link": "https://unicode-org.github.io/icu/userguide/",
+    "Tutorial_Materials": [
+        {
+            "Tutorial_Name": "ICU4C API Documentation",
+            "Tutorial_URL": "https://unicode-org.github.io/icu-docs/apidoc/released/icu4c/"
+        },
+        {
+            "Tutorial_Name": "ICU User Guide",
+            "Tutorial_URL": "http://userguide.icu-project.org/"
+        },
+        {
+            "Tutorial_Name": "ICU4C Setup Instructions",
+            "Tutorial_URL": "https://unicode-org.github.io/icu-docs/apidoc/released/icu4c/unicode/usetup.html#setup"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "genomicconsensus": {
+    "software_page": "https://github.com/PacificBiosciences/GenomicConsensus",
+    "documentation_links": [
+      "https://github.com/PacificBiosciences/GenomicConsensus/blob/master/doc/API.rst",
+      "https://github.com/PacificBiosciences/GenomicConsensus/wiki"
+    ],
+    "training_tutorials": [
+      "https://github.com/PacificBiosciences/GenomicConsensus/blob/master/doc/API.rst#examples"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "softwareName": "Yasm",
+  "softwarePage": "https://yasm.tortall.net/",
+  "documentation": "https://yasm.tortall.net/Documentation.html",
+  "tutorials": [
+    "https://www.tortall.net/projects/yasm/wiki/YasmUserManual",
+    "https://www.tortall.net/projects/yasm/manual/html/manual.html",
+    "https://stackoverflow.com/questions/tagged/yasm",
+    "https://github.com/yasm/yasm"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Software": "Metis",
+  "Web_page": "http://glaros.dtc.umn.edu/gkhome/metis/metis/overview",
+  "Documentation": "http://glaros.dtc.umn.edu/gkhome/metis/metis/download",
+  "Tutorials_and_Training_Materials": [
+    {
+      "Link_1": "https://hypertextbook.com/chaos/60-2/metis-graph-partitioning-software/",
+      "Link_2": "https://www.youtube.com/watch?v=RU1ujs7db6k"
+    }
+  ]
+}

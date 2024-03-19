@@ -1,0 +1,15 @@
+{
+  "name": "GCC: GNU Compiler Collection",
+  "software_url": "https://gcc.gnu.org/",
+  "documentation_url": "https://gcc.gnu.org/onlinedocs/",
+  "tutorials": [
+    {
+      "name": "GCC and Make - A Tutorial on how to compile, link and build C/C++ applications",
+      "url": "https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html"
+    },
+    {
+      "name": "GCC Tutorial for beginners",
+      "url": "https://www.tutorialspoint.com/compiler_design/compiler_design_tutorial.pdf"
+    }
+  ]
+}

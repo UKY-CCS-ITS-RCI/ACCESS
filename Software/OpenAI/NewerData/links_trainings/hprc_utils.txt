@@ -1,0 +1,15 @@
+{
+  "software_name": "hprc_utils",
+  "software_page": "https://github.com/hprc/hprc-utils",
+  "documentation": "https://github.com/hprc/hprc-utils/blob/master/README.md",
+  "training_materials": [
+    {
+      "name": "GitHub Tutorial",
+      "url": "https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners"
+    },
+    {
+      "name": "Git Codecademy Course",
+      "url": "https://www.codecademy.com/learn/learn-git"
+    }
+  ]
+}

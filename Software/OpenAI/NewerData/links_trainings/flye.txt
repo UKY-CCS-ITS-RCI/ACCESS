@@ -1,0 +1,12 @@
+{
+  "flye": {
+    "software_page": "https://github.com/fenderglass/Flye",
+    "documentation": "https://github.com/fenderglass/Flye/blob/flye/docs/USAGE.md",
+    "tutorial_and_training_materials": {
+      "usage": "https://github.com/fenderglass/Flye/blob/flye/docs/USAGE.md",
+      "algorithm_overview": "https://github.com/fenderglass/Flye/blob/flye/docs/ALGORITHM.md",
+      "readme": "https://github.com/fenderglass/Flye#readme",
+      "troubleshooting_guiode": "https://github.com/fenderglass/Flye/blob/flye/docs/TROUBLESHOOTING.md"
+    }
+  }
+}

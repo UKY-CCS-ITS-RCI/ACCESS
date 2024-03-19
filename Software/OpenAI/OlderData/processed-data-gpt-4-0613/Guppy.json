@@ -1,0 +1,18 @@
+
+{
+  "Guppy": {
+    "software_page": "https://nanoporetech.com/nanopore-sequencing-data-analysis",
+    "documentation": "https://community.nanoporetech.com/protocols/Guppy-protocol/v/GPB_2003_v1_revM_14Dec2018",
+    "training_materials": [
+      {
+        "title": "Oxford Nanopore Sequencing and Data Analysis",
+        "url": "https://nanoporetech.com/resource-centre/oxford-nanopore-sequencing-and-data-analysis-course"
+      },
+      {
+        "title": "Guppy Basecalling Software - Training Video",
+        "url": "https://www.youtube.com/watch?v=1-SuuH9OYqk"
+      }
+    ]
+  }
+}
+

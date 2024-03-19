@@ -1,0 +1,14 @@
+{
+  "software_name": "barrnap",
+  "software_URL": "https://github.com/tseemann/barrnap",
+  "documentation_links": [
+    "https://github.com/tseemann/barrnap",
+    "https://bioinformatics.stackexchange.com/questions/803/how-do-i-interpret-barrnap-results",
+    "https://github.com/tseemann/barrnap/blob/master/README.md"
+  ],
+  "tutorial_links": [
+    "https://www.youtube.com/watch?v=FWsQQQkooSs",
+    "https://hub.docker.com/r/staphb/barrnap",
+    "https://bio.tools/barrnap"
+  ]
+}

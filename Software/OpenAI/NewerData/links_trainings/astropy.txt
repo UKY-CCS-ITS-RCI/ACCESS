@@ -1,0 +1,18 @@
+{
+  "software": {
+    "name": "astropy",
+    "website": "https://www.astropy.org/",
+    "documentation": "https://docs.astropy.org/en/stable/",
+    "github": "https://github.com/astropy/astropy",
+    "training_materials": [
+      {
+        "name": "Astropy Tutorials",
+        "url": "https://learn.astropy.org/"
+      },
+      {
+        "name": "Astropy-problems",
+        "url": "https://github.com/astropy/astropy-problems"
+      }
+    ]
+  }
+}

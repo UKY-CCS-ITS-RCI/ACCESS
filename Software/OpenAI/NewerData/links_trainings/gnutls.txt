@@ -1,0 +1,21 @@
+{
+  "Software": "gnutls",
+  "information": {
+    "Website link": "https://www.gnutls.org/",
+    "Documentation link": "https://www.gnutls.org/manual/",
+    "Tutorial/training links": [
+      {
+        "name": "Basic GnuTLS tutorial",
+        "url": "https://www.real-world-systems.com/docs/gnutls.3.5/gnutls-tutorial.7.html"
+      },
+      {
+        "name": "GnuTLS User guide",
+        "url": "https://www.real-world-systems.com/docs/gnutls.3.5/gnutls.html"
+      },
+      {
+        "name": "Gnulib tutorial",
+        "url": "https://www.gnu.org/software/gnulib/manual/gnulib.html"
+      }
+    ]
+  }
+}

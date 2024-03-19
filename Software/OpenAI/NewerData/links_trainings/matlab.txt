@@ -1,0 +1,16 @@
+{
+  "software": {
+    "name": "MATLAB",
+    "web_url": "https://www.mathworks.com/products/matlab.html",
+    "documentation": {
+      "MATLAB Documentation": "https://www.mathworks.com/help/matlab/"
+    },
+    "tutorials_and_training": {
+      "MATLAB Tutorials": "https://www.mathworks.com/products/matlab/academia.html",
+      "MATLAB Training": "https://www.mathworks.com/services/training.html",
+      "MATLAB Onramp": "https://www.mathworks.com/learn/tutorials/matlab-onramp.html",
+      "MATLAB Fundamentals": "https://www.mathworks.com/courses/matlab-fundamentals.html",
+      "MATLAB Academy": "https://matlabacademy.mathworks.com/"
+    }
+  }
+}

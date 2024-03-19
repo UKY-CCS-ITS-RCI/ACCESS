@@ -1,0 +1,14 @@
+{
+  "SoftwareName": "Shared",
+  "Homepage": "https://shared.com/",
+  "Resources": {
+    "Documentation": "https://support.shared.com/hc/en-us",
+    "Tutorials": [
+      "https://support.shared.com/hc/en-us/articles/205699865-How-to-upload-files-",
+      "https://support.shared.com/hc/en-us/articles/205700045-How-to-download-files-"
+    ],
+    "TrainingMaterial": [
+      "https://www.youtube.com/watch?v=E7s409Yvb7I"
+    ]
+  }
+}

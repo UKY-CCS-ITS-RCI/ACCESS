@@ -1,0 +1,25 @@
+{
+  "software": {
+    "name": "gtk3",
+    "software_url": "https://www.gtk.org/",
+    "docs_url": "https://developer.gnome.org/gtk3/stable/",
+    "training_materials": [
+      {
+        "training_name": "GTK+ 3 Tutorial",
+        "training_url": "https://developer.gnome.org/gnome-devel-demos/stable/c.html.en"
+      },
+      {
+        "training_name": "GTK Training",
+        "training_url": "https://wiki.gnome.org/Projects/GTK/GTKTraining"
+      },
+      {
+        "training_name": "GTK 3 Programming with C and Glade Tutorial",
+        "training_url": "https://prognotes.net/2015/06/gtk-3-programming-with-c-and-glade-tutorial/"
+      },
+      {
+        "training_name": "Getting Started with GTK",
+        "training_url": "https://docs.min.io/docs/gtk3+for+windows+-+getting+started.html"
+      }
+    ]
+  }
+}

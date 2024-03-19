@@ -1,0 +1,12 @@
+{
+  "Software_Name": "Pythia",
+  "Software_Page": "http://home.thep.lu.se/Pythia/",
+  "Documentation_Link": "http://home.thep.lu.se/~torbjorn/pythiahtml/pythia8100.pdf",
+  "Training_Materials": [
+    {
+      "Tutorial_1": "http://home.thep.lu.se/Pythia/pythia82html/Welcome.html",
+      "Tutorial_2": "https://www.youtube.com/watch?v=0nqJKEh3YCc",
+      "Tutorial_3": "http://home.thep.lu.se/Pythia/pythia82html/SampleMainPrograms.html"
+    }
+  ]
+}

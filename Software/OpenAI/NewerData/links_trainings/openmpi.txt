@@ -1,0 +1,26 @@
+{
+    "name": "openmpi",
+    "software_page_url": "https://www.open-mpi.org/",
+    "documentation": {
+        "url": "https://www.open-mpi.org/doc/current/"
+    },
+    "tutorials": [
+        {
+            "url": "https://www.open-mpi.org/faq/?category=running"
+        },
+        {
+            "url": "https://hpcc.usc.edu/research/tutorial-docs/"
+        },
+        {
+            "url": "https://www.cac.cornell.edu/vw/mpi/tutorial_mpi_intro.aspx"
+        }
+    ],
+    "training_materials": [
+        {
+            "url": "https://computing.llnl.gov/tutorials/mpi/"
+        },
+        {
+            "url": "https://cci-mic.github.io/hpc-workshop/mpi/"
+        }
+    ]
+}

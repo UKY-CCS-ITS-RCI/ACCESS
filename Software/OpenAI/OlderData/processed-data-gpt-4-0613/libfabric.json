@@ -1,0 +1,14 @@
+{
+  "Software": "Libfabric",
+  "Details": [
+    {
+      "Software Page": "https://www.libfabric.org/",
+      "Documentation": "https://www.open-mpi.org/projects/user-docs/",
+      "Training and Tutorial Materials": [
+        "https://archer2-training.github.io/2022/03/08/Compiling-MPI-Libfabric.html",
+        "https://www.admin-magazine.com/HPC/Articles/Libfabric-Abuzz-with-Activity",
+        "https://readthedocs.org/projects/libfabric/downloads/pdf/latest/"
+      ]
+    }
+  ]
+}

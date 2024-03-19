@@ -1,0 +1,12 @@
+
+{
+  "Netpbm": {
+    "Software Page": "http://netpbm.sourceforge.net/",
+    "Documentation": "https://web.archive.org/web/20190728130530/http://netpbm.sourceforge.net/doc/",
+    "Tutorials": [
+      "https://www.example.com/netpbm/tutorial1",
+      "https://www.example.com/netpbm/tutorial2"
+    ]
+  }
+}
+

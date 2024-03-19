@@ -1,0 +1,11 @@
+{
+  "softwareName": "Git",
+  "links": {
+    "softwarePage": "https://git-scm.com/",
+    "documentation": "https://git-scm.com/doc",
+    "officialTutorial": "https://git-scm.com/docs/gittutorial",
+    "tutorial1": "https://www.youtube.com/watch?v=HVsySz-h9r4",
+    "tutorial2": "https://lab.github.com/githubtraining/introduction-to-github",
+    "tutorial3": "https://www.atlassian.com/git/tutorials"
+  }
+}

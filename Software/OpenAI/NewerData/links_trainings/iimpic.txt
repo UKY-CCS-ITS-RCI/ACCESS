@@ -1,0 +1,7 @@
+{
+  "software_name": "iimpic",
+  "description": "IIMPIC is a web-based application that provides an interactive interface for imputing and visualizing missing data in incomplete multiple response categorical variables.",
+  "software_URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185831/",
+  "documentation": [],
+  "training_materials": []
+}

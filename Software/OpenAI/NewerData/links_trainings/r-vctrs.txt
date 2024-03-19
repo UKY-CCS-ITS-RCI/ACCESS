@@ -1,0 +1,10 @@
+{
+  "r-vctrs": {
+    "softwarePage": "https://cran.r-project.org/package=vctrs",
+    "additionalURLs": {
+      "documentation": "https://vctrs.r-lib.org/",
+      "tutorial1": "https://www.youtube.com/watch?v=FlEwhgT_7U8",
+      "tutorial2": "https://learn.datacamp.com/courses/writing-functions-in-r-using-vctrs"
+    }
+  }
+}

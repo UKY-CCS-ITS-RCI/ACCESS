@@ -1,0 +1,15 @@
+{
+"name": "YACS",
+"softwarePage": "https://pypi.org/project/yacs/",
+"documentation": "https://yacs.readthedocs.io/en/latest/",
+"tutorialMaterials": [
+    {
+        "name": "YACS usage tutorial on GitHub",
+        "url": "https://github.com/rbgirshick/yacs"
+    },
+    {
+        "name": "YACS Python Config Library for Exploratory Research – Yet Another Config System",
+        "url": "https://softwareengineeringdaily.com/2019/06/24/yacs-python-config-library-for-exploratory-research-yet-another-config-system/"
+    }
+  ]
+}

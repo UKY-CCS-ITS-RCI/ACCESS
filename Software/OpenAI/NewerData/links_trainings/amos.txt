@@ -1,0 +1,20 @@
+{
+    "software_name": "amos",
+    "software_URL": "http://amos.sourceforge.net/",
+    "documentation": [
+        {
+            "doc_name": "AMOS Manual",
+            "URL": "http://amos.sourceforge.net/docs/index.html"
+        }
+    ],
+    "tutorial": [
+        {
+            "tutorial_name": "AMOS Tutorial",
+            "URL": "https://www.broadinstitute.org/annotation/amos/AMOSGenomeAssemblyProcess.html"
+        },
+        {
+            "tutorial_name": "AMOS Quick Start",
+            "URL": "http://sourceforge.net/apps/mediawiki/amos/index.php?title=Quick_Start"
+        }
+    ]
+}

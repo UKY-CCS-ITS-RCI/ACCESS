@@ -1,0 +1,9 @@
+{
+  "Software": "kma",
+  "Software_url": "https://bitbucket.org/genomicepidemiology/kma/src/master/",
+  "Documentation_url": "https://cge.cbs.dtu.dk/services/kma/",
+  "Tutorial_links": {
+    "1": "https://cge.cbs.dtu.dk/services/KMA/",
+    "2": "https://bitbucket.org/genomicepidemiology/kma/src/master/"
+  }
+}

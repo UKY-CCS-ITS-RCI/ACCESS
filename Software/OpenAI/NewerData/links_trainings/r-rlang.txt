@@ -1,0 +1,16 @@
+{
+  "Software Name": "r-rlang",
+  "Link to Software": "https://cran.r-project.org/package=rlang",
+  "Additional Links": {
+    "Documentation": "https://rlang.r-lib.org/reference/index.html",
+    "Tutorials": [
+      "https://rstudio-education.github.io/hopr/beyond_base_r.html#how-does-the-rlang-package-improve-upon-the-standard-evaluation-system-in-r",
+      "https://r4ds.had.co.nz/functions.html",
+      "https://cran.r-project.org/web/packages/rlang/vignettes/rlang.html"
+    ],
+    "Training Materials": [
+      "https://www.datacamp.com/community/blog/r-tidyverse-programming-rlang",
+      "https://www.r-bloggers.com/2019/02/rlang-%f0%9f%94%a5-new-basics-slides-and-learning-resources/"
+    ]
+  }
+}

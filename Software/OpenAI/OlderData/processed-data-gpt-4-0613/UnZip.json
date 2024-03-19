@@ -1,0 +1,12 @@
+{
+  "Software Name": "UnZip",
+  "links": {
+    "software page": "https://www.info-zip.org/UnZip.html",
+    "documentation": "https://linux.die.net/man/1/unzip",
+    "tutorials": [
+      "https://www.howtogeek.com/446317/how-to-zip-and-unzip-files-on-linux/",
+      "https://www.geeksforgeeks.org/zip-file-using-command-line/",
+      "https://www.cyberciti.biz/faq/linux-unzip-command/"
+    ]
+  }
+}

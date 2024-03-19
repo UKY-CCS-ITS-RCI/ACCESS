@@ -1,0 +1,32 @@
+{
+  "softwareName": "vep",
+  "softwarePage": "https://www.ensembl.org/info/docs/tools/vep/index.html",
+  "documentation": [
+    {
+      "title": "VEP Documentation",
+      "link": "https://www.ensembl.org/info/docs/tools/vep/script/vep_tutorial.html"
+    },
+    {
+      "title": "VEP Installation",
+      "link": "https://www.ensembl.org/info/docs/tools/vep/script/vep_download.html"
+    },
+    {
+      "title": "VEP API Documentation",
+      "link": "https://www.ensembl.org/info/docs/tools/vep/script/vep_script.html"
+    }
+  ],
+  "tutorialsAndTrainings": [
+    {
+      "title": "VEP Workshop Material",
+      "link": "https://m.ensembl.org/info/docs/workshops/VEP_workshop.html"
+    },
+    {
+      "title": "VEP Webinar Training Series",
+      "link": "https://www.ebi.ac.uk/training/online/courses/ensembl-browser-webinar-series/data-visualisation-using-the-ensembl-browser/"
+    },
+    {
+      "title": "VEP Quick Reference Guide",
+      "link": "https://www.ebi.ac.uk/training-beta/sites/ebi.ac.uk.training-beta/files/materials/2018/PB_NETTAB_newsletter.pdf"
+    }
+  ]
+}

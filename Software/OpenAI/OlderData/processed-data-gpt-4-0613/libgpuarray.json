@@ -1,0 +1,10 @@
+{
+"Software": "libgpuarray",
+"Page_link": "http://deeplearning.net/software/libgpuarray/index.html",
+"Documentation": "http://deeplearning.net/software/libgpuarray/manual.html",
+"Tutorials_Training": [
+"https://github.com/Theano/libgpuarray",
+"https://stackoverflow.com/questions/tagged/libgpuarray",
+"https://www.youtube.com/watch?v=r6L1Eix6HSo"
+]
+}

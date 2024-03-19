@@ -1,0 +1,10 @@
+{
+"CFSAN SNP Pipeline": {
+"Software Link": "https://github.com/CFSAN-Biostatistics/snp-pipeline",
+"Documentation": "https://snp-pipeline.readthedocs.io/en/latest/",
+"Tutorials and Training Materials": {
+"1": "https://snp-pipeline.readthedocs.io/en/latest/tutorial.html",
+"2": "https://github.com/CFSAN-Biostatistics/snp-pipeline/blob/master/TUTORIAL.md"
+}
+}
+}

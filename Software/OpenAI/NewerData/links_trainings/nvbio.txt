@@ -1,0 +1,19 @@
+{
+   "software": "nvbio",
+   "software_url": "https://github.com/NVlabs/nvbio",
+   "documentation_url": "https://nvlabs.github.io/nvbio/",
+   "training_and_tutorial_materials": [
+      {
+         "title": "nvbio GitHub page",
+         "url": "https://github.com/NVlabs/nvbio"
+      },
+      {
+         "title": "nvbio Documentation",
+         "url": "https://nvlabs.github.io/nvbio/"
+      },
+      {
+         "title": "GPU Programming in Bioinformatics",
+         "url": "https://www.biorxiv.org/content/10.1101/2020.10.19.343921v1"
+      }
+   ]
+}

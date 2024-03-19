@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Name": "r-rhdf5",
+    "Web_page": "https://www.bioconductor.org/packages/release/bioc/html/rhdf5.html",
+    "Additional_links": {
+      "Documentation": "https://www.bioconductor.org/packages/release/bioc/manuals/rhdf5/man/rhdf5.pdf",
+      "Tutorials": {
+        "Tutorial_1": "https://www.bioconductor.org/packages/devel/bioc/vignettes/rhdf5/inst/doc/rhdf5.html",
+        "Tutorial_2": "https://www.rdocumentation.org/packages/rhdf5/versions/2.14.1"
+      }
+    }
+  }
+}

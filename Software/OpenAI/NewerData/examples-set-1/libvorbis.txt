@@ -1,0 +1,43 @@
+Use Case: Libvorbis is used for converting audio to the Ogg Vorbis .ogg format. Ogg Vorbis is a fully open, non-proprietary, and patent-free compressed audio format. While it is not as popular as MP3, it is generally preferred by audiophiles for its higher quality at the same bit rate.
+
+Code details and examples:
+
+Input File Format: The input file can be in any audio format that is recognized by libvorbis. Sample input files are often .wav or other uncompressed audio formats. However, libvorbis also supports other formats like .flac, .aiff, and more.
+
+Specifications in Input Files: Since the input file is an audio file, there aren't typically "specifications" to be concerned with. However, for best results, the audio should be of high sample rate and bit depth (such as a CD quality 44.1kHz, 16 bit .wav file).
+
+Command to run them:
+
+To encode a .wav file to .ogg using the command line oggenc utility (which uses libvorbis), the following command can be used:
+
+```bash
+oggenc input.wav -o output.ogg
+```
+
+This command takes input.wav, encodes it to the vorbis format, and saves it as output.ogg
+
+The general format for oggenc is:
+
+```bash
+oggenc [options] input_file
+```
+
+Various options can be used to impact the output quality, metadata, channels, etc:
+
+```bash
+oggenc -q 5 --artist "Artist Name" --album "Album Name" --date "2003" --tracknum 1 --genre "Rock" input.wav -o output.ogg
+```
+
+In this example, `-q 5` sets the quality level of the resulting .ogg file (0 lowest - 10 highest), and various metadata fields are set for the output .ogg file. 
+
+Code:
+
+Libvorbis does not normally include code snippets since it is typically used via its command line utilities like oggenc or oggdec. However, it is possible to use the vorbisfile API to programmatically encode and decode .ogg files. If you require examples of this, I recommend the [official vorbisfile API documentation](https://xiph.org/vorbis/doc/vorbisfile/).
+
+Finally, to play an .ogg file encoded with vorbis using the command line ogg123 utility, one can use the following command:
+
+```bash
+ogg123 output.ogg
+```
+
+Note: ogg123 is part of the vorbis-tools package, so ensure it is installed if you wish to use this feature.

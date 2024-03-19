@@ -1,0 +1,11 @@
+{
+  "Software_Name": "at-spi2-core",
+  "Software_URL": "https://developer.gnome.org/accessibility-devel-guide/stable/testing-at-spi.html.en",
+  "Documentation": {
+    "Developer_Documentation_URL": "https://developer.gnome.org/platform-overview/stable/tech-accessibility.html.en",
+    "Tutorial_and_Training_Materials": [
+      "https://developer.gnome.org/atspi/stable/getting-started.html",
+      "https://developer.gnome.org/atspi/stable/learning-more.html"
+    ]
+  }
+}

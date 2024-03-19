@@ -1,0 +1,27 @@
+Use Case: Version control
+
+Code details and examples:
+- Git is a version control system that is commonly used for source code management in software development projects.
+
+Sample input files:
+- Git does not require input files, but it operates on files within a directory that has been initialized as a Git repository.
+
+Command to initialize a Git repository:
+```
+git init
+```
+
+Command to add files to the staging area:
+```
+git add file.txt
+```
+
+Command to commit changes to the repository:
+```
+git commit -m "Message describing the changes"
+```
+
+Command to push changes to a remote repository:
+```
+git push origin master
+```

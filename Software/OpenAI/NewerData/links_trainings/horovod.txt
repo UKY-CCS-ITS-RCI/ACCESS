@@ -1,0 +1,19 @@
+{
+  "horovod": {
+    "software_page_links": {
+      "GitHub": "https://github.com/horovod/horovod",
+      "Official Website": "https://horovod.ai/"
+    },
+    "documentation_links": {
+      "Docs": "https://horovod.readthedocs.io/",
+      "GitHub Wiki": "https://github.com/horovod/horovod/wiki"
+    },
+    "training_tutorial_materials": {
+      "Horovod Tutorial": "https://horovod.readthedocs.io/en/latest/tensorflow.html",
+      "GitHub Examples": "https://github.com/horovod/horovod/tree/master/examples",
+      "Horovod in TensorFlow": "https://towardsdatascience.com/how-to-use-horovod-with-tensorflow-and-keras-to-train-multi-gpu-models-e81a7d59d3a9",
+      "Keras with Horovod": "https://horovod.ai/blog/keras_horovod/",
+      "YouTube Tutorial": "https://www.youtube.com/watch?v=3yD9eBNeOYQ"
+    }
+  }
+}

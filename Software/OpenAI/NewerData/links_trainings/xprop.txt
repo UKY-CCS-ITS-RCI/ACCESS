@@ -1,0 +1,9 @@
+{
+  "name": "XProp",
+  "software_page": "https://www.x.org/releases/current/doc/man/man1/xprop.1.xhtml",
+  "additional_links": {
+    "documentation": "https://www.x.org/releases/current/doc/man/man1/xprop.1.xhtml",
+    "tutorials": [],
+    "training_materials": []
+  }
+}

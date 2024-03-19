@@ -1,0 +1,23 @@
+{
+  "software_name": "gnuplot",
+  "software_URL": "http://www.gnuplot.info/",
+  "documentation_URL": "http://www.gnuplot.info/documentation.html",
+  "tutorials_and_training_materials": {
+    "tutorial_1": {
+      "name": "gnuplot_tutorial",
+      "URL": "http://t16web.lanl.gov/Kawano/gnuplot/index-e.html"
+    },
+    "tutorial_2": {
+      "name": "gnuplot_intro",
+      "URL": "https://people.duke.edu/~hpgavin/gnuplot.html"
+    },
+    "tutorial_3": {
+      "name": "gnuplot_basics",
+      "URL": "https://www.cs.hmc.edu/~vrable/gnuplot/"
+    },
+    "tutorial_4": {
+      "name": "gnuplot_cookbook",
+      "URL": "https://www.packtpub.com/product/gnuplot-cookbook/9781849517249"
+    }
+  }
+}

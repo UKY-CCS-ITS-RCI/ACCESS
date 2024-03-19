@@ -1,0 +1,12 @@
+{
+    "software": "kakscalculator2",
+    "software_URL": "https://github.com/Kingsford-Group/kakscalculator2",
+    "documentation": [{
+            "documentation_name": "ReadMe",
+            "documentation_URL": "https://github.com/Kingsford-Group/kakscalculator2#readme"
+        }],
+    "tutorial_materials" : [{
+        "tutorial_name": "Python Introduction",
+        "tutorial_URL": "https://docs.python.org/3/tutorial/introduction.html"
+    }]
+}

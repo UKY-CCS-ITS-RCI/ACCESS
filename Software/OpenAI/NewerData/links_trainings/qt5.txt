@@ -1,0 +1,30 @@
+{
+  "Software": "Qt5",
+  "software_url": "https://www.qt.io/",
+  "documentation_url": "https://doc.qt.io/",
+  "training_materials": [
+    {
+      "name": "Qt for Beginners",
+      "url": "https://doc.qt.io/qt-5/qt5-intro.html"
+    },
+    {
+      "name": "Getting Started Programming with Qt",
+      "url": "https://doc.qt.io/qt-5/gettingstarted.html"
+    },
+    {
+      "name": "Qt5 Tutorial",
+      "url": "https://www.tutorialspoint.com/qt/index.htm"
+    },
+    {
+      "name": "Qt5 C++ GUI Programming Cookbook",
+      "url": "https://www.packtpub.com/product/qt5-c-gui-programming-cookbook/9781783280278"
+    },
+    {
+      "name": "Introduction to Application Development with Qt Quick (Qt5 Training)",
+      "url": "https://qmlbook.github.io/"
+    },
+    {
+      "name": "Qt5 COMPREHENSIVE-tutorials",
+      "url": "https://www.bogotobogo.com/Qt/Qt5_Comprehensive_Tutorial_with_QtCreator.php"
+    }]
+}

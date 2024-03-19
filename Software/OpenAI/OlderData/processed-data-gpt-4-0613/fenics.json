@@ -1,0 +1,10 @@
+{
+  "softwareName": "FEniCS",
+  "links": {
+    "softwarePage": "https://fenicsproject.org/",
+    "documentation": "https://fenics.readthedocs.io/en/latest/",
+    "tutorial1": "https://fenicsproject.org/docs/dolfin/latest/python/tutorial/",
+    "tutorial2": "https://comet-fenics.readthedocs.io/en/latest/",
+    "tutorial3": "https://fenicsproject.org/pub/tutorial/html/._ftut1004.html"
+  }
+}

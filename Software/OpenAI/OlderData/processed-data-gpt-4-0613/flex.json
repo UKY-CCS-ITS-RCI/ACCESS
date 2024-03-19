@@ -1,0 +1,10 @@
+{
+  "softwareName": "Flex",
+  "links": {
+    "softwarePage": "https://github.com/westes/flex",
+    "documentation": "https://westes.github.io/flex/manual/",
+    "tutorial1": "https://www.ibm.com/developerworks/linux/library/l-flexbison/",
+    "tutorial2": "https://www.youtube.com/watch?v=54bo1qaHAfk",
+    "tutorial3": "http://alumni.cs.ucr.edu/~lgao/teaching/flex.html"
+  }
+}

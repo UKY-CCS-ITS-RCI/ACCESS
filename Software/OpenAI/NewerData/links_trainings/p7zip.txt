@@ -1,0 +1,28 @@
+{
+  "software": "p7zip",
+  "link": "https://www.7-zip.org/",
+  "documentation": [
+    {
+      "link": "https://www.7-zip.org/faq.html",
+      "description": "7-zip FAQ"
+    },
+    {
+      "link": "https://www.7-zip.org/support.html",
+      "description": "Support"
+    }
+  ],
+  "training": [
+    {
+      "link": "https://www.youtube.com/watch?v=Zcjk7DyH3PQ",
+      "description": "How To Use 7zip - Beginner's Tutorial"
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=EmDl1lOp1rM",
+      "description": "7-Zip tutorial for beginners"
+    },
+    {
+      "link": "https://www.computerhope.com/issues/ch001868.htm",
+      "description": "How to use 7-Zip to compress and uncompress files"
+    }
+  ]
+}

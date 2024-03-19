@@ -1,0 +1,20 @@
+{
+  "software": "libx11",
+  "software_link": "https://www.x.org/releases/current/doc/libX11/libX11/libX11.html",
+  "documentation": [
+    {
+      "link": "https://www.x.org/releases/current/doc/libX11/libX11/libX11.html"
+    },
+    {
+      "link": "https://www.x.org/archive//X11R7.5/doc/man/man3/Xlib.3.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "link": "http://www.rahul.net/kenton/centroids.html"
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=4fJBrditnJU"
+    }
+  ]
+}

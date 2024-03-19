@@ -1,0 +1,17 @@
+{
+    "Software": "r-codetools",
+    "URL": "https://cran.r-project.org/web/packages/codetools/index.html",
+    "Documentation": [
+        {
+            "URL": "https://cran.r-project.org/web/packages/codetools/codetools.pdf"
+        }
+    ],
+    "Tutorials": [
+        {
+            "URL": "https://stat.ethz.ch/R-manual/R-patched/library/codetools/html/00Index.html"
+        },
+        {
+            "URL": "https://www.rdocumentation.org/packages/codetools/versions/0.2-18/topics/codetools-package"
+        }
+    ]
+}

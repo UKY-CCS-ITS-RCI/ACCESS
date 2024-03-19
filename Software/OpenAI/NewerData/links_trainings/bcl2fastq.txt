@@ -1,0 +1,11 @@
+{
+  "bcl2fastq": {
+    "software_page": "https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html",
+    "documentation": "https://support-docs.illumina.com/SW/bcl2fastq/2.20/documentation.html",
+    "training_materials": {
+      "tutorial_video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "user_guide": "https://support-docs.illumina.com/SW/bcl2fastq/2.20/UserGuide/PDF/bcl2fastq2_guide.pdf",
+      "quick_start_guide": "https://support-docs.illumina.com/SW/bcl2fastq/2.20/GettingStarted/PDF/bcl2fastq2_quick_start_guide.pdf"
+    }
+  }
+}

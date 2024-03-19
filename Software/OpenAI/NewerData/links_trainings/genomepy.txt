@@ -1,0 +1,17 @@
+{
+  "Software Name": "genomepy",
+  "Software Link": "https://github.com/vanheeringen-lab/genomepy",
+  "Documentation": {
+    "Documentation Link": "https://genomepy.readthedocs.io/en/latest/"
+  },
+  "Training Material": [
+    {
+      "Material": "Python for bioinformatics: Getting started with sequence analysis in Python",
+      "Link": "https://www.sciencedirect.com/science/article/pii/S1877117319303564"
+    },
+    {
+      "Material": "Genomepy: a python package to download genomes",
+      "Link": "https://joss.theoj.org/papers/10.21105/joss.01018"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Software": "OpenImageIO",
+  "Software_URL": "https://www.openimageio.org/",
+  "Documentation_Link": "https://openimageio.readthedocs.io/en/latest/index.html",
+  "Tutorials_and_Training_Materials": [
+    {
+      "Name": "GitHub Tutorial",
+      "Link": "https://github.com/OpenImageIO/oiio/blob/master/TUTORIAL.md"
+    },
+    {
+      "Name": "More examples on GitHub",
+      "Link": "https://github.com/OpenImageIO/oiio/tree/master/examples"
+    }
+  ]
+}

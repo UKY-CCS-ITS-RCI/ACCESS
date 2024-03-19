@@ -1,0 +1,25 @@
+Use Case: 
+
+Picard is a set of Java command line tools that are used to manipulate high-throughput sequencing (HTS) data and formats. One of the common use cases is to mark duplicated reads in a BAM or SAM file.
+
+Code details and examples:
+
+File required: sorted.bam (The input BAM or SAM file should be sorted in coordinate order)
+
+Command to run the software: 
+
+```
+java -jar picard.jar MarkDuplicates I=sorted.bam O=marked_duplicates.bam M=marked_dup_metrics.txt
+```
+
+In the command above, `I=sorted.bam` specifies the input file while `O=marked_duplicates.bam` sets the output file. `M=marked_dup_metrics.txt` captures the metrics of duplication.
+
+Other commands in Picard are used in a similar fashion. For instance, `ValidateSamFile` is used to check the validity of a SAM/BAM file.
+
+Command to run:
+
+```
+java -jar picard.jar ValidateSamFile I=example.bam
+```
+
+The software will examine all the records in the input file (example.bam) to see if they meet the standard for a valid SAM/BAM file. If the file is invalid, the software will provide a description of the error.

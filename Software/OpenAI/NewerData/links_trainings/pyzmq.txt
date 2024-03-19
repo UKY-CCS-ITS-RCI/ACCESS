@@ -1,0 +1,17 @@
+{
+  "Software": "pyzmq",
+  "Software_url": "https://github.com/zeromq/pyzmq",
+  "Documentation": [
+    {
+      "url": "https://pyzmq.readthedocs.io/en/latest/"
+    }
+  ],
+  "Tutorials": [
+    {
+      "url": "https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/"
+    },
+    {
+      "url": "https://zeromq.org/languages/python/"
+    }
+  ]
+}

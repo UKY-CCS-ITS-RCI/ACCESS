@@ -1,0 +1,11 @@
+{
+  "Software": "cd-hit",
+  "SoftwareURL": "http://weizhongli-lab.org/cd-hit/",
+  "Documentation": "http://weizhongli-lab.org/cd-hit/wiki/doku.php?id=cd-hit_user_guide",
+  "Tutorials": [
+    "https://omictools.com/cd-hit-tool",
+    "https://anaconda.org/bioconda/cd-hit",
+    "http://www.mgc.ac.cn/VFs/Down/CD-HIT_UserGuide.pdf",
+    "https://github.com/weizhongli/cdhit/wiki/3.-User's-Guide"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "build": {
+    "software_url": "https://buildmedia.readthedocs.org/media/pdf/core-builder/latest/core-builder.pdf",
+    "documentation_url": "https://docs.docker.com/engine/reference/builder/",
+    "tutorial_urls": [
+      "https://www.youtube.com/watch?v=8fi7uSYlOdc",
+      "https://towardsdatascience.com/introduction-to-docker-build-docker-images-from-scratch-2e42e153fd19",
+      "https://docs.docker.com/get-started/overview/"
+    ]
+  }
+}

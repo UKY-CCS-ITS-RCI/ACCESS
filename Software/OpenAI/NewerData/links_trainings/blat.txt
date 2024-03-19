@@ -1,0 +1,21 @@
+{
+  "Software": {
+    "Title": "Blat Suite",
+    "Website": "https://genome.ucsc.edu/FAQ/FAQblat.html",
+    "Documentation": "https://genome.ucsc.edu/goldenPath/help/blatSpec.html",
+    "Tutorials": [
+      {
+        "Name": "UCSC Genome Browser Training",
+        "URL": "https://www.youtube.com/watch?v=Y-fuItohrY4"
+      },
+      {
+        "Name": "BLAT Search",
+        "URL": "https://www.youtube.com/watch?v=_hPW5DlQPjE"
+      },
+      {
+        "Name": "UCSC Genome Browser: Sequence and Annotation Downloads",
+        "URL": "https://www.youtube.com/watch?v=nnvE1k_53GI"
+      }
+    ]
+  }
+}

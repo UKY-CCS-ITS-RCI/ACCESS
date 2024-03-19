@@ -1,0 +1,35 @@
+Use Case: STAR (Spliced Transcripts Alignment to a Reference) is a bioinformatics software package used to align RNA-seq reads to a genome. It is particularly good at mapping reads that cross exon-exon junctions, which is important for accurate transcript counting and gene expression analysis.
+
+Code details and examples: 
+
+Code:
+
+Firstly, create a directory for the genome files and execute the genome generation command.
+
+```
+mkdir star_index
+STAR --runMode genomeGenerate --genomeDir star_index --genomeFastaFiles genome.fa --sjdbGTFfile genes.gtf --runThreadN 4
+```
+
+Then proceed to alignment. Input files are in FASTQ format, containing short sequence reads. The genomeDir is the directory containing the genome index files. The readFilesIn includes one for single-end or two for paired-end sequenced reads.
+
+```
+STAR --genomeDir star_index --readFilesIn sample.fastq --runThreadN 4
+```
+
+If your data is gzipped (.gz), you can get STAR to decompress on the fly by providing the --readFilesCommand option:
+
+```
+STAR --genomeDir star_index --readFilesIn sample.fastq.gz --runThreadN 4 --readFilesCommand zcat
+```
+
+The output of STAR includes various statistics of the sequence alignment and the alignments themselves in a file called "Aligned.out.sam". 
+
+Input file details:
+
+- genome.fa: This is a FASTA file containing the DNA sequence of the genome you're aligning to.
+- genes.gtf: This is a GTF (Gene Transfer Format) file that includes the gene annotation for the genome.
+- sample.fastq: This is a FASTQ file containing your sequenced RNA reads. 
+- star_index: A directory containing the indexed genome files.
+
+It should be noted that input files should be stored in the working directory or path should be specified. Output is generally sent to the standard output file (by default, the console), but can be redirected to a file using Unix syntax (> file.sam for example) or by using the --outFileNamePrefix option.

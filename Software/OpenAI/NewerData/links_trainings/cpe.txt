@@ -1,0 +1,11 @@
+{
+  "Software_Details": {
+    "Name": "cpe",
+    "Software_Link": "https://www.ibm.com/docs/en/power-systems",
+    "Documentation_Link": "https://www.ibm.com/docs/en/power-systems?topic=software-cpe-for-number",
+    "Training_Materials": {
+      "IBM Knowledge Center": "https://www.ibm.com/docs/en",
+      "IBM Training": "https://www.ibm.com/training/"
+    }
+  }
+}

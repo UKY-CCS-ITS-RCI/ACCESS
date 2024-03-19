@@ -1,0 +1,6 @@
+{
+  "softwareName": "libxau",
+  "softwarePage": "https://www.x.org/releases/individual/lib/",
+  "documentation": "https://www.x.org/releases/X11R7.7/doc/man/man3/Xau.3.xhtml",
+  "trainingAndTutorials": []
+}

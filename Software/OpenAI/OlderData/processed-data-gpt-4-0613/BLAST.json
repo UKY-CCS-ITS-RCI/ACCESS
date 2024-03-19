@@ -1,0 +1,19 @@
+{
+  "Software": "BLAST",
+  "Website": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
+  "Documentation": "https://www.ncbi.nlm.nih.gov/books/NBK279690/",
+  "Tutorials and Training material": [
+    {
+      "Title": "BLAST® Help Manual",
+      "Link": "https://www.ncbi.nlm.nih.gov/books/NBK279690/"
+    },
+    {
+      "Title": "BLAST for beginners",
+      "Link": "https://www.ncbi.nlm.nih.gov/books/NBK563372/"
+    },
+    {
+      "Title": "Tutorial on BLAST",
+      "Link": "https://www.youtube.com/watch?v=CDCvMFGiEZc"
+    }
+  ]
+}

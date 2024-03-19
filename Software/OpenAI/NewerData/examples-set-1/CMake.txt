@@ -1,0 +1,47 @@
+Use Case: CMake is a compiler tool that is used to control the compilation process using simple configuration files, CMakeLists.txt. It is a cross-platform tool that generates makefiles for many platforms.
+
+Code details and examples: Code 
+
+For this example, consider the structure of your C/C++ project to be:
+Your Project Directory
+  ├── CMakeLists.txt
+  ├── main.cpp
+  └── ...
+
+And in main.cpp:
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, CMake!" << std::endl;
+    return 0;
+}
+```
+Your CMakeLists.txt could be as follows:
+```cmake
+cmake_minimum_required(VERSION 3.10)
+
+# set the project name
+project(HelloCMake)
+
+# add the executable
+add_executable(HelloCMake main.cpp)
+```
+
+This basic CMakeLists.txt simply sets the minimum required version of CMake for a project, sets the project's name, and indicates the files needed to compile an executable.
+
+The place of CMake in a build process:
+1. Create a build directory, and switch to it.
+```
+mkdir build
+cd build
+```
+2. Run `cmake` with the path to the source code (the parent directory).
+```
+cmake ..
+```
+3. Run `make` to build the targets specified in the Makefile that CMake generated.
+```
+make
+```
+After the make command succeeds, the executable will be generated in the "build" directory.

@@ -1,0 +1,12 @@
+{
+  "software": {
+    "name": "r-evaluate",
+    "main-page": "https://cran.r-project.org/web/packages/evaluate/index.html",
+    "links": {
+      "documentation": "https://cran.r-project.org/web/packages/evaluate/evaluate.pdf",
+      "tutorial1": "https://www.rdocumentation.org/packages/evaluate/versions/0.14",
+      "tutorial2": "https://rdrr.io/cran/evaluate/man/evaluate.html",
+      "tutorial3": "https://www.relishapp.com/document/1065"
+    }
+  }
+}

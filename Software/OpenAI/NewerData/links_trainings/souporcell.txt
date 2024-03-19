@@ -1,0 +1,25 @@
+{
+  "Software Name": "souporcell",
+  "Software Page": "https://github.com/wheaton5/souporcell",
+  "Docs": "https://github.com/wheaton5/souporcell",
+  "Training Materials": [
+    {
+      "Name": "Souporcell: robust clustering of single cell RNA-seq data by genotype without reference genotypes",
+      "URL":"https://www.nature.com/articles/s41592-020-0820-1"
+    },
+    {
+      "Name": "A step-by-step workflow and anlysis of Souporcell pipeline",
+      "URL":"https://www.kaggle.com/montilab/souporcell"
+    }
+  ],
+  "Tutorial Materials": [
+    {
+      "Name": "A hands-on guide to using the souporcell pipeline", 
+      "URL": "https://www.kaggle.com/montilab/using-souporcell-for-10x-genomics-visium-data"    
+    },
+    {
+      "Name": "Souporcell usage with kallisto and bustools", 
+      "URL": "https://chipster.csc.fi/manual/souporcell.html"
+    }
+  ]
+}

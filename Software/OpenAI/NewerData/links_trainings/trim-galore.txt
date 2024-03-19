@@ -1,0 +1,21 @@
+{
+  "trim-galore": {
+    "software_url": "https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/",
+    "documentation": [
+      {
+        "name": "Official Documentation",
+        "url": "https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/"
+      }
+    ],
+    "tutorial": [
+      {
+        "name": "Tutorial on YouTube by Biology Tutorials",
+        "url": "https://www.youtube.com/watch?v=CEfZFG3PjwE"
+      },
+      {
+        "name": "SeqAnswers Post on Trim Galore Usage",
+        "url": "http://seqanswers.com/forums/showthread.php?t=42776"
+      }
+    ]
+  }
+}

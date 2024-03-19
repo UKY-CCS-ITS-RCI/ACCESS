@@ -1,0 +1,7 @@
+{
+  "Software": "actc",
+  "Website": "https://github.com/mdc-ascii/actc",
+  "Documentation": "https://github.com/mdc-ascii/actc/blob/master/README.md",
+  "Tutorial": "",
+  "Training": ""
+}

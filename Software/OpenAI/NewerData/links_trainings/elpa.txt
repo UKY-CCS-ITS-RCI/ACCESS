@@ -1,0 +1,16 @@
+{
+  "software": {
+    "name": "ELPA",
+    "url": "https://elpa.mpcdf.mpg.de/",
+    "documentation": "https://elpa.mpcdf.mpg.de/html/Documentation/",
+    "tutorials": [
+      {
+        "title": "Basic ELPA tutorial",
+        "url": "https://elpa.mpcdf.mpg.de/html/Documentation/Tutorial/"
+      },
+      {
+        "title": "Advanced ELPA tutorial",
+        "url": "https://elpa.mpcdf.mpg.de/html/Documentation/Tutorial/Adv/"
+      }]
+  }
+}

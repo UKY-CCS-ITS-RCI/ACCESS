@@ -1,0 +1,13 @@
+{
+    "name": "MKL",
+    "software_page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html",
+    "documentation": "https://software.intel.com/content/www/us/en/develop/tools/documentation-library/oneapi/math-kernel-library.html",
+    "tutorials": [
+        "https://software.intel.com/content/www/us/en/develop/documentation/onemkl-developer-guide-linux/top.html",
+        "https://www.youtube.com/watch?v=ZtzqKK4JxIg"
+    ],
+    "additional_resources": [
+        "https://software.intel.com/content/www/us/en/develop/articles/using-intel-mkl-with-numpyscipy.html",
+        "https://en.wikipedia.org/wiki/Math_Kernel_Library"
+    ]
+}

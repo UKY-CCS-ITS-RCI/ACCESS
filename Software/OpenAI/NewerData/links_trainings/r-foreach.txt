@@ -1,0 +1,14 @@
+{
+  "software_name": "r-foreach",
+  "software_page_link": "https://cran.r-project.org/web/packages/foreach/index.html",
+  "documentation_links": [
+    "https://cran.r-project.org/web/packages/foreach/foreach.pdf",
+    "https://www.rdocumentation.org/packages/foreach/versions/1.5.1"
+  ],
+  "tutorial_materials": [
+    "https://www.youtube.com/watch?v=zzQcn5uaxOA",
+    "https://rdrr.io/cran/foreach/man/foreach-package.html",
+    "https://revolution-computing.typepad.com/revolution/2009/06/using-the-foreach-package.html",
+    "https://bioconductor.org/packages/release/bioc/vignettes/BiocParallel/inst/doc/BiocParallel-intro.html"
+  ]
+}

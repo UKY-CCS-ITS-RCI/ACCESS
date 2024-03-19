@@ -1,0 +1,10 @@
+{
+    "Software": "bedtools",
+    "Website": "https://bedtools.readthedocs.io/",
+    "Documentation": "https://bedtools.readthedocs.io/en/latest/content/bedtools-suite.html",
+    "Tutorial_and_Training": [
+        "https://bedtools.readthedocs.io/en/latest/content/tools/intersect.html",
+        "https://www.biostars.org/p/63816/",
+        "https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon/lessons/08_alignment_free_vs_genome_bam_visualization.html"
+    ]
+}

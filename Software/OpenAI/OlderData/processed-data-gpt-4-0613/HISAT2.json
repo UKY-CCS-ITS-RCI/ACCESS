@@ -1,0 +1,22 @@
+
+{
+  "HISAT2": {
+    "software_page": "https://daehwankimlab.github.io/hisat2/",
+    "documentation": "https://daehwankimlab.github.io/hisat2/manual/",
+    "training_materials": [
+      {
+        "title": "HISAT2 Tutorial - Quick start guide",
+        "url": "https://github.com/infphilo/hisat2/wiki"
+      },
+      {
+        "title": "RNA-seq aligner HISAT2 with Galaxy Training Network",
+        "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html"
+      },
+      {
+        "title": "HISAT2, StringTie and Ballgown Tutorial",
+        "url": "https://bioinformatics.uconn.edu/genome-analysis-ii-2/#"
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,12 @@
+{
+  "software_name": "r-ellipsis",
+  "software_page_link": "https://cran.r-project.org/web/packages/ellipsis/index.html",
+  "documentation_links": [
+    "https://cran.r-project.org/web/packages/ellipsis/ellipsis.pdf"
+  ],
+  "training_tutorial_materials": [
+    "https://rdocumentation.org/packages/ellipsis/versions/0.3.2",
+    "https://www.rdocumentation.org/packages/ellipsis/versions/0.3.2/topics/ellipsis",
+    "https://www.rdocumentation.org/packages/ellipsis/versions/0.3.2/topics/%20.%20or%20another%20..."
+  ]
+}

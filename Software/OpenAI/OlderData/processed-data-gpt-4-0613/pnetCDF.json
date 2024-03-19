@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "pnetCDF",
+  "Homepage": "https://parallel-netcdf.github.io/",
+  "Resources": {
+    "Documentation": "https://parallel-netcdf.github.io/wiki/Doc.html",
+    "Tutorials": [
+      "https://parallel-netcdf.github.io/wiki/Basic.html",
+      "https://parallel-netcdf.github.io/wiki/Tuning.html"
+    ],
+    "TrainingMaterial": [
+      "https://parallel-netcdf.github.io/wiki/UserNotes.html",
+      "https://github.com/Parallel-NetCDF/PnetCDF"
+    ]
+  }
+}

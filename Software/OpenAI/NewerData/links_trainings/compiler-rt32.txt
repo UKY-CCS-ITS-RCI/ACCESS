@@ -1,0 +1,13 @@
+{
+    "name": "compiler-rt32",
+    "description": "Compiler-rt32 is a set of runtime libraries for Clang and other LLVM compilers, which includes support for builtins, sanitizers, profile, SafeStack, XRay and other runtime components.",
+    "url": "https://releases.llvm.org/download.html",
+    "documentation": {
+        "LLVM Documentation": "https://llvm.org/docs/",
+        "Clang Documentation": "https://clang.llvm.org/docs/"
+    },
+    "tutorials": {
+        "LLVM Tutorial": "https://llvm.org/docs/tutorial/",
+        "LLVM and Clang Tutorials": "http://llvm.realmofcoding.com/"
+    }
+}

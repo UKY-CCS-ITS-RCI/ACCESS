@@ -1,0 +1,10 @@
+{
+    "Software": "CESM",
+    "Website": "http://www.cesm.ucar.edu/models/cesm2/",
+    "Documentation": "https://escomp.github.io/CESM/release-cesm2/quickstart.html",
+    "Tutorial_and_Training": [
+        "https://escomp.github.io/CESM/release-cesm2/tutorial.html",
+        "https://www.youtube.com/watch?v=j1aM6ypiLR8",
+        "http://www.cesm.ucar.edu/events/tutorials/"
+    ]
+}

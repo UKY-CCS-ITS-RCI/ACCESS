@@ -1,0 +1,21 @@
+{
+    "software": "Augustus",
+    "website": "http://bioinf.uni-greifswald.de/augustus/",
+    "documentation": "http://bioinf.uni-greifswald.de/augustus/submission",
+    "tutorials": [
+        {
+            "name": "Basic Tutorial",
+            "link": "http://bioinf.uni-greifswald.de/augustus/binaries/tutorial/tutorial.html"
+        },
+        {
+            "name": "Advanced tutorial",
+            "link": "http://bioinf.uni-greifswald.de/augustus/binaries/tutorial2/tutorial2.html"
+        }
+    ],
+    "training_resources": [
+        {
+            "name": "Workshop",
+            "link": "http://bioinf.uni-greifswald.de/augustus/binaries/workshop/index.html"
+        }
+    ]
+}

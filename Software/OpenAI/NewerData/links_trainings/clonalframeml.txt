@@ -1,0 +1,11 @@
+{
+  "SoftwareName": "ClonalFrameML",
+  "SoftwarePageLink": "https://github.com/xavierdidelot/ClonalFrameML",
+  "AdditionalLinks": [{
+      "DocumentationLink": "https://github.com/xavierdidelot/ClonalFrameML/wiki",
+      "TutorialAndTrainingMaterials": [{
+          "TutorialLink1": "https://sanger-pathogens.github.io/Roary/2016/02/12/clonalframe/",
+          "TutorialLink2": "https://josephhughes.github.io/SCOTTI/clonalframeml.html"
+      }]
+  }]
+}

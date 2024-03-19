@@ -1,0 +1,28 @@
+{
+  "software": {
+    "imageio": {
+      "software_url": "https://imageio.readthedocs.io/en/latest/",
+      "documentation_url": "https://imageio.readthedocs.io/en/latest/",
+      "tutorial_materials": [
+        {
+          "tutorial_name": "imageio user guide",
+          "url": "https://imageio.readthedocs.io/en/latest/userapi.html"
+        },
+        {
+          "tutorial_name": "imageio examples",
+          "url": "https://imageio.readthedocs.io/en/latest/examples.html"
+        }
+      ],
+      "additional_resources": [
+        {
+          "resource_name": "Imageio in Github",
+          "url": "https://github.com/imageio/imageio"
+        },
+        {
+          "resource_name": "Imageio on Stack Overflow",
+          "url": "https://stackoverflow.com/questions/tagged/imageio"
+        }
+      ]
+    }
+  }
+}

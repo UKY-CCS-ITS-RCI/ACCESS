@@ -1,0 +1,17 @@
+{
+  "Software": "snpSift",
+  "URL": "http://snpeff.sourceforge.net/SnpSift.html",
+  "Documentation": [
+    {
+      "URL": "http://snpeff.sourceforge.net/SnpSift_manual.html"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "https://pcingola.github.io/SnpEff/ss_intro/"
+    },
+    {
+      "URL": "http://resources.qiagenbioinformatics.com/manuals/biomedicalgenomicsworkbench/400/index.php?manual=Transform_to_SnpEff.html"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ibrun": {
+    "softwareURL": "https://kb.iu.edu/d/apum",
+    "documentation": [
+      {
+        "url": "https://www.tacc.utexas.edu/systems/stampede/user-guide#developing-parallel-applications",
+        "title": "Developing Parallel Applications"
+      }
+    ],
+    "trainingMaterial": [
+      {
+        "url": "https://learn.tacc.utexas.edu/course/view.php?id=3",
+        "title": "TACC User Portal Courses"
+      },
+      {
+        "url": "https://portal.tacc.utexas.edu/training",
+        "title": "TACC Live Training"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=HUDKwrtsTuo",
+        "title": "YouTube: MPI - Parallel Run Hello, World!"
+      }
+    ]
+  }
+}

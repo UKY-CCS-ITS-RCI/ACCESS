@@ -1,0 +1,10 @@
+{
+  "software": "lddt",
+  "software_url": "https://www.rosettacommons.org/software/overview/lddt",
+  "documentation_url": "https://airr-community.github.io/airr-standards/using_the_standards/#lddt",
+  "tutorials": [
+    "https://www.youtube.com/watch?v=Cjhk69L9Gnw",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7413607/",
+    "https://education.molssi.org/python-data-science/02-numpy/index.html"
+  ]
+}

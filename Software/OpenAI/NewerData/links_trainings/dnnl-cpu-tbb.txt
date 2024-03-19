@@ -1,0 +1,15 @@
+{
+  "software_name": "dnnl-cpu-tbb",
+  "software_page": "https://anaconda.org/conda-forge/dnnl-cpu-tbb",
+  "documentation": [
+    "https://oneapi-src.github.io/oneDNN/"
+  ],
+  "tutorials": [
+    "https://oneapi-src.github.io/oneDNN/dev_guide_intro.html",
+    "https://oneapi-src.github.io/oneDNN/dev_guide_understanding_memory_formats.html",
+    "https://oneapi-src.github.io/oneDNN/dev_guide_understanding_primitives.html"
+  ],
+  "training_materials": [
+    "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb.html"
+  ]
+}

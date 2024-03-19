@@ -1,0 +1,23 @@
+{
+  "Software": {
+    "Name": "File Transfer Protocol (FTP)",
+    "URL": {
+      "Main": "https://filezilla-project.org/",
+      "Documentation": "https://wiki.filezilla-project.org/Documentation",
+      "Tutorials": [
+        {
+          "Name": "How to use FileZilla",
+          "URL": "https://www.youtube.com/watch?v=IBtgZoaUM8E"
+        },
+        {
+          "Name": "FileZilla Tutorial for Beginners",
+          "URL": "https://www.siteground.com/tutorials/ftp/filezilla/"
+        },
+        {
+          "Name": "FileZilla FTP Tutorial",
+          "URL": "https://www.youtube.com/watch?v=vpQV8gXHDs8"
+        }
+      ]
+    }
+  }
+}

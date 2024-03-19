@@ -1,0 +1,11 @@
+{
+  "softwareName": "Decona",
+  "softwarePage": "https://github.com/cbg-ethz/Decona",
+  "documentation": null,
+  "trainingAndTutorials": [
+    {
+      "url": "https://cme.h-its.org/exelixis/dokuwiki/software:decona",
+      "title": "Decona Wiki"
+    }
+  ]
+}

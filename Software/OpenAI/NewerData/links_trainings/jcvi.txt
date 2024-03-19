@@ -1,0 +1,12 @@
+{
+  "Software": {
+    "Name": "jcvi",
+    "HomePage": "https://github.com/tanghaibao/jcvi",
+    "PythonLibrary": "jcvi",
+    "Documentation": "https://packages.python.org/jcvi/",
+    "TrainingMaterials": {
+      "Tutorial1": "https://github.com/tanghaibao/jcvi/wiki/Tutorial",
+      "Tutorial2": "https://readthedocs.org/projects/jcvi/downloads/pdf/latest/"
+    }
+  }
+}

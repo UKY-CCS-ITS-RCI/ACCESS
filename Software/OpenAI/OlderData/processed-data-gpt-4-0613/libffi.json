@@ -1,0 +1,14 @@
+{
+    "software": "libffi",
+    "resources": {
+        "softwareHomepage": "https://sourceware.org/libffi/",
+        "documentation": "https://sourceware.org/gdb/current/onlinedocs/libiberty/Function-Interfaces.html",
+        "tutorials": [
+            {
+                "title": "Tutorial: Foreign Functions Interface (FFI)",
+                "url": "https://www.haskell.org/tutorial/ffi.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

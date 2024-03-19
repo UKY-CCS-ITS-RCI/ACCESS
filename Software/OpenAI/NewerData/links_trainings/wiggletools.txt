@@ -1,0 +1,15 @@
+{
+  "Software": "Wiggletools",
+  "Software_URL": "https://github.com/Ensembl/WiggleTools",
+  "Documentation": [
+    {
+      "Link": "https://github.com/Ensembl/WiggleTools/wiki"
+    }
+  ],
+  "Training_materials": [
+    {
+      "Tutorial_1": "https://wurmlab.github.io/genomicscourse/2016-SIB/practicals/genome_annotation/annotation2_browser.html",
+      "Tutorial_2": "http://beagle.whoi.edu/bioinformatics/bioinformatics-documentation/wiggling-your-data.html"
+    }
+  ]
+}

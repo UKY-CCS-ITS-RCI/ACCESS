@@ -1,0 +1,12 @@
+{
+    "Name": "Rapmap",
+    "Software Page": "https://github.com/COMBINE-lab/RapMap",
+    "Documentation": "https://rapmap.readthedocs.io/en/latest/",
+    "Tutorials and Training Materials": [
+        {
+            "Tutorial 1": "https://combine-lab.github.io/RapMap-tutorial/",
+            "Tutorial 2": "https://www.biostars.org/p/209584/",
+            "Training Video": "https://www.youtube.com/watch?v=3foIuADakYQ"
+        }
+    ]
+}

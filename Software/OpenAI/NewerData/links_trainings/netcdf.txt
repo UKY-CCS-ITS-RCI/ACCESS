@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "netCDF",
+    "webpage": "https://www.unidata.ucar.edu/software/netcdf/",
+    "documentation": "https://www.unidata.ucar.edu/software/netcdf/docs/",
+    "tutorials" : [
+      {
+        "name": "Python and NetCDF4",
+        "url": "https://towardsdatascience.com/handling-netcdf-files-using-xarray-for-absolute-beginners-111a8ab4463f"
+      },
+      {
+        "name": "Intro to netCDF",
+        "url": "https://www.ncl.ucar.edu/Training/Tutorials/netCDF_tutorial.shtml"
+      },
+      {
+        "name": "Matlab and NetCDF",
+        "url": "https://www.mathworks.com/matlabcentral/fileexchange/15177-some-basic-netcdf-test-example"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "Software_Name": "nvhpc_latest",
+    "Software_URL": "https://developer.nvidia.com/hpc-sdk",
+    "Documentation": {
+        "Link_1": "https://docs.nvidia.com/hpc-sdk/compilers/hpc-compilers-user-guide/index.html",
+        "Link_2": "https://courses.nvidia.com/courses/course-v1:DLI+C-AC-01+V1/course/"
+    },
+    "Tutorial_Materials": {
+        "Tutorial_Link_1": "https://forums.developer.nvidia.com/c/accelerated-computing/hpc-compilers/",
+        "Tutorial_Link_2": "https://developer.nvidia.com/blog/tag/hpc-sdk/"
+    }
+}

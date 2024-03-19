@@ -1,0 +1,21 @@
+{
+  "mpich": {
+    "softwarePage": "https://www.mpich.org/",
+    "documentation": [
+      {
+        "name": "MPICH Documentation",
+        "URL": "https://www.mpich.org/documentation/"
+      }
+    ],
+    "tutorials": [
+      {
+        "name": "MPICH in 5 minutes",
+        "URL": "https://www.mpich.org/static/docs/latest/www1/mpich2-quickstart.html"
+      },
+      {
+        "name": "MPICH Install Guide",
+        "URL": "https://www.mpich.org/static/docs/v3.3/www/installguide/index.html"
+      }
+    ]
+  }
+}

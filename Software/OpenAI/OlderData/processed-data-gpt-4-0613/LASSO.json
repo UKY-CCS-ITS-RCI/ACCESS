@@ -1,0 +1,14 @@
+
+{
+    "name": "LASSO",
+    "software_page": "https://cran.r-project.org/web/packages/glmnet/index.html",
+    "documentation": "https://web.stanford.edu/~hastie/Papers/Glmnet_Vignette.pdf",
+    "tutorials": [
+        "https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net",
+        "https://www.youtube.com/watch?v=5asL5Eq2x0A"
+    ],
+    "additional_resources": [
+        "https://stats.stackexchange.com/questions/17251/how-to-tune-parameters-in-lasso",
+        "https://web.stanford.edu/~hastie/TALKS/glmnet.pdf"
+    ]
+}

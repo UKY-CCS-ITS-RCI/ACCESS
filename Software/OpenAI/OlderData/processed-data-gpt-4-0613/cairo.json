@@ -1,0 +1,10 @@
+{
+    "Software": "Cairo",
+    "Website": "https://www.cairographics.org/",
+    "Documentation": "https://www.cairographics.org/manual/",
+    "Tutorial_and_Training": [
+        "https://www.cairographics.org/tutorial/",
+        "https://www.tutorialspoint.com/cairo_graphics/cairo_graphics_tutorial.pdf",
+        "https://zetcode.com/gfx/cairo/"
+    ]
+}

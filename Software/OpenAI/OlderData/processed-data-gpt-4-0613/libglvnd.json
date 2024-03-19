@@ -1,0 +1,9 @@
+{
+    "software": "libglvnd",
+    "resources": {
+        "softwareHomepage": "https://github.com/NVIDIA/libglvnd",
+        "documentation": "https://github.com/NVIDIA/libglvnd/blob/master/README.md",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

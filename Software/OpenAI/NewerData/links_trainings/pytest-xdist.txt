@@ -1,0 +1,20 @@
+{
+  "software_name": "pytest-xdist",
+  "software_link": "https://github.com/pytest-dev/pytest-xdist",
+  "documentation_links": [
+    {
+      "documentation_title": "pytest-xdist documentation",
+      "documentation_url": "https://pytest-xdist.readthedocs.io/"
+    }
+  ],
+  "tutorial_links": [
+    {
+      "tutorial_title": "Speed up your Python tests using pytest-xdist",
+      "tutorial_url": "https://medium.com/swlh/speed-up-your-python-tests-631224636b64"
+    },
+    {
+      "tutorial_title": "How to speed up your tests with pytest-xdist",
+      "tutorial_url": "https://thebopsprogrammer.com/2022/01/05/how-to-speed-up-your-tests-with-pytest-xdist/"
+    }
+  ]
+}

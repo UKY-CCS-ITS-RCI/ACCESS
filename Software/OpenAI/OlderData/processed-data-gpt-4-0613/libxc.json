@@ -1,0 +1,9 @@
+{
+    "software": "Libxc",
+    "resources": {
+        "softwareHomepage": "https://www.tddft.org/programs/libxc/",
+        "documentation": "https://www.tddft.org/programs/libxc/manual-5.1.x/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

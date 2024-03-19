@@ -1,0 +1,9 @@
+
+{
+    "Software": "Intel Cluster Checker",
+    "Website": "https://software.intel.com/content/www/us/en/develop/tools/cluster-checker.html",
+    "Documentation": "https://software.intel.com/content/www/us/en/develop/documentation/cluster-checker-user-guide/top.html",
+    "Tutorial_and_Training": [
+        "https://software.intel.com/content/www/us/en/develop/articles/using-intel-cluster-checker.html"
+    ]
+}

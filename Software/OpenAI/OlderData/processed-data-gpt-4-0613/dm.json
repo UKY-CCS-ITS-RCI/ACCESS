@@ -1,0 +1,11 @@
+{
+  "dm": {
+    "softwarePage": "http://dm.dpdk.org/",
+    "documentation": "https://doc.dpdk.org/guides-16.07/prog_guide/env_abstraction_layer.html",
+    "additionalLinks": [
+      "https://training-course.dpdk.org/course1/",
+      "https://doc.dpdk.org/dts/test_plans/",
+      "https://labs.networkreliability.engineering/dpdk/dpdk-18.11.2-doc/build/nics.html"
+    ]
+  }
+}

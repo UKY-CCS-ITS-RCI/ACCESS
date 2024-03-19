@@ -1,0 +1,23 @@
+{
+  "software_name": "Tkinter",
+  "software_url": "https://docs.python.org/3/library/tk.html",
+  "documentation_url": "https://docs.python.org/3/library/tkinter.html",
+  "tutorial_materials": [
+    {
+      "tutorial_name": "Tkinter tutorial",
+      "url": "https://www.python-course.eu/python_tkinter.php"
+    },
+    {
+      "tutorial_name": "Tkinter tutorial for beginners",
+      "url": "https://www.geeksforgeeks.org/python-gui-tkinter/"
+    },
+    {
+      "tutorial_name": "Tkinter in Python with tutorial",
+      "url": "https://www.tutorialspoint.com/python/python_gui_programming.htm"
+    },
+    {
+      "tutorial_name": "Tkinter Tutorial: Graphics Programming in Python",
+      "url": "https://realpython.com/python-gui-tkinter/"
+    }
+  ]
+}

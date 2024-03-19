@@ -1,0 +1,19 @@
+{
+  "software": "zfp",
+  "software_url": "https://github.com/LLNL/zfp",
+  "documentation_url": "https://github.com/LLNL/zfp/blob/develop/README.md",
+  "training_materials": [
+    {
+      "title": "zfp User Guide",
+      "url": "https://computation.llnl.gov/projects/floating-point-compression"
+    },
+    {
+      "title": "zfp Tutorial on GitHub",
+      "url": "https://github.com/LLNL/zfp/tree/develop/tutorial"
+    },
+    {
+      "title": "zfp API Documentation",
+      "url": "https://zfp.readthedocs.io/en/release0.5.5/"
+    }
+  ]
+}

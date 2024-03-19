@@ -1,0 +1,23 @@
+{
+  "software": "CHARMM",
+  "software_url": "https://www.charmm.org/",
+  "documentation_url": "https://www.charmm.org/charmm/documentation/by-version/c40b1/params/doc/parameters/",
+  "training_materials": [
+    {
+      "url": "https://www.charmm.org/charmm/documentation/by-version/c40b1/",
+      "type": "Official Documentation"
+    },
+    {
+      "url": "https://www.ks.uiuc.edu/Training/Tutorials/charmm/charmm-tutorial.pdf",
+      "type": "UIUC Tutorial"
+    },
+    {
+      "url": "https://www.mdc-berlin.de/sites/default/files/media_items/charmm.pdf",
+      "type": "MDC Berlin Tutorial"
+    },
+    {
+      "url": "https://www.ks.uiuc.edu/Training/Workshop/NAMD/Slides/CHARMM-Tutorial.pdf",
+      "type": "NAMD Slides"
+    }
+  ]
+}

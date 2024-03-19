@@ -1,0 +1,19 @@
+{
+    "SoftwareName": "AmberTools",
+    "SoftwarePage": "https://ambermd.org/AmberTools.php",
+    "Documentation": "https://ambermd.org/doc12/Amber20.pdf",
+    "Tutorials": [
+        {
+            "Title": "Getting Started with Amber",
+            "URL": "https://ambermd.org/tutorials/basic/tutorial0/index.htm"
+        },
+        {
+            "Title": "Amber Advanced Tutorials",
+            "URL": "https://ambermd.org/tutorials/advanced/tutorial1/index.php"
+        },
+        {
+            "Title": "Additional Amber Tutorials",
+            "URL": "https://ambermd.org/AmberWorkshop.html"
+        }
+    ]
+}

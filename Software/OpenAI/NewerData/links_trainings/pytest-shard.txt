@@ -1,0 +1,10 @@
+{
+  "pytest-shard": {
+    "softwarePage": "https://pypi.org/project/pytest-shard/",
+    "documentation": "https://pytest-shard.readthedocs.io/",
+    "tutorial": {
+      "pytest Tutorial": "https://www.tutorialspoint.com/pytest/index.htm",
+      "Setting up Testing with pytest and pytest-cov": "https://covarsky.medium.com/setting-up-testing-with-pytest-and-pytest-cov-5a8e24172310"
+    }
+  }
+}

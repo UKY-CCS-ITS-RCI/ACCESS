@@ -1,0 +1,24 @@
+{
+  "softwareName": "r-preprocesscore",
+  "softwarePageLink": "https://bioconductor.org/packages/release/bioc/html/preprocessCore.html",
+  "documentationLinks": [
+    {
+      "documentationName": "Bioconductor Package",
+      "url": "https://bioconductor.org/packages/release/bioc/vignettes/preprocessCore/inst/doc/UsingpreprocessCore.pdf"
+    }
+  ],
+  "tutorialAndTrainingMaterials": [
+    {
+      "materialName": "GitHub Repository",
+      "url": "https://github.com/bmbolstad/preprocessCore"
+    },
+    {
+      "materialName": "Bioconductor Tutorial",
+      "url": "http://www.bioconductor.org/help/course-materials/2011/BioC2011/Lab_1_3_Normalization.pdf"
+    },
+    {
+      "materialName": "Bioinformatics Review Tutorial",
+      "url": "https://bioinformaticsreview.com/20151023/how-is-microarray-data-normalized/"
+    }
+  ]
+}

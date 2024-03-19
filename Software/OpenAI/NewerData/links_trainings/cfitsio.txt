@@ -1,0 +1,23 @@
+{
+  "Software": "cfitsio",
+  "Software URL": "https://heasarc.gsfc.nasa.gov/fitsio/fitsio.html",
+  "Documentation": [
+    {
+      "URL": "https://heasarc.gsfc.nasa.gov/docs/software/fitsio/c/c_user/"
+    },
+    {
+      "URL": "https://heasarc.gsfc.nasa.gov/docs/software/fitsio/cfitsio_readme.html"
+    }
+  ],
+  "Tutorials and Training Materials": [
+    {
+      "URL": "https://heasarc.gsfc.nasa.gov/docs/software/fitsio/c/c_user/node9.html"
+    },
+    {
+      "URL": "https://heasarc.gsfc.nasa.gov/docs/software/fitsio/c/c_user/node10.html"
+    },
+    {
+      "URL": "https://heasarc.gsfc.nasa.gov/docs/software/fitsio/c/c_user/node14.html"
+    }
+  ]
+}

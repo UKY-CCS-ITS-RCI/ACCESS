@@ -1,0 +1,28 @@
+{
+  "software": "OpenFOAM",
+  "website": "https://www.openfoam.com/",
+  "documentation": [
+    {
+      "title": "OpenFOAM Documentation",
+      "url": "https://www.openfoam.com/documentation"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "OpenFOAM User Guide",
+      "url": "https://cfd.direct/openfoam/user-guide/"
+    },
+    {
+      "title": "Introductory OpenFOAM Training",
+      "url": "https://www.openfoam.com/training/introductory.php"
+    },
+    {
+      "title": "Understanding the Basics of OpenFOAM",
+      "url": "https://www.youtube.com/watch?v=TIbAVNmb_Jo"
+    },
+    {
+      "title": "Step-by-Step OpenFOAM Tutorial",
+      "url": "http://www.bakker.org/cfdiscovery/openfoam.pdf"
+    }
+  ]
+}

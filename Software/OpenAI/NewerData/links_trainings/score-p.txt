@@ -1,0 +1,15 @@
+{
+  "Software": "score-p",
+  "Link": "https://www.vi-hps.org/projects/score-p/",
+  "Resources": [
+    {
+      "Documentation": "https://scorepci.pages.jsc.fz-juelich.de/scorep-current/pdf/scorep.pdf",
+      "Tutorials": [
+        {
+          "Score-P Tutorial at JSC" : "https://apps.fz-juelich.de/jsc/hps/j/documentation/tuning/scorep.html",
+          "Score-P Hands-on": "https://training.prace-ri.eu/materials/2016-ehpcsw/pp-presentations-pdf/188_MB26_ScoreP.pdf"
+        }
+      ]
+    }
+  ]
+}

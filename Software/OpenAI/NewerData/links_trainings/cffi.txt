@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Name": "cffi",
+    "Website": "https://cffi.readthedocs.io/en/latest/",
+    "Links": {
+      "Documentation": "https://cffi.readthedocs.io/en/latest/",
+      "Tutorials and Guides": [
+        "https://cffi.readthedocs.io/en/latest/tutorial.html",
+        "https://cffi.readthedocs.io/en/latest/overview.html"
+      ]
+    }
+  }
+}

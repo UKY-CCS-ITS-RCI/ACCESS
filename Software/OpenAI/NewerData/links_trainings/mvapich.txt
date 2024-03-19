@@ -1,0 +1,22 @@
+{
+    "mvapich": {
+        "software_page": "http://mvapich.cse.ohio-state.edu/",
+        "documentation": [
+            "http://mvapich.cse.ohio-state.edu/static/media/mvapich/mvapich2-2.1-userguide.html"
+        ],
+        "tutorial_materials": [
+            {
+                "name": "Using MVAPICH",
+                "url": "http://icl.cs.utk.edu/magma/forum/viewtopic.php?f=2&t=1174"
+            },
+            {
+                "name": "Building and Installing MVAPICH",
+                "url": "https://www.olcf.ornl.gov/kb_articles/installing-mvapich2/"
+            },
+            {
+                "name": "MPI with MVAPICH",
+                "url": "https://www.sharcnet.ca/help/index.php/MPI_with_MVAPICH"
+            }
+        ]
+    }
+}

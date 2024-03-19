@@ -1,0 +1,9 @@
+{
+  "fq": {
+    "SoftwarePage": "https://github.com/wrpearson/fq",
+    "Documentation": "No official documentation found",
+    "Tutorial": {
+      "TrainingMaterial1": "No training materials found"
+    }
+  }
+}

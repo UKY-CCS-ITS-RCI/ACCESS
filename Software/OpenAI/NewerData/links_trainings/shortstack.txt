@@ -1,0 +1,20 @@
+{
+  "Software": "ShortStack",
+  "Software_URL": "http://sites.psu.edu/axtell/software/shortstack/",
+  "Documentation": [
+    {
+      "Doc_Title": "Main Documentation",
+      "Doc_URL": "http://sites.psu.edu/axtell/files/2019/09/ShortStack.pdf"
+    }
+  ],
+  "Training_and_Tutorial_Material": [
+    {
+      "Material_Title": "ShortStack Tutorial",
+      "Material_URL": "http://sites.psu.edu/axtell/files/2019/09/ShortStack-Tutorial.pdf"
+    },
+    {
+      "Material_Title": "Example of ShortStack Implementation",
+      "Material_URL" : "https://bioinformatics.readthedocs.io/en/latest/modules/contents/howto/shortstack.html"
+    }
+  ]
+}

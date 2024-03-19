@@ -1,0 +1,11 @@
+{
+  "Software": "Sanitizers4HPC",
+  "Main_Link": "https://github.com/LLNL/sanitizers4hpc",
+  "Documentation_Link": "https://github.com/LLNL/sanitizers4hpc/blob/main/README.md",
+  "Training_Materials": [
+    {
+      "Tutorial_1": "https://llnl.github.io/sanitizers4hpc/",
+      "Tutorial_2": "https://github.com/LLNL/sanitizers4hpc/wiki"
+    }
+  ]
+}

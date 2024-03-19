@@ -1,0 +1,48 @@
+Use Case: Training a machine learning model using TensorFlow with Nvidia GPU.
+
+Code details and examples:
+
+Code:
+This example illustrates how to run a TensorFlow script utilizing GPU acceleration.
+
+Assume we have python script "train_model.py" which contains TensorFlow code to train a machine learning model. 
+
+Here is a minimal TensorFlow script snippet that checks if GPU is available for computation:
+
+```python
+# TensorFlow example snippet, checking if GPU is accessible
+
+import tensorflow as tf
+
+# check if GPU is available
+if tf.test.is_gpu_available(cuda_only=False, min_cuda_compute_capability=None):
+    print('GPU is available')
+else:
+    print('GPU is not available')
+```
+Command to run:
+
+To run this script on a system with Nvidia GPU, use the following command:
+
+```shell
+python train_model.py
+```
+Remember to set the CUDA_VISIBLE_DEVICES environment variable if you want to specify which GPUs to use:
+
+```shell
+export CUDA_VISIBLE_DEVICES=0
+python train_model.py
+```
+For multiple GPUs, assign a comma-separated list:
+
+```shell
+export CUDA_VISIBLE_DEVICES=0,1
+python train_model.py
+```
+The specified GPUs need to be visible to TensorFlow. You can check this by running the following TensorFlow command:
+
+```python
+print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('GPU')))
+```
+
+Please ensure the Nvidia drivers and CUDA toolkit are installed properly in your system as TensorFlow needs them for GPU acceleration.

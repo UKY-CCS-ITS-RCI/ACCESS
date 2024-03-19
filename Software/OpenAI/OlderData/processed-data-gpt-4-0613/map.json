@@ -1,0 +1,9 @@
+{
+"software_name": "map",
+"software_url": "https://pypi.org/project/python-maps/",
+"software_documentation": "https://python-maps.readthedocs.io/en/latest/",
+"software_tutorials": [
+"https://realpython.com/python-maps-function/",
+"https://www.tutorialsteacher.com/python/python-map-function",
+"https://www.geeksforgeeks.org/python-map-function/"]
+}

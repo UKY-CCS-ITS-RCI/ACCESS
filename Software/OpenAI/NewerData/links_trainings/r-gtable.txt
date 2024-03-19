@@ -1,0 +1,12 @@
+{
+  "software_name": "r-gtable",
+  "software_URL": "https://cran.r-project.org/web/packages/gtable/index.html",
+  "documentation_links": [
+    "https://cran.r-project.org/web/packages/gtable/gtable.pdf",
+    "https://www.rdocumentation.org/packages/gtable/versions/0.3.0"
+  ],
+  "tutorial_materials": [
+    "https://www.r-bloggers.com/2012/04/gtable-package/",
+    "https://www.r-bloggers.com/2017/04/practical-ggplot2-using-the-gtable-package-clubbing-the-plot-and-legend-into-the-same-cell/"
+  ]
+}

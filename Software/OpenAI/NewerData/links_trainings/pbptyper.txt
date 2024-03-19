@@ -1,0 +1,23 @@
+{
+  "softwareName": "PbPtyper",
+  "softwareURL": "https://github.com/phe-bioinformatics/PBPtyper",
+  "documentation": "https://github.com/phe-bioinformatics/PBPtyper#readme",
+  "trainingMaterial": [
+    {
+      "title": "GitHub repository",
+      "url": "https://github.com/phe-bioinformatics/PBPtyper"
+    },
+    {
+      "title": "Rdocumentation - Bioinformatics packages",
+      "url": "https://www.rdocumentation.org/packages/category/Bioinformatics"
+    },
+    {
+      "title": "Throughout the training - bioinformatics strategies",
+      "url": "http://seqanswers.com/forums/showthread.php?t=26317"
+    },
+    {
+      "title": "Bioinformatics Training - online courses & resources",
+      "url": "https://www.mygoblet.org/training-portal"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "XZ": 
+    { 
+      "URL": "https://tukaani.org/xz/",
+      "Documentation": "https://tukaani.org/xz/xz-javadoc/index.html",
+      "Tutorials": 
+      [
+        {
+          "How to use XZ compression tools": "https://linoxide.com/linux-command/linux-xz-command-examples/"
+        },
+        {
+          "Compress File and Directories using XZ": "https://sharadchhetri.com/2014/05/18/compress-file-directories-xz-format-linux-system/"
+        },
+        {
+          "How to Compress and Extract Files Using the tar Command on Linux": "https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/"
+        },
+        {
+          "Decompress .tar.xz archive on Linux": "https://deciphertools.com/blog/2014-07-18-decompress-tar-xz/"
+        }
+      ]
+    }
+  }
+}

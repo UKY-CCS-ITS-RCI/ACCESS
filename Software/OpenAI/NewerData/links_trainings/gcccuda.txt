@@ -1,0 +1,24 @@
+{
+  "software_name": "gcccuda",
+  "software_page_url": "https://docs.computecanada.ca/wiki/Gcccuda",
+  "documentation_links": [
+    {
+      "url": "https://gcc.gnu.org/onlinedocs/",
+      "title": "GCC Online Docs"
+    },
+    {
+      "url": "https://docs.nvidia.com/cuda/",
+      "title": "CUDA Docs"
+    }
+  ],
+  "training_and_tutorial_materials": [
+    {
+      "url": "http://www.hpc.lsu.edu/docs/guides.php",
+      "title": "LSU HPC Training Guides"
+    },
+    {
+      "url": "https://www.udemy.com/topic/cuda/",
+      "title": "Udemy CUDA Courses"
+    }
+  ]
+}

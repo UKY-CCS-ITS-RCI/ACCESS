@@ -1,0 +1,12 @@
+{
+  "Software": "Meson",
+  "Link": "https://mesonbuild.com/",
+  "Additional_Web_URL": 
+  [
+    {
+      "Documentation": "https://mesonbuild.com/Documentation.html",
+      "Tutorial": "https://mesonbuild.com/Tutorial.html",
+      "Training": "https://mesonbuild.com/Getting-meson.html"
+    }
+  ]
+}

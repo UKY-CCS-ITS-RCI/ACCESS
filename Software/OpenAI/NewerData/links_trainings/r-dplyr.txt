@@ -1,0 +1,32 @@
+{
+  "software_name": "r-dplyr",
+  "software_page": "https://dplyr.tidyverse.org/",
+  "documentation": [
+    {
+      "docs_name": "R-Dplyr Official Documentation",
+      "docs_url": "https://dplyr.tidyverse.org/reference/dplyr-package.html"
+    },
+    {
+      "docs_name": "R-Dplyr Introduction on CRAN",
+      "docs_url": "https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html"
+    },
+    {
+      "docs_name": "R-Dplyr Cheat Sheet",
+      "docs_url": "https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorial_name": "Data Manipulation with R-Dplyr on DataCamp",
+      "tutorial_url": "https://www.datacamp.com/courses/data-manipulation-with-dplyr"
+    },
+    {
+      "tutorial_name": "R-Dplyr: Data Manipulation R Tutorial",
+      "tutorial_url": "https://www.edureka.co/blog/r-dplyr-tutorial/"
+    },
+    {
+      "tutorial_name": "Data Wrangling with dplyr and tidyr Cheat Sheet",
+      "tutorial_url": "https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf"
+    }
+  ]
+}

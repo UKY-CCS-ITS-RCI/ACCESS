@@ -1,0 +1,24 @@
+Use Case: Cython is a programming language that makes it easy to write C extensions for Python.
+
+Code details and examples: 
+To use Cython, you first need to create a Cython file with a .pyx extension. Here is an example of a simple Cython file named `example.pyx`:
+
+```python
+def add_numbers(int a, int b):
+    return a + b
+```
+
+To compile the Cython file into a C extension module, you can use the following command:
+
+```
+cythonize -i example.pyx
+```
+
+This will generate a `example.c` file and compile it into a shared object file that can be imported into Python. You can then use the Cythonized module in Python like this:
+
+```python
+import example
+
+result = example.add_numbers(10, 20)
+print(result)  # Output: 30
+```

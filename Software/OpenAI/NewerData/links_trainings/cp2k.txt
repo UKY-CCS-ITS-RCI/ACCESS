@@ -1,0 +1,28 @@
+{
+  "Software": "CP2K",
+  "URL": "https://www.cp2k.org/",
+  "Documentation": [
+    {
+      "URL": "https://manual.cp2k.org/",
+      "Title": "CP2K Manual"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "https://www.cp2k.org/exercises:2019_ethz_mmm",
+      "Title": "CP2K Tutorial: Molecular Mechanics and Molecular Dynamics"
+    },
+    {
+      "URL": "https://www.cp2k.org/howto:qm_mm",
+      "Title": "CP2K HowTo: QM/MM"
+    },
+    {
+      "URL": "https://www.cp2k.org/tutorial:acpype",
+      "Title": "CP2K Tutorial: ACPYPE"
+    },
+    {
+      "URL": "https://www.cp2k.org/tutorial:bonded",
+      "Title": "CP2K Tutorial: Bonded"
+    }
+  ]
+}

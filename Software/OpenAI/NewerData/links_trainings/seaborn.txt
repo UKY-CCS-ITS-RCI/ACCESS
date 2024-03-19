@@ -1,0 +1,12 @@
+{
+  "software": "seaborn",
+  "softwarePage": "https://seaborn.pydata.org/",
+  "documentation": [
+    {"name": "Official Documentation", "URL": "https://seaborn.pydata.org/api.html"}
+  ],
+  "tutorials": [
+    {"name": "Official Tutorials", "URL": "https://seaborn.pydata.org/tutorial.html"},
+    {"name": "Seaborn Tutorial on Kaggle", "URL": "https://www.kaggle.com/kralmachine/seaborn-tutorial-for-beginners"},
+    {"name": "Seaborn Tutorial on DataCamp", "URL": "https://www.datacamp.com/community/tutorials/seaborn-python-tutorial"}
+  ]
+}

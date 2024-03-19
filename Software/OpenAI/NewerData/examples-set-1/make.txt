@@ -1,0 +1,35 @@
+Use Case: Use Make to build and install your programs from source code. It is a useful tool that automatically figures out which pieces of a larger system need to be re-compiled, and issues the necessary commands to re-compile them. 
+
+Code Details and Examples: 
+
+To use Make, you need to write a Makefile, which is a simple text file that tells Make how to compile and link a program.
+
+A Makefile contains a set of directives that describe the dependencies among files in your program and provides commands for updating each file.
+
+An example of a makefile: 
+
+```makefile
+helloworld: helloworld.o
+    gcc -o helloworld helloworld.o
+
+helloworld.o: helloworld.c
+    gcc -c helloworld.c
+
+clean:
+    rm helloworld.o helloworld
+```
+
+In this Makefile,
+
+1. `helloworld` is the target, and `helloworld.o` its dependency. If `helloworld.o` is modified, `make` will rebuild `helloworld`.
+
+2. `helloworld.o` is the target, and `helloworld.c` the dependency. If `helloworld.c` is updated, `make` will rebuild `helloworld.o`.
+
+3. `-c` tells gcc to compile the .c file into an object file (.o) but not link it.
+
+4. The `clean` target is a conventional target for removing compiled files from the directory.
+
+The command used to run this file is: `make helloworld`
+
+
+Remember, make is not always used for compiling C/C++ programs and can be used to build and automate various tasks in a programming language. It's just that, it is most commonly used for this use case.

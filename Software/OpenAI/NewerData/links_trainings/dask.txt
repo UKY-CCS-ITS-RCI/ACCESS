@@ -1,0 +1,16 @@
+{
+  "Software Name": "Dask",
+  "Software Page": "https://dask.org/",
+  "Links": [
+    {
+      "Documentation": "https://docs.dask.org/en/latest/",
+      "Tutorials": [
+        "https://tutorial.dask.org/",
+        "https://examples.dask.org/",
+        "https://www.youtube.com/watch?v=mqdglv9GnM8",
+        "https://www.youtube.com/watch?v=RA_2qdipVng",
+        "https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b"
+      ]
+    }
+  ]
+}

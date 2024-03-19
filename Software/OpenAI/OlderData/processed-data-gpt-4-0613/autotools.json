@@ -1,0 +1,10 @@
+{
+   "Software": "Autotools",
+   "Website": "https://www.gnu.org/software/automake/",
+   "Documentation": "https://www.gnu.org/software/autoconf/manual/autoconf.html",
+   "Tutorial_and_Training": [
+      "https://www.lrde.epita.fr/~adl/dl/autotools.pdf",
+      "https://www.sourceware.org/autobook/",
+      "https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html"
+   ]
+}

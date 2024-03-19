@@ -1,0 +1,19 @@
+{
+"name": "Amber",
+"softwarePage": "https://ambermd.org/",
+"documentation": "https://ambermd.org/doc12/Amber20.pdf",
+"tutorialMaterials": [
+    {
+        "name": "Amber Tutorials",
+        "url": "https://ambermd.org/tutorials/"
+    },
+    {
+        "name": "Getting Started with Amber",
+        "url": "https://ambermd.org/GetAmber.php#htoc5"
+    },
+    {
+        "name": "Workshop tutorials for the AMBER molecular simulation package",
+        "url": "https://jswails.wikidot.com/tutorials"
+    }
+  ]
+}

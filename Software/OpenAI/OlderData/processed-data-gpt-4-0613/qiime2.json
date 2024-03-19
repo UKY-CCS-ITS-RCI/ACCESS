@@ -1,0 +1,23 @@
+{
+    "software": "QIIME 2",
+    "resources": {
+        "softwareHomepage": "https://qiime2.org/",
+        "documentation": "https://docs.qiime2.org/2021.4/",
+        "tutorials": [
+            {
+                "title": "QIIME 2 User Documentation",
+                "url": "https://docs.qiime2.org/2021.4/tutorials/overview/"
+            },
+            {
+                "title": "QIIME 2 Workshop recordings",
+                "url": "https://www.youtube.com/playlist?list=PL_ServerUEAITZTZXt0nCG1Ujv5dh_DDv9R"
+            }
+        ],
+        "trainingMaterials": [
+            {
+                "title": "QIIME 2 Workshop PDFs",
+                "url": "http://jairideout.net/teaching/qiime.html"
+            }
+        ]
+    }
+}

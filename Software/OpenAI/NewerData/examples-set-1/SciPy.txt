@@ -1,0 +1,34 @@
+Use Case: 
+Computing the Discrete Fourier Transform (DFT) for a signal.
+
+Code details and examples:
+Code
+
+We are required to have a 1-D array as input. For example, we can define a simple sine wave.
+Here we define a function 'f' computing a sine wave where A is the amplitude, f is the frequency, t is the time and phi is the phase.
+We have a time vector 't' from 0 to 1 seconds.
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy import fftpack
+
+A = .5
+f = 1
+phi = np.pi/2
+t = np.linspace(0, 1, 500)
+s = A * np.sin(2 * np.pi * f * t + phi)
+
+# compute FFT
+S = fftpack.fft(s)
+
+# frequency components
+freqs = fftpack.fftfreq(len(s))
+
+plt.plot(freqs, np.abs(S))
+plt.show()
+```
+
+Here, `A * np.sin(2 * np.pi * f * t + phi)` generates the input signal where `A` is the amplitude, `f` is the frequency, `t` is the time, and `phi` is the phase shift. `fftpack.fft(s)` computes the one-dimensional n-point discrete Fourier Transform (DFT) and the n-point inverse DFT. `fftpack.fftfreq()` gives the Discrete Fourier Transform sample frequencies. These frequencies are useful to understand the frequency components in the signal.
+
+To run it, just type `python filename.py` on the terminal (where filename.py is the name of your python file) if you have python and SciPy installed.

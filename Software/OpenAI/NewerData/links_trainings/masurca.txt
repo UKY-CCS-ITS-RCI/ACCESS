@@ -1,0 +1,15 @@
+{
+  "Software": "MaSuRCA",
+  "WebLinks": {
+    "SoftwareHomePage": "https://www.genome.umd.edu/masurca.html",
+    "Documentation": [
+      "https://github.com/alekseyzimin/masurca",
+      "https://f1000research.com/articles/4-1070/v1"
+    ],
+    "TrainingAndTutorials": [
+      "https://masurca.blogspot.com/",
+      "https://bioinformaticsworkbook.org/Appendix/Assemblers/MaSuRCA/MaSuRCA_tutorial.html",
+      "https://www.youtube.com/watch?v=TK6OFNTGtMQ"
+    ]
+  }
+}

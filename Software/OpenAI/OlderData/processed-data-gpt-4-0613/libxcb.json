@@ -1,0 +1,9 @@
+{
+    "software": "libxcb",
+    "resources": {
+        "softwareHomepage": "https://xcb.freedesktop.org/",
+        "documentation": "https://xcb.freedesktop.org/PublicApi/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

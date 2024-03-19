@@ -1,0 +1,7 @@
+{
+  "software_name": "HELEN",
+  "software_URL": "https://github.com/kishwarshafin/helen",
+  "documentation_URL": "https://github.com/kishwarshafin/helen",
+  "tutorial_URL": "No specific tutorials found",
+  "training_materials_URL": "No specific training materials found"
+}

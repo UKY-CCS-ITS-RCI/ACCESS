@@ -1,0 +1,47 @@
+Use Case: Rclone is a command line program designed to sync files and directories to and from different cloud storage providers like Google Drive, Amazon S3, Dropbox, and others. It can also be used to sync files between local storage and cloud storage or vice versa.
+
+Code details and examples: Code
+
+1. To copy files from your local machine to Google Drive
+
+Sample input file: A local file or directory, your Google Drive credentials stored in a config file. The config file is a text file where you store your remote server information. 
+
+Format required: Text file for configuration.
+
+Specifications and details in input files: The config file has entries for each remote server you want to connect to. The details may include type of storage, client ID, client secret, scope, root folder id, and service account file.
+
+Code:
+
+First you need to configure rclone with your Google Drive using:
+
+```
+rclone config
+```
+
+After configuration you can use the following command to copy a local directory to a Google Drive:
+
+```
+rclone copy /path/to/local/directory remoteName:path/to/drive/directory
+```
+
+2. To sync a directory from Dropbox to the local machine.
+
+Sample input file: Your Dropbox credentials stored in a config file, local directory path. 
+
+Format required: Text file for configuration. 
+
+Specifications and details in input files: The config file has entries for each remote server you want to connect to. The details may include type of storage, client ID, client secret, and root folder id.
+
+Code:
+
+First you need to configure rclone with your Dropbox using:
+
+```
+rclone config
+```
+
+After configuration you can use the following command to sync a Dropbox directory to a local directory:
+
+```
+rclone sync remoteName:path/to/dropbox/directory /path/to/local/directory
+```

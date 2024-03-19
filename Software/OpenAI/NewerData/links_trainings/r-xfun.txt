@@ -1,0 +1,13 @@
+{
+  "software_name": "r-xfun",
+  "software_url": "https://cran.r-project.org/web/packages/xfun/index.html",
+  "documentation_links": [
+    "https://cran.r-project.org/web/packages/xfun/xfun.pdf",
+    "https://yihui.org/xfun/"
+  ],
+  "training_materials": [
+    "https://johannesbjork.rbind.io/post/2020/xfun_bibtex/",
+    "https://www.rdocumentation.org/packages/xfun/versions/0.24",
+    "https://datageeek.com/2021/01/06/xfun-a-collection-of-miscellaneous-functions-by-yihui-xie/"
+  ]
+}

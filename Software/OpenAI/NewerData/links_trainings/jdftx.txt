@@ -1,0 +1,11 @@
+{
+  "jdftx": {
+    "SoftwarePage": "http://jdftx.org/",
+    "Documentation": "http://jdftx.org/Documentation.html",
+    "Tutorials": {
+      "Using JDFTx": "http://jdftx.org/Spin-density-functional-theory.html",
+      "JDFTx Basic Examples": "http://jdftx.org/Examples.html",
+      "YouTube Tutorial": "https://www.youtube.com/user/Phelafel/videos"
+    }
+  }
+}

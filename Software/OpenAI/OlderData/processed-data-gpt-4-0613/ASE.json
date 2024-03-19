@@ -1,0 +1,19 @@
+{
+  "Software": "ASE",
+  "Website": "https://wiki.fysik.dtu.dk/ase/",
+  "Documentation": "https://wiki.fysik.dtu.dk/ase/ase/index.html",
+  "Tutorials and Training material": [
+    {
+      "Title": "Getting Started with ASE",
+      "Link": "https://wiki.fysik.dtu.dk/ase/ase/install.html"
+    },
+    {
+      "Title": "ASE Tutorials",
+      "Link": "https://wiki.fysik.dtu.dk/ase/tutorials/tutorials.html"
+    },
+    {
+      "Title": "Materials simulations using Python and ASE",
+      "Link": "https://compmatphys.epfl.ch/etss19/slides/quantum-espresso-ase.pdf"
+    }
+  ]
+}

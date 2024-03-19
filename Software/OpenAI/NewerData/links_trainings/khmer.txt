@@ -1,0 +1,19 @@
+{
+  "Software": "khmer",
+  "Software_URL": "https://github.com/dib-lab/khmer",
+  "Documentation": {
+    "Documentation_URL1": "https://khmer.readthedocs.io/en/latest/introduction.html",
+    "Documentation_URL2": "https://khmer.readthedocs.io/en/latest/user/quickstart.html",
+    "Documentation_URL3": "https://khmer.readthedocs.io/en/latest/user/scripts.html"
+  },
+  "Training": {
+    "Training_URL1": "https://khmer-protocols.readthedocs.io/",
+    "Training_URL2": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-kallisto/tutorial.html",
+    "Training_URL3": "https://angus.readthedocs.io/en/2019/recovering-repeats-and-scaffolds.html"
+  },
+  "Tutorial": {
+    "Tutorial_URL1": "https://github.com/dib-lab/khmer/tree/main/examples/python-api",
+    "Tutorial_URL2": "https://khmer.readthedocs.io/en/latest/user/get_data.html",
+    "Tutorial_URL3": "https://khmer-protocols.readthedocs.io/en/v0.8.4/metagenomics/3-annotation.html"
+  }
+}

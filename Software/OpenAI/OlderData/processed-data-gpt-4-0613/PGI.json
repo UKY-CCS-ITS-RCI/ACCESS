@@ -1,0 +1,12 @@
+{
+  "SoftwareName": "PGI",
+  "Homepage": "https://www.pgroup.com/",
+  "Resources": {
+    "Documentation": "https://docs.nvidia.com/hpc-sdk/",
+    "Tutorials": [
+      "https://www.olcf.ornl.gov/tutorial/getting-started-with-the-pgi-compiler-suite/",
+      "https://docs.nvidia.com/hpc-sdk/hpc-sdk-user-guide/index.html"
+    ],
+    "TrainingMaterial": ["https://www.youtube.com/watch?v=U0P-tCQpELk"]
+  }
+}

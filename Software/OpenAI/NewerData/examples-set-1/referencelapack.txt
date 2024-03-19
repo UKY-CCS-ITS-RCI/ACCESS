@@ -1,0 +1,58 @@
+Use Case: Solving systems of linear equations, linear least squares, eigenvalue problems, and singular value problems.
+
+Code details and examples:
+
+Code: 
+
+LAPACK provides functions to perform these operations and therefore requires a Fortran compiler to run. The optimal way to use LAPACK is to link it to your Fortran program and call the necessary function. Here is a small example of calling the `DGESV` function, which solves a system of linear equations A*X=B.
+
+The Function Prototype:
+
+```Fortran
+SUBROUTINE DGESV( N, NRHS, A, LDA, IPIV, B, LDB, INFO )
+```
+Where:
+- N: the order of the matrix A (number of linear equations).
+- NRHS: the number of right hand sides (columns in B).
+- A: the coefficient matrix A. 
+- LDA: the leading dimension of A.
+- IPIV: pivot indices.
+- B: the matrix of right hand sides B.
+- LDB: the leading dimension of B.
+- INFO: indicates success (0) or a failure (> 0).
+
+Your entire Fortran program might look something like:
+```Fortran
+PROGRAM SolveSystem
+  IMPLICIT NONE
+  DOUBLE PRECISION, DIMENSION(3,3) :: A
+  DOUBLE PRECISION, DIMENSION(3,1) :: B
+  INTEGER :: N, NRHS, INFO
+  INTEGER, DIMENSION(3) :: IPIV
+
+  N = 3
+  NRHS = 1
+    
+  ! Fill the arrays A and B with your values here
+  A = ... 
+  B = ...
+
+  CALL DGESV(N, NRHS, A, N, IPIV, B, N, INFO)
+
+  IF (INFO == 0) THEN
+    PRINT *, 'Solution:'
+    PRINT *, B
+  ELSE
+    PRINT *, 'The algorithm did not converge'
+  END IF
+END PROGRAM SolveSystem
+```
+- Enter the Fortran code in a .f or .f90 file.
+- Execute the Fortran compiler like this:
+```shell
+gfortran -o solve_system solve_system.f -lblas -llapack
+```
+- Run your program:
+```shell
+./solve_system
+```

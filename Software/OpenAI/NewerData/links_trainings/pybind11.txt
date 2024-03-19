@@ -1,0 +1,13 @@
+{
+  "Software": "pybind11",
+  "Details": {
+    "Software Homepage": "https://github.com/pybind/pybind11",
+    "Documentation": "https://pybind11.readthedocs.io/",
+    "Tutorials and Training Materials": [
+      {"Introduction to pybind11": "https://pybind11.readthedocs.io/en/stable/basics.html"},
+      {"pybind11 tutorial by EuroScipy 2019": "https://www.euroscipy.org/2019/schedule/presentation/3/"},
+      {"pybind11 example project on GitHub": "https://github.com/pybind/python_example"},
+      {"Advanced usage of pybind11": "https://pybind11.readthedocs.io/en/stable/advanced.html"}
+    ]
+  }
+}

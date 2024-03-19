@@ -1,0 +1,29 @@
+{
+  "HOMER": {
+    "software_page": "http://homer.ucsd.edu/homer/",
+    "documentation": [
+      {
+          "url": "http://homer.ucsd.edu/homer/introduction/basics.html",
+          "title": "Basic Instructions"
+        },
+        {
+          "url": "http://homer.ucsd.edu/homer/introduction/programs.html",
+          "title": "Program Instructions"
+        },
+        {
+          "url": "http://homer.ucsd.edu/homer/introduction/installation.html",
+          "title": "Installation Instructions"
+        }
+    ],
+    "training_materials": [
+      {
+        "url": "http://homer.ucsd.edu/homer/data/homerTutorial/index.html",
+        "title": "HOMER Tutorial"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Bn1y6fm3Ntw",
+        "title": "YouTube Tutorial - Homer Motif Discovery"
+      }
+    ]
+  }
+}

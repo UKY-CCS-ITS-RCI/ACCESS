@@ -1,0 +1,11 @@
+{
+  "softwareName": "HDF",
+  "links": {
+    "softwarePage": "https://www.hdfgroup.org/",
+    "documentation": "https://support.hdfgroup.org/HDF5/doc/index.html",
+    "officialTutorial": "https://support.hdfgroup.org/HDF5/Tutor/HDF5Intro.html",
+    "tutorial1": "https://www.hdfgroup.org/HDF5/Tutor/HDF5Intro.pdf",
+    "tutorial2": "https://www.hdfgroup.org/wp-content/uploads/2019/03/HDF5Intro.pdf",
+    "tutorial3": "https://www.youtube.com/watch?v=iePTlCCs6zE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "software_name": "TensorBoard",
+  "website_url": "https://www.tensorflow.org/tensorboard",
+  "documentation_url": "https://www.tensorflow.org/tensorboard/get_started",
+  "additional_resources": [
+    {
+      "name": "TensorBoard Tutorial - TensorFlow",
+      "url": "https://www.tensorflow.org/tensorboard/tensorboard_tutorial"
+    },
+    {
+      "name": "TensorBoard in PyTorch - PyTorch Tutorials",
+      "url": "https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html"
+    },
+    {
+      "name": "TensorBoard Visualization - TensorFlow YouTube",
+      "url": "https://www.youtube.com/watch?v=zia4ctoQaPQ"
+    },
+    {
+      "name": "TensorBoard GitHub",
+      "url": "https://github.com/tensorflow/tensorboard"
+    },
+    {
+      "name": "TensorBoard - Coursera",
+      "url": "https://www.coursera.org/lecture/introduction-tensorflow/tensorboard-0hMxG"
+    }
+  ]
+}

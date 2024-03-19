@@ -1,0 +1,10 @@
+{
+  "Software Name": "libpciaccess",
+  "Software Page": {
+    "URL": "https://cgit.freedesktop.org/xorg/lib/libpciaccess/",
+    "Documentation": {
+      "URL": "https://www.mankier.com/package/libpciaccess-devel",
+      "Training And Tutorial": []
+    }
+  }
+}

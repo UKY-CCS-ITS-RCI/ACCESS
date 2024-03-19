@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "ISA": {
+      "MainPage": "http://isa-tools.org/",
+      "Documentation": "https://isa-specs.readthedocs.io/en/latest/index.html",
+      "Tutorials": [
+        "https://www.ebi.ac.uk/training/online/course/isa-tools-helping-submit-enadata/what-isa-tools",
+        "http://isa-tools.org/format/specification.html",
+        "https://www.youtube.com/watch?v=29OZV_ODvfI"
+      ]
+    }
+  }
+}

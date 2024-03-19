@@ -1,0 +1,20 @@
+{
+  "pv": {
+    "homepage": "https://www.paraview.org/",
+    "documentation": "https://www.paraview.org/Wiki/ParaView",
+    "tutorials": [
+      {
+        "name": "ParaView Tutorials",
+        "url": "https://www.paraview.org/Wiki/ParaView/Tutorials"
+      },
+      {
+        "name": "ParaView Tutorial Course",
+        "url": "https://www.youtube.com/playlist?list=PLs3wJzBBZAn5qPyxMOQTg2hk3J8V2vv-7"
+      },
+      {
+        "name": "ParaView User's Guide",
+        "url": "https://www.paraview.org/files/v4.0/ParaViewUsersGuide_v4.0.1.pdf"
+      }
+    ]
+  }
+}

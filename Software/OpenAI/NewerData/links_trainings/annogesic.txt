@@ -1,0 +1,20 @@
+{
+  "software": "annogesic",
+  "software_url": "https://github.com/Sung-Huan/ANNOgesic",
+  "documentation": [
+    {
+      "url": "https://annogesic.readthedocs.io/en/latest/"
+    }
+  ],
+  "tutorial": [
+    {
+      "url": "https://sung-huan.github.io/ANNOgesic/tutorials.html"
+    },
+    {
+      "url": "https://bacterial-genomics.readthedocs.io/en/latest/annogesic.html"
+    },
+    {
+      "url": "https://annogesic.readthedocs.io/en/latest/tutorial.html"
+    }
+  ]
+}

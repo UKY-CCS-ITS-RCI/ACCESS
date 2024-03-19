@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "PHYLIP",
+  "Homepage": "http://evolution.genetics.washington.edu/phylip.html",
+  "Resources": {
+    "Documentation": "http://evolution.genetics.washington.edu/phylip/doc/main.html",
+    "Tutorials": [
+      "http://evolution.genetics.washington.edu/phylip/using1.html",
+      "https://bioinformaticsworkbook.org/dataAnalysis/Phylogenetics/phylogenetics-basics/phylip.html#gsc.tab=0"
+    ],
+    "TrainingMaterial": [
+      "http://evolution.genetics.washington.edu/phylip/manual.pdf",
+      "https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-1-4"
+    ]
+  }
+}

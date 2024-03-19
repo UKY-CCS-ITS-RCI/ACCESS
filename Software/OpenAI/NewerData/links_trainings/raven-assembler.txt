@@ -1,0 +1,11 @@
+{
+  "Software": "Raven Assembler",
+  "Webpage": "https://github.com/lbcb-sci/raven",
+  "AdditionalLinks": {
+    "Documentation": "https://anaconda.org/bioconda/raven-assembler",
+    "TrainingMaterials": {
+      "Tutorial1": "https://www.youtube.com/watch?v=U-3sAvGkUwo",
+      "Tutorial2": "https://www.youtube.com/watch?v=3l1RfKfdDQg"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Software": "BLAT",
+  "Website": "https://genome.ucsc.edu/goldenPath/help/blatSpec.html",
+  "Documentation": "https://genome.ucsc.edu/goldenPath/help/blatSpec.html",
+  "Tutorials and Training material": [
+    {
+      "Title": "BLAT Search Guide",
+      "Link": "https://genome.ucsc.edu/goldenPath/help/blatSpec.html"
+    },
+    {
+      "Title": "BLAT - Fast Sequence Aligner",
+      "Link": "https://genome.ucsc.edu/goldenPath/help/blatSpec.html"
+    },
+    {
+      "Title": "BLAT User Guide And Tutorial",
+      "Link": "https://www.bionity.com/en/whitepapers/19188/blat-user-guide-and-tutorial.html"
+    }
+  ]
+}

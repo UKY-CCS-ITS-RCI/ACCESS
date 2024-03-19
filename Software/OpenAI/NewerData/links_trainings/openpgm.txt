@@ -1,0 +1,29 @@
+{
+  "software": "OpenPGM",
+  "link": "https://code.google.com/archive/p/openpgm/",
+  "documentation": "http://web.archive.org/web/20210128162419/http://openpgm.googlecode.com/files/pgm.html",
+  "training": [
+    {
+      "name": "OpenPGM 101 - Getting Started",
+      "link": "http://openpgm.blogspot.com/2010/03/openpgm-101-getting-started.html"
+    },
+    {
+      "name": "OpenPGM 102 - Guide to Building",
+      "link": "http://openpgm.blogspot.com/2010/03/openpgm-102-guide-to-building.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "OpenPGM 103 - Program Structure",
+      "link": "http://openpgm.blogspot.com/2010/03/openpgm-103-program-structure.html"
+    },
+    {
+      "name": "OpenPGM 104 - Reactor Model",
+      "link": "http://openpgm.blogspot.com/2010/04/openpgm-104-reactor-model.html"
+    },
+    {
+      "name": "OpenPGM 105 - Source Rate Control",
+      "link": "http://openpgm.blogspot.com/2010/04/openpgm-105-source-rate-control.html"
+    }
+  ]
+}

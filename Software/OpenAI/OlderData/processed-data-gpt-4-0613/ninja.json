@@ -1,0 +1,17 @@
+{
+    "Software": {
+        "Name": "Ninja",
+        "Main_Page": "https://ninja-build.org",
+        "Documentation": "https://ninja-build.org/manual.html",
+        "Training_Materials":[
+            {
+                "Name":"Ninja Explained",
+                "URL":"https://www.youtube.com/watch?v=meTqli_Skj4"
+            },
+            {
+                "Name":"Ninja Build System",
+                "URL":"https://medium.com/geekculture/understanding-ninja-build-system-6cd77315548c"
+            }
+    ]
+    }
+}

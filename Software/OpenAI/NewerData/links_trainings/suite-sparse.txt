@@ -1,0 +1,13 @@
+{
+  "suite-sparse": {
+    "mainSoftwareLink": "http://faculty.cse.tamu.edu/davis/suitesparse.html",
+    "documentationLinks": [
+      "https://people.engr.tamu.edu/davis/suitesparse.html",
+      "https://github.com/DrTimothyAldenDavis/SuiteSparse"
+    ],
+"tutorialLinks": [
+      "https://people.engr.tamu.edu/davis/GraphBLAS/GraphBLAS-Math.pdf",
+      "https://github.com/DrTimothyAldenDavis/GraphBLAS/blob/stable/Doc/GraphBLAS_UserGuide.pdf"
+    ]
+  }
+}

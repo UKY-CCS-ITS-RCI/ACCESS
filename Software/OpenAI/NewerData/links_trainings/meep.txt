@@ -1,0 +1,17 @@
+{
+  "Software Name": "Meep",
+  "Website": "https://meep.readthedocs.io/",
+  "Documentation": {
+    "Meep Documentation": "https://meep.readthedocs.io/en/latest/Contents/"
+  },
+  "Tutorials": {
+    "Meep Tutorial": "https://meep.readthedocs.io/en/latest/Tutorials/",
+    "Python-Meep tutorial": "https://meep.readthedocs.io/en/latest/Python_Tutorials/",
+    "Python-Meep-Simulation-tutorial": "https://meep.readthedocs.io/en/latest/Python_Tutorials/Simulation/"
+  },
+  "Additional Resources": {
+    "Meep Source Code": "https://github.com/NanoComp/meep",
+    "Meep Installation Guide": "https://meep.readthedocs.io/en/latest/Installation/",
+    "Meep FAQ": "https://meep.readthedocs.io/en/latest/FAQ/"
+  }
+}

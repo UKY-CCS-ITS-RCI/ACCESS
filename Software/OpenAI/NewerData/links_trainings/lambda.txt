@@ -1,0 +1,29 @@
+{
+  "name": "lambda (Python)",
+  "web_link": "https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions",
+  "documentation": "https://docs.python.org/3/reference/expressions.html#lambda",
+  "tutorials": [
+    {
+      "name": "Lambda Expressions & Anonymous Functions",
+      "link": "https://realpython.com/python-lambda/"
+    },
+    {
+      "name": "Python Lambda",
+      "link": "https://www.w3schools.com/python/python_lambda.asp"
+    },
+    {
+      "name": "Understanding Python's 'map' function",
+      "link": "https://opensource.com/article/18/4/introduction-python-map-function"
+    }
+  ],
+  "training": [
+  {
+      "name": "Lambda, filter, reduce and map",
+      "link": "https://www.learnpython.org/en/Map,_Filter,_Reduce"
+    },
+    {
+      "name": "Python Lambda Functions",
+      "link": "https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-functional-programming/cheatsheet"
+    }
+  ]
+}

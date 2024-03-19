@@ -1,0 +1,11 @@
+{
+  "software_name": "signalp4",
+  "software_URL": "http://www.cbs.dtu.dk/services/SignalP/",
+  "documentation": {
+    "documentation_URL1": "http://www.cbs.dtu.dk/services/SignalP/instructions.php"
+  },
+  "tutorials": {
+    "tutorial_URL1": "https://omictools.com/tip/signalp-tutorial",
+    "tutorial_URL2": "http://www.cbs.dtu.dk/courses/27619.signalp.bac.nov2018/Manuals/SignalP-5.0.pdf"
+  }
+}

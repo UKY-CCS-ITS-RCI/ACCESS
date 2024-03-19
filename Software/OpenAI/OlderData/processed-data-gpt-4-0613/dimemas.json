@@ -1,0 +1,15 @@
+{
+    "name": "Dimemas",
+    "software_url": "https://tools.bsc.es/dimemas",
+    "documentation_url": "https://tools.bsc.es/tools_manuals#dimemas",
+    "tutorials_and_training": [
+        {
+            "name": "Introduction to Dimemas",
+            "url": "https://www.bsc.es/support-to-users/training/courses/introduction-dimemas"
+        },
+        {
+            "name": "Dimemas User Manual",
+            "url": "https://tools.bsc.es/sites/tools.bsc.es/files/documentation/dimemas/DiME_User_Manual_v5.3.pdf"
+        }
+    ]
+}

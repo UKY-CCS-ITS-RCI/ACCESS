@@ -1,0 +1,22 @@
+Use Case: Calculating Fibonacci series using Julia 
+
+Code details and examples: 
+
+Code:
+
+```julia
+function fib(n)
+    if n < 2
+        return n
+    else
+        return fib(n-1) + fib(n-2)
+    end
+end
+
+println(fib(10))
+```
+
+In this example, an input number `n` is given to define to which number the Fibonacci sequence will be generated. The output of the code will be the nth Fibonacci number. 
+
+The command to run the script, simply save your code in a file, e.g. fib.jul, then run it with Julia via command line `julia fib.jul`.
+

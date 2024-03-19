@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GROMACS": {
+      "MainPage": "http://www.gromacs.org/",
+      "Documentation": "http://manual.gromacs.org/documentation/",
+      "Tutorials": [
+        "http://www.mdtutorials.com/gmx/lysozyme/",
+        "http://www.gromacs.org/Documentation/Tutorials",
+        "https://www.bevanlab.biochem.vt.edu/Pages/Personal/justin/gmx-tutorials/index.html"
+      ]
+    }
+  }
+}

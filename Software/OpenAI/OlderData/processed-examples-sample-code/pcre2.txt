@@ -1,0 +1,53 @@
+PCRE2 library for Perl-compatible regular expressions. 
+
+Use Case: Pattern matching with PCRE2
+Code details and examples:
+PCRE2 provides a versatile library for pattern matching using regular expressions in various programming languages. Here is a simple example in C:
+
+```c
+#include <pcre2.h>
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    pcre2_code *re;
+    PCRE2_SPTR pattern = (PCRE2_SPTR)"cat";
+    PCRE2_SPTR subject = (PCRE2_SPTR)"The cat sat on the mat";
+    
+    int errornumber;
+    PCRE2_SIZE erroroffset;
+    
+    re = pcre2_compile(pattern, PCRE2_ZERO_TERMINATED, 0, &errornumber, &erroroffset, NULL);
+    
+    if (re == NULL) {
+        PCRE2_UCHAR buffer[256];
+        pcre2_get_error_message(errornumber, buffer, sizeof(buffer));
+        printf("PCRE2 compilation failed at offset %d: %s\n", (int)erroroffset, buffer);
+        return 1;
+    }
+    
+    pcre2_match_data *match_data = pcre2_match_data_create_from_pattern(re, NULL);
+    
+    int rc = pcre2_match(re, subject, PCRE2_ZERO_TERMINATED, 0, 0, match_data, NULL);
+    
+    if (rc > 0) {
+        PCRE2_SIZE *ovector = pcre2_get_ovector_pointer(match_data);
+        printf("Match succeeded at offset %d\n", (int)ovector[0]);
+    }
+    
+    pcre2_match_data_free(match_data);
+    pcre2_code_free(re);
+    
+    return 0;
+}
+```
+
+This C program demonstrates how to compile a simple regular expression "cat" and match it against a subject string "The cat sat on the mat" using PCRE2 library. 
+
+In the above code snippet, you need to link with the PCRE2 library while compiling. 
+
+You can compile and run the code using the following commands:
+```
+gcc pcre_example.c -lpcre2-8 -o pcre_example
+./pcre_example
+```

@@ -1,0 +1,23 @@
+{
+  "Software": "FlatBuffers",
+  "Software_URL": "https://google.github.io/flatbuffers/",
+  "Documentation": [
+    {
+      "Documentation_URL": "https://google.github.io/flatbuffers/flatbuffers_guide_tutorial.html"
+    },
+    {
+      "Documentation_URL": "https://google.github.io/flatbuffers/flatbuffers_guide_reading.html"
+    }
+  ],
+  "Tutorials_and_Training": [
+    {
+      "Tutorial_URL": "https://rwinslow.com/posts/how-to-use-flatbuffers/"
+    },
+    {
+      "Tutorial_URL": "https://frogermcs.github.io/flatbuffers-part-1-introdution-to-flatbuffers/"
+    },
+    {
+      "Tutorial_URL": "https://auth0.com/blog/data-serialization-comparison-json-protobuf/"
+    }
+  ]
+}

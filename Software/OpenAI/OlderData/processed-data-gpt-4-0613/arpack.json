@@ -1,0 +1,15 @@
+{
+"name": "ARPACK",
+"softwarePage": "https://www.caam.rice.edu/software/ARPACK/",
+"documentation": "https://www.caam.rice.edu/software/ARPACK/UG/ug.html",
+"tutorialMaterials": [
+    {
+        "name": "ARPACK Users Guide",
+        "url": "https://www.caam.rice.edu/software/ARPACK/UG/node1.html"
+    },
+    {
+        "name": "How to use ARPACK",
+        "url": "https://github.com/opencollab/arpack-ng"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Software Name": "Theano",
+  "links": {
+    "software page": "http://deeplearning.net/software/theano/",
+    "documentation": "http://deeplearning.net/software/theano/introduction.html",
+    "tutorials": [
+      "http://deeplearning.net/software/theano/tutorial/index.html",
+      "https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/",
+      "https://www.analyticsvidhya.com/blog/2017/05/theano-tutorial/"
+    ]
+  }
+}

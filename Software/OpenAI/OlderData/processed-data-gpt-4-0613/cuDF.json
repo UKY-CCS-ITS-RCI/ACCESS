@@ -1,0 +1,20 @@
+{
+  "Software": "cuDF",
+  "Software_url": "https://github.com/rapidsai/cudf",
+  "Documentation": [
+    {
+      "Documentation_url": "https://docs.rapids.ai/api/cudf/stable/"
+    }
+  ],
+  "Training_materials": [
+    {
+      "Training_materials_url": "https://www.youtube.com/watch?v=lV7rtDW94do"
+    },
+    {
+      "Training_materials_url": "https://www.youtube.com/watch?v=iYie42M1ZyU"
+    },
+    {
+      "Training_materials_url": "https://developer.nvidia.com/blog/accelerating-data-science-workflows-with-rapids-and-gpus/"
+    }
+  ]
+}

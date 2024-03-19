@@ -1,0 +1,15 @@
+{
+  "software": "gurobi-dev",
+  "details": [
+    {
+      "homepage": "https://www.gurobi.com/",
+      "documentation": "https://www.gurobi.com/documentation/",
+      "tutorials": [
+        "https://www.gurobi.com/resource/tutorial-videos/",
+        "https://www.gurobi.com/resource/getting-started-with-gurobi/",
+        "https://www.gurobi.com/documentation/9.1/examples/index.html",
+        "https://www.gurobi.com/resource/example-models/"
+      ]
+    }
+  ]
+}

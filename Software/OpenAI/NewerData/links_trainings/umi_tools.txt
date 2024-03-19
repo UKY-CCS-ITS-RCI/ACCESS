@@ -1,0 +1,17 @@
+{
+  "Software": "umi_tools",
+  "Link": "https://github.com/CGATOxford/UMI-tools",
+  "Documentation": "https://umi-tools.readthedocs.io/en/latest/",
+  "Tutorials and Trainings": [
+    {
+      "Tutorial1": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-umis/tutorial.html",
+      "Training1": "https://galaxyproject.org/learn/analysis-tutorials/scrna-seq/",
+      "Tutorial2": "https://hbctraining.github.io/scRNA-seq/lessons/05_SC_quality_control.html"
+    }
+  ],
+  "Additional_Resources": [
+    {
+      "Paper": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1251-4"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+Use Case: Use gdbm (GNU dbm) is a database storing key-value pairs. It's a simple data storage format commonly used in Unix-based systems due to its simplicity and efficiency.
+
+Code Details and Examples: Code
+
+In Python, the gdbm library can be used as follows:
+
+```Python
+import gdbm
+
+# Create a new database or open an existing one
+d = gdbm.open('mydatabase', 'c')
+
+# Store a key-value pair
+d['key'] = 'value'
+
+# Retrieve the value of a key
+value = d['key']
+print(value) # Outputs: value
+
+# Close the database
+d.close()
+```
+
+The `open` method requires a filename and a flag as input parameters. The filename refers to the file to be used as the database. The flag specifies the mode in which to open the file: 'r' for read-only, 'w' for read and write, 'c' for create (opens the file for reading and writing, and creates it if it does not exist), and 'n' for new (always creates a new database).
+
+Command to run the file:
+
+If the above Python code is saved in a file named `gdbm_example.py`, it can be run with the following shell command:
+```Shell
+python3 gdbm_example.py
+```

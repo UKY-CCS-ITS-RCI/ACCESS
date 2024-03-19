@@ -1,0 +1,23 @@
+{
+  "software_name": "hic-pro",
+  "software_website": "https://github.com/nservant/HiC-Pro",
+  "documentation": {
+    "documentation_website": "https://nservant.github.io/HiC-Pro/",
+    "user_manual": "https://github.com/nservant/HiC-Pro/blob/master/doc/MANUAL.md",
+    "installation_guide": "https://github.com/nservant/HiC-Pro/blob/master/doc/INSTALL.md"
+  },
+  "tutorial_materials": [
+    {
+      "tutorial_title": "HiC-Pro workflow",
+      "tutorial_link": "https://github.com/nservant/HiC-Pro#workflow"
+    },
+    {
+      "tutorial_title": "Understanding Hi-C data",
+      "tutorial_link": "https://nservant.github.io/HiC-Pro/UTILS.html"
+    },
+    {
+      "tutorial_title": "Configuring HiC-Pro",
+      "tutorial_link": "https://www.youtube.com/watch?v=Yp3oAfi6bGk"
+    }
+  ]
+}

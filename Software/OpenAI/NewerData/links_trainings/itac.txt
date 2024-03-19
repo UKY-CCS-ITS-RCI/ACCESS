@@ -1,0 +1,25 @@
+{
+  "itac": {
+    "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/trace-analyzer.html",
+    "Documentation": [
+      {
+        "Link": "https://software.intel.com/content/www/us/en/develop/documentation/itac-user-and-reference-guide/top.html",
+        "Title": "Intel Trace Analyzer User and Reference Guide"
+      }
+    ],
+    "Training and Tutorial Materials": [
+      {
+        "Link": "https://software.intel.com/content/www/us/en/develop/documentation/itac-tutorial/top.html",
+        "Title": "Intel Trace Analyzer Tutorial"
+      },
+      {
+        "Link": "https://info.adtools.org/usage/how_to_trace",
+        "Title": "How To Trace - ADtools"
+      },
+      {
+        "Link": "https://info.adtools.org/usage/tutorial-trace-collection",
+        "Title": "Tutorial - Trace Collection - ADtools"
+      }
+    ]
+  }
+}

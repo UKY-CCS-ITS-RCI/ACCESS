@@ -1,0 +1,14 @@
+{
+  "software": "r-xvector",
+  "software_page": ["https://bioconductor.org/packages/release/bioc/html/XVector.html"],
+  "documentation": [
+    "https://bioconductor.org/packages/release/bioc/vignettes/XVector/inst/doc/XVector.html",
+    "https://bioconductor.org/packages/devel/bioc/manuals/XVector/man/XVector.pdf"
+  ],
+  "training": [
+    "https://www.bioconductor.org/help/workflows/csaw/csaw.pdf"
+  ],
+  "tutorials": [
+    "https://bioconductor.org/packages/release/bioc/html/XVector.html"
+  ]
+}

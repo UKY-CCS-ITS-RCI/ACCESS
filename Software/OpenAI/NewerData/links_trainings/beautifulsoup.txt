@@ -1,0 +1,23 @@
+{
+  "softwareName": "BeautifulSoup",
+  "softwarePageLink": "https://www.crummy.com/software/BeautifulSoup/",
+  "documentationLink": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",
+  "tutorialsAndTrainingMaterials": [
+    {
+      "title": "BeautifulSoup: We called him Tortoise because he taught us.",
+      "link": "https://programminghistorian.org/en/lessons/intro-to-beautiful-soup"
+    },
+    {
+      "title": "Web scraping using Python and BeautifulSoup",
+      "link": "https://www.datacamp.com/community/tutorials/web-scraping-using-python"
+    },
+    {
+      "title": "Web Scraping with Beautiful Soup",
+      "link": "https://realpython.com/beautiful-soup-web-scraper-python/"
+    },
+    {
+      "title": "Beautiful Soup 4 Python",
+      "link": "https://www.tutorialspoint.com/beautiful_soup/index.htm"
+    }
+  ]
+}

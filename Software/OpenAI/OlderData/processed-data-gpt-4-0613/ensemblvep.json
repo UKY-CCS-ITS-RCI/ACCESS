@@ -1,0 +1,14 @@
+{
+   "software": "ensemblvep",
+   "type": "bioinformatics tool",
+   "main_page": "https://www.ensembl.org/info/docs/tools/vep/index.html",
+   "links": {
+     "documentation": "https://www.ensembl.org/info/docs/tools/vep/script/vep_tutorial.html",
+     "tutorial": [
+        "https://www.youtube.com/watch?v=k_Gqrfx2i08",
+        "https://training.ensembl.org/course/view.php?id=22",
+        "https://m.ensembl.org/info/docs/tools/vep/script/vep_options.html",
+        "https://www.ebi.ac.uk/training/online/courses/functional-annotation-ensembl-gwas/local-gene-association-with-ensembl-vep/"
+      ]
+   }
+}

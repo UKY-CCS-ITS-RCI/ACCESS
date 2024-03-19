@@ -1,0 +1,24 @@
+{
+  "software": "cutadapt",
+  "website": "https://cutadapt.readthedocs.io/en/stable/",
+  "documentation": {
+    "officialDoc": "https://cutadapt.readthedocs.io/en/stable/index.html",
+    "guides": [
+      "https://cutadapt.readthedocs.io/en/stable/guide.html"
+    ]
+  },
+  "tutorials": [
+    {
+      "name": "Basic Tutorial on cutadapt",
+      "url": "https://cutadapt.readthedocs.io/en/stable/guide.html#basic-usage"
+    },
+    {
+      "name": "Guide for Processing next-generation sequencing reads",
+      "url": "https://physiology.med.cornell.edu/faculty/mason/lab/cornell/sequencing/cutadapt.html"
+    },
+    {
+      "name": "Demultiplexing Tutorial: cutadapt specific",
+      "url": "https://cutadapt.readthedocs.io/en/stable/guide.html#demultiplexing"
+    }
+  ]
+}

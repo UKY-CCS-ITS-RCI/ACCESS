@@ -1,0 +1,10 @@
+{
+  "prgenv-nvhpc": {
+    "software_page": "https://docs.nersc.gov/systems/programming/#using-prgenv-nvhpc",
+    "documentation": "https://docs.nvidia.com/hpc-sdk/hpc-sdk-user-guide/index.html",
+    "tutorial_materials": [
+      "https://www.youtube.com/watch?v=K1D8vHJ4KM8",
+      "https://www.nvidia.com/en-us/docs/nvidia-hpc-sdk/"
+    ]
+  }
+}

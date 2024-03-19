@@ -1,0 +1,64 @@
+Use Case: Solve linear systems of equations using SuperLU
+
+Code details and examples:
+SuperLU is a library for solving large, sparse nonsymmetric or structurally symmetric linear systems of equations using direct methods. Below is an example code snippet to demonstrate how to use SuperLU in C.
+
+```c
+#include <stdio.h>
+#include "slu_ddefs.h"
+
+int main() {
+    superlu_options_t options;
+    SuperMatrix A, L, U;
+    SuperMatrix B;
+    int n = 4;  // Size of the square matrix
+    int *perm_c; // Column permutation vector
+    int *perm_r; // Row permutation vector
+    void *work;
+    int info;
+    double *berr;
+    
+    // Sample input matrix (in compressed sparse column format)
+    double nzval[] = {1, 2, 3, 4, 5, 6, 7, 8};
+    int rowind[] = {0, 1, 0, 1, 2, 2, 3, 3};
+    int colptr[] = {0, 2, 4, 6, 8};
+    
+    // Creating the matrix A in SuperLU format
+    dCreate_CompCol_Matrix(&A, n, n, 8, nzval, rowind, colptr, SLU_NR, SLU_D, SLU_GE);
+    
+    // Creating the right-hand side matrix B
+    double rhs[] = {1, 0, 1, 0};
+    dCreate_Dense_Matrix(&B, n, 1, rhs, n, SLU_DN, SLU_D, SLU_GE);
+    
+    // Permutation vectors
+    perm_c = intMalloc(n);
+    perm_r = intMalloc(n);
+    
+    // LU decomposition
+    dgssv(&options, &A, perm_c, perm_r, &L, &U, &B, &info);
+    
+    if (info == 0) {
+        // Solution is in the B matrix
+        printf("Solution:\n");
+        for (int i = 0; i < n; i++) {
+            printf("%f\n", rhs[i]);
+        }
+    }
+    
+    // Free memory
+    Destroy_CompCol_Matrix(&A);
+    Destroy_Dense_Matrix(&B);
+    Destroy_SuperMatrix_Store(&L);
+    Destroy_SuperMatrix_Store(&U);
+    SUPERLU_FREE(work);
+    free(perm_c);
+    free(perm_r);
+    
+    return 0;
+}
+```
+
+To compile this code with SuperLU library, you can use the following command:
+```
+gcc example.c -o example -L/path/to/superlu/lib -lsuperlu -lm
+```

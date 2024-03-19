@@ -1,0 +1,16 @@
+{
+  "SoftwareName":"cppy",
+  "SoftwarePage":"https://github.com/steinwurf/cppy",
+  "DocumentationLink":"https://cppy.readthedocs.io/en/latest/",
+  "TutorialAndTrainingMaterials":[
+    {
+      "Link1":"https://cppy.readthedocs.io/en/latest/tutorial.html"
+    },
+    {
+      "Link2":"https://stackoverflow.com/questions/tagged/cppy"
+    },
+    {
+      "Link3":"https://github.com/steinwurf/cppy/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+label%3Adocumentation"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Software": "Intel-Python",
+  "Link": "https://software.intel.com/content/www/us/en/develop/tools/distribution-for-python.html",
+  "Documentation": [{
+          "Title": "Intel Python Documentation",
+          "Link": "https://software.intel.com/content/www/us/en/develop/tools/distribution-for-python/choose-download.html"
+      }],
+  "TrainingMaterials":
+  [{
+      "Title": "Getting Started with Intel Distribution for Python",
+      "Link": "https://software.intel.com/content/www/us/en/develop/tools/distribution-for-python/get-started.html"
+  },
+  {
+      "Title": "Intel Python Documentation",
+      "Link": "https://software.intel.com/content/www/us/en/develop/tools/distribution-for-python/documentation.html"
+  },
+  {
+      "Title": "Intel Python Youtube Tutorials",
+      "Link": "https://www.youtube.com/playlist?list=PLyspMSh4XhLtklL4i42_8fv0qB3MrW2v0"
+  }],
+   "CondaPackage":{
+       "Link":"https://anaconda.org/intel/intel-python"
+   }
+}

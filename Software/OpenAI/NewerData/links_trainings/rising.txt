@@ -1,0 +1,28 @@
+{
+  "softwareName": "Rising",
+  "softwarePage": "https://github.com/Jittor/rising",
+  "softwareDocumentation": [
+    {
+      "DocumentationName": "Github page",
+      "URL": "https://github.com/Jittor/rising"
+    }
+  ],
+  "trainingAndTutorials": [
+    {
+      "Tutorial Name": "Simple Example",
+      "URL": "https://github.com/Jittor/rising#simple-example"
+    },
+    {
+      "Tutorial Name": "Customized Rising Operators",
+      "URL": "https://github.com/Jittor/rising#customized-rising-operators"
+    },
+    {
+      "Tutorial Name": "Jittor LSTM Model Compilation and Execution with Python",
+      "URL": "https://github.com/Jittor/jittor/blob/master/README.md#compile-and-run-jittor-lstm-model-with-python"
+    },
+    {
+      "Tutorial Name": "Advanced Functions of Jittor",
+      "URL": "https://github.com/Jittor/jittor/blob/master/README.md#advanced-functions-of-jittor"
+    }
+  ]
+}

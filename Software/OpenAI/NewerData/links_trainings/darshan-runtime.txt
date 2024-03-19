@@ -1,0 +1,19 @@
+{
+  "Software": "darshan-runtime",
+  "Website": "https://www.mcs.anl.gov/research/projects/darshan/",
+  "Documentation": "https://www.mcs.anl.gov/research/projects/darshan/documentation/darshan-runtime",
+  "Training and Tutorial materials": [
+    {
+      "Quick-start guide": "https://xgitlab.cels.anl.gov/darshan/darshan/wikis/quick-start-guide"
+    },
+    {
+      "Building Darshan": "https://xgitlab.cels.anl.gov/darshan/darshan/wikis/Building"
+    },
+    {
+      "Configuring Darshan": "https://xgitlab.cels.anl.gov/darshan/darshan/wikis/Configuring-Darshan"
+    },
+    {
+      "Analyzing Darshan Logs": "https://xgitlab.cels.anl.gov/darshan/darshan/wikis/Analyzing-Darshan-Logs"
+    }
+  ]
+}

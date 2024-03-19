@@ -1,0 +1,24 @@
+{
+  "software": "Open OnDemand",
+  "website": "https://openondemand.org/",
+  "documentation": [
+    {
+      "title": "Open OnDemand Documentation",
+      "url": "https://osc.github.io/ood-documentation/latest/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Getting Started - Open OnDemand",
+      "url": "https://osc.github.io/ood-documentation/latest/getting_started.html"
+    },
+    {
+      "title": "Open OnDemand Tutorial",
+      "url": "https://www.youtube.com/watch?v=wfOH3i3vT2I"
+    },
+    {
+      "title": "Webinar: Introduction to Open OnDemand",
+      "url": "https://www.xsede.org/web/xup/course-calendar/-/training-user/class/1700/session/3684"
+    }
+  ]
+}

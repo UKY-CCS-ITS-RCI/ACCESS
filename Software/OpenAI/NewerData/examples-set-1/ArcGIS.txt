@@ -1,0 +1,31 @@
+Use Case: Use ArcGIS to perform geospatial analysis and data management. 
+
+Code details and examples: Code 
+
+Input file: Esri Shapefile, a popular geospatial vector data format (.shp)
+
+Specifications in input file: The .shp file contains the geometry for features. For instance, a shapefile of a forest might contain the boundaries and types of different vegetation.
+
+Sample Input: Forest.shp
+
+```python
+import arcpy
+from arcpy import env
+
+# Set the workspace
+env.workspace = "/path/to/directory"
+
+# Set a variable for the total number of records
+totalRecords = 0
+
+# Use a for loop to count the total number of records
+for dirpath, dirnames, filenames in arcpy.da.Walk():
+    for filename in filenames:
+        # Use a search cursor to find the number of records for each file
+        with arcpy.da.SearchCursor(os.path.join(dirpath, filename), "*") as cursor:
+            # Add the number of records in the current file to the total
+            totalRecords += sum(1 for row in cursor)
+print("The total number of records is: " + str(totalRecords))
+```
+
+The command to run the above Python file depends on how Python is installed and set up on your system. A typical command to run a Python file in a terminal is: `python filepath/script.py`

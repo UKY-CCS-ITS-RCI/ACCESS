@@ -1,0 +1,43 @@
+Use Case: Autoconf is a tool for producing shell scripts that automatically configure software source code packages to adapt to many kinds of UNIX-like systems. It can help when porting, and makes it more portable between different systems.
+
+Code Details and Examples: 
+
+Sample input configuration .ac file for a simple "Hello, World" C program could look like this:
+
+File: configure.ac
+
+----------------------------
+AC_INIT([helloworld], [0.1], [bug-helloworld@gnu.org])
+AC_CONFIG_SRCDIR([helloworld.c])
+AC_CONFIG_HEADERS([config.h])
+
+# Checks for programs.
+AC_PROG_CC
+
+# Checks for libraries.
+
+# Checks for header files.
+AC_CHECK_HEADERS([stdlib.h])
+# Checks for typedefs, structures, and compiler characteristics.
+# Checks for library functions.
+AC_CHECK_FUNCS([putenv])
+AC_CONFIG_FILES([Makefile])
+AC_OUTPUT
+----------------------------
+
+The corresponding "Makefile.am" could look like this:
+
+----------------------------
+bin_PROGRAMS = helloworld
+helloworld_SOURCES = helloworld.c
+----------------------------
+
+Command to run this is: 
+1. The 'autoconf' to generate a configure script from configure.ac 
+Command: autoconf
+  
+2. Then, run the 'configure' script to generate Makefile from Makefile.am 
+Command: ./configure
+
+3. Finally, use 'make' to generate the executable.
+Command: make

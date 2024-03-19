@@ -1,0 +1,29 @@
+Use Case: Pysam is a python library for reading, manipulating and writing genetic data sets. Pysam is a wrapper of the htslib C-API and provides facilities to read and write SAM/BAM/VCF/BCF and GFF/GTF/FASTA variant files as well as access to the command line functionality of the SAMtools package.
+
+Code details and examples:
+
+Code:
+
+```python
+import pysam
+
+# Open a BAM file
+samfile = pysam.AlignmentFile("/path/to/my.bam", "rb")
+
+# Fetch a region from the BAM file
+for read in samfile.fetch('chr1', 10, 102100):
+    print(read)
+
+samfile.close()
+```
+
+Input file: The above code snippet requires a BAM format file as input. BAM is a binary format for storing sequence data.
+
+File format: The alignment file my.bam has to be in BAM format. More details on the format are available on the SAMtools website.
+
+No explicit specifications are needed for the input files apart from them being in the correctly formatted BAM file.
+
+Command to run: If the python script is saved as script.py, it can be run using the command:
+```bash
+python script.py
+```

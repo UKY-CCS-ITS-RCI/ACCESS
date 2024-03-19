@@ -1,0 +1,63 @@
+Use Case: RPC (Remote Procedure Call) programming in C using libtirpc (Transport Independent RPC library) 
+
+Code details and examples: Code 
+
+Source File: `client.c`
+```c
+#include <stdio.h>
+#include <rpc/rpc.h>
+
+int main(int argc, char *argv[]) {
+    CLIENT *cl;
+    enum clnt_stat ret;
+    char *server;
+    char *msg;
+    server = argv[1];
+    msg = argv[2];
+ 
+    /* Create client “handle” used for calling MESSAGEPROG on the server designated on the command line. Use vers num 1 of MESSAGEPROG. */
+    cl = clnt_create(server, MESSAGEPROG, PRINTMESSAGEVERS, "tcp");
+    if (cl == (CLIENT *)NULL) {
+        clnt_pcreateerror(server);
+        exit(1);
+    }
+
+    ret = printmessage_1(&msg, cl);
+    if (ret != RPC_SUCCESS) {
+        clnt_perror(cl, server);
+        exit(1);
+    }
+    return 0;  
+}
+```
+
+Source file: `server.c`
+```c
+#include <stdio.h>
+#include <rpc/rpc.h>
+
+int main(void) {
+    SVCXPRT *transp;
+
+    pmap_unset (MESSAGEPROG, PRINTMESSAGEVERS);
+ 
+    transp = svcudp_create(RPC_ANYSOCK);
+    if (transp == NULL) {
+        fprintf(stderr, "cannot create udp service.");
+        exit(1);
+    }
+    if (!svc_register(transp, MESSAGEPROG, PRINTMESSAGEVERS, messageprog_1, IPPROTO_UDP)) {
+        fprintf(stderr, "unable to register (MESSAGEPROG, PRINTMESSAGEVERS, udp).");
+        exit(1);
+    }
+    
+    svc_run();
+    fprintf(stderr, "svc_run returned");
+    exit(1); 
+    return 0;
+}
+```
+
+Please note that libtirpc is a library, not a standalone tool to run with command. It needs to be linked during the build of the software that uses it.
+
+The process of running involves starting the server: `./server`, then invoking the client: `./client servername message`. Note, the server does not show anything. The client initiates the communication. The servername is the name of the server the program is run on and the message is the arbitrary message sent to the server.

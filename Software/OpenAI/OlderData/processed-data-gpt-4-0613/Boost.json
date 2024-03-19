@@ -1,0 +1,19 @@
+{
+  "Software": "Boost",
+  "Website": "https://www.boost.org/",
+  "Documentation": "https://www.boost.org/doc/libs/",
+  "Tutorials and Training material": [
+    {
+      "Title": "Getting Started with Boost",
+      "Link": "https://www.boost.org/doc/libs/1_77_0/more/getting_started/index.html"
+    },
+    {
+      "Title": "Boost C++ Libraries Tutorial",
+      "Link": "https://theboostcpplibraries.com/"
+    },
+    {
+      "Title": "Boost.Asio C++ Network Programming Cookbook",
+      "Link": "https://www.packtpub.com/product/boost-asio-c-network-programming-cookbook/9781783986545"
+    }
+  ]
+}

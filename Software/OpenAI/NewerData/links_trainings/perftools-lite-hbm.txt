@@ -1,0 +1,7 @@
+{
+"Software Name": "Perftools-lite-hbm",
+"Software URL": "https://www.manualslib.com/products/Cray-Perftools-Lite-10512761.html",
+"Documentation": ["https://docs.ceci-hpc.be/manual/Libraries/perftools.html", "https://pubs.cray.com/osr5/OS/xc40_sws/PrgEnvUG/perftools_user_guide_5807/ref_guide.html"],
+"Tutorials": ["https://pearc.experiencesage.com/perftools.php"],
+"Training": []
+}

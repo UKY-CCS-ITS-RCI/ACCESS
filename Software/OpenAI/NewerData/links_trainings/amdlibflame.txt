@@ -1,0 +1,12 @@
+{
+  "software_name": "amdlibflame",
+  "software_url": "https://developer.amd.com/amd-aocl/libflame/",
+  "documentation_links": [
+    "https://developer.amd.com/amd-aocl/libflame/",
+    "https://www.cs.utexas.edu/~flame/web/libFLAMEUsersGuide.pdf"
+  ],
+  "training_materials": [
+    "https://www.cs.utexas.edu/~flame/pubs/flawn78.pdf",
+    "https://www.cs.utexas.edu/~flame/pubs/flawn79.pdf"
+  ]
+}

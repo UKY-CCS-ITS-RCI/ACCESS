@@ -1,0 +1,41 @@
+Use Case: Use Redis for data caching to speed up web applications.
+
+Code details and examples: Code
+
+In Python, apart from installing Redis, we also would need to install redis-py, which is a common Python interface to the Redis key-value store.
+
+Here is an example of how to use the SET and GET commands in Redis through Python:
+
+```python
+import redis
+
+# Connect to Redis instance
+rd = redis.StrictRedis(host='localhost', port=6379, db=0)
+
+# Set a key
+rd.set('name', 'John')
+
+# Get the value of the key
+name = rd.get('name')
+print(name)  # Outputs: John
+```
+
+Command line code to run Redis:
+
+```bash
+redis-server
+```
+
+Input file: No input file is required. Redis commands are generally written in Python code.
+
+Specifications and Details: 
+- For SET command, the key and value is required.
+- For GET command, the key is required. 
+
+The Python program communicates with the Redis server using the redis-py's StrictRedis class. The commands are simple: SET command is used to set a Redis key with its value and GET command to retrieve the value of a key.
+
+A connection is established between Python and Redis using `redis.StrictRedis`.
+
+Set a Redis key named 'name' with a value 'John' using `rd.set('name', 'John')`
+
+Retrieve the value of Redis key 'name' using `rd.get('name')`. This returns the value of the key 'name'.

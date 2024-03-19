@@ -1,0 +1,28 @@
+{
+  "Software": "r-rhtslib",
+  "HomePage": "https://bioconductor.org/packages/release/bioc/html/Rhtslib.html",
+  "Documentation": [
+    {
+      "Bioconductor": "https://bioconductor.org/packages/release/bioc/html/Rhtslib.html"
+    },
+    {
+      "CRAN": "https://cran.r-project.org/web/packages/Rhtslib/index.html"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Advanced R programming": "https://adv-r.hadley.nz/rcpp.html"
+    },
+    {
+      "Using R and Bioconductor for proteomics data analysis": "https://www.bioconductor.org/help/course-materials/2017/BioC2017/ConcurrentWorkshops1/Proteomics/Proteomics.html"
+    }
+  ],
+  "Training": [
+    {
+      "Bioconductor": "https://bioconductor.org/help/course-materials/"
+    },
+    {
+      "Master R programming": "https://www.coursera.org/specializations/jhu-data-science"
+    }
+  ]
+}

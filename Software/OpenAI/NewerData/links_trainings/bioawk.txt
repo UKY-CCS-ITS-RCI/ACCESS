@@ -1,0 +1,24 @@
+{
+  "software": "bioawk",
+  "home_page": "https://github.com/lh3/bioawk",
+  "documentation": [
+    {
+      "name": "bioawk Readme on GitHub",
+      "url": "https://github.com/lh3/bioawk/blob/master/README.md"
+    }
+  ],
+  "tutorials_and_training": [
+    {
+      "name": "Getting Started with bioawk",
+      "url": "https://bioinformatics.stackexchange.com/questions/214/how-to-get-started-with-bioawk"
+    },
+    {
+      "name": "Bioawk Tutorial: Workshop for Genomics",
+      "url": "https://angus.readthedocs.io/en/2018/bioawk_tutorial.html"
+    },
+    {
+      "name": "Bioinformatics Coding: Bioawk",
+      "url": "https://genomicsclass.github.io/book/pages/bioinformatics_coding_bioawk.html"
+    }
+  ]
+}

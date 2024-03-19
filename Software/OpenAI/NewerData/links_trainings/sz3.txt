@@ -1,0 +1,15 @@
+{
+  "Software_name": "sz3",
+  "Software_URL": "https://github.com/szcompressor/SZ",
+  "Documentation": [
+     {
+       "doc1": "http://szcompressor.org/overview"
+     }
+  ],
+  "Tutorials_Training": [
+     {
+       "tutorial1": "https://www.researchgate.net/publication/323768728_A_User-Guide_of_SZ_How_to_Use_Error-Bounded_Lossy_Compression_on_Scientific_Data",
+       "tutorial2": "https://www.youtube.com/watch?v=dnFfY7fBTRA"
+     }
+  ]
+}

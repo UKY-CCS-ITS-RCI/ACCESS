@@ -1,0 +1,11 @@
+{
+    "Software Name": "FlatBuffers Python",
+    "Software Page": "https://google.github.io/flatbuffers/flatbuffers_guide_use_python.html",
+    "Documentation": "https://google.github.io/flatbuffers/",
+    "Training and Tutorial Materials": [
+        {
+            "Tutorial 1": "https://frolvlad.com/python-flatbuffers/",
+            "Tutorial 2": "https://www.sisik.eu/blog/android/ndk/flatbuffers-in-android-ndk"
+        }
+    ]
+}

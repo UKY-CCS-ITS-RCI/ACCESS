@@ -1,0 +1,19 @@
+{
+  "name": "PyFR",
+  "website": "http://www.pyfr.org/",
+  "documentation": "http://www.pyfr.org/docs/latest/",
+  "tutorials": [
+    {
+      "name": "PyFR: A Python based open-source CFD solver. Part I: Installation and benchmarking",
+      "url": "https://medium.com/@glennrnash/pyfr-a-python-based-open-source-cfd-solver-9e649ee63f93"
+    },
+    {
+      "name": "PyFR: A Python based open-source CFD solver. Part II: Simulation of the Taylor-Green vortex",
+      "url": "https://medium.com/@glennrnash/pyfr-a-python-based-open-source-cfd-solver-dd1400f12791"
+    },
+    {
+      "name": "Getting Started with PyFR",
+      "url": "http://www.pyfr.org/user_guide.php"
+    }
+  ]
+}

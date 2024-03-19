@@ -1,0 +1,12 @@
+{
+  "Software Name": "SuperLU",
+  "links": {
+    "software page": "https://portal.nersc.gov/project/sparse/superlu/",
+    "documentation": "https://portal.nersc.gov/project/sparse/superlu/",
+    "tutorials": [
+      "https://crd-legacy.lbl.gov/~xiaoye/SuperLU/superlu_ug.pdf",
+      "https://software.intel.com/content/www/us/en/develop/documentation/mkl-tutorial-c/top/sparse-solvers/using-superlu.html",
+      "https://github.com/xiaoyeli/superlu_dist/wiki"
+    ]
+  }
+}

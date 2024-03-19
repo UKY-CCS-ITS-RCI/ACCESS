@@ -1,0 +1,8 @@
+{
+  "software": {
+    "name": "cmjob",
+    "software_page": "https://gitlab.com/washjtw/cmjob/tree/master",
+    "documentation": "https://gitlab.com/washjtw/cmjob/tree/master/README.md",
+    "tutorials_and_training_materials": "Not available"
+  }
+}

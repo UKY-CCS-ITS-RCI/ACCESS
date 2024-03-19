@@ -1,0 +1,20 @@
+{
+  "freetype": {
+    "software_page": "https://www.freetype.org/",
+    "documentation": "https://www.freetype.org/freetype2/docs/documentation.html",
+    "training_material": [
+      {
+        "material_name": "freetype Tutorial",
+        "link": "https://www.freetype.org/freetype2/docs/tutorial/index.html"
+      },
+      {
+        "material_name": "freetype Programming Guide",
+        "link": "http://www.freetype.org/freetype2/docs/glyphs/index.html"
+      },
+      {
+        "material_name": "FreeType API Documentation",
+        "link": "https://www.freetype.org/freetype2/docs/reference/ft2-toc.html"
+      }
+    ]
+  }
+}

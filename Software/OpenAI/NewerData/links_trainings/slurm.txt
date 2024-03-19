@@ -1,0 +1,20 @@
+{
+  "software_name": "Slurm",
+  "software_page": "https://slurm.schedmd.com/",
+  "documentation": {
+    "1": "https://slurm.schedmd.com/documentation.html",
+    "2": "https://www.schedmd.com/slurm_quickstart.html",
+    "3": "https://www.rc.fas.harvard.edu/resources/documentation/convenient-slurm-commands/"
+  },
+  "training_materials": {
+    "1": "https://www.youtube.com/watch?v=fZo8hwlHFEw",
+    "2": "https://hpc.llnl.gov/training/tutorials/introduction-slurm-workload-manager-tutorial",
+    "3": "https://hpcc.usc.edu/support/documentation/slurm/"
+ },
+  "tutorial_materials": {
+    "1": "https://wikis.nyu.edu/display/NYUHPC/Slurm+tutorial",
+    "2": "https://slurm.schedmd.com/tutorials.html",
+    "3": "https://www.youtube.com/watch?v=u9C2TDGVv0I",
+    "4": "https://rc.partners.org/hpc/userguide/mhslurm/"
+  }
+}

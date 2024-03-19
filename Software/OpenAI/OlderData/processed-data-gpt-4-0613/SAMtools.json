@@ -1,0 +1,12 @@
+{
+  "Software Name": "SAMtools",
+  "links": {
+    "software page": "http://www.htslib.org/",
+    "documentation": "http://www.htslib.org/doc/samtools.html",
+    "tutorials": [
+      "https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionIV/lessons/02_samtools.html",
+      "https://www.youtube.com/watch?v=T3O1Gcsj4ug",
+      "https://edwards.sdsu.edu/research/samtools-htslib-tutorial/"
+    ]
+  }
+}

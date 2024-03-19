@@ -1,0 +1,31 @@
+Use Case: The Z3 Theorem Prover (or simply Z3) is a high-performance solver for satisfiability modulo theories (SMT) problems. It can be used to check the satisfiability of logical formulas over one or more theories such as arithmetic, bit vectors, arrays and others.
+
+Code details and examples:
+
+Code: Let's consider a simple example of proving that if a number is a product of 2 and 4 then it is even. A z3 input file for this problem might look like this:
+
+```
+; z3 input file: even-product.smt2
+(set-logic QF_LIA)
+; Declare the variable x
+(declare-fun x () Int)
+; Add the constraint that x is a product of 2 and 4
+(assert (= x (* 2 4)))
+; Check that x is even
+(assert (= (mod x 2) 0))
+(check-sat)
+```
+
+The command to run z3 on this file (assume the file is named even-product.smt2) would be:
+
+```
+z3 even-product.smt2
+```
+
+This would output:
+
+```
+sat
+```
+
+Which tells us that our assertion (that a number is even if it is a product of 2 and 4) is satisfiable (i.e., it is possible to find an assignment of x that makes all the assertions true).

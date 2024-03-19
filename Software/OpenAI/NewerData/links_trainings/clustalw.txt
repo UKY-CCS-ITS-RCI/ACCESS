@@ -1,0 +1,19 @@
+{
+  "software": "clustalw",
+  "software_page": "http://www.clustal.org/clustal2/",
+  "documentation": "http://www.clustal.org/omega/clustal-tutorial.pdf",
+  "tutorials": [
+    {
+      "name": "ClustalW tutorial",
+      "link": "http://www.clustal.org/omega/clustal-tutorial.pdf"
+    },
+    {
+      "name": "Detailed Instructions on using Clustal Omega",
+      "link": "https://www.ebi.ac.uk/Tools/msa/clustalw2/help/index-protein.html"
+    },
+    {
+      "name": "Introduction to ClustalW",
+      "link": "https://www.youtube.com/watch?v=Lb2-YbBvw-o"
+    }
+  ]
+}

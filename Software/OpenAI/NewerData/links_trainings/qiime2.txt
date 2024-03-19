@@ -1,0 +1,11 @@
+{
+  "name": "qiime2",
+  "software_link": "https://qiime2.org/",
+  "documentation_link": "https://docs.qiime2.org/2022.4/",
+  "tutorial_links": [
+    "https://docs.qiime2.org/2022.4/tutorials/",
+    "https://qiime2.org/#tutorials",
+    "https://forum.qiime2.org/c/community-tutorials/13",
+    "https://www.youtube.com/channel/UCI80xEpa3uDR9iExM8eFrrQ"
+  ]
+}

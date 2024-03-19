@@ -1,0 +1,16 @@
+{
+  "software": "freeglut",
+  "software_link": "http://freeglut.sourceforge.net/",
+  "documentation": [
+     {
+      "documentation_link_1": "http://freeglut.sourceforge.net/docs/api.php",
+      "documentation_link_2": "https://sjb3d.github.io/freeglut.html"
+     }
+  ],
+  "tutorials_and_materials": [
+     {
+      "tutorial_link_1": "https://en.wikibooks.org/wiki/OpenGL_Programming/Installation/FreeGLUT",
+      "tutorial_link_2": "https://www.cs.rutgers.edu/~pxk/416/notes/c-tutorials/freeglut.html"
+     }
+  ]
+}

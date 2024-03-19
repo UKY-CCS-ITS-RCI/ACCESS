@@ -1,0 +1,23 @@
+{
+  "Software": "ANSYS",
+  "Website": "https://www.ansys.com/",
+  "Documentation": "https://www.ansys.com/academic/free-student-products",
+  "Tutorials and Training material": [
+    {
+      "Title": "Student Community Tutorials",
+      "Link": "https://studentcommunity.ansys.com/thread/ansys-workbench-19-1-tutorial-videos"
+    },
+    {
+      "Title": "ANSYS Learning Forum",
+      "Link": "https://forum.ansys.com/"
+    },
+    {
+      "Title": "ANSYS Mechanical Tutorials PDF",
+      "Link": "https://www.pdfdrive.com/ansys-tutorials-e34720714.html"
+    },
+    {
+      "Title": "CFD Ninja ANSYS Tutorials",
+      "Link": "https://www.youtube.com/playlist?list=PL1FgJUcJJ03u6Dlp9BZIMwef5Nyb32LmN"
+    }
+  ]
+}

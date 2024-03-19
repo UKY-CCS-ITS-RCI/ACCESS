@@ -1,0 +1,20 @@
+{
+  "py-numpy": {
+    "software_page": "https://numpy.org/",
+    "documentation": "https://numpy.org/doc/",
+    "tutorials": [
+      {
+        "name": "NumPy Tutorial",
+        "url": "https://www.w3schools.com/python/numpy_intro.asp"
+      },
+      {
+        "name": "NumPy Tutorial: A Simple Example-Based Guide",
+        "url": "https://realpython.com/tutorials/numpy/"
+      },
+      {
+        "name": "NumPy Introduction",
+        "url": "https://www.tutorialspoint.com/numpy/index.htm"
+      }
+    ]
+  }
+}

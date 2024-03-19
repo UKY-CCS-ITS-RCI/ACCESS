@@ -1,0 +1,33 @@
+{
+  "hdf4": {
+    "softwarePage": "https://www.hdfgroup.org/downloads/hdf4/",
+    "documentation": [
+      {
+        "title": "HDF4 User Guide",
+        "link": "https://www.hdfgroup.org/documentation/hdf4/v3.5/"
+      },
+      {
+        "title": "HDF4 Reference Manual",
+        "link": "https://www.hdfgroup.org/documentation/hdf4/v4.0/reference/"
+      },
+      {
+        "title": "HDF4 Image and Palette Specification",
+        "link": "https://www.hdfgroup.org/documentation/hdf4/v4.0/specimage.doc/" 
+      }
+    ],
+    "trainingMaterials": [
+      {
+        "title": "HDF4 Tutorial",
+        "link": "https://lab.hakimhs.com/ncl/docs/hdf/hdf4-tutorial/"
+      },
+      {
+        "title": "Introduction to HDF4",
+        "link": "https://www.unidata.ucar.edu/software/netcdf/workshops/2011/nc_dm/index.html"
+      },
+      {
+        "title": "HDF4 to HDF5 Conversion Guide",
+        "link": "https://www.hdfgroup.org/HDF5/doc/H4toH5/HDF4-to-HDF5-Conversion-Guide.pdf"
+      }
+    ]
+  }
+}

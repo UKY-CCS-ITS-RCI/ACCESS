@@ -1,0 +1,14 @@
+{
+  "Software Name": "R-formula",
+  "Software Page": "https://www.rdocumentation.org/packages/stats/topics/formula",
+  "Documentation Links": {
+    "R Documentation": "https://stat.ethz.ch/R-manual/R-devel/library/stats/html/formula.html",
+    "FOSS Trading": "http://blog.fosstrading.com/2009/02/r-formula-notation.html",
+    "Quick-R": "https://www.statmethods.net/input/formula.html"
+  },
+  "Training/Tutorial Materials": {
+    "R-formula Tutorial 1": "https://www.r-bloggers.com/2015/12/tutorial-9-formula-notation-in-r/",
+    "R-formula Tutorial 2": "https://bookdown.org/ndphillips/YaRrr/understanding-formulas.html",
+    "R-formula Tutorial 3": "https://www.datacamp.com/community/tutorials/r-formula-tutorial"
+  }
+}

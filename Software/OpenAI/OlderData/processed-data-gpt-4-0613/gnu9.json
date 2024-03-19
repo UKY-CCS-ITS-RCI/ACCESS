@@ -1,0 +1,10 @@
+{
+  "softwareName": "GNU 9",
+  "links": {
+    "softwarePage": "https://gcc.gnu.org/gcc-9/",
+    "documentation": "https://gcc.gnu.org/onlinedocs/gcc-9.2.0/gcc/index.html",
+    "tutorial1": "https://www.linuxtopia.org/online_books/an_introduction_to_gcc/gccintro_10.html",
+    "tutorial2": "https://gcc.gnu.org/install/index.html",
+    "tutorial3": "https://www.freecodecamp.org/news/install-gcc-with-this-one-command-730c985d842d/"
+  }
+}

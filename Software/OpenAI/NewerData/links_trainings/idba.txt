@@ -1,0 +1,22 @@
+{
+  "SoftwareID": "IDBA",
+  "Software": {
+    "Title": "Iterative De Bruijn Graph De Novo Assembler for Short Reads Sequencing data",
+    "URL": "https://github.com/loneknightpy/idba",
+    "Documentation": "https://github.com/loneknightpy/idba#readme",
+    "TrainingMaterials": [
+      {
+        "Title": "idba Tutorial (Bioplanet)",
+        "URL": "http://bioplanet.com/idba/"
+      },
+      {
+        "Title": "Meta-IDBA: a de Novo assembler for metagenomic data (Paper)",
+        "URL": "https://academic.oup.com/bioinformatics/article/27/13/i94/244981"
+      },
+      {
+        "Title": "IDBA-UD: de Novo assembler for single-cell and metagenomic sequencing data",
+        "URL": "https://academic.oup.com/bioinformatics/article/28/11/1420/219101"
+      }
+    ]
+  }
+}

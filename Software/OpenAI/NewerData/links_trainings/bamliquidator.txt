@@ -1,0 +1,16 @@
+{
+  "software_name": "bamliquidator",
+  "software_url": "https://github.com/BradnerLab/pipeline/wiki/bamliquidator",
+  "documentation": [
+    {
+      "documentation_name": "GitHub Wiki",
+      "documentation_url": "https://github.com/BradnerLab/pipeline/wiki/bamliquidator"
+    }
+  ],
+  "training_material": [
+    {
+      "training_name": "BradnerLab bamliquidator tutorial",
+      "training_url": "https://github.com/BradnerLab/pipeline/wiki/Getting-Started-Feature-Counts"
+    }
+  ]
+}

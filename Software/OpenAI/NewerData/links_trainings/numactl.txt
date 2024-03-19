@@ -1,0 +1,18 @@
+{
+  "Software Name": "numactl",
+  "Software Page": "https://man7.org/linux/man-pages/man8/numactl.8.html",
+  "Links": [
+    {
+      "Documentation": "https://man7.org/linux/man-pages/man8/numactl.8.html"
+    },
+    {
+      "Tutorial": "https://linuxhint.com/linux_numactl_command/"
+    },
+    {
+      "Training Material": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/performance_tuning_guide/s-cpu-the-numactl-command"
+    },
+    {
+      "Additional Information": "http://www.tldp.ohttp://www.tldp.org/HOWTO/html_single/Hardware-HOWTO/#linux-numactlrg/HOWTO/html_single/Hardware-HOWTO/#linux-numactl"
+    }
+  ]
+}

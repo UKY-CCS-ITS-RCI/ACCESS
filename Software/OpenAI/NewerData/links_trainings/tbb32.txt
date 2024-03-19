@@ -1,0 +1,24 @@
+{
+  "softwareName": "tbb32 version",
+  "softwareURL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb.html",
+  "documentation": [
+    {
+      "docName": "API Documentation",
+      "docURL": "https://spec.oneapi.io/versions/latest/elements/oneTBB/source/namespaces.html"
+    },
+    {
+      "docName": "Developer Guide",
+      "docURL": "https://software.intel.com/content/www/us/en/develop/documentation/tbb-documentation/top.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorialName": "Getting Started with oneTBB",
+      "tutorialURL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/choose-download.html"
+    },
+    {
+      "tutorialName": "oneTBB Tutorial",
+      "tutorialURL": "https://software.intel.com/content/www/us/en/develop/documentation/onetbb-tutorial/top.html"
+    }
+  ]
+}

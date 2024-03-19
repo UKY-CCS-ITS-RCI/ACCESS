@@ -1,0 +1,11 @@
+{
+  "graphite2": {
+    "softwarePage": "https://github.com/silnrsi/graphite",
+    "documentation": [
+      "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=IWS-Chapter08"
+    ],
+    "trainingAndTutorials": [
+      "https://www.youtube.com/watch?v=3S0vJROAG0s"
+    ]
+  }
+}

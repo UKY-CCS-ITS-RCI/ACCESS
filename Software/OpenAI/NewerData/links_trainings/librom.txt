@@ -1,0 +1,12 @@
+{
+  "SoftwareName": "librom",
+  "SoftwarePage": "https://github.com/LLNL/libROM",
+  "Documentation": {
+    "link1": "https://github.com/LLNL/libROM/tree/master/doc",
+    "link2": "https://computation.llnl.gov/projects/librom"
+  },
+  "Tutorials": {
+    "link1": "https://computation.llnl.gov/projects/librom/tutorial",
+    "link2": "https://computation.llnl.gov/projects/librom/tutorials-introduction"
+  }
+}

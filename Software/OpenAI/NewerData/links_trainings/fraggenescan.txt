@@ -1,0 +1,19 @@
+{
+  "Software": "FragGeneScan",
+  "Details": {
+    "SoftwareURL": "http://omics.informatics.indiana.edu/FragGeneScan/",
+    "DocumentationURL": "",
+    "TrainingMaterial": [
+      {
+        "Title": "Installation and usage - README",
+        "URL": "https://github.com/COL-IU/FragGeneScan/blob/master/README.md"
+      }
+    ],
+    "TutorialMaterial": [
+      {
+        "Title": "FragGeneScan tutorial",
+        "URL": "https://www.protocols.io/view/fraggenescan-tutorial-rtgbk8n"
+      }
+    ]
+  }
+}

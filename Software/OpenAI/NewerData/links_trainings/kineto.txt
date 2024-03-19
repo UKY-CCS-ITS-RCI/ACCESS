@@ -1,0 +1,19 @@
+{
+  "Software_Name": "kineto",
+  "Software_URL": "https://github.com/pytorch/kineto",
+  "Documentation": [
+    {
+      "Documentation_URL": "https://github.com/pytorch/kineto/tree/main/tb_plugin/docs"
+    }
+  ],
+  "Additional_Resources": [
+    {
+      "Resource_Name": "PyTorch Profiler With TensorBoard",
+      "Resource_URL": "https://pytorch.org/blog/introducing-pytorch-profiler-the-new-and-improved-performance-tool/"
+    },
+    {
+      "Resource_Name": "PyTorch Profiler Github Tutorial",
+      "Resource_URL": "https://github.com/pytorch/tutorials/blob/master/recipes_source/recipes/profiler.py"
+    }
+  ]
+}

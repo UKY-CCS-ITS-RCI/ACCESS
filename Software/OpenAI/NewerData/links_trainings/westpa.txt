@@ -1,0 +1,26 @@
+{
+    "software": {
+        "name": "westpa",
+        "software_url": "https://westpa.github.io/westpa/",
+        "documentation": [
+            {
+                "doc_name": "WESTPA GitHub Documentation",
+                "doc_url": "https://github.com/westpa/westpa/wiki"
+            },
+            {
+                "doc_name": "WESTPA User Documentation",
+                "doc_url": "https://westpa.github.io/westpa/user_docs/index.html"
+            }
+        ],
+        "tutorials": [
+            {
+                "tutorial_name": "WESTPA Tutorials",
+                "tutorial_url": "https://github.com/westpa/westpa/wiki/Tutorials"
+            },
+            {
+                "tutorial_name": "WESTPA Online Tutorial",
+                "tutorial_url": "https://westpa.github.io/westpa/user_docs/tutorials/index.html"
+            }
+        ]
+    }
+}

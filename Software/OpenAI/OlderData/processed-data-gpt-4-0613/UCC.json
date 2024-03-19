@@ -1,0 +1,12 @@
+{
+  "Software Name": "UCC",
+  "links": {
+    "software page": "https://ucc.gcc.gnu.org/",
+    "documentation": "https://gcc.gnu.org/onlinedocs/gcc/Unified-Parallel-C-_0028UPC_0029.html",
+    "tutorials": [
+      "https://www.youtube.com/watch?v=7J_XU9TZAtc",
+      "https://docs.docker.com/engine/install/ubuntu/",
+      "https://ospherecluster.wordpress.com/2011/05/28/howto-install-upc-and-upcruntime-on-ubuntu/"
+    ]
+  }
+}

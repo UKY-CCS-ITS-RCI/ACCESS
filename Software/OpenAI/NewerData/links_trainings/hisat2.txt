@@ -1,0 +1,25 @@
+{
+  "software_name": "hisat2",
+  "software_page": "https://daehwankimlab.github.io/hisat2/",
+  "additional_links": {
+    "documentation": "https://daehwankimlab.github.io/hisat2/manual/",
+    "tutorials": [
+      {
+        "name": "HISAT2 tutorial on Sequence Alignment Map",
+        "url": "https://www.youtube.com/watch?v=BqQbEewhx4A"
+      },
+      {
+        "name": "HISAT2 tutorial on Read Assignment",
+        "url": "https://www.youtube.com/watch?v=FsvIn-iBG70"
+      },
+      {
+        "name": "HISAT2 tutorial from Griffith Lab",
+        "url": "https://griffithlab.github.io/rnaseq_tutorial/lessons/hisat2_alignment.html"
+      },
+      {
+        "name": "HISAT2 walkthrough from Biostar",
+        "url": "https://www.biostars.org/p/213012/"
+      }
+    ]
+  }
+}

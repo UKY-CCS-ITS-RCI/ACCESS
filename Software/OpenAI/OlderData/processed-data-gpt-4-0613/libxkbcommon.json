@@ -1,0 +1,9 @@
+{
+    "software": "libxkbcommon",
+    "resources": {
+        "softwareHomepage": "https://xkbcommon.org/",
+        "documentation": "https://xkbcommon.org/doc/current/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

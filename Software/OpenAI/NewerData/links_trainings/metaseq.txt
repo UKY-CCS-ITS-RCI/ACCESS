@@ -1,0 +1,11 @@
+{
+   "metaseq":{
+      "Software page":"https://github.com/daler/metaseq",
+      "Documentation":"https://metaseq.readthedocs.io/en/latest/",
+      "Additional links":{
+         "Installation":"https://metaseq.readthedocs.io/en/latest/installation.html",
+         "API Guide":"https://metaseq.readthedocs.io/en/latest/api.html",
+         "Tutorial":"https://metaseq.readthedocs.io/en/latest/tutorial.html"
+      }
+   }
+}

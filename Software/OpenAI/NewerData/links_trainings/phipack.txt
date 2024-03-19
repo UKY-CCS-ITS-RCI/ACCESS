@@ -1,0 +1,17 @@
+{
+   "Software":{
+      "Name":"phipack",
+      "Software_URL":"http://www.maths.otago.ac.nz/~dbryant/software.html",
+      "Documentation":[
+         {
+            "Documentation_URL":"http://www.maths.otago.ac.nz/~dbryant/software/PhiPackManual.pdf"
+         }
+      ],
+      "Tutorials_and_Training_Materials":[
+         {
+            "Tutorials_and_Training_Materials_Link_1":"http://evomics.org/learning/population-and-speciation-genomics/2012-population-and-speciation-genomics/phipack-tutorial/", 
+            "Tutorials_and_Training_Materials_Link_2":"https://www.coursehero.com/file/59990757/PHI-test-tutorial-pdf/"
+         }
+      ]
+   }
+}

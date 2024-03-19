@@ -1,0 +1,34 @@
+Use Case: Basemap is often used for creating geological maps, weather maps, and other types of scientific and geographical plots. You can create a map of the world, a specific region, or even a specific country. You can display this data in the form of a heat map, a contour plot, or any other type of diagram. 
+
+Code details and examples:
+
+Code:
+
+```python
+# Import necessary libraries
+from mpl_toolkits.basemap import Basemap
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Create a function to setup a map base object
+def setup_map():
+    plt.figure(figsize=(8,8))
+    # Create a basemap object with specific parameters
+    my_map = Basemap(projection='ortho', lat_0=50, lon_0=-100, resolution='l')
+    # Draw coastlines and continents
+    my_map.drawcoastlines()
+    my_map.fillcontinents(color='coral',lake_color='aqua')
+    # Draw boundary and color of oceans
+    my_map.drawmapboundary(fill_color='aqua')
+    # Draw countries
+    my_map.drawcountries()
+    plt.show()
+
+setup_map()
+```
+
+To run the above code open it in Jupyter Notebook, Python IDE or from command line using specified Python interpreter.
+
+Command to run:
+
+```python map_script.py```

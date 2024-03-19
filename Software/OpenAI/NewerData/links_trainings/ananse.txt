@@ -1,0 +1,13 @@
+{
+  "software": "Ananse",
+  "website_link": "https://github.com/vanheeringen-lab/ANANSE",
+  "documentation_link": "https://ananse.readthedocs.io/en/latest/",
+  "tutorial_links": [
+    "https://ananse.readthedocs.io/en/latest/quickstart.html",
+    "https://ananse.readthedocs.io/en/latest/getting_started/install.html",
+    "https://github.com/vanheeringen-lab/ANANSE#usage"
+  ],
+  "training_materials": [
+    "Not available"
+  ]
+}

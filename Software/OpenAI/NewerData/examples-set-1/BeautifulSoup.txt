@@ -1,0 +1,40 @@
+Use Case: BeautifulSoup is a Python library for pulling data out of HTML and XML files. It provides a few simple methods and Pythonic idioms for navigating, searching, and modifying a parse tree.
+
+Code Example:
+
+Here is a simple example to illustrate the use of BeautifulSoup. The example shows how to parse an HTML document and extract the text contents of all `p` (paragraph) tags:
+
+```python
+from bs4 import BeautifulSoup
+
+html_doc = """
+<html><head><title>Welcome to my website</title></head>
+<body>
+<p class="title"><b>Your way to success</b></p>
+
+<p class="story">There once was a little man, who had a big dream...</p>
+
+<p class="story">...</p>
+"""
+
+soup = BeautifulSoup(html_doc, 'html.parser')
+
+# Print out the text contents of all 'p' tags
+for p in soup.find_all('p'):
+    print(p.get_text())
+```
+
+This will output:
+
+```
+Your way to success
+There once was a little man, who had a big dream...
+...
+```
+
+Input File Details: BeautifulSoup parses HTML and XML documents. The documents can be loaded from a file, or passed directly as a string (as in the example above). If you're loading the document from a file, it should be a regular text file with HTML/XML markup.
+
+Command to run: If the above code is saved in a Python script (e.g., `parse_html.py`), it can be executed from the command line like so:
+```
+python parse_html.py
+```

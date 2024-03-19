@@ -1,0 +1,36 @@
+{
+  "software_name": "plotly.py",
+  "software_page": "https://plotly.com/python/",
+  "documentation": [
+    {
+      "name": "Plotly Documentation",
+      "url": "https://plotly.com/python/"
+    },
+    {
+      "name": "Plotly Python User Guide",
+      "url": "https://plotly.com/python/user-guide/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "name": "Getting Started with Plotly for Python",
+      "url": "https://plotly.com/python/getting-started/"
+    },
+    {
+      "name": "Plotly Python Tutorials",
+      "url": "https://plotly.com/python/"
+    },
+    {
+      "name": "Plotly Fundamentals",
+      "url": "https://plotly.com/python/plotly-fundamentals/"
+    },
+    {
+      "name": "Python Plotting with Plotly and Cufflinks",
+      "url": "https://towardsdatascience.com/visualization-with-plotly-express-comprehensive-guide-eb5ee4b50b57"
+    },
+    {
+      "name": "Plotly Python Graphing Library",
+      "url": "https://www.kaggle.com/learn/interactive-dashboards-with-plotly-dash"
+    }
+  ]
+}

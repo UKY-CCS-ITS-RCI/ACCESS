@@ -1,0 +1,15 @@
+{
+  "name": "r-dorng",
+  "software_url": "https://cran.r-project.org/web/packages/dorng/index.html",
+  "documentation": [
+    {
+      "url": "https://www.rdocumentation.org/packages/dorng/versions/1.6.6"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Using DoRNG in Parallel Simulation",
+      "url": "https://bnaras.github.io/dorng/articles/dorng.html"
+    }
+  ]
+}

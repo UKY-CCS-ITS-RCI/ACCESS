@@ -1,0 +1,13 @@
+{
+  "software_name": "r-sourcetools",
+  "software_page": "https://rdrr.io/github/kevinushey/sourcetools/f/DESCRIPTION",
+  "documentation": [
+    "https://rdrr.io/github/kevinushey/sourcetools/man/",
+    "https://documentation.seqan.de/r/sourcetools/html/index.html",
+    "https://www.rdocumentation.org/packages/sourcetools/versions/0.1.7"
+  ],
+  "tutorials": [
+    "https://www.youtube.com/watch?v=g29DJfbjOH8"
+  ],
+  "additional_links": []
+}

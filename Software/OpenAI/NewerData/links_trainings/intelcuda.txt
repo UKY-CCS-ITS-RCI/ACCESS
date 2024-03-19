@@ -1,0 +1,15 @@
+{
+  "Software": {
+    "Name": "IntelCuda",
+    "Webpage": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler.html",
+    "Documentation": {
+      "Link1": "https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html",
+      "Link2": "https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html"
+    },
+    "Tutorials": {
+      "Link1": "https://www.tensorflow.org/install/gpu",
+      "Link2": "https://www.intel.com/content/www/us/en/developer/articles/guide/migrating-cuda-c-or-c-to-dpcpp.html",
+      "Link3": "https://software.seek.intel.com/Parallel_Programming_DPC"
+    }
+  }
+}

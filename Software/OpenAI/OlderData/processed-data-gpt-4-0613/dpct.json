@@ -1,0 +1,23 @@
+{
+   "software_name":"dpct",
+   "software_page_link":"https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpcpp-ct.html",
+   "documentation_link":"https://software.intel.com/content/www/us/en/develop/articles/intel-oneapi-dpcpp-ct-compiler-developer-guide-and-reference.html",
+   "tutorial_links":[
+      {
+         "tutorial_name":"Simplify SYCL* Application Migration with the new DPC++ Compatibility Tool",
+         "tutorial_link":"https://software.intel.com/content/www/us/en/develop/articles/dpcpp-compatibility-tool.html"
+      },
+      {
+         "tutorial_name":"Data Parallel C++ Developer Guide and Reference",
+         "tutorial_link":"https://software.intel.com/content/www/us/en/develop/documentation/dpcpp-guide/top.html"
+      },
+      {
+         "tutorial_name":"DPC++ API Navigator",
+         "tutorial_link":"https://www.khronos.org/registry/SYCL/specs/sycl-1.2.1cs2.pdf"
+      },
+      {
+         "tutorial_name":"Introduction to DPC++",
+         "tutorial_link":"https://software.intel.com/content/www/us/en/develop/training/course-introduction-dpc.html"
+      }
+   ]
+}

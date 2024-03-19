@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "VCFtools": 
+    { 
+      "URL": "https://vcftools.github.io/index.html",
+      "Documentation": "https://vcftools.github.io/man_latest.html",
+      "Tutorials": 
+      [
+        {
+          "VCFtools Tutorial": "https://vcftools.github.io/examples.html"
+        },
+        {
+          "Working with VCF data": "http://quinlanlab.org/tutorials/bedtools/bedtools.html#working-with-vcf-data"
+        },
+        {
+          "An overview of VCF files and variant calling": "https://www.biostars.org/p/335605/"
+        },
+        {
+          "Introduction to VCF file and some of its complexities": "https://www.internationalgenome.org/wiki/Analysis/vcf4.0/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Software": {
+    "title": "Julia",
+    "software_link": "https://julialang.org/",
+    "documentation_link": "https://docs.julialang.org/en/v1/",
+    "training_tutorials": [
+      {
+        "title": "Julia Tutorials",
+        "link": "https://julialang.org/learning/tutorials/"
+      },
+      {
+        "title": "Julia Academy Courses",
+        "link": "https://julialang.org/learning/courses/"
+      },
+      {
+        "title": "Julia Intensive Course by QuantEcon",
+        "link": "https://julia.quantecon.org/"
+      },
+      {
+        "title": "Introduction to Julia on YouTube by Julia Programming",
+        "link": "https://www.youtube.com/watch?v=8h8rQyEpiZA&t"
+      }
+    ]
+  }
+}

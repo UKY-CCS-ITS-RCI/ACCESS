@@ -1,0 +1,19 @@
+{
+  "Software": "libdap",
+  "SoftwareURL": "https://www.opendap.org/software/libdap",
+  "Documentation": [
+    {
+      "DocURL": "https://www.opendap.org/software/libdap-documentation"
+    }
+  ],
+  "TrainingMaterials": [
+    {
+      "TrainingURL": "https://training.opendap.org/"
+    }
+  ],
+  "Tutorials": [
+    {
+      "TutorialsURL": "https://www.opendap.org/tutorials"
+    }
+  ]
+}

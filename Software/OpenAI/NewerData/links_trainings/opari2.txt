@@ -1,0 +1,25 @@
+{
+  "software_name": "Opari2",
+  "software_url": "https://www.score-p.org",
+  "documentation": {
+    "url": "https://www.score-p.org/documentation/"
+  },
+  "tutorial_links": [
+    {
+      "url": "https://www.vi-hps.org/projects/score-p/",
+      "title": "Score-P and Cube in Vampir"
+    },
+    {
+      "url": "https://www.parallel.informatik.tu-darmstadt.de/teaching/summer-schools/vi-hps/program/vampiretable/vi-hps_score-p_opari_infu/",
+      "title": "Instrumentation with Score-P and Opari2"
+    },
+    {
+      "url": "https://www.dkrz.de/up/systems/mistral/development-environments/perftools/score-p/opari2",
+      "title": "Opari2 at DKRZ"
+    },
+    {
+      "url": "https://www.bsc.es/support/PERSEO%20Documentation/Callpath-BSC/perseo_callpath_opari2",
+      "title": "Perseo_Callpath_Opari2 at BSC"
+    }
+  ]
+}

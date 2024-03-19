@@ -1,0 +1,21 @@
+{
+   "softwareName":"kalign",
+   "website":"https://msa.sbc.su.se/cgi-bin/msa.cgi",
+   "documentation":[
+      {
+         "docName":"The 3.2.2 Release Notes",
+         "URL":"https://anaconda.org/bioconda/kalign"
+      },
+      {
+         "docName":"README",
+         "URL":"https://github.com/TimoLassmann/kalign/blob/master/README.md"
+      }
+   ],
+   "trainingMaterials":[
+      {
+         "materialName":"Alignment and Tree Estimation – NGPhylogeny.fr",
+         "URL":"https://ngphylogeny.fr/workflows/oneclick/"
+      }
+   ],
+   "condaPackage":"https://anaconda.org/bioconda/kalign"
+}

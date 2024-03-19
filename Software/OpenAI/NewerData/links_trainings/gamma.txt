@@ -1,0 +1,12 @@
+{
+  "gamma": {
+    "software_page": "https://www.gamma.net/",
+    "documentation": "https://docs.gamma.net/",
+    "training_material": {
+      "introduction_to_gamma": "https://www.gamma.net/intro",
+      "gamma_tutorial": "https://www.tutorialspoint.com/gamma/index.htm",
+      "gamma_video_training": "https://www.youtube.com/watch?v=u92e5P1ZiSQ",
+      "gamma_webinars": "https://www.gamma.net/webinars"
+    }
+  }
+}

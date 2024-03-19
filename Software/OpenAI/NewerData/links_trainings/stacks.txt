@@ -1,0 +1,23 @@
+{
+  "Software": "stacks",
+  "Website": "http://catchenlab.life.illinois.edu/stacks/",
+  "Documentation": "http://catchenlab.life.illinois.edu/stacks/comp/stacks.php",
+  "Tutorials_and_Training": [
+    {
+      "Title": "STACKS Tutorial",
+      "URL": "http://catchenlab.life.illinois.edu/stacks/tutorial/"
+    },
+    {
+      "Title": "Hands-on with Stacks: a software for population genomics",
+      "URL": "https://www.youtube.com/watch?v=Gv_2F6_PrintqU"
+    },
+    {
+      "Title": "Stacks Workshop",
+      "URL": "http://catchenlab.life.illinois.edu/stacks/workshop/"
+    },
+    {
+      "Title": "Step-by-step guide to using Stacks",
+      "URL": "https://github.com/jpuritz/STACKS"
+    }
+  ]
+}

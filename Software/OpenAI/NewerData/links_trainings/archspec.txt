@@ -1,0 +1,21 @@
+{
+  "softwareName": "archspec",
+  "information": {
+    "softwarePage": {
+      "link": "https://github.com/archspec/archspec"
+    },
+    "documentation": {
+      "link": "https://archspec.readthedocs.io/en/latest/"
+    },
+    "tutorialMaterials": [
+      {
+        "name": "GitHUb Wiki page",
+        "link": "https://github.com/archspec/archspec/wiki"
+      },
+      {
+        "name": "Python package",
+        "link": "https://pypi.org/project/archspec/"
+      }
+    ]
+  }
+}

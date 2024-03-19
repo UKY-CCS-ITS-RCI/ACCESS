@@ -1,0 +1,12 @@
+
+{
+  "Ncview": {
+    "Software Page": "http://meteora.ucsd.edu/~pierce/ncview_home_page.html",
+    "Documentation": "http://meteora.ucsd.edu/~pierce/ncview_home_page.html",
+    "Tutorials": [
+      "https://www.example.com/ncview/tutorial1",
+      "https://www.example.com/ncview/tutorial2"
+    ]
+  }
+}
+

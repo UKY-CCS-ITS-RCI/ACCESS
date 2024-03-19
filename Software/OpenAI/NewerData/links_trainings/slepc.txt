@@ -1,0 +1,12 @@
+{
+  "Software_Name": "SLEPc",
+  "Software_Link": "https://slepc.upv.es/",
+  "Documentation_Link": "https://slepc.upv.es/documentation/",
+  "Tutorials_and_Training_Materials": [
+    {
+      "Tutorial_Link1": "https://slepc.upv.es/documentation/tutorials/tutorials.htm",
+      "Tutorial_Link2": "https://www.mcs.anl.gov/petsc/documentation/tutorials/linearsolvertutorials/slepc/index.html",
+      "Tutorial_Link3": "https://www.cac.cornell.edu/education/training/ParallelComputing2019/SLEPcIntro.pdf"
+    }
+  ]
+}

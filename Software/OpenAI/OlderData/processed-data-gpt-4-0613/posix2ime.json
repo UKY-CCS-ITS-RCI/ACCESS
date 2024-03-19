@@ -1,0 +1,11 @@
+{
+"posix2ime": {
+    "software_page": "http://www.lcdf.org/paftools.js/",
+    "documentation": "http://www.lcdf.org/paftools.js/manual.html",
+    "training_materials_and_tutorials": {
+        "1": "https://www.biostars.org/p/377157/",
+        "2": "https://www.biostars.org/p/377184/",
+        "3": "https://genomeinformatics.github.io/IntroductoryPracticals/content/"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Software Name": "at-spi2-atk",
+  "Software Link": "https://www.linuxfromscratch.org/blfs/view/svn/general/at-spi2-atk.html",
+  "Documentation": [
+    {
+      "Documentation Link": "https://www.linuxfromscratch.org/blfs/view/svn/general/at-spi2-core.html"
+    },
+    {
+      "Documentation Link": "https://developer.gnome.org/at-spi2-atk/stable/"
+    }
+  ],
+  "Tutorials & Training Materials": [
+    {
+      "Tutorial Link": "https://en.wikibooks.org/wiki/Accessibility_Guide/Open_Accessibility_Infrastructure/AT-SPI_on_D-Bus"
+    },
+    {
+      "Tutorial Link": "https://askubuntu.com/questions/375217/what-is-at-spi2-atk"
+    }
+  ]
+}

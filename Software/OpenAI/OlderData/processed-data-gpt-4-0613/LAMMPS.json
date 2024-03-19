@@ -1,0 +1,16 @@
+
+{
+    "name": "LAMMPS",
+    "software_page": "https://lammps.sandia.gov/",
+    "documentation": "https://lammps.sandia.gov/doc/Manual.html",
+    "tutorials": [
+        "https://lammps.sandia.gov/tutorials.html",
+        "https://icme.hpc.msstate.edu/mediawiki/index.php/LAMMPS_tutorials",
+        "https://www.youtube.com/playlist?list=PLjfpViMhhm8hfyzI2oT5zVKCHDOeibzQr"
+    ],
+    "additional_resources": [
+        "https://lammps.sandia.gov/workshops.html",
+        "https://www.cac.cornell.edu/education/training/LAMMPS_2019.aspx",
+        "https://www.ccs.uky.edu/ccs/profiles/Lammps_tutorial/index.html"
+    ]
+}

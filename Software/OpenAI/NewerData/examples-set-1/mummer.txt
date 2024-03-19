@@ -1,0 +1,27 @@
+Use Case: MUMmer is a sequence alignment software useful for comparing the genomes of different species or individuals. It can align entire genomes, whether in protein or DNA sequences. For this example, we'll show how to align two DNA sequence files in FASTA format.
+
+Code Details and Examples:
+
+Input Files Format: Two sequence files in FASTA format are required. Let's use `sequence1.fasta` and `sequence2.fasta` as examples. Their format should be similar to the following:
+
+    >seq1
+    GATCGATCGAT
+    ATCGATCGATC
+    GATCGATCGAT
+
+    >seq2
+    GGCTGCTGCTG
+    CTCGATCGATC
+    GATCGATCGAT
+
+Command to run the alignment:
+
+    nucmer --prefix=out sequence1.fasta sequence2.fasta
+
+This command will create two output files: `out.delta` which contains the alignment information and `out.snps` which contains all identified SNPs.
+
+For visual representation of the alignment, you can generate a plot using the 'mummerplot' tool:
+
+    mummerplot out.delta --png --large -p out
+
+This will generate a file called `out.png` which is a graphical representation of the alignment.

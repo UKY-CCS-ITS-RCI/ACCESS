@@ -1,0 +1,10 @@
+{
+  "software_name": "pwanalyzer",
+  "software_page": "https://github.com/lerandc/pwanalyzer",
+  "links": {
+    "documentation": "https://github.com/lerandc/pwanalyzer/blob/master/README.md",
+    "tutorials": [
+    ],
+    "additional_information": "https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software"
+  }
+}

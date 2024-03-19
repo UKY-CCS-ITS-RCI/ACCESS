@@ -1,0 +1,21 @@
+{
+  "software": "DendroPy",
+  "main_url": "https://dendropy.org/",
+  "links": {
+    "documentation": "https://dendropy.org/primer.html",
+    "tutorial_materials": [
+      {
+        "name": "DendroPy Tutorial for Phylogenetic Computing",
+        "url": "https://dendropy.org/tutorial/index.html"
+      },
+      {
+        "name": "Data Structure and Formats Tutorial",
+        "url": "https://dendropy.org/tutorial/trees.html"
+      },
+      {
+        "name": "Manipulating Data and Managing Analyses",
+        "url": "https://dendropy.org/tutorial/manipulating.html"
+      }
+    ]
+  }
+}

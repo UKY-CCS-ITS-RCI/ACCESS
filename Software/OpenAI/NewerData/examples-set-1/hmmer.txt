@@ -1,0 +1,25 @@
+Use Case: HMMER is used for searching sequence databases for homologs of protein sequences, and for making protein sequence alignments. 
+
+Code details and examples:
+Code:
+
+To run an HMMER search, you need to specify the query sequence and the database to be searched. Query sequences are provided in FASTA format. A typical command might look like this:
+
+```
+hmmscan --tblout results.txt Pfam-A.hmm seqs.fasta
+```
+
+Here, `hmmscan` is the command to run the search, `--tblout results.txt` specifies that the output should be written to the file `results.txt`, `Pfam-A.hmm` is the database to search, and `seqs.fasta` is the file containing the query sequences.
+
+The input file (`seqs.fasta`) might look like this:
+
+```
+>sequence1
+MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEG
+FLCVFAINNTKSFEDIHQYREQIKRVKDSDDVPMVLVGNKCDLAARTVESRQAQDLARSYGIPYIETSAKTRQGVEDA
+FMLESLDSDYSLKGDIGSREKAKFAAELGIPFLETSAKTRQGVEDAFYTLVREIRLH
+```
+
+This is a standard FASTA format, with each sequence preceded by a line starting with a `>` character, which specifies the sequence identifier, and followed by the sequence itself. Multiple sequences can be included in the same file.
+
+As for the `Pfam-A.hmm` file, it would contain a collection of HMM profiles. This could be downloaded from online protein databases like Pfam.

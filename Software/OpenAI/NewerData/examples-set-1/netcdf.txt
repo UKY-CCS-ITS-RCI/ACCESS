@@ -1,0 +1,48 @@
+Use Case: NetCDF (Network Common Data Form) is a set of software libraries and machine-independent data formats used to create, access, and share array-oriented scientific data. This is particularly used within meteorology, oceanography and earth science communities.
+
+Code details and examples:
+
+Code:
+
+A sample NetCDF file can be created using python's netCDF4 module.
+
+```python
+#```python
+from netCDF4 import Dataset
+import numpy as np
+
+# create a dataset object
+rootgrp = Dataset('test.nc', 'w', format='NETCDF4')
+
+# Create dimensions
+level = rootgrp.createDimension('level', None)
+time = rootgrp.createDimension('time', None)
+lat = rootgrp.createDimension('lat', 73)
+lon = rootgrp.createDimension('lon', 144)
+
+# Create variables
+times = rootgrp.createVariable('time', 'f8', ('time',))
+levels = rootgrp.createVariable('level', 'i4', ('level',))
+latitudes = rootgrp.createVariable('lat', 'f4', ('lat',))
+longitudes = rootgrp.createVariable('lon', 'f4', ('lon',))
+temp = rootgrp.createVariable('temp', 'f4', ('time', 'level', 'lat', 'lon',))
+
+# Assign data
+latitudes[:] = np.arange(-90, 91, 2.5)
+longitudes[:] = np.arange(-180, 180, 2.5)
+levels[:] = [1000., 850., 700., 500., 300., 200., 100., 50., 10.]
+temp[0:10, :, :, :] = np.random.uniform(size=(10, len(levels), len(latitudes), len(longitudes)))
+
+# Close the dataset
+rootgrp.close()
+#```
+
+Command to run:
+
+This will be a Python script, so it can be directly called from the terminal using the following command,
+
+```bash
+python create_netcdf.py
+```
+
+This will generate an output file, 'test.nc' which is a netCDF file.

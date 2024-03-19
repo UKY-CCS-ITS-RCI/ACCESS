@@ -1,0 +1,32 @@
+Use Case: Linaro is a software toolchain that is used for compiling source code of an application to run on certain hardware architecture. Generally used in embedded systems or ARM architecture applications development.
+
+Code Details and Examples: 
+
+Code:
+
+Let's take an example of a simple C program 'hello.c'. The important input file is the source code, which in this case is the C file. 
+
+```c
+#include<stdio.h>
+
+int main()
+{
+    printf("Hello World\n");
+    return 0;
+}
+```
+To compile and execute this code using Linaro toolchain, you would use the arm-linux-gnueabihf-gcc compiler which is part of the Linaro toolchain. The command for compilation would be
+
+```
+arm-linux-gnueabihf-gcc -o hello hello.c
+```
+In this, '-o hello' is used to specify the output file name. This will use the Linaro toolchain to compile the code to run on an ARM architecture.
+
+If successful, this command produces an executable file 'hello', which can be run on an ARM device. To run the executable on the host machine, a simulator like 'qemu' is required. 
+
+```
+qemu-arm -L /usr/arm-linux-gnueabihf/ hello
+```
+This command will print "Hello World" on the console. '/usr/arm-linux-gnueabihf/' is the directory where the arm-linux-gnueabihf-gcc compiler is installed.
+
+Please note that the exact paths and compiler versions might vary based on the specific setup and the code being compiled.

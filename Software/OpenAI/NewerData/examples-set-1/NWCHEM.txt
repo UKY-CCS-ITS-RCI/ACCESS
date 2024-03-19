@@ -1,0 +1,26 @@
+Use Case: Use NWCHEM for computational chemistry. 
+
+Code details and examples: Code
+
+Sample Input File: 
+
+```
+start h2o
+geometry
+  O     
+  H 1 R
+  H 1 R 2 A
+end
+basis
+  *
+  library 6-31G
+end
+SCF
+end
+task SCF optimize
+```
+In the input file, the line `start h2o` starts a new job called "h2o". The `geometry` block defines the molecular structure. The `basis` block specifies the basis set. The `task scf optimize` command tells NWCHEM to perform an SCF (Hartree-Fock) optimization of the molecular geometry. The variables R and A are two parameters you can play with. They decide the distance between hydrogen and oxygen atoms (R) and the angle between them (A).
+
+To execute an NWCHEM calculation, prepare an appropriate input file (the above is an example), then run the following command in the directory where the input file resides:
+
+```nwchem input.nw > output.out```

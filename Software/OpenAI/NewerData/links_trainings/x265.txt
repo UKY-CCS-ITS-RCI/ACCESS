@@ -1,0 +1,16 @@
+{
+  "software": "x265",
+  "links": {
+    "software_page": "http://x265.org/",
+    "documentation": "https://x265.readthedocs.io/en/latest/",
+    "tutorials": [
+      "https://www.videolan.org/developers/x265.html",
+      "https://forum.videohelp.com/threads/376182-x265-settings-for-anime",
+      "https://slhck.info/video/2017/03/01/rate-control.html"
+    ],
+    "training": [
+      "https://hexecontahedron.wordpress.com/2017/07/29/opinionated-guide-to-x265-encoding/",
+      "https://www.primeimagesys.com/blog/x264-vs-x265-encoding-guide/"
+    ]
+  }
+}

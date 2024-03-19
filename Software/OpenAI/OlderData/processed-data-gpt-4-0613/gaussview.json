@@ -1,0 +1,19 @@
+{
+  "softwareName": "GaussView",
+  "softwareURL": "https://gaussian.com/gaussview6/",
+  "documentationURL": "https://gaussian.com/glossary/gv/",
+  "tutorials":[
+    {
+      "tutorialName": "Introduction to Gaussian: GaussView",
+      "URL": "https://www.ch.cam.ac.uk/computing/software/gaussian/gv"
+    },
+    {
+      "tutorialName": "GaussView 6 Tutorial",
+      "URL": "https://www.youtube.com/watch?v=OFVV_GDV3gs"
+    },
+    {
+      "tutorialName": "Using Gaussview and Gaussian Tutorial",
+      "URL": "https://www.researchgate.net/post/Using_Gaussview_and_Gaussian_tutorial"
+    }
+  ]
+}

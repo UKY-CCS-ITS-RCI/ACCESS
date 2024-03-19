@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "Zstd": 
+    { 
+      "URL": "https://facebook.github.io/zstd/",
+      "Documentation": "https://facebook.github.io/zstd/zstd_manual.html",
+      "Tutorials": 
+      [
+        {
+          "Zstd Command Tutorial With Examples": "https://www.shellhacks.com/zstd-compress-decompress-file-linux-command-tutorial-examples/"
+        },
+        {
+          "Zstd – A Super Faster Data Compression Tool": "https://www.tecmint.com/zstd-fast-data-compression-tool/"
+        },
+        {
+          "zstd - Quick guide": "https://www.quickprogrammingtips.com/compression/zstd-quick-guide.html"
+        },
+        {
+          "zstd Manual - Usage Examples": "https://facebook.github.io/zstd/zstd_manual.html#Chapter7"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Software Name": "SHAP",
+  "links": {
+    "software page": "https://github.com/slundberg/shap",
+    "documentation": "https://shap.readthedocs.io/en/latest/",
+    "tutorials": [
+      "https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d",
+      "https://www.kaggle.com/dansbecker/shap-values",
+      "https://christophm.github.io/interpretable-ml-book/shap.html"
+    ]
+  }
+}

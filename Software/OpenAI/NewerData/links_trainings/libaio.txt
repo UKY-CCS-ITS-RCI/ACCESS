@@ -1,0 +1,20 @@
+{
+  "software_name": "libaio",
+  "software_page_link": "https://launchpad.net/libaio",
+  "documentation_links": [
+    {
+      "doc_name": "libaio HPE Documentation",
+      "doc_link": "https://docs.computecanada.ca/wiki/LibAIO"
+    },
+    {
+      "doc_name": "libaio ManPage",
+      "doc_link": "http://manpages.ubuntu.com/manpages/bionic/man3/io.3.html"
+    }
+  ],
+  "training_materials": [
+      {
+      "tutorial_name": "Introduction to Asynchronous I/O (libaio)",
+      "tutorial_link": "https://www.youtube.com/watch?v=uI7EzIbnev0"
+      }
+  ]
+}

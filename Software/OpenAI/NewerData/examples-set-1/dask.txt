@@ -1,0 +1,36 @@
+Use Case: Dask is used for parallel computing in Python. It provides advanced parallelism directly into native Python APIs like Numpy, Pandas, and Scikit-Learn. It enables efficient computation on large datasets that do not fit into memory.
+
+Code details and examples:
+
+Code:
+
+```python
+import dask.array as da
+
+# Create a 10000x10000 array of random numbers, represented as many small arrays
+array = da.random.random((10000, 10000), chunks=(1000, 1000))
+
+# Now operate on this array as you would a numpy array
+result = array + array.T
+
+# Call .compute() when you want your result as a NumPy array.
+total = result.mean().compute()
+```
+In this code, we are creating a large array that is split into smaller chunks, and performing some computations. The `compute()` function is used to get the result.
+
+Command to run:
+
+To run this script, save it as a .py file and use the Python interpreter from the terminal:
+
+```bash
+$ python dask_example.py
+```
+
+Command to run Dask interactively (Jupyter notebook or Python shell):
+
+```bash
+from dask.distributed import Client, progress
+client = Client(processes=False)  # Start Dask Client
+
+# Now use Dask as normally done.
+```

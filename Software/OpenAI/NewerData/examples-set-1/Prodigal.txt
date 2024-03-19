@@ -1,0 +1,31 @@
+Use Case: Prodigal is typically used for gene prediction in bacteria, archaes, and metagenomes. It predicts genes based on finding potential open reading frames and using a sophisticated algorithm to analyze protein-coding potentials. 
+
+Code details and examples:
+
+Code:
+
+Input Files Format:
+Prodigal requires a fasta file as input. The command needs to have Prodigal followed by:
+ 
+- -i to specify input filename 
+- -o to specify output filename 
+- -a to specify protein sequence output filename (optional)
+- -p to specify the procedure (single or metagenomic) (optional)
+
+```
+prodigal -i input.fna -o output.txt -a output.faa -p single
+```
+
+The input file could be an assembled genome and the format of the file should be as follows:
+ 
+```
+>sequence_1
+ATG CTGAAA...
+>sequence_2
+ATG VCGGT...
+```
+
+Here, sequence_1, sequence2, ... indicates names of sequences and these are followed by DNA sequences (ATG CTGAAA...). 
+
+Output Files:
+The output file contains the gene sequences (in fasta format) while another output file output.txt contains the location of genes on contigs.

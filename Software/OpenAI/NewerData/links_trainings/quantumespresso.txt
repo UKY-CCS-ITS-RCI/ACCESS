@@ -1,0 +1,23 @@
+{
+  "Software_name": "QuantumESPRESSO",
+  "Software_webpage": "https://www.quantum-espresso.org/",
+  "Software_documentation": "https://www.quantum-espresso.org/resources/users-manual",
+  "Training_and_tutorial_materials": [
+    {
+      "Material_name": "Quantum ESPRESSO tutorials",
+      "Material_URL": "https://www.quantum-espresso.org/resources/tutorials"
+    },
+    {
+      "Material_name": "Materials Cloud Quantum ESPRESSO tutorial",
+      "Material_URL": "https://www.materialscloud.org/learn/section/a912c1ee-fa89-4b18-89fc-bbfe7d61d20b"
+    },
+    {
+      "Material_name": "Youtube Quantum ESPRESSO Walkthrough",
+      "Material_URL": "https://www.youtube.com/watch?v=U4SfGFPqyO4"
+    },
+    {
+      "Material_name": "Introduction to Quantum ESPRESSO",
+      "Material_URL": "https://www.researchgate.net/publication/330141577_Introduction_to_Quantum_Espresso"
+    }
+  ]
+}

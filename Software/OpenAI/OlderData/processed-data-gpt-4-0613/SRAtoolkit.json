@@ -1,0 +1,12 @@
+{
+  "Software Name": "SRAtoolkit",
+  "links": {
+    "software page": "https://github.com/ncbi/sra-tools",
+    "documentation": "https://github.com/ncbi/sra-tools/wiki",
+    "tutorials": [
+      "https://angus.readthedocs.io/en/2019/sra-toolkit.html",
+      "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/sratoolkit-tutorial/",
+      "https://www.youtube.com/watch?v=sMJ1YHOOdIA"
+    ]
+  }
+}

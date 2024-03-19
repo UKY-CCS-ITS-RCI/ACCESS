@@ -1,0 +1,24 @@
+{
+  "SoftwareName": "SpeedSeq",
+  "SoftwarePage": "https://github.com/hall-lab/speedseq",
+  "DocumentationLinks": [
+    {
+      "DocName": "SpeedSeq Documentation",
+      "URL": "https://github.com/hall-lab/speedseq#readme"
+    },
+    {
+      "DocName": "SpeedSeq Wiki",
+      "URL": "https://github.com/hall-lab/speedseq/wiki"
+    }
+  ],
+  "TutorialAndTrainingMaterials": [
+    {
+      "MaterialName": "SpeedSeq Using Guide",
+      "URL": "https://plagnol-lab.blogspot.com/2015/08/how-to-run-speedseq.html"
+    },
+    {
+      "MaterialName": "Tutorial for similar software (GATK) which can be used for reference",
+      "URL": "https://gatk.broadinstitute.org/hc/en-us/articles/360035894731-Data-pre-processing-for-variant-discovery"
+    }
+  ]
+}

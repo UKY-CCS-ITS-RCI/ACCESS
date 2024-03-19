@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Flask": {
+      "MainPage": "https://flask.palletsprojects.com/en/2.1.x/",
+      "Documentation": "https://flask.palletsprojects.com/en/2.1.x/tutorial/",
+      "Tutorials": [
+        "https://flask.palletsprojects.com/en/2.1.x/tutorial/",
+        "https://www.tutorialspoint.com/flask/index.htm",
+        "https://www.fullstackpython.com/flask.html"
+      ]
+    }
+  }
+}

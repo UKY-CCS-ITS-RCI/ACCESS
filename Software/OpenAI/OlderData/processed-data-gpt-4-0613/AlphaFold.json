@@ -1,0 +1,19 @@
+{
+  "Software": "AlphaFold",
+  "Website": "https://deepmind.com/research/publications/AlphaFold-Using-AI-for-scientific-discovery",
+  "Documentation": "https://github.com/deepmind/alphafold",
+  "Tutorials and Training material": [
+    {
+      "Title": "AlphaFold2 Colab Notebooks",
+      "Link": "https://github.com/sokrypton/ColabFold"
+    },
+    {
+      "Title": "Using AlphaFold2 for protein structure prediction",
+      "Link": "https://www.orpheusascend.com/news/alphafold"
+    },
+    {
+      "Title": "AlphaFold Tutorial by DeepMind",
+      "Link": "https://github.com/deepmind/alphafold"
+    }
+  ]
+}

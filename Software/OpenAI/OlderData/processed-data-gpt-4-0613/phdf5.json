@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "PHDF5",
+  "Homepage": "https://portal.hdfgroup.org/display/HDF5/Parallel+HDF5",
+  "Resources": {
+    "Documentation": "https://portal.hdfgroup.org/display/HDF5/Parallel+HDF5",
+    "Tutorials": [
+      "https://portal.hdfgroup.org/display/HDF5/Learning+HDF5",
+      "https://support.hdfgroup.org/HDF5/Tutor/HDF5Intro.pdf"
+    ],
+    "TrainingMaterial": [
+      "https://www.nersc.gov/assets/Uploads/Day-3-IO-in-Depth-Parallel-HDF5.pdf",
+      "https://support.hdfgroup.org/HDF5/Tutor/HDF5Intro.pdf"
+    ]
+  }
+}

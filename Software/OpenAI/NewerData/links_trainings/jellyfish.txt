@@ -1,0 +1,13 @@
+{
+  "jellyfish": {
+    "Software_page": "https://www.cbcb.umd.edu/software/jellyfish/",
+    "Documentation": "http://www.genome.umd.edu/jellyfish.html",
+    "Tutorials_and_Training_materials": [
+      {
+        "General_usage": "http://www.genome.umd.edu/docs/JellyfishUserGuide.pdf",
+        "Bioinformatics_practical_guide": "https://bioinformatics.uconn.edu/genomics/jellyfish-2-a-k-mer-counter/",
+        "Video_tutorial": "https://www.youtube.com/watch?v=jtHzY6v_TyA"
+      }
+    ]
+  }
+}

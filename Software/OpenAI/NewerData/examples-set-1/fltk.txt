@@ -1,0 +1,35 @@
+Use Case: FLTK (Fast Light Toolkit) is a cross-platform C++ GUI toolkit for UNIX, Windows, and MacOS. It provides a modern GUI interface for programs where the user interface is hard-coded, or in C/C++ code. 
+
+Code details and examples: 
+
+Code: 
+
+```c++
+#include <FL/Fl.H>
+#include <FL/Fl_Window.H>
+#include <FL/Fl_Box.H>
+
+int main(int argc, char **argv) {
+  Fl_Window *window = new Fl_Window(340,180);
+  Fl_Box *box = new Fl_Box(20,40,300,100,"Hello, World!");
+  box->box(FL_UP_BOX);
+  box->labelsize(36);
+  box->labelfont(FL_BOLD+FL_ITALIC);
+  box->labeltype(FL_SHADOW_LABEL);
+  window->end();
+  window->show(argc, argv);
+  return Fl::run();
+}
+```
+This simple FLTK program opens a window and displays a text "Hello, World!". 
+
+The command to compile and run this FLTK program using g++ would be:
+
+```bash
+$ g++ -o hello `fltk-config --cxxflags` hello.cpp `fltk-config --ldflags`
+$ ./hello
+```
+
+FLTK also provides the fltk-config script that can be used to get the compiler flags necessary for compiling FLTK programs. The "fltk-config --cxxflags" command returns the required compiler flags and "fltk-config --ldflags" returns the required linker flags.
+
+There is no specific input file or format required for this example. The code can be written inside any text editor and saved with a .cpp extension.

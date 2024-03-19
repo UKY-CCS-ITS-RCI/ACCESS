@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GTK2": {
+      "MainPage": "https://www.gtk.org/",
+      "Documentation": "https://developer.gnome.org/gtk2/stable/",
+      "Tutorials": [
+        "https://developer.gnome.org/gtk-tutorial/stable/",
+        "https://www.youtube.com/watch?v=z06QR-tz1_o",
+        "https://www.tutorialspoint.com/gtk/"
+      ]
+    }
+  }
+}

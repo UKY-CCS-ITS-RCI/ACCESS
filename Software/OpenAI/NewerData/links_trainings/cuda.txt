@@ -1,0 +1,12 @@
+{
+  "software": {
+    "name": "CUDA",
+    "website": "https://developer.nvidia.com/cuda-zone",
+    "documentation": "https://docs.nvidia.com/cuda/",
+    "tutorials": {
+      "cuda_by_example": "http://www.mat.unimi.it/users/burger/CUDA/CUDA_by_Example.pdf",
+      "introduction_to_cuda": "https://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf",
+      "cuda_programming_guide": "https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html"
+    }
+  }
+}

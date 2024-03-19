@@ -1,0 +1,15 @@
+{
+  "name": "xalt",
+  "links": {
+    "softwarePage": "https://github.com/xalt/xalt",
+    "documentation": [
+      "https://xalt.readthedocs.io/en/latest/",
+      "https://github.com/xalt/xalt/blob/master/README.md"
+    ],
+    "tutorialsAndTraining": [
+      "https://www.youtube.com/watch?v=1MxrdDEbsk4",
+      "https://www.nsc.liu.se/mn1/documentation/xalt/",
+      "https://sylabs.io/guides/3.5/user-guide/admin-guide.html"
+    ]
+  }
+}

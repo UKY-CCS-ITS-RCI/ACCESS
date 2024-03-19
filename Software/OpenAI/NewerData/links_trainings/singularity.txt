@@ -1,0 +1,24 @@
+{
+  "singularity": {
+    "software_page": "https://hpc.github.io/singularity/",
+    "documentation": "https://sylabs.io/guides/3.0/user-guide/",
+    "training_and_tutorial_materials": [
+      {
+        "name": "Quick Start",
+        "url": "https://sylabs.io/guides/3.7/user-guide/quick_start.html"
+      },
+      {
+        "name": "User Guide",
+        "url": "https://sylabs.io/guides/3.7/user-guide/index.html"
+      },
+      {
+        "name": "Getting started with Singularity on HPC",
+        "url": "https://research.computing.yale.edu/support/hpc/user-guide/singularity"
+      },
+      {
+        "name": "Singularity on HPC",
+        "url": "https://www.osc.edu/resources/technical_support/user_guides/singularity"
+      }
+    ]
+  }
+}

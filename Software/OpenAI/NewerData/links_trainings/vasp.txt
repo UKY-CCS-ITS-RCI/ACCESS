@@ -1,0 +1,16 @@
+{
+  "software_name": "vasp",
+  "software_page": "https://www.vasp.at/",
+  "software_documentation": 
+  [
+    "https://cms.mpi.univie.ac.at/wiki/index.php/The_VASP_Manual",
+    "https://www.vasp.at/index.php/documentation"
+  ],
+  "tutorial_links": 
+  [
+    "https://cms.mpi.univie.ac.at/vasp/vasp/vasp.html",
+    "https://www.vasp.at/index.php/tutorial",
+    "http://theory.cm.utexas.edu/vtsttools/tutorial.html",
+    "https://www.youtube.com/watch?v=DBjjU3Gzkqw"
+  ]
+}

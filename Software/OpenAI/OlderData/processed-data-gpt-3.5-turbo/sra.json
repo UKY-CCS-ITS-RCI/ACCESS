@@ -1,0 +1,12 @@
+{
+    "software_name": "SRA",
+    "comprehensive_overview": "The Sequence Read Archive (SRA) is the largest publicly accessible repository of high-throughput sequencing data. It stores raw sequence data and alignment information from next-generation sequencing platforms.",
+    "core_features": "1. Archive of raw high-throughput sequencing data. 2. Allows researchers to access and download sequence data for analysis. 3. Provides alignment information for the data. 4. Supports various next-generation sequencing platforms.",
+    "general_tags": ["sequence data", "high-throughput sequencing", "data repository"],
+    "additional_tags": {
+        "research_discipline": "Bioinformatics",
+        "research_area": "Genomics",
+        "software_class": "Data Repository",
+        "software_type": "Bioinformatics Tool"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "software": "libgit2",
+    "resources": {
+        "softwareHomepage": "https://libgit2.org/",
+        "documentation": "https://libgit2.org/libgit2/#HEAD",
+        "tutorials": [
+            {
+                "title": "Libgit2 Tutorials",
+                "url": "https://github.com/libgit2/libgit2/blob/main/README.md#tutorials"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "software_name": "hap.py",
+  "software_url": "https://github.com/Illumina/hap.py",
+  "documentation": {
+    "link_1": "https://illumina.github.io/hap.py/"
+  },
+  "tutorial_and_training_materials": {
+    "link_1": "https://www.youtube.com/watch?v=gJTLfGjraZs",
+    "link_2": "https://www.biostars.org/p/213596/",
+    "link_3": "https://github.com/Illumina/hap.py/blob/master/doc/source/install.rst"
+    },
+  "conda_package": {
+    "conda_url": "https://anaconda.org/bioconda/hap.py"
+  },
+  "bioinformatics_tool": "Yes",
+  "hpc_tool": "No",
+  "python_library": "No"
+}

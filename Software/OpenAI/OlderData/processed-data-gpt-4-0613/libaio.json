@@ -1,0 +1,14 @@
+{
+    "software": "libaio",
+    "resources": {
+        "softwareHomepage": "https://pagure.io/libaio",
+        "documentation": "https://pagure.io/libaio/blob/master/f/README",
+        "tutorials": [
+            {
+                "title": "Linux Asynchronous I/O",
+                "url": "https://freecode.com/articles/linux-asynchronous-io"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

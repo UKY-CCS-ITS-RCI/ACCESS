@@ -1,0 +1,19 @@
+{
+  "Software_Name": "hifiasm",
+  "Software_URL": "https://github.com/chhylp123/hifiasm",
+  "Documentation": [
+    {
+      "Doc_URL": "https://github.com/chhylp123/hifiasm#brief-manual"
+    }
+  ],
+  "Tutorials_and_Training": [
+    {
+      "Tutorial_URL": "https://genomeinformatics.github.io/hifiasm-meta/",
+      "Title": "Hifiasm for Metagenomic Data"
+    },
+    {
+      "Tutorial_URL": "https://bioinformaticsworkbook.org/dataAnalysis/GenomeAssembly/AssemblingAGenomeWithHifiasm.html#gsc.tab=0",
+      "Title": "Assembling A Genome With Hifiasm"
+    }
+  ]
+}

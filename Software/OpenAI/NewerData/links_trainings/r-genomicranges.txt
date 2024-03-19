@@ -1,0 +1,16 @@
+{
+  "Software": "R-GenomicRanges",
+  "Software_URL": "https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html",
+  "Documentation": [
+    {
+      "Documentation_URL1": "https://www.bioconductor.org/packages/devel/bioc/vignettes/GenomicRanges/inst/doc/GenomicRangesIntroduction.pdf"
+    }
+  ],
+  "Training_Materials_and_Tutorials": [
+    {
+      "Tutorial_URL1": "https://bioconductor.org/packages/devel/workflows/vignettes/RnaSeqGene/inst/doc/rnaseqgene.html",
+      "Tutorial_URL2": "http://www.bioconductor.org/help/course-materials/2011/BioC2011/LabStuff/GenomicRangesLab.pdf",
+      "Tutorial_URL3": "https://www.bioconductor.org/help/workflows/rnaseqGene/"
+    }
+  ]
+}

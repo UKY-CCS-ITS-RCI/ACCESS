@@ -1,0 +1,41 @@
+Use Case: Hypre is used in large scale computation of linear equations in a grid or mesh based system where each element primarily interacts with its neighboring elements. It is used in scientific computation, specifically in parallel computing.
+
+Code details and examples: 
+
+Code:
+
+```C
+#include "HYPRE.h"
+#include "_hypre_utilities.h"
+#include "HYPRE_krylov.h"
+#include "HYPRE_struct_ls.h"
+
+int main (int argc, char *argv[])
+{
+    int i, j;
+    int n, iseed = 77521;
+    HYPRE_IJMatrix A;
+    HYPRE_ParVector b;
+    HYPRE_ParVector x;
+    …
+
+    HYPRE_IJMatrixSetObjectType(A, HYPRE_PARCSR);
+    HYPRE_IJMatrixInitialize(A);
+
+    /*  Set the matrix coefficients  */
+    for (j=0; j<n; j++)
+    {
+        for (i=0; i<n; i++)
+        {
+            HYPRE_IJMatrixSetValues(A, 1, &nrows, &i, &ncols, &j, &value);
+        }
+    }
+    /* Assemble the coefficient matrix*/
+    HYPRE_IJMatrixAssemble(A);
+    …
+}
+```
+
+The command to run: `mpirun -np 4 ./a.out`
+
+This is a basic C example of Hypre. The input file consists of a description of the matrix in the matrix market format. The format is dense because each element of the matrix is specified explicitly. The matrix being square has `n*n` elements where `n` is the side length. The row and column indices are specified for each element, which allows for a sparse matrix. For the input, `i` and `j` are the row and column indices respectively and `value` is the element value at (i, j) in the matrix `A`. HYPRE_IJMatrixSetValues sets the matrix coefficients and HYPRE_IJMatrixAssemble assembles the matrix. This is a very basic example of how to set up and run Hypre. More complex mesh and grid systems with more complex interactions between elements require more complex set ups and use more Hypre functions.

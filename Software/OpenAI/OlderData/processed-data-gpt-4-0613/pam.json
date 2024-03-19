@@ -1,0 +1,10 @@
+{
+  "Name": "PAM (Pluggable Authentication Modules)",
+  "SoftwareURL": "http://www.linux-pam.org/",
+  "DocumentationURL": "http://www.linux-pam.org/Linux-PAM-html/Linux-PAM_SAG.html",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://www.tldp.org/HOWTO/html_single/User-Authentication-HOWTO/",
+    "Tutorial_2_URL": "https://www.cyberciti.biz/tips/understanding-linux-unix-basics-of-pam-pluggable-authentication-modules.html",
+    "Tutorial_3_URL": "https://www.redhat.com/sysadmin/pluggable-authentication-modules-pam"
+  }
+}

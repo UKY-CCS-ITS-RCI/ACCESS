@@ -1,0 +1,24 @@
+{
+  "Software_Name": "metabat",
+  "Software_URL": "https://bitbucket.org/berkeleylab/metabat/src/master/",
+  "Documentation": [
+    {
+      "Document_Title": "MetaBAT, An efficient tool for accurately reconstructing single genomes from complex microbial communities",
+      "URL": "http://genome.cshlp.org/content/early/2015/06/15/gr.196469.115.abstract"
+    }
+  ],
+  "Tutorial_and_Training_Materials": [
+    {
+      "Title": "MetaBAT Manual on Bitbucket",
+      "URL": "https://bitbucket.org/berkeleylab/metabat/src/master/MANUAL.md"
+    },
+    {
+      "Title": "Bioconda metabat2",
+      "URL": "https://bioconda.github.io/recipes/metabat2/README.html"
+    },
+    {
+      "Title": "Community Tutorial on Metagenome Analysis using QIIME, Megan and MetaBAT",
+      "URL": "https://wiki.qiime2.org/w/Metagenome_analysis_using_QIIME,_MEGAN_and_MetaBAT"
+    }
+  ]
+}

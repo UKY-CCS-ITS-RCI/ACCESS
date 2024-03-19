@@ -1,0 +1,12 @@
+{
+  "software": "PMIx",
+  "url": "https://pmix.org/",
+  "documentation": "https://pmix.org/doc-openpmix-master/",
+  "tutorials": [
+    "https://pmix.org/wp-content/uploads/sites/2/2018/02/PMIx-Tutorial.pdf"
+  ],
+  "training_materials": [
+    "https://www.youtube.com/watch?v=Da9k_YWOsWg", 
+    "https://www.frontiersin.org/articles/10.3389/frai.2020.00024/full"
+  ]
+}

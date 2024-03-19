@@ -1,0 +1,14 @@
+{
+    "software": "libevent",
+    "resources": {
+        "softwareHomepage": "http://libevent.org/",
+        "documentation": "http://www.wangafu.net/~nickm/libevent-book/",
+        "tutorials": [
+            {
+                "title": "Programming with Libevent",
+                "url": "http://www.wangafu.net/~nickm/libevent-book/"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

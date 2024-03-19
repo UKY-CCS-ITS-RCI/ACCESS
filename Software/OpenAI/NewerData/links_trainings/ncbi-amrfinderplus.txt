@@ -1,0 +1,16 @@
+{
+  "name": "ncbi-amrfinderplus",
+  "description": "AMRFinder is a tool that can identify acquired antimicrobial resistance genes in protein or nucleotide sequences.",
+  "software_url": "https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/AMRFinder/",
+  "documentation_url": "https://github.com/ncbi/amr/wiki",
+  "tutorials_and_training": [
+    {
+      "tutorial_name": "Training on AMRFinderPlus",
+      "tutorial_url": "https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/AMRFinder/training/"
+    },
+    {
+      "tutorial_name": "Tutorial on NCBI Insights",
+      "tutorial_url": "https://ncbiinsights.ncbi.nlm.nih.gov/2020/12/16/amrfinder-update-3-9-8/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "LLVM",
+    "software_page": "https://llvm.org/",
+    "documentation": "https://llvm.org/docs/",
+    "tutorials": [
+        "https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html",
+        "https://www.joshbarczak.com/blog/?p=580"
+    ],
+    "additional_resources": [
+        "https://llvm.org/docs/LangRef.html",
+        "https://llvm.org/docs/GettingStarted.html",
+        "https://llvm.org/docs/Passes.html"
+    ]
+}

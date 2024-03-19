@@ -1,0 +1,36 @@
+Use Case: CESM (Community Earth System Model) is a modular climate model primarily used in climate change and biogeochemistry research. 
+
+Code details and examples: 
+
+CESM uses namelist files as its primary input format. These files set variables that control the operation of the model. For example, a simple namelist file for controlling the length of the model run and the output might look like this:
+
+```
+&seq_timemgr_inparm
+ calendar = 'noleap'
+ start_ymd = 18500101
+ end_ymd = 18551231
+/
+&cam_inparm
+ empty_htapes = .true.
+ nhtfrq = -24
+ nhtfrq_rh0 = 0
+ fname_htape1 = 'h1'
+/
+
+&clm_inparm
+ hist_mfilt(1) = 12
+ hist_mfilt(2) = -1
+ hist_nhtfrq(1) = -8760
+ hist_nhtfrq(2) = 0
+/
+```
+
+Each section marked by "&name" and "/" sets variables for a specific model component. Here, seq_timemgr_inparm controls the main model timing, cam_inparm controls the atmosphere model output, and clm_inparm controls the land model output.
+
+To run the model, use the `./cesm` command in the main CESM directory:
+
+```
+./cesm my_case_name
+```
+
+This will create a new case with the given name, initialize all inputs with default settings, and then start the simulation. The model will automatically output to various netCDF files for each model component and timestep.

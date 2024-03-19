@@ -1,0 +1,15 @@
+```
+{
+  "Relion": {
+    "softwarePage": "https://www3.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page",
+    "documentation": "https://www3.mrc-lmb.cam.ac.uk/relion/index.php/Conventions_%26_Reference",
+    "trainingAndTutorial": [
+      {
+        "relionTutorial": "https://www3.mrc-lmb.cam.ac.uk/relion/index.php/RELION:_Home_Page#Quick_links_to_the_manual",
+        "emblRelionCourse": "https://www.embl.de/services/core_facilities/announcements/20200416-RelionCourse/index.html",
+        "biochemWebinar": "https://biochem.web.ox.ac.uk/relion-webinar"
+      }
+    ]
+  }
+}
+```

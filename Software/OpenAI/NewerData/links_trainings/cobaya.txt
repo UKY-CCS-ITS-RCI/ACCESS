@@ -1,0 +1,16 @@
+{
+  "softwareName": "Cobaya",
+  "softwareURL": "https://cobaya.readthedocs.io/",
+  "documentationURL": "https://cobaya.readthedocs.io/en/latest/",
+  "tutorialURLs": [
+    {
+      "link": "https://cobaya.readthedocs.io/en/latest/cosmo_running.html",
+      "name": "Cosmology: getting started tutorial"
+    },
+    {
+      "link": "https://cobaya.readthedocs.io/en/latest/example_basic_cosmo.html",
+      "name": "Basic Cosmology Tutorial"
+    }
+  ],
+  "installationURL": "https://cobaya.readthedocs.io/en/latest/installation_cosmo.html"
+}

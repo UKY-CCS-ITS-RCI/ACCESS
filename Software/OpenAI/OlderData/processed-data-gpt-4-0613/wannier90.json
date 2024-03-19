@@ -1,0 +1,29 @@
+{
+  "wannier90": {
+    "Software Page": "http://www.wannier.org/",
+    "Documentation": [
+      {
+        "Name": "User Guide",
+        "URL": "http://www.wannier.org/doc/user_guide.pdf"
+      }
+    ],
+    "Tutorial Materials": [
+      {
+        "Name": "wannier90: A Tool for Obtaining Maximally-Localised Wannier Functions",
+        "URL": "https://arxiv.org/abs/0708.0650"
+      },
+      {
+        "Name": "Practical user guide on how to use wannier90 step by step",
+        "URL": "https://www.youtube.com/watch?v=2H-n2Z2sZd8"
+      },
+      {
+        "Name": "Tutorial on Abinit & Wannier90",
+        "URL": "http://www.abinit.org/downloads/abi-events/courses/wannier/wannier90-handson.html"
+      },
+      {
+        "Name": "Tutorial from Quantum Espresso",
+        "URL": "https://www.quantum-espresso.org/Doc/pw2wannier90.x.pdf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Structure",
+  "software_url": "https://web.stanford.edu/group/pritchardlab/structure.html",
+  "documentation_url": [
+    "https://web.stanford.edu/group/pritchardlab/structure_software/download/Instruction_manual.pdf"
+  ],
+  "training_materials": [
+    {
+      "type": "tutorial",
+      "url": "https://web.stanford.edu/group/rosenberglab/oldlabpages/software/structure/instruction_manual.html"
+    }
+  ]
+}

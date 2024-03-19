@@ -1,0 +1,12 @@
+{
+  "Software": "r-rcpparmadillo",
+  "Homepage": "https://cran.r-project.org/package=RcppArmadillo",
+  "Links": {
+    "Documentation": "https://cran.r-project.org/web/packages/RcppArmadillo/RcppArmadillo.pdf",
+    "Tutorials": [
+      "https://teuder.github.io/rcpp4everyone_en/220_armadillo.html",
+      "https://www.r-bloggers.com/2019/08/rcpparmadillo-efficient-c-matrix-using-r/",
+      "https://rpubs.com/Wush978/RcppOct2012"
+    ]
+  }
+}

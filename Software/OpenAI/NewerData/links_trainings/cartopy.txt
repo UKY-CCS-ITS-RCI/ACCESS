@@ -1,0 +1,19 @@
+{
+  "Software Name": "Cartopy",
+  "Software URL": "https://scitools.org.uk/cartopy/",
+  "Documentation URL": "https://scitools.org.uk/cartopy/docs/latest/",
+  "Tutorials and Training Materials": [
+    {
+      "Tutorial Name": "Introduction to cartopy",
+      "Tutorial URL": "https://scitools.org.uk/cartopy/docs/latest/tutorials/index.html"
+    },
+    {
+      "Tutorial Name": "Cartopy Tutorial on GitHub",
+      "Tutorial URL": "https://github.com/SciTools/cartopy-tutorial"
+    },
+    {
+      "Tutorial Name": "Getting started with Cartopy",
+      "Tutorial URL": "https://www.earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-spatial-data/customize-vector-plots-python/"
+    }
+  ]
+}

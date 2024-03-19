@@ -1,0 +1,12 @@
+{
+  "Software": "vscode",
+  "Links": {
+    "Software Page": "https://code.visualstudio.com/",
+    "Documentation": "https://code.visualstudio.com/docs",
+    "Tutorials": [
+      "https://code.visualstudio.com/docs/introvideos/basics",
+      "https://code.visualstudio.com/docs/python/python-tutorial",
+      "https://code.visualstudio.com/docs/editor/versioncontrol"
+    ]
+  }
+}

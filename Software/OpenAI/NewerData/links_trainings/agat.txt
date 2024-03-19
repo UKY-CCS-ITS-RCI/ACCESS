@@ -1,0 +1,9 @@
+{
+  "software": "agat",
+  "links": {
+    "software_page": "https://github.com/NBISweden/AGAT",
+    "documentation": "https://metacpan.org/pod/Bio::AGAT::Omniscient",
+    "training_material": "https://training.galaxyproject.org/training-material/",
+    "tutorial_materials": "https://bioinformaticsworkbook.org/AnnovarWrapper/intro.html#gsc.tab=0"
+  }
+}

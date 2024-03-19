@@ -1,0 +1,28 @@
+{
+    "Software": "Intel MPI",
+    "Link": "https://software.intel.com/content/www/us/en/develop/tools/mpi-library.html",
+    "Documentation": 
+    [
+        {
+            "Interal Documentation": "https://software.intel.com/content/www/us/en/develop/tools/mpi-library/documentation.html"
+        }
+    ],
+    "Training": 
+    [
+        {
+            "Intel Training Courses": "https://software.intel.com/content/www/us/en/develop/tools/mpi-library/training.html"
+        }, 
+        {
+            "Webinar on Intel MPI": "https://www.youtube.com/watch?v=N5p6tKDjvfs"
+        }
+    ],
+    "Tutorials": 
+    [
+        {
+            "Intel MPI Tutorials": "https://software.intel.com/content/www/us/en/develop/tools/mpi-library/tutorials.html"
+        },
+        {
+            "Hands-On MPI Programming with the MPI Library": "https://software.intel.com/content/www/us/en/develop/documentation/mpi-developer-guide-linux/top.html"
+        }
+    ]
+}

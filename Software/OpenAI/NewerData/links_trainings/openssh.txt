@@ -1,0 +1,23 @@
+{
+  "Software": "OpenSSH",
+  "Link": "https://www.openssh.com/",
+  "Documentation": "https://man.openbsd.org/OpenSSH.1",
+  "Training_Materials": [
+    {
+      "Tutorial": "OpenSSH Tutorial",
+      "Link": "https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process"
+    },
+    {
+      "Tutorial": "OpenSSH Training",
+      "Link": "https://www.udemy.com/topic/ssh/"
+    },
+    {
+      "Tutorial": "OpenSSH Guide",
+      "Link": "https://www.ssh.com/ssh/openssh/"
+    },
+    {
+      "Tutorial": "OpenSSH Course",
+      "Link": "https://linuxize.com/post/how-to-setup-passwordless-ssh-login/"
+    }
+  ]
+}

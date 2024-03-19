@@ -1,0 +1,14 @@
+{
+  "Software Name": "seqkit",
+  "Software Page": "https://bioinf.shenwei.me/seqkit/",
+  "Additional URLs": {
+    "Documentation": "https://bioinf.shenwei.me/seqkit/manual/",
+    "Tutorials": [
+      "https://bioinf.shenwei.me/seqkit/tutorial/",
+      "https://github.com/shenwei356/seqkit"
+    ],
+    "Training Materials": [
+      "https://bioinf.shenwei.me/seqkit/tutorial/"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Software_Info": {
+    "Name": "gcc-native-mixed",
+    "Software_URL": "https://gcc.gnu.org/",
+    "Documentation_URL": "https://gcc.gnu.org/onlinedocs/",
+    "Tutorials_and_Training": {
+      "URL_1": "https://www.learn-cocoa.org/en/",
+      "URL_2": "https://www.learn-chinese-mandarin-language.com/c-cpp/iocc.html",
+      "URL_3": "https://www.learn-c.org/",
+      "URL_4": "https://www.learn-cpp.org/"
+    }
+  }
+}

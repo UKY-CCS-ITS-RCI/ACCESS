@@ -1,0 +1,17 @@
+{
+  "softwareName": "r-genomeinfodb",
+  "softwareURL": "https://bioconductor.org/packages/release/data/annotation/html/GenomeInfoDb.html",
+  "documentation": [
+    {
+      "docURL": "https://bioconductor.org/packages/release/bioc/manuals/GenomeInfoDb/man/GenomeInfoDb.pdf"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorialURL": "https://www.bioconductor.org/help/workflows/annotation/GenomeInfoDb/"
+    },
+    {
+      "tutorialURL": "https://www.bioconductor.org/help/course-materials/2017/OMRF/B2_R_S4_Classes.pdf"
+    }
+  ]
+}

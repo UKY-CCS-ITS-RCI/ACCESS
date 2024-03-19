@@ -1,0 +1,11 @@
+{
+  "Software Name": "gfaffix",
+  "Software URL": "https://github.com/brentp/gffutils",
+  "Documentation URL": "http://daler.github.io/gffutils/",
+  "Tutorials and Training Material URLs": [
+    "https://pythonhosted.org/gffutils/tutorial.html",
+    "https://pythonhosted.org/gffutils/examples.html",
+    "https://pythonhosted.org/gffutils/api.html",
+    "https://oleb.net/blog/2012/11/gffutils/"
+  ]
+}

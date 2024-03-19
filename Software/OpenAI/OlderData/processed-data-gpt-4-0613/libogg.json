@@ -1,0 +1,9 @@
+{
+    "software": "libogg",
+    "resources": {
+        "softwareHomepage": "https://xiph.org/ogg/",
+        "documentation": "http://www.xiph.org/ogg/doc/libogg/intro.html",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

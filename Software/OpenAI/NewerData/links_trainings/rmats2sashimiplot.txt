@@ -1,0 +1,26 @@
+{
+  "name": "rmats2sashimiplot",
+  "software_url": "https://github.com/Xinglab/rmats2sashimiplot",
+  "documentation": [
+    {
+      "name": "README",
+      "url": "https://github.com/Xinglab/rmats2sashimiplot/blob/master/README.md"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "rMATS-DVR",
+      "url": "https://github.com/Xinglab/rMATS-DVR"
+    },
+    {
+      "name": "rMATS-turbo",
+      "url": "https://github.com/Xinglab/rmats-turbo"
+    }
+  ],
+  "training_materials": [
+    {
+      "name": "RnaSeqSample",
+      "url": "https://github.com/Xinglab/RnaSeqSample"
+    }
+  ]
+}

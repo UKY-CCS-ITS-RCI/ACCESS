@@ -1,0 +1,15 @@
+{
+"r-matrixstats": {
+  "software_page": "https://www.rdocumentation.org/packages/matrixStats/versions/0.59.0",
+  "additional_links": {
+    "documentation": "https://cran.r-project.org/web/packages/matrixStats/matrixStats.pdf",
+    "tutorials": [
+      "https://r-pkg.org/pkg/matrixStats",
+      "https://www.bioconductor.org/packages/release/bioc/vignettes/matrixStats/inst/doc/Introduction_to_matrixStats.html"
+    ],
+    "training_materials": [
+      "https://bioconductor.org/packages/release/bioc/vignettes/matrixStats/inst/doc/matrixStats.pdf"
+    ]
+  }
+}
+}

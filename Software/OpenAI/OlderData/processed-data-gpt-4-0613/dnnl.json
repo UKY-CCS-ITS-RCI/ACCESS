@@ -1,0 +1,20 @@
+{
+  "dnnl": {
+    "software_page": "https://01.org/dnnl",
+    "documentation_link": "https://oneapi-src.github.io/oneDNN/",
+    "tutorial_materials": [
+      {
+        "name": "oneDNN Developer Guide",
+        "url": "https://docs.oneapi.io/versions/latest/dnnl/index.html"
+      },
+      {
+        "name": "oneDNN Samples",
+        "url": "https://github.com/oneapi-src/oneDNN/tree/master/examples"
+      },
+      {
+        "name": "oneDNN Programming Guide",
+        "url": "https://oneapi-src.github.io/oneDNN/dev_guide_intro.html"
+      }
+    ]
+  }
+}

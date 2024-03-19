@@ -1,0 +1,10 @@
+{
+  "Software": "lxml",
+  "Link": "https://lxml.de/",
+  "Documentation": "https://lxml.de/lxmlhtml.html",
+  "Tutorials": { 
+    "lxml Tutorial 1": "https://scrapy.org/workshop/lxml.html",
+    "lxml Tutorial 2": "https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Making_Games_with_Python_and_Pygame_(Sweigart)/12%3A_Software/12.04%3A_The_lxml.etree_Module",
+    "lxml Tutorial 3": "https://code.tutsplus.com/tutorials/parsing-rss-and-atom-feeds-with-python--cms-28056"
+  }
+}

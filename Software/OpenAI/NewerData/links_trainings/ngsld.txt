@@ -1,0 +1,11 @@
+{
+  "Software": "ngsLD",
+  "Links": {
+    "Software Page": "https://github.com/fgvieira/ngsLD",
+    "Documentation": "https://github.com/fgvieira/ngsLD#manual",
+    "Training Materials": {
+      "Tutorial 1": "https://fgvieira.github.io/ngsLD/tutorial.html",
+      "Tutorial 2": "https://pezmaster31.github.io/ngsLD/#tutorial"
+    }
+  }
+}

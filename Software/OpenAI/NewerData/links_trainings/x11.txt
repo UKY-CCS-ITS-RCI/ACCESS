@@ -1,0 +1,36 @@
+{
+  "software_name": "x11",
+  "software_homepage": "https://www.x.org/wiki/",
+  "documentation": [
+    {
+      "link": "https://www.x.org/wiki/Documentation/",
+      "type": "Official Documentation"
+    },
+    {
+      "link": "https://www.x.org/wiki/guide/",
+      "type": "User Guide"
+    },
+    {
+      "link": "https://www.x.org/releases/current/doc/xorg-docs/InputGuide/InputGuide.html",
+      "type": "Input Guide"
+    },
+    {
+      "link": "https://www.x.org/releases/current/doc/xorg-docs/VideoModeTiming/VideoModeTiming.html",
+      "type": "Video Mode Timing Guide"
+    }
+  ],
+  "tutorials_and_training": [
+    {
+      "link": "https://www.ibm.com/docs/en/aix/7.2?topic=c-configuring-x11",
+      "type": "IBM Tutorial for X11 Configuration"
+    },
+    {
+      "link": "https://www.tldp.org/HOWTO/XWindow-User-HOWTO/",
+      "type": "The Linux Documentation Project - XWindow User"
+    },
+    {
+      "link": "https://linuxconfig.org/introduction-to-x-windows-system-x11",
+      "type": "Introduction to X Windows System X11"
+    }
+  ]
+}

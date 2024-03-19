@@ -1,0 +1,12 @@
+Use Case: Scientific computing, numerical analysis, data visualization.
+
+Code details and examples:
+```matlab
+% Example MATLAB code to calculate the sum of two numbers
+a = 5;
+b = 10;
+sum = a + b;
+disp(sum);
+```
+
+To run the MATLAB code, you can use the MATLAB command line or run the script in an Integrated Development Environment (IDE) that supports MATLAB such as MATLAB itself or Octave.

@@ -1,0 +1,16 @@
+{
+  "crisprcasfinder": {
+    "softwarePage": "https://crisprcas.i2bc.paris-saclay.fr/CrisprCasFinder/Index",
+    "documentation": "https://crisprcas.i2bc.paris-saclay.fr/doc/CrisprCasFinder%20Program/OutputFiles/index.html",
+    "trainingMaterials": [
+      {
+        "title": "Example of CrisprCasFinder tutorial",
+        "link": "https://crisprcas.i2bc.paris-saclay.fr/tutorial"
+      },
+      {
+        "title": "User Manual CrisprCasFinder",
+        "link": "https://crisprcas.i2bc.paris-saclay.fr/doc/CrisprCasFinder%20Program/index.html"
+      }
+    ]
+  }
+}

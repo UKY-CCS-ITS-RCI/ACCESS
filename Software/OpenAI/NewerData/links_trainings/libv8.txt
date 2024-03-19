@@ -1,0 +1,12 @@
+{
+  "Software_name": "libv8",
+  "Software_page_link": "https://rubygems.org/gems/libv8/versions/3.16.14.19",
+  "Additional_urls": {
+    "Documentation": "https://www.rubydoc.info/gems/libv8/3.16.14.13/V8",
+    "Training_Material": "https://github.com/cowboyd/libv8",
+    "Tutorial_Materials": {
+      "libv8 Tutorial 1": "https://everydayrails.com/2012/04/07/v8-javascript-ruby-rails.html",
+      "libv8 Tutorial 2":"https://stackoverflow.com/questions/6282307/what-is-a-good-tutorial-for-using-the-v8-javascript-engine-within-a-c-applicati"
+    }
+  }
+}

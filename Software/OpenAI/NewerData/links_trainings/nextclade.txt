@@ -1,0 +1,24 @@
+{
+  "software": "Nextclade",
+  "software_url": "https://clades.nextstrain.org/",
+  "documentation": [
+    {
+      "doc_name": "Nextclade Docs",
+      "doc_url": "https://docs.nextstrain.org/projects/nextclade/en/latest/user/reference/cli.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorial_name": "Nextclade Tutorial",
+      "tutorial_url": "https://www.youtube.com/watch?v=rQ_wyZFuR14"
+    },
+    {
+      "tutorial_name": "Nextclade Usage",
+      "tutorial_url": "https://docs.nextstrain.org/projects/nextclade/en/latest/user/usage.html"
+    },
+    {
+        "tutorial_name": "Nextclade GitHub Page",
+        "tutorial_url": "https://github.com/nextstrain/nextclade"
+    }
+  ]
+}

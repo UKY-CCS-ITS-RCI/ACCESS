@@ -1,0 +1,15 @@
+{
+  "software_name": "Expecttest",
+  "software_page": "https://github.com/secondwtq/expecttest",
+  "additional_links": {
+    "documentation": "https://docs.rs/expecttest",
+    "tutorial_materials": [
+      {
+        "functional_testing_basics_with_expect_test": "https://www.turing.ac.uk/blog/functional-testing-basics-expect-test"
+      },
+      {
+        "expecttest_crate_review": "https://www.reddit.com/r/rust/comments/jb0ui5/crate_review_expecttest/"
+      }
+    ]
+  }
+}

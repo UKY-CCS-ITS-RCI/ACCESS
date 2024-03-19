@@ -1,0 +1,20 @@
+{
+  "software": "r-hmisc",
+  "software_url": "https://cran.r-project.org/package=Hmisc",
+  "documentation": [
+    {
+      "url": "https://hbiostat.org/R/Hmisc/Examples.html"
+    },
+    {
+      "url": "https://www.rdocumentation.org/packages/Hmisc/versions/3.10-1"
+    }
+  ],
+  "tutorials": [
+    {
+      "url": "https://www.tutorialspoint.com/r_programming/r_hmisc_package.htm"
+    },
+    {
+      "url": "https://stats.stackexchange.com/questions/24629/where-can-i-find-examples-or-tutorials-about-hmisc-in-r"
+    }
+  ]
+}

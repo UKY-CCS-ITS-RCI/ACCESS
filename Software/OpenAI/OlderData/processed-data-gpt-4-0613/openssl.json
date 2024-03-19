@@ -1,0 +1,10 @@
+{
+  "Name": "OpenSSL",
+  "SoftwareURL": "https://www.openssl.org/",
+  "DocumentationURL": "https://www.openssl.org/docs/",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://www.tutorialspoint.com/openssl/index.htm",
+    "Tutorial_2_URL": "https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs",
+    "Tutorial_3_URL": "https://www.youtube.com/watch?v=BRfZM2iIMi4"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "cdbtools": {
+    "Software_page": "https://github.com/bergmanlab/cdbtools",
+    "Documentation": {},
+    "Tutorial_and_Training_materials": {}
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "software": "FastQC",
+  "information": {
+    "main_link": "https://www.bioinformatics.babraham.ac.uk/projects/fastqc/",
+    "documentation": [
+      {
+        "link": "https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/"
+      }
+    ],
+    "tutorials": [
+      {
+        "link": "https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/03_quality_control.html"
+      },
+      {
+        "link": "https://genomicsclass.github.io/book/pages/quality_control_assessment_with_fastqc.html"
+      },
+      {
+        "link": "https://informatics.fas.harvard.edu/bulk-rna-seq-1-quality-control-with-fastqc-and-multiqc.html"
+      }
+    ]
+  }
+}

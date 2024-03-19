@@ -1,0 +1,12 @@
+{
+  "Software Name": "PyCUDA",
+  "links": {
+    "software page": "https://documen.tician.de/pycuda/",
+    "documentation": "https://documen.tician.de/pycuda/tutorial.html",
+    "tutorials": [
+      "https://www.eecg.utoronto.ca/~moshovos/ACA08/readings/pycuda-tutorial-2009-11-25.pdf",
+      "https://wiki.tiker.net/PyCuda",
+      "https://nyu-cds.github.io/python-itertools/2017/12/01/PythonGPU/"
+    ]
+  }
+}

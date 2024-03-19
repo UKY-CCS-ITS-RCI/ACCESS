@@ -1,0 +1,13 @@
+{
+  "cmd": {
+    "software_page": "https://ss64.com/nt/cmd.html",
+    "documentation_links": [
+      "https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cmd",
+      "https://en.wikipedia.org/wiki/Cmd.exe"
+    ],
+    "tutorial_links": [
+      "https://www.codecademy.com/articles/command-line-commands",
+      "https://www.computerhope.com/msdos.htm"
+    ]
+  }
+}

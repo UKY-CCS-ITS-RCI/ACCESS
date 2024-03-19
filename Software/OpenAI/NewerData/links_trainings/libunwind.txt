@@ -1,0 +1,19 @@
+{
+  "software": "libunwind",
+  "link": "https://www.nongnu.org/libunwind/",
+  "documentation": "https://www.nongnu.org/libunwind/docs.html",
+  "tutorials": [
+    {
+      "url": "https://www.ibm.com/docs/en/zos/2.3.0?topic=calls-unwind-library-unwinding",
+      "title": "Unwind Library: Unwinding in C (IBM)"
+    },
+    {
+      "url": "https://www.bountysource.com/teams/libunwind",
+      "title": "BountySource: libunwind"
+    },
+    {
+      "url": "http://manpages.ubuntu.com/manpages/focal/man3/libunwind.3.html",
+      "title": "Ubuntu Manpage: Libunwind"
+    }
+  ]
+}

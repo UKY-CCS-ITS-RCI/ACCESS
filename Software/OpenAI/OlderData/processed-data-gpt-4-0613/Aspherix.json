@@ -1,0 +1,19 @@
+{
+  "Software": "Aspherix",
+  "Website": "https://dcs-computing.com/aspherix-and-likvid/",
+  "Documentation": "https://dcs-computing.com/aspherix-and-likvid-docs/",
+  "Tutorials and Training material": [
+    {
+      "Title": "Aspherix & LiKViD Documentation",
+      "Link": "https://dcs-computing.com/aspherix-and-likvid-docs/"
+    },
+    {
+      "Title": "Aspherix Tutorial",
+      "Link": "https://www.youtube.com/watch?v=nAlaLZYgUZM"
+    },
+    {
+      "Title": "Getting Started with Aspherix",
+      "Link": "https://dcs-computing.com/aspherix-and-likvid-start/"
+    }
+  ]
+}

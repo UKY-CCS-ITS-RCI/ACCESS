@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GLM": {
+      "MainPage": "https://glm.g-truc.net/0.9.9/index.html",
+      "Documentation": "https://glm.g-truc.net/0.9.9/api/index.html",
+      "Tutorials": [
+        "https://learnopengl.com/Getting-started/Transformations",
+        "https://en.wikibooks.org/wiki/OpenGL_Programming/GLStart/Tut3",
+        "https://www.songho.ca/opengl/gl_transform.html"
+      ]
+    }
+  }
+}

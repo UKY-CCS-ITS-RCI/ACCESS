@@ -1,0 +1,14 @@
+{
+  "softwareName": "Maker",
+  "softwareURL": "http://www.yandell-lab.org/software/maker.html",
+  "documentation": [
+    { "title": "Maker Wiki", "url": "http://weatherby.genetics.utah.edu/MAKER/wiki/index.php/MAKER_Tutorial_for_GMOD_Online_Training_2014"},
+    { "title": "Maker Manual", "url": "http://www.yandell-lab.org/publications/pdf/maker.current.pdf" },
+    { "title": "Maker GitHub Page", "url": "https://github.com/MakerBot/MakerBot" }
+  ],
+  "tutorials": [
+    { "title": "A Beginner’s Guide to MAKER-P", "url": "https://www.g3journal.org/content/ggg/10/12/4479.full.pdf" },
+    { "title": "Maker Tutorial for Beginner", "url": "https://training.galaxyproject.org/training-material/topics/annotation/tutorials/maker/tutorial.html"},
+    { "title": "Maker YouTube Tutorial", "url": "https://www.youtube.com/watch?v=V7FnElipGgA" }
+  ]
+}

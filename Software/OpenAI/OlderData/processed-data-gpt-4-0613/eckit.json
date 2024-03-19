@@ -1,0 +1,15 @@
+{
+  "Software": "eckit",
+  "Details": [
+    {
+      "HomePage": "https://confluence.ecmwf.int/display/ECKIT",
+      "Documentation": [
+        "https://confluence.ecmwf.int/display/ECKIT/Documentation"
+      ],
+      "Tutorials": [
+        "https://confluence.ecmwf.int/display/ECKIT/Tutorials",
+        "https://training.ecmwf.int/"
+      ]
+    }
+  ]
+}

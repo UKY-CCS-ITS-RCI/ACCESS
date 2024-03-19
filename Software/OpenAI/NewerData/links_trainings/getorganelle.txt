@@ -1,0 +1,13 @@
+{
+  "name": "GetOrganelle",
+  "software_page": "https://github.com/Kinggerm/GetOrganelle",
+  "documentation": "https://github.com/Kinggerm/GetOrganelle/wiki",
+  "tutorials_and_training": {
+    "tutorial_1": "https://github.com/Kinggerm/GetOrganelle/wiki/GetOrganelle-Tutorial-EN",
+    "tutorial_2": "https://omics-field-guide.readthedocs.io/en/latest/4-organelle-genome/getorganelle.html",
+    "user_guide": "https://github.com/Kinggerm/GetOrganelle/wiki/User-Guide",
+    "installation_guide": "https://github.com/Kinggerm/GetOrganelle/wiki/Installation",
+    "troubleshooting_guide": "https://github.com/Kinggerm/GetOrganelle/wiki/Troubleshooting",
+    "video_tutorials": "https://youtube.com/playlist?list=PLGHe6nIIH369dsF6oK4oVQGjImPerez_b"
+  }  
+}

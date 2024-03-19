@@ -1,0 +1,12 @@
+{
+    "Software Name": "MEGAN",
+    "Software Page": "http://ab.inf.uni-tuebingen.de/software/megan6/",
+    "Additional Links": {
+        "Documentation": "https://software-ab.informatik.uni-tuebingen.de/download/megan6/help.pdf",
+        "Training Materials": "https://software-ab.informatik.uni-tuebingen.de/download/megan6/welcome.html",
+        "Tutorial Materials": {
+            "Tutorial 1": "https://software-ab.informatik.uni-tuebingen.de/download/megan6/manual.pdf",
+            "Tutorial 2": "https://www.metagenomics.wiki/pdf/definitive-guide-to-megan6"
+        }
+    }
+}

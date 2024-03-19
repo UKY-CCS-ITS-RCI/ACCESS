@@ -1,0 +1,12 @@
+{
+  "Software Name": "OTF2",
+  "Link": "https://perftools.pages.jsc.fz-juelich.de/otf2-2.3/",
+  "Documents": {
+    "Manual": "https://perftools.pages.jsc.fz-juelich.de/otf2-2.3/doxygen/",
+    "User guide": "https://perftools.pages.jsc.fz-juelich.de/otf2-2.3/tools.html"
+  },
+  "Training Materials": {
+    "OTF2 Tutorial": "https://www.vi-hps.org/projects/score-p/#documentation",
+    "Example Trace Files": "https://apps.fz-juelich.de/jsc/hpctools/otf2.html"
+  }
+}

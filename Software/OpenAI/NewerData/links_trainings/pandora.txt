@@ -1,0 +1,30 @@
+{
+   "software":{
+      "name":"Pandora",
+      "software_url":"https://github.com/mbhall88/pandora",
+      "documentation_url":"https://github.com/mbhall88/pandora#readme",
+      "training_materials":[
+         {
+            "url":"https://github.com/mbhall88/pandora#usage"
+         },
+         {
+            "url":"https://github.com/mbhall88/pandora#example"
+         },
+         {
+            "url":"https://github.com/mbhall88/pandora#download"
+         },
+         {
+            "url":"https://github.com/mbhall88/pandora#build-from-source",
+            "title":"Building from source"
+         },
+         {
+            "url":"https://github.com/mbhall88/pandora#running-tests",
+            "title":"Running tests"
+         },
+         {
+            "url":"https://github.com/mbhall88/pandora#citation",
+            "title":"Citation"
+         }
+      ]
+   }
+}

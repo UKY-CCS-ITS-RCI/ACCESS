@@ -1,0 +1,10 @@
+{
+  "Software": "Graphviz-Python",
+  "Website": "https://pypi.org/project/graphviz/",
+  "Documentation": "https://graphviz.readthedocs.io/en/stable/manual.html",
+  "Tutorials_Training_Materials": {
+    "Tutorial_1": "https://www.tutorialspoint.com/graphviz/graphviz_python_api.htm",
+    "Tutorial_2": "https://graphviz.readthedocs.io/en/stable/examples.html",
+    "Tutorial_3": "https://www.youtube.com/watch?v=UBN5Ae2VhL0"
+  }
+}

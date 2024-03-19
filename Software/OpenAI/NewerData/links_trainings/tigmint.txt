@@ -1,0 +1,16 @@
+
+{
+  "software": [
+    {
+      "name": "Tigmint",
+      "software_url": "https://github.com/bcgsc/tigmint",
+      "documentation": {
+        "doc_url": "https://github.com/bcgsc/tigmint"
+      },
+      "training_materials": {
+        "tutorial_url_1": "https://bcgsc.github.io/tigmint/tutorial.html",
+        "video_tutorial_url": ""
+      }
+    }
+  ]
+}

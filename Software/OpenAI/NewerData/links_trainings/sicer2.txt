@@ -1,0 +1,20 @@
+{
+  "name": "sicer2",
+  "software_page": "https://github.com/zhanglabGWU/SICER2",
+  "documentation": [
+    {
+      "name": "GitHub documentation",
+      "link": "https://github.com/zhanglabGWU/SICER2"
+    }
+  ],
+  "training_materials": [
+    {
+      "name": "Original SICER tutorial",
+      "link": "https://home.gwu.edu/~wpeng/SICER.htm"
+    },
+    {
+      "name": "Broad Institue's Sicer Tutorial",
+      "link": "https://github.com/broadinstitute/anshul-lab/blob/master/ipynb/peak-calling/sicer/sicer_on_aws.ipynb"
+    }
+  ]
+}

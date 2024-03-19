@@ -1,0 +1,23 @@
+{
+  "name": "py-openpyxl",
+  "software_url": "https://openpyxl.readthedocs.io/",
+  "documentation_url": "https://openpyxl.readthedocs.io/en/stable/",
+  "training_urls": [
+    {
+      "name": "Tutorial from the official documentarion",
+      "url": "https://openpyxl.readthedocs.io/en/stable/tutorial.html"
+    },
+    {
+      "name": "Python Code Club tutorial",
+      "url": "https://pythonhowtoprogram.com/pyopenpyxl/"
+    },
+    {
+      "name": "Example by Microsoft office",
+      "url": "https://docs.microsoft.com/en-us/office/troubleshoot/excel/reading-and-writing-files"
+    },
+    {
+      "name": "YouTube Tutorial",
+      "url": "https://www.youtube.com/watch?v=pr5drHo2az0"
+    }
+  ]
+}

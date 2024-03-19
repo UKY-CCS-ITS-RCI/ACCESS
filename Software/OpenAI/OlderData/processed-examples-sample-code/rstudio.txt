@@ -1,0 +1,20 @@
+Use Case: IDE for R programming
+
+Code details and examples:
+
+RStudio is an integrated development environment (IDE) for R programming. Users can write R scripts, visualize data, and generate reports within RStudio. 
+
+To run a simple R script in RStudio, you can create a new R script file and write the following R code:
+
+```R
+# This is a sample R script
+x <- 1:10
+y <- x^2
+plot(x, y, main = "Simple Plot", xlab = "x", ylab = "x^2", pch = 16)
+```
+
+To run the script in RStudio, you can either click the "Run" button in the script editor or use the keyboard shortcut Ctrl+Enter (Cmd+Enter on Mac). This will execute the script and display the plot in the Plots pane.
+
+You can also directly execute R commands in the Console pane at the bottom of the RStudio interface.
+
+For more complex R programming tasks, RStudio provides a range of tools and features to enhance the workflow of R users.

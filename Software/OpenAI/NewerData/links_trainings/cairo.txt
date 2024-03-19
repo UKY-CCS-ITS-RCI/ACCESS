@@ -1,0 +1,28 @@
+{
+  "softwareName": "cairo",
+  "softwarePage": "https://www.cairographics.org/",
+  "documentation": [
+    {
+      "docsName": "Cairo Documentation",
+      "docsLink": "https://www.cairographics.org/documentation/"
+    },
+    {
+      "docsName": "Cairo API Documentation",
+      "docsLink": "https://www.cairographics.org/manual/cairo-cairo-t.html"
+    }
+  ],
+  "tutorials_and_training": [
+    {
+      "tutorialName": "Cairo Tutorial",
+      "tutorialLink": "https://www.cairographics.org/tutorial/"
+    },
+    {
+      "tutorialName": "Cairo Graphics Tutorial",
+      "tutorialLink": "https://zetcode.com/gfx/cairo/"
+    },
+    {
+      "tutorialName": "C Programming with Cairo",
+      "tutorialLink": "https://www.tutorialspoint.com/cprogramming_with_cairo/index.htm"
+    }
+  ]
+}

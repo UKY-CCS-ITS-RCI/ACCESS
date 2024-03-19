@@ -1,0 +1,14 @@
+{
+    "software": "Kalign",
+    "resources": {
+        "softwareHomepage": "https://msa.sbc.su.se/cgi-bin/msa.cgi",
+        "documentation": "https://www.ebi.ac.uk/Tools/msa/kalign/help/",
+        "tutorials": [
+            {
+                "title": "Using the Kalign sequence alignment program",
+                "url": "https://bioinformaticsreview.com/20160616/using-the-kalign-sequence-alignment-program/"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

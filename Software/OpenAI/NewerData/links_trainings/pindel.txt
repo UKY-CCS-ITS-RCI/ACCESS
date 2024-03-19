@@ -1,0 +1,14 @@
+{
+"Pindel": {
+   "software-link": "https://github.com/genome/pindel",
+   "documentation-link": "https://gmt.genome.wustl.edu/packages/pindel/user-manual.html",
+   "tutorials-and-training-materials": [
+      {
+         "bioinformatics-algorithms-and-data-structures": "https://www.coursera.org/specializations/bioinformatics",
+         "nextgen-talks-introduction": "https://www.youtube.com/watch?v=Vl3H_labgeQ",
+         "pindel-slides": "http://gmt.genome.wustl.edu/packages/pindel/pindel-slides.pdf",
+         "variant-calling-tutorial": "https://www.ebi.ac.uk/training/online/courses/variant-calling-ngs-data/"
+      }
+   ]
+}
+}

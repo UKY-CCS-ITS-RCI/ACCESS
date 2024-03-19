@@ -1,0 +1,8 @@
+{
+  "ascatNgs": {
+    "software_page": "https://github.com/cancerit/ascatNgs",
+    "documentation": "https://ascat.readthedocs.io/en/latest/",
+    "tutorial": "https://training.galaxyproject.org/training-material/topics/virtual-research-environment/tutorials/ascat/tutorial.html",
+    "additional_resources": "http://bioconductor.org/packages/release/bioc/vignettes/ASCAT/inst/doc/ASCAT.pdf"
+  }
+}

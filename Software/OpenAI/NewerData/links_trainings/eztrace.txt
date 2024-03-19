@@ -1,0 +1,13 @@
+{
+  "software": {
+    "name": "Eztrace",
+    "url": "https://eztrace.gforge.inria.fr/",
+    "documentation": "https://eztrace.gforge.inria.fr/files/eztrace-doc.pdf",
+    "tutorials": [
+      {
+        "name": "Introduction and user guide",
+        "url": "https://eztrace.gforge.inria.fr/files/eztrace-doc.pdf"
+      }
+    ]
+  }
+}

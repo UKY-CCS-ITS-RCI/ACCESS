@@ -1,0 +1,16 @@
+{
+    "Software": "R-RStudio",
+    "Web URL": "https://www.rstudio.com/",
+    "Documentation": {
+        "RStudio Documentation": "https://docs.rstudio.com/",
+        "RStudio Cheatsheets": "https://rstudio.com/resources/cheatsheets/",
+        "RStudio Online Learning": "https://rstudio.com/resources/online-learning/"
+    },
+    "Tutorials and Training": {
+        "RStudio Training": "https://education.rstudio.com/",
+        "RStudio Webinars": "https://rstudio.com/resources/webinars/",
+        "R Programming Tutorials": "https://www.datacamp.com/courses/free-introduction-to-r",
+        "R Language in DataCamp": "https://www.datacamp.com/courses/tech:r",
+        "Introduction to R for Data Science": "https://www.springboard.com/resources/data-science/learn-r-for-data-science/"
+    }
+}

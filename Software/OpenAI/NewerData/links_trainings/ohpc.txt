@@ -1,0 +1,12 @@
+{
+  "ohpc": {
+    "software_page": "https://openhpc.community/",
+    "documentation": [
+      "https://openhpc.community/documentation/"
+    ],
+    "training_tutorials": [
+      "https://groups.io/g/OpenHPC-users/wiki/29887",
+      "https://www.youtube.com/watch?v=d4rBhrrnA3Q"
+    ]
+  }
+}

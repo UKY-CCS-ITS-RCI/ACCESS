@@ -1,0 +1,22 @@
+{
+    "Software": "php",
+    "Website": "https://www.php.net",
+    "Documentation": 
+        {
+            "Official Documentation": "https://www.php.net/manual/en/",
+            "W3Schools PHP Tutorial": "https://www.w3schools.com/php/",
+            "PHP Tutorial - TutorialsPoint": "https://www.tutorialspoint.com/php/index.htm"
+        },
+    "Training": 
+        {
+            "Codecademy PHP Course": "https://www.codecademy.com/learn/learn-php",
+            "Udemy PHP for Beginners Course": "https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/",
+            "Coursera PHP Courses": "https://www.coursera.org/courses?query=php"
+        },
+    "Tutorial":
+        {
+            "Learn PHP - Full Tutorial for Beginners - freeCodeCamp-org": "https://www.youtube.com/watch?v=OK_JCtrrv-c",
+            "PHP Tutorial For Beginners Step By Step - PHPTPOINT": "https://www.phptpoint.com/php-tutorial/",
+            "PHP Tutorials - PHP Classes": "https://www.phpclasses.org/blog/package/1/post/1-Advanced-PHP-programming-blog.html"
+        }
+}

@@ -1,0 +1,22 @@
+{
+  "software": {
+    "name": "sanitytool",
+    "softwareURL": "https://github.com/SVF-tools/Sanity",
+    "documentation": [
+      {
+        "docTitle": "GitHub documentation",
+        "docURL": "https://github.com/SVF-tools/Sanity#readme"
+      }
+    ],
+    "trainingAndTutorial": [
+      {
+        "trainingTitle": "SVF tools overview",
+        "trainingURL": "https://svf-tools.github.io/SVF/"
+      },
+      {
+        "trainingTitle": "Static Value-Flow Analysis in Practice",
+        "trainingURL": "https://www.youtube.com/watch?v=QvnIhqvTomo"
+      }
+    ]
+  }
+}

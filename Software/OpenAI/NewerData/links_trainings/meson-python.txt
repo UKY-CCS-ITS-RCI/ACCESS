@@ -1,0 +1,12 @@
+{
+  "software": "meson-python",
+  "links": {
+    "software_page": "https://mesonbuild.com/",
+    "documentation": "https://mesonbuild.com/Manual.html",
+    "tutorials": [
+      "https://mesonbuild.com/Tutorial.html",
+      "https://mesonbuild.com/SimpleStart.html",
+      "https://mesonbuild.com/Quick-guide.html"
+    ]
+  }
+}

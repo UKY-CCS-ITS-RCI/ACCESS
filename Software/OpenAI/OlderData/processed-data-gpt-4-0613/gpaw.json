@@ -1,0 +1,10 @@
+{
+  "softwareName": "GPAW",
+  "links": {
+    "softwarePage": "https://wiki.fysik.dtu.dk/gpaw/",
+    "documentation": "https://wiki.fysik.dtu.dk/gpaw/documentation/index.html",
+    "tutorial1": "https://wiki.fysik.dtu.dk/gpaw/tutorials/dft_intro/dft_intro.html",
+    "tutorial2": "https://wiki.fysik.dtu.dk/gpaw/tutorials/",
+    "tutorial3": "https://wiki.fysik.dtu.dk/gpaw/tutorials/lcao/lcao.html"
+  }
+}

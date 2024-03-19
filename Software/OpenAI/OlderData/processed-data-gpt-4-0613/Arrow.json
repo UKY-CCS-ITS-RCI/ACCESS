@@ -1,0 +1,19 @@
+{
+  "Software": "Arrow",
+  "Website": "https://arrow.apache.org/",
+  "Documentation": "https://arrow.apache.org/docs/",
+  "Tutorials and Training material": [
+    {
+      "Title": "Getting started with Apache Arrow",
+      "Link": "https://arrow.apache.org/docs/python/quickstart.html"
+    },
+    {
+      "Title": "Apache Arrow and the '10 Things I Hate About pandas'",
+      "Link": "https://wesmckinney.com/blog/apache-arrow-pandas-internals/"
+    },
+    {
+      "Title": "Apache Arrow Tutorial",
+      "Link": "https://www.tutorialspoint.com/apache_arrow/index.htm"
+    }
+  ]
+}

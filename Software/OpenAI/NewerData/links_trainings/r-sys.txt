@@ -1,0 +1,24 @@
+{
+  "Software Name": "r-sys",
+  "Software Link": "https://cran.r-project.org/web/packages/sys/index.html",
+  "Documentation": [
+    {
+      "name": "CRAN package documentation",
+      "link": "https://rdrr.io/cran/sys/"
+    },
+    {
+      "name": "R Documentation",
+      "link": "https://www.rdocumentation.org/packages/sys/versions/3.4"
+    }
+  ],
+  "Training and Tutorial Materials": [
+    {
+      "name": "Basic usage of sys package",
+      "link": "https://cran.r-project.org/web/packages/sys/vignettes/sys.html"
+    },
+    {
+      "name": "Rsys package installation tutorial",
+      "link": "https://www.tutorialgateway.org/r-system-function/"
+    }
+  ]
+}

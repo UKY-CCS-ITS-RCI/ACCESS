@@ -1,0 +1,23 @@
+{
+  "Software": {
+    "NextDenovo": {
+      "Software_URL": "https://github.com/Nextomics/NextDenovo",
+      "Documentation": [
+        {
+          "Title": "NextDenovo Documentation",
+          "Link": "https://nextdenovo.readthedocs.io/"
+        }
+      ],
+      "Tutorials": [
+        {
+          "Title": "Step by step to use NextDenovo",
+          "Link": "https://github.com/Nextomics/NextDenovo/blob/master/doc/01.overview.md"
+        },
+        {
+          "Title": "Full example of using NextDenovo",
+          "Link": "https://github.com/Nextomics/NextDenovo/blob/master/doc/02.example.md"
+        }
+      ]
+    }
+  }
+}

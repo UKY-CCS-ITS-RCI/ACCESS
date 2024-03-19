@@ -1,0 +1,15 @@
+{
+  "taichi": {
+    "software_page": "https://github.com/taichi-dev/taichi",
+    "documentation": "https://docs.taichi.graphics/",
+    "tutorial_materials": {
+      "taichi_graphics_docs": "https://docs.taichi.graphics/",
+      "python_installation_guide": "https://docs.taichi.graphics/general/installation/",
+      "hello_world": "https://docs.taichi.graphics/general/hello_world/",
+      "programming_guide": "https://docs.taichi.graphics/lang/articles/basic/syntax/",
+      "basic_examples": "https://github.com/taichi-dev/taichi/tree/master/examples",
+      "gui_examples": "https://github.com/taichi-dev/taichi/tree/master/examples/gui",
+      "course_materials": "https://github.com/taichi-course/cs324_linux_taichi"
+    }
+  }
+}

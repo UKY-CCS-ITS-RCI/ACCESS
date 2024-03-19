@@ -1,0 +1,19 @@
+{
+    "software": "macs3",
+    "software_url": "https://github.com/macs3-project/MACS",
+    "documentation": [
+        {
+            "url": "https://macs3.readthedocs.io/en/latest/"
+        }
+    ],
+    "training": [
+        {
+            "name": "macs3 tutorial",
+            "url": "http://liulab.dfci.harvard.edu/MACS/00README.html"
+        },
+        {
+            "name": "macs3 tutorial on chIP-Seq analysis",
+            "url": "https://hbctraining.github.io/Intro-to-ChIPseq/lessons/06_peak_calling_macs.html"
+        }
+    ]
+}

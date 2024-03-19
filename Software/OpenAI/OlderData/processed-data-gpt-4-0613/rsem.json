@@ -1,0 +1,16 @@
+{
+"rsem": {
+  "software_page": "https://github.com/deweylab/RSEM",
+  "documentation": "https://github.com/deweylab/RSEM#readme",
+  "training_materials": [
+    "https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/05_counting_reads_using_rsem.html",
+    "https://informatics.fas.harvard.edu/rna-seq-analysis-rsem.html",
+    "http://deweylab.biostat.wisc.edu/rsem/rsem-calculate-expression.html#3"
+  ],
+  "tutorial_materials": [
+    "https://omics.bjc.cuhk.edu.hk/RSEM-tutorial.html",
+    "https://github.com/Sage-Bionetworks/rsem_tutorial",
+    "https://wiki.bioinformatics.ucdavis.edu/index.php/RSEM_Tutorial"
+  ]
+}
+}

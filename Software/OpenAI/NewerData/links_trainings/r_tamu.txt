@@ -1,0 +1,12 @@
+{
+  "Software Name": "r_tamu",
+  "Software Page": "",
+  "Documentation": "https://www.rdocumentation.org/",
+  "Tutorials and Training Materilals": [
+    "https://www.datacamp.com/courses/free-introduction-to-r",
+    "https://www.tutorialspoint.com/r/index.htm",
+    "https://swcarpentry.github.io/r-novice-inflammation/",
+    "https://www.r-tutor.com/r-introduction",
+    "https://www.w3schools.com/r/"
+  ]
+}

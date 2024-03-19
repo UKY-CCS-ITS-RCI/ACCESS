@@ -1,0 +1,11 @@
+{
+  "software": "vcf2tsvpy",
+  "website": "https://github.com/adhintz/vcf2tsvpy",
+  "documentation": "https://github.com/adhintz/vcf2tsvpy",
+  "tutorials": [
+    {
+      "name": "Github Repository",
+      "url": "https://github.com/adhintz/vcf2tsvpy"
+    }
+  ]
+}

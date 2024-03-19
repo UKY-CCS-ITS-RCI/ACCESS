@@ -1,0 +1,12 @@
+{
+  "Software": "R-CellChat",
+  "Links": {
+    "Software Page": "https://github.com/sqjin/CellChat",
+    "Documentation": [
+      "https://htmlpreview.github.io/?https://github.com/sqjin/CellChat/blob/master/vignettes/CellChat-vignette.html"
+    ],
+    "Tutorials and Training Materials": [
+      "https://htmlpreview.github.io/?https://github.com/sqjin/CellChat/blob/master/vignettes/CellChat-vignette.html"
+    ]
+  }
+}

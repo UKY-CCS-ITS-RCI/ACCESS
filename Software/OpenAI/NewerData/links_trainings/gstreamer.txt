@@ -1,0 +1,20 @@
+{
+  "software_name": "gstreamer",
+  "software_webpage": "https://gstreamer.freedesktop.org/",
+  "documentation": [
+    {
+      "documentation_name": "Gstreamer Documentation Page",
+      "documentation_URL": "https://gstreamer.freedesktop.org/documentation/"
+    }
+  ],
+  "tutorial_materials": [
+    {
+      "tutorial_name": "GStreamer basic real time streaming tutorial",
+      "tutorial_URL": "https://gstreamer.freedesktop.org/documentation/tutorials/basic/real-time-streaming.html"
+    },
+    {
+      "tutorial_name": "GStreamer Hello world",
+      "tutorial_URL": "https://gstreamer.freedesktop.org/documentation/tutorial/index.html?gi-language=c"
+    }
+  ]
+}

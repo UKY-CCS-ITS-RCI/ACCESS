@@ -1,0 +1,12 @@
+{
+  "SoftwareName": "Ruamel",
+  "SoftwareLink": "https://sourceforge.net/projects/ruamel-yaml/",
+  "SoftwareDocumentationLinks": {
+    "Documentation1": "https://yaml.readthedocs.io/",
+    "Documentation2": "https://pypi.org/project/ruamel.yaml/"
+  },
+  "TrainingAndTutorialLinks": {
+    "Tutorial1": "https://stackoverflow.com/questions/tagged/ruamel.yaml",
+    "Tutorial2": "https://medium.com/@ayushi.nigam/understanding-and-using-yaml-85d565b5e3c4"
+  }
+}

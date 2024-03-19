@@ -1,0 +1,28 @@
+{
+    "software": "gobject-introspection",
+    "software_page": "https://gi.readthedocs.io/en/latest/",
+    "documentation": [
+        {
+            "name": "The GObject introspection library",
+            "web_URL": "https://developer.gnome.org/gi/stable/"
+        },
+        {
+            "name": "Using GObject",
+            "web_URL": "https://docs.gtk.org/gobject/"
+        },
+        {
+            "name": "GObject Introspection tutorial",
+            "web_URL": "https://people.gnome.org/~tromey/gobject-introspection/tutorial.html"
+        }
+    ],
+    "tutorials_and_training": [
+        {
+            "name": "GObject Introspection — A practical overview",
+            "web_URL": "https://blogs.gnome.org/johan/2010/01/04/gobject-introspection-a-practical-overview/"
+        },
+        {
+            "name": "Using bindings - GObject Introspection",
+            "web_URL": "https://wiki.gnome.org/Projects/GObjectIntrospection/Users"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  "byo": {
+    "softwarePage": "https://www.antibodies-online.com/byo-laboratories/",
+    "documentation": [],
+    "tutorials": [],
+    "training": []
+  }
+}

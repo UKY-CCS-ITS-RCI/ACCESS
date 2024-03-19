@@ -1,0 +1,25 @@
+Use Case: Hyperopt library, written in Python, is used for serial and parallel optimization over awkward search spaces, which may include real-valued, discrete, and conditional dimensions.
+
+Code details and examples:
+
+Code:
+```python
+from hyperopt import fmin, tpe, hp
+best = fmin(
+    fn=lambda x: (x-1)**2, # function to minimize
+    space=hp.uniform('x', -2, 2), # parameter space
+    algo=tpe.suggest, # optimization algorithm
+    max_evals=100 # maximum number of evaluations
+)
+print(best)
+```
+
+In this example, we define a function `(x-1)^2` that we want to minimize and a parameter space for the variable `x` between -2 and 2. We use the Tree-structured Parzen Estimator method (TPE) as our optimization algorithm and set a maximum of 100 evaluations.
+
+Command to run: 
+
+To run a python script which includes hyperopt, use the command:
+```bash
+python script.py
+```
+In the command line, where `script.py` is the name of your python file.

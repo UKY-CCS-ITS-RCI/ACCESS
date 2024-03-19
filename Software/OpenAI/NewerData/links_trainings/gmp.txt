@@ -1,0 +1,20 @@
+{
+  "gmp": {
+    "softwarePage": "https://gmplib.org/",
+    "documentation": "https://gmplib.org/manual/index.html",
+    "trainingMaterials": [
+      {
+        "title": "Getting Started with GMP",
+        "url": "https://gmplib.org/manual/Introduction-to-GMP.html"
+      },
+      {
+        "title": "GMP Basics",
+        "url": "https://gmplib.org/manual/Basic-Functions.html"
+      },
+      {
+        "title": "GNU GMP - The GNU Multiple Precision Arithmetic Library",
+        "url": "https://www.youtube.com/watch?v=L9fQv6mhFzo"
+      }
+    ]
+  }
+}

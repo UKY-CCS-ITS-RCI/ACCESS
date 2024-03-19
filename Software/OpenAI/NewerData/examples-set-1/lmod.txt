@@ -1,0 +1,47 @@
+Use Case: Use of Lmod for Environment Modules management. This tool is typically used to manage the environment variables for different software packages installed on HPC systems. Users can load and unload modules (software packages), and get information about installed modules.
+
+Code details and examples:
+
+Code:
+
+First, it may be necessary to initialize the Lmod system, which can usually be done using a bash shell:
+
+```bash
+source /usr/local/lmod/lmod/init/bash
+```
+
+1. List all available modules:
+
+```bash
+module avail
+```
+2. Load a specific module (e.g. python/3.7.0):
+
+```bash
+module load python/3.7.0
+```
+3. Unload a module (e.g. python/3.7.0):
+
+```bash
+module unload python/3.7.0
+```
+4. Show currently loaded modules:
+
+```bash
+module list
+```
+5. Search for a specific module:
+
+```bash
+module spider python
+```
+This will show all available versions of python.
+
+Input files: Not applicable, as Lmod functions primarily as a command-line tool for managing environment modules on an HPC system.
+
+Format required: Not applicable
+
+Specifications and details in input files: Not applicable
+
+Commands to run: 
+For a module to be available, it first needs to be installed and its environment modulefile needs to be created by the system administrator. The general command syntax is 'module [command] [module_name/module_version]'. For instance, to load a module called 'gcc' with version '4.8.1', the command would be 'module load gcc/4.8.1'.

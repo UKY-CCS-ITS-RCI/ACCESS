@@ -1,0 +1,19 @@
+{
+"name": "AutoDock",
+"softwarePage": "http://autodock.scripps.edu/",
+"documentation": "http://autodock.scripps.edu/faqs-help/tutorial",
+"tutorialMaterials": [
+    {
+        "name": "AutoDock Tutorial - Getting Started",
+        "url": "http://autodock.scripps.edu/faqs-help/tutorial/getting-started"
+    },
+    {
+        "name": "AutoDock/Vina – A Fully Automated Installation Script",
+        "url": "https://sulcgroup.com/autodockvina/"
+    },
+    {
+        "name": "AutoDock Vina Tutorial",
+        "url": "https://www.youtube.com/watch?v=HW6ZtgfibAA"
+    }
+  ]
+}

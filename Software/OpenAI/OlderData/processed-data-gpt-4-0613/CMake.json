@@ -1,0 +1,19 @@
+{
+  "Software": "CMake",
+  "Website": "https://cmake.org/",
+  "Documentation": "https://cmake.org/documentation/",
+  "Tutorials and Training material": [
+    {
+      "Title": "CMake Tutorial",
+      "Link": "https://cmake.org/cmake/help/latest/guide/tutorial/index.html"
+    },
+    {
+      "Title": "CMake Documentation",
+      "Link": "https://cmake.org/cmake/help/latest/index.html"
+    },
+    {
+      "Title": "Learning CMake: A Beginner's Guide",
+      "Link": "https://www.youtube.com/watch?v=wl2Srog-j7I"
+    }
+  ]
+}

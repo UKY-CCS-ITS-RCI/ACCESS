@@ -1,0 +1,19 @@
+{
+"name": "aria2",
+"softwarePage": "https://aria2.github.io/",
+"documentation": "https://aria2.github.io/manual/en/html/",
+"tutorialMaterials": [
+    {
+        "name": "aria2 Tutorial",
+        "url": "https://www.tutorialspoint.com/aria2/index.htm"
+    },
+    {
+        "name": "aria2 - The Ultimate Download Manager",
+        "url": "https://ostechnix.com/aria2-ultimate-download-manager/"
+    },
+    {
+        "name": "How to Use aria2 as a Multithreaded Download Manager on Debian 9",
+        "url": "https://www.howtoforge.com/tutorial/how-to-use-aria2-as-a-multithreaded-download-manager-on-debian-9/"
+    }
+  ]
+}

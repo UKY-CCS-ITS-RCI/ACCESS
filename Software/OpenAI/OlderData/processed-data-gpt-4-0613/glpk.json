@@ -1,0 +1,10 @@
+{
+  "softwareName": "GLPK",
+  "links": {
+    "softwarePage": "https://www.gnu.org/software/glpk/",
+    "documentation": "https://www.gnu.org/software/glpk/glpk.html",
+    "officialTutorial": "https://www.gnu.org/software/glpk/#TOCdocumentation",
+    "tutorial1": "http://www.chiark.greenend.org.uk/doc/glpk-doc/glpk.html",
+    "tutorial2": "https://www.gurobi.com/resource/mip-basics/"
+  }
+}

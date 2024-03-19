@@ -1,0 +1,12 @@
+{
+  "Software Name": "Trinity",
+  "links": {
+    "software page": "https://github.com/trinityrnaseq/trinityrnaseq/wiki",
+    "documentation": "https://github.com/trinityrnaseq/trinityrnaseq/wiki",
+    "tutorials": [
+      "https://informatics.fas.harvard.edu/trinity-transcriptome-assembly-tutorial.html",
+      "https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/trinity/tutorial.html",
+      "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/trinityrnaseq_tutorial/"
+    ]
+  }
+}

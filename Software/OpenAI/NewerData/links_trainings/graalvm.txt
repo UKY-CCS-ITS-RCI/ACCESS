@@ -1,0 +1,30 @@
+{
+  "software": "graalvm",
+  "links": 
+  [
+    {
+      "type": "Software page",
+      "url": "https://www.graalvm.org/"
+    },
+    {
+      "type": "Documentation",
+      "url": "https://www.graalvm.org/docs/introduction/"
+    },
+    {
+      "type": "Tutorials",
+      "url": "https://www.graalvm.org/docs/getting-started/"
+    },
+    {
+      "type": "Tutorials",
+      "url": "https://www.graalvm.org/docs/examples/"
+    },
+    {
+      "type": "Training materials",
+      "url": "https://www.graalvm.org/tutorials/"
+    },
+    {
+      "type": "Community",
+      "url": "https://www.graalvm.org/community/"
+    }
+  ]
+}

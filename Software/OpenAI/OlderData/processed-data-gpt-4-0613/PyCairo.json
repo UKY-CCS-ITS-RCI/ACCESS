@@ -1,0 +1,12 @@
+{ 
+  "Software Name": "PyCairo",
+  "links": { 
+    "software page": "https://pycairo.readthedocs.io/en/latest/", 
+    "documentation": "https://pycairo.readthedocs.io/en/latest/getting_started.html", 
+    "tutorials": [
+      "https://www.tutorialspoint.com/pycairo/index.htm", 
+      "https://zetcode.com/gfx/pycairo/basicdrawing/",
+      "https://www.learnpyqt.com/tutorials/advanced-qt-widgets/"
+    ] 
+  } 
+}

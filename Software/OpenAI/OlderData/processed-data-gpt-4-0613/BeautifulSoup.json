@@ -1,0 +1,19 @@
+{
+  "Software": "BeautifulSoup",
+  "Website": "https://www.crummy.com/software/BeautifulSoup/",
+  "Documentation": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",
+  "Tutorials and Training material": [
+    {
+      "Title": "Beautiful Soup Documentation",
+      "Link": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/"
+    },
+    {
+      "Title": "Web Scraping using Python (Beautiful Soup)",
+      "Link": "https://www.datacamp.com/community/tutorials/web-scraping-using-python"
+    },
+    {
+      "Title": "BeautifulSoup tutorial",
+      "Link": "https://www.tutorialspoint.com/beautiful_soup/beautiful_soup_quick_guide.htm"
+    }
+  ]
+}

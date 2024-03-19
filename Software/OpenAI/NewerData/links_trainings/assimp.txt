@@ -1,0 +1,23 @@
+{
+  "SoftwareName": "Assimp",
+  "Link": "https://www.assimp.org/",
+  "Documentation": [
+    {
+      "Link": "http://assimp.sourceforge.net/lib_html/index.html"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Title": "Assimp tutorial for loading 3D models",
+      "Link": "https://learnopengl.com/model-loading/assimp"
+    },
+    {
+      "Title": "How to import 3D models using Assimp",
+      "Link": "https://web.archive.org/web/20161014195436/https://lukasz.io/guides/hints/how-to-load-3d-model-with-assimp/"
+    },
+    {
+      "Title": "Assimp model loading (Youtube Video tutorial)",
+      "Link": "https://www.youtube.com/watch?v=3WJ1oecfekE"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+Use Case: edgeR is primarily used for differential expression analysis of RNA-seq expression profiles with biological replication. It implements a range of statistical methodology based on the negative binomial distributions, including empirical Bayes estimation, exact tests, generalized linear models and quasi-likelihood tests.
+
+Code Details and Examples: 
+
+Code:
+```R
+# Load the edgeR package
+library(edgeR)
+
+# Create a simple group vector
+group <- factor(c(1,1,2,2))
+
+# Load data 
+counts <- matrix(rnbinom(20000,mu=20,size=1), 200, 100)
+
+# Create a DGElist object
+y <- DGEList(counts=counts, group=group)
+
+# Estimate dispersions
+y <- estimateDisp(y)
+
+# Perform exact test
+et <- exactTest(y)
+
+# Print top tags
+topTags(et)
+```
+
+In the code snippet above, we first load the edgeR library. Then, we define a simple group vector that assigns the samples to their respective groups. Then, we artificially generate a count data matrix with 200 genes and 100 samples where the group vector defines which samples belong to which group. Next, we make a DGE list from our counts and add our grouping information to it. After that, we estimate the dispersions for our model and perform an exact test which is then stored in the 'et' object. Finally, we view the results by looking at the top tags.
+
+The command to run the R script is typically interactively through an R environment like RStudio, or it could be run in the command line using the command: Rscript script.R

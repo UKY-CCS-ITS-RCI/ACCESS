@@ -1,0 +1,10 @@
+{
+  "abyss": {
+    "software_page": "https://www.bcgsc.ca/platform/bioinfo/software/abyss",
+    "documentation_link": "https://www.bcgsc.ca/wiki/display/abyss/UserManual",
+    "training_materials": {
+      "tutorial1": "https://github.com/bcgsc/abyss#tutorials",
+      "tutorial2": "http://www.bcgsc.ca/people/malachig/htdocs/abyss_walkthrough_v1.3.2.pdf"
+    }
+  }
+}

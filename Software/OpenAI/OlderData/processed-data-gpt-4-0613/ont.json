@@ -1,0 +1,20 @@
+{
+  "Software": {
+    "Name": "Ont",
+    "Web URL": "https://github.com/confluentinc/ont",
+    "Documentation": {
+      "Name": "Ont Documentation",
+      "Web URL": "https://docs.confluent.io/platform/current/connect/devguide.html"
+    },
+    "Training and Tutorial Material": [
+      {
+        "Name": "Confluent Developer Training",
+        "Web URL": "https://developer.confluent.io/learningpaths/"
+      },
+      {
+        "Name": "ONT Training Material",
+        "Web URL": "https://nanoporetech.com/resource-centre/training-materials"
+      }
+    ]
+  }
+}

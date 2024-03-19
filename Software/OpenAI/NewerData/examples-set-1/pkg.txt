@@ -1,0 +1,27 @@
+Use Case: pkg is a package management utility that allows you to install, delete, upgrade and maintain software packages in a system. This utility can be used in FreeBSD, a Unix-like operating system.
+
+Code details and examples:
+
+Code:
+
+To install a package:
+
+```bash
+pkg install <package_name>
+```
+
+Where `<package_name>` is the name of the package that you wish to install.
+
+Example:
+
+```bash
+pkg install nano
+```
+
+This will install the nano text editor.
+
+Input Files: Not required.
+
+Specifications and Details in Input Files: Not required.
+
+Command to run it: The commands are run directly in the terminal. There is no additional command to execute the `pkg` utility itself.

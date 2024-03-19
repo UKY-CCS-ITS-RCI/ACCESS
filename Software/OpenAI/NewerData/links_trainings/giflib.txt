@@ -1,0 +1,18 @@
+{
+  "Software": "giflib",
+  "Details": {
+    "SoftwarePage": {
+      "URL": "http://giflib.sourceforge.net/"
+    },
+    "Documentation": {
+      "URL": "http://giflib.sourceforge.net/gif_lib.html"
+    },
+    "TutorialsAndTrainingMaterials": [
+      {
+        "URL1": "http://giflib.sourceforge.net/gif_lib_toc.html",
+        "URL2": "https://www.tutorialspoint.com/giflib/index.htm",
+        "URL3": "https://en.wikipedia.org/wiki/Libungif"
+      }
+    ]
+  }
+}

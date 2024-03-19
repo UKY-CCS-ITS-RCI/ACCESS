@@ -1,0 +1,13 @@
+{
+  "software": "iomkl",
+  "software_page": "https://easybuild.readthedocs.io/en/latest/Common-toolchains.html#iomkl-toolchain",
+  "documentation": [
+    "https://easybuild.readthedocs.io/en/latest/version-specific/iomkl_toolchain.html",
+    "https://github.com/easybuilders/easybuild/wiki/Compiler-toolchains"
+  ],
+  "tutorials": [
+    "https://easybuild.readthedocs.io/en/latest/Using_the_EasyBuild_command_line.html",
+    "https://easybuild.readthedocs.io/en/latest/Using.html",
+    "https://easybuild.readthedocs.io/en/latest/Writing_easyconfig_files.html"
+  ]
+}

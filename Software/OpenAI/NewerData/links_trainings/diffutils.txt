@@ -1,0 +1,19 @@
+{
+  "Software": "diffutils",
+  "Link": "https://www.gnu.org/software/diffutils/",
+  "Documentation": "https://www.gnu.org/software/diffutils/manual/",
+  "Tutorials": [
+    {
+      "Description": "GNU diffutils tutorial",
+      "URL": "https://www.thegeekstuff.com/2012/03/diff-command-examples"
+    },
+    {
+      "Description": "Diff utils documentation and tutorials",
+      "URL": "https://www.linuxtopia.org/online_books/programming_tool_guides/the_diffutils_diff_tutorial.html"
+    },
+    {
+      "Description": "Using Diffutils Tool in GNU (gdiff)",
+      "URL": "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+    }
+  ]
+}

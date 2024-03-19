@@ -1,0 +1,19 @@
+{
+    "Software": "gcc-native",
+    "Software Page": "https://gcc.gnu.org/",
+    "Documentation": "https://gcc.gnu.org/onlinedocs/",
+    "Training and Tutorial Materials": [
+        {
+            "Material Name": "GNU GCC Documentation",
+            "Link": "https://gcc.gnu.org/onlinedocs/"
+        },
+        {
+            "Material Name": "How to install and use GCC g++ on Ubuntu 20.04",
+            "Link": "https://linuxconfig.org/how-to-install-gcc-the-c-compiler-on-ubuntu-20-04-lts-focal-fossa-linux"
+        },
+        {
+            "Material Name": "GCC and Make - A Tutorial on how to compile, link and build C/C++ applications",
+            "Link": "http://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html"
+        } 
+    ]
+}

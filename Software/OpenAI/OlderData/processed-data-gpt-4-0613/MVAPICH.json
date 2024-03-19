@@ -1,0 +1,13 @@
+{
+    "name": "MVAPICH",
+    "software_page": "http://mvapich.cse.ohio-state.edu/",
+    "documentation": "http://mvapich.cse.ohio-state.edu/static/media/mvapich/mvapich2-2.3.6-userguide.html",
+    "tutorials": [
+        "http://mvapich.cse.ohio-state.edu/static/media/mvapich/mvapich2-2.3.6-userguide.html#_Toc71797576",
+        "http://mvapich.cse.ohio-state.edu/benchmarks/"
+    ],
+    "additional_resources": [
+        "https://mvapich.cse.ohio-state.edu/news_page/posts/2020/2020-06-04-mv2_v2.3.5.html",
+        "http://mvapich.cse.ohio-state.edu/static/media/mvapich/mvapich2-2.3.6-userguide.html#_Toc71707578"
+    ]
+}

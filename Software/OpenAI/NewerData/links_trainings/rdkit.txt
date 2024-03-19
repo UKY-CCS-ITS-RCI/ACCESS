@@ -1,0 +1,24 @@
+{
+  "Name": "rdkit",
+  "Software Page": "https://www.rdkit.org/",
+  "Resources": {
+    "Documentation": "https://www.rdkit.org/docs/index.html",
+    "Tutorials": [
+      {
+        "Tutorial 1": "https://www.rdkit.org/docs/GettingStartedInPython.html",
+        "Tutorial 2": "https://www.rdkit.org/docs/Cookbook.html",
+        "Tutorial 3": "https://www.rdkit.org/docs/Cartridge.html"
+      }
+    ],
+    "Training Materials": [
+      "https://www.rdkit.org/docs/GettingStartedInPython.html",
+      "https://github.com/rdkit/rdkit-tutorials",
+      "https://www.youtube.com/watch?v=nbF4joI_iMk",
+      "https://www.discngine.com/blogposts/2018/1/8/rdkit-tutorial-1-simple-searches-in-chemical-space-with-pharmacophores",
+      "https://www.rdkit.org/docs/source/rdkit.Chem.Draw.html"
+    ]
+  },
+  "Conda Package": {
+    "Link": "https://anaconda.org/rdkit/rdkit"
+  }
+}

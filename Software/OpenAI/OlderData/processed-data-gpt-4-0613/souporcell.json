@@ -1,0 +1,14 @@
+{
+  "SoftwareName": "souporcell",
+  "Homepage": "https://github.com/wheaton5/souporcell",
+  "Resources": {
+    "Documentation": "https://github.com/wheaton5/souporcell",
+    "Tutorials": [
+      "https://github.com/wheaton5/souporcell#usage",
+      "https://scrnaseq-course.cog.sanger.ac.uk/website/demultiplexing/demultiplexing-intro.html"
+    ],
+    "TrainingMaterial": [
+      "https://github.com/wheaton5/souporcell"
+    ]
+  }
+}

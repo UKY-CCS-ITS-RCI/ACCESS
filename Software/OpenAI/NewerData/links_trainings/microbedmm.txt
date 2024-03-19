@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "microbedmm",
+  "SoftwarePage": "https://github.com/bhattlab/microbedmm",
+  "Documentation": {
+                     "InstallMicrobeDMM": "https://bhattlab.github.io/microbedmm/install.html",
+                     "InputData": "https://bhattlab.github.io/microbedmm/input_data.html",
+                     "Usage": "https://bhattlab.github.io/microbedmm/usage.html",
+                     "OutputFiles": "https://bhattlab.github.io/microbedmm/output_files.html",
+                     "ExampleData": "https://bhattlab.github.io/microbedmm/example_data.html"
+                    },
+  "TutorialMaterials": {
+                        "Tutorial 1": "https://bhattlab.github.io/microbedmm/tutorial1.html",
+                        "Tutorial 2": "https://bhattlab.github.io/microbedmm/tutorial2.html"
+                      }
+}

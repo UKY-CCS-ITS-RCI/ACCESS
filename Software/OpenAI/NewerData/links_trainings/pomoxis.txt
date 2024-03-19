@@ -1,0 +1,25 @@
+{
+  "Software Name": "Pomoxis",
+  "Software URL": "https://github.com/nanoporetech/pomoxis",
+  "Documentation": "https://nanoporetech.github.io/pomoxis/",
+  "Tutorials and Training Materials": [
+    {
+      "Name": "Nanopore Community",
+      "URL": "https://community.nanoporetech.com/posts/pomoxis-assembler"
+    },
+    {
+      "Name": "Installation Tutorial",
+      "URL": "https://nanoporetech.github.io/pomoxis/install.html"
+    },
+    {
+      "Name": "Basic Usage Tutorial",
+      "URL": "https://nanoporetech.github.io/pomoxis/usage.html"
+    }
+  ],
+  "Additional Links": [
+    {
+      "Name": "GitHub Repository",
+      "URL": "https://github.com/nanoporetech/pomoxis"
+    }
+  ]
+}

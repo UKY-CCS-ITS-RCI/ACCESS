@@ -1,0 +1,29 @@
+{
+  "Software": {
+    "Name": "Centrifuge",
+    "Link": "https://ccb.jhu.edu/software/centrifuge/",
+    "Packages": [],
+    "Python Libraries": [],
+    "Links": [
+      {
+        "Documentation": "https://ccb.jhu.edu/software/centrifuge/manual.shtml",
+        "Training Materials": [
+          {
+            "Title": "Centrifuge: rapid and sensitive classification of metagenomic sequences",
+            "URL": "https://genome.cshlp.org/content/early/2016/09/08/gr.210641.116.abstract"
+          },
+          {
+            "Title": "Centrifuge Github Page",
+            "URL": "https://github.com/infphilo/centrifuge"
+          }
+        ]
+      }
+    ],
+    "Compilers": [],
+    "Bioinformatics Tools": [
+      "Classification of sequences",
+      "Analysis of metagenomic data"
+    ],
+    "HPC Tools": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "software": "libaec",
+  "Website": "https://gitlab.dkrz.de/k202009/libaec",
+  "Documentation": "https://anaconda.org/conda-forge/libaec",
+  "Tutorials":
+  {
+    "Tutorial 1": "https://www.erdc.hpc.mil/docs/isd-2159-child.docx"
+  }
+}

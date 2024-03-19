@@ -1,0 +1,31 @@
+{
+  "SoftwareName": "DeepBGC",
+  "SoftwarePageLink": "https://github.com/Merck/deepbgc",
+  "DocumentationLinks": [
+    "https://deepbgc.readthedocs.io/en/latest/"
+  ],
+  "TrainingAndTutorialMaterials": [
+    {
+      "MaterialName": "DeepBGC Tutorial",
+      "MaterialLink": "https://deepbgc.readthedocs.io/en/latest/tutorial.html"
+    },
+    {
+      "MaterialName": "DeepBGC Training Help",
+      "MaterialLink": "https://deepbgc.readthedocs.io/en/latest/training.html"
+    },
+    {
+      "MaterialName": "DeepBGC Wiki",
+      "MaterialLink": "https://github.com/Merck/deepbgc/wiki"
+    }
+  ],
+  "AdditionalInformationLinks": [
+    {
+      "InfoName": "Bioinformatics Software - DeepBGC",
+      "InfoLink": "https://github.com/Merck/deepbgc"
+    },
+    {
+      "InfoName": "DeepBGC on PyPi",
+      "InfoLink": "https://pypi.org/project/deepbgc/"
+    }
+  ]
+}

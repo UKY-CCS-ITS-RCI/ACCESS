@@ -1,0 +1,16 @@
+{
+  "software_details": [
+    {
+      "name": "Bazam",
+      "URL": "https://github.com/ssadedin/bazam",
+      "Documentation": {
+        "Github_readme": "https://github.com/ssadedin/bazam",
+        "Ratie_paper": "https://www.biorxiv.org/content/10.1101/433003v1"
+      },
+      "Tutorials": {
+        "Github_examples": "https://github.com/ssadedin/bazam/tree/master/examples",
+        "Bioinformatics_Stackexchange_QnA": "https://bioinformatics.stackexchange.com/questions/3910/bazam-error-could-not-locate-local-reference-file"
+      }
+    }
+  ]
+}

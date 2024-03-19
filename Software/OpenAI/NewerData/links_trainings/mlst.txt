@@ -1,0 +1,11 @@
+{
+  "mlst": {
+    "software_page": "https://github.com/tseemann/mlst",
+    "documentation": "https://github.com/tseemann/mlst#mlst---scan-contig-files-against-pubmlst-typing-schemes",
+    "training_materials": {
+      "MLST Tutorial": "https://pubmlst.org/software/database/bigss/mlst/",
+      "MLST Training Material 1": "https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mlst/tutorial.html",
+      "Installation Guide": "https://2020-wuhan.omicsclass.com/materials/T5/"      
+    }
+  }
+}

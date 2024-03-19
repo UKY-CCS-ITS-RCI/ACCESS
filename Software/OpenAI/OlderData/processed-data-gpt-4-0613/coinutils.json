@@ -1,0 +1,9 @@
+{
+  "softwareName": "CoinUtils",
+  "links": {
+    "softwarePage": "https://github.com/coin-or/CoinUtils",
+    "documentation": "https://coin-or.github.io/CoinUtils/",
+    "tutorial1": "https://coin-or.github.io/user_introduction.html",
+    "tutorial2": "http://www.coin-or.org/Doxygen/Coin/all.html"
+  }
+}

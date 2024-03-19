@@ -1,0 +1,11 @@
+{
+  "name": "sve",
+  "description": "A software tool for outlier detection and extremely fast, robust and accurate imputation of missing values in high-dimensional data.",
+  "website": "https://bioconductor.org/packages/release/bioc/html/sva.html",
+  "documentation": {
+    "User guide": "https://www.bioconductor.org/packages/devel/bioc/vignettes/sva/inst/doc/sva.pdf"
+  },
+  "tutorials": {
+    "SVA tutorial": "https://bioinformatics-core-shared-training.github.io/cruk-bioinf-sschool/Day1/afternoon-session_differential_expression/DESeq2.html"
+  }
+}

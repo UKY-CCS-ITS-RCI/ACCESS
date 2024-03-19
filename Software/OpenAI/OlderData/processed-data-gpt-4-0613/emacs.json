@@ -1,0 +1,11 @@
+{
+  "softwareName": "Emacs",
+  "links": {
+    "softwarePage": "https://www.gnu.org/software/emacs/",
+    "documentation": "https://www.gnu.org/software/emacs/manual/emacs.html",
+    "officialTutorial": "https://www.gnu.org/software/emacs/manual/html_node/emacs/Tutorial.html",
+    "tutorial1": "https://www.youtube.com/watch?v=49kBWM3RQQ8",
+    "tutorial2": "https://www.freecodecamp.org/news/emacs-the-best-text-editor-for-programmers/",
+    "tutorial3": "https://www.tutorialspoint.com/emacs/emacs_quick_guide.htm"
+  }
+}

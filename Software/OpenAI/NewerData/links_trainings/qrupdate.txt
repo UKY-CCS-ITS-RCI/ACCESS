@@ -1,0 +1,11 @@
+{
+  "Software": "qrupdate",
+  "Details": {
+    "Software Page": "https://sourceforge.net/projects/qrupdate/",
+    "Documentation Link": "https://octave.sourceforge.io/qrupdate/",
+    "Training Materials": {
+      "Github Repository": "https://github.com/apjanke/octave-addons-qrupdate",
+      "Gnu Octave qrupdate Description": "https://octave.sourceforge.io/qrupdate/"
+    }
+  }
+}

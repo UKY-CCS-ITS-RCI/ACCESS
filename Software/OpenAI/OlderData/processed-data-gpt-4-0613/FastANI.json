@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "FastANI": {
+      "MainPage": "https://github.com/ParBLiSS/FastANI",
+      "Documentation": "https://github.com/ParBLiSS/FastANI/blob/master/README.md",
+      "Tutorials": [
+        "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007321",
+        "https://www.protocols.io/view/benchmarking-fastani-b5hihij6",
+        "https://genomescooper.readthedocs.io/en/latest/GENOMEScooper.html#fastani"
+      ]
+    }
+  }
+}

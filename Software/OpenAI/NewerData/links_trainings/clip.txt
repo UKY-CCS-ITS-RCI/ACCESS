@@ -1,0 +1,18 @@
+{
+  "software": 
+  {
+    "name": "clip",
+    "webUrl": "https://github.com/ethanbennett/clip",
+    "additionalLinks": 
+    [
+      {
+        "name": "Documentation",
+        "url": "https://github.com/ethanbennett/clip#readme"
+      },
+      {
+        "name": "Tutorial",
+        "url": "https://www.youtube.com/watch?v=E0GR1XqHpDI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "software_name": "JASPER",
+  "description": "JASPER (Joint Analytic Sparse Pixel Recovery) is a library of commands for performing image processing tasks.",
+  "software_link": "https://www.ece.uvic.ca/~frodo/jasper/",
+  "resources": [
+    {
+      "name": "Documentation",
+      "link": "https://www.ece.uvic.ca/~frodo/jasper/jasper.pdf"
+    },
+    {
+      "name": "Tutorial",
+      "link": "https://www.cs.cf.ac.uk/Dave/Multimedia/node234.html"
+    },
+    {
+      "name": "Examples and Data",
+      "link": "https://www.ece.uvic.ca/~frodo/jasper/#source"
+    }
+  ]
+}

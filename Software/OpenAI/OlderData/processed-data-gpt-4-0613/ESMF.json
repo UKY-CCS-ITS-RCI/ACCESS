@@ -1,0 +1,13 @@
+{
+  "ESMF": {
+    "software_page": "https://www.earthsystemcog.org/projects/esmf/",
+    "documentation": [
+      "https://www.earthsystemcog.org/projects/esmf/ESMF_7_1_0r/ESMF_refdoc/",
+      "https://www.earthsystemcog.org/projects/esmf/download_800/"
+    ],
+    "tutorial_material": [
+      "https://www.earthsystemcog.org/projects/esmf/esmf_tutorial/",
+      "https://www.earthsystemcog.org/projects/esmf/esmf_getting_started/"
+    ]
+  }
+}

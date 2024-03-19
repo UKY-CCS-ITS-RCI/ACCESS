@@ -1,0 +1,29 @@
+{
+  "software_name": "Charm++",
+  "tags": ["Scientific Software", "HPC"],
+  "website_url": "https://charm.cs.illinois.edu/",
+  "docs": [
+    {
+      "name": "Charm++ Manual",
+      "url": "https://charm.cs.illinois.edu/manuals/pdf/charm.pdf"
+    },
+    {
+      "name": "Charm++ Wiki",
+      "url": "https://charmplusplus.readthedocs.io/en/latest/"
+    },
+    {
+      "name": "Understanding Charm++ Concepts",
+      "url": "https://charmplusplus.readthedocs.io/en/latest/charm++/manual.html"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "name": "Charm++ Workshop",
+      "url": "https://charmplusplus.readthedocs.io/en/latest/charm++/manual.html"
+    },
+    {
+      "name": "NAMD Tutorial: Parallel Simulation of Large Systems",
+      "url": "https://www.ks.uiuc.edu/Training/Tutorials/namd/namd-tutorial-unix-html/"
+    }
+  ]
+}

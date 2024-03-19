@@ -1,0 +1,9 @@
+{
+    "software": "libpng",
+    "resources": {
+        "softwareHomepage": "http://www.libpng.org/pub/png/libpng.html",
+        "documentation": "http://www.libpng.org/pub/png/libpng-manual.txt",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

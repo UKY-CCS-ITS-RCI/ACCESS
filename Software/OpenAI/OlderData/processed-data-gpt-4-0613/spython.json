@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "spython",
+  "Homepage": "https://singularityhub.github.io/singularity-cli/",
+  "Resources": {
+    "Documentation": "https://singularityhub.github.io/singularity-cli/",
+    "Tutorials": [
+      "https://sylabs.io/guides/3.0/user-guide/",
+      "https://singularity.lbl.gov/docs-docker"
+    ],
+    "TrainingMaterial": [
+      "https://singularity-tutorial.github.io/",
+      "https://sylabs.io/guides/3.7/user-guide/"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "Software": "blast",
+    "Web_link": "https://blast.ncbi.nlm.nih.gov/",
+    "Additional_links": {
+        "Documentation": "https://www.ncbi.nlm.nih.gov/books/NBK279690/",
+        "Tutorial": "https://www.ncbi.nlm.nih.gov/books/NBK279668/",
+        "Training": "https://www.ncbi.nlm.nih.gov/Class/MLACourse/Modules/BLAST/"
+    }
+}

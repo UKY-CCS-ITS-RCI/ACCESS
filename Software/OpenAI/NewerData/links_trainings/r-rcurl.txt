@@ -1,0 +1,17 @@
+{
+"Software": {
+"name": "r-rcurl",
+"softwareURL": "https://cran.r-project.org/web/packages/RCurl/index.html",
+"documentation": [
+{"name": "RCurl Package Documentation",
+"url": "https://cran.r-project.org/web/packages/RCurl/RCurl.pdf"},
+{"name": "RCurl Functions Documentation",
+"url": "https://www.rdocumentation.org/packages/RCurl/versions/1.98-1.3"}],
+"tutorials": [
+{"name": "Getting started with RCurl",
+"url": "https://www.r-bloggers.com/2012/11/rcurl-tutorial-web-scraping-with-r/"},
+{"name": "RCurl Package in R Tutorial",
+"url": "https://www.datamind.co/blog/package/Refer"}
+]
+}
+}

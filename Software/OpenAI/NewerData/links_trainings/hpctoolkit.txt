@@ -1,0 +1,28 @@
+{
+  "software": "hpctoolkit",
+  "softwareURL": "http://hpctoolkit.org/",
+  "documentation_links": [
+    {
+      "URL": "http://hpctoolkit.org/manual/HPCToolkit-users-manual.pdf",
+      "description": "HPCToolkit User's Manual"
+    },
+    {
+      "URL": "http://hpctoolkit.org/software.html",
+      "description": "HPCToolkit Software Documentation"
+    }
+  ],
+  "tutorials_and_training_materials": [
+    {
+      "URL": "http://hpctoolkit.org/tutorials.html",
+      "description": "HPCToolkit Tutorials"
+    },
+    {
+      "URL": "https://www.youtube.com/watch?v=quFQs6R_9dQ",
+      "description": "HPCToolkit Tutorial on YouTube"
+    },
+    {
+      "URL": "https://www.nersc.gov/assets/Uploads/Hewlett-Packard-HPCToolkit-Profiling-and-Analysis-of-Large-Scale-Codes.pdf",
+      "description": "HPCToolkit Profiling and Analysis of Large-Scale Codes - Training Material"
+    }
+  ]
+}

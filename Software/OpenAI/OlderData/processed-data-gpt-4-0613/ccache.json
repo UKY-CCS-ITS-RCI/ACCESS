@@ -1,0 +1,10 @@
+{
+    "Software": "ccache",
+    "Website": "https://ccache.dev/",
+    "Documentation": "https://ccache.dev/manual/latest.html",
+    "Tutorial_and_Training": [
+        "https://linux.die.net/man/1/ccache",
+        "https://www.devside.net/wamp-server/compiling-with-ccache-and-clang",
+        "https://stackoverflow.com/questions/1815688/how-to-use-ccache-with-make"
+    ]
+}

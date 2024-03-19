@@ -1,0 +1,24 @@
+{
+  "software": {
+    "name": "boost.python",
+    "description": "Boost.Python, part of collection of the Boost C++ Libraries, is a framework for interfacing Python and C++. It allows you to quickly and seamlessly expose C++ classes functions and objects to Python, and vice-versa.",
+    "web_links": [
+      {
+        "title": "Software Page",
+        "url": "https://www.boost.org/doc/libs/1_77_0/libs/python/doc/html/index.html"
+      },
+      {
+        "title": "Documentation",
+        "url": "https://www.boost.org/doc/libs/1_77_0/libs/python/doc/html/index.html"
+      },
+      {
+        "title": "Tutorial",
+        "url": "https://www.boost.org/doc/libs/1_77_0/libs/python/doc/html/tutorial/index.html"
+      },
+      {
+        "title": "Github Source Code",
+        "url": "https://github.com/boostorg/python"
+      }
+    ]
+  }
+}

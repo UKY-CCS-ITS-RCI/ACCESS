@@ -1,0 +1,19 @@
+{
+  "Software Name": "DBD-mysql",
+  "Website_Link": "https://metacpan.org/release/DBD-mysql",
+  "Documentation_Link": "https://metacpan.org/pod/DBD::mysql",
+  "Training_Materials": {
+    "Tutorial_1": {
+      "Title": "PERL DBI/DBD::mysql Tutorial",
+      "Link": "https://www.tutorialspoint.com/perl/perl_dbi.htm"
+    },
+    "Tutorial_2": {
+      "Title": "DBI/DBD Mysql Tutorial",
+      "Link": "https://www.perlmonks.org/?node_id=490993"
+    },
+    "Tutorial_3": {
+      "Title": "MySQL and Perl DBI",
+      "Link": "https://opensource.com/article/17/2/perl-dbi-and-mysql"
+    }
+  }
+}

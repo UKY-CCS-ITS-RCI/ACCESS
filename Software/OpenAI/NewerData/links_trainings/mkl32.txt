@@ -1,0 +1,14 @@
+{
+  "Software Name": "mkl32",
+  "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html",
+  "Additional Links": {
+    "Documentation": [
+      "https://software.intel.com/content/www/us/en/develop/tools/documentation-library/oneapi/overview.html",
+      "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl/api-manual.html"
+    ],
+    "Training and Tutorials": [
+      "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/choose-download/student.html",
+      "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl/training.html"
+    ]
+  }
+}

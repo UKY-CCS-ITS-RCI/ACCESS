@@ -1,0 +1,23 @@
+{
+  "Software": [
+    {
+      "Name": "Screen",
+      "SoftwareURL": "https://www.gnu.org/software/screen/",
+      "DocumentationURL": "https://www.gnu.org/software/screen/manual/screen.html",
+      "TrainingMaterials": [
+        {
+          "TutorialName": "Introduction to GNU Screen",
+          "URL": "https://www.howtogeek.com/662422/how-to-use-gnu-screen-to-manage-persistent-terminal-sessions/"
+        },
+        {
+          "TutorialName": "GNU Screen: An introduction and beginner's tutorial",
+          "URL": "https://www.digitalcitizen.life/command-prompt-how-use-screen/"
+        },
+        {
+          "TutorialName": "Linux Screen Tutorial",
+          "URL": "https://linuxize.com/post/how-to-use-linux-screen/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "htslib": {
+    "software_page": "http://www.htslib.org/",
+    "documentation": [
+      {
+        "title": "Official Documentation",
+        "link": "http://www.htslib.org/doc/"
+      }
+    ],
+    "training_materials": [
+      {
+        "title": "Basic Introduction on htslib",
+        "link": "https://gist.github.com/davisp/9988453"
+      },
+      {
+        "title": "Q&A on htslib usage on Biostars",
+        "link": "https://www.biostars.org/p/233383/"
+      }
+    ]
+  }
+}

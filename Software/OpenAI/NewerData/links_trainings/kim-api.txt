@@ -1,0 +1,12 @@
+{
+  "kim-api": {
+    "software_page": "https://openkim.org/doc/usage/kim-api/",
+    "documentation": "https://openkim.org/doc/",
+    "tutorial_materials": [
+      "https://openkim.org/doc/usage/kim-api/",
+      "https://openkim.org/documentation/",
+      "https://openkim.org/doc/overview/structure/",
+      "https://pykim.readthedocs.io/en/latest/"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+Use Case: Use Kraken2 for assigning taxonomic labels to DNA sequences. 
+
+Code details and Examples: Code 
+
+Kraken2 uses a FASTA or FASTQ file as input. This file contains the sequence data to be classified. The format of the file must be either FASTA or FASTQ, two commonly used formats for storing genetic sequence data. Here is an example of a FASTA file:
+
+```
+>Sequence1
+ATGCATGCATGCATGCATGC
+>Sequence2
+CGTACGTACGTACGTACGTA
+```
+
+To classify the sequences in a FASTA or FASTQ file, you would use the 'kraken2' command, followed by the '--db' option to specify the database to use, and then the name of the file containing the sequences. The commands to do this would look like this:
+
+```
+kraken2 --db /path/to/database /path/to/input.fasta
+```
+
+In this command, '/path/to/database' should be replaced with the path to your Kraken2 database, and '/path/to/input.fasta' should be replaced with the path to the FASTA file. 
+
+This command will print the classification results to the console. If you want to save the results to a file instead, you could change the command to this:
+
+```
+kraken2 --db /path/to/database /path/to/input.fasta > results.txt
+```
+
+In this command, 'results.txt' is the file that the results will be saved to. You can change 'results.txt' to another filename if you prefer.

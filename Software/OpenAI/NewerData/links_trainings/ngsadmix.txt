@@ -1,0 +1,11 @@
+{
+    "ngsadmix": {
+        "software_page": "https://www.popgen.dk/software/index.php/NgsAdmix",
+        "documentation": "https://www.popgen.dk/software/index.php/NgsAdmix",
+        "tutorial_materials": [
+            "https://ngsadmix.readthedocs.io/en/latest/",
+            "https://www.researchgate.net/post/How_to_analyze_data_with_ngsadmix_in_genomics",
+            "https://www.biostars.org/p/352674/"
+        ]
+    }
+}

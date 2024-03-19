@@ -1,0 +1,24 @@
+{
+  "Software Name": "mamba",
+  "Software Category": "Python Library, Conda Packages",
+  "Website URL": "https://mamba.readthedocs.io/en/latest/",
+  "Documentation Links": [
+    {
+      "Documentation URL": "https://mamba.readthedocs.io/en/latest/"
+    }
+  ],
+  "Tutorial Links": [
+    {
+      "Tutorial Name": "Conda Mamba",
+      "Tutorial URL": "https://www.anaconda.com/blog/how-to-speed-up-conda"
+    },
+    {
+      "Tutorial Name": "Mamba for managing packages in Python - a practical guide",
+      "Tutorial URL": "https://towardsdatascience.com/mamba-for-managing-packages-in-python-a-practical-guide-9e5b3e0b7ed9"
+    },
+    {
+      "Tutorial Name": "Introduction to Mamba",
+      "Tutorial URL": "https://www.youtube.com/watch?v=7DfWAyPvHb0"
+    }
+  ]
+}

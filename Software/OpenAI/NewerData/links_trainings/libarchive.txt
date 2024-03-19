@@ -1,0 +1,20 @@
+{
+  "Software": {
+    "Name": "libarchive",
+    "Software_URL": "https://www.libarchive.org/",
+    "Documentation": [
+      {
+        "Doc_link1": "https://manpages.ubuntu.com/manpages/focal/man3/libarchive.3.html"
+      },
+      {
+        "Doc_link2": "https://www.libarchive.org/downloads/libarchive.manual.pdf"
+      }
+    ],
+    "Tutorials": [
+      {
+        "Tutorial_link1": "http://beej.us/blog/data/reading-zip-files-in-c-with-libarchive/",
+        "Tutorial_link2": "https://www.programmer-books.com/wp-content/uploads/2019/06/Python-for-Unix-and-Linux-System-Administration.pdf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "software": {
+    "name": "Vartrix",
+    "software_url": "https://github.com/10XGenomics/vartrix",
+    "documentation": {
+      "url": "https://github.com/10XGenomics/vartrix"
+    },
+    "tutorial_materials": {
+      "tutorial1_url": "https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/walkthrough",
+      "tutorial2_url": "https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/tutorial-1"
+    }
+  }
+}

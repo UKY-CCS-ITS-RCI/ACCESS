@@ -1,0 +1,14 @@
+{
+    "software": "libgeotiff",
+    "resources": {
+        "softwareHomepage": "https://geotiff.osgeo.org/",
+        "documentation": "https://osgeo.github.io/libgeotiff/",
+        "tutorials": [
+            {
+                "title": "Geotiff tutorial",
+                "url": "https://trac.osgeo.org/geotiff/wiki/GeoTIFF_Tutorial"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

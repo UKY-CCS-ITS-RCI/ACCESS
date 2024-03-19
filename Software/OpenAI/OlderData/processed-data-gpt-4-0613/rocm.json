@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "ROCm",
+  "Homepage": "https://rocmdocs.amd.com/en/latest/",
+  "Resources": {
+    "Documentation": "https://rocmdocs.amd.com/en/latest/",
+    "Tutorials": [
+      "https://rocmdocs.amd.com/en/latest/Installation_Guide/Installation-Guide.html",
+      "https://github.com/RadeonOpenCompute/ROCm"
+    ],
+    "TrainingMaterial": [
+      "https://github.com/RadeonOpenCompute/ROCm",
+      "https://rocm.gitbook.io/rocm-miopen-tutorial/"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "software_name": "GNU9",
+  "software_page": "https://gcc.gnu.org/",
+  "documentation_links": [
+    "https://gcc.gnu.org/onlinedocs/",
+    "https://gcc.gnu.org/wiki/HomePage",
+    "https://gcc.gnu.org/install/index.html"
+  ],
+  "tutorials": [
+    {
+      "name": "GCC and Make",
+      "url": "https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html"
+    },
+    {
+      "name": "The GNU C Compiler on Linux (Simple)",
+      "url": "https://www.youtube.com/watch?v=qkVYbFyabzo"
+    },
+    {
+      "name": "Introduction to GCC",
+      "url": "http://pages.cs.wisc.edu/~beechung/ref/gcc-intro.html"
+    }
+  ]
+}

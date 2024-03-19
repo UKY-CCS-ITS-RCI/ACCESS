@@ -1,0 +1,28 @@
+{
+  "Software": 
+  { 
+    "Tmux": 
+    { 
+      "URL": "https://github.com/tmux/tmux",
+      "Documentation": "https://man7.org/linux/man-pages/man1/tmux.1.html",
+      "Tutorials": 
+      [
+        {
+          "Tmux Tutorial - A Guide for Beginners": "https://www.howtoforge.com/tutorial/tmux-tutorial-a-guide-for-beginners/"
+        },
+        {
+          "Getting started with tmux": "https://thoughtbot.com/blog/a-tmux-crash-course"
+        },
+        {
+          "tmux cheat sheet": "https://tmuxcheatsheet.com"
+        },
+        {
+          "Introduction to tmux": "https://www.youtube.com/watch?v=BHhA_ZKjyxo"
+        },
+        {
+          "Manage Your Terminal Sessions with Tmux and Tmuxinator": "https://www.digitalocean.com/community/tutorials/how-to-install-and-use-tmux-on-ubuntu-12-10"
+        }
+      ]
+    }
+  }
+}

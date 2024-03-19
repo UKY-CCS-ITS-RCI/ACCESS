@@ -1,0 +1,26 @@
+{
+  "software": "slurm",
+  "main_page": "https://slurm.schedmd.com/",
+  "documentation": [
+    {
+      "page": "https://slurm.schedmd.com/overview.html"
+    },
+    {
+      "page": "https://slurm.schedmd.com/documentation.html"
+    },
+    {
+      "page": "https://slurm.schedmd.com/quickstart_admin.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "page": "https://hpc.llnl.gov/training/tutorials/introduction-slurm-workload-manager-0"
+    },
+    {
+      "page": "https://research.computing.yale.edu/support/hpc/user-guide/slurm-tutorial"
+    },
+    {
+      "page": "https://slurm.schedmd.com/tutorials.html"
+    }
+  ]
+}

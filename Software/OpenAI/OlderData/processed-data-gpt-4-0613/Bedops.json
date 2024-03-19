@@ -1,0 +1,19 @@
+{
+  "Software": "Bedops",
+  "Website": "https://bedops.readthedocs.io/en/latest/",
+  "Documentation": "https://bedops.readthedocs.io/en/latest/content/reference/file-management/conversion/bedops.html",
+  "Tutorials and Training material": [
+    {
+      "Title": "BEDOPS User Guide",
+      "Link": "https://bedops.readthedocs.io/en/latest/content/reference/statistics/bedops.html#examples"
+    },
+    {
+      "Title": "BEDOPS Tutorial",
+      "Link": "https://bedops.readthedocs.io/en/latest/content/quick-reference.html"
+    },
+    {
+      "Title": "BEDOPS: high-performance genomic feature operations",
+      "Link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371832/"
+    }
+  ]
+}

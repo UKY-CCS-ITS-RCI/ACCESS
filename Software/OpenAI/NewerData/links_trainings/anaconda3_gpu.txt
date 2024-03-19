@@ -1,0 +1,12 @@
+{
+  "anaconda3_gpu": {
+    "softwarePage": "https://docs.anaconda.com/",
+    "documentation": "https://docs.anaconda.com/anaconda/user-guide/",
+    "tutorials": ["https://docs.anaconda.com/anaconda/navigator/tutorials/",
+                  "https://docs.anaconda.com/ae-notebooks/user-guide/create-notebook/",
+                  "https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook"],
+    "trainingMaterials": ["https://www.anaconda.com/blog/getting-started-with-gpu-computing-in-anaconda",
+                          "https://www.anaconda.com/introduction-to-gpu-programming-in-python/",
+                          "https://www.coursera.org/learn/introduction-gpu-programming-cuda"]
+  }
+}

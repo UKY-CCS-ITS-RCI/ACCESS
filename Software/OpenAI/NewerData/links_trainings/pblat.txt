@@ -1,0 +1,17 @@
+{
+  "Software Name": "pblat",
+  "Software URL": "https://github.com/icebert/pblat",
+  "Documentation": [
+    {
+      "URL": "https://icebert.github.io/"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "https://gist.github.com/adevenish/27113c8e444c3bbb7997"
+    },
+    {
+      "URL": "https://www.biostars.org/p/79170/#79178"
+    }
+  ]
+}

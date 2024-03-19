@@ -1,0 +1,22 @@
+{
+  "software_name": "namd-netlrts-smp-cuda",
+  "links": {
+    "software_page": "https://www-s.ks.uiuc.edu/Development/MDTools/namd/nightly/netlrts_smp_cuda/notes.html",
+    "documentation": [
+      {
+        "url": "https://www-s.ks.uiuc.edu/Research/namd/2.14/ug/ug.html",
+        "description": "NAMD User Guide"
+      }
+    ],
+    "training_and_tutorials": [
+      {
+        "url": "https://www-s.ks.uiuc.edu/Research/namd/tutorial/NCSA2002/",
+        "description": "NAMD Tutorial"
+      },
+      {
+        "url": "https://www.ks.uiuc.edu/Training/Tutorials/science/namd/namd-tutorial-unix.pdf",
+        "description": "NAMD Tutorial - PDF"
+      }
+    ]
+  }
+}

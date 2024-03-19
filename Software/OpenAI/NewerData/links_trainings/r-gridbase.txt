@@ -1,0 +1,14 @@
+```json
+{
+    "r-gridbase": {
+        "software_page": "https://cran.r-project.org/web/packages/gridBase/index.html",
+        "documentation": [
+            "https://cran.r-project.org/web/packages/gridBase/gridBase.pdf"
+        ],
+        "tutorial": [
+            "https://www.rdocumentation.org/packages/gridBase/versions/0.4-7"
+        ],
+        "training": []
+    }
+}
+```

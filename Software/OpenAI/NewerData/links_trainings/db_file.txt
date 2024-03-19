@@ -1,0 +1,11 @@
+{
+  "db_file": [
+    {
+      "software_page": "https://dbfviewer.com/dbf-file/",
+      "documentation_link": "https://dbfviewer.com/dbf-file/dbf-structure/",
+      "training_materials": [
+        "https://www.youtube.com/watch?v=gfhrCxU3N4Q"
+      ]
+    }
+  ]
+}

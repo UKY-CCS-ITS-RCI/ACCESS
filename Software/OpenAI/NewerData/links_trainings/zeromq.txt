@@ -1,0 +1,16 @@
+{
+    "Software": "ZeroMQ",
+    "SoftwarePage": "https://zeromq.org/",
+    "Documentation": {
+        "DeveloperGuide": "https://zeromq.org/docs:features/",
+        "APIReference": "https://api.zeromq.org/",
+        "GithubPage": "https://github.com/zeromq/libzmq"
+    },
+    "TrainingMaterials": {
+        "GettingStarted": "https://zeromq.org/get-started/",
+        "YoutubeTutorials1": "https://www.youtube.com/watch?v=7mKfWrNQG6Y",
+        "YoutubeTutorials2": "https://www.youtube.com/watch?v=FUivP_Z2n0Y",
+        "SlideSharePresentations": "https://www.slideshare.net/pieterh/introduction-to-zeromq-20101127",
+        "StackOverflow": "https://stackoverflow.com/questions/tagged/zeromq"
+    }
+}

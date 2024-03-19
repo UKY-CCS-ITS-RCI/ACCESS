@@ -1,0 +1,10 @@
+{
+  "lzip": {
+    "SoftwarePage": "https://www.nongnu.org/lzip/lzip.html",
+    "Documentation": "https://www.nongnu.org/lzip/manual/lzip_manual.html",
+    "Tutorials": [
+      "https://www.fossmint.com/lzip-compression-tool-for-linux/",
+      "https://www.dedoimedo.com/computers/lzip.html"
+    ]
+  }
+}

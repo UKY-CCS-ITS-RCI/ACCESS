@@ -1,0 +1,9 @@
+{
+    "software": "libsodium",
+    "resources": {
+        "softwareHomepage": "https://libsodium.gitbook.io/doc/",
+        "documentation": "https://libsodium.gitbook.io/doc/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

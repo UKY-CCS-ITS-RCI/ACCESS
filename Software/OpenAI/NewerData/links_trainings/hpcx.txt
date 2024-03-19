@@ -1,0 +1,20 @@
+{
+  "software": "hpcx",
+  "link": "https://www.mellanox.com/products/hpc-x-toolkit",
+  "documentation": [
+    {
+      "name": "HPC-X Software Toolkit User Manual",
+      "link": "https://docs.mellanox.com/display/hpcxv24/HPC-X+Software+Toolkit+User+Manual"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "OpenMPI and HPC-X on Azure",
+      "link": "https://docs.microsoft.com/en-us/azure/azure-hpc/hpc-cluster-open-mpi-hpcx"
+    },
+    {
+      "name": "Building HPC-X from Git Source",
+      "link": "https://azured.github.io/azhpc-demos/site/examples/hpcx/build_hpcx/"
+    }
+  ]
+}

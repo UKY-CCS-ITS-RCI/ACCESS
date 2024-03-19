@@ -1,0 +1,14 @@
+{
+  "name": "xtrans",
+  "software_page": "https://www.x.org/releases/current/doc/xorg-docs/xtrans/xtrans.html",
+  "documentation": [
+    {
+      "url": "https://www.x.org/releases/current/doc/xorg-docs/xtrans/xtrans.html"
+    }
+  ],
+  "tutorial_and_training_materials": [
+    {
+      "url": "https://www.x.org/wiki/guide/programming/"
+    }
+  ]
+}

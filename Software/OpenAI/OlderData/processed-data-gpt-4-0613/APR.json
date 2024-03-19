@@ -1,0 +1,19 @@
+{
+  "Software": "APR",
+  "Website": "https://apr.apache.org/",
+  "Documentation": "https://apr.apache.org/docs/apr/2.0/",
+  "Tutorials and Training material": [
+    {
+      "Title": "Getting started with APR",
+      "Link": "https://www.ibm.com/developerworks/library/os-apache/index.html"
+    },
+    {
+      "Title": "APR Tutorial",
+      "Link": "https://www.devshed.com/c/a/apache/developing-with-the-apache-portable-runtime-part-1/"
+    },
+    {
+      "Title": "APR Documentation and API Reference",
+      "Link": "https://apr.apache.org/docs/apr/2.0/"
+    }
+  ]
+}

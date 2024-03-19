@@ -1,0 +1,14 @@
+{
+    "software": "spdlog",
+    "resources": {
+        "softwareHomepage": "https://github.com/gabime/spdlog",
+        "documentation": "https://github.com/gabime/spdlog/wiki",
+        "tutorials": [
+            {
+                "title": "spdlog tutorials",
+                "url": "https://github.com/gabime/spdlog/wiki/1.-QuickStart"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

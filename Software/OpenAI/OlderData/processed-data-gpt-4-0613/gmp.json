@@ -1,0 +1,10 @@
+{
+  "softwareName": "GMP",
+  "links": {
+    "softwarePage": "https://gmplib.org/",
+    "documentation": "https://gmplib.org/manual/",
+    "tutorial1": "https://gmplib.org/manual/Introduction-to-GMP",
+    "tutorial2": "https://gmplib.org/manual/C_002b_002b-Interface-General.html",
+    "tutorial3": "https://www.youtube.com/watch?v=zCLOJ9j1WL0"
+  }
+}

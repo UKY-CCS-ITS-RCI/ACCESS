@@ -1,0 +1,22 @@
+{
+"debugger": {
+  "software_page_url": "https://visualstudio.microsoft.com/vs/features/debug/",
+  "documentation_url": "https://docs.microsoft.com/en-us/visualstudio/debugger/",
+  "training_and_tutorial_materials": [{
+    "url_link": "https://docs.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour",
+    "link_description": "Debugger Feature Tour"
+  },
+  {
+    "url_link": "https://www.w3schools.com/js/js_debugging.asp",
+    "link_description": "Understanding JavaScript Debugging"
+  },
+  {
+    "url_link": "https://developers.google.com/web/tools/chrome-devtools/javascript",
+    "link_description": "JavaScript Debugging Guide"
+  },
+  {
+    "url_link": "https://docs.python.org/3/library/pdb.html",
+    "link_description": "Python Debugger Tutorial"
+  }]
+ }
+}

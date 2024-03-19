@@ -1,0 +1,37 @@
+Use Case: Pegasus is used for executing complex computational tasks involving pipelines of jobs in high-performance computing (HPC) environments. It allows scientists to compose scientific workflows in abstracted form. 
+
+Code details and examples: Code
+
+Example Input File (DAX):
+
+A DAX (Directed Acyclic Graph in XML) file represents a scientific workflow. It is an XML file that has definitions for all the jobs that need to be executed and their dependencies.
+
+An example of a DAX file looks like:
+```xml
+<adag xmlns="http://pegasus.isi.edu/schema/DAX" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pegasus.isi.edu/schema/DAX http://pegasus.isi.edu/schema/dax-3.0.xsd" version="3.0" count="1" index="0" root="ID0000001"  name="my_workflow">
+  <job id="ID0000001" namespace="my_workflow" name="job1" version="1.0" runtime="60.00">
+    <argument>-a input1.txt -o output1.txt</argument>
+    <uses file="input1.txt" link="input"/>
+    <uses file="output1.txt" link="output" register="true"/>
+  </job>
+  <child ref="ID0000001">
+    <job id="ID0000002" namespace="my_workflow" name="job2" version="1.0" runtime="60.00">
+      <argument>-a output1.txt -o output2.txt</argument>
+      <uses file="output1.txt" link="output" transfer="true"/>
+      <uses file="output2.txt" link="output" register="true"/>
+    </job>
+  </child>
+</adag>
+```
+
+Command to run: 
+
+To plan and execute a workflow from a DAX file, you would use the `pegasus-plan` command:
+
+```bash
+pegasus-plan --conf pegasus.properties --dax my_workflow.dax --dir submit_dir --output-site local --cleanup leaf
+```
+
+This command will generate an executable workflow and submit it to the execution environment defined in the pegasus properties file. The workflow data products are staged back to the local site, and intermediate files are cleaned up after workflow execution.
+
+The specifications and details of input files vary according to individual jobs in the DAX definition. In the example, job1 takes input1.txt as input (-a) and generates output1.txt as output (-o). Similarly, job2's uses output1.txt as input and turns it into output2.txt.

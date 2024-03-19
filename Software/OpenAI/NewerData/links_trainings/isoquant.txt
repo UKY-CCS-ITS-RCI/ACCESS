@@ -1,0 +1,9 @@
+{
+  "softwareName": "isoquant",
+  "softwarePage": "https://bio.tools/isoquant",
+  "additionalLinks": {
+    "documentation": "https://bio.tools/isoquant",
+    "tutorial1": "https://bio.tools/isoquant",
+    "tutorial2": "https://bio.tools/isoquant"
+  }
+}

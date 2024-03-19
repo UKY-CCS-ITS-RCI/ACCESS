@@ -1,0 +1,20 @@
+Use Case: Converting VCF into MAF files for further analysis in bioinformatics.; 
+
+Code details and examples: 
+
+- Code details: The VCF (Variant Call Format) files, which are outputs from whole exome/genome sequencers, can be tricky to handle and translate. The input file needs to be a properly formatted VCF file along with a reference fasta file. 
+
+    Here is a minimal example of VCF file content:
+
+    ```text
+    #CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	
+    20	14370	rs6054257	G	A	29	PASS	DP=14;HQ=52,51
+    20	17330	.	T	A	3	q10	DP=11;HQ=.,.
+    ```
+
+- Code: To convert a VCF into a MAF format, you will need to execute a command like the one below which points to your installation of vcf2maf:
+
+    ```bash
+    perl vcf2maf.pl --input-vcf tests/test.vcf --output-maf tests/test.maf
+    ```
+This command will output a .maf file with the same name in the specified location.

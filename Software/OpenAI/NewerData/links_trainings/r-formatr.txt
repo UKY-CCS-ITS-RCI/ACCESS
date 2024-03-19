@@ -1,0 +1,10 @@
+{
+  "SoftwareName": "r-formatr",
+  "HomePage": "https://yihui.org/formatr/",
+  "AdditionalLinks": {
+    "Documentation": "https://cran.r-project.org/web/packages/formatR/formatR.pdf",
+    "Tutorials": [
+      "https://yihui.org/formatr/demo/"
+    ]
+  }
+}

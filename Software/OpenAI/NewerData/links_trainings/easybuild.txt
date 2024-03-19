@@ -1,0 +1,15 @@
+{
+  "easybuild": {
+    "softwarePage": "https://easybuild.io/",
+    "additionalLinks": {
+      "documentation": "https://docs.easybuild.io/en/latest/",
+      "tutorialMaterials": [
+        "https://easybuild.readthedocs.io/en/latest/Tutorial.html",
+        "https://www.youtube.com/playlist?list=PLGPxbbT_ZlYVGH0BsbGylaYE_K1GBPHER",
+        "https://docs.euro.bio/documentation/training-materials",
+        "https://easybuild.readthedocs.io/en/latest/Developer_guide.html",
+        "https://easybuild.readthedocs.io/en/latest/Cookbooks.html"
+      ]
+    }
+  }
+}

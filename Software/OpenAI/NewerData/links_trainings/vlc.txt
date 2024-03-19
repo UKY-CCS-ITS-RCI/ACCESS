@@ -1,0 +1,23 @@
+{
+  "software": {
+    "vlc": {
+      "name": "VLC Media Player",
+      "link": "https://www.videolan.org/vlc/index.html",
+      "documentation": "https://www.videolan.org/doc/",
+      "tutorials": [
+        {
+          "name": "How to Use VLC Media Player",
+          "link": "https://www.wikihow.com/Use-VLC-Media-Player"
+        },
+        {
+          "name": "VLC Media Player - Complete Download and Install Guide",
+          "link": "https://www.youtube.com/watch?v=O5ybs36PzPk"
+        },
+        {
+          "name": "VLC Media Player Tutorial - 15 Tips and Tricks",
+          "link": "https://www.youtube.com/watch?v=IsZtbB1Jne0"
+        }
+      ]
+    }
+  }
+}

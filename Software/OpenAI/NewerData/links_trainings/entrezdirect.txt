@@ -1,0 +1,36 @@
+{
+  "softwareName": "Entrez Direct",
+  "softwarePage": "https://www.ncbi.nlm.nih.gov/books/NBK179288/",
+  "documentation": [
+    "https://www.ncbi.nlm.nih.gov/books/NBK25501/",
+    "https://github.com/ncbi/entrez-direct"
+  ],
+  "trainingMaterial": [
+    {
+      "title": "Entrez Direct Tutorial",
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK25500/"
+    },
+    {
+      "title": "Entrez Direct: E-utilities on the Unix command line",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK179288/"
+    },
+    {
+      "title": "Entrez Direct Usage Tips",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK25497/"
+    }
+  ],
+  "tutorialMaterial": [
+    {
+      "title": "Entrez Programming Utilities Help",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK25501/"
+    },
+    {
+      "title": "Guide to Understanding the E-utilities Syntax",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK25498/"
+    },
+    {
+      "title": "Entrez Direct Examples of Use",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK25499/"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "software_name": "r-minfi",
+  "software_page_link": "https://bioconductor.org/packages/release/bioc/html/minfi.html",
+  "documentation_link": "https://bioconductor.org/packages/release/bioc/vignettes/minfi/inst/doc/minfi.pdf",
+  "tutorial_links": [
+    {
+      "name": "Bioconductor Workshop",
+      "link": "https://www.bioconductor.org/help/course-materials/2017/BiocIntroNYC/IntroRStart.html"
+    },
+    {
+      "name": "Data Analysis for Genomic Data",
+      "link": "https://biodataprog.github.io/GEN243_2019/d04_DataAnalysis.html"
+    },
+    {
+      "name": "Bioconductor course",
+      "link": "https://kasperdanielhansen.github.io/genbioconductor/10-rnaseqI.html"
+    },
+    {
+      "name": "Bioconductor Tutorial - minfi User's Guide",
+      "link": "https://bioconductor.org/packages/devel/bioc/vignettes/minfi/inst/doc/minfi.pdf"
+    }
+  ]
+}

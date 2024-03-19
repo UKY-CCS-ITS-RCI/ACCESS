@@ -1,0 +1,34 @@
+Use Case: libunistring is an internationalized application as it provides functions for manipulating Unicode strings and for manipulating C strings according to the Unicode standard.
+
+Code details and examples:
+
+Code:
+
+For instance, you may want to capitalize the first character of a string. Here's how to do it:
+
+```c
+#include <unistr.h> 
+#include <unicase.h>
+#include <locale.h>
+
+int main () {
+
+    uint8_t input[] = "hello, world!"; 
+    uint8_t output[256]; 
+    size_t length; 
+    u8_toupper (input, u8_strlen (input), NULL, NULL, output, &length); 
+    output[length] = '\0';
+
+    printf("%s\n", output); 
+
+    return 0; 
+}
+```
+
+This program uses the `u8_toupper` function to convert the string to uppercase and print the result. The command to run this program: `gcc -o my_program my_program.c -lunistring`, then `./my_program`.
+
+Also note, this library is written in C and uses GNU's libtool, which will give a .la file, however, you can also get a .so file by building this library with --disable-static and --enable-shared while running `./configure`.
+
+You can manipulate strings in more ways, such as, finding length, converting entire string to uppercase or lowercase, comparing strings etc. 
+
+The input format would be a uint8_t array and if result is to be stored that is also a uint8_t array. We also have to provide length of string either with precalculated length or using inbuilt library function to calculate length. There are no specific specifications apart from the fact that the library works with Unicode strings. Because of this, it can support a much wider range of characters than ASCII or UTF-8 alone.

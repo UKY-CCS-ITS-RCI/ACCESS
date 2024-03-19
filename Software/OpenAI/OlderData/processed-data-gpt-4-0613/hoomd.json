@@ -1,0 +1,10 @@
+{
+  "softwareName": "HOOMD-blue",
+  "links": {
+    "softwarePage": "https://glotzerlab.engin.umich.edu/hoomd-blue/",
+    "documentation": "https://hoomd-blue.readthedocs.io/en/stable/",
+    "officialTutorial": "https://hoomd-blue.readthedocs.io/en/stable/tutorial/",
+    "tutorial1": "https://www.youtube.com/watch?v=rLrynsAd8BA",
+    "tutorial2": "https://scipython.com/blog/simulating-a-diffusion-limited-aggregation-cluster-with-hoomd-blue/"
+  }
+}

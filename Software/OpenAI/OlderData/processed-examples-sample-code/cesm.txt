@@ -1,0 +1,15 @@
+Use Case: Climate and global weather simulation using CESM (Community Earth System Model)
+Code details and examples:
+CESM is a fully-coupled, community-based Earth system model that simulates the Earth's climate system. It consists of multiple components including atmosphere, land, ocean, and sea ice models.
+
+Sample input files:
+1. namelist.input (for configuring model parameters)
+2. cesm.user_nl (user-specific model configurations)
+
+Sample code snippet:
+```bash
+./cesm.exe
+```
+
+Command to run CESM:
+The command to run CESM can vary depending on the specific setup and configurations. Typically, users need to set up the model, compile it, and then run it using the appropriate executable and input files. Refer to the CESM documentation for detailed instructions on running the model.

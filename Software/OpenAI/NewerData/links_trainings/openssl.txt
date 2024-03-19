@@ -1,0 +1,20 @@
+{
+  "openssl": {
+    "softwarePage": "https://www.openssl.org/",
+    "documentation": "https://www.openssl.org/docs/",
+    "tutorialMaterials": [
+      {
+        "name": "Tutorialspoint",
+        "url": "https://www.tutorialspoint.com/openssl/index.htm"
+      },
+      {
+        "name": "HowtoForge",
+        "url": "https://www.howtoforge.com/tutorial/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs/"
+      },
+      {
+        "name": "DigitalOcean",
+        "url": "https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs"
+      }
+    ]
+  }
+}

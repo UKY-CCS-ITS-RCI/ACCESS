@@ -1,0 +1,11 @@
+{
+  "CellRank-Krylov": {
+    "SoftwarePage": "https://github.com/cellrank/cellrank_krylov",
+    "AdditionalLinks": {
+      "Documentation": "https://cellrank.readthedocs.io/en/latest/",
+      "Tutorial1": "https://cellrank-tutorials.readthedocs.io/en/latest/tutorials_kernels/KPI.html",
+      "Tutorial2": "https://cellrank-tutorials.readthedocs.io/en/latest/tutorials_kernels/TR.html",
+      "TrainingMaterials": "https://cellrank.readthedocs.io/en/latest/tutorials.html"
+    }
+  }
+}

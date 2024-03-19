@@ -1,0 +1,36 @@
+Use Case: Use of NCBI tools for retrieving and analyzing molecular biology data. An example of such a tool is BLAST (Basic Local Alignment Search Tool), a bioinformatics software utility to find regions of local similarity between sequences.
+
+Code details and Examples: Code
+
+1. Sample Input File: FASTA formatted sequence
+
+```
+>sample
+AGTCTGGTCTGCACTCTGGCGGGTGTTGCAGTGGGCCAGGAGTGCTGTCTCCAGGGTGTCAGTCTTCTTTTCTCCATGG
+```
+
+2. Command to run BLAST:
+
+You can run the `blastn` command with the `-query` parameter to specify the input file and the `-db` parameter to specify the database against which to run the search.
+
+```
+blastn -query input.fasta -db nr -out output.txt
+```
+
+3. Output:
+
+The result is a file "output.txt" with identified local sequence similarities.
+
+4. Code Snippet:
+
+There isn't a specific code snippet for running a blast query as it's usually executed as a command-line tool. You run the command in the terminal, wait for it to execute, and review the output.
+
+5. File Format:
+
+The input file should be a text file in FASTA format. The sequence should start with a '>' symbol followed by an identifier, and the second line should be the sequence information.
+
+The output file is a text file containing the search results.
+
+6. Specifications and details in input files:
+
+The input file consists of the sequence id succeeded by the sequence itself. The '>' symbol indicates the start of a new sequence. There should be no spaces in the sequence, and it should be in uppercase. It is also essential to ensure that only valid DNA bases (A, T, C, G) or RNA bases (A, U, C, G) are present in the sequence.

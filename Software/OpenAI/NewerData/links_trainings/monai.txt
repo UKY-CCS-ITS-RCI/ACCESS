@@ -1,0 +1,27 @@
+{
+  "SoftwareName": "MONAI",
+  "SoftwarePage": "https://monai.io/",
+  "Documentation": "https://docs.monai.io/en/latest/",
+  "TrainingAndTutorialMaterials": [
+    {
+      "Name": "MONAI GitHub README",
+      "URL": "https://github.com/Project-MONAI/MONAI"
+    },
+    {
+      "Name": "MONAI Tutorials Repository",
+      "URL": "https://github.com/Project-MONAI/tutorials"
+    },
+    {
+      "Name": "3D segmentation with MONAI",
+      "URL": "https://learnopencv.com/3d-segmentation-with-monai/"
+    },
+    {
+      "Name": "MONAI Bootcamp Youtube Playlist",
+      "URL": "https://www.youtube.com/playlist?list=PLC0LSREjZysH49D8RMXn9vvaQIhWqamZK"
+    },
+    {
+      "Name": "Writing Custom MONAI Transforms Tutorial",
+      "URL": "https://colab.research.google.com/github/Project-MONAI/tutorials/blob/master/2d_classification/transforms_demo.ipynb"
+    }
+  ]
+}

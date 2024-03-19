@@ -1,0 +1,11 @@
+{
+    "qgis": {
+        "software_page": "https://www.qgis.org/en/site/",
+        "documentation": "https://docs.qgis.org/3.16/en/docs/",
+        "tutorials_and_training_material": [
+            "https://www.qgistutorials.com/en/",
+            "https://learn.netlify.app/en/qgis/",
+            "https://www.udemy.com/topic/qgis/"
+        ]
+    }
+}

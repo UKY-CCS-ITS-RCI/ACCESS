@@ -1,0 +1,12 @@
+{
+  "name": "dal",
+  "official_site": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html#dataanalytics",
+  "documentation_links": [
+    "https://software.intel.com/content/www/us/en/develop/documentation/onemkl-linux-developer-guide/top/data-analytics-functionality.html",
+    "https://software.intel.com/content/www/us/en/develop/documentation/onemkl-linux-developer-guide/top/data-analytics-functionality/data-analytics-accelerator-dal.html"
+  ],
+  "tutorial_materials": [
+    "https://hpc.systems.gsu.edu/documentation/intel-dal/",
+    "https://sccn.ucsd.edu/~jung/INTRODUCTION%20TO%20DISTANCE%20DATA%20ANALYSIS.pdf"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "Software": "MemoryViewer",
+  "Website": "https://software.broadinstitute.org/cancer/software/genepattern/modules/docs/MemoryViewer/1",
+  "Documentation": "https://software.broadinstitute.org/cancer/software/genepattern/programming-guide#_Backed_up_Memory_Viewer_Logs",
+  "Tutorials": [
+    "https://gpnotebook.readthedocs.io/en/latest/memoryviewer.html",
+    "https://gatk.broadinstitute.org/hc/en-us/articles/360036897372-Memory-and-Object-Viewer"
+  ]
+}

@@ -1,0 +1,56 @@
+[
+    {
+        "software": "Anaconda",
+        "software_link": "https://www.anaconda.com/",
+        "documentation": "https://docs.anaconda.com/",
+        "training_materials": ["https://docs.anaconda.com/anaconda-tutorials/"]
+    },
+    {
+        "software": "GCC",
+        "software_link": "https://gcc.gnu.org/",
+        "documentation": "https://gcc.gnu.org/onlinedocs/",
+        "training_materials": ["https://developer.ibm.com/tutorials/l-gcc/"]
+    },
+    {
+        "software": "Jupyter Notebook",
+        "software_link": "https://jupyter.org/",
+        "documentation": "https://jupyter-notebook.readthedocs.io/en/stable/",
+        "training_materials": ["https://www.codecademy.com/resources/blog/jupyter-notebook-tutorial/"]
+    },
+    {
+        "software": "Pandas",
+        "software_link": "https://pandas.pydata.org/",
+        "documentation": "https://pandas.pydata.org/docs/",
+        "training_materials": ["https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html"]
+    },
+    {
+        "software": "ChEMBL",
+        "software_link": "https://www.ebi.ac.uk/chembl/",
+        "documentation": "https://chembl.gitbook.io/chembl-interface-documentation/",
+        "training_materials": ["https://www.ebi.ac.uk/training/online/course/chembl-database-drug-discovery/"]
+    },
+    {
+        "software": "Slurm Workload Manager",
+        "software_link": "https://slurm.schedmd.com/",
+        "documentation": "https://slurm.schedmd.com/documentation.html",
+        "training_materials": ["https://slurm.schedmd.com/tutorials.html"]
+    },
+    {
+        "software": "Tensorflow",
+        "software_link": "https://www.tensorflow.org/",
+        "documentation": "https://www.tensorflow.org/guide/",
+        "training_materials": ["https://developers.google.com/machine-learning/crash-course/"]
+    },
+    {
+        "software": "Docker",
+        "software_link": "https://www.docker.com/",
+        "documentation": "https://docs.docker.com/",
+        "training_materials": ["https://www.docker.com/what-docker"]
+    },
+    {
+        "software": "NumPy",
+        "software_link": "https://numpy.org/",
+        "documentation": "https://numpy.org/doc/",
+        "training_materials": ["https://numpy.org/doc/stable/user/absolute_beginners.html"]
+    }
+]

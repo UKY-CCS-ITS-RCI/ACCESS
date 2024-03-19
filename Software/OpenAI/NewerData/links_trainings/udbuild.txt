@@ -1,0 +1,6 @@
+{
+  "software_name": "udbuild",
+  "software_link": "https://github.com/sio/udbuild",
+  "documentation_link": "https://github.com/sio/udbuild#readme",
+  "training_materials": []
+}

@@ -1,0 +1,13 @@
+{
+  "Software": "instrain",
+  "Link": "https://github.com/MrOlm/inStrain",
+  "Documentation": "https://instrain.readthedocs.io/en/latest/",
+  "Tutorials and Trainings": [
+    {
+      "Tutorial 1": "https://instrain.readthedocs.io/en/latest/usage.html",
+      "Training 1": "https://www.youtube.com/watch?v=qGA65Vnrn18",
+      "Training 2": "https://www.youtube.com/watch?v=QMsUzOO-s0I",
+      "Training 3": "https://www.youtube.com/watch?v=l36wS-Moev8"
+    }
+  ]
+}

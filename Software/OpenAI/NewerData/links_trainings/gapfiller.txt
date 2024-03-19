@@ -1,0 +1,9 @@
+{
+  "Software": "GapFiller",
+  "WebURL": "https://www.baseclear.com/genomics/bioinformatics/basetools/gapfiller",
+  "Documentation": "https://www.baseclear.com/wp-content/uploads/2020/09/1.10-User-manual-of-the-GapFiller-software.pdf",
+  "Training_Materials": [
+    "https://www.slideshare.net/tanay396/gapfiller",
+    "https://www.protocol-online.org/forums/topic/36716-please-any-gapfiller-document/"
+  ]
+}

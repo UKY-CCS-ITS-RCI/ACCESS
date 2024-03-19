@@ -1,0 +1,19 @@
+{
+  "software": 
+  {
+    "name": "dsuite", 
+    "software_homepage": "https://github.com/millanek/Dsuite", 
+    "documentation": "https://github.com/millanek/Dsuite/blob/master/USAGE.md", 
+    "tutorials_and_training": 
+    [
+      {
+        "name": "Dsuite Tutorial 1",
+        "url": "https://denigma.de/ipfs/Qmb2UAmRJw2AbMcqF7ThxvHnG3NnMtAo1Pr99zpAKMQr6u"
+      },
+      {
+        "name": "Dsuite Tutorial 2",
+        "url": "https://popgen.dk/software/index.php?title=Dsuite_tutorial"
+      }
+    ]
+  }
+}

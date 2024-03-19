@@ -1,0 +1,41 @@
+Use Case: Git is a widely-used version control system. It tracks changes to a set of files, allowing multiple persons to work on them independently.
+
+Code details and examples: Code:
+
+1. Creating a new repository
+
+First, you create a new directory, navigate to it and run the git init command to set up a new repository.
+
+```
+mkdir my-git-project
+cd my-git-project
+git init
+```
+
+2. Adding Files to the Repository
+
+After creating some files in your project, you can add them to the git repository using the git add command.
+
+```
+echo "Hello Git" > hello.txt
+git add hello.txt
+```
+
+3. Committing Changes to Repository
+
+To save your changes into the repository, you run the git commit command.
+
+```
+git commit -m "First commit"
+```
+
+4. Pushing Changes to a Remote Server
+
+If you want to push your changes to a remote server, you need to add the URL of the remote repository with the git remote command, then push using the git push command.
+
+```
+git remote add origin https://github.com/user/repo.git
+git push -u origin master
+```
+
+In this case, the input is either a file or a command, depending on the operation. The git commands are run on the terminal. You can also access the help section of any git command by typing "git help <command>" into the terminal.

@@ -1,0 +1,12 @@
+{
+  "Software Name": "Qhull",
+  "links": {
+    "software page": "http://www.qhull.org/",
+    "documentation": "http://www.qhull.org/html/qh-faq.htm",
+    "tutorials": [
+      "https://www-s.acm.illinois.edu/sigarch/projects/ugResearch/fal16/MeshGenerators/MeshGenerators_Report.html",
+      "https://github.com/qhull/qhull/wiki",
+      "https://stackoverflow.com/questions/tagged/qhull"
+    ]
+  }
+}

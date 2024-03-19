@@ -1,0 +1,21 @@
+```
+{
+  "Software": "oclfpga",
+  "Website": "https://www.intel.com/content/www/us/en/software/programmable/opencl-sdk.html",
+  "Documentation": "https://www.intel.com/content/www/us/en/software/programmable/opencl-sdk-documentation.html",
+  "Tutorials": [
+    {
+      "link": "https://www.youtube.com/watch?v=g5YgWi8B_gA",
+      "name": "Introduction to FPGA Programming with OpenCL"
+    },
+    {
+      "link": "https://www.coursera.org/lecture/intel-fpga-iot-program/opencl-overview-W6a5a",
+      "name": "Coursera: OpenCL Overview"
+    },
+    {
+      "link": "https://people.hofstra.edu/Alan_A_Dlugash/Eng135_235u_Pages/Eng135_235_ARM_SOC/OpenCL/OpenCL_Tutorial_Introduction-1.pdf",
+      "name": "PDF Tutorial: Introduction to OpenCL"
+    }
+  ]
+}
+```

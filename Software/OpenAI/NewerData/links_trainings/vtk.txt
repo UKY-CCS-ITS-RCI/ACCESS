@@ -1,0 +1,15 @@
+{
+  "Software": "VTK",
+  "URL": "https://vtk.org/",
+  "Resources": {
+    "Documentation": "https://vtk.org/doc/nightly/html/",
+    "Tutorials": [
+      "https://kitware.github.io/vtk-examples/site/",
+      "https://lorensen.github.io/VTKExamples/site/"
+    ],
+    "Books and Training Materials": [
+      "https://vtk.org/vtk-textbook/",
+      "https://www.kitware.com/products/books.html"
+    ]
+  }
+}

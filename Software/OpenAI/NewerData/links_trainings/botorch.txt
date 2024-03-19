@@ -1,0 +1,14 @@
+{
+  "software": {
+    "name": "botorch",
+    "url": "https://botorch.org/",
+    "documentation": {
+      "url1": "https://botorch.org/docs/introduction"
+    },
+    "training_materials": {
+      "url2": "https://botorch.org/tutorials",
+      "url3": "https://github.com/pytorch/botorch",
+      "url4": "https://pytorch.org/tutorials/beginner/botorch_intro.html"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Software": "AOCL",
+  "Website": "https://developer.amd.com/amd-aocl/",
+  "Documentation": "https://developer.amd.com/resources/developer-guides-manuals/",
+  "Tutorials and Training material": [
+    {
+      "Title": "AOCL User Guide",
+      "Link": "https://developer.amd.com/wp-content/resources/56768_3-1PDF.pdf"
+    },
+    {
+      "Title": "Getting started with AOCL",
+      "Link": "https://developer.amd.com/amd-aocl/"
+    },
+    {
+      "Title": "AOCL Installation Guide",
+      "Link": "https://developer.amd.com/wp-content/resources/55047.PDF"
+    }
+  ]
+}

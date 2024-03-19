@@ -1,0 +1,28 @@
+{
+  "software": "lvm2",
+  "software_url": "https://sourceware.org/lvm2/",
+  "documentation": [
+    {
+      "name": "Man page for lvm2",
+      "url": "https://man7.org/linux/man-pages/man8/lvm.8.html"
+    },
+    {
+      "name": "Red Hat Documentation for lvm2",
+      "url": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/logical_volume_manager_administration/index"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "Tutorial on Linux LVM",
+      "url": "https://www.howtoforge.com/linux_lvm"
+    },
+    {
+      "name": "How To Use LVM (Logical Volume Management) In Linux",
+      "url": "https://www.tecmint.com/useful-linux-lvm-commands-for-lvm-disk-management/"
+    },
+    {
+      "name": "LINUX: LVM (LOGICAL VOLUME MANAGEMENT) COMPLETE TUTORIAL",
+      "url": "https://www.golinuxcloud.com/lvm-tutorial-linux-beginners/"
+    }
+  ]
+}

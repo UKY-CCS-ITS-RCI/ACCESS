@@ -1,0 +1,31 @@
+Use Case: Cutadapt finds and removes adapter sequences, primers, poly-A tails and other types of unwanted sequence from your high-throughput sequencing reads.
+
+Code Details and Examples: 
+
+Code #1:
+
+Input file:
+FASTQ file with sequencing reads
+
+Example:
+@SEQ_ID
+GATTTGGGGTTCAAAGCAGTATCGATCAAATAGTAAATCCATTTGTTCAACTCACAGTTT
++
+!''*((((***+))%%%++)(%%%%).1***-+*''))**55CCF>>>>>>CCCCCCC65
+
+Command to run Cutadapt:
+cutadapt -a ADAPTER_SEQUENCE -o output.fastq input.fastq
+
+ADAPTER_SEQUENCE in the command must be replaced with the actual adapter sequence. 'input.fastq' is the raw data file, 'output.fastq' is the name of the file that will be created with trimmed sequences.
+
+Code #2:
+
+Another use case of Cutadapt is to remove sequences from the ends of reads. This is useful when the quality of the bases decreases towards the end of the reads.
+
+Input file:
+FASTQ file with sequencing reads
+
+Command to run Cutadapt:
+cutadapt -u 5 -u -3 -o output.fastq input.fastq
+
+In this command, '-u 5' removes bases from the beginning (5' end) of each read and '-u -3' removes bases from the end (3' end). The numbers following '-u' can be adjusted according to the number of bases to be removed.

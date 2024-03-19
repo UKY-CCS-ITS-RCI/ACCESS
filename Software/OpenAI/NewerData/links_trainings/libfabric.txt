@@ -1,0 +1,21 @@
+{
+  "Software": "libfabric",
+  "Webpage": "https://ofiwg.github.io/libfabric/",
+  "Links": {
+    "Documentation": "https://ofiwg.github.io/libfabric/v1.9.0/man/index.html",
+    "Tutorials and Training Materials": [
+      {
+        "TutorialName": "Intel Omni-path Libfabric Programming",
+        "TutorialLink": "https://software.intel.com/content/www/us/en/develop/articles/intel-omni-path-libfabric-programming.html"
+      },
+      {
+        "TutorialName": "Getting started with Libfabric",
+        "TutorialLink": "https://readthedocs.org/projects/libfabric/downloads/pdf/latest/"
+      },
+      {
+        "TutorialName": "Preparing for Exascale: Overview of Programming Models and Fabrics",
+        "TutorialLink": "https://www.ixpug.org/events/ixpug-2015-kaust/231-07-jithin-jose-pdf/file"
+      }
+    ]
+  }
+}

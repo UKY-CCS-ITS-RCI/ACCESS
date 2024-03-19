@@ -1,0 +1,24 @@
+{
+  "name": "funannotate",
+  "softwarePage": {
+    "url": "https://funannotate.readthedocs.io/en/latest/"
+  },
+  "additionalLinks": [
+    {
+      "title": "Documentation",
+      "url": "https://funannotate.readthedocs.io/en/latest/guide/overview.html"
+    },
+    {
+      "title": "Source Code",
+      "url": "https://github.com/nextgenusfs/funannotate"
+    },
+    {
+      "title": "Bioinformatics Training",
+      "url": "https://bioinformaticsworkbook.org/Appendix/Annotation/Funannotate.html#gsc.tab=0"
+    },
+    {
+      "title": "Tutorials",
+      "url": "https://funannotate.readthedocs.io/en/latest/tutorials.html"
+    }
+  ]
+}

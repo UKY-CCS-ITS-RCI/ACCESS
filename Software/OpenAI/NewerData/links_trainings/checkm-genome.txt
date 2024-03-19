@@ -1,0 +1,10 @@
+{
+  "Software": "checkm-genome",
+  "Software_homepage": "https://github.com/Ecogenomics/CheckM",
+  "Documentation": "https://github.com/Ecogenomics/CheckM/wiki",
+  "Tutorials": [
+    "https://github.com/Ecogenomics/CheckM/wiki/Workflows",
+    "https://github.com/Ecogenomics/CheckM/wiki/Installation#testing-checkm",
+    "https://ecogenomics.github.io/CheckM/"
+  ]
+}

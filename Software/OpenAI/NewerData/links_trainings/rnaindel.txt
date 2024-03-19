@@ -1,0 +1,13 @@
+{
+  "software_name": "rnaindel",
+  "software_URL": "https://github.com/stjude/rnaindel",
+  "documentation_URL": "https://github.com/stjude/rnaindel#readme",
+  "training_materials": [
+    {
+      "training_URL1": "https://academic.oup.com/bioinformatics/article/35/14/i50/5529147",
+      "tutorial_URL1": "https://www.biorxiv.org/content/10.1101/418889v2",
+      "tutorial_URL2": "https://pubmed.ncbi.nlm.nih.gov/30517727/",
+      "tutorial_URL3": "https://www.protocols.io/view/analyzing-rna-seq-data-using-rnaindel-bhdpjx9n"
+    }
+  ]
+}

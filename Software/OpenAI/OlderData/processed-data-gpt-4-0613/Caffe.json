@@ -1,0 +1,26 @@
+{
+  "Software": {
+    "Name": "Caffe",
+    "Link": "https://your-caffe-link.com",
+    "Documentation": [
+      {
+        "Name": "User Guide",
+        "Link": "https://your-caffe-doc-link.com/userguide"
+      },
+      {
+        "Name": "API Reference",
+        "Link": "https://your-caffe-doc-link.com/api"
+      }
+    ],
+    "Training": [
+      {
+        "Name": "Beginner Tutorial",
+        "Link": "https://your-caffe-training-link.com/beginner"
+      },
+      {
+        "Name": "Advanced Tutorial",
+        "Link": "https://your-caffe-training-link.com/advanced"
+      }
+    ]
+  }
+}

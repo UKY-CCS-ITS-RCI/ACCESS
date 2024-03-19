@@ -1,0 +1,18 @@
+{
+	"Software_info": {
+		"Name": "tensorboardX",
+		"Website": "https://tensorboardx.readthedocs.io/en/latest/",
+		"Documentation": "https://tensorboardx.readthedocs.io/en/latest/tutorial.html",
+		"Training_and_tutorial_materials": [
+			{
+				"Python API Tutorial": "https://tensorboardx.readthedocs.io/en/latest/tutorial.html"
+			},
+			{
+				"Creating a visualization using TensorBoard": "https://www.youtube.com/watch?v=5jJ6QExqBc8"
+			},
+			{
+				"Introduction to TensorboardX - BERT Text Classification": "https://www.youtube.com/watch?v=wBsIVOUuavs"
+			}
+		]
+	}
+}

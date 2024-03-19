@@ -1,0 +1,34 @@
+{
+  "software_name": "StarPU",
+  "official_website": "http://starpu.gforge.inria.fr/",
+  "documentation": [
+    {
+      "name": "StarPU Handbook",
+      "link": "http://starpu.gforge.inria.fr/doc/"
+    },
+    {
+      "name": "StarPU API Documentation",
+      "link": "http://starpu.gforge.inria.fr/doc/html/"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "StarPU Tutorials GIT",
+      "link": "https://gitlab.inria.fr/starpu/starpu/-/tree/master/examples/"
+    },
+    {
+      "name": "StarPU Hands-on Tutorial",
+      "link": "https://indico.cern.ch/event/395113/contributions/1829027/attachments/1141038/1629450/starpu-intro.pdf"
+    }
+  ],
+  "training_materials": [
+    {
+      "name": "StarPU performance modeling",
+      "link": "https://hal.inria.fr/hal-00911191/en"
+    },
+    {
+      "name": "Task scheduling for Multi-Core machines",
+      "link": "https://hal.inria.fr/tel-00487030/en/"
+    }
+  ]
+}

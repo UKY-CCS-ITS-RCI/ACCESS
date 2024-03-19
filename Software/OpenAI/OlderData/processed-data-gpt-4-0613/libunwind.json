@@ -1,0 +1,9 @@
+{
+    "software": "Libunwind",
+    "resources": {
+        "softwareHomepage": "https://www.nongnu.org/libunwind/",
+        "documentation": "https://www.nongnu.org/libunwind/docs.html",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

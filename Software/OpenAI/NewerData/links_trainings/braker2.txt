@@ -1,0 +1,12 @@
+{
+  "software_name": "braker2",
+  "software_page": "https://github.com/Gaius-Augustus/BRAKER",
+  "documentation": {
+    "github_wiki": "https://github.com/Gaius-Augustus/BRAKER/wiki",
+    "manual": "https://github.com/Gaius-Augustus/BRAKER/blob/master/docs/Manual.md"
+  },
+  "training_materials": {
+    "tutorial_braqseq": "https://wiki.gacrc.uga.edu/wiki/Braker",
+    "example_usage": "https://useast.ensembl.org/info/docs/tools/vep/script/vep_example.html#ex8"
+  }
+}

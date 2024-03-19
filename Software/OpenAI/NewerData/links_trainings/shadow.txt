@@ -1,0 +1,19 @@
+{
+  "software_name": "Shadow",
+  "software_url": "https://www.ssrl.slac.stanford.edu/content/scientific-software/shadow3",
+  "documentation_link": "https://github.com/oasys-kit/shadow3/tree/master/docs",
+  "training_materials": [
+    {
+    "name": "OASYS Workshop: Introduction to SHADOW3",
+    "url": "https://www.youtube.com/watch?v=Bzl5I1CWXe0"
+    },
+    {
+    "name": "OASYS-Shadow workshop",
+    "url": "https://www.esrf.eu/home/events/conferences/past-conferences/2018/oasys-users-and-developers-workshop/OASYS-Developers-Workshop-2018/complete-program.html#shadow"
+    },
+    {
+    "name": "Synchrotron Radiation Workshop",
+    "url": "https://www.esrf.eu/home/events/conferences/past-conferences/2018/oasys-users-and-developers-workshop/OASYS-Developers-Workshop-2018/complete-program.html#shadow"
+    }
+  ]
+}

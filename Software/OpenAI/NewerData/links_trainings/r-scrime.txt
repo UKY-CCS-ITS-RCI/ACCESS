@@ -1,0 +1,17 @@
+{
+  "software": "r-scrime",
+  "software_URL": "https://bioconductor.org/packages/release/bioc/html/SCRIME.html",
+  "documentation": [
+    {
+      "documentation_URL": "https://www.bioconductor.org/packages/release/bioc/vignettes/SCRIME/inst/doc/SCRIME.pdf"
+    }
+  ],
+  "training_materials": [
+    {
+      "tutorial1_URL": "https://bioconductor.org/help/course-materials/2020/CSAMA2020/practicals/rnaseq/batch-effect-anaconda.html"
+    },
+    {
+      "tutorial2_URL": "https://bioconductor.org/packages/devel/bioc/vignettes/SCRIME/inst/doc/SCRIME.pdf"
+    }
+  ]
+}

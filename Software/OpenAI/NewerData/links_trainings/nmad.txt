@@ -1,0 +1,7 @@
+{
+  "nmad": {
+    "Software_page": "https://projets.onera.fr/nmad/",
+    "Documentation": "https://projets.onera.fr/nmad/doxygen/",
+    "Training & Tutorial": []
+  }
+}

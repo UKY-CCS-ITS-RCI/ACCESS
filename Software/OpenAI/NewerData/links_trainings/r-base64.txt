@@ -1,0 +1,25 @@
+{
+  "software": "r-base64",
+  "information": [
+    {
+      "name": "Software Homepage",
+      "link": "https://cran.r-project.org/web/packages/base64/"
+    }, 
+    {
+      "name": "Documentation",
+      "link": "https://cran.r-project.org/web/packages/base64/base64.pdf"
+    },
+    {
+      "name": "R-Bloggers Tutorial",
+      "link": "https://www.r-bloggers.com/2013/11/how-to-base64-encode-and-decode-in-r/"
+    }, 
+    {
+      "name": "Quick-R Tutorial",
+      "link": "https://www.statmethods.net/input/functions.html"
+    }, 
+    {
+      "name": "R Data Import/Export Guide",
+      "link": "https://cran.r-project.org/doc/manuals/r-release/R-data.html"
+    }
+  ]
+}

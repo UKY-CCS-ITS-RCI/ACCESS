@@ -1,0 +1,78 @@
+Use Case: Hiredis is a minimalistic C client library for the Redis database. It is used for parsing Redis protocol messages from a stream. 
+
+Code details and examples:
+
+Code:
+
+Header File
+```c
+#include "hiredis.h"
+```
+Connecting to Redis
+```c
+redisContext *c;
+redisReply *reply;
+c = redisConnect("127.0.0.1", 6379);
+```
+
+Commands(Array):
+```c
+reply = redisCommand(c,"SET %s %s", "foo", "hello world");
+freeReplyObject(reply);
+reply = redisCommand(c,"GET %s", "foo");
+```
+Freeing the memory by freeing reply
+```c
+freeReplyObject(reply);
+```
+
+Shutdown Hiredis:
+```c
+redisFree(c);
+```
+
+The format required for input is a C file with correct Hiredis C API syntax and pretend to compile it with gcc. You can write these codes in a .c file and can compile it with a 'gcc' command in the UNIX terminal.
+
+Sample input file would look like:
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "hiredis.h"
+
+int main() {
+    unsigned int j;
+    redisContext *c;
+    redisReply *reply;
+    const char *hostname = "127.0.0.1";
+    int port = 6379;
+
+    struct timeval timeout = { 1, 500000 }; // 1.5 seconds
+    c = redisConnectWithTimeout(hostname, port, timeout);
+    if (c->err) {
+        printf("Connection error: %s\n", c->errstr);
+        exit(1);
+    }
+
+    reply = redisCommand(c,"SET %s %s", "foo", "hello world");
+    printf("SET: %s\n", reply->str);
+    freeReplyObject(reply);
+
+    reply = redisCommand(c,"GET %s", "foo");
+    printf("GET foo: %s\n", reply->str);
+    freeReplyObject(reply);
+
+    redisFree(c);
+
+    return 0;
+}
+```
+
+Command to run Hiredis for the above example:
+```bash
+gcc -o redisTest redisTest.c -lhiredis
+./redisTest
+``` 
+
+This will set a key in redis and then get the value of that key.

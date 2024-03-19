@@ -1,0 +1,27 @@
+{
+  "Software": "Postgresql",
+  "Details": [
+    {
+      "SoftwarePage": {
+        "Link": "https://www.postgresql.org/"
+      },
+      "Documentation": {
+        "Link": "https://www.postgresql.org/docs/"
+      },
+      "TrainingAndTutorialMaterials": [
+        {
+          "Link": "https://www.postgresqltutorial.com/",
+          "Description": "PostgreSQL Tutorial"
+        },
+        {
+          "Link": "https://www.tutorialspoint.com/postgresql/index.htm",
+          "Description": "PostgreSQL - Tutorialspoint"
+        },
+        {
+          "Link": "https://www.w3resource.com/postgresql/postgresql-tutorials.php",
+          "Description": "PostgreSQL Tutorials - w3resource"
+        }
+      ]
+    }
+  ]
+}

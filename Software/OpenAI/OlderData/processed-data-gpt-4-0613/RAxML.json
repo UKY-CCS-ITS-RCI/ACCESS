@@ -1,0 +1,12 @@
+{
+  "Software Name": "RAxML",
+  "links": {
+    "software page": "https://cme.h-its.org/exelixis/web/software/raxml/",
+    "documentation": "https://cme.h-its.org/exelixis/resource/download/NewManual.pdf",
+    "tutorials": [
+      "https://evomicsorg.github.io/phylogenomics/raxml.html",
+      "https://www.youtube.com/watch?v=kuT1hgANcXA",
+      "https://bioinformaticsworkbook.org/Appendix/Phylogenetics/RAxML/raxmlCommands.html#gsc.tab=0"
+    ]
+  }
+}

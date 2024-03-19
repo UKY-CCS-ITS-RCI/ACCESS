@@ -1,0 +1,13 @@
+{
+  "plink2": {
+    "software_page": "https://www.cog-genomics.org/plink/2.0/",
+    "documentation": "https://www.cog-genomics.org/plink/2.0/general_usage",
+    "tutorials_and_training_materials": [
+      "https://www.cog-genomics.org/plink/2.0/basic_usage",
+      "https://www.cog-genomics.org/plink/2.0/data",
+      "https://www.youtube.com/watch?v=10GQj3NR6_A",
+      "https://davetang.org/muse/2016/07/08/learning-about-plink/",
+      "https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/RNAseq/Session7/"
+    ]
+  }
+}

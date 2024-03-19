@@ -1,0 +1,24 @@
+{
+  "Software_name": "r-assertthat",
+  "URL": "https://CRAN.R-project.org/package=assertthat",
+  "Documentation": [
+    {
+      "Description": "CRAN - Package assertthat",
+      "link": "https://cran.r-project.org/web/packages/assertthat/assertthat.pdf"
+    }
+  ],
+  "Tutorial_and_Training": [
+    {
+      "Description": "Basic examples of using assertthat library in R",
+      "link": "https://rdrr.io/cran/assertthat/man/assertthat-package.html"
+    },
+    {
+      "Description": "A Quick guide to R’s assertthat package",
+      "link": "https://blog.sellorm.com/2017/12/20/a-quick-guide-to-r-s-assertthat/"
+    },
+    {
+      "Description": "R package assertthat - Examples",
+      "link": "https://www.programcreek.com/r-programming-examples/?api=assertthat"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "OpenSceneGraph",
+  "SoftwareURL": "http://www.openscenegraph.org/",
+  "DocumentationURL": "http://www.openscenegraph.org/index.php/documentation",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://learnopengl.com/Introduction",
+    "Tutorial_2_URL": "https://trac.openscenegraph.org/documentation/OpenSceneGraphReferenceDocs/"
+  }
+}

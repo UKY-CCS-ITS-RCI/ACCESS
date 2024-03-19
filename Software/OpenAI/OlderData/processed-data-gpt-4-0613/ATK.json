@@ -1,0 +1,19 @@
+{
+  "Software": "ATK",
+  "Website": "https://developer.gnome.org/atk/",
+  "Documentation": "https://developer.gnome.org/atk/stable/",
+  "Tutorials and Training material": [
+    {
+      "Title": "GTK Programming/ATK",
+      "Link": "https://en.wikibooks.org/wiki/GTK_Programming/ATK"
+    },
+    {
+      "Title": "The Accessibility Toolkit",
+      "Link": "https://github.com/GNOME/atk"
+    },
+    {
+      "Title": "ATK Tutorial",
+      "Link": "https://developer.gnome.org/accessibility-devel-guide/nightly/gad-how-it-works.html.en"
+    }
+  ]
+}

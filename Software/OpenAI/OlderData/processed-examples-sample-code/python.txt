@@ -1,0 +1,7 @@
+Use Case: Python programming language
+Code details and examples:
+```python
+# Sample Python code
+print("Hello, World!")
+```
+To run the Python code, you can save it in a file (e.g., `hello.py`) and run it using the command `python hello.py`.

@@ -1,0 +1,28 @@
+{
+  "SoftwareName": "pyGenomeTracks",
+  "SoftwareLink": "https://github.com/deeptools/pyGenomeTracks",
+  "Documentation": [
+    {
+      "Title": "ReadTheDocs Documentation",
+      "Link": "https://pygenometracks.readthedocs.io/en/latest/"
+    },
+    {
+      "Title": "Github User Manual",
+      "Link": "https://github.com/deeptools/pyGenomeTracks/blob/master/README.md"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Title": "pyGenomeTracks Tutorial",
+      "Link": "https://pygenometracks.readthedocs.io/en/latest/content/example.html"
+    },
+    {
+      "Title": "Hands-on Tutorial at Galactic",
+      "Link": "https://galaxyproject.github.io/training-material/topics/visualisation/tutorials/jbrowse/tutorial.html"
+    },
+    {
+      "Title": "Creating Genome Browser Tracks",
+      "Link": "https://github.com/bgruening/training-material/blob/main/topics/visualisation/tutorials/jbrowse/tutorial.md"
+    }
+  ]
+}

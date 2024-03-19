@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "muscle",
+    "software_url": "https://www.drive5.com/muscle/",
+    "documentation_url": "https://www.drive5.com/muscle/manual/",
+    "training_materials": {
+      "tutorial1": {
+        "name": "MUSCLE Alignment Tutorial",
+        "url": "http://www.drive5.com/usearch/manual/muscle_tutorial.html"
+      },
+      "tutorial2": {
+        "name": "Multiple sequence alignment with MUSCLE",
+        "url": "https://bioinformatics-core-shared-training.github.io/cruk-bioinf-sschool/Day1/Sequence_alignment_tutorial.html"
+      },
+      "video_tutorial": {
+        "name": "Tutorial Video of Muscle Alignment",
+        "url": "https://www.youtube.com/watch?v=biN0oXVA1Ug"
+      }
+    }
+  }
+}

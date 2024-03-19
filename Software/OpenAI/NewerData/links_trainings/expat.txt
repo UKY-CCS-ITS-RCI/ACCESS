@@ -1,0 +1,19 @@
+{
+  "Software Name": "expat",
+  "Software URL": "https://libexpat.github.io/",
+  "Documentation":
+  [
+    {
+      "URL": "https://libexpat.github.io/doc/"
+    }
+  ],
+  "Tutorials":
+  [
+    {
+      "URL": "https://www.xml.com/pub/a/1999/09/expat/index.html"
+    },
+    {
+      "URL": "https://www.xml.com/pub/a/1999/09/expat/reference.html"
+    }
+  ]
+}

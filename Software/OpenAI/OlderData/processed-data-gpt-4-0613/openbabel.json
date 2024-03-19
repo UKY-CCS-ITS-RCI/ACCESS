@@ -1,0 +1,28 @@
+{
+  "software": "Open Babel",
+  "website": "http://openbabel.org/wiki/Main_Page",
+  "documentation": [
+    {
+      "title": "Open Babel Documentation",
+      "url": "http://openbabel.org/docs/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Open Babel Tutorial",
+      "url": "http://openbabel.org/wiki/Tutorial"
+    },
+    {
+      "title": "Open Babel User Documentation",
+      "url": "http://openbabel.org/wiki/Category:User"
+    },
+    {
+      "title": "Open Babel Developers' Guide",
+      "url": "http://openbabel.org/wiki/Developers"
+    },
+    {
+      "title": "Python Tutorial - Open Babel",
+      "url": "http://openbabel.org/wiki/Python"
+    }
+  ]
+}

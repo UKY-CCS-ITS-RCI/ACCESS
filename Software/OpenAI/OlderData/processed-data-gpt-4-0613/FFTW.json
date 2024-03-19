@@ -1,0 +1,14 @@
+ 
+{
+  "Software": {
+    "FFTW": {
+      "MainPage": "http://www.fftw.org/",
+      "Documentation": "http://www.fftw.org/doc/index.html",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=E8Sf8oir6l0",
+        "https://www.phys.nthu.edu.tw/~qchen/ParallelComputing/fftw/fftw3_doc/fftw_3.html",
+        "https://www-users.cs.umn.edu/~saad/talks/tutorial-fftw.pdf"
+      ]
+    }
+  }
+}

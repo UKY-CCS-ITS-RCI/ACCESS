@@ -1,0 +1,10 @@
+{
+    "Software": "Boost",
+    "Website": "https://www.boost.org/",
+    "Documentation": "https://www.boost.org/doc/libs/",
+    "Tutorial_and_Training": [
+        "https://www.boost.org/doc/libs/1_76_0/more/getting_started/index.html",
+        "https://theboostcpplibraries.com/",
+        "https://www.youtube.com/watch?v=9sB02Zzj_ng&list=PL5jc9xFGsL8GyES7nh-1yqljjyKiaOx2e"
+    ]
+}

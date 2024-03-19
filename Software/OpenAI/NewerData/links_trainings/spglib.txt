@@ -1,0 +1,16 @@
+{
+  "spglib": {
+    "software_page": "https://atztogo.github.io/spglib/",
+    "documentation": "https://atztogo.github.io/spglib/python-spglib.html",
+    "tutorial_materials": [
+      {
+        "name": "Example of using spglib",
+        "url": "https://pypi.org/project/spglib/"
+      },
+      {
+        "name": "Python module spglib installation and basic usage",
+        "url": "https://th.fhi-berlin.mpg.de/prmsgen/prmsgen.py"
+      }
+    ]
+  }
+}

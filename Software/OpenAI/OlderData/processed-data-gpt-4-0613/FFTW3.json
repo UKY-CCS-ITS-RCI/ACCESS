@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "FFTW3": {
+      "MainPage": "http://www.fftw.org/",
+      "Documentation": "http://www.fftw.org/fftw3_doc/",
+      "Tutorials": [
+        "https://theory.uchicago.edu/~ejm/pix/20demos/alias/FFT.html",
+        "https://www.youtube.com/watch?v=vM7SeYYt6gE",
+        "https://www.phys.nthu.edu.tw/~qchen/ParallelComputing/fftw/fftw3_doc/fftw_3.html"
+      ]
+    }
+  }
+}

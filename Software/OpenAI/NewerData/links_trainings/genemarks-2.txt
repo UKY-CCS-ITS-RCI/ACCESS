@@ -1,0 +1,21 @@
+{
+  "genemarks-2": {
+    "software_url": "http://topaz.gatech.edu/GeneMark/",
+    "documentation": [
+      {
+        "name": "Documentation Page",
+        "url": "http://topaz.gatech.edu/GeneMark/metagenome/"
+      }
+    ],
+    "tutorial": [
+      {
+        "name": "GM Euk Tutorial",
+        "url": "http://exon.gatech.edu/GeneMark/tutorial/gm_euk_tutorial.html"
+      },
+      {
+        "name": "GeneMark-HMM Tutorial",
+        "url": "http://exon.gatech.edu/GeneMark/tutorial/gmhmmp_tutorial.html"
+      }
+    ]
+  }
+}

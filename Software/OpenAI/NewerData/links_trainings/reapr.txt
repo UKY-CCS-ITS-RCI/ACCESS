@@ -1,0 +1,17 @@
+{
+    "SoftwareName": "REAPR",
+    "SoftwarePage": "https://www.sanger.ac.uk/tool/reapr/",
+    "Documentation": {
+        "ToolDocumentation": "https://www.sanger.ac.uk/tool/reapr/#documentation",
+        "ReadTheDocs": "http://www.sanger.ac.uk/science/tools/reapr/reapr"
+    },
+    "TrainingMaterial": {
+        "UsageGuide": "https://www.sanger.ac.uk/tool/reapr/#usage",
+        "FAQs": "https://www.sanger.ac.uk/tool/reapr/#faqs",
+        "SampleData": "https://www.sanger.ac.uk/tool/reapr/#example-data"
+    },
+    "TutorialMaterial": {
+        "BasicTutorial": "https://www.sanger.ac.uk/tool/reapr/#how-to-run",
+        "IntermediateTutorial": "https://www.sanger.ac.uk/tool/reapr/#output-and-plots"
+    }
+}

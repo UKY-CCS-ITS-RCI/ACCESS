@@ -1,0 +1,20 @@
+{
+  "db": {
+    "software_link": "https://www.sqlite.org/about.html",
+    "documentation_link": "https://www.sqlite.org/docs.html",
+    "tutorial_materials": [
+      {
+        "name": "SQLite Tutorial",
+        "link": "https://www.sqlitetutorial.net/"
+      },
+      {
+        "name": "W3Schools SQLite Tutorial",
+        "link": "https://www.w3schools.com/sql/sql_intro.asp"
+      },
+      {
+        "name": "TutorialsPoint SQLite Tutorial",
+        "link": "https://www.tutorialspoint.com/sqlite/"
+      }
+    ]
+  }
+}

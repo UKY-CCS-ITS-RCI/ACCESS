@@ -1,0 +1,35 @@
+Use Case: Cmake is a cross-platform build system generator. Projects specify their build process using platform-independent CMake list files that are used to generate appropriate build files for each platform for building, testing, and packaging software.
+
+Code details and examples: Code
+
+For example, a simple CMake list file might look something like this:
+
+``` cmake
+# This is the root ITK CMakeLists file.
+cmake_minimum_required(VERSION 3.10.2)
+project(ITK)
+
+# Find includes in corresponding build directories
+set(CMAKE_INCLUDE_CURRENT_DIR ON)
+
+# Find the QtWidgets library
+find_package(Qt5Widgets CONFIG REQUIRED)
+
+# Add source files
+add_executable(MyApp main.cpp mainwindow.cpp)
+
+# Use the Widgets module from Qt 5
+target_link_libraries(MyApp Qt5::Widgets)
+```
+
+The input required here is a CMakeLists.txt file that specifies the build process for the project. The specific format and specifications of the file depend on the individual project. Processing this CMakeLists.txt file with CMake would generate the appropriate build files for the system.
+
+The command to run this makefile to generate the build files would be something like this:
+
+``` bash
+mkdir build
+cd build
+cmake ..
+```
+
+This creates a separate build directory, navigates into it, and then calls CMake to generate the build files based on the CMakeLists.txt file in the parent directory.

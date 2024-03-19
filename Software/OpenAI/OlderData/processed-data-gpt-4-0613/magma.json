@@ -1,0 +1,22 @@
+{
+  "softwareName": "MAGMA",
+  "softwarePage": "http://icl.cs.utk.edu/magma/index.html",
+  "documentation": {
+    "MAGMA Users Guide": "http://icl.cs.utk.edu/magma/software/view.html?id=21",
+    "MAGMA Developers Guide": "http://icl.cs.utk.edu/magma/guides/DevelopersGuide.pdf"
+  },
+  "tutorialAndTraining": [
+    {
+      "title": "MAGMA Tutorial at PP18",
+      "orl": "http://icl.cs.utk.edu/magma/news/news.html?id=600"
+    },
+    {
+      "title": "MAGMA Tutorial at PP19",
+      "orl": "http://icl.cs.utk.edu/magma/news/news.html?id=644"
+    },
+    {
+      "title": "MAGMA Tutorial at PP20",
+      "orl": "http://icl.cs.utk.edu/magma/news/news.html?id=689"
+    }
+  ]
+}

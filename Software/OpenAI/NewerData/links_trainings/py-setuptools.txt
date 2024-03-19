@@ -1,0 +1,14 @@
+{
+  "software": "py-setuptools",
+  "link": "https://pypi.org/project/setuptools/",
+  "documentation": [
+    "https://setuptools.pypa.io/en/latest/",
+    "https://setuptools.readthedocs.io/en/latest/"
+  ],
+  "tutorials": [
+    "https://packaging.python.org/tutorials/packaging-projects/",
+    "https://github.com/pypa/setuptools/tree/main/docs",
+    "https://pythonhosted.org/an_example_pypi_project/setuptools.html",
+    "https://click.palletsprojects.com/en/7.x/setuptools/"
+  ]
+}

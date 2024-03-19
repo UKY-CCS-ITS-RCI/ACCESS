@@ -1,0 +1,30 @@
+{
+"software": {
+    "name": "basenji",
+    "main_link": "https://github.com/calico/basenji",
+    "documentation": [
+        {
+          "name": "README",
+          "link": "https://github.com/calico/basenji/blob/master/README.md"
+        },
+        {
+          "name": "MANUAL",
+          "link": "https://drive.google.com/file/d/1N373eO_i4Q-BfthFbvnQVSAwrTa17l1a/view"
+        }
+    ],
+    "training_materials": [
+        {
+          "name": "Installation guide",
+          "link": "https://colab.research.google.com/github/calico/basenji/blob/master/tutorials/basenji_install.ipynb"
+        },
+        {
+          "name": "Basenji Tutorial PDF",
+          "link": "https://towardsdatascience.com/guide-to-multi-gpu-and-distributed-training-for-keras-7b1f5ea7f2fa"
+        },
+        {
+          "name": "Saturation mutagenesis tutorial",
+          "link": "https://colab.research.google.com/github/calico/basenji/blob/master/tutorials/basenji_sat_vcf.ipynb"
+        }
+    ]
+  }
+}

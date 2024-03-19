@@ -1,0 +1,11 @@
+{
+"SICER": {
+"Software_page": "https://home.gwu.edu/~wpeng/Software.htm",
+"Documentation": "https://home.gwu.edu/~wpeng/SICER_V1.1/SICER/README",
+"Tutorials": [
+{
+"ENCODE Analysis Tutorial": "https://wiki.oicr.on.ca/display/SEQWAREWorkflowAnalysisTutorial/Installing+SICER"
+}
+]
+}
+}

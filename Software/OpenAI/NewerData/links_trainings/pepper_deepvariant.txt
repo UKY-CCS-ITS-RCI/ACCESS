@@ -1,0 +1,29 @@
+{
+  "software": "pepper_deepvariant",
+  "software_URL": "https://github.com/kishwarshafin/pepper",
+  "documentation_links": [
+    {
+      "documentation_URL": "https://github.com/kishwarshafin/pepper/blob/master/README.md"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "name": "PEPPER-Margin-DeepVariant for single sample variant calling",
+      "URL": "https://github.com/kishwarshafin/pepper/blob/master/docs/PEPPER_MARGIN_DeepVariant_Single_Sample_Pipeline.md"
+    },
+    {
+      "name": "PEPPER-HP joint genotyping workflow for population scale variant calling",
+      "URL": "https://github.com/kishwarshafin/pepper/blob/master/docs/PEPPER_HP_Population_Scale_Pipeline.md"
+    }
+  ],
+  "additional_information": [
+    {
+      "name": "Link to paper",
+      "URL": "https://www.biorxiv.org/content/10.1101/2020.10.28.359232v2"
+    },
+    {
+      "name": "Introduction to PEPPER",
+      "URL": "https://kishwarshafin.github.io/pepper/06/01/2020/intro-pepper/"
+    }
+  ]
+}

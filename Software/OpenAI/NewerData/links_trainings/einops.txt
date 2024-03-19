@@ -1,0 +1,15 @@
+{
+  "software_name": "einops",
+  "software_web_page_link": "https://github.com/arogozhnikov/einops",
+  "additional_links": {
+    "documentation": [
+      "https://einops.rocks/"
+    ],
+    "tutorials_and_training": [
+      "https://theaisummer.com/einops/",
+      "https://www.youtube.com/watch?v=O0uoFs_kwK4",
+      "https://www.youtube.com/watch?v=ZT4CxTvn4Zw"
+      "https://arogozhnikov.github.io/einops/pytorch-examples.html"
+    ]
+  }
+}

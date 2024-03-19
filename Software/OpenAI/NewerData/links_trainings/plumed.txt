@@ -1,0 +1,23 @@
+{
+  "software": "plumed",
+  "software_url": "https://www.plumed.org/",
+  "documentation_url": "https://www.plumed.org/doc-v2.7/user-doc/html/index.html",
+  "tutorial_materials": [
+    {
+      "title": "Getting started",
+      "url": "https://www.plumed.org/doc-v2.7/user-doc/html/_syntax.html"
+    },
+    {
+      "title": "Tutorials",
+      "url": "https://www.plumed.org/doc-v2.7/user-doc/html/_tutorials.html"
+    },
+    {
+      "title": "Lecture Notes",
+      "url": "https://www.plumed.org/doc-v2.7/user-doc/html/_lecture_notes.html"
+    },
+    {
+      "title": "Cheat Sheet",
+      "url": "https://www.plumed.org/doc-v2.7/user-doc/html/_cheat_sheet.html"
+    }
+  ]
+}

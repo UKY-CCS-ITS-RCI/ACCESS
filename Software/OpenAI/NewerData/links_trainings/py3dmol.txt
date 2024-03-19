@@ -1,0 +1,15 @@
+{
+  "Software_Name": "py3Dmol",
+  "Software_URL": "https://pypi.org/project/py3Dmol/",
+  "Documentation": [
+    {
+      "Doc_Link": "https://3dmol.csb.pitt.edu/"
+    }
+  ],
+  "Training_Materials": [
+    {
+      "Tutorial_Link": "http://nbviewer.jupyter.org/github/3dmol/3Dmol.js/blob/9050b97144e81f065df7eecc87ba9a16723ab14b/py3Dmol/examples.ipynb",
+      "Usage_Examples_Link": "https://github.com/3dmol/3Dmol.js"
+    }
+  ]
+}

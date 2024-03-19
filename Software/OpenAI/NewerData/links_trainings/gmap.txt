@@ -1,0 +1,19 @@
+{
+  "gmap": {
+    "software_url": "http://research-pub.gene.com/gmap/src/gmap-gsnap-2015-12-31.tar.gz",
+    "documentation": [
+      {
+        "documentation_url": "http://research-pub.gene.com/gmap/src/README.txt"
+      }
+    ],
+    "tutorials": [
+      {
+        "tutorial_name": "gmapTutorial",
+        "tutorial_url": "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/#"
+      }, 
+      {
+        "tutorial_name": "gmapTutorial2",
+        "tutorial_url": "https://www.biostars.org/p/290920/"
+      }]
+  }
+}

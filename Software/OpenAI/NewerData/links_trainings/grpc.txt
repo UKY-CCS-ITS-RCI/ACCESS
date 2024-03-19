@@ -1,0 +1,15 @@
+{
+  "name": "grpc",
+  "softwarePage": "https://grpc.io/",
+  "documentation": "https://grpc.io/docs/",
+  "tutorials": {
+    "grpc basics tutorial": "https://grpc.io/docs/languages/",
+    "quick start": "https://grpc.io/docs/languages/python/quickstart/",
+    "grpc python api tutorial": "https://grpc.io/docs/languages/python/basics/"
+  },
+  "additionalResources": {
+    "grpc github": "https://github.com/grpc/grpc",
+    "grpc examples": "https://github.com/grpc/grpc/tree/master/examples",
+    "grpc community": "https://grpc.io/community/"
+  }
+}

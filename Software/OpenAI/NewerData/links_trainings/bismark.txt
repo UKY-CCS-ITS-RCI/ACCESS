@@ -1,0 +1,11 @@
+{
+  "software_name": "Bismark",
+  "software_link": "https://www.bioinformatics.babraham.ac.uk/projects/bismark/",
+  "documentation_link":"https://rawgit.com/FelixKrueger/Bismark/master/Docs/Bismark_User_Guide.html",
+  "tutorial_links": [
+    "http://www.bioinformatics.babraham.ac.uk/projects/bismark/Bismark_User_Guide.pdf",
+    "https://www.biostars.org/p/147537/",
+    "https://training.h3abionet.org/IBT_2017/wp-content/uploads/2018/05/Bismark_tutorial.pdf",
+    "https://www.researchgate.net/post/How_to_use_Bismark_for_bisulfite_sequencing_data_analysis"
+  ]
+}

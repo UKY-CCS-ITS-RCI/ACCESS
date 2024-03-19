@@ -1,0 +1,10 @@
+{
+  "software_name": "pocl",
+  "software_url": "http://portablecl.org/",
+  "documentation_url": "http://portablecl.org/docs/master/",
+  "tutorial_urls": [
+    "https://www.khronos.org/files/opencl-quick-reference-card.pdf",
+    "https://llvm.org/docs/CompileCudaWithLLVM.html",
+    "https://tournasdim.me/developing-an-opencl-kernel-with-pocl-on-os-x/"
+  ]
+}

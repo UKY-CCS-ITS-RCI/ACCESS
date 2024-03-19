@@ -1,0 +1,47 @@
+Use Case: Use LSMS (Locally Self-consistent Multiple Scattering) for running large-scale electronic structure simulations based on density functional theory, especially designed for materials studies.
+
+Code details and examples: Code
+
+Sample Input File – LSMS:
+To start with, create a file named `ctrl_lsms`.
+
+Content example:
+
+```
+% const
+  alat=7.50
+  ecut=2.0
+%
+
+% set
+  ngrid=1
+  nx=1
+  ny=1
+  nz=2
+%  
+
+% include
+  family=’alCu’
+%
+
+% set
+  family = fcc001r10.inp
+  evec = 0.2 0.1 0.3
+%
+
+% species
+  z=13.  al=1. vtot=’al.vtotal’
+  z=29.  cu=1. vtot=’cu.vtotal’
+%
+
+```
+
+Command to run: 
+
+LSMS runs on HPC systems using MPI. Assuming your executable is named "lsms", the command to run would look something like that:
+
+`mpirun -np 32 lsms`
+
+Where "-np 32" indicates the number of processor cores to be used. The actual command and number of cores would depend on the specific HPC environment and the size of the problem. 
+
+Please make sure you have all your input files in the right directory before you run the command.

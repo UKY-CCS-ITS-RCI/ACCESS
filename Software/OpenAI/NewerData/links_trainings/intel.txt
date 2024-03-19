@@ -1,0 +1,27 @@
+{
+  "software":
+   [
+     {
+      "name": "Intel",
+      "link": "https://www.intel.com/content/www/us/en/homepage.html",
+      "documentation": 
+         [
+           {
+             "name": "Intel Software Documentation",
+             "link": "https://software.intel.com/content/www/us/en/develop/documentation.html"
+           }
+         ],
+      "tutorials":
+        [
+           {
+            "name": "Intel Developer Zone",
+            "link": "https://software.intel.com/content/www/us/en/develop/home.html"
+           },
+           {
+            "name": "Intel Software Tutorials",
+            "link": "https://software.intel.com/content/www/us/en/develop/train.html"
+           }
+        ]
+     }  
+   ]
+}

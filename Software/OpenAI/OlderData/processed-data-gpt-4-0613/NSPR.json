@@ -1,0 +1,16 @@
+{
+  "software": "NSPR",
+  "website": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR",
+  "documentation": [
+    {
+      "title": "NSPR API Reference",
+      "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR/Reference/NSPR_API_Reference"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "NSPR Getting Started Guide",
+      "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR/Reference/NSPR_Guide"
+    }
+  ]
+}

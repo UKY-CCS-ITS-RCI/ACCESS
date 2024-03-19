@@ -1,0 +1,13 @@
+{
+    "pdal": {
+        "software_page": "https://pdal.io/",
+        "documentation": "https://pdal.io/index.html",
+        "tutorial_materials": {
+            "tutorial_1": "https://pdal.io/tutorial/index.html",
+            "tutorial_2": "https://pdal.io/workshop/exercises/analysis/clipping/clipping.html",
+            "tutorial_3": "https://pdal.io/workshop/exercises/development/writing.html",
+            "tutorial_4": "https://pdal.io/workshop/exercises/data-type-translation/data-type-translation.html",
+            "tutorial_5": "https://pdal.io/quickstart.html"
+        }
+    }
+}

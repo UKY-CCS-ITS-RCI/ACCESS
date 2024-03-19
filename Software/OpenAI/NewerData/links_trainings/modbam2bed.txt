@@ -1,0 +1,11 @@
+{
+  "software_name": "modbam2bed",
+  "software_page": "https://github.com/jayhesselberth/modbam2bed",
+  "documentation": "Not Available",
+  "tutorial_&_training_materials": [
+    {
+      "name": "Not Available",
+      "link": "Not Available"
+    }
+  ]
+}

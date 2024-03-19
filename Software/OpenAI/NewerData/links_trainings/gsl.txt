@@ -1,0 +1,19 @@
+{
+  "software_name": "GSL",
+  "software_link": "https://www.gnu.org/software/gsl/",
+  "documentation_link": "https://www.gnu.org/software/gsl/doc/html/",
+  "tutorial_links": [
+    {
+      "title": "GSL - GNU Scientific Library - Tutorial",
+      "url": "https://www.tutorialspoint.com/gsl/index.htm"
+    },
+    {
+      "title": "The GNU Scientific Library (GSL) for numerical computations",
+      "url": "http://www1.spms.ntu.edu.sg/~cheongsa/gsl.html"
+    },
+    {
+      "title": "Introduction to GSL-Lite",
+      "url": "https://www.reddit.com/r/cpp/comments/6z846b/tutorial_introduction_to_gsllite/"
+    }
+  ]
+}

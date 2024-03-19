@@ -1,0 +1,10 @@
+{
+  "cce": {
+    "Software page": "https://www.osti.gov/servlets/purl/1230810",
+    "Documentation": "https://www.hpc.northwestern.edu/docs/user-guides/compilers/cray-xk7/cce-user-guide.pdf",
+    "Training materials": {
+      "Introduction to Cray Programming Environment": "https://www.training.prace-ri.eu/material/2012/prace-winter-school-th/Introduction_to_Cray_PE-G.Hager.pdf",
+      "Parallel programming with the Cray CCE Compiler": "https://bluewaters.ncsa.illinois.edu/parallel-programming-with-the-cray-cce-compiler"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+Use Case: Use Scikit-learn for training a predictive model on a given dataset.
+
+Code details and examples: Code
+
+Input File:
+
+CSV file with features and labels. Each feature and label should be in a separate column. The labels should be in the last column.
+
+Example Input:
+
+feature1, feature2, feature3, label
+6.4, 3.2, 4.5, 1
+5.5, 2.3, 4.0, 2
+7.3, 2.9, 6.3, 1
+...
+
+Python code: 
+
+```python
+import pandas as pd
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+
+# Load dataset
+data = pd.read_csv('dataset.csv')
+X = data.iloc[:, :-1]
+y = data.iloc[:, -1]
+
+# Split dataset into training set and test set
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+# Create a Random Forest Classifier
+clf = RandomForestClassifier(n_estimators=100)
+
+# Train the model using the training sets
+clf.fit(X_train, y_train)
+
+# Model prediction
+y_pred = clf.predict(X_test)
+
+# Evaluating the Algorithm
+from sklearn.metrics import classification_report, confusion_matrix
+
+print(confusion_matrix(y_test,y_pred))
+print(classification_report(y_test,y_pred))
+```
+
+Command to run:
+`python random_forest.py`

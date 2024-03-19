@@ -1,0 +1,14 @@
+{
+  "software_name": "aria2-1.15.1",
+  "software_link": "https://aria2.github.io/",
+  "additional_links": {
+    "documentation": "https://aria2.github.io/manual/en/html/aria2c.html",
+    "tutorials": [
+      {
+        "tutorial1": "https://gist.github.com/albertyw/3443345",
+        "tutorial2": "https://www.tecmint.com/aria2-download-manager-for-linux/",
+        "tutorial3": "https://www.youtube.com/watch?v=IX9n9prnzX4"
+      }
+    ]
+  }
+}

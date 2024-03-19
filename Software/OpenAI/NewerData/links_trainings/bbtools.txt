@@ -1,0 +1,20 @@
+{
+  "bbtools": {
+    "software_page": "https://jgi.doe.gov/data-and-tools/bbtools/",
+    "documentation": "https://sourceforge.net/p/bbmap/wiki/Home/",
+    "training_and_tutorials": [
+      {
+        "link": "https://jgi.doe.gov/data-and-tools/bbtools/user-guide/",
+        "description": "BBTools User Guide"
+      },
+      {
+        "link": "https://github.com/BioInfoTools/BBMap",
+        "description": "BBTools Github"
+      },
+      {
+        "link": "https://informatics.fas.harvard.edu/bbtools-data-processing-with-bbmerge-bbnorm-bbmap.html",
+        "description": "BBTools Data Processing - FAS Informatics"
+      }
+    ]
+  }
+}

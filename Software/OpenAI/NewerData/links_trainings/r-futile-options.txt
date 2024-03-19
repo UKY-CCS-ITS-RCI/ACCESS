@@ -1,0 +1,19 @@
+{
+    "softwareName": "r-futile-options",
+    "softwarePage": "https://anaconda.org/conda-forge/r-futile.options",
+    "documentation": "https://www.rdocumentation.org/packages/futile.options/versions/0.1.0",
+    "tutorials": [
+        {
+            "tutorialName": "R tutorial",
+            "tutorialLink": "https://www.r-tutor.com/r-introduction"
+        },
+        {
+            "tutorialName": "R Programming Tutorial",
+            "tutorialLink": "https://www.guru99.com/r-programming-introduction-basics.html"
+        },
+        {
+            "tutorialName": "R Tutorial for Beginners",
+            "tutorialLink": "https://www.javatpoint.com/r-tutorial"
+        }
+    ]
+}

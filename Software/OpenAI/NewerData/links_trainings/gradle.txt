@@ -1,0 +1,36 @@
+{
+  "name": "Gradle",
+  "software_link": "https://gradle.org/",
+  "documentation": [
+    {
+      "name": "Gradle Documentation",
+      "link": "https://docs.gradle.org/current/userguide/userguide.html"
+    }
+  ],
+  "tutorial_and_training_materials": [
+    {
+      "name": "Gradle Tutorials and Guides",
+      "link": "https://gradle.org/guides/"
+    },
+    {
+      "name": "Gradle Building Java Applications",
+      "link": "https://guides.gradle.org/building-java-applications/"
+    },
+    {
+      "name": "Gradle Android Tutorials",
+      "link": "https://developer.android.com/studio/build"
+    },
+    {
+      "name": "Gradle Learning Paths",
+      "link": "https://gradle.com/training/learning-paths/"
+    },
+    {
+      "name": "Baeldung - Gradle tutorial",
+      "link": "https://www.baeldung.com/gradle"
+    },
+    {
+      "name": "Tutorialspoint - Gradle",
+      "link": "https://www.tutorialspoint.com/gradle/index.htm"
+    }
+  ]
+}

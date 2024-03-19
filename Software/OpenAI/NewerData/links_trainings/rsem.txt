@@ -1,0 +1,11 @@
+{
+  "software_name": "RSEM",
+  "software_link": "https://github.com/deweylab/RSEM",
+  "documentation": "https://deweylab.github.io/RSEM/README.html",
+  "training_and_tutorial_materials": {
+    "RSEM_Tutorial1": "https://www.biostars.org/p/153013/",
+    "RSEM_Tutorial2": "https://gist.github.com/brentp/6886442",
+    "RSEM_Manual": "https://deweylab.github.io/RSEM/rsem-calculate-expression.html",
+    "RSEM_Courseware": "http://rna.rega.kuleuven.be/coursematerial/software/RSEM_tutorial.pdf"
+  }
+}

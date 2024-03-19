@@ -1,0 +1,11 @@
+{
+    "ant": {
+        "software page": "https://ant.apache.org/",
+        "documentation": "https://ant.apache.org/manual/index.html",
+        "training and tutorial materials": {
+            "tutorial": "https://www.tutorialspoint.com/ant/index.htm",
+            "youtube video tutorial": "https://www.youtube.com/watch?v=M1B3Fvav_IM",
+            "introduction": "https://www.javatpoint.com/ant-tutorial"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+Use Case: Use the NVIDIA HPC SDK software, which includes the NVHPC compiler suite for high-performance computing applications.
+
+Code details and examples: 
+- To compile a C or C++ code using the NVHPC compiler:
+```
+nvc -o output_file input_file.c
+nvc++ -o output_file input_file.cpp
+```
+
+- To compile a Fortran code using the NVHPC compiler:
+```
+nvfortran -o output_file input_file.f90
+```
+
+- To compile and run an OpenACC code using the NVHPC compiler:
+```
+nvc -acc -Minfo=accel -o output_file input_file.c
+./output_file
+```
+
+Please refer to the NVHPC documentation for more details on command-line options and compiler flags.

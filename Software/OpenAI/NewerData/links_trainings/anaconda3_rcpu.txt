@@ -1,0 +1,14 @@
+{
+  "anaconda3_rcpu": 
+  {
+    "software_page": "https://www.anaconda.com/products/individual",
+    "documentation": "https://docs.anaconda.com/anaconda/",
+    "tutorials": 
+    [
+      "https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x",
+      "https://conda.io/projects/conda/en/latest/user-guide/getting-started.html",
+      "https://www.youtube.com/watch?v=YJC6ldI3hWk",
+      "https://www.youtube.com/watch?v=23aQdrS58e0"
+    ]
+  }
+}

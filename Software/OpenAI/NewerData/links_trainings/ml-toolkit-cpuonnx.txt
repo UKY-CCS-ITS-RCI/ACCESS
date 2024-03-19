@@ -1,0 +1,36 @@
+{
+  "software": "ml-toolkit-cpu/onnx",
+  "main_page": "https://onnx.ai/",
+  "documentations": [
+    {
+      "name": "ONNX Documentation",
+      "url": "https://onnx.ai/get-started.html"
+    },
+    {
+      "name": "ONNX Tutorials",
+      "url": "https://github.com/onnx/tutorials"
+    },
+    {
+      "name": "ONNX on Github",
+      "url": "https://github.com/onnx/onnx"
+    },
+    {
+      "name": "ONNX Python API Overview",
+      "url": "https://onnx.ai/onnx-tensorflow-api/python_api.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "Running ONNX models",
+      "url": "https://pytorch.org/tutorials/advanced/super_resolution_with_onnxruntime.html"
+    },
+    {
+      "name": "Importing ONNX models to Pytorch",
+      "url": "https://pytorch.org/tutorials/advanced/super_resolution_with_caffe2.html"
+    },
+    {
+      "name": "ONNX and Caffe2 Tutorial",
+      "url": "https://caffe2.ai/docs/tutorial-ONNX.html"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "software": "r-snow",
+  "softwareURL": "https://cran.r-project.org/web/packages/snow/index.html",
+  "documentation": [
+    {
+      "name": "CRAN documentation",
+      "URL": "https://cran.r-project.org/web/packages/snow/snow.pdf"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "Using the snow package",
+      "URL": "https://www.r-bloggers.com/2012/07/using-the-snow-package-for-parallel-computing-in-r-on-windows/"
+    },
+    {
+      "name": "Parallel R using snow",
+      "URL": "https://astrostatistics.psu.edu/su07/R/html/snow/html/00Index.html"
+    }
+  ]
+}

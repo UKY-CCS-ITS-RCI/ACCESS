@@ -1,0 +1,24 @@
+Use Case: Solve a system of linear equations using the netlib library, particularly LAPACK's dgesv routine.
+
+Code details and examples: 
+
+Code Example: 
+This example assumes you are using Fortran programming language:
+
+``` foralltran
+    program solve
+        implicit none
+        ! Using dgesv from Lapack
+        integer, parameter :: n = 3
+        integer :: info
+        integer :: ipiv(n)
+        real(8) :: A(n,n), B(n)
+        A = reshape([1, 2, 3, 2, 3, 4, 3, 4, 3], [n, n])  ! Coefficient matrix
+        B = [3, 8, 11]  ! Right-hand side vector
+        call dgesv(n, 1, A, n, ipiv, B, n, info)  ! Solve AX=B
+        print*, B  ! Solution vector
+    end program solve
+```
+Sample input files and format required: As shown in the example above, the input arguments of the dgesv subroutine include matrix A and matrix B, permutations ipiv and dimension n. The input data is hard-coded directly in the Fortran program.
+
+Command to run: `gfortran solve.f90 -llapack && ./a.out`

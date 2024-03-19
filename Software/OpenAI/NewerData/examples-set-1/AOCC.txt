@@ -1,0 +1,29 @@
+Use Case: The AMD Optimizing C/C++ Compiler (AOCC) is an optimizing compiler leveraging the LLVM compiler infrastructure, producing high performing and efficient code on AMD processors. AOCC includes optimized libraries that significantly improve performance across various workloads.
+
+Code Details and Examples:
+
+Code:
+
+```c
+// Example C program
+#include <stdio.h>
+
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
+```
+
+You save this file as `hello_world.c`. 
+
+Command to compile and run this program:
+
+```
+clang -O3 hello_world.c -o hello_world
+./hello_world
+```
+
+Here, `clang` is the compiler provided by AOCC, `-O3` is a flag for optimization level, `hello_world.c` is the input source code file, `-o` is used to specify the output executable file which is `hello_world`. Once the program is compiled an executable file, `hello_world`, is created. You run the `hello_world` program using `./hello_world`.
+
+Regarding input files, AOCC doesn't actually require its own input files, it operates on code files written in C or C++. The specifications and details in the input files depend on the syntax and semantics of the C or C++ programming language.

@@ -1,0 +1,8 @@
+{
+"mapcaller": {
+"software_page": "https://github.com/hsinnan75/MapCaller",
+"documentation": "https://github.com/hsinnan75/MapCaller/blob/master/doc/Manual.pdf",
+"training_materials": [
+"https://bioinf.comav.upv.es/courses/sequence_analysis/mapcaller.html"
+]
+}}

@@ -1,0 +1,20 @@
+{
+  "software_name": "Lumpy",
+  "software_URL": "https://github.com/arq5x/lumpy-sv",
+  "documentation": [
+    {
+      "documentation_name": "GitHub README",
+      "documentation_URL": "https://github.com/arq5x/lumpy-sv/blob/master/README.md"
+    }
+  ],
+  "training_materials": [
+    {
+      "training_name": "Using LUMPY",
+      "training_URL": "https://arxiv.org/abs/1303.3997"
+    },
+    {
+      "training_name": "LUMPY: A probabilistic framework for structural variant discovery",
+      "training_URL": "https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-6-r84"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "obitools3": {
+    "SoftwarePage": "https://anaconda.org/bioconda/obitools3",
+    "Documentation": "https://pythonhosted.org/OBITools3/",
+    "Tutorials": {
+      "Tutorial0": "https://pythonhosted.org/OBITools/ncbitaxon.html",
+      "Tutorial1": "https://anaconda.org/bioconda/obitools3"
+    },
+    "TrainingMaterials": {
+      "Material0": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096131"
+    }
+  }
+}

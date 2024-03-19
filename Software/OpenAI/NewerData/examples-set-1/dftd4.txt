@@ -1,0 +1,25 @@
+Use Case: DFTD4 is often used to perform dispersion-corrected density-functional theory calculations. It's an advanced method for estimating non-covalent interactions, which can be critical for understanding biomolecular structures, materials designs, and reaction mechanisms. DFT-D4 model can be used with any modern density functional (DF) or wave function method.
+
+Code details and examples: 
+
+Code: 
+
+For calculating dispersion corrections using DFTD4, first, you need a molecular structure file (e.g., xyz file). 
+
+A typical xyz file may look like this:
+
+```
+3
+water molecule
+O       0.0000000000     0.0000000000     0.0000000000
+H       0.0000000000     0.7408480950     0.5820949320
+H       0.0000000000    -0.7408480950     0.5820949320
+```
+
+To run DFTD4, you have to execute the following command:
+
+```dftd4 water.xyz```
+
+Please note that the structure file (e.g., water.xyz) should be in the same directory where you execute this command.
+
+This will return the D4 dispersion and atomic parameters for your molecule that can be included in subsequent DFT calculations using other software.

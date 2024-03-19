@@ -1,0 +1,17 @@
+{
+  "ensemble-vep": {
+    "software_page": "https://www.ensembl.org/info/docs/tools/vep/index.html",
+    "documentation": [
+      "https://www.ensembl.org/info/docs/tools/vep/script/vep_options.html",
+      "https://www.ensembl.org/info/docs/tools/vep/tutorial/index.html",
+      "https://www.ensembl.org/info/docs/tools/vep/vep_script.html"
+    ],
+    "training_materials": [
+      "https://www.ebi.ac.uk/training/online/course/ensembl-vep-extracting-variant-information-annotation",
+      "https://www.youtube.com/playlist?list=PLIRVF5S_yFGv5BagUZ6a9tJwHrzB6Hxmw"
+    ],
+    "tutorials": [
+      "https://www.ebi.ac.uk/training/online/course/ensembl-vep-2021-web-interface-introduction"
+    ]
+  }
+}

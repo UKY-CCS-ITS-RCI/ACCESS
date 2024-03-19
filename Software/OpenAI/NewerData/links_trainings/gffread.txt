@@ -1,0 +1,17 @@
+{
+  "Software": "gffread",
+  "Details": {
+    "Software_URL": "https://github.com/gpertea/gffread",
+    "Documentation": [
+      {
+        "Documentation_URL": "http://ccb.jhu.edu/software/stringtie/gff.shtml#gffread"
+      }
+    ],
+    "Training & Tutorial materials": [
+      {
+        "Tutorial_URL": "https://ccb.jhu.edu/software/stringtie/gff.shtml#gffread",
+        "Tutorial_Video_URL": "https://www.youtube.com/watch?v=9zrk_S3GwtA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Software Name": "Rstats",
+  "links": {
+    "software page": "https://www.r-project.org/",
+    "documentation": "https://www.r-project.org/help.html",
+    "tutorials": [
+      "https://rstudio.com/resources/webinars/",
+      "https://www.datacamp.com/courses/free-introduction-to-r",
+      "https://www.coursera.org/courses?query=r%20programming"
+    ]
+  }
+}

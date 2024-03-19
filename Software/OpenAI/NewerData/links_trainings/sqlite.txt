@@ -1,0 +1,16 @@
+{
+  "sqlite": {
+    "softwarePage": "https://www.sqlite.org/index.html",
+    "documentation": {
+      "officialDocumentation": "https://www.sqlite.org/docs.html",
+      "wikiDocumentation": "https://en.wikipedia.org/wiki/SQLite"
+    },
+    "trainingAndTutorial": {
+       "tutorialPoint": "https://www.tutorialspoint.com/sqlite/",
+       "codecademy": "https://www.codecademy.com/learn/learn-sql/modules/learn-sql-manipulation",
+       "sqliteTutorial": "https://www.sqlitetutorial.net/",
+       "w3resource":"https://www.w3resource.com/sqlite/sqlite-tutorial.php",
+       "geeksForGeeks":"https://www.geeksforgeeks.org/sql-using-sqlite/"
+    }
+  }
+}

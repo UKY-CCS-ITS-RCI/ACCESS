@@ -1,0 +1,10 @@
+{
+  "software_name": "stream",
+  "software_url": "https://github.com/pinellolab/STREAM",
+  "documentation_url": "https://stream.readthedocs.io/en/latest/",
+  "tutorial_urls": [
+    "https://nbviewer.jupyter.org/github/pinellolab/STREAM/blob/master/tutorial/tutorial_0.3.0.ipynb",
+    "https://nbviewer.jupyter.org/github/pinellolab/STREAM/blob/master/tutorial/tutorial.ipynb",
+    "https://www.youtube.com/watch?v=cG12zjjxSIA"
+  ]
+}

@@ -1,0 +1,26 @@
+
+{
+  "AWS": {
+    "software_page": "https://aws.amazon.com/",
+    "documentation": "https://docs.aws.amazon.com/",
+    "training_materials": [
+      {
+        "title": "AWS Online Tech Talks",
+        "url": "https://aws.amazon.com/about-aws/events/monthlywebinarseries/"
+      },
+      {
+        "title": "AWS Training and Certification",
+        "url": "https://aws.amazon.com/training/"
+      },
+      {
+        "title": "AWS Free Online Training Resources",
+        "url": "https://aws.amazon.com/training/digital-training/"
+      },
+      {
+        "title": "AWS Startup Webinars",
+        "url":"https://aws.amazon.com/start-ups/loft/loft-webinars/"
+      }
+    ]
+  }
+}
+

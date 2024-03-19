@@ -1,0 +1,18 @@
+{
+  "software": {
+    "Cereal": {
+      "software_url": "https://uscilab.github.io/cereal/",
+      "documentation_url": "https://uscilab.github.io/cereal/doxygen/index.html",
+      "tutorials": [
+        {
+          "tutorial_name": "Introduction to Serialization with Cereal",
+          "tutorial_url": "https://jackmott.github.io/programming/2016/07/29/cereal-serialization.html"
+        },
+        {
+          "tutorial_name": "Cereal Serialization Library",
+          "tutorial_url": "https://codedocs.xyz/USCiLab/cereal/md_readme.html"
+        }
+      ]
+    }
+  }
+}

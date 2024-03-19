@@ -1,0 +1,19 @@
+{
+  "SoftwareName": "p11-kit",
+  "SoftwarePage": "https://p11-glue.github.io/p11-glue/p11-kit.html",
+  "Documentation": "https://p11-glue.github.io/p11-glue/",
+  "TrainingMaterials": [
+    {
+      "Tutorial": "https://www.centos.org/docs/5/html/Deployment_Guide-en-US/s1-pkcs11-troubleshoot.html"
+    },
+    {
+      "Tutorial": "https://manpages.debian.org/testing/p11-kit/p11-kit.1.en.html"
+    },
+    {
+      "Tutorial": "https://www.freedesktop.org/software/p11-glue/doc/p11-kit/"
+    },
+    {
+      "Guide": "https://www.gnupg.org/documentation/manuals/gcrypt/p11_002dtool.html"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "Software": "pytesseract",
+    "Software_URL": "https://github.com/madmaze/pytesseract",
+    "Documentation": [
+        {
+            "Name": "Official Documentation",
+            "URL": "https://pypi.org/project/pytesseract/"
+        },
+        {
+            "Name": "GitHub Wiki",
+            "URL": "https://github.com/madmaze/pytesseract/wiki"
+        }
+    ],
+    "Training_and_Tutorial": [
+        {
+            "Name": "OCR with Pytesseract and Python",
+            "URL": "https://www.geeksforgeeks.org/ocr-with-pytesseract-and-python/"
+        },
+        {
+            "Name": "Using Tesseract OCR with Python",
+            "URL": "https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/"
+        },
+        {
+            "Name": "Extract text with OCR - PyTesseract | Python Tutorials",
+            "URL": "https://www.youtube.com/watch?v=6DjFscX4I_c"
+        }
+    ]
+}

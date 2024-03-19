@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "Tk",
+  "Homepage": "https://www.tcl.tk/",
+  "Resources": {
+    "Documentation": "https://www.tcl.tk/doc/",
+    "Tutorials": [
+      "https://tkdocs.com/tutorial/index.html",
+      "https://www.tutorialspoint.com/python/python_gui_programming.htm"
+    ],
+    "TrainingMaterial": [
+      "https://www.tcl.tk/man/tcl8.6/TkCmd/contents.htm",
+      "https://www.python-course.eu/tkinter.php"
+    ]
+  }
+}

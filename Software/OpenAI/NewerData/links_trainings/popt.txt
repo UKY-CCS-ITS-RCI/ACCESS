@@ -1,0 +1,12 @@
+{
+  "software": {
+    "name": "Popt",
+    "webpage": "http://manpages.ubuntu.com/manpages/trusty/man3/popt.3.html",
+    "documentation": "http://manpages.ubuntu.com/manpages/focal/man3/popt.3.html",
+    "tutorials": {
+      "tutorial1": "https://rpm-packaging-guide.github.io/#popt",
+      "tutorial2": "https://www.linuxjournal.com/article/73",
+      "tutorial3": "https://www.linuxtopia.org/online_books/software_development_tools_docbookx_book/using_popt.html"
+    }
+  }
+}

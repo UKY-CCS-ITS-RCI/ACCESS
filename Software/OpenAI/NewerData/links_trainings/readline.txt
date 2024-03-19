@@ -1,0 +1,19 @@
+{
+  "software_name": "readline",
+  "software_page": "https://tiswww.case.edu/php/chet/readline/rltop.html",
+  "documentation": "https://tiswww.case.edu/php/chet/readline/rluserman.html",
+  "tutorial_materials": [
+    {
+      "name": "GNU Readline Library",
+      "url": "http://www.gnu.org/s/readline/"
+    },
+    {
+      "name": "Readline Tutorial",
+      "url": "https://cnswww.cns.cwru.edu/php/chet/readline/readline.html"
+    },
+    {
+      "name": "Readline Library Tutorial",
+      "url": "https://www.ibm.com/developerworks/aix/library/au-readline/index.html"
+    }
+  ]
+}

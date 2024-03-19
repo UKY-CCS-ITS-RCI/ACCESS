@@ -1,0 +1,14 @@
+{
+  "Software-Package": {
+    "Name": "squashfs",
+    "Homepage": "https://squashfs.sourceforge.net/",
+    "Documentation": [
+      {
+        "Doc-Name": "SquashFS-HOWTO",
+        "Doc-URL": "https://tldp.org/HOWTO/SquashFS-HOWTO/"
+      }
+    ],
+    "Tutorial": [],
+    "Training": []
+  }
+}

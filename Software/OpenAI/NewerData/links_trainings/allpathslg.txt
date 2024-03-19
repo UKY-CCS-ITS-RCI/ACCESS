@@ -1,0 +1,10 @@
+{
+"Allpaths-LG": {
+"software_page_link": "http://www.broadinstitute.org/software/allpaths-lg/blog/",
+"documentation_links": [
+"http://software.broadinstitute.org/allpaths-lg/blog/?page_id=12",
+"http://software.broadinstitute.org/allpaths-lg/blog/?page_id=12#release-notes"], 
+"tutorial_material_links": ["https://www.sanger.ac.uk/tool/allpaths-lg/",
+"http://www.homolog.us/Tutorials/book/Allpaths-LG/"]
+}
+}

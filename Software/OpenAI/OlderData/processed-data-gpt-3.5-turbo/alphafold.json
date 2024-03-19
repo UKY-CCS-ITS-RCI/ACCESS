@@ -1,0 +1,16 @@
+{
+  "software_name": "AlphaFold",
+  "comprehensive_overview": "AlphaFold is an advanced deep learning system for predicting protein structure from amino acid sequences. Developed by DeepMind, it uses cutting-edge methods including neural networks and attention mechanisms to accurately predict the 3D structure of proteins, aiding in drug discovery and biological research.",
+  "core_features": [
+    "Protein structure prediction",
+    "Deep learning-based models",
+    "Improved accuracy in fold recognition"
+  ],
+  "general_tags": ["Bioinformatics", "Protein Structure Prediction", "Deep Learning"],
+  "additional_tags": {
+    "research_discipline": "Biology",
+    "research_area": "Structural Biology",
+    "software_class": "Structure Prediction Tool",
+    "software_type": "Model"
+  }
+}

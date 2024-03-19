@@ -1,0 +1,20 @@
+{
+  "software": "NSS",
+  "website": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS",
+  "documentation": [
+    {
+      "title": "NSS Documentation",
+      "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.21_release_notes"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "NSS Tools",
+      "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/Tools"
+    },
+    {
+      "title": "NSS Library Installation",
+      "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_Sources_Building_Testing"
+    }
+  ]
+}

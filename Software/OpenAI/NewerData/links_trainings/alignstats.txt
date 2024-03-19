@@ -1,0 +1,16 @@
+{
+  "alignstats": {
+    "SoftwarePage": "https://github.com/jfarek/alignstats",
+    "Documentation": "https://github.com/jfarek/alignstats/blob/master/README.md",
+    "Tutorials": [
+      {
+        "Link": "https://www.melbournebioinformatics.org.au/tutorials/tutorials/aligning-data/aligning-data/",
+        "Description": "Melbourne Bioinformatics Tutorial on Aligning Data"
+      },
+      {
+        "Link": "https://bioinformatics-core-shared-training.github.io/intro-ngs/manual/Align_stats.html",
+        "Description": "Introduction to NGS Bioinformatics - Align stats"
+      }
+    ]
+  }
+}

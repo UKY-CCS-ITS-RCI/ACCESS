@@ -1,0 +1,20 @@
+{
+  "software": "cubelib",
+  "web URL": "https://www.scalasca.org/software/cube-4.x/download.html",
+  "documentation": [
+    {
+      "name": "cubelib documentation",
+      "URL": "https://www.scalasca.org/software/cube-4.x/documentation.html"
+    }
+  ],
+  "training_materials": [
+    {
+      "name": "Scalasca",
+      "URL": "https://doc.itc.rwth-aachen.de/display/CC/Scalasca"
+    },
+    {
+      "name": "Introduction to Cube - Scalasca",
+      "URL": "https://www.youtube.com/watch?v=4iY5izZuXiE"
+    }
+  ]
+}

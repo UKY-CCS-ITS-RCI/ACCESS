@@ -1,0 +1,21 @@
+Use Case: Use lua for creating a simple program to print "Hello, World!"
+
+Code details and examples: Code
+
+File Format: .lua
+
+Sample Input File: hello.lua
+
+```lua
+print("Hello, World!")
+```
+
+Specifications and Details in Input File: The file must be in Lua script format. The hello.lua file contains a single Lua command that prints the string "Hello, World!" to the console. 
+
+Command to run the code: 
+
+```bash
+lua hello.lua
+```
+
+This command tells the lua interpreter to execute the script contained in the hello.lua file.

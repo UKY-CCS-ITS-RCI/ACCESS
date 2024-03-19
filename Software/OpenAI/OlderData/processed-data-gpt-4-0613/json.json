@@ -1,0 +1,21 @@
+{
+  "Software": "json",
+  "Details": {
+    "Software Link": "https://www.json.org/json-en.html",
+    "Documentation": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON",
+    "Tutorials": [
+      {
+        "Tutorial Link": "https://www.w3schools.com/js/js_json_intro.asp"
+      },
+      {
+        "Tutorial Link": "https://www.tutorialsteacher.com/json/index"
+      },
+      {
+        "Tutorial Link": "https://www.guru99.com/json-tutorial.html"
+      },
+      {
+        "Tutorial Link": "https://www.codecademy.com/learn/paths/web-development"
+      }
+    ]
+  }
+}

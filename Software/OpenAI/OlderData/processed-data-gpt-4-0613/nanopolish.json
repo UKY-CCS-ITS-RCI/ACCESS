@@ -1,0 +1,17 @@
+{
+  "Software Name": "Nanopolish",
+  "Software Link": "https://github.com/jts/nanopolish",
+  "Documentation": {
+    "Github Wiki": "https://github.com/jts/nanopolish/wiki",
+    "Nanopolish Read the docs": "https://nanopolish.readthedocs.io/"
+  },
+  "Tutorials": {
+    "Tutorial 1": "https://github.com/jts/nanopolish/tree/master/tutorials",
+    "Tutorial 2": "https://naereen.github.io/nanopolish_tutorial/",
+    "Walkthrough Tutorial": "https://nanopolish.readthedocs.io/en/latest/quickstart_consensus.html"
+  },
+  "Training Materials": {
+    "Nanopolish Training": "https://www.ebi.ac.uk/training/online/courses/nanopore-basecalling-basecall-training-and-evaluation/nanopolish/"
+  }
+
+}

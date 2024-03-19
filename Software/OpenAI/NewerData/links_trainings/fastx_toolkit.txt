@@ -1,0 +1,29 @@
+{
+"software_name": "fastx_toolkit",
+"software_info": {
+"homepage": "http://hannonlab.cshl.edu/fastx_toolkit/",
+"documentation": "https://userweb.jlab.org/~sssylw/thesis/fastx_tookit_documentation.pdf",
+"training_and_tutorial": [
+{
+"title": "FASTX-Toolkit Tutorial",
+"url": "https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/06_trimming_and_quality_control.html#fastx-toolkit"
+},
+{
+"title": "FASTX-Toolkit User Guide",
+"url": "https://jacksonlab.sice.indiana.edu/pylon2_bin/condabin/FastxToolkit.pdf"
+},
+{
+"title": "Introduction to FASTX-Toolkit (Video)",
+"url": "https://www.youtube.com/watch?v=RA1lRqgl36c"
+},
+{
+"title": "FASTX Quality filtering",
+"url": "https://bioqubator.github.io/forum/articles/39/4.html"
+},
+{
+"title": "FASTQ Quality Filter",
+"url": "https://usegalaxy.org/u/aun1/p/fastq-quality-filter-using-fastxtoolkit"
+}
+]
+}
+}

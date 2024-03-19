@@ -1,0 +1,11 @@
+{
+  "software": {
+    "name": "nostack",
+    "url": "https://nostack.net/",
+    "documentation": "https://docs.nostack.net/",
+    "training_and_tutorials": [
+      "https://www.youtube.com/channel/UCpLEhyondAid_KInr6ATEWA",
+      "https://medium.com/nostack"
+    ]
+  }
+}

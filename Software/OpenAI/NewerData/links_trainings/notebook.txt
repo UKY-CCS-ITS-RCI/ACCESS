@@ -1,0 +1,12 @@
+{
+  "notebook": {
+    "softwarePage": "https://jupyter.org/",
+    "documentation": "https://jupyter-notebook.readthedocs.io/en/stable/",
+    "tutorials": [
+      "https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook",
+      "https://www.dataquest.io/blog/jupyter-notebook-tutorial/",
+      "https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/",
+      "https://www.codecademy.com/articles/how-to-use-jupyter-notebooks"
+    ]
+  }
+}

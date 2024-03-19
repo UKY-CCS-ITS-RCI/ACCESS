@@ -1,0 +1,11 @@
+{
+"scikit-bio": {
+"software page": "http://scikit-bio.org/",
+"documentation": "http://scikit-bio.org/docs/latest/",
+"tutorial materials": {
+"scikit-bio tutorial": "https://scikit-bio.org/docs/latest/tutorial.html",
+"scikit-bio on GitHub": "https://github.com/biocore/scikit-bio",
+"scikit-bio tutorial on readthedocs": "https://scikit-bio.readthedocs.io/en/latest/"
+}
+}
+}

@@ -1,0 +1,23 @@
+Use Case: Measure the time taken by a program to execute. In HPC scenarios, this could be used to compare efficiency of different processing units or to benchmark different algorithms or software. 
+
+Code details and examples:
+
+Code:
+
+```
+# Unix-based operating systems code
+# The `time` command is used prior to the actual command
+time ls -lh
+
+```
+This command will give the total time in seconds taken by 'ls -lh' command to provide the output including system time and user time. The command 'ls -lh' provides the list of files in a human-readable format.
+
+Running the above shell command doesn't require any specific input file. It directly provides the output on the terminal. 
+
+You can also redirect the output to a file for later analysis like:
+
+```
+(time ls -lh) > out.txt 2> time.txt
+```
+
+In this command, 'out.txt' will contain the output of 'ls -lh' command and 'time.txt' will contain the time taken by 'ls -lh' command to execute.

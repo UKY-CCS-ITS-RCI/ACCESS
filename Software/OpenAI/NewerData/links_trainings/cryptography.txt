@@ -1,0 +1,22 @@
+{
+  "ScientificSoftware": [
+    {
+      "name": "cryptography",
+      "homepage": "https://cryptography.io/en/latest/",
+      "documentation": "https://cryptography.io/en/latest/",
+      "tutorial": [
+        {
+          "name": "Python Cryptography Tutorial - Caesar Cipher",
+          "url": "https://www.thepythoncode.com/article/using-cryptography-with-python"
+        },
+        {
+          "name": "Python Cryptography Tutorial",
+          "url": "https://nitratine.net/blog/post/python-cryptography-encrypt-and-decrypt-files/"
+        }
+      ],
+      "conda_package": "https://anaconda.org/anaconda/cryptography",
+      "python_library": "https://pypi.org/project/cryptography/"
+    }
+  ]
+
+}

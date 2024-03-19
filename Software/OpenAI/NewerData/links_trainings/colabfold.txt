@@ -1,0 +1,13 @@
+{
+  "software": {
+    "name": "colabfold",
+    "softwareURL": "https://github.com/sokrypton/ColabFold",
+    "documentation": {
+      "docURL1": "https://github.com/sokrypton/ColabFold#readme"
+    },
+    "tutorials": {
+      "tutorialURL1": "https://www.youtube.com/watch?v=cRCECjgR6dg",
+      "tutorialURL2": "https://github.com/sokrypton/ColabFold#example"
+    }
+  }
+}

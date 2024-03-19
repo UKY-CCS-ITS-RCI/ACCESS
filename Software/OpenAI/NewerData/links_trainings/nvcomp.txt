@@ -1,0 +1,13 @@
+{
+  "Scientific Software": {
+    "Name": "nvcomp",
+    "Software Page": "https://github.com/NVIDIA/nvcomp",
+    "Documentation": null,
+    "Tutorials": [
+      {
+        "Title": "NVIDIA Developer Blog",
+        "URL": "https://developer.nvidia.com/blog/tag/nvcomp/"
+      }
+    ]
+  }
+}

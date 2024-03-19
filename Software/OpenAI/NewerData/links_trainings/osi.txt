@@ -1,0 +1,10 @@
+{
+  "osi": {
+    "softwareURL": "https://www.osii.com/",
+    "docsURL": "http://docs.originlab.com/",
+    "tutorialURLs": [
+       "https://lobal.download.sap.com/public/012002523100019999432018E/osa_api.pdf?version=2&principal_id=APO_KBA_CNFE",
+       "https://www.linkedin.com/learning/learning-origin"
+     ]
+   }
+}

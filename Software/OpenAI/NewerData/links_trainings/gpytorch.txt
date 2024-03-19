@@ -1,0 +1,31 @@
+{
+  "software": "gpytorch",
+  "details": [
+    {
+      "softwarePage": {
+        "url": "https://gpytorch.ai/"
+      },
+      "documentation": {
+        "url": "https://docs.gpytorch.ai/"
+      },
+      "tutorials": [
+        {
+          "title": "Fitting a Model with GPyTorch and PyTorch",
+          "url": "https://docs.gpytorch.ai/en/latest/examples/01_Exact_GPs/Simple_GP_Regression.html"
+        },
+        {
+          "title": "Introduction to GPyTorch",
+          "url": "https://towardsdatascience.com/introduction-to-gpytorch-c6f3698a3153"
+        },
+        {
+          "title": "Deep kernel learning with gpytorch",
+          "url": "https://towardsdatascience.com/deep-kernel-learning-with-gpytorch-5e9b2e5e3b1f"
+        },
+        {
+          "title": "GPyTorch: Black-Box Matrix-Matrix Gaussian Process Inference with GPU Acceleration",
+          "url": "https://arxiv.org/pdf/1809.11165.pdf"
+        }
+      ]
+    }
+  ]
+}

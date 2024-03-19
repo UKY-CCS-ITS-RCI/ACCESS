@@ -1,0 +1,23 @@
+{
+"name": "WRF (Weather Research and Forecasting Model)",
+"softwarePage": "https://www.mmm.ucar.edu/weather-research-and-forecasting-model",
+"documentation": "http://www2.mmm.ucar.edu/wrf/users/docs/user_guide_v4/contents.html",
+"tutorialMaterials": [
+    {
+        "name": "WRF Model Tutorial",
+        "url": "https://dtcenter.org/wrf-nmm/users/tutorial/overview/index.php"
+    },
+    {
+        "name": "WRF Tutorial Videos",
+        "url": "https://www.youtube.com/playlist?list=PL7jEhXLSTc1IH_LOwa9VTrrn_pol4n7Zr"
+    },
+    {
+        "name": "Introduction to WRF Modeling",
+        "url": "https://cislarob.wixsite.com/wrf-tutorial"
+    },
+    {
+        "name": "WRF Python Tutorial",
+        "url": "https://wrf-python.readthedocs.io/en/latest/"
+    }
+  ]
+}

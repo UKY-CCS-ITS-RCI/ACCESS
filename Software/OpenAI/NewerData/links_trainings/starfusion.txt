@@ -1,0 +1,16 @@
+{
+  "starfusion": {
+    "software_page": "https://github.com/STAR-Fusion/STAR-Fusion",
+    "documentation": "https://github.com/STAR-Fusion/STAR-Fusion/wiki",
+    "tutorial_materials": [
+      {
+         "url": "https://data.broadinstitute.org/Trinity/STAR_FUSION/SUPPLEMENT/STAR-Fusion_v0.1.0.SUPPLEMENT.pdf",
+         "title": "Trinity Star- Fusion Supplement Tutorial"
+      },
+      {
+         "url": "https://github.com/STAR-Fusion/STAR-Fusion/wiki#basic-example",
+         "title": "Basic example from official Wiki"
+      }
+    ]
+  }
+}

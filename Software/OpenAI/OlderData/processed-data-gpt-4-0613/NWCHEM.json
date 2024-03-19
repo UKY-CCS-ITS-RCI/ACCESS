@@ -1,0 +1,24 @@
+{
+  "software": "NWCHEM",
+  "website": "http://www.nwchem-sw.org/",
+  "documentation": [
+    {
+      "title": "NWCHEM Documentation",
+      "url": "http://www.nwchem-sw.org/index.php/Documentation"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "A short tutorial on How to use NWCHEM",
+      "url": "https://staff.aist.go.jp/a.nakayama/study/NWChemTutorial01.html"
+    },
+    {
+      "title": "NWCHEM: A Computational Chemistry Package for Parallel Computers - an Introduction and Overview",
+      "url": "https://www.youtube.com/watch?v=DtPoVG81DJY"
+    },
+    {
+      "title": "Highly Scalable Ab Initio Genomic Motif Characterization - Lecture 2 - NWCHEM",
+      "url": "https://www.youtube.com/watch?v=5K9OX1Zzdlo"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "software_name":"libdrm",
+  "software_web_page_url":"https://dri.freedesktop.org/",
+  "documentation_url":"https://dri.freedesktop.org/docs/drm/",
+  "tutorial_and_training_materials":[
+    {
+      "name":"DRM-KMS tutorial",
+      "url":"https://01.org/linuxgraphics/gfx-docs/drm/index.html"
+    },
+    {
+      "name":"Introduction to Direct Rendering Manager (DRM)",
+      "url":"https://www.kernel.org/doc/html/stable/gpu/drm-introduction.html"
+    }
+  ]
+}

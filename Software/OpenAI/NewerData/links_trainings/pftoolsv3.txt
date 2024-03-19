@@ -1,0 +1,16 @@
+{
+  "name": "pftoolsv3",
+  "information": [
+    {
+      "description": "Parallel File Tools (pfTools) is a suite of applications that utilise multi-threading and message passing (MPI) for copying, comparing and removing large datasets across a parallel filesystem.",
+      "url": "https://github.com/pftool/pftool",
+      "documentation": "https://pftool.readthedocs.io/en/latest/",
+      "tutorials": [
+        {
+          "title": "pfTool Tutorial",
+          "url": "https://github.com/pftool/pftool/tree/master/tutorial"
+        }
+      ]
+    }
+  ]
+}

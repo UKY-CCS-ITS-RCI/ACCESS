@@ -1,0 +1,17 @@
+{
+  "Software": "fftw.mpi",
+  "Software_url": "http://www.fftw.org/",
+  "Documentation":
+  [
+    {
+      "Documentation_url": "http://www.fftw.org/doc/"
+    }
+  ],
+  "Training_materials":
+  [
+    {
+      "Tutorial_url": "https://www.kth.se/blogs/pdc/2019/03/how-to-use-fftw-wisely/",
+      "Training_url": "https://www.youtube.com/watch?v=ogZi5V5MOTk"
+    }
+  ]
+}

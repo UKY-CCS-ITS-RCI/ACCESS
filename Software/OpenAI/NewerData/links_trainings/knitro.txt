@@ -1,0 +1,25 @@
+{
+  "Software": "Knitro",
+  "Details": {
+    "Software_URL": "https://www.artelys.com/solvers/knitro/",
+    "Documentation_URL": "https://www.artelys.com/tools/knitro_doc/",
+    "Tutorials": [
+      {
+        "Title": "Getting Started with Knitro",
+        "URL": "https://www.artelys.com/docs/knitro/3_referenceManual/userGuide/gettingStarted.html"
+      },
+      {
+        "Title": "Knitro API",
+        "URL": "https://www.artelys.com/docs/knitro/index.html"
+      },
+      {
+        "Title": "Knitro Python Interface",
+        "URL": "https://www.artelys.com/docs/knitro/3_referenceManual/userGuide/interfaces/python.html"
+      },
+      {
+        "Title": "Knitro Interface for Matlab",
+        "URL": "https://www.artelys.com/docs/knitro/3_referenceManual/userGuide/interfaces/matlab.html"
+      }
+    ]
+  }
+}

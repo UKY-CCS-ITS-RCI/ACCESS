@@ -1,0 +1,17 @@
+{
+  "software": {
+    "name": "python-isal",
+    "link": "https://pypi.org/project/python-isal/",
+    "documentation": "https://python-isal.readthedocs.io/en/latest/",
+    "tutorials": [
+      {
+        "tutorial_name": "Python-isal Tutorial in PyPi",
+        "link": "https://pypi.org/project/python-isal/"
+      },
+      {
+        "tutorial_name": "Python-isal Tutorial in Github",
+        "link": "https://github.com/pycompression/python-isal"
+      }
+    ]
+  }
+}

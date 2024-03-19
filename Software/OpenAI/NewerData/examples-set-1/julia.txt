@@ -1,0 +1,32 @@
+Use Case: Julia is frequently used in high-performance computing for tasks that require mathematical computation, such as data analysis or statistical modeling. For this use case, the input file required is a .jl file that contains the Julia assignments to be executed. There are no concrete specifications for the input file, as it may contain a wide variety of Julia code, including function definitions, variable assignments, control flow statements, etc. The Julia code will be executed from the command line by passing the filename to the 'julia' command. 
+
+Code details and examples: 
+
+Code:
+
+```
+# This is a simple example of a Julia script saved in a .jl file
+# we define a simple function
+
+function squares(n)
+    return [i^2 for i in 1:n]
+end
+
+# now we call that function
+squares(10)
+```
+This script defines a function called `squares` which calculates the squares of numbers from 1 to `n`. It then calls the function with an argument of 10. 
+
+To run this script from the command line, one would save it as e.g. `script.jl`, then execute `julia script.jl`.
+
+Julia also has a variety of packages available for different computational tasks, which can be loaded with the `using` keyword inside a Julia script. For instance, 
+
+Code: 
+
+```
+using DataFrames
+
+df = DataFrame(A = 1:4, B = ["M", "F", "F", "M"])
+```
+
+In this script, we are loading the DataFrames package and then creating a new DataFrame using it. This script would also be run by saving it as a .jl file and passing the filename to the 'julia' command.

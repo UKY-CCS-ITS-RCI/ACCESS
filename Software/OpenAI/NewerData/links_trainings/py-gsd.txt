@@ -1,0 +1,14 @@
+{
+  "Software": "py-gsd",
+  "Category": "Python Libraries",
+  "Links": {
+    "Software_Page": "https://gsd.readthedocs.io/en/stable/",
+    "Documentation": "https://gsd.readthedocs.io/en/stable/",
+    "Tutorials": [
+      "https://gsd.readthedocs.io/en/stable/tutorial.html",
+      "https://www.youtube.com/watch?reload=9&v=N1oXFtFSAb4",
+      "https://www.programcreek.com/python/index/106045/py-gsd.gsd.fl.GSDFile",
+      "https://joss.theoj.org/papers/10.21105/joss.02168"
+    ]
+  }
+}

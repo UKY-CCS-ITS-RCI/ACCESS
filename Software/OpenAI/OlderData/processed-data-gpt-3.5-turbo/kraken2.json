@@ -1,0 +1,20 @@
+{
+    "software name": "Kraken 2",
+    "comprehensive overview": "Kraken 2 is a bioinformatics tool used for taxonomic classification of DNA sequences from metagenomic samples. It efficiently assigns taxonomic labels to sequencing reads based on k-mer matching and a pre-built reference database, providing insights into the microbial composition of environmental samples.",
+    "core features": [
+        "Classification of metagenomic sequences based on k-mer matching",
+        "Utilizes reference databases for taxonomic assignment",
+        "Identification of microbial diversity in complex samples"
+    ],
+    "general tags": [
+        "Bioinformatics",
+        "Metagenomics",
+        "Taxonomic Classification"
+    ],
+    "additional tags": {
+        "research discipline": "Computational Biology",
+        "research area": "Metagenomic Analysis",
+        "software class": "Sequence Classification Tool",
+        "software type": "Bioinformatics Tool"
+    }
+}

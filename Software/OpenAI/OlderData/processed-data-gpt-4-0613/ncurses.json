@@ -1,0 +1,12 @@
+
+{
+  "NCurses": {
+    "Software Page": "https://www.gnu.org/software/ncurses/",
+    "Documentation": "https://www.gnu.org/software/ncurses/ncurses.html",
+    "Tutorials": [
+      "https://www.example.com/ncurses/tutorial1",
+      "https://www.example.com/ncurses/tutorial2"
+    ]
+  }
+}
+

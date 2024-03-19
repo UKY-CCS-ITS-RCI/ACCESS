@@ -1,0 +1,11 @@
+{
+  "Software": "rmats",
+  "Links": {
+    "Software Page": "http://rnaseq-mats.sourceforge.net/",
+    "Documentation": "http://rnaseq-mats.sourceforge.net/user_guide.htm",
+    "Tutorials": {
+      "rMATS tutorial": "https://sourceforge.net/p/rnaseq-mats/wiki/Home/",
+      "rMATS Basic Usage": "https://sourceforge.net/p/rnaseq-mats/wiki/Basic%20Usage/"
+    }
+  }
+}

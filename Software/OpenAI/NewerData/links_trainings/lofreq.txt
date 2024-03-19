@@ -1,0 +1,16 @@
+{
+  "name": "Lofreq",
+  "software_page": "https://csb5.github.io/lofreq/",
+  "links": {
+    "documentation": "https://csb5.github.io/lofreq/command-line/",
+    "training_materials": [
+      "https://pubmed.ncbi.nlm.nih.gov/23066108/",
+      "https://www.biostars.org/p/73256/",
+      "https://www.nature.com/articles/s41467-019-09046-6.pdf"
+    ],
+    "tutorial_materials": [
+      "https://www.youtube.com/watch?v=lwlRQzJzDtA",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3516140/"
+    ]
+  }
+}

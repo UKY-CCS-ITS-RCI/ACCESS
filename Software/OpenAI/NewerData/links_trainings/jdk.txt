@@ -1,0 +1,32 @@
+{
+    "software": "JDK",
+    "link": "https://www.oracle.com/java/technologies/javase-jdk11-downloads.html",
+    "documentation": [
+        {
+            "description": "Official Java Development Kit Documentation",
+            "url": "https://docs.oracle.com/en/java/javase/11/"
+        },
+        {
+            "description": "Java 11 API Documentation",
+            "url": "https://docs.oracle.com/en/java/javase/11/docs/api/index.html"
+        }
+    ],
+    "tutorials": [
+        {
+            "description": "Official Java Tutorials",
+            "url": "https://docs.oracle.com/javase/tutorial/"
+        },
+        {
+            "description": "Intro to Java Programming - Udemy",
+            "url": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+        },
+        {
+            "description": "Java Programming Masterclass - Udemy",
+            "url": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+        },
+        {
+            "description": "Java Programming and Software Engineering Fundamentals - Coursera",
+            "url": "https://www.coursera.org/specializations/java-programming"
+        }
+    ]
+}

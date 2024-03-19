@@ -1,0 +1,12 @@
+{
+  "Software Name": "Intel IPP IA32",
+  "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/integrated-performance-primitives.html",
+  "Documentation": [
+    "https://software.intel.com/content/www/us/en/develop/articles/intel-integrated-performance-primitives-documentation.html"
+  ],
+  "Training and Tutorial Materials": [
+    "https://software.intel.com/content/www/us/en/develop/training/course-ipp-fundamentals.html",
+    "https://www.youtube.com/watch?v=wghikm_1kYc",
+    "https://www.intel.com/content/www/us/en/developer/training/software-development-libraries.html"
+  ]
+}

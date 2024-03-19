@@ -1,0 +1,16 @@
+{
+  "software_name": "cellsnp-lite",
+  "software_URL": "https://github.com/single-cell-genetics/cellsnp-lite",
+  "documentation": {
+    "Github Wiki": "https://github.com/single-cell-genetics/cellsnp-lite/wiki",
+    "User Guide": "https://github.com/single-cell-genetics/cellsnp-lite/wiki/User-Guide"
+  },
+  "tutorials": {
+    "Installation Guide": "https://github.com/single-cell-genetics/cellsnp-lite/wiki/Installation",
+    "Quick Start Guide": "https://github.com/single-cell-genetics/cellsnp-lite/wiki/Quick-Start-Guide",
+    "Usage Examples": "https://github.com/single-cell-genetics/cellsnp-lite/wiki/Usage-Examples"
+  },
+  "additional_resources": {
+    "Source Code": "https://github.com/single-cell-genetics/cellsnp-lite"
+  }
+}

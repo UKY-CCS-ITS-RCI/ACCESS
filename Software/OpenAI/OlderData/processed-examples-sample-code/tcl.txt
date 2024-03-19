@@ -1,0 +1,22 @@
+Use Case: Programming Language
+
+Code details and examples:
+Tcl is a programming language commonly used for scripting and rapid prototyping. Here is a simple example of a Tcl script:
+
+```tcl
+# hello_world.tcl
+puts "Hello, World!"
+```
+
+To run this Tcl script, you can use the following command in the terminal:
+
+```bash
+tclsh hello_world.tcl
+```
+
+This will output:
+```
+Hello, World!
+```
+
+In Tcl scripts, the `.tcl` extension is commonly used, but it is not mandatory.

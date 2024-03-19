@@ -1,0 +1,16 @@
+{
+  "Software_Name": "Chemprop",
+  "Software_Website": "https://chemprop.csail.mit.edu/",
+  "Documentation_Link": "https://chemprop.readthedocs.io/en/latest/",
+  "Tutorial_and_Training_Materials": [
+      {
+        "Tutorials_Link_1": "https://github.com/chemprop/chemprop#tutorial"
+      },
+      {
+        "Training_Link_1": "https://chemprop.csail.mit.edu/train"
+      },
+      {
+        "Online_Course_Link_1": "https://github.com/chemprop/chemprop#training-a-model"
+      }
+  ]
+}

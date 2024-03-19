@@ -1,0 +1,13 @@
+{
+  "Software Name": "Doxygen",
+  "Software Link": "http://www.doxygen.nl/",
+  "Documentation": {
+    "Doxygen Manual": "http://www.doxygen.nl/manual/index.html",
+    "Doxygen Primer": "http://www.doxygen.nl/manual/doxygen_usage.html"
+  },
+  "Training & Tutorial": {
+    "Doxygen Tutorial": "https://www.eecs.umich.edu/courses/eecs487/doxygen/",
+    "Doxygen Tutorial by Cornell University": "https://www.cs.cornell.edu/courses/cs2112/2018fa/labs/lab01/docexamples/Doxygen/Doxygen.html",
+    "Doxygen Step-by-Step Tutorial": "https://cs.gmu.edu/~bensberg/courses/cs703-001-fall15/javadoc/Doxygen/Tutorials/DoxyPages/InstructionSet/DoxygenStepByStep.html"
+  }
+}

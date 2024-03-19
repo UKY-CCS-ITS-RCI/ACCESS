@@ -1,0 +1,38 @@
+Use Case: Elemental is a distributed-memory dense and sparse-direct linear algebra and optimization library, and it can be used for various purposes such as solving linear systems, factorizing matrices, and computing eigenvalues and singular values, etc.
+
+Code details and examples: 
+
+Input:
+
+You would typically pass a .m file containing the matrix and the command line option to run the software would be similar to:
+
+```terminal
+mpiexec -n 2 ./tests/HermitianGenDefEig
+```
+
+It important to set the MPI -n option to the number of cores on your machine for parallel computation and replace ./tests/HermitianGenDefEig with the correct path of your test file.
+
+Code:
+```Python
+#!/usr/bin/env python
+import El
+n0 = 100
+n1 = 100
+
+# Start Elmer
+El.Initialize()
+
+# Construct a 2D process grid from the number of processes
+grid = El.Grid(El.mpi.COMM_WORLD)
+n = n0*n1
+A = El.DistMatrix(grid)
+El.HermitianUniformSpectrum(A,n,1,10)
+lambdas = El.DistMatrix(El.mpi.COMM_WORLD)
+El.HermitianGenDefEig(El.AXBX,El.ADJ,El.UPPER,A,A,lambdas)
+El.Zeros(A,n,1)
+El.Multiply(El.NORMAL,El.NORMAL,1,lambdas,A,A)
+
+El.Finalize()
+```
+
+By running the command on the command line, it will perform a hermitian generalized definite eigenproblem on a distributed memory and store the result in A.

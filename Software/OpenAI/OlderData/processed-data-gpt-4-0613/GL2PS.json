@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GL2PS": {
+      "MainPage": "http://www.geuz.org/gl2ps/",
+      "Documentation": "http://www.geuz.org/gl2ps/doc/index.html",
+      "Tutorials": [
+        "https://web.mit.edu/drela/Public/web/xfoil/gl2ps_README.txt",
+        "https://www.pdc.kth.se/support/documents/data_analysis/visualization/visit/visit_manual/VisItManualApd.html",
+        "https://www.opengroup.org/middleware/bomas/technologies/opengl/gl2ps.htm"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "software": "libtasn1",
+  "software_url": "https://www.gnu.org/software/libtasn1/",
+  "documentation": [
+    {
+      "documentation_name": "libtasn1 manual",
+      "documentation_url": "https://www.gnu.org/software/libtasn1/manual/"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorial_name": "libtasn1 API documentation",
+      "tutorial_url": "https://www.gnu.org/software/libtasn1/manual/libtasn1.html"
+    },
+    {
+      "tutorial_name": "libtasn1 Practical Introduction",
+      "tutorial_url": "https://www.gnu.org/software/libtasn1/manual/html_node/Practical-Introduction.html"
+    }
+  ]
+}

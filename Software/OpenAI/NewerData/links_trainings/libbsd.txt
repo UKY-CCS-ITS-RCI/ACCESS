@@ -1,0 +1,9 @@
+{
+  "Name": "libbsd",
+  "SoftwarePage": "https://libbsd.freedesktop.org/wiki/",
+  "AdditionalLinks": {
+    "Documentation": "https://manpages.ubuntu.com/manpages/bionic/man7/libbsd.7.html",
+    "Tutorials": [],
+    "TrainingMaterials": []
+  }
+}

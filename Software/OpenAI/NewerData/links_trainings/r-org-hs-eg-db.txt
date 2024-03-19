@@ -1,0 +1,20 @@
+{
+  "software": "r-org-Hs-eg-db",
+  "softwareURL": "https://bioconductor.org/packages/release/data/annotation/html/org.Hs.eg.db.html",
+  "documentation": [
+    {
+      "name": "Bioconductor package documentation",
+      "URL": "https://bioconductor.org/packages/release/data/annotation/manuals/org.Hs.eg.db/man/org.Hs.eg.db.pdf"
+    }
+  ],
+  "trainingMaterials": [
+    {
+      "name": "Bioconductor tutorial on annotation packages",
+      "URL": "https://www.bioconductor.org/help/course-materials/2017/BiocIntroNovember17/annotate.pdf"
+    },
+    {
+      "name": "Bioconductor tutorial: Annotation workflow",
+      "URL": "https://www.bioconductor.org/help/workflows/annotation/annotation/"
+    }
+  ]
+}

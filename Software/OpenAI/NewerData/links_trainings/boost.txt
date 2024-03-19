@@ -1,0 +1,14 @@
+{
+  "software_name": "Boost",
+  "software_link": "https://www.boost.org/",
+  "documentation": {
+    "Getting Started Guide": "https://www.boost.org/doc/libs/1_76_0/more/getting_started/index.html",
+    "Boost libraries documentation": "https://www.boost.org/doc/libs/"
+  },
+  "tutorials": {
+    "Boost Tutorial": "http://www.highscore.de/boost/index.html",
+    "Boost C++ libraries": "https://theboostcpplibraries.com/",
+    "Boost Library Training Course on YouTube": "https://www.youtube.com/watch?v=9fHwv8UcD24",
+    "Boost Documentation PDF": "https://www.crystalclearsoftware.com/cgi-bin/boost_wiki/wiki.pl?BoostDocumentation"
+  }
+}

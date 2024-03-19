@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "FastQC": {
+      "MainPage": "https://www.bioinformatics.babraham.ac.uk/projects/fastqc/",
+      "Documentation": "https://www.bioinformatics.babraham.ac.uk/projects/docs/fastqc/Help/3%20Analysis%20Modules/",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=bz93ReOv87Y",
+        "https://hbctraining.github.io/Training-modules/DNA-seq_QC/shell/fastqc/",
+        "https://galaxyproject.org/tutorials/quality/"
+      ]
+    }
+  }
+}

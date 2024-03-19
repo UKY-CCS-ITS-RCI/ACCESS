@@ -1,0 +1,19 @@
+{
+  "software": "Scalapack",
+  "link": "http://www.netlib.org/scalapack/",
+  "documentation": [
+    {
+      "link": "http://www.netlib.org/scalapack/slug/"
+    }
+  ],
+  "training_materials": [
+    {
+      "title": "Introduction to Scalapack",
+      "link": "http://www.netlib.org/scalapack/tutorial/"
+    },
+    {
+      "title": "Scalapack User's Guide",
+      "link": "http://www.netlib.org/scalapack/slug/node1.html"
+    }
+  ]
+}

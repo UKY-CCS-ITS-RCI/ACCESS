@@ -1,0 +1,14 @@
+{
+  "Software_Name": "Dsuite",
+  "Software_URL": "https://github.com/millanek/Dsuite",
+  "Documentation": [
+    {
+      "Doc_URL": "https://github.com/millanek/Dsuite#readme"
+    }
+  ],
+  "Tutorials_Training": [
+    {
+      "Tutorial_URL": "https://popgen.dk/software/index.php/Dsuite"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "r-askpass",
+  "software_page": "https://cran.r-project.org/web/packages/askpass/index.html",
+  "documentation": [
+    {
+      "name": "CRAN Documentation",
+      "url": "https://cran.r-project.org/web/packages/askpass/askpass.pdf"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "A Simple R Package for Password Input",
+      "url": "https://www.rdocumentation.org/packages/askpass"
+    },
+    {
+      "name": "askpass Overview",
+      "url": "https://www.rdocumentation.org/packages/askpass/versions/1.1"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Use Case: Dream3D is a software package that aids in the analysis of 3D/4D data sets in materials science. Some common usages include visualisation of 3D microstructure data, data reconstruction, and continuous homogenization.
+
+Code details and examples: 
+
+In Dream3D, the input file formats are .ang, .ctf, .csv, .h5 or .dream3d formats. The .ang and .ctf formats are similar and used for electron backscatter diffraction data. Whereas, .csv format is used for statistical data, .h5 and .dream3d formats are for storing data that is created within the Dream3D environment.
+
+To load an .ang file into Dream3D, you can use the 'ReadAngData' filter.
+
+Here is an example of a command-line script for running Dream3D:
+
+Dream3D
+- -pipeline DefaultPipelines/Reconstruction/01_SmallIN100FullReconstruction.json
+- -angFile SmallIN100/Slice_1.ang
+
+'- -pipeline' provides the path of the pipeline file to use to pre-process the data whereas '-angFile' path is used to import an .ang EBSD file into Dream3D.

@@ -1,0 +1,14 @@
+{
+  "Software_Name": "RAPIDS",
+  "Software_URL": "https://rapids.ai/",
+  "Documentation_URL": "https://docs.rapids.ai/",
+  "Training_Tutorial_Materials": [
+    {
+      "Intro_to_RAPIDS": "https://developer.nvidia.com/rapids/overview",
+      "Getting_Started_Guide": "https://rapids.ai/start.html",
+      "GitHub_Tutorials": "https://github.com/rapidsai/cloud-ml-examples",
+      "Conda_Package": "https://anaconda.org/rapidsai/rapids",
+      "Webinar_Series": "https://rapids.ai/learn.html"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+Use Case: Use Charliecloud to run Singularity or Docker style Linux container file systems for high performance computing. 
+
+Code details and examples: Code
+
+1. Sample input file for Charliecloud: This uses a simple Dockerfile
+
+```
+# Dockerfile
+FROM ubuntu:18.04
+RUN apt-get update && apt-get install -y \
+    vim \
+    net-tools \
+    inetutils-ping
+```
+2. Build the Docker image:
+
+```
+docker build -t example .
+```
+3. Convert Docker image to Charliecloud tarball:
+
+```
+ch-docker2tar example /var/tmp
+```
+4. Import Charliecloud tarball:
+
+```
+ch-tar2dir /var/tmp/example.tar.gz /var/tmp
+```
+5. Run command in Charliecloud container:
+
+```
+ch-run /var/tmp/example -- /bin/bash
+```
+
+Note: All of these commands must be run in a Linux shell, not within a container. Also, the Charliecloud commands must be run as root, or with sudo, to have the necessary permissions to create and manipulate the container filesystems.

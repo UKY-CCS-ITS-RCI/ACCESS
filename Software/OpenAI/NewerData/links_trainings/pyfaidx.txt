@@ -1,0 +1,23 @@
+{
+  "softwareName": "pyfaidx",
+  "softwarePageURL": "https://pypi.org/project/pyfaidx/",
+  "documentationURL": "https://pythonhosted.org/pyfaidx/",
+  "tutorialsAndTrainingMaterials": [
+    {
+      "name": "API Example",
+      "URL": "https://pythonhosted.org/pyfaidx/#api-example"
+    },
+    {
+      "name": "Command-Line Usage",
+      "URL": "https://pythonhosted.org/pyfaidx/#command-line-usage"
+    },
+    {
+      "name": "Basic References",
+      "URL": "https://www.biostars.org/p/220144/"
+    },
+    {
+      "name": "Python for Bioinformatics: Pyfaidx",
+      "URL": "https://pythonscience.blogspot.com/2018/02/pyfaidx.html"
+    }
+  ]
+}

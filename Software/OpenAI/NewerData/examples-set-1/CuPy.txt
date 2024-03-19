@@ -1,0 +1,28 @@
+Use Case: Use CuPy for matrix computation or n-dimensional array; CuPy is good for numerical computations using GPU. 
+
+Code details and examples: Code.
+
+```python
+import cupy as cp
+
+x_gpu = cp.array([1, 2, 3])
+y_gpu = cp.array([4, 5, 6])
+z_gpu = x_gpu * y_gpu
+
+print(z_gpu)
+```
+
+The input file is not applicable here, as the values are directly provided in the code.
+
+Sample Output: array([ 4, 10, 18])
+
+Once the code is written, you can run it from the terminal or any Python environment with the command:
+
+```bash
+python filename.py
+```
+Make sure your Python environment has CuPy installed and if you're running from the terminal, replace `filename` with the actual Python file name. 
+
+Specifications and Details in input files: N/A for this case as we are directly inputting the arrays in the code.
+
+There is no specific format required for this case as input is not taken from a file but given directly in the code.

@@ -1,0 +1,54 @@
+Use Case: Trilinos is a highly modular scientific software under the HPC (High Performance Computing) tools. It can be used for solving system of linear equations, eigenvalue problems, and includes support for parallel computing.
+
+Code Details and Examples:
+
+Code: 
+
+# This is a comment.
+# The purpose of this code is to demonstrate
+# how to solve a system of linear equations
+# using the AztecOO solver in Trilinos.
+
+# Step 1. Include the necessary headers.
+#include "AztecOO.h"
+#include "Epetra_Map.h"
+#include "Epetra_Vector.h"
+#include "Epetra_CrsMatrix.h"
+#include "Epetra_FEVector.h"
+
+# Step 2. Set up the map.
+Epetra_SerialComm Comm;
+Epetra_Map Map(10, 0, Comm);
+
+# Step 3. Create the vectors.
+Epetra_Vector b(Map);
+Epetra_Vector x(Map);
+
+# Step 4. Set up the matrix.
+Epetra_CrsMatrix A(Copy, Map, 3);
+A(0,0) = 4;
+A(0,1) = -1;
+A(0,2) = -1;
+A(1,0) = -1;
+A(1,1) = 4;
+A(1,2) = -1;
+# Continue in this way for all matrix elements...
+A.FillComplete();
+
+# Step 5. Set up the solver.
+AztecOO Solver(A, &x, &b);
+
+# Step 6. Solve the system.
+Solver.Iterate(1000, 1e-10);
+
+These input files are in standard text format. The format required is either .cpp or .h for the program files, and the data files can be in a range of formats such as .txt and .dat.
+
+This script does not require any specific instructions as such but you may need to set up Epetra and AztecOO within Trilinos and link these to your program.
+
+Command to run: 
+
+Use the `c++` compiler to compile the code, and then execute the object file. 
+```shell
+c++ -o solve system solve_system.cpp 
+.\solve_system
+```

@@ -1,0 +1,24 @@
+{
+  "software": "Phrap",
+  "software_url": "http://www.phrap.org/",
+  "documentation": [
+    {
+      "url": "http://www.phrap.org/phredphrapconsed.html",
+      "title": "Phrap Documentation"
+    },
+    {
+      "url": "http://www.phrap.org/consed/consed.html#documentation",
+      "title": "Consed Documentation"
+    }
+  ],
+  "tutorials_and_training": [
+    {
+      "url": "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/next-generation-sequencing-tutorials/quality-control-of-raw-sequence-reads-phred/",
+      "title": "Tutorial on Quality Control of Raw Sequence Reads using Phred"
+    },
+    {
+      "url": "https://seqanswers.com/forums/showthread.php?t=4396",
+      "title": "Discussion on SeqAnswers about Phrap usage"
+    }
+  ]
+}

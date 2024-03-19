@@ -1,0 +1,9 @@
+{
+    "softwareName": "trtools",
+    "softwareLink": "https://github.com/hliang/trtools",
+    "docLink": "https://github.com/hliang/trtools/tree/master/docs",
+    "tutorialLink": [
+        "https://github.com/hliang/trtools/tree/master/docs/tutorial",
+        "https://trtools.readthedocs.io"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "Software Name": "patchelf",
+  "Website": "https://nixos.org/releases/patchelf/patchelf-0.9/",
+  "Documentation": "https://nixos.org/releases/patchelf/patchelf-0.9/manual.html",
+  "Tutorials and Training Materials": [
+    {
+      "Name": "Installing PatchELF",
+      "URL": "https://linuxhint.com/install_patchelf_ubuntu/"
+    },
+    {
+      "Name": "patchelf usage",
+      "URL": "https://unix.stackexchange.com/questions/294562/what-does-patchelf-do"
+    }
+  ]
+}

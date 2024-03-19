@@ -1,0 +1,23 @@
+{
+"name": "Anaconda",
+"softwarePage": "https://www.anaconda.com/",
+"documentation": "https://conda.io/projects/conda/en/latest/index.html",
+"tutorialMaterials": [
+    {
+        "name": "Getting started with Anaconda",
+        "url": "https://docs.anaconda.com/anaconda/user-guide/getting-started/"
+    },
+    {
+        "name": "Introduction to Anaconda",
+        "url": "https://www.youtube.com/watch?v=YJC6ldI3hWk"
+    },
+    {
+        "name": "Introduction to Anaconda for Python",
+        "url": "https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x"
+    },
+    {
+        "name": "Welcome to the Anaconda Enterprise Docs",
+        "url": "https://docs.anaconda.com/ae-notebooks/"
+    }
+  ]
+}

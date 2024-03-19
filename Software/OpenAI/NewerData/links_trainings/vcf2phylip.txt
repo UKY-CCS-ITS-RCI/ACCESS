@@ -1,0 +1,7 @@
+{
+  "Software": "vcf2phylip",
+  "Link": "https://github.com/edgardomortiz/vcf2phylip",
+  "Documentation": "https://github.com/edgardomortiz/vcf2phylip",
+  "Tutorial": "https://github.com/edgardomortiz/vcf2phylip#tutorial",
+  "Additional Resources": []
+}

@@ -1,0 +1,11 @@
+{
+  "chewbbaca": {
+    "Software page": "https://github.com/B-UMMI/chewBBACA",
+    "Documentation": "https://github.com/B-UMMI/chewBBACA/wiki",
+    "Tutorials and Training Materials": [
+      "https://github.com/B-UMMI/chewBBACA_tutorial",
+      "https://jcm.asm.org/content/56/8/e00217-18",
+      "https://www.sciencedirect.com/science/article/pii/S0092867420305034?via%3Dihub"
+    ]
+  }
+}

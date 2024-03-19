@@ -1,0 +1,15 @@
+
+{
+    "name": "Matplotlib",
+    "software_page": "https://matplotlib.org/",
+    "documentation": "https://matplotlib.org/stable/contents.html",
+    "tutorials": [
+        "https://matplotlib.org/stable/tutorials/index.html",
+        "https://realpython.com/python-matplotlib-guide/",
+        "https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python"
+    ],
+    "additional_resources": [
+        "https://github.com/matplotlib/matplotlib",
+        "https://stackoverflow.com/questions/tagged/matplotlib"
+    ]
+}

@@ -1,0 +1,12 @@
+
+{
+  "MongoDB": {
+    "Software Page": "https://www.mongodb.com/",
+    "Documentation": "https://docs.mongodb.com/",
+    "Tutorials": [
+      "https://docs.mongodb.com/manual/tutorial/",
+      "https://www.mongodb.com/what-is-mongodb"
+    ]
+  }
+}
+

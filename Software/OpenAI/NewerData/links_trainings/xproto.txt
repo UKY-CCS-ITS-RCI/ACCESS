@@ -1,0 +1,20 @@
+{
+  "Software Name": "xproto",
+  "Software Page": "https://www.x.org/releases/current/doc/xproto/x11protocol.html",
+  "Documentation": [
+    {
+      "Link": "https://www.x.org/releases/X11R7.7/doc/xproto/x11protocol.html",
+      "Description": "Official XProtocol documentation"
+    }
+  ],
+  "Tutorial Materials": [
+    {
+      "Link": "https://wiki.freedesktop.org/www/Software/xlibs/",
+      "Description": "Tutorial for xlibs that handle xproto"
+    },
+    {
+      "Link":"https://www.systutorials.com/docs/linux/man/1-xproto/",
+      "Description":"xproto man page"
+    }
+  ]
+}

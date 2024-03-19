@@ -1,0 +1,28 @@
+{
+  "Software": "plink",
+  "Software_URL": "http://zzz.bwh.harvard.edu/plink/",
+  "Documentation": [
+    {
+      "Doc_Name": "Plink Documentation",
+      "Doc_URL": "https://www.cog-genomics.org/plink/"
+    },
+    {
+      "Doc_Name": "Plink (toolset) - Wikipedia",
+      "Doc_URL": "https://en.wikipedia.org/wiki/Plink_(toolset)"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Tut_Name": "Plink tutorial",
+      "Tut_URL": "http://zzz.bwh.harvard.edu/plink/tutorial.shtml"
+    },
+    {
+      "Tut_Name": "Plink Tutorial Video",
+      "Tut_URL": "https://www.youtube.com/watch?v=5WcAQdtAZ60"
+    },
+    {
+      "Tut_Name": "Plink: Basic command line tutorial",
+      "Tut_URL": "https://privefl.github.io/bigsnpr/articles/practical-computations.html"
+    }
+  ]
+}

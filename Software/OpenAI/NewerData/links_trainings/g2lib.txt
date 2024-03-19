@@ -1,0 +1,11 @@
+{
+    "Software Name": "g2lib",
+    "Software Page": "https://github.com/NOAA-EMC/NCEPLIBS-g2",
+    "Documentation Link": "https://github.com/NOAA-EMC/NCEPLIBS-g2/wiki",
+    "Tutorial Material": [
+        {
+            "URL1": "https://www.nco.ncep.noaa.gov/pmb/codes/GRIB2/",
+            "URL2": "https://www.unidata.ucar.edu/software/grib/docs/grib/grib.html"
+        }
+    ]
+}

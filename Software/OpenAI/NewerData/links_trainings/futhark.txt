@@ -1,0 +1,19 @@
+{
+    "software_name": "Futhark",
+    "software_url": "https://futhark-lang.org/",
+    "documentation_url": "https://futhark.readthedocs.io/en/latest/",
+    "training_materials": [
+        {
+            "name": "Futhark Tutorial",
+            "url": "https://futhark-book.readthedocs.io/en/latest/"
+        },
+        {
+            "name": "Futhark User's Guide",
+            "url": "https://futhark.readthedocs.io/en/latest/user-manual.html"
+        },
+        {
+            "name": "Futhark Workshop Materials",
+            "url": "https://github.com/diku-dk/futhark/tree/master/examples/Workshop"
+        }
+    ]
+}

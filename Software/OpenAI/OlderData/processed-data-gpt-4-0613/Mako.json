@@ -1,0 +1,14 @@
+
+{
+    "name": "Mako",
+    "software_page": "https://www.makotemplates.org/",
+    "documentation": "https://docs.makotemplates.org/en/latest/",
+    "tutorials": [
+        "https://docs.makotemplates.org/en/latest/usage.html",
+        "https://www.tutorialspoint.com/mako/index.htm"
+    ],
+    "additional_resources": [
+        "https://github.com/sqlalchemy/mako",
+        "https://jinja.palletsprojects.com/en/2.11.x/integration/#mako"
+    ]
+}

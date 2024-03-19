@@ -1,0 +1,14 @@
+{
+    "software": "libwebp",
+    "resources": {
+        "softwareHomepage": "https://developers.google.com/speed/webp",
+        "documentation": "https://developers.google.com/speed/webp/docs/api",
+        "tutorials": [
+            {
+                "title": "WebP Compression with libwebp",
+                "url": "https://developers.google.com/speed/webp/docs/using"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

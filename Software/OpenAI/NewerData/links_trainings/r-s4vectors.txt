@@ -1,0 +1,17 @@
+{
+  "softwareName": "R-S4Vectors",
+  "softwarePage": "https://bioconductor.org/packages/release/bioc/html/S4Vectors.html",
+  "links": {
+    "documentation": [
+        "https://bioconductor.org/packages/release/bioc/vignettes/S4Vectors/inst/doc/S4Vectors.html",
+        "https://www.bioconductor.org/packages/devel/bioc/manuals/S4Vectors/man/S4Vectors.pdf"
+    ],
+    "training": [
+        "https://kasperdanielhansen.github.io/genbioconductor/html/S4Vectors.html",
+        "https://www.rdocumentation.org/packages/S4Vectors/versions/0.28.1"
+    ],
+    "tutorial": [
+        "http://www.bioconductor.org/packages/release/bioc/vignettes/S4Vectors/inst/doc/S4Vectors.pdf"
+    ]
+  }
+}

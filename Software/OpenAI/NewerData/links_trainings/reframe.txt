@@ -1,0 +1,23 @@
+{
+  "software": "ReFrame",
+  "url": "https://github.com/eth-cscs/reframe",
+  "documentation": "https://reframe-hpc.readthedocs.io/en/stable/",
+  "training_materials": [
+    {
+      "title": "Getting Started",
+      "url": "https://reframe-hpc.readthedocs.io/en/stable/getting_started.html"
+    },
+    {
+      "title": "Tutorial",
+      "url": "https://reframe-hpc.readthedocs.io/en/stable/tutorial.html"
+    },
+    {
+      "title": "Python Developer Tutorial",
+      "url": "https://reframe-hpc.readthedocs.io/en/stable/tutorial_python.html"
+    },
+    {
+      "title": "Advanced Topics",
+      "url": "https://reframe-hpc.readthedocs.io/en/stable/advanced.html"
+    }
+  ]
+}

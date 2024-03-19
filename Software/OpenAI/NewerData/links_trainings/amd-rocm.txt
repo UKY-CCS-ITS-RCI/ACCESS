@@ -1,0 +1,12 @@
+{
+  "Software": "amd-rocm",
+  "Links": [
+    {
+      "Homepage": "https://github.com/RadeonOpenCompute/ROCm",
+      "Documentation": "https://rocmdocs.amd.com/en/latest/",
+      "Tutorial": "https://medium.com/@amitsin6h_49292/how-to-start-with-rocm-and-opencl-on-ubuntu-for-amd-gpu-2da0ff2eb164",
+      "Training Materials": "https://developer.amd.com/resources/developer-guides-manuals/",
+      "Installation guide": "https://rocmdocs.amd.com/en/latest/Installation_Guide/Installation-Guide.html"
+    }
+  ]
+}

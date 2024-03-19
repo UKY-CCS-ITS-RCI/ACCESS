@@ -1,0 +1,19 @@
+{
+  "Software": 
+  { 
+    "UDUNITS": 
+    { 
+      "URL": "https://www.unidata.ucar.edu/software/udunits/",
+      "Documentation": "https://www.unidata.ucar.edu/software/udunits/udunits-current/doc/udunits/udunits2lib.html",
+      "Tutorials": 
+      [
+        {
+          "UDUNITS-2 Tutorial": "https://www.unidata.ucar.edu/software/udunits/udunits-2.0.4/udunits2lib.html#Tutorial"
+        },
+        {
+          "UDUNITS-2 Users’ Guide": "https://www.unidata.ucar.edu/software/udunits/udunits-2.2.28/udunits2lib.html#Using"
+        }
+      ]
+    }
+  }
+}

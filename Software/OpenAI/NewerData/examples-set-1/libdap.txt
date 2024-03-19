@@ -1,0 +1,43 @@
+Use Case: libdap provides a mechanism to download, explore, and manipulate scientific data using the DAP protocol. This library makes it easy for you to interact with scientific data in a programmatic way. 
+
+Code details and examples: 
+
+Code:
+
+```
+#include "Connect.h"
+#include "BaseTypeFactory.h"
+#include "DDS.h"
+
+using namespace libdap;
+
+int main(int argc, char **argv) {
+    string url;
+    if (argc == 2) 
+        url = string(argv[1]);
+    else
+        url = "http://test.opendap.org/opendap/hyrax/data/nc/sample.nc";
+
+    Connect connect(url);
+    BaseTypeFactory factory;
+    DDS dds(&factory);
+    connect.request_data(dds);
+
+    for (DDS::Vars_iter vi = dds.var_begin(); vi != dds.var_end(); vi++)
+        cout << (*vi)->FQNname() << ": " << (*vi)->type_name() << endl;
+
+    return 0;
+}
+```
+
+In this code, libdap is used to connect to an OpenDAP server and read a sample `.nc` file. The variables and their types are then printed.
+
+Run with:
+
+`g++ -o run_program program_name.cc -lldapclient -lpthread`
+
+Then:
+
+`./run_program sample_url_while_running` 
+
+where 'sample_url_while_running' is the URL of the data to be processed and 'program_name.cc' is the name of the c++ code file.

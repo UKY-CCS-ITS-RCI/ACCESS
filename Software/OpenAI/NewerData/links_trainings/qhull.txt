@@ -1,0 +1,25 @@
+{
+  "software": {
+    "name": "Qhull",
+    "softwarePage": "http://www.qhull.org",
+    "documentation": "http://www.qhull.org/html/qhull.htm",
+    "tutorials": [
+      {
+        "name": "Introduction to Qhull",
+        "url": "https://people.sc.fsu.edu/~jburkardt/m_src/qhull/qhull.html"
+      },
+      {
+        "name": "Qhull tutorial by Michael Jerris",
+        "url": "https://github.com/qhull/qhull/wiki"
+      },
+      {
+        "name": "Tutorial on GitHub",
+        "url": "https://github.com/qhull/qhull/wiki/Intro-to-Qhull"
+      },
+      {
+        "name": "Qhull example by Helena T. T. Ngo",
+        "url": "https://www.cs.umb.edu/~htno/Example_Qhull.html"
+      }
+    ]
+  }
+}

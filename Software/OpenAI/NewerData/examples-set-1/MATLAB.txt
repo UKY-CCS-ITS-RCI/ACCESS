@@ -1,0 +1,41 @@
+Use Case: Create a simple matrix multiplication program using MATLAB.
+
+Code details and examples: Code.
+
+You need only a text editor to write MATLAB programs. In this case, we provide a simple script to multiply two matrices.
+
+1: Contents of the MATLAB script file `multiply.m`:
+
+```Matlab
+function c = multiply(a, b)
+c = a * b;
+end
+```
+
+A specific design for input files is not required as inputs are given as function arguments, but matrices must be valid for multiplication.
+
+Example Format:
+
+a =
+1 2
+3 4
+
+b =
+5 6
+7 8
+
+2: Run the code:
+
+To run the script, you would execute the following in MATLAB.
+
+```Matlab
+a = [1, 2; 3, 4];
+b = [5, 6; 7, 8];
+c = multiply(a, b);
+
+disp(c);
+```
+
+The output c will be printed to the console.
+
+Please note, to get the correct output, it is important that MATLAB's matrix multiplication rules are followed, e.g., the number of columns in the first matrix must be equal to the number of rows in the second matrix.

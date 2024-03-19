@@ -1,0 +1,19 @@
+{
+  "Software": "ACTC",
+  "Website": "https://sourceforge.net/projects/actc/",
+  "Documentation": "https://sourceforge.net/p/actc/wiki/Documents/",
+  "Tutorials and Training material": [
+    {
+      "Title": "ACTC User Guide",
+      "Link": "http://www.cs.princeton.edu/~gewang/projects/darth/stuff/actc/princeton/actc_1_1.pdf"
+    },
+    {
+      "Title": "ACTC Tutorial - Balancing Triangle Strips",
+      "Link": "https://www.gamedev.net/articles/programming/graphics/actc-tutorial---balancing-triangle-strips-r1974/"
+    },
+    {
+      "Title": "Getting Started with ACTC",
+      "Link": "https://www.valgardena.it/fileadmin/user_upload/meta_info/pdf/ACTC_GettingStartedGuide.pdf"
+    }
+  ]
+}

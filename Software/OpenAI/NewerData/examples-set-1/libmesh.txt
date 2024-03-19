@@ -1,0 +1,58 @@
+Use Case: LibMesh is a framework for numerical simulations using finite element methods. You can use it for solving partial differential equations on serial and parallel architectures. The input files are generally cpp files containing problem assumptions, boundary conditions and solver details.
+
+Code details and examples:
+
+Code:
+```c++
+#include "libmesh/mesh_generation.h"
+#include "libmesh/mesh.h"
+#include "libmesh/linear_implicit_system.h"
+#include "libmesh/equation_systems.h"
+#include "libmesh/dof_map.h"
+#include "libmesh/quadrature_gauss.h"
+
+using namespace libMesh;
+
+int main(int argc, char** argv){
+
+  // Initialize libmesh library
+  LibMeshInit init(argc, argv);
+
+  // Check if we're in 2D or 3D
+  const unsigned int dim = 2;
+
+  // Create Mesh object, square or cube
+  Mesh mesh(init.comm());
+
+  // Generate square or cube
+  if(dim == 2)
+    MeshTools::Generation::build_square(mesh, 32, 32, -1., 1., -1., 1., QUAD9);
+  else 
+    MeshTools::Generation::build_cube(mesh, 16, 16, 16, -1., 1., -1., 1., -1., 1., HEX27);
+
+  // Create an equation systems object
+  EquationSystems equation_systems(mesh);
+
+  // Declaring system of type "BASIC"
+  LinearImplicitSystem& system = equation_systems.add_system<LinearImplicitSystem> ("Basic");
+
+  // Adding variable "u" to the system
+  system.add_variable("u", THIRD, L2_LAGRANGE);
+
+  // Initialize the system
+  system.init();
+}
+```
+Command to run:
+
+If the file is named main.cpp, compile with:
+
+```
+mpicxx main.cpp -o main -l libmesh
+```
+
+And run with:
+
+```
+mpirun -np 4 ./main
+```

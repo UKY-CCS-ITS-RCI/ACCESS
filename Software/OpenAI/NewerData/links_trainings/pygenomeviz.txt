@@ -1,0 +1,11 @@
+{
+  "software_name": "pygenomeviz",
+  "software_page": "https://pypi.org/project/pyGenomeviz/",
+  "documentation_links": {
+    "1": "https://pygenomeviz.readthedocs.io/en/latest/"
+  },
+  "training_and_tutorial_materials_links": {
+    "1": "https://github.com/algorythmik/pygenomeviz",
+    "2": "https://joss.theoj.org/papers/ff56b7fc5ae32d49a9af7f6431a2d120"
+  }
+}

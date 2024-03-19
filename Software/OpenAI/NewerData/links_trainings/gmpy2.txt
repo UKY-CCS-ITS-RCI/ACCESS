@@ -1,0 +1,18 @@
+{
+  "software": "gmpy2",
+  "software_page": "https://gmpy2.readthedocs.io/en/latest/",
+  "additional_links": {
+    "documentation": "https://gmpy2.readthedocs.io/en/latest/intro.html",
+    "tutorials": [
+      {
+        "Python Extension Packages for Windows - Christoph Gohlke": "https://www.lfd.uci.edu/~gohlke/pythonlibs/#gmpy"
+      },
+      {
+        "Intro to Python Math with GMPY2": "https://kite.com/blog/python/python-math-library-gmpy/"
+      },
+      {
+        "StackOverflow - GMPY2 usage examples": "https://stackoverflow.com/questions/40032523/basic-gmpy2-examples"
+      }
+    ]
+  }
+}

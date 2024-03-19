@@ -1,0 +1,23 @@
+{
+  "Software Name": "Scanpy",
+  "Software Page": "https://scanpy.readthedocs.io/en/stable/",
+  "Web URLs": {
+    "Documentation": "https://scanpy.readthedocs.io/en/stable/",
+    "Github": "https://github.com/theislab/scanpy",
+    "Tutorials": [
+      {
+        "Scanpy Tutorials": "https://scanpy-tutorials.readthedocs.io/en/latest/",
+        "Project cells to existing embedding": "https://scanpy.readthedocs.io/en/stable/examples/project_cells_to_existing_embedding.html",
+        "Trajectory Inference with PAGA":"https://scanpy.readthedocs.io/en/stable/examples/tutorial_trajectory_inference_with_paga.html",
+        "Plotting docstring examples": "https://scanpy.readthedocs.io/en/stable/examples/plotting_docstring_examples.html"
+      }
+    ],
+    "Training": [
+      {
+        "Tutorial-Python-for-Data-Analysis": "https://github.com/theislab/tutorials/tree/master/scrna_summer_19/Tutorial-Python-for-Data-Analysis",
+        "Tutorial-Data-Wrangling": "https://github.com/theislab/tutorials/tree/master/scrna_summer_19/Tutorial-Data-Wrangling",
+        "Combi Workshop": "https://github.com/theislab/tutorials/tree/master/combi_workshop"
+      }
+    ]
+  }
+}

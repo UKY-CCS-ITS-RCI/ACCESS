@@ -1,0 +1,28 @@
+{
+  "name": "Roary",
+  "software_url": "https://sanger-pathogens.github.io/Roary/",
+  "documentation": [
+    {
+      "name": "GitHub Documentation",
+      "url": "https://github.com/sanger-pathogens/Roary"
+    },
+    {
+      "name": "Installation Guide",
+      "url": "https://sanger-pathogens.github.io/Roary/faq/#installation"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "Roary Tutorial",
+      "url": "https://sanger-pathogens.github.io/Roary/"
+    },
+    {
+      "name": "Roary Quick guide",
+      "url": "http://genomemedicine.biomedcentral.com/articles/10.1186/s13073-015-0221-6/"
+    },
+    {
+      "name": "Roary with MAFFT, PRANK, and FastTree",
+      "url": "https://bioinformatics.uconn.edu/resources-and-events/tutorials-4/"
+    }
+  ]
+}

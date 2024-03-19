@@ -1,0 +1,15 @@
+{
+"name": "Amask",
+"softwarePage": "https://github.com/clarkwang/amask",
+"documentation": "",
+"tutorialMaterials": [
+    {
+        "name": "Amask – A Tiny Masking Utility",
+        "url": "https://www.errantruby.com/mobile/2013/may/amask-a-tiny-masking-utility/"
+    },
+    {
+        "name": "How to use amask utility for front-end masking",
+        "url": "https://medium.com/@miguellgt/use-a-mask-6ab4aadae777"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "software name": "Matlab Compiler Runtime (MCR)",
+  "software URL": "https://www.mathworks.com/products/compiler/matlab-runtime.html",
+  "documentation": [
+    {
+      "URL": "https://www.mathworks.com/help/compiler/index.html"
+    }
+  ],
+  "tutorial": [
+    {
+      "URL": "https://www.mathworks.com/help/compiler/create-and-use-matlab-data-arrays-in-c-c-for-your-standalone-application.html"
+    },
+    {
+      "URL": "https://www.mathworks.com/help/compiler_sdk/cplusplus/creating-c-mex-files-with-the-matlab-data-array-class.html"
+    }
+  ]
+}

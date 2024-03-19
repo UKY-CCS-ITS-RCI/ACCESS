@@ -1,0 +1,11 @@
+{
+  "vpl": {
+    "software_page_link": "https://vpl.dis.ulpgc.es/",
+    "documentation_link": "https://docs.vpl.dis.ulpgc.es/",
+    "training_material_links": [
+      "https://moodle.org/plugins/mod_vpl",
+      "https://docs.moodle.org/310/en/VPL_tips_and_tricks",
+      "https://docs.moodle.org/38/en/Using_Virtual_Programming_Lab_(VPL)"
+    ]
+  }
+}

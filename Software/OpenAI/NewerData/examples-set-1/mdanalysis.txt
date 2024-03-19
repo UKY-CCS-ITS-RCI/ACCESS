@@ -1,0 +1,44 @@
+Use Case: Analyzing molecular dynamics trajectories; examining the structural and temporal changes in a molecule over a simulation.
+
+Code details and examples: 
+
+MDAnalysis is a Python package for the analysis of 3D coordinate trajectories. It allows users to manipulate and analyze molecular dynamics simulations output and can be used for a variety of tasks, such as calculating distances, angles, and dihedrals, as well as more complex statistical analysis. 
+
+The input to MDAnalysis typically consists of a topology file (.pdb, .psf, .tpr, .gro, etc.) which defines the molecular system and the connectivity of the atoms, and a trajectory file (.dcd, .mdcrd, .xtc, .trr, etc.) which contains the positions of the atoms at different time steps. For instance, a sample input file may be: a .pdb file and a .dcd file containing the trajectory data.
+
+Code:
+
+```python
+import MDAnalysis as mda
+
+u = mda.Universe('sample.pdb','sample.dcd')
+
+print(u.atoms)
+```
+
+In the above code, the variable `u` is an `Universe` object, which can be thought of as the primary entry point into any kind of simulation analysis. It binds together a topology and one or more trajectory files. Using `u.atoms` would give all the details of atoms present in the `Universe`.
+
+For a more detailed analysis, let's calculate the radius of gyration of a protein over time:
+
+```python
+import MDAnalysis as mda
+import matplotlib.pyplot as plt
+
+u = mda.Universe('sample.pdb', 'sample.dcd')
+protein = u.select_atoms('protein')
+
+Rg = []
+for ts in u.trajectory:
+    Rg.append((u.trajectory.time, protein.radius_of_gyration()))
+time, radii = zip(*Rg)
+
+plt.figure(figsize=(5,5))
+plt.plot(time, radii, lw=0, marker='o')
+plt.xlabel("time (ps)")
+plt.ylabel("Radius of gyration (Angstrom)")
+plt.show()
+```
+
+This script first select all the protein atoms, then iterate over the trajectory calculating the radius of gyration at each time step, and finally plots this property as a function of time. 
+
+There is no specific command to run MDAnalysis as it is a Python library and an integral part of a larger Python script. Running these scripts would simply involve running the Python script in which these codes are written.

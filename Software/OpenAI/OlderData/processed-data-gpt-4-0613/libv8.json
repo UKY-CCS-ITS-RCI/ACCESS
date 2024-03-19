@@ -1,0 +1,14 @@
+{
+    "software": "libv8",
+    "resources": {
+        "softwareHomepage": "https://v8.dev/",
+        "documentation": "https://v8.dev/docs",
+        "tutorials": [
+            {
+                "title": "Getting Started with V8 development",
+                "url": "https://v8.dev/docs/build"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

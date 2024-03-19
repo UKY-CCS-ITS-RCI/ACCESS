@@ -1,0 +1,10 @@
+{
+   "name":"marginpolish",
+   "software_link":"https://github.com/UCSC-nanopore-cgl/marginPolish",
+   "documentation": {
+               "github_wiki":"https://github.com/UCSC-nanopore-cgl/marginPolish/wiki",
+               "readthedocs":"http://margin-polish.readthedocs.io"
+   },
+   "tutorials":{},
+   "training_materials": {}
+}

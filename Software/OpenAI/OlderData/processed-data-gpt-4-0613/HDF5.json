@@ -1,0 +1,22 @@
+
+{
+  "HDF5": {
+    "software_page": "https://www.hdfgroup.org/solutions/hdf5/",
+    "documentation": "https://portal.hdfgroup.org/display/HDF5/HDF5+Documentation",
+    "training_materials": [
+      {
+        "title": "Learning the Basics",
+        "url": "https://portal.hdfgroup.org/display/HDF5/Learning+the+Basics"
+      },
+      {
+        "title": "Learning HDF5 with Python",
+        "url": "https://medium.com/@jerilkuriakose/learning-hdf5-with-python-6c5242d08773"
+      },
+      {
+        "title": "HDF5 Tutorial - High Performance Compute",
+        "url": "https://www.youtube.com/watch?v=Qm2A2Wcc2a8"
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,29 @@
+{
+    "Software Name": "wannier90",
+    "Software URL": "http://www.wannier.org/",
+    "Software Documentation": [
+        {
+            "Documentation Link Title": "User Guide",
+            "URL": "http://www.wannier.org/doc/user_guide.pdf"
+        },
+        {
+            "Documentation Link Title": "Wannier Functions and Wannier90",
+            "URL": "http://www.wannier.org/doc/tutorial.pdf"
+        }
+    ],
+    "Tutorials & Training Materials": [
+        {
+            "Tutorial Title": "Basic Tutorial: Quantum ESPRESSO & Wannier90",
+            "URL": "https://vitaproject.io/2017/08/03/tutorial-quantum-espresso-wannier90-wan-interpolation-exercise-1/"
+        },
+        {
+            "Tutorial Title": "Tutorial: Fixed Geometry Optimization using Wannier90 with HSE",
+            "URL": "https://axk.github.io/qe_tutorial/input/03-kpoints-and-convergence/README.html"
+        },
+        {
+            "Tutorial Title": "Using Wannier90 with HSE with in Quantum Espresso",
+            "URL": "https://github.com/wannier-developers/wannier90/wiki/Seminars-and-workshops"
+        }
+
+    ]
+}

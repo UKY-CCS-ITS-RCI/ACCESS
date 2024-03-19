@@ -1,0 +1,16 @@
+{
+    "name": "deepconsensus",
+    "software_page": "https://github.com/google/deepconsensus",
+    "documentation_links": [
+        "https://github.com/google/deepconsensus/blob/main/docs/overview.md",
+        "https://github.com/google/deepconsensus/blob/main/docs/install.md",
+        "https://github.com/google/deepconsensus/blob/main/docs/howto.md"
+    ],
+    "training_links": [
+        "https://colab.research.google.com/github/google-research/deepconsensus/blob/main/notebooks/quick_start.ipynb",
+        "https://github.com/google/deepconsensus/blob/main/deepconsensus/notebooks"
+    ],
+    "tutorial_links": [
+        "https://github.com/google/deepconsensus/blob/main/deepconsensus/notebooks/dc_tutorial.ipynb"
+    ]
+}

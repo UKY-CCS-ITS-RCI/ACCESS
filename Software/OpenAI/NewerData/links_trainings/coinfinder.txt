@@ -1,0 +1,13 @@
+{
+  "coinfinder": {
+    "software_page": "https://github.com/fwhelan/coinfinder", 
+     "documentation": "https://github.com/fwhelan/coinfinder/blob/master/README.md",
+     "tutorials": [
+        "https://github.com/fwhelan/coinfinder#usage",
+        "https://joss.theoj.org/papers/10.21105/joss.01271"
+     ],
+     "training_materials": [
+         "https://coinfinder.readthedocs.io/en/latest/"
+     ]
+  }
+}

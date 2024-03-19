@@ -1,0 +1,19 @@
+{
+"name": "XZ Utils",
+"softwarePage": "https://tukaani.org/xz/",
+"documentation": "https://www.freebsd.org/cgi/man.cgi?query=xz&sektion=1",
+"tutorialMaterials": [
+    {
+        "name": "How to use .tar.xz files in Linux",
+        "url": "https://www.lifewire.com/create-and-extract-tar-xz-files-2202072"
+    },
+    {
+        "name": "Compress and decompress xz files in Linux",
+        "url": "https://www.2daygeek.com/linux-xz-command-compress-decompress-files-folders/"
+    },
+    {
+        "name": "Linux Basics: Create a compressed XZ/TAR backup of files and directories",
+        "url": "https://www.digitalocean.com/community/questions/linux-basics-create-a-compressed-xz-tar-backup-of-files-directories"
+    }
+  ]
+}

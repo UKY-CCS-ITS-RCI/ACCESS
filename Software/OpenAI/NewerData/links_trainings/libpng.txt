@@ -1,0 +1,15 @@
+{
+  "software": "libpng",
+  "software_url": "http://www.libpng.org/pub/png/libpng.html",
+  "documentation": [
+    {
+      "doc1": "http://www.libpng.org/pub/png/libpng-manual.txt"
+    }
+  ],
+  "training_materials": [
+    {
+      "tutorial1": "http://www.libpng.org/pub/png/book/chapter08.html",
+      "tutorial2": "https://wiki.osdev.org/LibPNG"
+    }
+  ]
+}

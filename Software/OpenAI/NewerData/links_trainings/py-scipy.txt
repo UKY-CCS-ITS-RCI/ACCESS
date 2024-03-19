@@ -1,0 +1,12 @@
+{
+  "Software": "py-scipy",
+  "SoftwarePage": "https://www.scipy.org/",
+  "Documentation": "https://docs.scipy.org/doc/scipy/reference/",
+  "TrainingAndTutorialMaterials": {
+    "Scipy Lecture Notes": "http://scipy-lectures.org/",
+    "Scipy Tutorial at W3schools": "https://www.w3schools.com/python/numpy/numpy_intro.asp",
+    "YouTube Tutorial From CrashCourse": "https://www.youtube.com/watch?v=TJdH6rPA-TI",
+    "Scipy Course From Coursera": "https://www.coursera.org/courses?query=scipy",
+    "Scipy Tutorial By Edureka": "https://www.edureka.co/blog/python-scipy-tutorial/"
+  }
+}

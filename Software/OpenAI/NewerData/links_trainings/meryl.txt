@@ -1,0 +1,10 @@
+{
+  "software_name": "Meryl",
+  "software_url": "https://github.com/marbl/meryl",
+  "documentation": {
+    "url": "https://canu.readthedocs.io/en/latest/code/meryl-overview.html"
+  },
+  "tutorial": {
+    "url1": "https://vgiguere.github.io/IntroductionToMeryl.html"
+  }
+}

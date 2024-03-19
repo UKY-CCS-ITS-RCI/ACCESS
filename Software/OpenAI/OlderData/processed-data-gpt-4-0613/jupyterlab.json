@@ -1,0 +1,11 @@
+{
+  "software_name": "JupyterLab",
+  "software_url": "https://jupyter.org/install.html",
+  "documentation_url": "https://jupyterlab.readthedocs.io/en/stable/",
+  "tutorial_urls": [
+    "https://jupyterlab.readthedocs.io/en/stable/user/interface.html",
+    "https://www.dataquest.io/blog/jupyter-lab/",
+    "https://www.youtube.com/watch?v=7wfPqAyYADY",
+    "https://github.com/jupyterlab/jupyterlab-tutorial"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+   "software":[
+      {
+         "name":"help2man",
+         "main_URL":"https://www.gnu.org/software/help2man/",
+         "documentation":[
+            {
+               "url":"https://www.gnu.org/software/help2man/help2man.html"
+            },
+            {
+               "url":"https://manpages.ubuntu.com/manpages/bionic/en/man1/help2man.1.html"
+            },
+            {
+               "url":"https://linux.die.net/man/1/help2man"
+            }
+         ],
+         "tutorials":[
+            {
+               "url":"https://www.linuxtopia.org/online_books/linux_tool_guide/index_ssg_man_help2man.html"
+            },
+            {
+               "url":"https://www.systutorials.com/docs/linux/man/1-help2man/"
+            },
+            {
+               "url":"https://www.operationalsecurity.es/help2man-manual/"
+            }
+         ],
+         "training":[
+            {
+               "url":"N/A"
+            }
+         ]
+      }
+   ]
+}

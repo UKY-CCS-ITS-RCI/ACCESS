@@ -1,0 +1,36 @@
+{
+  "Software": "LAPACK",
+  "Website": "http://www.netlib.org/lapack/",
+  "Documentation": [
+    {
+      "User Guide": "https://www.netlib.org/lapack/lug/",
+      "FAQ": "https://www.netlib.org/lapack/faq.html"
+    }
+  ],
+  "Tutorial": [
+    {
+      "Name": "LAPACK Tutorials",
+      "Link": "https://www.netlib.org/lapack/lawnspdf/lawn01.pdf"
+    }
+  ],
+  "CondaPackage": [
+    {
+      "Name": "LAPACK",
+      "Link": "https://anaconda.org/anaconda/lapack"
+    }
+  ],
+  "OtherResources": [
+    {
+      "Name": "LAPACK on Wikipedia",
+      "Link": "https://en.wikipedia.org/wiki/LAPACK"
+    },
+    {
+      "Name": "LAPACK for Python",
+      "Link": "https://pypi.org/project/lapack/"
+    },
+    {
+      "Name": "LAPACK usage in Python: scipy.linalg",
+      "Link": "https://docs.scipy.org/doc/scipy/reference/linalg.html"
+    }
+  ]
+}

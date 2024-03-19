@@ -1,0 +1,15 @@
+{
+  "Software_Name": "Regtools",
+  "Website": "https://regtools.readthedocs.io/en/latest/",
+  "Documentation": "https://regtools.readthedocs.io/en/latest/",
+  "Tutorial_and_Training_Materials": [
+    {
+      "Material_Name": "Regtools usage",
+      "URL": "https://regtools.readthedocs.io/en/latest/usage/"
+    },
+    {
+      "Material_Name": "Installing regtools",
+      "URL": "https://regtools.readthedocs.io/en/latest/installation/"
+    }
+  ]
+}

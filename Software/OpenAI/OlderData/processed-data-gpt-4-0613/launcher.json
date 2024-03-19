@@ -1,0 +1,23 @@
+{
+  "software": {
+    "name": "Launcher",
+    "description": "Launcher is a parallel job launching software",
+    "software_url": "https://www.tacc.utexas.edu/research-development/tacc-software/launcher",
+    "documentation": [
+      {
+        "title": "User Manual",
+        "url": "https://www.tacc.utexas.edu/documents/13601/90014/user_launcher.pdf"
+      }
+    ],
+    "tutorials": [
+      {
+        "title": "Introduction to Launcher",
+        "url": "https://training.galaxyproject.org/training-material/topics/high-performance-computing/tutorials/launcher/tutorial.html"
+      },
+      {
+        "title": "Using Launcher for parallel job management",
+        "url": "https://www.tacc.utexas.edu/research-development/tacc-projects/tacc-transition-education-portal/software-tutorials/launcher"
+      }
+    ]
+  }
+}

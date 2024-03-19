@@ -1,0 +1,43 @@
+
+{
+    "Free Open Source Software": {
+        "GNU Compilers": {
+            "Software Page": "www.gnu.org/software/gcc",
+            "Documentation": "www.gnu.org/software/gcc/manual",
+            "Tutorials": [
+                "www.gnu.example.com/tutorial1",
+                "www.gnu.example.com/tutorial2"
+            ]
+        },
+        "Linux": {
+            "Ubuntu": {
+                "Software Page": "www.ubuntu.com",
+                "Documentation": "help.ubuntu.com",
+                "Tutorials": [
+                    "www.ubuntu.com/tutorial1",
+                    "www.ubuntu.com/tutorial2"
+                ]
+            }
+        },
+        "Bioinformatics": {
+            "BioPython": {
+                "Software Page": "biopython.org",
+                "Documentation": "biopython.org/wiki/Documentation",
+                "Tutorials": [
+                    "biopython.org/wiki/Tutorial",
+                    "biopython.org/wiki/Advanced Tutorial"
+                ]
+            }
+        },
+        "HPC Tools": {
+            "OpenMPI": {
+                "Software Page": "www.open-mpi.org",
+                "Documentation": "www.open-mpi.org/doc",
+                "Tutorials": [
+                    "www.open-mpi.org/tutorial1",
+                    "www.open-mpi.org/tutorial2"
+                ]
+            }
+        }
+    }
+}

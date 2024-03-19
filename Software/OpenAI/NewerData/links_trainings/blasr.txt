@@ -1,0 +1,15 @@
+{
+  "software": {
+    "name": "blasr",
+    "software_url": "https://github.com/PacificBiosciences/blasr",
+    "documentation": {
+      "url 1":"https://github.com/PacificBiosciences/blasr/wiki",
+      "url 2":"https://github.com/PacificBiosciences/blasr/blob/develop/doc/howtoIT.pdf"
+    },
+    "tutorial_and_training_materials": {
+      "url 1":"https://github.com/PacificBiosciences/blasr/blob/develop/doc/BLASR.adoc",
+      "url 2":"https://github.com/PacificBiosciences/blasr/blob/develop/doc/howtoIT.pdf",
+      "url 3":"https://www.youtube.com/watch?v=VUiNY5y4MGQ"
+    }
+  }
+}

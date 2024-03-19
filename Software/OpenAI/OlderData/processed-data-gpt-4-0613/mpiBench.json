@@ -1,0 +1,10 @@
+{
+  "mpiBench": {
+    "SoftwarePage": "https://sourceforge.net/projects/mpibench/",
+    "Documentation": [],
+    "TrainingMaterials": [],
+    "Tutorials": [
+      "https://www.mcs.anl.gov/research/projects/mpi/tutorial/mpiexmpl.html"
+    ]
+  }
+}

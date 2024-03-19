@@ -1,0 +1,21 @@
+{
+"pkg": {
+  "software_page": "https://pkg.org",
+  "documentation": [
+    {
+      "url": "https://pkg.org/docs"
+    }
+  ],
+  "training_and_tutorials": [
+    {
+      "url": "https://pkg.org/tutorials"
+    },
+    {
+      "url": "https://pkg.org/training"
+    },
+    {
+      "url": "https://pkg.org/faq"
+    }
+  ]
+}
+}

@@ -1,0 +1,24 @@
+{
+  "SoftwareName": "seqcode",
+  "SoftwareURL": "https://github.com/seqcode/seqcode-core",
+  "Documentation": [
+    {
+      "DocumentName": "Seqcode Documentation",
+      "DocumentURL": "https://seqcode.github.io/seqcode-core/"
+    }
+  ],
+  "Tutorials": [
+    {
+      "TutorialName": "SeqCode: Practical Guide",
+      "TutorialURL": "https://regulatorygenomics.upf.edu/Docs/seqcode_tut.pdf"
+    },
+    {
+      "TutorialName": "SeqCode: Genome Alignment and Peak Calling",
+      "TutorialURL": "https://www.youtube.com/watch?v=ghDvNVb7aSE"
+    },
+    {
+      "TutorialName": "SeqCode: Getting started",
+      "TutorialURL": "https://seqcode.github.io/seqcode-core/userguide"
+    }
+  ]
+}

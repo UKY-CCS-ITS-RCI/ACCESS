@@ -1,0 +1,19 @@
+{
+"name": "Z3 Theorem Prover",
+"softwarePage": "https://github.com/Z3Prover/z3",
+"documentation": "https://rise4fun.com/Z3/tutorial/guide",
+"tutorialMaterials": [
+    {
+        "name": "Z3 API in Python",
+        "url": "https://ericpony.github.io/z3py-tutorial/guide-examples.htm"
+    },
+    {
+        "name": "Z3: An Efficient SMT Solver",
+        "url": "https://theory.stanford.edu/~nikolaj/programmingz3.html"
+    },
+    {
+        "name": "Using Z3: An Example Driven Tutorial",
+        "url": "https://www.cs.tufts.edu/~nr/cs257/archive/nikolaj-bjorner/z3tutorial.pdf"
+    }
+  ]
+}

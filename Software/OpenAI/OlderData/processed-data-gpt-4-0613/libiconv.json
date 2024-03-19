@@ -1,0 +1,9 @@
+{
+    "software": "libiconv",
+    "resources": {
+        "softwareHomepage": "https://www.gnu.org/software/libiconv/",
+        "documentation": "https://www.gnu.org/software/libiconv/documentation/libiconv-1.13/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

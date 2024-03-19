@@ -1,0 +1,15 @@
+{
+  "pkg-config": {
+    "Software URL": "https://www.freedesktop.org/wiki/Software/pkg-config/",
+    "Documentation": [
+      {
+        "URL": "https://www.freedesktop.org/wiki/Software/pkg-config/"
+      }
+    ],
+    "Training and Tutorial Materials": [
+      {
+        "URL": "https://people.freedesktop.org/~dbn/pkg-config-guide.html"
+      }
+    ]
+  }
+}

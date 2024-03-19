@@ -1,0 +1,16 @@
+{
+  "lzma": {
+    "Software page": "https://www.7-zip.org/sdk.html",
+    "Documentation": "https://docs.python.org/3/library/lzma.html",
+    "Tutorials": [
+      {
+        "name": "How to use Python's lzma module",
+        "url": "https://www.tutorialspoint.com/how-to-use-python-s-lzma-module",
+      },
+      {
+        "name": "Working with zip files in Python",
+        "url": "https://stackabuse.com/working-with-zip-files-in-python/"
+      }
+    ]
+  }
+}

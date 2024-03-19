@@ -1,0 +1,12 @@
+{
+  "Software": "CAFE",
+  "Links": 
+  {
+    "Software Page": "https://github.com/hahnlab/CAFE",
+    "Documentation": "https://github.com/hahnlab/CAFE/blob/master/README.md",
+    "Tutorials and Training":{
+      "Tutorial 1": "https://genomevolution.org/wiki/index.php/CAFE_tutorial",
+      "Tutorial 2": "https://bio.tools/cafe"
+    } 
+  }
+}

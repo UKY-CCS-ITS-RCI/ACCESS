@@ -1,0 +1,50 @@
+Use Case: Spglib is used for finding and handling crystal symmetries. The software can be utilized to simplify the computations of band structure by reducing the k-points and the matrices size of Hamiltonian for electronic structure calculations.
+
+Code details and examples: Code
+
+Here is a sample python program that uses spglib to find the symmetries in a given crystal. The program requires the following input:
+
+- `lattice`: an array representing the crystal's lattice vectors.
+- `positions`: an array representing the positions of the atoms in the crystal.
+- `numbers`: an array representing the atomic numbers of the atoms.
+
+Sample Input File:
+
+The data input format can be any acceptable structure file (CIF, POSCAR, etc.), and then the data needs to be mapped to the required input as per spglib requirement.
+
+```
+# CIF File
+data_Vesta
+
+_cell_length_a  3.567
+_cell_length_b  3.567
+_cell_length_c  3.567
+
+loop_
+_atom_site_label    
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si  0  0  0
+Si  0.50  0.50  0
+```
+
+Python Code Snippet:
+
+```python
+import spglib
+import numpy as np
+
+lattice = [[1, 0, 0], [0, 1, 0], [0, 0, 1]]
+positions = [[0, 0, 0], [0.5, 0.5, 0]]
+numbers = [14, 14]
+
+dataset = spglib.get_symmetry_dataset((lattice, positions, numbers))
+
+print("space group type: ", dataset['international'])
+```
+
+To run this code, simply execute it in a Python environment with spglib and numpy installed.
+
+Command to Run:
+`python spglib_example.py`

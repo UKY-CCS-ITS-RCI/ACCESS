@@ -1,0 +1,10 @@
+{
+   "Software": "Bowtie",
+   "Website": "http://bowtie-bio.sourceforge.net/index.shtml",
+   "Documentation": "http://bowtie-bio.sourceforge.net/manual.shtml",
+   "Tutorial_and_Training": [
+       "https://bio.tools/tutorials/bowtie/",
+       "https://www.youtube.com/watch?v=AUx-5V7r2yo",
+       "https://wikis.utexas.edu/display/bioiteam/Primer+to+using+Bowtie+sequence+alignment+tool"
+   ]
+}

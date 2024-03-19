@@ -1,0 +1,8 @@
+{
+  "iimpi": {
+    "softwarePage": "https://easybuild.readthedocs.io/en/latest/Common-toolchains.html#iimpi-toolchain",
+    "documentation": "https://easybuild.readthedocs.io/en/latest/Common-toolchains.html#iimpi-toolchain",
+    "tutorials": [],
+    "trainingMaterials": []
+  }
+}

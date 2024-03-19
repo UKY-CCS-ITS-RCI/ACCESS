@@ -1,0 +1,15 @@
+{
+  "software": "py-kiwisolver",
+  "link": "https://pypi.org/project/kiwisolver/",
+  "documentation": "https://kiwisolver.readthedocs.io/en/latest/",
+  "tutorials": [
+    {
+      "name": "Getting Started with Kiwisolver",
+      "url": "https://pythontic.com/packages/kiwisolver"
+    },
+    {
+      "name": "Kiwisolver Tutorial on GitHub",
+      "url": "https://github.com/nucleic/kiwi/tree/master/py/examples"
+    }
+  ]
+}

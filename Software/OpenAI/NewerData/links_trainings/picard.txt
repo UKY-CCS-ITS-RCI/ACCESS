@@ -1,0 +1,15 @@
+{
+  "softwareName": "picard",
+  "softwarePage": "https://broadinstitute.github.io/picard/",
+  "documentation": "https://broadinstitute.github.io/picard/command-line-overview.html",
+  "tutorialsAndTrainings": [
+    {
+      "title": "Picard Tutorial (Galaxy Training Network)",
+      "url": "https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/picard/tutorial.html"
+    },
+    {
+      "title": "An Introduction to Picard (Broad Institute)",
+      "url": "https://gatk.broadinstitute.org/hc/en-us/articles/360037055832-An-introduction-to-Picard"
+    }
+  ]
+}

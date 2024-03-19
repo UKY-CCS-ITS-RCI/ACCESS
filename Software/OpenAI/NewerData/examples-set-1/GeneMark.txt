@@ -1,0 +1,36 @@
+Use Case: GeneMark is an ab initio gene prediction tool commonly used in bioinformatics for finding protein-coding genes. This tool uses mathematical models that describe pattern and profile of sequences in protein coding genes to detect potential coding regions in genomic data.
+
+Code details and examples:
+
+Input files: GeneMark requires the DNA sequence of a complete or incomplete genome in FASTA format for gene prediction.
+
+Here is an example of what a gene in FASTA format looks like:
+```
+>seq1
+ATAATCTACGTGCTAG...
+>seq2
+CGTAGCTAGCTACGTGT...
+```
+The ">" denotes the beginning of each sequence and is followed by a unique id and the nucleotide sequence.
+
+Command to run GeneMark: After the input file is prepared the GeneMark.hmm can be used to analyze it.
+```
+gmsn.pl --v --fnn --faa --fgenes --fgenesh native.gmhmm.token [organism type] [FASTA input file name]
+```
+In this case:
+
+--v is to run GeneMark in the verbose mode
+
+--fnn outputs predicted genes in nucleotide sequence (FASTA format)
+
+--faa outputs predicted genes in amino acid sequence (FASTA format)
+
+--fgenes outputs gene coordinate
+
+--fgenesh outputs gene structure
+
+native.gmhmm.token is the token name for GeneMark.hmm model parameters
+
+[organism type] is the type of the organism
+
+[FASTA input file name] is the name of your input file

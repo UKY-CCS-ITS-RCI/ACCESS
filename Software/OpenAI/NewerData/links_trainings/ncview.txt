@@ -1,0 +1,15 @@
+{
+    "Software":"ncview",
+    "Software URL":"http://meteora.ucsd.edu/~pierce/ncview_home_page.html",
+    "Documentation":"http://meteora.ucsd.edu/~pierce/ncview_home_page.html",
+    "Tutorials":[
+        {
+            "title":"Basic tutorial",
+            "URL":"http://meteora.ucsd.edu/~pierce/ncview_home_page.html"
+        },
+        {
+            "title":"Advanced usage",
+            "URL":"http://meteora.ucsd.edu/~pierce/ncview_home_page.html"
+        }
+    ]
+}

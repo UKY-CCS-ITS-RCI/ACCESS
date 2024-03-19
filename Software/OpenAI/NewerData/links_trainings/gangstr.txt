@@ -1,0 +1,10 @@
+{
+  "gangstr": {
+    "software_page": "https://github.com/gymreklab/GangSTR",
+    "documentation": "https://github.com/gymreklab/GangSTR/wiki",
+    "tutorials_and_training_materials": [
+      "https://github.com/gymreklab/TRTools",
+      "https://www.youtube.com/watch?v=puG5czt3VjU"
+    ]
+  }
+}

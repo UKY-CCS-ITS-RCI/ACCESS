@@ -1,0 +1,9 @@
+{
+    "software": "kneaddata",
+    "website": "https://bitbucket.org/biobakery/kneaddata/wiki/Home",
+    "documentation": "https://kneaddata.readthedocs.io/en/latest/overview.html",
+    "tutorial_materials": [{
+        "tutorial1": "https://bioinformaticsworkbook.org/dataProcessing/QCtrimming/KneadData.html",
+        "tutorial2": "https://github.com/biobakery/kneaddata/issues/20"
+    }]
+}

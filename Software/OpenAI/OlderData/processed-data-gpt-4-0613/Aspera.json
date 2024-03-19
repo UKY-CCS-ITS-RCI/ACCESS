@@ -1,0 +1,19 @@
+{
+  "Software": "Aspera",
+  "Website": "https://www.ibm.com/products/aspera",
+  "Documentation": "https://www.ibm.com/docs/en/aspera",
+  "Tutorials and Training material": [
+    {
+      "Title": "IBM Aspera Documentation",
+      "Link": "https://www.ibm.com/docs/en/aspera"
+    },
+    {
+      "Title": "IBM Aspera on Cloud Getting Started",
+      "Link": "https://www.ibm.com/docs/en/aspera-on-cloud?topic=services-getting-started"
+    },
+    {
+      "Title": "IBM Aspera High-Speed Transfer Server Admin Guide",
+      "Link": "https://www.ibm.com/docs/en/aspera-hsts/1.5?topic=concepts-aspera-high-speed-transfer-server-145-admin-guide"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Use Case: Data compression
+Code details and examples:
+1. Compress a file using xz:
+```shell
+xz input_file.txt
+```
+2. Decompress a file using xz:
+```shell
+xz -d input_file.txt.xz
+```

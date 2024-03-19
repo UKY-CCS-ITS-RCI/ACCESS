@@ -1,0 +1,55 @@
+Use Case: Intel Math Kernel Library (MKL) is a library of optimized math routines for science, engineering, and financial applications. Core math functions include BLAS, LAPACK, ScaLAPACK, Sparse Solvers, Fast Fourier Transforms, Vector Math, and more; 
+
+Code details and examples: Code
+
+Input: Text file with a matrix for matrix multiplication. 
+
+Here is an example of multiplying two square matrices using the DGEMM routine in Intel MKL:
+
+```c
+#include "mkl.h"
+
+#define SIZE 4 
+
+double a[SIZE][SIZE] = {{1.0, 2.0, 3.0, 4.0},
+                        {1.0, 2.0, 3.0, 4.0},
+                        {1.0, 2.0, 3.0, 4.0},
+                        {1.0, 2.0, 3.0, 4.0}};
+
+double b[SIZE][SIZE] = {{1.0, 2.0, 3.0, 4.0},
+                        {1.0, 2.0, 3.0, 4.0},
+                        {1.0, 2.0, 3.0, 4.0},
+                        {1.0, 2.0, 3.0, 4.0}};
+
+double c[SIZE][SIZE] = {0.0};
+
+int main() {
+  char trans = 'N';
+  int dim = SIZE;
+  double alpha = 1.0;
+  double beta = 0.0;
+  int incx = 1, incy = 1;
+  int lda = SIZE, ldb = SIZE, ldc = SIZE;
+
+  dgemm(&trans, &trans,
+        &dim, &dim, &dim,
+        &alpha,
+        *a, &lda,
+        *b, &ldb,
+        &beta,
+        *c, &ldc);
+
+  return 0;
+}
+```
+
+Command to compile the program:
+
+```shell
+icc -o matrix_multiplication matrix_multiplication.c  -lmkl_rt 
+```
+Command to run the compiled program:
+
+```shell
+./matrix_multiplication
+```

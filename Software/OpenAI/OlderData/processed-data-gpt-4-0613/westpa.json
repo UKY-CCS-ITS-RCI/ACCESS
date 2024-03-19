@@ -1,0 +1,22 @@
+{
+  "Software": 
+  { 
+    "WESTPA": 
+    { 
+      "URL": "https://westpa.github.io/westpa/",
+      "Documentation": "https://westpa.readthedocs.io/en/latest/",
+      "Tutorials": 
+      [
+        {
+          "Getting Started with WESTPA": "https://westpa.readthedocs.io/en/latest/gettingstarted/"
+        },
+        {
+          "WESTPA tutorial": "https://westpa.github.io/westpa/tutorials.html"
+        },
+        {
+          "Usage Guide": "https://westpa.readthedocs.io/en/latest/usageguide/"
+        }
+      ]
+    }
+  }
+}

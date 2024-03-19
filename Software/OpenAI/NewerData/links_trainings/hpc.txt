@@ -1,0 +1,23 @@
+{
+  "software": "HPC",
+  "page_link": "https://www.delltechnologies.com/en-us/solutions/high-performance-computing/index.htm",
+  "documentation": "https://docs.anaconda.com/anaconda-cloud/user-guide/getting-started/#create-an-anaconda-cloud-account",
+  "training_materials": [
+    {
+      "name": "Introduction to High Performance Computing",
+      "url": "https://online.prace-ri.eu/course/view.php?id=38"
+    },
+    {
+      "name": "University of Cambridge Research Computing Services",
+      "url": "https://www.csc.cam.ac.uk/academic/Introduction-HPC"
+    },
+    {
+      "name": "Introduction to HPC with MPI for C/C++",
+      "url": "https://www.coursera.org/learn/intro-hpc-mpic-c"
+    },
+    {
+      "name": "HPC and Python for Data Science",
+      "url": "https://training.prace-ri.eu/course/hpc-python-data-science"
+    }
+  ]
+}

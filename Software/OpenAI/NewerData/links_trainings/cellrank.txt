@@ -1,0 +1,13 @@
+{
+    "cellrank": {
+        "software_page": "https://cellrank.org/",
+        "documentation": "https://cellrank.readthedocs.io/en/stable/",
+        "tutorials_and_trainings": [
+            "https://cellrank.readthedocs.io/en/latest/tutorial.html",
+            "https://cellrank.towardsdatascience.com/cellrank-approximate-steady-states-in-single-cell-rna-seq-967dcdf476f0",
+            "https://github.com/theislab/cellrank/tree/master/examples",
+            "https://theislab.github.io/knowledgebase/cellrank",
+            "https://notebooks.gesis.org/binder/v2/gh/theislab/CellRank/master"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "softwareName": "r-jpeg",
+  "softwareURL": "https://cran.r-project.org/web/packages/jpeg/index.html",
+  "documentationLinks": [
+    {
+      "docTitle": "r-jpeg Documentation",
+      "docURL": "https://www.rdocumentation.org/packages/jpeg/versions/0.1-8"
+    }
+  ],
+  "tutorialLinks": [
+    {
+      "tutorialTitle": "Reading Images in R using jpeg package",
+      "tutorialURL": "https://www.datasciencelearner.com/reading-images-in-r-using-jpeg-package/"
+    },
+    {
+      "tutorialTitle": "Image Processing with R",
+      "tutorialURL": "https://rstudio-pubs-static.s3.amazonaws.com/6373_58c9f95a1cb5441f900b8313e2a25547.html"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "software": "libzip",
+  "description": "libzip is a C library for reading, creating, and modifying zip archives. Files can be added from data buffers, files, or compressed data copied directly from other zip archives. Changes made without closing the archive can be reverted.",
+  "software_url": "https://libzip.org/",
+  "resources": [
+    {
+      "type": "documentation",
+      "url": "https://libzip.org/documentation/"
+    },
+    {
+      "type": "tutorial",
+      "url": "https://libzip.org/tutorial/"
+    },
+    {
+      "type": "training",
+      "url": "https://stackoverflow.com/questions/41755424/how-to-work-with-libzip-library-for-c"
+    },
+    {
+      "type": "examples",
+      "url": "https://github.com/nih-at/libzip/tree/master/examples"
+    }
+  ]
+}

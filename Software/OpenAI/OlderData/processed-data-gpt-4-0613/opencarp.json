@@ -1,0 +1,28 @@
+{
+  "software": "openCARP",
+  "website": "https://opencarp.org/",
+  "documentation": [
+    {
+      "title": "openCARP Documentation",
+      "url": "https://opencarp.org/documentation/docs/home"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Getting Started - openCARP",
+      "url": "https://opencarp.org/documentation/getting-started"
+    },
+    {
+      "title": "Tutorial: Basic Concepts",
+      "url": "https://opencarp.org/documentation/tutorials/01-basics"
+    },
+    {
+      "title": "openCARP Webinar Series",
+      "url": "https://www.youtube.com/playlist?list=PLpUh3Auul1ITNhuhwGraHScK-72EFdfiy"
+    },
+    {
+      "title": "openCARP on GitLab",
+      "url": "https://git.opencarp.org/openCARP"
+    }
+  ]
+}

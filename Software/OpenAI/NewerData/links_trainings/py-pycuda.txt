@@ -1,0 +1,27 @@
+{
+  "software": "py-pycuda",
+  "link": "https://pypi.org/project/pycuda/",
+  "documentation": "https://documen.tician.de/pycuda/",
+  "training_materials": [
+    {
+      "name": "Getting started with PyCUDA",
+      "link": "https://documen.tician.de/pycuda/tutorial.html"
+    },
+    {
+      "name": "PyCUDA documentation",
+      "link": "https://documen.tician.de/pycuda/"
+    },
+    {
+      "name": "PyCUDA examples",
+      "link": "https://documen.tician.de/pycuda/examples.html"
+    },
+    {
+      "name": "PyCUDA on GitHub",
+      "link": "https://github.com/inducer/pycuda"
+    },
+    {
+      "name": "Introduction to GPU Programming with Python and PyCUDA",
+      "link": "https://cvw.cac.cornell.edu/gpu/pycuda"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+Use Case: ccache is often used to speed up compilation by caching the result of code compilation. When compiling code with similar inputs in the future, ccache can use the cached output rather than recompiling the code.
+
+Code details and examples: 
+
+Code: Here is a simple example with gcc and a C program:
+
+```c
+/* main.c */
+#include <stdio.h>
+
+int main() {
+    printf("Hello, world!\n");
+    return 0;
+}
+```
+
+The input for ccache in this case would be the command that you would typically use to compile your code. For example, you could compile this code with gcc:
+
+```
+ccache gcc -o main main.c
+```
+
+That command tells ccache to use gcc to compile the file "main.c" with the output file "main". The next time you run that command, ccache will use the cached compilation result if the input file has not changed. If "main.c" changes, then ccache will recompile the file and update the cache with the new result. 
+
+In this case, the input specification is just a typical command that you would use to compile your code. If you're using a different compiler or different compiler options, then you would need to adjust the ccache command accordingly. 
+
+Commands to run them:
+
+```
+ccache gcc -o main main.c
+./main
+``` 
+
+The second command runs the compiled program. The program prints "Hello, world!" and then exits.

@@ -1,0 +1,45 @@
+Use Case: XALT is a tool that allows you to track the software usage on a cluster. It provides a way to understand what libraries and executables are being used. The process is transparent to the end users.
+
+Code details and examples:
+Code:
+
+Input files: The primary input file for XALT is JSON file.
+
+Format required: JSON
+
+Specifications and details in input files:
+
+```
+{
+  "userT": {
+    "usr": "user1"
+  },
+  "startT": {
+    "epoch": "1543936646.5953"
+    "human": "2018-12-04T14:57:26.595271"
+  },
+  "endT": {
+    "epoch": "1543936926.5953"
+    "human": "2018-12-04T14:58:26.595271"
+  },
+  "runT": {
+    "days": 0,
+    "hours": 0,
+    "mins": 2,
+    "secs": 31
+  },
+  "num_cores": "1",
+  "num_nodes": "1",
+  "listA": [
+    "/opt/software/library1/1.0/bin/library1",
+    "/opt/software/library2/2.0/bin/library2",
+    "/opt/software/library3/3.0/bin/library3"
+  ]
+}
+```
+
+Running xalt with JSON file as input:
+
+Command to run: `./xalt_file_to_db.py --delete=yes json_file.json` 
+
+The command line to run XALT, would be: `xalt_file_to_db.py jsonFile.json`, where `jsonFile.json` is the file containing the tracking information of the software usage. Run this command from the directory where you have installed XALT.

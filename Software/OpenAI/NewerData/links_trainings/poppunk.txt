@@ -1,0 +1,11 @@
+{
+  "poppunk": {
+    "SoftwarePage": "https://www.poppunk.net/",
+    "Documentation": "https://poppunk.readthedocs.io/en/latest/",
+    "TutorialsTrainingMaterials": [
+      "https://poppunk.readthedocs.io/en/latest/installation.html",
+      "https://poppunk.readthedocs.io/en/latest/start.html",
+      "https://ungdb.com/q/52c3a03e-e2df-46f1-b9dd-8b138bea16dd"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Software": "Linux",
+  "Details": {
+    "Software_page": "https://www.linux.org/",
+    "Documentation": "https://www.kernel.org/doc/html/latest/",
+    "Tutorials_and_Training": {
+      "Linux Tutorials": "https://www.linux.org/forums/linux-tutorials.122/",
+      "Codecademy - Learn the Command Line": "https://www.codecademy.com/learn/learn-the-command-line",
+      "Learn Linux - Linux Journey": "https://linuxjourney.com/",
+      "The Linux Command Line Basics Coursera Course": "https://www.coursera.org/learn/linux-command-line-basics"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "Software_Name": "hmmer",
+    "Website_Link": "http://hmmer.org/",
+    "Documentation_Link": "http://hmmer.org/documentation.html",
+    "Training_and_Tutorial_Materials": [
+        {
+            "Name": "HMMER User Guide",
+            "Link": "http://eddylab.org/software/hmmer/Userguide.pdf"
+        },
+        {
+            "Name": "EBI HMMER tutorial",
+            "Link": "https://www.ebi.ac.uk/Tools/hmmer/tutorial"
+        },
+        {
+            "Name": "YouTube tutorial on HMMER",
+            "Link": "https://www.youtube.com/watch?v=cNxABrW82To"
+        }
+    ]
+}

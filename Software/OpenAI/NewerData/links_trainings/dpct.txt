@@ -1,0 +1,19 @@
+{
+  "software_name": "dpct",
+  "software_url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpcpp-ct.html",
+  "documentation_url": "https://software.intel.com/content/www/us/en/develop/documentation/get-started-dpct/top.html",
+  "tutorial_materials": [
+    {
+      "source": "Intel",
+      "url": "https://software.intel.com/content/www/us/en/develop/training/toolkits.html"
+    },
+    {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLpPXw4zNO2-AY0Jj5J2ve3i7kxNynxqy3"
+    },
+    {
+      "source": "Medium",
+      "url": "https://towardsdatascience.com/porting-cuda-to-dpc-using-the-intel-dpc-ct-tool-a-step-by-step-tutorial-59a7472d7c5e"
+    }
+  ]
+}

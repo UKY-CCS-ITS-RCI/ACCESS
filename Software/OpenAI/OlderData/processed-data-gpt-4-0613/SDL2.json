@@ -1,0 +1,12 @@
+{
+  "Software Name": "SDL2",
+  "links": {
+    "software page": "https://www.libsdl.org/download-2.0.php",
+    "documentation": "https://wiki.libsdl.org/CategoryAPI",
+    "tutorials": [
+      "http://lazyfoo.net/tutorials/SDL/",
+      "http://www.dreamincode.net/forums/topic/278732-sdl-20-tutorial-series/",
+      "https://gamefromscratch.com/sdl-2-0-tutorial-index/"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "software_name": "jupyter-server",
+  "software_page": "https://github.com/jupyter-server/jupyter_server",
+  "documentation": [
+    {
+      "mdn_docs": "https://jupyter-server.readthedocs.io/",
+      "python_org_docs": "https://ipython.org/"
+    }
+  ],
+  "training_materials": [
+    {
+      "real_python_tutorial": "https://realpython.com/jupyter-notebook-introduction/",
+      "datacamp_tutorial": "https://learn.datacamp.com/courses/introduction-to-data-science-in-python",
+      "jupyter_org_tutorial": "https://jupyter.org/try"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "software": "OpenJPEG",
+  "website": "https://www.openjpeg.org/",
+  "documentation": [
+    {
+      "title": "OpenJPEG Github Repository",
+      "url": "https://github.com/uclouvain/openjpeg"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Introduction to JPEG 2000",
+      "url": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000203.shtml"
+    },
+    {
+      "title": "Getting Started with OpenJPEG",
+      "url": "https://www.openjpeg.org/"
+    },
+    {
+      "title": "JPEG2000 with OpenJPEG",
+      "url": "https://wiki.xiph.org/JPEG2000_with_OpenJPEG"
+    }
+  ]
+}

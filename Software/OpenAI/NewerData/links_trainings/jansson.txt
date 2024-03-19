@@ -1,0 +1,11 @@
+{
+  "jansson": {
+    "SoftwarePage": "http://digip.org/jansson/",
+    "Documentation": "https://jansson.readthedocs.io/en/2.13/",
+    "TutorialMaterials": {
+      "Jansson Tutorial": "http://hildjj.github.io/jansson/",
+      "Jansson GitHub Examples": "https://github.com/akheron/jansson/tree/master/examples",
+      "Programming with Jansson": "https://jansson.readthedocs.io/en/2.13/tutorial.html"
+    }
+  }
+}

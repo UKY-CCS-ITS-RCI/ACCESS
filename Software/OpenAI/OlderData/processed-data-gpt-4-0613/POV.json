@@ -1,0 +1,21 @@
+{
+  "POV-RAY": {
+    "Software Name": "POV-RAY",
+    "Website": "http://www.povray.org/",
+    "Documentation": "http://www.povray.org/documentation/",
+    "Tutorials": [
+      {
+        "POV-Ray Tutorial": "http://www.povray.org/documentation/view/3.6.1/224/"
+      },
+      {
+        "POV-Ray Example Scenes": "http://www.povray.org/documentation/view/3.6.1/366/"
+      },
+      {
+        "Introduction to POV-Ray": "https://www.f-lohmueller.de/pov_tut/pov__e.htm"
+      },
+      {
+        "Advanced POV-Ray Tutorial": "https://www.sfu.ca/itservices/technical/computer-labs/software/3d-rendering/pov-ray/advanced-pov-ray-tutorial.html"
+      }
+    ]
+  }
+}

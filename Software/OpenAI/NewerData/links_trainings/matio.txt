@@ -1,0 +1,12 @@
+{
+  "software": "matio",
+  "details": [{
+      "software_page": "https://sourceforge.net/projects/matio/",
+      "documentation": "https://matio.readthedocs.io/en/latest/",
+      "tutorial_materials": [
+        "https://www.gnu.org/software/octave/doc/interpreter/Loading-and-Saving-Data.html#XREFmatio",
+        "https://github.com/tbeu/matio-win",
+        "https://stackoverflow.com/questions/tagged/matio"
+      ]
+    }]
+}

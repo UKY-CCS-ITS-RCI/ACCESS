@@ -1,0 +1,20 @@
+{
+  "name": "CrossMap",
+  "software_page": "http://crossmap.sourceforge.net/",
+  "documentation": [
+    {
+      "name": "CrossMap User Manual",
+      "url": "http://crossmap.sourceforge.net/?q=content/what-crossmap"
+    }
+  ],
+  "training_materials": [
+    {
+      "name": "CrossMap Software",
+      "url": "https://bio.tools/crossmap"
+    },
+    {
+      "name": "BioStars - CrossMap help threads and tutorials",
+      "url": "https://www.biostars.org/p/222194/"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Software_Name": "tmux",
+  "Software_Link": "https://github.com/tmux/tmux/wiki",
+  "Documentation_Link": "https://man.openbsd.org/OpenBSD-current/man1/tmux.1",
+  "Training_Materials": {
+    "Tutorial#1": "https://thoughtbot.com/blog/a-tmux-crash-course",
+    "Tutorial#2": "https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/",
+    "Tutorial#3": "https://www.youtube.com/watch?v=BHhA_ZKjyGk"
+  }
+}

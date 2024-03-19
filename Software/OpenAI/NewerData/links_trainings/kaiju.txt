@@ -1,0 +1,22 @@
+{
+  "Software": "Kaiju",
+  "URL": "http://kaiju.binf.ku.dk/",
+  "Documentation": {
+    "Label": "Manual",
+    "Link": "http://kaiju.binf.ku.dk/manual"
+  },
+  "Tutorials": [
+    {
+      "Label": "Installation and Running Kaiju",
+      "Link": "https://www.be-md.ncbi.nlm.nih.gov/guide/docs/tools/kaiju/"
+    },
+    {
+      "Label": "Bioinformatics Benchmarks: Kraken 2 vs Kaiju",
+      "Link": "https://omicsinformatics.org/bioinformatics-benchmarks-kraken-2-vs-kaiju/"
+    },
+    {
+      "Label": "Kaiju Github Repo Tutorial Example",
+      "Link": "https://github.com/bioinformant/kaiju"
+    }
+  ]
+}

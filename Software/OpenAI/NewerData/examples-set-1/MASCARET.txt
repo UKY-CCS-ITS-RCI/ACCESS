@@ -1,0 +1,41 @@
+Use Case: Use Mascaret for studying river hydraulics which includes 1D free surface flow, transient and steady flow conditions, and transport of dissolved substances in natural or manmade watercourses.
+
+Code details and examples: Code
+
+The primary input file required for MASCARET is the .opt file.
+
+ASCII format of .opt file:
+
+```text
+[MODEL]
+CASE_TITLE = case_mascaret
+DEBUG_LEVEL = 0
+RESIDUE = 0.001
+
+[INITIAL_STATE]
+BOTTOM_VERSION = 1
+
+[HYDRAULIC]
+HYD_TYPE = Sf   # subcritical flow
+
+[INPUT_FILE]
+WATER_QUALITY = Computed    # inputs for the transport of dissolved substances
+
+[PARAMETERS]
+HYD_STEADY_FLOW = Yes   # steady flow conditions
+
+[OUTPUT]
+OUTPUT_RESULTS = Listing
+```
+
+The secondary input file is the .lig file which contains initialization for hydraulic computation and cross-section for the temporal and spatial discretization.
+
+Run the software as follows:
+
+```bash
+mascaret.py -f case.opt
+```
+
+The above command runs the Mascaret for a case defined in `case.opt` file in the same directory.
+
+This command is used to run the python script `mascaret.py` which is a wrapper around the binary `mascaret`. The `-f` flag is used to specify the `.opt` file (e.g., `case.opt`). The specified `.opt` file should outline the problem to be solved and where to find all necessary input files. The program will then execute the simulation based on the specifications of the problem described, using the default values for the unspecified parameters.

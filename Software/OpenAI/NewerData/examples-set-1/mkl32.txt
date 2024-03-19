@@ -1,0 +1,37 @@
+Use Case: Intel Math Kernel Library (MKL) is a computational package used extensively for high performance computing tasks. It involves utilizing computing resources for tasks requiring mathematical computations like matrix multiplication, Fourier transforms, vector statistics, amongst others.
+
+Code details and examples: Code
+
+Firstly, let's write a simple C code which uses MKL for matrix multiplication.
+
+Complexity (Input & Output File details): The sample file here is a C program (.c file). It needs a compiler and MKL library installed on the machine. The output will be presented on the console (stdout).
+
+```c
+#include "mkl.h"
+
+void main()
+{
+   double A[6] = {1.0, 2.0, 1.0, -3.0, 4.0, -1.0};
+   double B[6] = {1.0, 2.0, 1.0, -3.0, 4.0, -1.0};
+   double C[9] = {.5, .5, .5, .5, .5, .5, .5, .5, .5};
+   cblas_dgemm(CblasRowMajor, CblasNoTrans, CblasTrans, 
+               3, 3, 2, 1, A, 2, B, 2, 2, C, 3);
+   
+   for(int i=0; i<9; i++)
+      printf("%lf ", C[i]);
+}
+```
+
+Command to Run: To compile and run the program first compile the C file with intel C compiler and MKL linking as:
+
+```
+icc -o my_program my_program.c -I/opt/intel/mkl/include -L/opt/intel/mkl/lib/intel64 -lmkl_rt -lpthread -lm -ldl
+```
+
+Then, you can run the program as:
+
+```
+./my_program
+```
+
+This should show the resulting matrix after the matrix multiplication operation is performed.

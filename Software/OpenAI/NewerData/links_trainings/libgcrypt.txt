@@ -1,0 +1,19 @@
+{
+  "Software": "libgcrypt",
+  "Software URL": "https://www.gnupg.org/software/libgcrypt/index.html",
+  "Documentation": "https://www.gnupg.org/documentation/manuals/gcrypt/",
+  "Tutorials": [
+    {
+      "Title": "Libgcrypt Reference Manual",
+      "URL": "https://gnupg.org/documentation/manuals/gcrypt/"
+    },
+    {
+      "Title": "Introduction to Cryptology with libgcrypt",
+      "URL": "http://garagehacker.com/wiki/index.php/Introduction_to_Cryptology_with_libgcrypt"
+    },
+    {
+      "Title": "Stackoverflow Libgcrypt Questions",
+      "URL": "https://stackoverflow.com/questions/tagged/libgcrypt"
+    }
+  ]
+}

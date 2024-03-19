@@ -1,0 +1,32 @@
+Use Case: Flex, or Fast Lexical Analyzer, is a tool for generating scanners: programs which recognize lexical patterns in text and it is particularly useful in writing programs that have command-line options.
+
+Code details and examples: 
+
+Code: 
+
+```antlr
+%%  
+[0-9]+ printf("Saw an integer\n"); 
+[a-z]+ printf("Saw a word\n"); 
+.|\n ; 
+%%
+```
+
+In the above code snippet, the Flex takes the input file which is specified with the lexical rules. The integer rule specifies that when an integer (sequence of one or more digits) is detected, output "Saw an integer" to the console. The word rule specifies that when a word (sequence of one or more lower case letters) is detected, output "Saw a word" to the console.
+
+You can use the command `flex filename.l` where `filename.l` is the name of the file you want to process. This will generate a `lex.yy.c` file which can then be compiled using a C compiler such as gcc using the command `gcc lex.yy.c -lfl`. This will generate an a.out file which when run, will process the input according to the rules specified in the lex file. 
+
+The command to run the created a.out file is `./a.out`. 
+
+Input File: 
+
+Input for this scanner can be any text file or standard input which contains words and integers. There are no specific format requirements. Any text file with integers and letters should work fine for this example. 
+
+Input Example: 
+
+```txt
+12 apples picked 
+7 oranges tasted
+```
+
+In this case, running the program will print "Saw an integer" followed by "Saw a word" for each line.

@@ -1,0 +1,11 @@
+{
+    "name": "gadma",
+    "software_page_link": "https://github.com/ctlab/gadma",
+    "additional_links": {
+        "documentation": "https://gadma.readthedocs.io/en/latest/",
+        "tutorials_and_training": [
+            "https://gadma.readthedocs.io/en/latest/tutorial.html",
+            "https://gadma.readthedocs.io/en/latest/getting_started.html"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "softwareName": "scikit-cuda",
+  "softwareLink": "https://scikit-cuda.github.io/",
+  "documentationLink": "https://scikit-cuda.readthedocs.io/",
+  "tutorialAndTraining": [
+    {
+      "name": "Introduction to GPU Computing with Python & PyCUDA",
+      "link": "https://www.youtube.com/watch?v=FZ1fwUzqUMA"
+    },
+    {
+      "name": "Python PyCUDA GPU Computing Tutorial",
+      "link": "https://www.quantstart.com/articles/python-pycuda-gpu-computing/"
+    },
+    {
+      "name": "Introduction to GPU Programming for Data Scientists",
+      "link": "https://towardsdatascience.com/introduction-to-gpu-programming-for-data-scientists-dbb7850850cc"
+    }
+  ]
+}

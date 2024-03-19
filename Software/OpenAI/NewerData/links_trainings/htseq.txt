@@ -1,0 +1,12 @@
+{
+  "htseq": {
+    "Software Page": "https://htseq.readthedocs.io/en/release_0.11.1/",
+    "Documentation": "https://htseq.readthedocs.io/en/release_0.11.1/",
+    "Training and Tutorial Materials": {
+      "Material 1": "https://htseq.readthedocs.io/en/release_0.11.1/tss.html",
+      "Material 2": "https://galaxyproject.org/tutorials/htseq/",
+      "Material 3": "https://bioconda.github.io/recipes/htseq/README.html",
+      "Material 4": "https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/05_counting_reads_htseq.html"
+    }
+  }
+}

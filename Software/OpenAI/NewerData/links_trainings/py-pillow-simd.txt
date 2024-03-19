@@ -1,0 +1,22 @@
+{
+  "software": "py-pillow-simd",
+  "functions": "Image-processing, scientific software",
+  "link": "https://github.com/uploadcare/pillow-simd",
+  "resources": {
+    "documentation": "https://pillow.readthedocs.io/en/stable/",
+    "tutorials": [
+      {
+        "name": "Pillow (PIL Fork) Documentation",
+        "link": "https://pillow.readthedocs.io/en/stable/"
+      },
+      {
+        "name": "Tutorial: Image Processing in Python with Pillow",
+        "link": "https://datacarpentry.org/image-processing/02-image-basics/"
+      },
+      {
+        "name": "Python PIL (Python Imaging Library)",
+        "link": "https://www.geeksforgeeks.org/python-pil-python-imaging-library/"
+      }
+    ]
+  }
+}

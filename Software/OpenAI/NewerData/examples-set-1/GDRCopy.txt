@@ -1,0 +1,56 @@
+Use Case: GDRCopy is a user-level GPU memory management package that provides a simple GPU direct access (GDR) copy abstraction. It is mainly used to speed up inter-node communication in high performance computing (HPC) systems by leveraging GPU direct RDMA technology.
+
+Code details and Examples:
+Code:
+
+In order to use GDRCopy, you need to have a CUDA program which manages the communication between the CPU and the GPU memory.
+
+Here is a sample use case with a CUDA program:
+
+```cpp
+#include <cuda.h>
+#include <gdrapi.h>
+
+int main() {
+    CUdeviceptr d_A;
+    void *h_A;
+    gdr_t g = gdr_open();
+    CUdevice dev;
+    CUcontext ctx;
+
+    cuInit(0);
+    cuDeviceGet(&dev, 0);
+    cuCtxCreate(&ctx, 0, dev);
+
+    size_t size = 1024 * 1024 * 1024;
+    cuMemAlloc(&d_A, size);
+    gdr_mh_t mh;
+    gdr_pin_buffer(g, d_A, size, 0, 0, &mh);
+  
+    gdr_map(g, mh, &h_A, size);
+    cudaMemcpy(d_A, h_A, size, cudaMemcpyDefault);
+
+    gdr_unmap(g, mh, h_A, size);
+    cuMemFree(d_A);
+    gdr_close(g);
+
+    return 0;
+}
+```
+
+This sample CUDA program:
+1. Initializes a CUDA device and context
+2. Allocates GPU memory
+3. Pins that memory with gdr_pin_buffer()
+4. Maps it to a user-space pointer with gdr_map()
+5. Copies data from the mapped pointer to the GPU memory with cudaMemcpy()
+6. Then unmaps the memory and frees it
+
+To run this program, you have to compile it with NVCC (NVIDIA CUDA Compiler) and run the output executable:
+
+```bash
+nvcc gdrcopy_sample.cu -o gdrcopy_sample -lgdrapi
+./gdrcopy_sample
+```
+
+Note: The input in this package does not come from input files but from the memory management that is performed inside the source code of the program.

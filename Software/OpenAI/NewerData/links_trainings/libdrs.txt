@@ -1,0 +1,21 @@
+{
+  "software": "libdrs",
+  "website": "https://www-pcmdi.llnl.gov/software-portal/libdrs/",
+  "documentation": "https://www-pcmdi.llnl.gov/software-portal/libdrs/",
+  "training_materials": [
+    {
+      "title": "PCMDI Software Portal",
+      "url": "https://www-pcmdi.llnl.gov/software-portal/"
+    },
+    {
+      "title": "GitHub - PCMDI/libdrs",
+      "url": "https://github.com/PCMDI/libdrs"
+    }
+  ],
+  "tutorial_materials": [
+    {
+      "title": "GitHub - PCMDI/libdrs",
+      "url": "https://github.com/PCMDI/libdrs"
+    }
+  ]
+}

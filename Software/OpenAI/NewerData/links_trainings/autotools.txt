@@ -1,0 +1,14 @@
+{
+  "softwareName": "Autotools",
+  "softwarePage": "https://www.gnu.org/software/automake/manual/automake.html",
+  "documentation": {
+    "autobook": "https://www.sourceware.org/autobook/",
+    "autoconfManual": "https://www.gnu.org/software/autoconf/manual/autoconf.html",
+    "automakeManual": "https://www.gnu.org/software/automake/manual/automake.html",
+    "autopointManual": "https://www.gnu.org/software/gettext/manual/html_node/autopoint-Invocation.html"
+  },
+  "tutorialsAndTrainingMaterials": {
+    "autotoolsTutorial": "http://www.lrde.epita.fr/~adl/autotools.html",
+    "gnuAutotoolsIntroduction": "https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html"
+  }
+}

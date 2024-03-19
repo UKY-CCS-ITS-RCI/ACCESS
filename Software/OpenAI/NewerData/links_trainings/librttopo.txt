@@ -1,0 +1,10 @@
+{
+    "Software_Name": "librttopo",
+    "Software_URL": "https://git.osgeo.org/gitea/rttopo/librttopo",
+    "Documentation_URL": "https://www.gaia-gis.it/gaia-sins/",
+    "Training_Materials": {
+        "Tutorial1": "https://postgis.net/docs/manual-3.0/reference.html#RTGEOM_GEOS_Prepare",
+        "Tutorial2": "https://postgis.net/workshops/postgis-intro/spatial_relationships.html",
+        "Tutorial3": "https://en.wikipedia.org/wiki/Spatialite"
+    }
+}

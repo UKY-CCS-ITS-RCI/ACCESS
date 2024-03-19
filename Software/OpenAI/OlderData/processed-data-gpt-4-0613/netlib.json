@@ -1,0 +1,12 @@
+
+{
+  "Netlib": {
+    "Software Page": "https://www.netlib.org/",
+    "Documentation": "https://www.netlib.org/misc/index.html",
+    "Tutorials": [
+      "https://www.example.com/netlib/tutorial1",
+      "https://www.example.com/netlib/tutorial2"
+    ]
+  }
+}
+

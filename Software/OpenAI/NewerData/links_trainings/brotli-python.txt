@@ -1,0 +1,16 @@
+{
+  "software_name": "brotli-python",
+  "software_page": "https://pypi.org/project/Brotli/",
+  "documentation": [
+    {
+      "title": "GitHub Brotli Documentation",
+      "link": "https://github.com/google/brotli"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Python Compression With Brotli Tutorial",
+      "link": "https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6"
+    }
+  ]
+}

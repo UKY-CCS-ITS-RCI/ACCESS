@@ -1,0 +1,11 @@
+{
+  "pyani": {
+    "Software Page": "https://github.com/widdowquinn/pyani",
+    "Documentation": "https://pyani.readthedocs.io/en/latest/",
+    "Training and Tutorials": [
+      "https://anaconda.org/bioconda/pyani",
+      "https://hub.docker.com/r/widdowquinn/pyani/",
+      "https://bioconda.github.io/recipes/pyani/README.html"
+    ]
+  }
+}

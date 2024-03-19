@@ -1,0 +1,21 @@
+{
+  "clp": {
+    "software_page": "https://www.coin-or.org/Clp/",
+    "documentation": [
+      {
+        "url": "https://www.coin-or.org/Clp/userguide/clpuserguide.pdf",
+        "resource_name": "CLP User Guide"
+      }
+    ],
+    "training_materials": [
+      {
+        "url": "https://www.ibm.com/support/knowledgecenter/SSSA5P_12.10.0/ilog.odms.cplex.help/CPLEX/UsrMan/topics/CLP/02_homepage_CLP.html",
+        "resource_name": "IBM ILOG CPLEX CLP"
+      },
+      {
+        "url": "http://mpy.github.io/CoinMP/doc-doxygen/index.html",
+        "resource_name": "Coin-Or linear programming"
+      }
+    ]
+  }
+}

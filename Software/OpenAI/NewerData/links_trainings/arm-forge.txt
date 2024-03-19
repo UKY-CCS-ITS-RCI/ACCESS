@@ -1,0 +1,23 @@
+{
+  "software_name": "Arm Forge",
+  "software_page": "https://developer.arm.com/tools-and-software/server-and-hpc/develop/debug-and-profiling-tools/forge",
+  "documentation": "https://developer.arm.com/tools-and-software/server-and-hpc/downloads/download-arm-forge",
+  "training_and_tutorial_materials": [
+    {
+      "title": "Forge Getting Started Guide",
+      "link": "https://developer.arm.com/tools-and-software/server-and-hpc/debugger-dtt/getting-started"
+    },
+    {
+      "title": "Temporal Debugging with ReplayEngine",
+      "link": "https://community.arm.com/developer/tools-software/oss-platforms/w/docs/381/replayengine"
+    },
+    {
+      "title": "Arm Forge Performance Reports",
+      "link": "https://community.arm.com/developer/tools-software/hpc/b/hpc-blog/posts/performance-reports-19-0"
+    },
+    {
+      "title": "Arm Forge Tutorials",
+      "link": "https://www.hpcc.msu.edu/videos/arm_forge_tutorials"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Software": {
+    "Name": "Quantum Espresso (QE)",
+    "WebURL": "https://www.quantum-espresso.org/",
+    "Documentation": [
+      {
+        "Name": "User Guide",
+        "URL": "https://www.quantum-espresso.org/Doc/user_guide/"
+      },
+      {
+        "Name": "Input Description",
+        "URL": "https://www.quantum-espresso.org/Doc/INPUT_PW.html"
+      }
+    ],
+    "TrainingMaterial": [
+      {
+        "Name": "Tutorials",
+        "URL": "https://www.quantum-espresso.org/resources/tutorials"
+      },
+      {
+        "Name": "Quantum Espresso Tutorial (YouTube)",
+        "URL": "https://www.youtube.com/watch?v=dfF7Kp2g1_k"
+      },
+      {
+        "Name": "Unofficial Guide by M. Rutz",
+        "URL": "https://www.rutzm.de/esspresso/"
+      }
+    ]
+  }
+}

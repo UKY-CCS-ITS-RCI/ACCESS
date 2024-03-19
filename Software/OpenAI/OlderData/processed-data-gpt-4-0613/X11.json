@@ -1,0 +1,23 @@
+{
+"name": "X11",
+"softwarePage": "https://www.x.org/",
+"documentation": "https://www.x.org/wiki/guide/",
+"tutorialMaterials": [
+    {
+        "name": "Getting Started with X11",
+        "url": "https://www.cs.princeton.edu/courses/archive/fall16/cos318/precepts/3_X11.pdf"
+    },
+    {
+        "name": "X11 Programming Tutorial",
+        "url": "https://tronche.com/gui/x/xlib-tutorial/"
+    },
+    {
+        "name": "X Window System User's Guide",
+        "url": "https://archive.org/details/xwindowsystemuse00oriarich"
+    },
+    {
+        "name": "An Introduction to X11 Programming",
+        "url": "https://www.cs.dartmouth.edu/~sergey/cs258/intro_to_x.html"
+    }
+  ]
+}

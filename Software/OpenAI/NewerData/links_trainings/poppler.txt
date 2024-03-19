@@ -1,0 +1,22 @@
+{
+  "Software": "Poppler",
+  "Website": "https://poppler.freedesktop.org/",
+  "Documentation": "https://poppler.freedesktop.org/api/cpp.html",
+  "Tutorials/Training Materials": [
+    {
+      "Name": "StackOverflow-Poppler",
+      "URL": "https://stackoverflow.com/questions/tagged/poppler?sort=votes&pageSize=50",
+      "Description": "A tag related to Poppler for getting solutions to specific problems with Poppler"
+    },
+    {
+      "Name": "Github - pdf2image",
+      "URL": "https://github.com/Belval/pdf2image",
+      "Description": "A python 3.6+ library wrapper for Poppler utils to convert PDF into PIL Image object"
+    },
+    {
+      "Name": "Github - Python-Poppler-Qt5",
+      "URL": "https://github.com/fresc81/python-poppler-qt5",
+      "Description": "An interface of poppler and python/PySide2"
+    }
+  ]
+}

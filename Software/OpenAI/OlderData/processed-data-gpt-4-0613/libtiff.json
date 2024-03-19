@@ -1,0 +1,9 @@
+{
+    "software": "libtiff",
+    "resources": {
+        "softwareHomepage": "https://www.libtiff.org/",
+        "documentation": "http://www.libtiff.org/man/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

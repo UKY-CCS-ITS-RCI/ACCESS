@@ -1,0 +1,11 @@
+{
+  "ncurses": {
+    "softwarePage": "https://www.gnu.org/software/ncurses/",
+    "documentation": "https://invisible-island.net/ncurses/ncurses.faq.html",
+    "tutorials": [
+      "https://www.linuxjournal.com/article/2872",
+      "https://www.linuxjournal.com/article/5963",
+      "https://www.linuxjournal.com/article/3179"
+    ]
+  }
+}

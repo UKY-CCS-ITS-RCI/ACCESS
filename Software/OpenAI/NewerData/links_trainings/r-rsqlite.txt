@@ -1,0 +1,16 @@
+{
+  "software": "r-rsqlite",
+  "software_url": "https://cran.r-project.org/web/packages/RSQLite/index.html",
+  "software_details": {
+    "documentation": [
+      "https://cran.r-project.org/web/packages/RSQLite/RSQLite.pdf"
+    ],
+    "tutorials": [
+      "https://db.rstudio.com/databases/sqlite/",
+      "https://www.rdocumentation.org/packages/RSQLite/versions/2.2.8"
+    ],
+    "training_materials": [
+      "https://www.datacamp.com/community/tutorials/databases-r"
+    ]
+  }
+}

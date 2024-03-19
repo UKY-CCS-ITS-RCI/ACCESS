@@ -1,0 +1,52 @@
+Use Case: P3DFFT is a software library performing Fast Fourier Transform (FFT) operations for 3D data-sets in parallel. It is particularly targeted at large-scale simulations run on supercomputers. 
+
+Code details and examples: Code
+
+Sample Input File: A three-dimensional grid of data, usually defined in a distribution format. Note: the library supports input data in a complex format and also a real format. The number of grid points along each axis (nx, ny, nz), should be divisible by the total number of tasks(in process grid - Px, Py), else FFT cannot be performed. 
+
+Input Data Format: (nx, ny, nz) array of either complex or real numbers. 
+
+    #Input array 
+    double input[nx][ny][nz];
+    ...
+    // Initialize the array with data.
+    ...
+    
+Command to run: 
+
+    #include 
+    #include "p3dfft.h"
+    int main(int argc,char **argv) {
+        ...
+        // Initialize MPI
+        MPI_Init(&argc,&argv);
+        // Get the size and the rank of the process
+        MPI_Comm_size(MPI_COMM_WORLD,&numtasks);
+        MPI_Comm_rank(MPI_COMM_WORLD,&rank);
+        
+        // Create 3D Decomposition with Nx x Ny x Nz.
+        int dim[3] = {Nx, Ny, Nz};
+        ...
+        // Call P3DFFT setup routines (Plan creation)
+        p3dfft_setup();
+        p3dfft_plan_forward_c2c(P3DFFT_PLAN, dim, nnodes, comm, input);
+        ...
+        // Perform forward transform.   
+        p3dfft_exec_c2c(P3DFFT_PLAN, input, output, -1);
+        ...
+        MPI_Finalize();
+    }
+
+Commands to compile the code include either using MPI compiler directly or using Makefile given in P3DFFT library.
+
+    mpicc -o fftcode fftcode.c -lp3dfft -lm
+
+To Run the Code:
+
+    mpirun -np total_processors fftcode.exe 
+
+(total_processors is the total number of processors to be used. This must be the multiplication of Px and Py.) 
+
+For example, if we are considering a global dataset of 512x512x512 grid points, Px=64 and Py=8, then we can run:
+    
+    mpirun -np 512 fftcode.exe

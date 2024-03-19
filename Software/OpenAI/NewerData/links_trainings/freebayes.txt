@@ -1,0 +1,14 @@
+{
+    "Freebayes": {
+        "software_page": "https://github.com/ekg/freebayes",
+        "documentation_links": [
+            "https://github.com/ekg/freebayes#readme",
+            "https://github.com/ekg/freebayes/wiki"
+        ],
+        "training_and_tutorial_materials": [
+            "https://github.com/ekg/freebayes#usage",
+            "http://bioinformatics.bc.edu/marthlab/FreeBayes_Tutorial",
+            "https://www.youtube.com/watch?v=Ec3wNVkJLP4"
+        ]
+    }
+}

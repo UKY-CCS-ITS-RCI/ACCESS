@@ -1,0 +1,12 @@
+{
+  "software_name": "MVAPICH",
+  "comprehensive_overview": "MVAPICH (MPI-3 over OpenFabrics-IB, PSM, eTCP)" is an open-source implementation of the Message Passing Interface (MPI) standard. It is specifically optimized for high-performance computing (HPC) systems using InfiniBand, Omni-Path, Ethernet/iWARP, and RoCE networking technologies.",
+  "core_features": "1. High-performance implementation of MPI-3 standard. 2. Support for multiple network technologies. 3. Scalability and efficiency on HPC systems. 4. Advanced features like asynchronous progress, CUDA-aware MPI, etc.",
+  "general_tags": ["MPI", "High Performance Computing", "Networking", "Open Source"],
+  "additional_tags": {
+    "research_discipline": "Computer Science",
+    "research_area": "High Performance Computing, Parallel Computing",
+    "software_class": "MPI Implementation",
+    "software_type": "Library"
+  }
+}

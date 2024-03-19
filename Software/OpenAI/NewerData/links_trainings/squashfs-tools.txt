@@ -1,0 +1,23 @@
+{
+  "software": "squashfs-tools",
+  "official_url": "https://github.com/plougher/squashfs-tools",
+  "documentation": "http://manpages.ubuntu.com/manpages/bionic/man1/mksquashfs.1.html",
+  "tutorials_and_training": [
+    {
+      "name": "Introduction to Squashfs",
+      "url": "https://www.internalpointers.com/post/introduction-squashfs-file-system"
+    },
+    {
+      "name": "SquashFS How To",
+      "url": "https://www.tldp.org/HOWTO/SquashFS-HOWTO/index.html"
+    },
+    {
+      "name": "Mksquashfs Tutorial",
+      "url": "https://www.cs.colostate.edu/helpdocs/mksquashfs.html"
+    },
+    {
+      "name": "Create SquashFS on Linux",
+      "url": "https://linuxhint.com/create_squashfs_on_linux/"
+    }
+  ]
+}

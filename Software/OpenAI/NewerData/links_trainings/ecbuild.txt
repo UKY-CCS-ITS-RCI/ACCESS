@@ -1,0 +1,17 @@
+{
+  "Name": "ecbuild",
+  "SoftwarePage": "https://github.com/ecmwf/ecbuild",
+  "DocumentationLinks": [
+    {
+      "Link": "https://cms.ecmwf.int/sites/default/files/SHARED/ecbuild/public/annotated.html"
+    },
+    {
+      "Link": "https://software.ecmwf.int/wiki/display/ECC/ecBuild"
+    }
+  ],
+  "TrainingAndTutorials": [
+    {
+      "Link": "https://www.ecmwf.int/sites/default/files/elibrary/2015/16235-ecbuild-tutorial.pdf"
+    }
+  ]
+}

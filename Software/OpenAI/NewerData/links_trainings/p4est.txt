@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "p4est",
+  "SoftwarePage": "http://www.p4est.org/",
+  "DocumentationLinks": [
+    {
+      "Documentation": "http://www.p4est.org/#documentation"
+    }
+  ],
+  "TutorialAndTrainingMaterials": [
+    {
+      "Tutorial": "https://docs.csc.fi/apps/p4est/",
+      "TrainingMaterial": "http://www.p4est.org/release_notes.html"
+    }
+  ]
+}

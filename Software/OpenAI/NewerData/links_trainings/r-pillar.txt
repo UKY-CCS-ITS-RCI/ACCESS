@@ -1,0 +1,15 @@
+{
+  "Software Name": "r-pillar",
+  "Software URL": "https://cran.r-project.org/package=pillar",
+  "Documentation": "https://pillar.r-lib.org/index.html",
+  "Tutorials": [
+    {
+      "Tutorial Name": "Introduction to the pillar package",
+      "Tutorial URL": "https://cran.r-project.org/web/packages/pillar/vignettes/pillar.html"
+    },
+    {
+      "Tutorial Name": "Custom pillar Formatting of NYCFlights13",
+      "Tutorial URL": "https://cran.r-project.org/web/packages/pillar/vignettes/pillar.html"
+    }
+  ]
+}

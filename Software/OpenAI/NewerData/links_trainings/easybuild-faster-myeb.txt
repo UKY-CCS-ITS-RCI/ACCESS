@@ -1,0 +1,24 @@
+{
+  "Name": "easybuild-faster-myeb",
+  "Software URL": "https://github.com/hpcugent/easybuild",
+  "Documentation": [
+    {
+      "Name": "easybuild-tutorial",
+      "URL": "https://easybuilders.github.io/easybuild-tutorial/"
+    },
+    {
+      "Name": "easybuild-docs",
+      "URL": "https://easybuilders.github.io/easybuild/"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Name": "easybuild-tutorial-step_by_step",
+      "URL": "https://easybuilders.github.io/easybuild-tutorial/#step_by_step"
+    },
+    {
+      "Name": "easybuild-webinar",
+      "URL": "https://www.youtube.com/playlist?list=PLV1BcivFAIdto1KyHNQ4lFyK_neDU_AWN"
+    }
+  ]
+}

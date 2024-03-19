@@ -1,0 +1,12 @@
+{
+  "Software Name": "VCF2MAF",
+  "links": {
+    "software page": "https://github.com/mskcc/vcf2maf",
+    "documentation": "https://github.com/mskcc/vcf2maf/blob/master/README.md",
+    "tutorials": [
+      "https://www.bcgsc.ca/jira/browse/DEVSU-57",
+      "https://github.com/cBioPortal/cbioportal/blob/master/docs/Import-the-MAF-file.md",
+      "https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/DNA_Seq_Variant_Calling_Pipeline/"
+    ]
+  }
+}

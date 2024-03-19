@@ -1,0 +1,22 @@
+{
+"Gcccore": 
+  {
+    "software_page": "https://gcc.gnu.org/",
+    "documentation": "https://gcc.gnu.org/onlinedocs/",
+    "tutorial_materials": 
+    [
+      {
+        "name": "GCC and Make",
+        "link": "https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html"
+      }, 
+      {
+        "name": "A Basic Introduction to GCC",
+        "link": "https://www.linode.com/docs/guides/beginners-guide-to-gcc/"
+      },
+      {
+        "name": "An Introduction to GCC",
+        "link": "http://www.network-theory.co.uk/docs/gccintro/"
+      }
+    ]
+  }
+}

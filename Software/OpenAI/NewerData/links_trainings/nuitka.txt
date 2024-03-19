@@ -1,0 +1,18 @@
+{
+    "software": "nuitka",
+    "website_url": "https://nuitka.net/",
+    "additional_resources": [
+        {
+            "name": "documentation",
+            "url": "https://nuitka.net/doc/user-manual.html"
+        },
+        {
+            "name": "tutorial",
+            "url": "https://nuitka.net/doc/tutorial.html"
+        },
+        {
+            "name": "training_materials",
+            "url": "https://www.programmersought.com/article/2397280223/"
+        }
+    ]
+}

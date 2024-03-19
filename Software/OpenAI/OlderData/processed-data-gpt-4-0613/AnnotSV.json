@@ -1,0 +1,19 @@
+{
+  "Software": "AnnotSV",
+  "Website": "https://lbgi.fr/AnnotSV/",
+  "Documentation": "https://lbgi.fr/AnnotSV/htdocs/help/AnnotSV.html",
+  "Tutorials and Training material": [
+    {
+      "Title": "AnnotSV Documentation",
+      "Link": "https://lbgi.fr/AnnotSV/htdocs/help/AnnotSV.html"
+    },
+    {
+      "Title": "Tutorial for AnnotSV on GitHub",
+      "Link": "https://github.com/lgmgeo/AnnotSV"
+    },
+    {
+      "Title": "Introduction to AnnotSV",
+      "Link": "https://pubmed.ncbi.nlm.nih.gov/29688231/"
+    }
+  ]
+}

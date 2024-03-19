@@ -1,0 +1,9 @@
+{
+  "softwareName": "Dos2unix",
+  "links": {
+    "softwarePage": "https://waterlan.home.xs4all.nl/dos2unix.html",
+    "documentation": "https://linux.die.net/man/1/dos2unix",
+    "tutorial1": "https://www.baeldung.com/linux/newline-conversion-dos2unix",
+    "tutorial2": "https://www.howtoforge.com/linux-dos2unix-command/"
+  }
+}

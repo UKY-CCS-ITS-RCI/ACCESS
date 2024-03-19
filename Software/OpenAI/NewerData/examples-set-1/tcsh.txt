@@ -1,0 +1,31 @@
+Use Case: tcsh is a command processor which allows the user to execute commands with familiar syntax and to conduct complicated and repetitive tasks quickly. It can also be used to launch programs and functions on Unix-based systems. 
+
+Code details and examples: Code
+
+To execute a command in the tcsh shell, open a terminal and type the command. Here's an example of a command. 
+```command
+% echo "Hello World"
+```
+In this example, "echo" is the command that prints out the words "Hello World" to the console.
+
+Similarly, you could run a complete script written in tcsh (*.tcsh, *.csh).
+
+Sample script (filename: sampleScript.tcsh)
+```bash
+#!/bin/tcsh
+# This is a comment
+set myvar = 5
+@ myvar = $myvar + 5
+echo "myvar is" $myvar
+```
+To grant execute permissions:
+```bash
+chmod +x sampleScript.tcsh
+```
+To run this script, you would use the following command.
+```bash
+./sampleScript.tcsh
+```
+By running this command, the output would be "myvar is 10". That's because the script updates the value of myvar to be 5 plus its original value (5), and then prints that out.
+
+Meanwhile, the input files required would simply be any tcsh script that you'd like to run. There aren't necessarily any special specifications required in these input files; you'd simply write them as you would any script or list of commands. However, it is important to know that any variables or commands should be written following tcsh (or csh) syntax.

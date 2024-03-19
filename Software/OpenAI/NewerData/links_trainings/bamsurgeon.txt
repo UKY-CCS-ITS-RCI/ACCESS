@@ -1,0 +1,18 @@
+{
+    "software_name": "bamsurgeon",
+    "software_page": "https://github.com/adamewing/bamsurgeon",
+    "relevant_links": [
+        {
+            "name": "Software Repository on GitHub",
+            "url": "https://github.com/adamewing/bamsurgeon"
+        },
+        {
+            "name": "BioStars question related to usage",
+            "url": "https://www.biostars.org/p/262149/"
+        },
+        {
+            "name": "SEQanswers discussion of usage",
+            "url": "http://seqanswers.com/forums/showthread.php?t=58816"
+        }
+    ]
+}

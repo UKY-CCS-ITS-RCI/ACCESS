@@ -1,0 +1,16 @@
+{
+  "Software": "intel-mkl",
+  "Links": {
+    "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/math-kernel-library.html",
+    "Documentation": [
+      "https://software.intel.com/content/www/us/en/develop/tools/math-kernel-library/documentation.html",
+      "https://software.intel.com/content/www/us/en/develop/documentation/mkl-linux/top.html",
+      "https://software.intel.com/content/www/us/en/develop/documentation/onemkl-windows/top.html"
+    ],
+    "Training and Tutorials": [
+      "https://software.seek.intel.com/performance-libraries-course",
+      "https://www.cac.cornell.edu/wiki/index.php?title=Math_Kernel_Library_(MKL)_for_Clusters",
+      "https://software.intel.com/content/www/us/en/develop/videos/using-intel-math-kernel-library-with-python.html"
+    ]
+  }
+}

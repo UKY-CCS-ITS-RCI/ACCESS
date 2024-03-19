@@ -1,0 +1,15 @@
+{
+"software_name": "blis",
+"software_page": "https://github.com/flame/blis",
+"documentation": "https://github.com/flame/blis/wiki",
+"training_materials": [
+  {
+    "name": "BLIS: A Framework for Rapidly Instantiating BLAS Functionality",
+    "url": "https://www.cs.utexas.edu/~flame/pubs/blis3_toms_rev3.pdf"
+  },
+  {
+    "name": "Installation Guide",
+    "url": "https://github.com/flame/blis/wiki/Installation-Guide"
+  }
+]
+}

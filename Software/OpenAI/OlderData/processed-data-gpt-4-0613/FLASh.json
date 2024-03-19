@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "FLASh": {
+      "MainPage": "https://ccb.jhu.edu/software/FLASH/",
+      "Documentation": "https://ccb.jhu.edu/software/FLASH/userguide/flash_user_guide_RELEASE_1.2.11.pdf",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=qSxxIWH4cIU",
+        "https://flash.uchicago.edu/site/flashcode/user_support/flash4b_ug_1/",
+        "https://www.denbi.de/training/666-flash-t-training"
+      ]
+    }
+  }
+}

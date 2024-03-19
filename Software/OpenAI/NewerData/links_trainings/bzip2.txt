@@ -1,0 +1,20 @@
+{
+  "bzip2": {
+    "softwarePage": "https://sourceware.org/bzip2/",
+    "documentation": "http://www.digsys.se/KBZIP2/KBZIP2-00001.html",
+    "trainingMaterials": [
+      {
+        "name": "Bzip2 Tutorial",
+        "url": "https://riptutorial.com/bzip2"
+      },
+      {
+        "name": "Linux bzip2 Command Tutorial",
+        "url": "https://www.linuxfordevices.com/tutorials/linux/bzip2-command"
+      },
+      {
+        "name": "Using bzip2 Command in Linux",
+        "url": "https://linuxhint.com/using_bzip2_command_unix/"
+      }
+    ]
+  }
+}

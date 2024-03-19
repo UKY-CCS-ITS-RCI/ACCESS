@@ -1,0 +1,18 @@
+{
+  "software": "FastStructure",
+  "link": "https://github.com/rajanil/fastStructure",
+  "documentation": "https://github.com/rajanil/fastStructure",
+  "tutorials": [
+    {
+      "title": "Running fastSTRUCTURE tutorial",
+      "link": "https://www.csbio.unc.edu/mcmillan/Comp555S18/Lectures/Lec18.pdf"
+    },
+    {
+      "title": "Human Genetics Analysis - Using FastStructure",
+      "link": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/Nick_Patterson_instructions_to_run_admixture_inference_programs.pdf"
+    },
+    {
+      "title": "Video Tutorial: Setup FastStructure",
+      "link": "https://www.youtube.com/watch?v=9KenHtLpLkc"
+    }]
+}

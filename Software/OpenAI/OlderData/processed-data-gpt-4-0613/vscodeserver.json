@@ -1,0 +1,19 @@
+{
+    "software_name": "vscodeserver",
+    "software_link": "https://github.com/cdr/code-server",
+    "documentation_link": "https://github.com/cdr/code-server#readme",
+    "training_materials": [
+        {
+            "name": "VSCode Server Tutorial",
+            "link": "https://www.youtube.com/watch?v=dgJFeqeXVKw"
+        },
+        {
+            "name": "Run Visual Studio Code on Google Cloud with Coderver",
+            "link": "https://towardsdatascience.com/run-visual-studio-code-on-google-cloud-with-codeverver-666a83cee784"
+        },
+        {
+            "name": "VSCode Server for Docker (Step by Step guide) Tutorial",
+            "link": "https://www.programmingtil.com/contents/run-vscode-in-docker"
+        }
+    ]
+}

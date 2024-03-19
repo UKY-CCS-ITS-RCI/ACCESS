@@ -1,0 +1,15 @@
+{
+   "software_name":"py-cftime",
+   "software_page":"https://github.com/Unidata/cftime",
+   "documentation_link":"https://unidata.github.io/cftime/",
+   "training_tutorials":[
+      {
+         "tutorial_name":"py-cftime Introduction",
+         "tutorial_link":"https://unidata.github.io/cftime/dev/api.html"
+      },
+      {
+         "tutorial_name":"py-cftime usage",
+         "tutorial_link":"https://unidata.github.io/cftime/api.html#"
+      }
+   ]
+}

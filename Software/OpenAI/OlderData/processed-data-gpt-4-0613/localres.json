@@ -1,0 +1,13 @@
+{
+  "software": {
+    "name": "localres",
+    "link": "https://pypi.org/project/localres/",
+    "documentation": "https://localres.readthedocs.io/en/latest",
+    "tutorials": [
+      {
+        "title": "Getting started with localres",
+        "link": "https://localres.readthedocs.io/en/latest/getting_started.html"
+      }
+    ]
+  }
+}

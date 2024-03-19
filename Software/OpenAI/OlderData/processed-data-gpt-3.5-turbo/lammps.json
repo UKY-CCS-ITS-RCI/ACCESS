@@ -1,0 +1,20 @@
+{
+    "software name": "LAMMPS",
+    "comprehensive overview": "LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) is a widely used molecular dynamics simulation software designed for simulating large-scale systems with high performance on parallel computers. It handles a range of interatomic potentials and modeling capabilities for diverse materials research.",
+    "core features": [
+        "Molecular dynamics simulations for large-scale systems",
+        "Parallel computing for high-performance simulations",
+        "Support for various interatomic potentials and modeling"
+    ],
+    "general tags": [
+        "Molecular Dynamics",
+        "Simulation Software",
+        "High-Performance Computing"
+    ],
+    "additional tags": {
+        "research discipline": "Materials Science",
+        "research area": "Molecular Simulation",
+        "software class": "Simulation Software",
+        "software type": "Molecular Dynamics Tool"
+    }
+}

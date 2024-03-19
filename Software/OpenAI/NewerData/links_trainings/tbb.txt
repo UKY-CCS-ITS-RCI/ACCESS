@@ -1,0 +1,24 @@
+{
+  "software": "tbb",
+  "official_page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb.html",
+  "documentation": [
+    {
+      "url": "https://software.intel.com/content/www/us/en/develop/documentation/onetbb-documentation/top.html",
+      "title": "Intel OneAPI Threading Building Blocks (OneTBB) Manual"
+    },
+    {
+      "url": "https://www.threadingbuildingblocks.org/docs/help/index.htm",
+      "title": "Threading Building Blocks Tutorial and Reference"
+    }
+  ],
+  "tutorials": [
+    {
+      "url": "https://software.intel.com/content/www/us/en/develop/articles/intel-threading-building-blocks-tutorial.html",
+      "title": "Threaded Building Block Tutorial on Intel Website"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Xpts5UidO6k",
+      "title": "Threading Building Blocks - Video Tutorial on YouTube"
+    }
+  ]
+}

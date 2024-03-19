@@ -1,0 +1,22 @@
+
+{
+  "ImageJ": {
+    "software_page": "https://imagej.net/Welcome",
+    "documentation": "https://imagej.net/Documentation",
+    "training_materials": [
+      {
+        "title": "ImageJ Tutorials",
+        "url": "https://imagej.net/Category:Tutorials"
+      },
+      {
+        "title": "Basics of Image Processing and Analysis",
+        "url": "https://www.youtube.com/watch?v=ZQ8qt1QKS4g"
+      },
+      {
+        "title": "ImageJ for Microscopy - Collection of ImageJ Basics",
+        "url": "https://www.youtube.com/watch?v=oI2SP2TgnI0&list=PL9F6822B40548EE72"
+      }
+    ]
+  }
+}
+

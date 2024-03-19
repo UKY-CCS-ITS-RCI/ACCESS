@@ -1,0 +1,23 @@
+{
+"software": "nibabel",
+"software_url": "https://nipy.org/nibabel/",
+"documentation_url": "https://nipy.org/nibabel/manual.html",
+"tutorial_materials": [
+  {
+    "tutorial_name": "Getting started with nibabel",
+    "tutorial_url": "https://nipy.org/nibabel/gettingstarted.html"
+  },
+  {
+    "tutorial_name": "Nibabel Tutorial on GitHub",
+    "tutorial_url": "https://gist.github.com/chrisfilo/5883923"
+  },
+  {
+    "tutorial_name": "Nibabel Tutorial on Read The Docs",
+    "tutorial_url": "https://nibabel.readthedocs.io/en/latest/nibabel_tutorial.html"
+  },
+  {
+    "tutorial_name": "Nibabel Example on Loading Nifti Image",
+    "tutorial_url": "https://brainder.org/2012/09/23/the-nifti-file-format/"
+  }
+]
+}

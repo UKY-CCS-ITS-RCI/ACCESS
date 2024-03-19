@@ -1,0 +1,22 @@
+
+{
+  "Basemap": {
+    "software_page": "https://matplotlib.org/basemap/",
+    "documentation" : "https://matplotlib.org/basemap/users/examples.html",
+    "training_materials": [
+      {
+        "title": "Python Plotting With Matplotlib (Guide)",
+        "url": "https://realpython.com/python-matplotlib-guide/"
+      },
+      {
+        "title": "Basemap tutorial",
+        "url": "https://basemaptutorial.readthedocs.io/en/latest/"
+      },
+      {
+        "title": "Python Basemap Tutorial",
+        "url": "https://www.earthdatascience.org/courses/earth-analytics-python/spatial-data-vector-shapefiles/python-maps-plotting-data/"
+      }
+    ]
+  }
+}
+

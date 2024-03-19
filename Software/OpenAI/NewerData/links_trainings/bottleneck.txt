@@ -1,0 +1,11 @@
+{
+  "software": {
+    "name": "bottleneck",
+    "website": "https://pypi.org/project/Bottleneck/",
+    "additional_links": {
+      "documentation": "https://bottleneck.readthedocs.io/en/latest/",
+      "github_page": "https://github.com/pydata/bottleneck",
+      "tutorial": "https://bottleneck.readthedocs.io/en/latest/tutorial.html"
+    }
+  }
+}

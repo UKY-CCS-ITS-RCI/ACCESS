@@ -1,0 +1,40 @@
+{
+  "pytorch": {
+    "software_page": "https://pytorch.org/",
+    "documentation": "https://pytorch.org/docs/stable/index.html",
+    "tutorials": [
+      {
+        "name": "Official PyTorch Tutorials",
+        "url": "https://pytorch.org/tutorials/"
+      },
+      {
+        "name": "PyTorch For Beginners",
+        "url": "https://jhui.github.io/2018/02/09/PyTorch-Basics/"
+      },
+      {
+        "name": "Deep Learning with PyTorch: A 60 Minute Blitz",
+        "url": "https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
+      },
+      {
+        "name": "PyTorch Tutorial for Deep Learning Researchers",
+        "url": "https://github.com/yunjey/pytorch-tutorial"
+      },
+      {
+        "name": "PyTorch: Zero to GANs",
+        "url": "https://jovian.ai/aakashns/01-pytorch-basics"
+      },
+      {
+        "name": "Introduction to PyTorch for Deep Learning",
+        "url": "https://www.datacamp.com/courses/introduction-to-pytorch-in-python"
+      },
+      {
+        "name": "Learn PyTorch with Examples",
+        "url": "https://pytorch.org/tutorials/beginner/pytorch_with_examples.html"
+      },
+      {
+        "name": "PyTorch implementation of 'Attention Is All You Need (Transformer)'",
+        "url": "https://pytorch.org/tutorials/beginner/transformer_tutorial.html"
+      }
+    ]
+  }
+}

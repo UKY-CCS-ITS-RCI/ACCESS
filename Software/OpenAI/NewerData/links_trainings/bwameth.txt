@@ -1,0 +1,9 @@
+{
+  "Software_Name": "bwameth",
+  "Software_URL": "https://github.com/brentp/bwa-meth",
+  "Documentation_URL": "https://github.com/brentp/bwa-meth/blob/main/README.md",
+  "Tutorials_Training_Materials": {
+    "Tutorial1": "https://public-docs.crg.es/bioinf/docs/tutorials/BWA-Meth",
+    "Training_Material1": "https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html"
+  }
+}

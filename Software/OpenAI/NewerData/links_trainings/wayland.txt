@@ -1,0 +1,19 @@
+{
+  "Software Name": "Wayland",
+  "Software Page": "https://wayland.freedesktop.org/",
+  "Documentation": "https://wayland.freedesktop.org/docs/html/",
+  "Tutorial/Training Materials": [
+    {
+      "Link": "https://wayland.freedesktop.org/building.html",
+      "Description": "Building and installation guide for Wayland"
+    },
+    {
+      "Link": "https://jan.newmarch.name/Wayland/",
+      "Description": "Fundamental technology behind the GUI stack tutorial series"
+    },
+    {
+      "Link": "https://linuxhint.com/wayland_linux_tutorial/",
+      "Description": "Wayland on Linux tutorial from LinuxHint"
+    }
+  ]
+}

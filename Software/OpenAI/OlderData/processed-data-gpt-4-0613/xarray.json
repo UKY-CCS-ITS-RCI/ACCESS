@@ -1,0 +1,27 @@
+{
+  "softwareName": "xarray",
+  "softwareURL": "http://xarray.pydata.org/en/stable/",
+  "documentationURL": "http://xarray.pydata.org/en/stable/user-guide/index.html",
+  "trainingMaterials": [
+    {
+      "trainingName": "xarray basics tutorial",
+      "trainingURL": "https://geohackweek.github.io/nDarrays/01-xarray-basics/"
+    },
+    {
+      "trainingName": "Introduction to xarray",
+      "trainingURL": "https://rabernat.github.io/research_computing_2018/xarray-tutorial.html"
+    },
+    {
+      "trainingName": "Xarray exercises",
+      "trainingURL": "https://fabienmaussion.info/acinn_xarray_workshop/"
+    },
+    {
+      "trainingName": "Managing multi-dimensional data with xarray",
+      "trainingURL": "https://earth-env-data-science.github.io/lectures/xarray/xarray_intro.html"
+    },
+    {
+      "trainingName": "Python Data Science Handbook xarray section",
+      "trainingURL": "https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html#Three-Dimensional-Points-and-Lines"
+    }
+  ]
+}

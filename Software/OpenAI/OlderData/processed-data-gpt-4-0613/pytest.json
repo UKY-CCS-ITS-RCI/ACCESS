@@ -1,0 +1,32 @@
+{
+  "software": "pytest",
+  "software_url": "https://docs.pytest.org/en/stable/",
+  "documentation": [
+    {
+      "name": "Getting Started",
+      "url": "https://docs.pytest.org/en/stable/getting-started.html"
+    },
+    {
+      "name": "Good Integration Practices",
+      "url": "https://docs.pytest.org/en/stable/goodpractices.html"
+    },
+    {
+      "name": "Usage and Invocations",
+      "url": "https://docs.pytest.org/en/stable/usage.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "pytest tutorial | Full Course",
+      "url": "https://www.youtube.com/watch?v=bbp_849-RZ4"
+    },
+    {
+      "name": "Python Testing with Pytest: Getting Started",
+      "url": "https://www.valentinog.com/blog/pytest/"
+    },
+    {
+      "name": "Testing Your Code with PyTest",
+      "url": "https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest"
+    }
+  ]
+}

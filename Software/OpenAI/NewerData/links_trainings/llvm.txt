@@ -1,0 +1,14 @@
+{
+  "Software_Name": "LLVM",
+  "Software_URL": "https://llvm.org/",
+  "Documentation": {
+    "LLVM Documentation": "https://llvm.org/docs/",
+    "LLVM Compiler Infrastructure": "https://www.llvm.org/docs/CompilerInfrastructure.html"
+  },
+  "Tutorials_and_Trainings": {
+    "LLVM Tutorials": "https://llvm.org/docs/tutorial/",
+    "LLVM and Clang Tutorials": "https://llvm.org/docs/clangTutorials.html",
+    "AOSA Book Chapter": "https://www.aosabook.org/en/llvm.html",
+    "Practical Introduction to LLVM": "https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/en/latest/README.html"
+  }
+}

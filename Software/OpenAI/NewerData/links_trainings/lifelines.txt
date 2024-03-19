@@ -1,0 +1,12 @@
+{
+  "Lifelines": {
+    "Software Page": "https://lifelines.readthedocs.io/",
+    "Docs": "https://lifelines.readthedocs.io/en/latest/",
+    "Tutorials": {
+      "Tutorial 1": "https://lifelines.readthedocs.io/en/latest/Survival%20analysis%20with%20lifelines.html",
+      "Tutorial 2": "https://nbviewer.jupyter.org/github/CamDavidsonPilon/lifelines/blob/master/docs/jupyter_notebooks/Multivariate%20survival%20analysis.ipynb",
+      "Tutorial 3": "https://towardsdatascience.com/survival-analysis-intuition-implementation-in-python-504fde4fcf8e",
+      "YouTube Video Tutorial": "https://www.youtube.com/watch?v=RV4B7i2w6WY"
+    }
+  }
+}

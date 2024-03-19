@@ -1,0 +1,24 @@
+{
+    "softwareName": "alsa-lib",
+    "softwarePage": "https://www.alsa-project.org/",
+    "documentation": [
+        {
+            "name": "ALSA Wiki",
+            "link": "https://www.alsa-project.org/wiki/Main_Page"
+        },
+        {
+            "name": "alsa-lib API documentation",
+            "link": "https://www.alsa-project.org/alsa-doc/alsa-lib/"
+        }
+    ],
+    "tutorialsAndTrainings": [
+        {
+            "name": "ALSA programming guide",
+            "link": "http://equalarea.com/paul/alsa-audio.html"
+        },
+        {
+            "name": "Introduction to ALSA Programming",
+            "link": "https://users.suse.com/~mana/alsa.html"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "Software": "Linaro",
+  "Webpage": "https://www.linaro.org/",
+  "Documentation": {
+    "Link1": "https://wiki.linaro.org/",
+    "Link2": "https://www.linaro.org/resources/"
+  },
+  "Tutorials": {
+    "Training Materials": {
+      "Link1": "https://www.linaro.org/learn/",
+      "Link2": "https://www.arm.com/why-arm/developer-community/linaro"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+Use Case: Jupyter, a widely used tool for data science, allows you to create and share documents that contain live code, equations, visualizations and narrative text for data cleaning, statistical modeling, data visualization, machine learning and more.
+
+Code details and examples: 
+
+Code:
+```python
+# Import pandas
+import pandas as pd
+
+# Create a simple dataframe
+data = {
+    'apples': [3, 2, 0, 1], 
+    'oranges': [0, 3, 7, 2]
+}
+purchases = pd.DataFrame(data)
+
+# Display the dataframe
+print(purchases)
+```
+
+Input Files: 
+- No specific input file is required. The dataframe is created within the code.
+
+Format Required: 
+- The code snippet above uses Python program. Ensure your Jupyter notebook supports Python.
+
+Specifications and details in input files:
+- No specific input file is required. However, pandas can work with various file formats for data loading. For example, for CSV files, the command would be `data = pd.read_csv('file.csv')`.
+
+Command to run (In Jupyter notebook):
+- To run a cell in Jupyter, simply select the cell and use keys Shift + Enter. Alternatively, in the top menu you can go to Cell -> Run Cells.

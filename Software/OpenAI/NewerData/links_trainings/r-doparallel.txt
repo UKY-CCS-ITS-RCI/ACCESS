@@ -1,0 +1,21 @@
+{
+  "Software Name": "r-doparallel",
+  "Main_Link": "https://www.rdocumentation.org/packages/doParallel/versions/1.0.16",
+  "Additional_Resources": {
+    "Documentation": "https://cran.r-project.org/web/packages/doParallel/doParallel.pdf",
+    "Training_Materials": [
+      {
+        "Description": "Introduction to Parallel Computations in R with doParallel and foreach",
+        "URL": "https://nceas.github.io/oss-lessons/parallel-computing-in-r/parallel-computing-in-r.html"
+      },
+      {
+        "Description": "Getting started with doParallel and foreach",
+        "URL": "https://rpubs.com/pjmurphy/514486"
+      },
+      {
+        "Description": "Parallel Computations in R",
+        "URL": "https://www.r-bloggers.com/2015/02/parallel-computations-in-r/"
+      }
+    ]
+  }
+}

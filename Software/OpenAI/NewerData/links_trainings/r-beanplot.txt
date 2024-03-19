@@ -1,0 +1,19 @@
+{
+  "Software Name": "r-beanplot",
+  "Website link": "https://cran.r-project.org/web/packages/beanplot/index.html",
+  "Documentation Links": [
+    {
+      "Documentation link": "https://cran.r-project.org/web/packages/beanplot/beanplot.pdf"
+    }
+  ],
+  "Training Materials": [
+    {
+      "Tutorial 1": "https://www.datanovia.com/en/lessons/beanplot-data-visualization-in-r/#install-and-load-required-r-packages",
+      "Tutorial 2": "https://rdrr.io/cran/beanplot/man/beanplot.html",
+      "Tutorial 3": "https://www.youtube.com/watch?v=IgY8y9vqkZc"
+    },
+    {
+      "Training link": "https://bioinformatics-core-shared-training.github.io/r-scRNA-seq/session-iii.html"
+    }
+  ]
+}

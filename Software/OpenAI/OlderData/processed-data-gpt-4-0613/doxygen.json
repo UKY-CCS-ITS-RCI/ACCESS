@@ -1,0 +1,10 @@
+{
+  "softwareName": "Doxygen",
+  "links": {
+    "softwarePage": "http://www.doxygen.nl/",
+    "documentation": "http://www.doxygen.nl/manual/index.html",
+    "tutorial1": "https://www.tutorialspoint.com/doxygen/doxygen_environment_setup.htm",
+    "tutorial2": "https://www.stack.nl/~dimitri/doxygen/manual/docblocks.html",
+    "tutorial3": "https://www.youtube.com/watch?v=LZ5E4vEhsKs"
+  }
+}

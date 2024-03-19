@@ -1,0 +1,11 @@
+{
+    "tfold": {
+        "software_page": "https://github.com/jianhaizhang/tfold",
+        "additional_links": {
+            "documentation": "https://github.com/jianhaizhang/tfold/blob/master/README.md",
+            "tutorials_and_training": [
+                "https://github.com/jianhaizhang/tfold/blob/master/manual.pdf"
+            ]
+        }
+    }
+}

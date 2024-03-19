@@ -1,0 +1,23 @@
+{
+    "software": "FFTW",
+    "overview": "FFTW (Fastest Fourier Transform in the West) is a software library that provides highly optimized implementations of the discrete Fourier transform (DFT) for fast and efficient numerical computations. It is widely used in scientific computing and signal processing applications.",
+    "core_features": [
+        "Efficient FFT algorithms",
+        "Support for complex data transforms",
+        "High-performance computation",
+        "Parallel processing capabilities",
+        "Multiple precision options"
+    ],
+    "general_tags": [
+        "Fast Fourier Transform",
+        "numerical computation",
+        "signal processing",
+        "scientific computing"
+    ],
+    "additional_tags": {
+        "research_discipline": "Computational Science",
+        "research_area": "Fourier Transform",
+        "software_class": "Numerical Library",
+        "software_type": "Open Source"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "LAME": {
+      "MainPage": "http://lame.sourceforge.net/",
+      "Documentation": "http://lame.cvs.sourceforge.net/viewvc/lame/lame/doc/html/history.html",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=1xjtOPxOuiU",
+        "https://manual.audacityteam.org/man/lame_installation.html",
+        "https://www.howtoforge.com/tutorial/install-lame-on-ubuntu/"
+      ]
+    }
+  }
+}

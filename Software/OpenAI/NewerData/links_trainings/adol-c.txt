@@ -1,0 +1,12 @@
+{
+  "Software": {
+    "Name": "adol-c",
+    "Official_page": "https://projects.coin-or.org/ADOL-C",
+    "Documentation": "https://projects.coin-or.org/ADOL-C/wiki/Documentation",
+    "Tutorial_materials": {
+      "1": "https://projects.coin-or.org/ADOL-C/wiki/Examples",
+      "2": "https://www.math.ntnu.no/~andreas/adolce/tutorial.pdf",
+      "3": "https://projects.coin-or.org/ADOL-C/wiki/Intro_gradient"
+    }
+  }
+}

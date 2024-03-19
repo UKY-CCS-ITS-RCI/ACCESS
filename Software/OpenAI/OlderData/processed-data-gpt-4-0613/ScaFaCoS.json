@@ -1,0 +1,12 @@
+{
+  "Software Name": "ScaFaCoS",
+  "links": {
+    "software page": "https://www.scafacos.de/",
+    "documentation": "https://www.scafacos.de/doku.php",
+    "tutorials": [
+      "https://www.scafacos.de/doku.php/tutorial",
+      "https://www.vlsci.org.au/help-tutorials/software-tutorials",
+      "https://www.linux-mips.org/wiki/Compiling_applications"
+    ]
+  }
+}

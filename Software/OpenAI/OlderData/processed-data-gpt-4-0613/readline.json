@@ -1,0 +1,22 @@
+{
+  "Scientific Software": {
+    "Name": "readline",
+    "Website": "https://tiswww.case.edu/php/chet/readline/rltop.html",
+    "Documentation": "https://tiswww.case.edu/php/chet/readline/rluserman.html",
+    "Tutorials": [
+      {
+        "Name": "GNU Readline Library",
+        "URL": "https://www.gnu.org/software/libc/manual/html_node/Command_002dLine-Input.html"
+      },
+      {
+        "Name": "Readline Tutorial",
+        "URL": "https://cnswww.cns.cwru.edu/php/chet/readline/readline.html"
+      },
+      {
+        "Name": "Using The GNU Readline Library",
+        "URL": "https://www.ibm.com/developerworks/linux/library/l-gnureadline/index.html"
+      }
+    ],
+    "Training Materials":["http://www.catonmat.net/blog/the-definitive-guide-to-bash-command-line-history/"]
+  }  
+}

@@ -1,0 +1,23 @@
+{
+  "software_name":"Metaphlan",
+  "website_url": "https://github.com/biobakery/MetaPhlAn",
+  "documentation_url": "https://github.com/biobakery/MetaPhlAn/wiki",
+  "tutorial_materials":[
+    {
+      "tutorial_name": "Metagenomic Analysis with MetaPhlAn - Training",
+      "url": "https://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/metaphlan2/tutorial.html"
+    },
+    {
+      "tutorial_name": "BioBakery workflows documention: metaphlan2",
+      "url": "https://github.com/biobakery/biobakery_workflows_docs/blob/master/source/metaphlan2.rst"
+    },
+    {
+      "tutorial_name": "Quality control of metagenomic data (with MetaPhlAn)",
+      "url": "https://bioinformatics-workbook.org/Appendix/QualityControl/quality-control-of-metagenomic-data-with-qiime2-and-metaphlan2.html#gsc.tab=0"
+    },
+    {
+      "tutorial_name": "Metaphlan2 tutorial",
+      "url": "https://microucph.github.io/amplicon_data_analysis/html/metaphlan2.html"
+    }
+  ]
+}

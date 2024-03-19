@@ -1,0 +1,12 @@
+{
+  "Software Name": "libint",
+  "Software URL": "https://github.com/evaleev/libint",
+  "Documentation URL": "https://github.com/evaleev/libint/wiki",
+  "Training and Tutorial Materials": [
+    {
+      "Tutorial 1": "https://www.youtube.com/watch?v=94dUCs3ZjME",
+      "Tutorial 2": "https://www.youtube.com/watch?v=EB8dim5Rq9c",
+      "Tutorial 3": "https://www.youtube.com/watch?v=6JM1D4GNiDE"
+    }
+  ]
+}

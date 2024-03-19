@@ -1,0 +1,26 @@
+{
+  "Software_Name": "r-glue",
+  "Software_URL": "https://cran.r-project.org/web/packages/glue/index.html",
+  "Documentation": [
+    {
+      "Doc_URL": "https://glue.tidyverse.org/"
+    },
+    {
+      "Doc_URL": "https://glue.tidyverse.org/articles/glue.html"
+    },
+    {
+      "Doc_URL": "https://cran.r-project.org/web/packages/glue/glue.pdf"
+    }
+  ],
+  "Training_and_Tutorial": [
+    {
+      "Tutorial_URL": "https://www.datacamp.com/community/tutorials/string-manipulation-with-stringr-and-glue"
+    },
+    {
+      "Tutorial_URL": "https://rstudio-conf-2020.rbind.io/slides/glue.pdf"
+    },
+    {
+      "Tutorial_URL": "https://www.rdocumentation.org/packages/glue/versions/1.4.2"
+    }
+  ]
+}

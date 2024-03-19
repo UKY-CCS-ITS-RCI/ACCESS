@@ -1,0 +1,23 @@
+{
+  "software": {
+    "name": "Mold",
+    "url": "https://github.com/rui314/mold",
+    "documentation": {
+      "url": "https://github.com/rui314/mold/blob/main/README.md"
+    },
+    "training_materials": [
+      {
+        "name": "General Usage of the Mold linker",
+        "url": "https://github.com/rui314/mold#usage"
+      },
+      {
+        "name": "Compatibility with GNU ld, gold and LLVM lld",
+        "url": "https://github.com/rui314/mold#compatibility"
+      },
+      {
+        "name": "How to build and install Mold linker",
+        "url": "https://github.com/rui314/mold#how-to-build"
+      }
+    ]
+  }
+}

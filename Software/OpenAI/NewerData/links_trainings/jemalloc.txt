@@ -1,0 +1,23 @@
+{
+  "Software": [
+    {
+      "Name": "jemalloc",
+      "Software_URL": "http://jemalloc.net/",
+      "Documentation": [
+        {
+          "Documentation_URL": "http://jemalloc.net/jemalloc.3.html"
+        }
+      ],
+      "Tutorials_and_Training_Materials": [
+        {
+          "Tutorial_URL": "https://www.ibm.com/support/knowledgecenter/SSFKSJ_7.5.0/com.ibm.mq.pro.doc/q014670_.htm",
+          "Tutorial_Name": "IBM MQ Tutorial"
+        },
+        {
+          "Tutorial_URL": "https://www.youtube.com/watch?v=LgeVd-huj0A",
+          "Tutorial_Name": "jemalloc Memory Management YouTube Tutorial"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "software_name": "CESM",
+  "software_URL": "http://www.cesm.ucar.edu/",
+  "documentation_links": [
+    {
+      "name": "CESM Documentation",
+      "URL": "https://escomp.github.io/CESM/release-cesm2/quickstart.html"
+    }
+  ],
+  "tutorial_links": [
+    {
+      "name": "CESM Tutorial",
+      "URL": "https://www.cesm.ucar.edu/events/tutorials/"
+    },
+    {
+      "name": "Boulder Summer Tutorial on CESM",
+      "URL": "https://www.cgd.ucar.edu/events/2021/cesm-tutorial/"
+    },
+    {
+      "name": "Quick Guide to Setting Up and Running CESM",
+      "URL": "https://tcjewell.github.io/post/cesm/"
+    }
+  ]
+}

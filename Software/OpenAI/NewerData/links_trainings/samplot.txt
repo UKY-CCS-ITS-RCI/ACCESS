@@ -1,0 +1,10 @@
+{
+"Samplot": {
+"software_page": "https://github.com/ryanlayer/samplot",
+"documentation": "https://github.com/ryanlayer/samplot/wiki",
+"tutorial_materials": [
+"https://www.frontiersin.org/articles/10.3389/fgene.2020.628221/full",
+"https://www.youtube.com/watch?v=s-OHD6fJgVI"
+]
+}
+}

@@ -1,0 +1,13 @@
+{
+  "Software_Name": "libunistring",
+  "Software_URL": "https://www.gnu.org/software/libunistring/",
+  "Documentation": {
+    "Documentation_URL_1": "https://www.gnu.org/software/libunistring/manual/libunistring.html"
+  },
+  "Tutorial": {
+    "Tutorial_Link_1" : "https://gnutoolchain-gerrit.osmocom.org/c/libunistring/"
+  },
+  "Training": {
+    "Training_Link_1": "https://www.linuxfromscratch.org/blfs/view/svn/general/libunistring.html"
+  }
+}

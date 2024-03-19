@@ -1,0 +1,19 @@
+{
+  "software": "vulkansdk",
+  "software_url": "https://vulkan.lunarg.com/",
+  "documentation_url": "https://vulkan.lunarg.com/doc/sdk/1.2.176.1/windows/getting_started.html",
+  "tutorials": [
+    {
+      "name": "Vulkan tutorial",
+      "url": "https://vulkan-tutorial.com/"
+    },
+    {
+      "name": "Introduction to Vulkan",
+      "url": "https://developer.nvidia.com/vulkan-tutorial"
+    },
+    {
+      "name": "AMD Vulkan Tutorial",
+      "url": "https://gpuopen.com/learn/vulkan-tutorial/"
+    }
+  ]
+}

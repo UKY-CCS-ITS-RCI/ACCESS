@@ -1,0 +1,10 @@
+{
+  "software_name": "clang-aomp",
+  "software_link": "https://github.com/ROCm-Developer-Tools/aomp",
+  "documentation_link": "https://github.com/ROCm-Developer-Tools/aomp/tree/master/www",
+  "tutorial_links": [
+    "https://github.com/ROCm-Developer-Tools/aomp/blob/master/docs/AOMP_Notes.pdf",
+    "https://github.com/ROCm-Developer-Tools/aomp/tree/master/examples",
+    "https://developer.amd.com/wp-content/resources/AOMP_Architecture_and_Usage_Guide_GA_v1.12.pdf"
+  ]
+}

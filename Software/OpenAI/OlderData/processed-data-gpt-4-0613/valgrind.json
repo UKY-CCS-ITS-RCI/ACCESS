@@ -1,0 +1,28 @@
+{
+  "software": "Valgrind",
+  "website_link": "http://www.valgrind.org/",
+  "documentation_links": [
+    {
+      "name": "Valgrind User Manual",
+      "url": "http://www.valgrind.org/docs/manual/index.html"
+    },
+    {
+      "name": "Valgrind Quick Start",
+      "url": "http://www.valgrind.org/docs/manual/quick-start.html"
+    }
+  ],
+  "tutorial_links": [
+    {
+      "name": "Valgrind Tutorial from CS @ Illinois",
+      "url": "https://cs.illinois.edu/~pathak1/CS433/valgrindTut.html"
+    },
+    {
+      "name": "Valgrind Tutorial from the Linux Documentation Project",
+      "url": "https://tldp.org/HOWTO/Valgrind-HOWTO/"
+    },
+    {
+      "name": "Valgrind Tutorial from University of Wisconsin-Madison",
+      "url": "https://pages.cs.wisc.edu/~bart/537/lecturenotes/s05.valgrind.html"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "software": "r-rngtools",
+  "links": {
+    "software_page": "https://cran.r-project.org/package=rngtools",
+    "documentation": "https://cran.r-project.org/web/packages/rngtools/rngtools.pdf",
+    "training_materials": [
+      "https://www.rdocumentation.org/packages/rngtools/versions/1.5",
+      "https://www.jstatsoft.org/article/view/v071i11",
+      "https://rdrr.io/cran/rngtools/man/rngtools-package.html"
+    ]
+  }
+}

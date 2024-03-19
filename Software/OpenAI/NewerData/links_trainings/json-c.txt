@@ -1,0 +1,21 @@
+{
+  "Software_Details": [
+    {
+      "Software_Name": "json-c",
+      "main_Links": {
+        "Software_URL": "https://github.com/json-c/json-c",
+        "Documentation_URL": "https://json-c.github.io/json-c/json-c-0.15/doc/html/index.html"
+      },
+      "Training_Tutorials": [
+        {
+          "Tutorial_Name": "C library for encoding, decoding and manipulating JSON data",
+          "Tutorial_URL": "https://www.devdungeon.com/content/working-json-c-json-c-tutorial"
+        },
+        {
+          "Tutorial_Name": "JSON-C library in C programming",
+          "Tutorial_URL": "https://aticleworld.com/json-c-library-in-c/"
+        }
+      ]
+    }
+  ]
+}

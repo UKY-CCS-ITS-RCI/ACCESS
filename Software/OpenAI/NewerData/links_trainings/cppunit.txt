@@ -1,0 +1,11 @@
+{
+  "Software Name": "cppunit",
+  "Software Page": "https://freedesktop.org/wiki/Software/cppunit/",
+  "Documentation": "https://cppunit.sourceforge.io/doc/cvs/cppunit_cookbook.html",
+  "Tutorial": "https://www.ibm.com/developerworks/aix/library/au-tprobescppunit/",
+  "Training Materials": {
+    "CppUnit Tutorial For Beginners": "https://www.softprayog.in/testing/cppunit-tutorial-for-beginners",
+    "CppUnit Documentation": "https://cppunit.sourceforge.io/doc/1.8.0/",
+    "CppUnit Wiki": "http://cppunit.sourceforge.net"
+  }
+}

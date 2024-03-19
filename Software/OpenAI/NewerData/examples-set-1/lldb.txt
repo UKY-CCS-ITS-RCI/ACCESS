@@ -1,0 +1,61 @@
+Use Case: Use LLDB to analyze live programs (debug) or to read core files to understand why a program crashed. LLDB also provides a high-level API for writing debugging scripts in Python.
+
+Code details and examples: Code:
+Running a sample program using LLDB. Before we can debug, we will need a sample program. Here's a simple C program that we will compile and then debug with LLDB:
+
+```c
+#include <stdio.h>
+
+int factorial(int n){
+    if(n == 0)
+        return 1;
+    else
+        return(n * factorial(n-1));
+}
+
+int main() {
+   int num;
+   printf("Enter a positive integer: ");
+   scanf("%d",&num);
+   printf("Factorial of %d is %d", num, factorial(num));
+   return 0;
+}
+```
+
+Save this file as factorial.c. Now, let's compile it with debugging information included (using gcc):
+
+```bash
+$ gcc -g factorial.c -o factorial
+```
+
+Now we can debug it using LLDB:
+
+```bash
+$ lldb factorial
+```
+
+At the `(lldb)` prompt, you can start the program with the `run` command. To set a breakpoint at a specific line, use `b` command, followed by `line number`:
+
+```bash
+(lldb) b 6
+```
+
+This will set a breakpoint at line 6 of your program, which is the first line of the factorial function. Now run the program:
+
+```bash
+(lldb) run
+```
+
+When the program hits your breakpoint, it will stop, and you can inspect the state of variables, step through the program one line at a time, and perform other debugging operations. For example, to step over the next line of code (run it, stopping at the next line), type `next` or `n`:
+
+```bash
+(lldb) next
+```
+
+To view the value of a particular variable, use the `frame variable` command, or `fr v` for short:
+
+```bash
+(lldb) frame variable n
+```
+
+This will print the current value of the variable `n`.

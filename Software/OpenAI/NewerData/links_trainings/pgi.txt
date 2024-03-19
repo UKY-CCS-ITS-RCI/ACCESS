@@ -1,0 +1,10 @@
+{
+  "pgi": {
+    "software_page": "https://www.pgroup.com/",
+    "documentation": "https://www.pgroup.com/resources/docs.htm",
+    "tutorials": [
+      "https://www.pgroup.com/resources/accel.htm",
+      "https://www.pgroup.com/resources/tutorial.htm"
+    ]
+  }
+}

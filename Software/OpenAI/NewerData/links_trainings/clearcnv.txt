@@ -1,0 +1,19 @@
+{
+  "software": "clearcnv",
+  "software_page": "https://gitlab.com/gavinband/clearcnv",
+  "documentation": "https://gitlab.com/gavinband/clearcnv/-/blob/master/README",
+  "training_materials": [
+    {
+      "title": "ClearCNV Tutorial",
+      "url": "https://github.com/jpagsamp/Tutorials/blob/master/clearCNV_tutorial.pdf"
+    },
+    {
+      "title": "Genome wide association studies (GWAS) Tutorial",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007477"
+    },
+    {
+      "title": "The Setup and Use of the CNVtools package",
+      "url": "https://www.bioconductor.org/packages/release/bioc/vignettes/cnvtools/inst/doc/cnvtut.pdf"
+    }
+  ]
+}

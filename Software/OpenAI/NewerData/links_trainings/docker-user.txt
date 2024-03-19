@@ -1,0 +1,23 @@
+{
+  "Software": [
+    {
+      "Name": "Docker",
+      "SoftwarePageURL": "https://www.docker.com/",
+      "Documentation": "https://docs.docker.com/",
+      "TrainingAndTutorial": [
+        {
+          "URL": "https://www.docker.com/play-with-docker"
+        },
+        {
+          "URL": "https://docs.docker.com/get-started/"
+        },
+        {
+          "URL": "https://www.tutorialspoint.com/docker/index.htm"
+        },
+        {
+          "URL": "https://www.edureka.co/blog/docker-tutorial/"
+        }
+      ]
+    }
+  ]
+}

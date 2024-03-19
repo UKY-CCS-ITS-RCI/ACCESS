@@ -1,0 +1,24 @@
+{
+  "gridss": {
+    "SoftwarePage": {
+      "URL": "https://github.com/PapenfussLab/gridss"
+    },
+    "Documentation": {
+      "URL": "https://github.com/PapenfussLab/gridss/wiki"
+    },
+    "TrainingAndTutorials": [
+      {
+        "Name": "GRIDSS Wiki",
+        "URL": "https://github.com/PapenfussLab/gridss/wiki"
+      },
+      {
+        "Name": "GRIDSS: Installation guide",
+        "URL": "https://github.com/PapenfussLab/gridss#installation"
+      },
+      {
+        "Name": "GRIDSS: Basic Usage guide",
+        "URL": "https://github.com/PapenfussLab/gridss#basic-usage"
+      }
+    ]
+  }
+}

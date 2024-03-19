@@ -1,0 +1,15 @@
+{
+  "name": "GNU Triangulated Surface Library",
+  "url": "http://gts.sourceforge.net/",
+  "documentation": "http://gts.sourceforge.net/reference.html",
+  "training_materials": [
+    {
+      "title": "Tutorial on Github",
+      "url": "https://github.com/jasjuang/gts"
+    },
+    {
+      "title": "Example of GTS usage on Stackoverflow",
+      "url": "https://stackoverflow.com/questions/23073261/use-gnu-triangulated-surface-library-from-python"
+    }
+  ]
+}

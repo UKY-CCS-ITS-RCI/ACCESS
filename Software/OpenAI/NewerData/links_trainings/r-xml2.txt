@@ -1,0 +1,20 @@
+{
+"r-xml2": {
+    "Software Page": "https://cran.r-project.org/web/packages/xml2/index.html",
+    "Additional Resources": {
+        "Documentation": "https://cran.r-project.org/web/packages/xml2/xml2.pdf",
+        "Tutorials": [
+            {
+                "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data": "https://r4ds.had.co.nz/data-import.html#parsing-xml",
+                "R Data Import/Export": "https://cran.r-project.org/doc/manuals/r-release/R-data.html"
+            }
+        ],
+        "Training Materials": [
+            {
+                "XML and Web Technologies for Data Science with R": "https://www.springer.com/gp/book/9781461478997",
+                "R Programming for Data Science": "https://bookdown.org/rdpeng/rprogdatascience/"
+            }
+        ]
+    }
+}
+}

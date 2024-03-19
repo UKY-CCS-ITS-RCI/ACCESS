@@ -1,0 +1,23 @@
+{
+"name": "Wayland",
+"softwarePage": "https://wayland.freedesktop.org/",
+"documentation": "https://wayland.freedesktop.org/docs/html/",
+"tutorialMaterials": [
+    {
+        "name": "Wayland Architecture",
+        "url": "https://wayland.freedesktop.org/architecture.html"
+    },
+    {
+        "name": "Wayland Simple Tutorial",
+        "url": "https://jan.newmarch.name/Wayland/Simple/"
+    },
+    {
+        "name": "Wayland Book",
+        "url": "https://wayland-book.com/"
+    },
+    {
+        "name": "Wayland on Youtube - Developing Wayland Color Management and High Dynamic Range",
+        "url": "https://www.youtube.com/watch?v=48CtagsVbfA"
+    }
+  ]
+}

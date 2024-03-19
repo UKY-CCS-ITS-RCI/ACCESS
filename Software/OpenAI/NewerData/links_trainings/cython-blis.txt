@@ -1,0 +1,15 @@
+{
+"Software Name": "Cython-blis",
+"Official Software Link": "https://github.com/explosion/cython-blis",
+"Documentation Links": [
+"https://hub.gke2.mybinder.org/user/explosion-b8xcopda/doc/tree",
+"https://readthedocs.org/projects/cython-blis/downloads/pdf/latest/"
+],
+"Training Materials":[
+"https://www.python-course.eu/blis.php",
+"https://www.semanticscholar.org/paper/High-performance-BLIS-in-a-three-layer-Computing-Smith/bf8b9a0f727803b4e118a69f9efd19740994b657",
+"https://www.youtube.com/watch?v=nt1zIXuGNls",
+"https://www.codenong.com/cs106805249",
+"https://icodebro.com/how-to-install-cython-blis"
+]
+}

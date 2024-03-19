@@ -1,0 +1,18 @@
+
+{
+  "Meep": {
+    "software_page": "https://meep.readthedocs.io/en/latest/",
+    "documentation": "https://meep.readthedocs.io/en/latest/",
+    "training_materials": [
+      {
+        "title": "Meep Tutorial",
+        "url": "https://meep.readthedocs.io/en/latest/Python_Tutorials/Basics/"
+      },
+      {
+        "title": "Introduction to Meep on Youtube",
+        "url": "https://www.youtube.com/watch?v=f8LaaI3Y-Bo"
+      }
+    ]
+  }
+}
+

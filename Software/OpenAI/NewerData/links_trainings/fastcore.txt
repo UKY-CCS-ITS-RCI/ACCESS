@@ -1,0 +1,18 @@
+{
+  "fastcore": {
+    "Official Website": "https://fastcore.fast.ai/",
+    "Documentation": {
+      "Fastcore Docs": "https://fastcore.fast.ai/"
+    },
+    "Tutorial and Training Materials": {
+      "Official Fastbook Notebook": "https://github.com/fastai/fastbook/blob/master/14_resnet.ipynb",
+      "Fastai Tutorial": "https://course.fast.ai/videos/?lesson=1",
+      "Fast.AI Github Notebook Examples": "https://github.com/fastai/examples"
+    },
+    "Python Package Index (PyPI)": "https://pypi.org/project/fastcore/",
+    "Conda Package": "https://anaconda.org/fastai/fastcore",
+    "Other Sources": {
+      "Fastai Forum for Fastcore": "https://forums.fast.ai/t/fastcore-splitter-train-eval-mode/83786"
+    }
+  }
+}

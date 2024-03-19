@@ -1,0 +1,15 @@
+{
+  "software": "FastSpar",
+  "website_link": "https://github.com/scwatts/fastspar",
+  "documentation_link": "https://github.com/scwatts/fastspar#usage",
+  "tutorial_links": [
+    {
+      "tutorial": "Using FastSpar for OTU table correlation analysis",
+      "link": "https://www.scienceopen.com/document?vid=496779c2-590c-429b-a063-4b1cbb73a57e"
+    },
+    {
+      "tutorial": "FastSpar: rapid and scalable correlation estimation for compositional data",
+      "link": "https://biorxiv.org/content/10.1101/406264v1"
+    }
+  ]
+}

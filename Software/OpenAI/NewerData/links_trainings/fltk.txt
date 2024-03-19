@@ -1,0 +1,23 @@
+{
+  "name": "fltk",
+  "softwarePage": "http://www.fltk.org/index.php",
+  "documentation": "http://www.fltk.org/doc-1.3/index.html",
+  "trainingMaterials": [
+    {
+      "name": "fltk Basics",
+      "url": "http://www.fltk.org/doc-1.3/basics.html"
+    },
+    {
+      "name": "fltk Programming Manual",
+      "url": "http://www.fltk.org/doc-1.3/index.html"
+    },
+    {
+      "name": "fltk Tutorial- FLUID",
+      "url": "https://www.youtube.com/watch?v=cyAZIr9RWgI"
+    },
+    {
+      "name": "fltk Tutorial",
+      "url": "https://www.fltk.org/articles.php?L436+I0+TFAQ+P1+Q"
+    }
+  ]
+}

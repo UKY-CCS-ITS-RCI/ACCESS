@@ -1,0 +1,12 @@
+{
+  "Software Name": "VASP",
+  "links": {
+    "software page": "https://www.vasp.at/",
+    "documentation": "https://www.vasp.at/index.php/documentation-vasp",
+    "tutorials": [
+      "http://scherzo.ucdavis.edu/vasp/",
+      "https://www.vasp.at/index.php/tutorial",
+      "https://www.youtube.com/watch?v=fHR_QKyPGh8"
+    ]
+  }
+}

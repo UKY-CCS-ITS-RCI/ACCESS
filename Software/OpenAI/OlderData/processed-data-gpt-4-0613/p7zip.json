@@ -1,0 +1,9 @@
+{
+  "Name": "P7ZIP",
+  "SoftwareURL": "http://p7zip.sourceforge.net/",
+  "DocumentationURL": "https://sourceforge.net/p/p7zip/discussion/383043/",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://www.howtoforge.com/tutorial/how-to-use-7zip-on-linux-command-line/",
+    "Tutorial_2_URL": "https://www.youtube.com/watch?v=ZvZtCzkFMHg"
+  }
+}

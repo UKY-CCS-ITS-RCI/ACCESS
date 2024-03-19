@@ -1,0 +1,26 @@
+Use Case: BLAST: The purpose of BLAST (Basic Local Alignment Search Tool) is to find regions of similarity between biological sequences. The program compares nucleotide or protein sequence to sequence databases and calculates the significance of matches.
+
+Code details and examples:
+
+Code: 
+We'd typically have a FASTA file as input. A simple example of a FASTA file:
+
+```
+>Sequence1
+ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG
+>Sequence2
+ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAC
+>Sequence3
+ATGGCCATTGTAATGGTCGCTGAAAGGGTGCCCGATAG
+```
+
+The simplest command for running a BLAST search is something like this:
+
+```bash
+blastn -query input.fna -db database_name -out results.out
+```
+
+Where:
+- `'input.fna'` is your FASTA file with nucleotide sequences.
+- `'database_name'` is the name of the database against which you are comparing your sequences.
+- `'results.out'` is the file to which you save your results.

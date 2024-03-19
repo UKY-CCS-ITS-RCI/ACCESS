@@ -1,0 +1,13 @@
+{
+  "software": {
+    "name": "Paraview",
+    "link": "https://www.paraview.org/",
+    "documentation": "https://docs.paraview.org/",
+    "tutorials": {
+      "link1": "https://www.paraview.org/paraview-guide/",
+      "link2": "https://www.paraview.org/Wiki/The_ParaView_Tutorial",
+      "link3": "https://www.youtube.com/playlist?list=PLKWeHvnD6oIKyOSgvzwfAz_kCphzm3MQ5",
+      "link4": "https://www.cfd-online.com/Forums/paraview/"
+    }
+  }
+}

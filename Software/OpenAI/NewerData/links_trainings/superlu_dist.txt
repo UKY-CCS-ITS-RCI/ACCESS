@@ -1,0 +1,11 @@
+{
+  "superlu_dist": {
+    "Software Page": "https://portal.nersc.gov/project/sparse/superlu/",
+    "Documentation": "https://portal.nersc.gov/project/sparse/superlu/Doc/superlu_dist_ug.pdf",
+    "Tutorials": {
+      "SuperLU_DIST User Guide": "https://portal.nersc.gov/project/sparse/superlu/Doc/superlu_dist_ug.pdf",
+      "SciNet SuperLU Tutorial": "https://docs.computecanada.ca/wiki/SuperLU",
+      "Introduction to Parallel SuperLU": "https://hpc.llnl.gov/training/tutorials/introduction-parallel-superlu-tutorial"
+    }
+  }
+}

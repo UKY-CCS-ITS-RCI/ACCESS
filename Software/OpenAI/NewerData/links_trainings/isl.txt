@@ -1,0 +1,14 @@
+{
+  "Software": "isl",
+  "URL": "http://isl.gforge.inria.fr/",
+  "Documentation": [
+    {
+      "URL": "http://isl.gforge.inria.fr/manual.html"
+    }
+  ],
+  "Tutorial And Training Materials": [
+    {
+      "URL": "https://sourceware.org/git/?p=gdb.git;a=blob_plain;f=gdb/isl/README;hb=HEAD"
+    }
+  ]
+}

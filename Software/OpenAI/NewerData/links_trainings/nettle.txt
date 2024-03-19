@@ -1,0 +1,11 @@
+{
+  "software": "nettle",
+  "software_url": "https://www.lysator.liu.se/~nisse/nettle/",
+  "documentation": [
+    {
+      "doc_name": "Library Manual",
+      "doc_url": "https://www.lysator.liu.se/~nisse/nettle/nettle.html"
+    }
+  ],
+  "training_materials": "Not Available"
+}

@@ -1,0 +1,12 @@
+{
+  "Software Name": "HyPhy",
+  "Software Link": "https://veg.github.io/hyphy-site/",
+  "Documentation Link": "http://www.hyphy.org/manual/",
+  "Tutorials and Training Materials": [
+    {
+      "Tutorial 1":"http://www.hyphy.org/tutorials/",
+      "Tutorial 2":"https://github.com/veg/hyphy-tutorials",
+      "Workshops and Training":"https://veg.github.io/hyphy-site/workshops/"
+    }
+  ]
+}

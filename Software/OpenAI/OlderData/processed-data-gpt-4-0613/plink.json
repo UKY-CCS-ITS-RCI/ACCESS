@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "PLINK",
+  "Homepage": "https://www.cog-genomics.org/plink/",
+  "Resources": {
+    "Documentation": "https://www.cog-genomics.org/plink/1.9/",
+    "Tutorials": [
+      "https://www.cog-genomics.org/plink/1.9/basic_usage",
+      "https://zzz.bwh.harvard.edu/plink/tutorial.shtml"
+    ],
+    "TrainingMaterial": [
+      "https://www.cog-genomics.org/plink/1.9/general_usage",
+      "https://www.biostat.wisc.edu/~kbroman/D3/genetics15/notes2.pdf"
+    ]
+  }
+}

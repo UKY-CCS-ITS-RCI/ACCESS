@@ -1,0 +1,21 @@
+{
+  "aocc": {
+    "overview": "AOCC (AMD Optimizing C/C++ Compiler) is a compiler toolset designed to provide advanced optimizations for C and C++ applications running on AMD processors. It aims to improve the performance of applications by leveraging optimizations specific to AMD hardware.",
+    "core_features": [
+      "Advanced optimizations",
+      "AMD processor support",
+      "Improved application performance"
+    ],
+    "general_tags": [
+      "Compiler",
+      "Optimizations",
+      "AMD processors"
+    ],
+    "additional_tags": {
+      "research_discipline": "Computer Science",
+      "research_area": "Compiler technology",
+      "software_class": "Compiler toolset",
+      "software_type": "Optimization software"
+    }
+  }
+}

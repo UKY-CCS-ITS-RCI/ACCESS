@@ -1,0 +1,11 @@
+{
+  "Software": "Intel MPI Library",
+  "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/mpi-library.html",
+  "Documentation": "https://software.intel.com/content/www/us/en/develop/documentation/mpi-developer-guide-linux/top.html",
+  "Training and Tutorials": [
+    {
+      "Tutorials": "https://software.intel.com/content/www/us/en/develop/articles/intel-mpi-library-tutorials.html",
+      "Webinars": "https://software.intel.com/content/www/us/en/develop/articles/mpi-library-webinars.html"
+    }
+  ]
+}

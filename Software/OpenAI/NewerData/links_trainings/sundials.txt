@@ -1,0 +1,33 @@
+{
+    "software": 
+    {
+        "name": "sundials",
+        "software_link": "https://computing.llnl.gov/projects/sundials",
+        "documentation": 
+        [
+            {
+                "doc_link": "https://computing.llnl.gov/projects/sundials/sundials-software",
+                "doc_name": "Official Documentation"
+            },
+            {
+                "doc_link": "https://sundials.oden.utexas.edu/documentation.html",
+                "doc_name": "Documentation at Texas University"
+            }
+        ],
+        "training_and_tutorial": 
+        [
+            {
+                "tutorial_link": "https://computing.llnl.gov/projects/sundials/sundials-software",
+                "tutorial_name": "Tutorial in Official Documentation"
+            },
+            {
+                "tutorial_link": "https://sundials.oden.utexas.edu/docs.html",
+                "tutorial_name": "Tutorials at Texas University"
+            },
+            {
+                "tutorial_link": "https://nbviewer.jupyter.org/github/bmcintosh/SUNDIALS-notebooks/blob/master/notebooks/20_Python-Sundials.ipynb",
+                "tutorial_name": "Python-Sundials Tutorial"
+            }
+        ]
+    }
+}

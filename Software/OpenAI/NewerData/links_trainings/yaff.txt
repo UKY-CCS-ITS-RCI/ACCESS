@@ -1,0 +1,9 @@
+{
+  "Software Name": "Yaff",
+  "Software Link": "https://molmod.github.io/yaff/",
+  "Documentation Link": "https://molmod.github.io/yaff/ug/index.html",
+  "Training/Tutorial Materials": {
+    "Yaff Tutorial": "https://molmod.github.io/yaff/tutorial.html",
+    "Yaff Training": "https://molmod.github.io/yaff/refs.html"
+  }
+}

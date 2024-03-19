@@ -1,0 +1,12 @@
+{
+  "softwareName": "r-yaml",
+  "softwareURL": "https://cran.r-project.org/web/packages/yaml/index.html",
+  "documentationURLs": [
+    "https://cran.r-project.org/web/packages/yaml/yaml.pdf"
+  ],
+  "tutorialURLs": [
+    "https://datascienceplus.com/r-yaml-basics-to-advance/",
+    "https://cran.r-project.org/web/packages/yaml/vignettes/yaml.html"
+  ],
+  "relatedMaterials": []
+}

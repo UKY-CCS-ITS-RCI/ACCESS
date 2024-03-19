@@ -1,0 +1,17 @@
+{
+  "Software_Details" : [
+    {
+      "Name" : "Py-phonopy",
+      "Link_to_Software" : "https://pypi.org/project/phonopy/",
+      "Documentation" : "https://phonopy.github.io/phonopy/",
+      "Training_Materials" : [
+        {
+          "Webinar" : "https://www.youtube.com/watch?v=n4e_RJClC1c",
+          "Tutorial" : "https://cmr.fysik.uu.se/comp-materials-physics/courses/phonopy/01-introduction/",
+          "Example_Scripts" : "https://github.com/phonopy/phonopy/tree/master/example",
+          "Workshop" : "https://workshop.materialsvirtuallab.org/2018/07/09/phonons-phonopy.html"
+        }
+      ]
+    }
+  ]
+}

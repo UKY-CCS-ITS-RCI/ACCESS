@@ -1,0 +1,13 @@
+{
+  "Software_Name": "scikit-build",
+  "Software_URL": "https://scikit-build.readthedocs.io/en/latest/",
+  "Details": {
+    "Doc_URL": "https://scikit-build.readthedocs.io/en/latest/",
+    "Tutorial_Materials": {
+      "Scikit Build Documentation": "https://scikit-build.readthedocs.io/en/latest/",
+      "Scikit Build Github": "https://github.com/scikit-build/scikit-build",
+      "PyPi Scikit Build": "https://pypi.org/project/scikit-build/",
+      "Scikit Build Tutorials": "https://scikit-build.org/"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Software": "C++",
+  "Website": "http://www.cplusplus.com/",
+  "Documentation": "https://devdocs.io/cpp/",
+  "Tutorials and Training material": [
+    {
+      "Title": "C++ tutorial",
+      "Link": "http://www.cplusplus.com/doc/tutorial/"
+    },
+    {
+      "Title": "C++ Tutorial by Derek Banas",
+      "Link": "https://www.youtube.com/watch?v=Rub-JsjMhWY"
+    },
+    {
+      "Title": "Learn C++ Tutorials",
+      "Link": "https://www.learncpp.com/"
+    }
+  ]
+}

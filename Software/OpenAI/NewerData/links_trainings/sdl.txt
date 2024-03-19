@@ -1,0 +1,16 @@
+{
+  "sdl": {
+    "softwarePage": "https://www.libsdl.org/",
+    "documentation": "https://wiki.libsdl.org/FrontPage",
+    "tutorialMaterials": [
+      {
+        "name": "Lazy Foo' Productions",
+        "url": "https://lazyfoo.net/tutorials/SDL/"
+      },
+      {
+        "name": "sdl-tutorial-series",
+        "url": "https://www.willusher.io/pages/sdl2/"
+      }
+    ]
+  }
+}

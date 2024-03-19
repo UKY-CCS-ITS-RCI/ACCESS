@@ -1,0 +1,20 @@
+{
+  "software_name": "zstd",
+  "software_link": "https://github.com/facebook/zstd",
+  "documentation_links": [
+    {
+      "documentation_name": "zstd wiki",
+      "documentation_url": "https://github.com/facebook/zstd/wiki"
+    }
+  ],
+  "tutorial_links": [
+    {
+      "tutorial_name": "How to compress and decompress files in Linux using zstd",
+      "tutorial_url": "https://www.osradar.com/how-to-compress-and-decompress-files-in-linux-using-zstd/"
+    },
+    {
+      "tutorial_name": "Zstandard - a new faster data compression algorithm",
+      "tutorial_url": "https://www.2daygeek.com/zstd-zstandard-data-compression-algorithm-compress-decompress-files/"
+    }
+  ]
+}

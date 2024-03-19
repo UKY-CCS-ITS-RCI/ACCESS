@@ -1,0 +1,35 @@
+{
+  "software": "py-matplotlib",
+  "web_link": "https://matplotlib.org/",
+  "documentation": "https://matplotlib.org/stable/contents.html",
+  "tutorials": [
+    {
+      "name": "py-matplotlib tutorial - GeeksforGeeks",
+      "link": "https://www.geeksforgeeks.org/matplotlib-tutorial/"
+    },
+    {
+      "name": "py-matplotlib tutorial - TutorialsPoint",
+      "link": "https://www.tutorialspoint.com/matplotlib/index.htm"
+    },
+    {
+      "name": "py-matplotlib tutorial - W3Schools",
+      "link": "https://www.w3schools.com/python/matplotlib_getting_started.asp"
+    },
+    {
+      "name": "py-matplotlib tutorial - Real Python",
+      "link": "https://realpython.com/tutorials/matplotlib/"
+    },
+    {
+      "name": "py-matplotlib tutorial - Python Course",
+      "link": "https://python-course.eu/matplotlib.php"
+    },
+    {
+      "name": "Matplotlib for PyData",
+      "link": "https://pydata.org/matplotlib/"
+    },
+    {
+      "name": "py-matplotlib tutorial - DataCamp",
+      "link": "https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python"
+    }
+  ]
+}

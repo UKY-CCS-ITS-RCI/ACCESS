@@ -1,0 +1,12 @@
+{
+    "Software Name": "r-multtest",
+    "Software URL": "https://bioconductor.org/packages/release/bioc/html/multtest.html",
+    "Additional Links": {
+        "Documentation": "https://www.bioconductor.org/packages/release/bioc/vignettes/multtest/inst/doc/multtest.pdf",
+        "Tutorial": "https://cran.r-project.org/web/packages/multtest/multtest.pdf",
+        "Additional Resources": [
+            "https://www.bioconductor.org/packages/devel/bioc/vignettes/multtest/inst/doc/multtest.pdf",
+            "https://bioconductor.org/packages/release/bioc/manuals/multtest/man/multtest.pdf"
+        ]
+    }
+}

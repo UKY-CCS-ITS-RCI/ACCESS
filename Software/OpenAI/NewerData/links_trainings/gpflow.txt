@@ -1,0 +1,20 @@
+{
+    "name": "gpflow",
+    "software_page": "https://www.gpflow.org/",
+    "documentation": "https://gpflow.readthedocs.io/en/latest/",
+    "training_materials":
+    [
+        {
+            "title": "Practical Guide to Gaussian Processes",
+            "link": "https://drafts.distill.pub/gp/"
+        },
+        {
+            "title": "Gpflow tutorial",
+            "link": "https://github.com/GPflow/GPflow/tree/develop/doc/source/notebooks"
+        },
+        {
+            "title": "GPflow workshop",
+            "link": "https://github.com/GPflow/workshop2017"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+Use Case: Running a Molecular Dynamics simulation with OpenMM.
+
+Code Details and Examples:
+
+OpenMM is an open-source software toolkit to perform high performance molecular dynamics simulations. It uses hardware acceleration via GPUs to speed up the simulation. It can be used to study how atoms and molecules move under certain conditions in a provided PDB or .xml file.
+
+Command:
+```python
+from simtk.openmm.app import *
+from simtk.openmm import *
+from simtk.unit import *
+
+pdb = PDBFile('input.pdb')
+forcefield = ForceField('amber14-all.xml', 'amber14/tip3pfb.xml')
+system = forcefield.createSystem(pdb.topology, nonbondedMethod=PME, nonbondedCutoff=1*nanometer, constraints=HBonds)
+integrator = LangevinMiddleIntegrator(300*kelvin, 1/picosecond, 2*femtoseconds)
+
+simulation = Simulation(pdb.topology, system, integrator)
+simulation.context.setPositions(pdb.positions)
+simulation.minimizeEnergy()
+simulation.reporters.append(PDBReporter('output.pdb', 1000))
+simulation.reporters.append(StateDataReporter(stdout, 1000, step=True, potentialEnergy=True, temperature=True))
+simulation.step(10000)
+```
+Here, the 'input.pdb' represents the input file which is in Protein Data Bank format. This file contains the coordinates of atoms in the molecule for the molecular dynamics simulation. In the above code, you need to replace 'input.pdb' with the pdb file that you have. 
+
+The 'amber14-all.xml' and 'amber14/tip3pfb.xml' are the force field files that define the forces between the atoms. 
+
+Please, use Python 3 environment to run this script. The script performs the 10000 steps of the simulation which are calculated in the function 'simulation.step(10000)' and the resulting output is stored in 'output.pdb'. The intermediate information about the simulation is reported every 1000 steps.

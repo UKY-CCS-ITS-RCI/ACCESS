@@ -1,0 +1,10 @@
+{
+  "Software": "Open Babel",
+  "Link to Software": "http://openbabel.org/wiki/Main_Page",
+  "Documentation": "http://openbabel.org/docs/current/",
+  "Tutorials/Training Materials": [
+    "https://openbabel.org/docs/dev/Tutorial/tutorial.html",
+    "https://chem.libretexts.org/@go/page/19197",
+    "https://pubs.acs.org/doi/pdf/10.1021/ci600261r"
+  ]
+}

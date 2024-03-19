@@ -1,0 +1,14 @@
+{
+  "gromacs": {
+    "software_link": "http://www.gromacs.org/",
+    "additional_links": {
+      "documentation": "http://manual.gromacs.org/documentation/",
+      "training_materials": [
+        {
+          "tutorial_gromacs": "https://www.bevanlab.biochem.vt.edu/Pages/Personal/justin/gmx-tutorials/",
+          "tutorial_gromacs_beginners": "http://www.mdtutorials.com/gmx/simple/"
+        }
+      ]
+    }
+  }
+}

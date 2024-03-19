@@ -1,0 +1,15 @@
+{
+  "Software": "jags",
+  "Details": {
+    "Software Link": "http://mcmc-jags.sourceforge.net/",
+    "Documentation": "https://cran.r-project.org/web/packages/rjags/index.html",
+    "Tutorials": [
+      {
+        "Tutorial Link": "https://www.cgibbons.org/slides/jags-sug/"
+      },
+      {
+        "Tutorial Link": "https://www.youtube.com/watch?v=CYOC2fChc20"
+      }
+    ]
+  }
+}

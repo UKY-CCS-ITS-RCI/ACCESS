@@ -1,0 +1,9 @@
+{
+  "Name": "OSU Micro-Benchmarks",
+  "SoftwareURL": "http://mvapich.cse.ohio-state.edu/benchmarks/",
+  "DocumentationURL": "http://mvapich.cse.ohio-state.edu/benchmarks/",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "http://mvapich.cse.ohio-state.edu/benchmarks/",
+    "Tutorial_2_URL": "https://www.olcf.ornl.gov/wp-content/uploads/2013/03/OSUMicroBenchmarks.pdf"
+  }
+}

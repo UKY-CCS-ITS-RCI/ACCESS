@@ -1,0 +1,22 @@
+{
+  "SoftwareName": "xorg",
+  "SoftwarePage": "https://www.x.org/",
+  "Documentation": {
+    "Link1": "https://www.x.org/wiki/guide/",
+    "Link2": "https://www.x.org/releases/X11R7.7/doc/index.html"
+  },
+  "TrainingTutorials": {
+    "Tutorial1": {
+      "Link": "https://www.linuxtopia.org/online_books/linux_system_administration/securing_x.html",
+      "Title": "securing X.Org"
+    },
+    "Tutorial2": {
+      "Link": "https://maxolasersquad.blogspot.com/2017/11/the-xorg-graphics-stack.html",
+      "Title": "The X.Org Graphics Stack"
+    },
+    "Tutorial3": {
+      "Link": "https://www.linuxfromscratch.org/blfs/view/svn/x/x7driver.html",
+      "Title": "Xorg Drivers"
+    }
+  }
+}

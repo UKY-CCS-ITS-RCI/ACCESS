@@ -1,0 +1,17 @@
+{
+"ScientificSoftware": [
+  {
+   "name": "monitor",
+   "softwareUrl": "https://www.python.org/",
+   "documentationUrl": "https://docs.python.org/3/library/threading.html#threading.Thread",
+   "trainingMaterials": [
+    {
+    "tutorialUrl": "https://realpython.com/intro-to-python-threading/"
+    },
+    {
+    "tutorialUrl": "https://www.tutorialspoint.com/python/python_multithreading.htm"
+    }
+   ]
+  }
+ ]
+}

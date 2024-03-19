@@ -1,0 +1,13 @@
+{
+  "name": "Magics",
+  "website": "https://confluence.ecmwf.int/display/MAGP/Magics",
+  "documentation": "https://confluence.ecmwf.int/display/MAGP/Documentation",
+  "tutorials": [
+    {
+      "tutorial_link_1": "https://confluence.ecmwf.int/display/MAGP/Tutorial"
+    },
+    {
+      "tutorial_link_2": "https://github.com/ecmwf/notebook-examples"
+    }
+  ]
+}

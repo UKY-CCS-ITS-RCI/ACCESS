@@ -1,0 +1,13 @@
+{
+    "Software Name": "Cuttlefish",
+    "Software Page": "https://github.com/johnmay/cuttlefish",
+    "Documentation": "http://development.rc.ucl.ac.uk/projects/cuttlefish/wiki",
+    "Training Material": {
+        "Tutorial": [
+            "https://biorender.com/",
+            "https://www.youtube.com/watch?v=gE-5Q_xxeaI",
+            "https://omictools.com/cuttlefish-tool",
+            "https://manuals.bioinformatics.ucr.edu/home/linux-commands"
+        ]
+    }
+}

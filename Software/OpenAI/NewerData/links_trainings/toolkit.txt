@@ -1,0 +1,73 @@
+{
+  "toolkit": {
+    "softwareHomepage": "https://toolkit.com/",
+    "documentation": "https://www.toolkit.com/docs",
+    "tutorials": [
+      "https://toolkit.com/tutorials",
+      "https://www.youtube.com/user/ToolkitWorld",
+      "https://www.udemy.com/topic/toolkit/",
+      "https://www.coursera.org/courses?query=toolkit"
+    ]
+  },
+  "Intel Compiler": {
+    "softwareHomepage": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler.html",
+    "documentation": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler-documentation.html",
+    "tutorials": [
+      "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler-tutorials.html"
+    ]
+  },
+  "Pandas Library": {
+    "softwareHomepage": "https://pandas.pydata.org/",
+    "documentation": "https://pandas.pydata.org/pandas-docs/stable/",
+    "tutorials": [
+      "https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html",
+      "https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y",
+      "https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python",
+      "https://www.learnpython.org/en/Pandas_Basics"
+    ]
+  },
+  "GROMACS Software": {
+    "softwareHomepage": "http://www.gromacs.org/",
+    "documentation": "http://manual.gromacs.org/",
+    "tutorials": [
+      "http://www.gromacs.org/Documentation/Tutorials",
+      "https://www.bevanlab.biochem.vt.edu/Pages/Personal/justin/gmx-tutorials/",
+      "https://www.youtube.com/watch?v=VBbZps3UQjQ"
+    ]
+  },
+  "Bioconda": {
+    "softwareHomepage": "https://bioconda.github.io/",
+    "documentation": "https://bioconda.github.io/contributor/index.html",
+    "tutorials": [
+      "https://bioconda.github.io/user/install.html#set-up-channels",
+      "https://www.youtube.com/watch?v=sW9sX4H-kjg",
+      "https://towardsdatascience.com/getting-started-with-bioconda-2c886db4649"
+    ]
+  },
+  "MEGA Software": {
+    "softwareHomepage": "https://www.megasoftware.net/",
+    "documentation": "https://www.megasoftware.net/manuals",
+    "tutorials": [
+      "https://www.megasoftware.net/web_help_7",
+      "https://www.youtube.com/watch?v=7PPYzusKHOg"
+    ]
+  },
+  "TensorFlow": {
+    "softwareHomepage": "https://www.tensorflow.org/",
+    "documentation": "https://www.tensorflow.org/versions",
+    "tutorials": [
+      "https://www.tensorflow.org/tutorials",
+      "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187",
+      "https://www.coursera.org/learn/introduction-tensorflow"
+    ]
+  },
+  "Slurm HPC": {
+    "softwareHomepage": "https://slurm.schedmd.com/",
+    "documentation": "https://slurm.schedmd.com/documentation.html",
+    "tutorials": [
+      "https://slurm.schedmd.com/tutorials.html",
+      "https://hpc.llnl.gov/training/tutorials/multi-core-parallel-processing-tutorial-slurm-practice",
+      "https://www.youtube.com/watch?v=ZVxhty4jCeo"
+    ]
+  }
+}

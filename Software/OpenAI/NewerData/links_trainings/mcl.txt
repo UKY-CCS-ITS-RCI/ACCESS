@@ -1,0 +1,20 @@
+{
+  "software_name": "mcl",
+  "software_page": "https://micans.org/mcl/",
+  "documentation_links": [
+    {
+      "title": "mcl Documentation",
+      "url": "https://micans.org/mcl/man/mcl.html"
+    }
+  ],
+  "tutorial_links": [
+    {
+      "title": "Introduction to mcl",
+      "url": "https://micans.org/mcl/man/clmprotocols.html"
+    },
+    {
+      "title": "mcl FAQ",
+      "url": "https://micans.org/mcl/man/clmfaq.html"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "ogdf": {
+    "website": "http://www.ogdf.net/",
+    "documentation": "http://www.ogdf.net/doku.php",
+    "tutorial": "http://www.ogdf.net/doku.php/tech:howto",
+    "additional_resources": [
+      "https://tumasch.home.hsr.ch/lectures/ogdflib/OGDF_Manual.pdf",
+      "https://github.com/ogdf/ogdf",
+      "https://sourceforge.net/p/ogdf/code/ci/tip/tree/"
+    ]
+  }
+}

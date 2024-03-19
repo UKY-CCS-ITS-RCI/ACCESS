@@ -1,0 +1,41 @@
+Use Case: Methylpy is a Python package used for processing and analyzing whole-genome bisulfite sequencing (WGBS) and reduced representative bisulfite sequencing (RRBS) data. This includes differential methylation analysis, allele-specific methylation (ASM) analysis, etc.
+
+Code Details and Examples:
+
+Code:
+
+Methylpy starts with raw read data as input. A typical pair-end RRBS data input file is in fastq format. 
+
+Here is an example of the inputs required:
+
+```
+@QSEQ_ID
+AGTTCCGGTAACGATCGGCGACACGCAGTGGATCTTACGTTTGGACCCTACGTGTTGCAGGTTCCGTACGTTCTGGTGTCG
++
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+```
+
+Command to run DMRfind, which identifies DMRs:
+
+```
+# Test DMRfind
+methylpy DMRfind \\
+--allc-files allc_test.tsv \\
+--samples test \\
+--mc-type CGN \\
+--output-prefix test_DMR \\
+--num-procs 8 \\
+--dmr-max-dist 250 \\
+--min-num-dms 2 \\
+--sample-category 0
+```
+
+In this command:
+- `allc-files` specifies the ALLC files produced by the Methylpy pipeline.
+- `samples` specifies the labels of the samples.
+- `mc-type` specifies the sequence context(s).
+- `output-prefix` specifies file prefix for outputs.
+- `num-procs` specifies the number of processors to use.
+- `dmr-max-dist` specifies the maximum distance for DMRs.
+- `min-num-dms` specifies the minimum number of DMS required to call a DMR. 
+- `sample-category` specifies the category of samples for DMR calling.

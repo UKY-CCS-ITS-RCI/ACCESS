@@ -1,0 +1,59 @@
+Use Case: SWIG (Simplified Wrapper and Interface Generator) is a software development tool that is used to connect programs written in C and C++ with various high-level programming languages. 
+
+Code details and examples:
+
+Code: Let's take a C++ code that calculates the Fibonacci sequence. 
+
+`fibonacci.h` 
+
+```cpp
+#pragma once
+
+int fibonacci(int n);
+```
+
+`fibonacci.cpp`
+
+```cpp
+#include "fibonacci.h"
+
+int fibonacci(int n) {
+    if (n <= 0) return 0;
+    if (n == 1) return 1;
+    int fib_n_minus_2 = 0;
+    int fib_n_minus_1 = 1;
+    for (int i = 2; i <= n; i++) {
+        int fib_n = fib_n_minus_1 + fib_n_minus_2;
+        fib_n_minus_2 = fib_n_minus_1;
+        fib_n_minus_1 = fib_n;
+    }
+    return fib_n_minus_1;
+}
+```
+
+SWIG interface file `fibonacci.i`
+
+```cpp
+%module fibonacci
+ 
+%{
+#include "fibonacci.h"
+%}
+ 
+%include "fibonacci.h"
+```
+
+Build process
+
+```bash
+$ swig -c++ -python fibonacci.i
+$ g++ -c fibonacci.cpp fibonacci_wrap.cxx -I/usr/include/python2.7
+$ g++ -shared fibonacci.o fibonacci_wrap.o -o _fibonacci.so
+```
+
+Once you've built the SWIG module (_fibonacci.so), you can use it in Python like any other module:
+
+```python
+import fibonacci
+print(fibonacci.fibonacci(10))  # prints 55
+```

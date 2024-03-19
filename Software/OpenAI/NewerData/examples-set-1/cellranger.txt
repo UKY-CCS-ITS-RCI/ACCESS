@@ -1,0 +1,22 @@
+Use Case: CellRanger is a set of analysis pipelines that perform sequencing data processing tasks like demultiplexing, barcode processing, alignment, gene counting, and secondary analysis. 
+
+Code details and examples: Code.
+
+Sample Input Files: FASTQ files, typically obtained from 10X Genomics protocols. These files contain raw sequencing reads along with the corresponding quality scores and barcodes.
+ 
+Example Input File: 
+```bash
+@SEQ_ID
+GATTTGGGGTTCAAAGCAGTATCGATCAAATAGTAAATCCATTTGTTCAACTCACAGTTT
++
+!''*((((***+))%%%++)(%%%%).1***-+*''))**55CCF>>>>>>CCCCCCC65
+```
+
+Any specifications and details in input files: The FASTQ files must be in the standard format, with each record in the FASTQ file containing a sequence identifier, the raw sequence, a separator line, and a corresponding quality score line. Barcodes and unique molecular identifiers (UMIs) should be included in the sequence identifier line.
+
+Command to run them:
+
+```bash
+cellranger count --id=Sample1 --transcriptome=/path/to/transcriptome --fastqs=/path/to/fastqs --sample=Sample1,Sample2
+```
+In the command above, replace '/path/to/transcriptome' with the path to your reference transcriptome, and '/path/to/fastqs' with the path to directory containing your fastq files. Sample1, Sample2 represents the sample identifiers to be analyzed.

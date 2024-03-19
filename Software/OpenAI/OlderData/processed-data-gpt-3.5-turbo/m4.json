@@ -1,0 +1,21 @@
+{
+  "software_name": "m4",
+  "comprehensive_overview": "m4 is a powerful macro processor that is widely used in Unix-like operating systems for text processing, macro expansion, and code generation. It provides a versatile tool for simplifying and automating tasks by defining and expanding macros.",
+  "core_features": [
+    "Macro processing",
+    "Text processing",
+    "Macro expansion and substitution",
+    "Code generation capabilities"
+  ],
+  "general_tags": [
+    "macro processor",
+    "text processing",
+    "code generation"
+  ],
+  "additional_tags": {
+    "research_discipline": "Computer Science",
+    "research_area": "Text Processing",
+    "software_class": "Tool",
+    "software_type": "Macro Processor"
+  }
+}

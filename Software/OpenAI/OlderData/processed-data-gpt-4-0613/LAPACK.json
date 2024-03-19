@@ -1,0 +1,16 @@
+
+{
+    "name": "LAPACK",
+    "software_page": "http://www.netlib.org/lapack/",
+    "documentation": "http://www.netlib.org/lapack/lug/lapack_lug.html",
+    "tutorials": [
+        "http://www.netlib.org/lapack/lug/node145.html",
+        "https://developer.ibm.com/articles/l-lapack",
+        "https://www.youtube.com/watch?v=9Y7zvaxt4IQ"
+    ],
+    "additional_resources": [
+        "http://www.netlib.org/lapack/#_standard",
+        "http://www.netlib.org/lapack/lawnspdf/lawn188.pdf",
+        "https://software.intel.com/content/www/us/en/develop/documentation/mkl-developer-reference-fortran/top/lapack-routines.html"
+    ]
+}

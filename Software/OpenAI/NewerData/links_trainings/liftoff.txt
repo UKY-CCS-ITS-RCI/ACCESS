@@ -1,0 +1,11 @@
+{
+  "Liftoff": {
+    "software_page_url": "https://github.com/agshumate/Liftoff",
+    "documentation_urls": [
+      "https://liftoff.readthedocs.io/en/latest/"
+    ],
+    "training_and_tutorial_materials": [
+      "https://www.researchgate.net/publication/350705941_A_Start-to-Finish_Tutorial_and_Workflow_for_Performing_Genome_Annotation_Transfer_with_Liftoff"
+    ]
+  }
+}

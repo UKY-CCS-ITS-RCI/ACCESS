@@ -1,0 +1,61 @@
+Use Case: Use oneAPI to write software that runs on both CPUs and GPUs.
+
+Code details and examples: Code
+
+The example uses Intel oneAPI Base Toolkit. The Intel Data Parallel C++ (DPC++) is included in the toolkit. DPC++ is a direct programming model that adds simplicity, productivity, and versatility to SYCL.
+
+Sample input file: vec_add.cpp
+
+```
+#include <CL/sycl.hpp> 
+
+using namespace sycl;
+
+static const int N = 16;
+
+int main() {
+    queue q;
+    
+    int a[N], b[N], r[N];
+    for(int i = 0; i < N; i++) {
+        a[i] = i;
+        b[i] = i;
+        r[i] = 0;
+    }
+
+    {
+        buffer A(a, N), B(b, N), R(r, N);
+
+        q.submit([&](handler& h) {
+            accessor AA(A, h, read_only);
+            accessor BB(B, h, read_only);
+            accessor RR(R, h, write_only);
+            h.parallel_for(N, [=](int id) {
+                RR[id] = AA[id] + BB[id];
+            });
+        });
+    }
+
+    for(int i = 0; i < N; i++) {
+        if(a[i] + b[i] != r[i]) {
+            printf("FAIL\n");
+            return -1;
+        }
+    }
+
+    printf("PASS\n");
+    return 0;
+}
+```
+
+The command to compile this DPC++ code: 
+
+```
+dpcpp vec_add.cpp -o vec_add
+```
+
+To run the application:
+
+```
+./vec_add
+```

@@ -1,0 +1,7 @@
+Use Case: oneAPI platform for multi-architecture programming. 
+
+Code details and examples: 
+- Sample Input Files: N/A
+- Format Required: N/A
+- Specifications: oneAPI is an open, standards-based, unified programming model that delivers a common developer experience across accelerator architecture. It supports various architectures such as CPUs, GPUs, FPGAs, and more. 
+- Command to run (if available): N/A

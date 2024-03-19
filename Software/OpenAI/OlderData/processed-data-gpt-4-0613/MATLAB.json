@@ -1,0 +1,15 @@
+
+{
+    "name": "MATLAB",
+    "software_page": "https://www.mathworks.com/products/matlab.html",
+    "documentation": "https://www.mathworks.com/help/matlab/",
+    "tutorials": [
+        "https://www.mathworks.com/academia/student_center/tutorials.html",
+        "https://www.mathworks.com/help/matlab/getting-started-with-matlab.html",
+        "https://www.coursera.org/learn/matlab"
+    ],
+    "additional_resources": [
+        "https://www.mathworks.com/matlabcentral/",
+        "https://stackoverflow.com/questions/tagged/matlab"
+    ]
+}

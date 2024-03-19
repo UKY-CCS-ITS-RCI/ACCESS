@@ -1,0 +1,11 @@
+{
+    "Motif": {
+        "Software Page": "https://motif.bio/",
+        "Documentation": "https://motif.bio/doc/",
+        "Tutorials": [
+            {
+                "Tutorial 1": "https://motif.bio/tutorials/",
+                "Tutorial 2": "https://bioconductor.org/packages/release/bioc/html/MotifDb.html"
+            }]
+    }
+}

@@ -1,0 +1,60 @@
+Use Case: Use NSPR (Netscape Portable Runtime) for building cross-platform development in C. It provides a platform-neutral API for system level and libc-like functions.
+
+Code details and examples: Code 
+
+Sample Input Files: 
+You would typically be using NSPR within C code, an example usage of NSPR might look like this:
+
+```C
+/* This is a basic example of opening, reading, and closing a file with NSPR */
+
+#include <prio.h>
+#include <stdio.h>
+
+#define BUFSIZE 1024
+
+int main(int argc, char **argv)
+{
+    char buf[BUFSIZE];
+    PRFileDesc *fd;
+    PRInt32 nb;
+
+    if (argc != 2) {
+        fprintf(stderr, "usage: %s filename\n", argv[0]);
+        return 2;
+    }
+
+    fd = PR_Open(argv[1], PR_RDONLY, 0);
+    if (fd == NULL) {
+        fprintf(stderr, "PR_Open failed\n");
+        return 2;
+    }
+
+    /* This is where you'd typically do something with the file */    
+
+    nb = PR_Read(fd, buf, BUFSIZE);
+    if (nb == -1) {
+        fprintf(stderr, "PR_Read failed\n");
+        return 2;
+    }
+
+    if (PR_Close(fd) == PR_FAILURE) {
+        fprintf(stderr, "PR_Close failed\n");
+        return 2;
+    }
+
+    return 0;
+}
+```
+
+This script will open a file given as a command line argument, read 1024 bytes from it into a buffer, and then close the file. This is a simple script, and in practice, you would usually want to handle errors more gracefully and probably do something with the data read from the file, beyond simply reading it into memory.
+
+Running the code:
+To compile and run this program, you would use a command like:
+
+```sh
+$ gcc -I /path/to/nspr/include -L /path/to/nspr/lib -l nspr4 myfile.c -o myfile
+$ ./myfile filename_to_read
+``` 
+
+Here, "/path/to/nspr/include" and "/path/to/nspr/lib" are the directories where NSPR was installed, and "filename_to_read" is the file you want to open with the program.

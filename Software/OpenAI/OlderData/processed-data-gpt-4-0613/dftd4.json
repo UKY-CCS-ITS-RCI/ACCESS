@@ -1,0 +1,25 @@
+{
+    "software": "dftd4",
+    "software_link": "https://github.com/dftd4/dftd4/",
+    "documentation": [
+        {
+            "title": "DFT-D4 README",
+            "link": "https://github.com/dftd4/dftd4/blob/master/README.md"
+        }
+    ],
+    "tutorials": [
+        {
+            "title": "Psi4 conda package",
+            "link": "https://anaconda.org/psi4/psi4"
+        },
+        {
+            "title": "Running dftd4",
+            "link": "https://mwaller.info/posts/use-the-dft-d4-method-in-psi4"
+        },
+        {
+            "title": "dftd4 repository",
+            "link": "https://github.com/dftd4/dftd4"
+        }
+    ],
+    "training_material": []
+}

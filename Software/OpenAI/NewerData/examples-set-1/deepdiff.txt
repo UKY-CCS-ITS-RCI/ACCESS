@@ -1,0 +1,28 @@
+Use Case: DeepDiff is used for the recursive difference of dictionaries, iterables, strings and other objects in Python. It's useful in this case when you need to know the difference between two complex data structures.
+
+Code details and examples: 
+
+Code:
+
+```python
+# Importing the library
+from deepdiff import DeepDiff
+
+# Define dictionary samples
+dict1 = {'name': 'John', 'age': 25, 'job': 'Software Engineer'}
+dict2 = {'name': 'John', 'age': 30, 'job': 'Senior Software Engineer'}
+
+# Use DeepDiff for finding the difference
+ddiff = DeepDiff(dict1, dict2, ignore_order=True)
+
+# Print the difference
+print(ddiff)
+```
+
+In the above example, we have two dictionaries dict1 and dict2. We import DeepDiff from deepdiff library and find the difference using DeepDiff function. The `ignore_order=True` argument ensures that the order of items in the dictionaries does not affect the result.
+
+The command `print(ddiff)` will output the differences between dict1 and dict2.
+
+The format required for input files would be valid python dictionaries or other acceptable python data structures such as lists, tuples or sets. There is no specification requirement as long as the data structures are valid. 
+
+Execute the script by running `python filename.py` in the command line where `filename.py` is the name of your python script file.

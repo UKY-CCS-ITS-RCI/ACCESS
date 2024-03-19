@@ -1,0 +1,12 @@
+{
+    "name": "ccache",
+    "software_url": "https://ccache.dev/",
+    "documentation_links": [
+        "https://ccache.dev/manual/latest.html"
+    ],
+    "training_materials": [
+        "https://nsc.liu.se/~kent/doc/ccache/ccache-howto.pdf",
+        "https://www.cubicrace.com/2019/05/ccache-compiler-cache-to-speedup-re.html",
+        "https://www.youtube.com/watch?v=mXG4iAZ1Adg"
+    ]
+}

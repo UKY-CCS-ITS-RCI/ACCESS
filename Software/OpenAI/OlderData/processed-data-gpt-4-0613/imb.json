@@ -1,0 +1,12 @@
+{
+  "imb": 
+  {
+    "software_page_url": "https://www.ebi.ac.uk/research/imb",
+    "documentation_url": "https://www.ebi.ac.uk/research/imb",
+    "training_materials_urls": [
+      "https://www.ebi.ac.uk/training/online/courses/",
+      "https://www.ebi.ac.uk/training/online/courses/operating-imb/",
+      "https://www.coursera.org/lecture/bioinformatics/implementing-imb-UoqnP"
+    ]
+  }
+}

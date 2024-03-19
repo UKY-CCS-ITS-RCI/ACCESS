@@ -1,0 +1,29 @@
+{
+  "software": "R-CRAN",
+  "links": [
+    {
+      "label": "Official Software Page",
+      "url": "https://cran.r-project.org/"
+    },
+      {
+       "label": "Official Documentation",
+       "url":"https://cran.r-project.org/manuals.html"
+     },
+     {
+       "label": "R-CRAN Tutorial 1",
+       "url":"https://www.datacamp.com/courses/free-introduction-to-r"
+     },
+     {
+       "label": "R-CRAN Tutorial 2",
+       "url":"https://www.statmethods.net/r-tutorial/index.html"
+     },
+     {
+       "label": "R-CRAN Tutorial 3",
+       "url":"https://www.w3schools.com/r/default.asp"
+     },
+     {
+        "label": "R-CRAN Tutorial 4",
+        "url":"https://www.tutorialspoint.com/r/index.htm"
+      }
+  ]
+}

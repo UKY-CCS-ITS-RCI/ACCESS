@@ -1,0 +1,12 @@
+{
+  "Software_Name": "compiler-rt",
+  "Software_Link": "https://compiler-rt.llvm.org/",
+  "Documentation": {
+    "Documentation_Link_1": "https://compiler-rt.llvm.org/docs/"
+  },
+  "Training_Materials": {
+    "Training_Link_1": "https://llvm.org/docs/tutorial/",
+    "Training_Link_2": "https://www.youtube.com/watch?v=n_0ckbvYhMc",
+    "Training_Link_3": "https://www.youtube.com/watch?v=hgcBIhFSeBg"
+  }
+}

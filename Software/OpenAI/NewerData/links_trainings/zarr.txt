@@ -1,0 +1,32 @@
+{
+  "Software Name": "Zarr",
+  "Software URL": "https://zarr.readthedocs.io/en/stable/",
+  "Documentation": [
+    {
+       "URL": "https://zarr.readthedocs.io/en/stable/getting-started.html",
+       "Title": "Getting Started with Zarr"
+    },
+    {
+      "URL": "https://zarr.readthedocs.io/en/stable/tutorial.html",
+      "Title": "Zarr Tutorials"
+    },
+    {
+      "URL": "https://zarr.readthedocs.io/en/stable/api/api.html",
+      "Title": "Zarr API Documentation"
+    }
+  ],
+  "Training Material": [
+    {
+      "URL": "https://pangeo.io/tutorials.html",
+      "Title": "Pangeo Tutorials"
+    },
+    {
+      "URL": "https://www.youtube.com/watch?v=qNczGZ1kp4c",
+      "Title": "YouTube - A deep dive into the HDF5 file format and how to improve it with ZARR"
+    },
+    {
+      "URL": "https://aws.amazon.com/blogs/opensource/zarr-amazon-s3/",
+      "Title": "Using Zarr on S3"
+    }
+  ]
+}

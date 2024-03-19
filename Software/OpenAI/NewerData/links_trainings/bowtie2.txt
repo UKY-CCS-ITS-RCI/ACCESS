@@ -1,0 +1,14 @@
+{
+  "Scientific Software": {
+    "Name": "Bowtie2",
+    "Software URL": "http://bowtie-bio.sourceforge.net/bowtie2/index.shtml",
+    "Additional Links": {
+      "Documentation": "http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml",
+      "Tutorials": {
+        "Tutorial 1": "http://bowtie-bio.sourceforge.net/tutorial.shtml",
+        "Tutorial 2": "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/rna-seq-tutorials/quality-control-of-rna-seq-reads/",
+        "Training Material1": "https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html"
+      }
+    }
+  }
+}

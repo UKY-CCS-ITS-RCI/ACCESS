@@ -1,0 +1,28 @@
+{
+  "software": "openLDAP",
+  "website": "https://www.openldap.org/",
+  "documentation": [
+    {
+      "title": "openLDAP Administrator's Guide",
+      "url": "https://www.openldap.org/doc/admin24/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "How to Install and Configure OpenLDAP on Ubuntu",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-openldap-and-phpldapadmin-on-an-ubuntu-14-04-server"
+    },
+    {
+      "title": "LDAP for Rocket Scientists",
+      "url": "https://www.zytrax.com/books/ldap/"
+    },
+    {
+      "title": "openLDAP Beginner's Guide",
+      "url": "https://www.techrepublic.com/article/openldap-an-introduction-and-beginners-guide/"
+    },
+    {
+      "title": "openLDAP Tutorial",
+      "url": "https://www.youtube.com/watch?v=rT_1FgqXhv8"
+    }
+  ]
+}

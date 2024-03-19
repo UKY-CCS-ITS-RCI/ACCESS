@@ -1,0 +1,12 @@
+{
+  "Software": "biocontainers",
+  "Link to the software page": "https://biocontainers.pro/#/",
+  "Additional web URL links": {
+    "Documentation": "https://biocontainers.pro/docs/101/",
+    "Training materials and tutorials": [
+      "https://biocontainers.pro/docs/101/container-anatomy/",
+      "https://biocontainers.pro/docs/101/running-containers/",
+      "https://biocontainers.pro/docs/101/building-containers/"
+    ]
+  }
+}

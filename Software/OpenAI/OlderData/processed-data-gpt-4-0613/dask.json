@@ -1,0 +1,10 @@
+{
+  "softwareName": "Dask",
+  "links": {
+    "softwarePage": "https://dask.org/",
+    "documentation": "https://docs.dask.org/en/latest/",
+    "officialTutorial": "https://tutorial.dask.org/",
+    "tutorial1": "https://calmcode.io/dask/introduction.html",
+    "tutorial2": "https://www.youtube.com/watch?v=mqdglv9GnM8"
+  }
+}

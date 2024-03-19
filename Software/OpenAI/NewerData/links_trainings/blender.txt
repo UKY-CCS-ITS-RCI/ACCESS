@@ -1,0 +1,24 @@
+{
+  "blender": {
+    "software_page": "https://www.blender.org/",
+    "documentation": "https://docs.blender.org/manual/en/latest/",
+    "tutorials_and_trainings": [
+      {
+        "name": "Blender Guru",
+        "link": "https://www.youtube.com/user/AndrewPPrice"
+      },
+      {
+        "name": "Blender Fundamentals",
+        "link": "https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
+      },
+      {
+        "name": "Introduction to Blender For Beginners",
+        "link": "https://www.udemy.com/topic/blender/"
+      },
+      {
+        "name": "Blender 2.8 Beginner Course",
+        "link": "https://cgboost.com/resources/blender-2-8-beginner-course/"
+      }
+    ]
+  }
+}

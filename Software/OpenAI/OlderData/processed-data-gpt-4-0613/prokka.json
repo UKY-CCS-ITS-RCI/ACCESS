@@ -1,0 +1,16 @@
+{
+  "software_name": "Prokka",
+  "software_url": "https://github.com/tseemann/prokka",
+  "documentation_link": "https://github.com/tseemann/prokka#readme",
+  "training_materials": [
+    {
+      "url": "https://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html"
+    },
+    {
+      "url": "https://bioinformaticsworkbook.org/Annotation/Prokka/prokka.html"
+    },
+    {
+      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/"
+    }
+  ]
+}

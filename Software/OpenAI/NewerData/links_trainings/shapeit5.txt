@@ -1,0 +1,15 @@
+{
+    "name": "shapeit5",
+    "software_page": "https://odelaneau.github.io/shapeit5/",
+    "documentation": "https://odelaneau.github.io/shapeit5/manual/",
+    "tutorial_materials": [
+        {
+            "name": "shapeit5 - Basic usage",
+            "link": "https://odelaneau.github.io/shapeit5/basic_usage/"
+        },
+        {
+            "name": "shapeit5 - Advanced usage",
+            "link": "https://odelaneau.github.io/shapeit5/advanced_usage/"
+        }
+    ]
+}

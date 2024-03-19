@@ -1,0 +1,28 @@
+Use Case: FASTQ format is a text-based format for storing both a biological sequence and its corresponding quality scores. It is often used in bioinformatics pipelines for sequencing and aligning.
+
+Code Details and Examples: 
+
+Code:
+FastQ files do not require any specific command to run them. They are input files used for various tools. Here is a sample FastQ file format and description:
+
+```
+@SEQ_ID
+GATTTGGGGTTCAAAGCAGTATCGATCAAATAGTAAATCCATTTGTTCAACTCACAGTTT
++
+!''*((((***+))%%%++)(%%%%).1***-+*''))**55CCF>>>>>>CCCCCCC65
+```
+Each FastQ entry consists of four lines:
+1. Sequence identifier, starting with @.
+2. Nucleotide sequence.
+3. Line starting with '+' and optionally, the same sequence identifier.
+4. Quality scores of the nucleotide sequence.
+
+These files are primarily used for sequence analysis programs like BLAST, BWA, etc.
+
+For example, if you were to map these reads to a reference using BWA:
+
+```
+bwa mem reference.fasta sample.fastq > output.sam
+```
+
+This command aligns the sequences in sample.fastq to the reference genome stored in reference.fasta. The resulting alignments are saved in the SAM format file output.sam. BWA is a widely used program in bioinformatics for aligning sequencing reads to a reference genome.

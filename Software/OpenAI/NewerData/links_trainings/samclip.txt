@@ -1,0 +1,15 @@
+{
+  "software_name": "Samclip",
+  "software_url": "https://github.com/tseemann/samclip",
+  "documentation": [
+    {
+      "doc_url": "https://github.com/tseemann/samclip#samclip"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorial_1": "https://anaconda.org/bioconda/samclip",
+      "tutorial_2": "https://rdrr.io/github/jdidion/bioconda/man/samclip.html"
+    }
+  ]
+}

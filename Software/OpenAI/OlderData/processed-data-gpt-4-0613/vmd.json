@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "VMD": 
+    { 
+      "URL": "https://www.ks.uiuc.edu/Research/vmd/",
+      "Documentation": "https://www.ks.uiuc.edu/Research/vmd/vmd-1.9.4/ug/",
+      "Tutorials": 
+      [
+        {
+          "VMD Tutorials": "https://www.ks.uiuc.edu/Training/Tutorials/"
+        },
+        {
+          "Introduction to VMD": "https://www.youtube.com/watch?v=1B3pOLmzdxE"
+        },
+        {
+          "VMD for Beginners": "https://www.csb.pitt.edu/Forums/?topic=vmd/vmd-beginners-guide/"
+        },
+        {
+          "VMD Plugin Tutorial": "https://www.ks.uiuc.edu/Research/vmd/development/plugins/molfile/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Software": "PASA Pipeline",
+  "SoftwareURL": "https://github.com/PASApipeline/PASApipeline",
+  "Documentation": "https://github.com/PASApipeline/PASApipeline/wiki",
+  "Tutorials": [
+    {
+      "Tutorial1_Title": "PASA Annotation Pipeline Tutorial",
+      "Tutorial1_URL": "https://nathanweeks.github.io/tuxedo-pipe.pasa/#attachment-three-pass-method"
+    },
+    {
+      "Tutorial2_Title": "Installation Tutorial",
+      "Tutorial2_URL": "https://pasapipeline.github.io/#Getting_Started"
+    }
+  ]
+}

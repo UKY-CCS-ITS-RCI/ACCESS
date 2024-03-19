@@ -1,0 +1,37 @@
+{
+  "software": "Bracken",
+  "description": "Bracken is a bioinformatics software for estimating species abundance in metagenomics data.",
+  "software_webpage": "https://ccb.jhu.edu/software/bracken/",
+  "documentation": [
+    {
+      "name": "Github Page",
+      "url": "https://github.com/jenniferlu717/Bracken"
+    },
+    {
+      "name": "Installation and Usage",
+      "url": "https://github.com/jenniferlu717/Bracken/blob/master/README.md"
+    },
+    {
+      "name": "Bracken Manual",
+      "url": "https://github.com/jenniferlu717/Bracken/blob/master/MANUAL.md"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "name": "Bracken Tutorial - Part 1",
+      "url": "https://youtu.be/0W9bQ4eQVA0"
+    },
+    {
+      "name": "Bracken Tutorial - Part 2",
+      "url": "https://youtu.be/HRtoeyJ3b7Y"
+    },
+    {
+      "name": "Kraken2/Bracken Tutorial",
+      "url": "https://vre.multiscalegenomics.eu/training/metagenomics/filtering/metagenomics_3_2/"
+    },
+    {
+      "name": "Bracken Tutorial on Biostars",
+      "url": "https://www.biostars.org/p/415119/"
+    }
+  ]
+}

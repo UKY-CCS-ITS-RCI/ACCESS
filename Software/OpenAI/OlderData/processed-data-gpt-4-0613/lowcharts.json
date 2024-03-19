@@ -1,0 +1,22 @@
+{
+  "software": "Highcharts",
+  "software_url": "https://www.highcharts.com/",
+  "documentation": "https://www.highcharts.com/docs/",
+  "tutorials": [
+    {
+      "link": "https://stackoverflow.com/questions/25415750/how-do-i-get-started-with-highcharts",
+      "name": "Stackoverflow - How do I get started with highcharts",
+      "provider": "Stackoverflow"
+    },
+    {
+      "link": "https://www.youtube.com/playlist?list=PLv9Pf9aNgemv62NNC5bXLR0a9l5gjl8cp",
+      "name": "Highcharts - Javascript (Youtube series)",
+      "provider": "Youtube"
+    },
+    {
+      "link": "https://www.tutorialspoint.com/highcharts/index.htm",
+      "name": "Highcharts Tutorial",
+      "provider": "TutorialsPoint"
+    }
+  ]
+}

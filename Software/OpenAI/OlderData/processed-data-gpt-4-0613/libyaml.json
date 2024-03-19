@@ -1,0 +1,9 @@
+{
+    "software": "libyaml",
+    "resources": {
+        "softwareHomepage": "https://pyyaml.org/wiki/LibYAML",
+        "documentation": "https://pyyaml.org/wiki/LibYAML#Documentation",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

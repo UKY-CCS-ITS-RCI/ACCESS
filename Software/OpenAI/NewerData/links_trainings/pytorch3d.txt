@@ -1,0 +1,29 @@
+{
+    "name": "PyTorch3D",
+    "software_url": "https://github.com/facebookresearch/pytorch3d",
+    "documentation": "https://pytorch3d.org/",
+    "tutorials_and_training": [
+        {
+            "name": "PyTorch3D tutorials",
+            "url": "https://github.com/facebookresearch/pytorch3d/tree/master/docs/tutorials"
+        },
+        {
+            "name": "PyTorch3D Colab notebooks",
+            "url": "https://github.com/facebookresearch/pytorch3d/tree/master/docs/notebooks"
+        }
+    ],
+    "other_links": [
+        {
+            "name": "PyTorch3D API",
+            "url": "https://pytorch3d.readthedocs.io/en/latest/notes/api.html"
+        },
+        {
+            "name": "PyTorch3D Github",
+            "url": "https://github.com/facebookresearch/pytorch3d"
+        },
+        {
+            "name": "PyTorch3D installation guide",
+            "url": "https://github.com/facebookresearch/pytorch3d/blob/master/INSTALL.md"
+        }
+    ]
+}

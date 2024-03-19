@@ -1,0 +1,11 @@
+{
+  "softwareName": "Gawk",
+  "links": {
+    "softwarePage": "https://www.gnu.org/software/gawk/",
+    "documentation": "https://www.gnu.org/software/gawk/manual/gawk.html",
+    "officialTutorial": "https://www.gnu.org/software/gawk/manual/html_node/Getting-Started.html",
+    "tutorial1": "https://ryanstutorials.net/linuxtutorial/awk.php",
+    "tutorial2": "https://www.howtogeek.com/362442/what-is-gawk-and-how-do-you-use-it/",
+    "tutorial3": "https://www.youtube.com/watch?v=9KW4-NPFkAQ"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Software": {
+    "name": "libnsl",
+    "link": "https://github.com/thkukuk/libnsl/",
+    "documentation": [
+      {"name": "Github README", "link": "https://github.com/thkukuk/libnsl/#readme"},
+      {"name": "API Documentation", "link": "http://www.linuxfromscratch.org/blfs/view/cvs/postlfs/inetd.html"}
+    ],
+    "training_and_tutorial_materials": [
+      {"name": "Linux From Scratch", "link": "http://www.linuxfromscratch.org/blfs/view/cvs/postlfs/libnsl.html"},
+      {"name": "Github Discussions", "link": "https://github.com/thkukuk/libnsl/discussions"}
+    ]
+  }
+}

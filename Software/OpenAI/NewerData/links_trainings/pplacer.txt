@@ -1,0 +1,15 @@
+{
+  "Software_name": "pplacer",
+  "Links": {
+    "Software_page": "http://matsen.fhcrc.org/pplacer/",
+    "Documentation": [
+      "https://github.com/matsen/pplacer",
+      "https://matsen.fhcrc.org/pplacer/guides/minimal.html"
+    ],
+    "Training_and_tutorial": [
+      "https://matsen.fhcrc.org/pplacer/tutorials/",
+      "https://hop.pplacer.de/doku.php?id=devdocs:pplacer_tutorial",
+      "https://yinonbaron.com/pp_svturkey/"
+    ]
+  }
+}

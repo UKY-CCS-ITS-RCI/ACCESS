@@ -1,0 +1,11 @@
+{
+  "Software Name": "nspr",
+  "Software URL": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR",
+  "Documentation URL": [
+    "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR/Reference/NSPR_4.11_NSPR_API_Reference",
+    "https://www-archive.mozilla.org/projects/nspr/reference/html/index.html"
+  ],
+  "Training and Tutorials Materials URL": [
+    "https://www.youtube.com/watch?v=qquN1A69yCk"
+  ]
+}

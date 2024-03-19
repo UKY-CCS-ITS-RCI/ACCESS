@@ -1,0 +1,12 @@
+{
+  "pyensembl": {
+    "software_page": "https://pypi.org/project/pyensembl/",
+    "documentation": "https://pyensembl.readthedocs.io",
+    "tutorial_and_training_materials": [
+      "https://www.youtube.com/watch?v=Ph0HsrC5T_k",
+      "https://nbviewer.jupyter.org/github/hammerlab/pyensembl/blob/master/notebooks/PyEnsembl%20Usage.ipynb",
+      "https://bioinfoblog.it/2013/10/a-python-script-to-download-all-the-ensembl-sequences-in-fasta-format-using-the-biomart-api/",
+      "https://pyensembl.readthedocs.io/en/latest/examples/ensembl-data-loading.html"
+    ]
+  }
+}

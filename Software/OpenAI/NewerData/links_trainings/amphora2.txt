@@ -1,0 +1,20 @@
+{
+  "software": "Amphora2",
+  "software_url": "https://github.com/martin3141/amphora2",
+  "documentation": [
+    {
+      "name": "README",
+      "url": "https://github.com/martin3141/amphora2#readme"
+    }
+  ],
+  "training_materials": [
+    {
+      "name": "AmphoraNet: A Webserver for Protein Function Prediction",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0135530"
+    },
+    {
+      "name": "Amphora2: An Improved Prediction of Protein Function in Bacteria and Archaea",
+      "url": "https://ascpt.onlinelibrary.wiley.com/doi/full/10.1111/2041-8133.12323"
+    }
+  ]
+}

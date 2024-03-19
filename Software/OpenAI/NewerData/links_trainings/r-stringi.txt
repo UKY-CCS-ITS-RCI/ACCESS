@@ -1,0 +1,15 @@
+{
+  "software_name": "r-stringi",
+  "details": [
+    {
+      "software_page": "https://cran.r-project.org/web/packages/stringi/index.html",
+      "documentation": "https://cran.r-project.org/web/packages/stringi/stringi.pdf",
+      "training_materials": [
+        {
+          "tutorial": "http://www.gagolewski.com/resources/cran/stringi/manual.pdf",
+          "training_link": "https://www.datamentor.io/r-programming/stringi-package/"
+        }
+      ]
+    }
+  ]
+}

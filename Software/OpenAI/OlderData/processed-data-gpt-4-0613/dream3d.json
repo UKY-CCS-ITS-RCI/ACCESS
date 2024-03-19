@@ -1,0 +1,24 @@
+{
+  "Software Name": "DREAM.3D",
+  "Link": "https://dream3d.bluequartz.net/",
+  "Documentation": [
+    {
+      "Link": "https://github.com/BlueQuartzSoftware/DREAM3D",
+      "Description": "GitHub repository with installation guide and readme"
+    },
+    {
+      "Link": "https://www.doi.org/10.1186/s40192-016-0045-0",
+      "Description": "Original publication of DREAM.3D"
+    }
+  ],
+  "Training and Tutorial Materials": [
+    {
+      "Link": "https://www.youtube.com/playlist?list=PLZ5zI38tVqgmpf6IAwMxz5blUrkNU9D1w",
+      "Description": "DREAM.3D tutorial youtube playlist"
+    },
+    {
+      "Link": "https://dream3d.bluequartz.net/?page_id=14",
+      "Description": "Frequently Asked Questions and tutorials from the official website"
+    }
+  ]
+}

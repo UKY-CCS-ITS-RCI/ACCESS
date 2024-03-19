@@ -1,0 +1,16 @@
+{
+  "software_name": "lra",
+  "software_info": {
+    "HomePage": {
+      "url": "https://github.com/ChaissonLab/LRA"
+    },
+    "Documentation": {
+      "url": "https://github.com/ChaissonLab/LRA#introduction"
+    },
+    "Tutorials_Training": [
+      {
+        "url1": "https://github.com/ChaissonLab/LRA#example"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "software": "Tcl (Tool Command Language)",
+  "comprehensive_overview": "Tcl is a high-level scripting language known for its simplicity, flexibility, and ease of embedding in applications. It is commonly used for rapid prototyping, automation tasks, and building user interfaces. Tcl features a rich command set and is widely used for various scripting needs.",
+  "core_features": [
+    "Scripting language",
+    "Embeddability",
+    "User interface development"
+  ],
+  "general_tags": [
+    "scripting",
+    "automation",
+    "rapid prototyping"
+  ],
+  "additional_tags": {
+    "research_discipline": "Computer Science",
+    "research_area": "Scripting Languages",
+    "software_class": "Language",
+    "software_type": "Scripting Tool"
+  }
+}

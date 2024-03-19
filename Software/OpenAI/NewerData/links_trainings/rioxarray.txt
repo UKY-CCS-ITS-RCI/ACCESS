@@ -1,0 +1,23 @@
+{
+  "software_name": "rioxarray",
+  "software_link": "https://corteva.github.io/rioxarray",
+  "documentation_link": "https://corteva.github.io/rioxarray/stable/",
+  "tutorial_materials": [
+    {
+      "name": "Installation Guide",
+      "link": "https://corteva.github.io/rioxarray/stable/installation.html"
+    },
+    {
+      "name": "Quick Tutorial",
+      "link": "https://corteva.github.io/rioxarray/stable/getting_started/getting_started.html"
+    },
+    {
+      "name": "API Reference",
+      "link": "https://corteva.github.io/rioxarray/stable/rioxarray.html"
+    },
+    {
+      "name": "Examples Pandas Extension Array",
+      "link": "https://corteva.github.io/rioxarray/stable/examples/extract/extract_geom_rasterize.html"
+    }
+  ]
+}

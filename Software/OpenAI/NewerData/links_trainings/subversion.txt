@@ -1,0 +1,23 @@
+{
+  "Software Name": "Subversion",
+  "Software Page": "https://subversion.apache.org/",
+  "Documentation": [
+    {
+      "Link": "https://subversion.apache.org/docs/"
+    },
+    {
+      "Link": "https://svnbook.red-bean.com/"
+    }
+  ],
+  "Training and Tutorial Materials": [
+    {
+      "Link": "https://www.tutorialspoint.com/svn/index.htm"
+    },
+    {
+      "Link": "https://www.atlassian.com/git/tutorials/svn-to-git"
+    },
+    {
+      "Link": "https://www.lynda.com/Subversion-tutorials/Subversion-Depth/647669-2.html"
+    }
+  ]
+}

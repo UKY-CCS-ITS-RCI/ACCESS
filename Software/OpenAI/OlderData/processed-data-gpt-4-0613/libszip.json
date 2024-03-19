@@ -1,0 +1,9 @@
+{
+    "software": "libszip",
+    "resources": {
+        "softwareHomepage": "https://support.hdfgroup.org/doc_resource/SZIP/",
+        "documentation": "https://support.hdfgroup.org/doc_resource/SZIP/ReferenceManual_Szip_2_1.pdf",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

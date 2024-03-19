@@ -1,0 +1,19 @@
+{
+  "Software": "Bismark",
+  "Website": "https://www.bioinformatics.babraham.ac.uk/projects/bismark/",
+  "Documentation": "https://raw.githubusercontent.com/FelixKrueger/Bismark/master/Docs/Bismark_User_Guide.pdf",
+  "Tutorials and Training material": [
+    {
+      "Title": "Bismark User Guide",
+      "Link": "https://raw.githubusercontent.com/FelixKrueger/Bismark/master/Docs/Bismark_User_Guide.pdf"
+    },
+    {
+      "Title": "Bismark: Tool for mapping bisulfite converted sequence reads",
+      "Link": "https://www.bioinformatics.babraham.ac.uk/projects/bismark/"
+    },
+    {
+      "Title": "Bismark Tutorial",
+      "Link": "https://www.tutorialspoint.com/bismark-tool-for-mapping-bisulfite-converted-sequence-reads"
+    }
+  ]
+}

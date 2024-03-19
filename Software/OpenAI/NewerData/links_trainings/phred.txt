@@ -1,0 +1,13 @@
+{
+  "phred": {
+    "software_url": "http://www.phrap.org/phredphrapconsed.html",
+    "documentation_links": {
+      "phred_paper": "http://bozeman.mbt.washington.edu/phredphrapconsed/accuracy.html",
+      "phred_faq": "http://www.phrap.org/consed/distributions/README.phred.html"
+    },
+    "tutorial_links": {
+      "phred_tutorial": "https://sfg.stanford.edu/phred",
+      "phred_user_guide": "http://www.genome.washington.edu/UWGC/analysistools/Phred.cfm"
+    }
+  }
+}

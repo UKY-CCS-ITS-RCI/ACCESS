@@ -1,0 +1,28 @@
+{
+  "name": "strace",
+  "software_url": "https://sourceforge.net/projects/strace/",
+  "documentation": [
+    {
+      "title": "Man Page",
+      "url": "https://man7.org/linux/man-pages/man1/strace.1.html"
+    },
+    {
+      "title": "Tech Repulic Article",
+      "url": "https://www.techrepublic.com/article/how-to-install-and-use-strace-in-linux/"
+    },
+    {
+      "title": "Github Page",
+      "url": "https://github.com/strace/strace"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Linux Tutorial",
+      "url": "https://www.thegeekstuff.com/2011/11/strace-examples/"
+    },
+    {
+      "title": "Introduction to Strace",
+      "url": "https://www.linuxnix.com/strace-command-in-linux-with-examples/"
+    }
+  ]
+}

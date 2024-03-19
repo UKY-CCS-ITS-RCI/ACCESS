@@ -1,0 +1,14 @@
+
+{
+    "name": "Magics",
+    "software_page": "https://confluence.ecmwf.int/display/MAGP/Magics",
+    "documentation": "https://confluence.ecmwf.int/display/MAGP/Documentation",
+    "tutorials": [
+        "https://confluence.ecmwf.int/display/MAGP/Tutorial",
+        "https://www.youtube.com/playlist?list=PLXHLa8Foa3g9sXQ9mna3vm769v5v9OMPs"
+    ],
+    "additional_resources": [
+        "https://software.ecmwf.int/wiki/display/MAGP/Python+Interface",
+        "https://github.com/ecmwf/magics-python-examples"
+    ]
+}

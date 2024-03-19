@@ -1,0 +1,12 @@
+{
+  "software_name": "Lasso-python",
+  "software_page_link": "https://github.com/lasso-python/lasso-python",
+  "documentation_link": "https://github.com/lasso-python/lasso-python#readme",
+  "tutorial_materials_links": [
+    {
+      "tutorial_link_1": "https://realpython.com/tutorials/advanced/",
+      "tutorial_link_2": "https://www.w3schools.com/python/default.asp",
+      "tutorial_link_3": "https://github.com/lasso-python/lasso-python#example-usage"
+    }
+  ]
+}

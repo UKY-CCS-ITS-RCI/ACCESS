@@ -1,0 +1,10 @@
+{
+  "softwareName": "Eigen",
+  "links": {
+    "softwarePage": "http://eigen.tuxfamily.org/",
+    "documentation": "https://eigen.tuxfamily.org/dox/",
+    "officialTutorial": "https://eigen.tuxfamily.org/dox/GettingStarted.html",
+    "tutorial1": "http://eigen.tuxfamily.org/index.php?title=Main_Page#Documentation",
+    "tutorial2": "https://www.youtube.com/watch?v=Yi6Td9iHVes"
+  }
+}

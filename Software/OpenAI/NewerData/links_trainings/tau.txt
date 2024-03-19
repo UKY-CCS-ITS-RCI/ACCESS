@@ -1,0 +1,16 @@
+{
+  "Software Name": "TAU",
+  "URL": "https://www.cs.uoregon.edu/research/tau/home.php",
+  "Documentation Links": 
+    [
+      "https://www.cs.uoregon.edu/research/tau/docs/newguide/",
+      "https://www.cs.uoregon.edu/research/tau/docs/newguide/bk03mn01.html",
+      "https://www.tau.ac.il/~stoledo/taucs/2.2/docs/"
+    ],
+  "Tutorial Links": 
+    [
+      "https://www.cs.uoregon.edu/research/tau/docs/newguide/guide.html",
+      "https://www.cs.uoregon.edu/research/tau/docs/newguide/examples.html",
+      "https://www.youtube.com/watch?v=XZ_bhwacG6U"
+    ]
+}

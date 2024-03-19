@@ -1,0 +1,24 @@
+{
+  "software": "sdl2",
+  "link": "https://www.libsdl.org/",
+  "documentation": [
+    {
+      "name": "API documentation",
+      "link": "https://wiki.libsdl.org/FrontPage"
+    }
+  ],
+  "training_materials": [
+    {
+      "name": "SDL2 Tutorial series",
+      "link": "https://lazyfoo.net/tutorials/SDL/index.php"
+    },
+    {
+      "name": "Using SDL2 in C/C++ - YouTube Series",
+      "link": "https://www.youtube.com/playlist?list=PL6lxxT7MkkaA6kU3FTehFb2PKKWY6YqLW"
+    },
+    {
+      "name": "Making Games with SDL2 Part 1: Installation",
+      "link": "https://davidgow.net/handmadepenguin/ch1.html"
+    }
+  ]
+}

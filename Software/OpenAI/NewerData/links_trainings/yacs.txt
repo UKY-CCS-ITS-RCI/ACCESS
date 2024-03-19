@@ -1,0 +1,15 @@
+{
+  "software": "yacs",
+  "software_link": "https://github.com/rbgirshick/yacs",
+  "documentation": "https://github.com/rbgirshick/yacs#usage",
+  "tutorial": [
+    {
+      "name": "YACS tutorial",
+      "link": "https://acmiyaguchi.me/blog/2019/yacs-tutorial/"
+    },
+    {
+      "name": "A brief overview of YACS",
+      "link": "https://itnext.io/a-brief-overview-of-yacs-yet-another-configuration-system-f7a248d5ce31"
+    }
+  ]
+}

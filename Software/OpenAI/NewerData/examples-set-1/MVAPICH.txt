@@ -1,0 +1,63 @@
+Use Case: MVAPICH is a popular open-source implementation of the MPI standard designed for high-performance InfiniBand, iWARP and RoCE interconnects. It is widely used for running parallel tasks across many cores or nodes.
+
+Code details and Examples: Code 
+
+1. MPI Hello World: 
+An example of a simple MVAPICH program is an MPI "Hello, World!" program. The code might look something like this:
+
+```c
+#include <mpi.h>
+#include <stdio.h>
+
+int main(int argc, char** argv) {
+    // Initialize the MPI environment
+    MPI_Init(NULL, NULL);
+
+    // Get the number of processes
+    int world_size;
+    MPI_Comm_size(MPI_COMM_WORLD, &world_size);
+
+    // Get the rank of the process
+    int world_rank;
+    MPI_Comm_rank(MPI_COMM_WORLD, &world_rank);
+
+    // Print off a hello world message
+    printf("Hello world from rank %d "
+           "out of %d processors\n",
+           world_rank, world_size);
+
+    // Finalize the MPI environment.
+    MPI_Finalize();
+}
+```
+
+This code should be saved in a file (e.g., hello_world.c). 
+
+Input file: N/A
+
+Format required: C language format
+
+Specifications and details in input files: N/A
+
+Command to run the code:
+
+First, compile the code with the mpicc command provided by MVAPICH:
+
+```shell
+mpicc -o hello_world hello_world.c
+```
+
+Then, use the mpirun command to run the compiled program across a certain number of processes:
+
+```shell
+mpirun -np 4 ./hello_world
+```
+
+This will run the hello_world program across 4 processes. The output will be something like:
+
+```shell
+Hello world from rank 0 out of 4 processors
+Hello world from rank 1 out of 4 processors
+Hello world from rank 2 out of 4 processors
+Hello world from rank 3 out of 4 processors
+```

@@ -1,0 +1,12 @@
+{
+  "Software Name": "SIRfindeR",
+  "links": {
+    "software page": "http://ipk.slu.cz/software/sirfinder",
+    "documentation": "http://ipk.slu.cz/software/sirfinder/HTML/documentation.html",
+    "tutorials": [
+      "http://ipk.slu.cz/software/sirfinder/HTML/tutorials.html",
+      "https://www.youtube.com/watch?v=S5VlaCvjzfQ",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259913"
+    ]
+  }
+}

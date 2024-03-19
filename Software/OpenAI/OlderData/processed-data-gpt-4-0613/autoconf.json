@@ -1,0 +1,19 @@
+{
+"name": "Autoconf",
+"softwarePage": "https://www.gnu.org/software/autoconf/",
+"documentation": "https://www.gnu.org/software/autoconf/manual/autoconf.html",
+"tutorialMaterials": [
+    {
+        "name": "Autoconf Tutorial",
+        "url": "https://www.lrde.epita.fr/~adl/autotools.html"
+    },
+    {
+        "name": "How to use Autoconf",
+        "url": "https://www.youtube.com/watch?v=F1xzJnyRvHo"
+    },
+    {
+        "name": "Autoconf for Creating Portable Software",
+        "url": "https://openbooks.library.umass.edu/mixandmash/chapter/autoconf-for-creating-portable-software/"
+    }
+  ]
+}

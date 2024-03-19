@@ -1,0 +1,11 @@
+{
+    "software": "Perftools",
+    "software_url": "https://github.com/dun/mcperf",
+    "documentation_url": "https://github.com/dun/mcperf/wiki",
+    "tutorial_materials": [
+        {
+            "title": "PerfTools: A Performance Analysis Tool",
+            "url": "https://ieeexplore.ieee.org/abstract/document/5577497/"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "Software Name": "QuantumEspresso",
+  "links": {
+    "software page": "https://www.quantum-espresso.org/",
+    "documentation": "https://www.quantum-espresso.org/Doc/user_guide/",
+    "tutorials": [
+      "https://www.quantum-espresso.org/resources/tutorials",
+      "https://www.materialscloud.org/work/tools/quantumespresso/tutorial",
+      "https://www.youtube.com/watch?v=DnpZiZCq5iE"
+    ]
+  }
+}

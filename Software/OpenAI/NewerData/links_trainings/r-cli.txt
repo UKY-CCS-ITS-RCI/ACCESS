@@ -1,0 +1,13 @@
+{
+  "r-cli": {
+    "softwarePage": "https://cran.r-project.org/web/packages/cli/index.html",
+    "documentationLinks": [
+      "https://www.rdocumentation.org/packages/cli/versions/1.1.0",
+      "https://cran.r-project.org/web/packages/cli/cli.pdf"
+    ],
+    "trainingAndTutorialMaterials": [
+      "https://www.r-bloggers.com/2019/07/colourful-cli-output-in-r/",
+      "https://data-flair.training/blogs/r-command-line/"
+    ]
+  }
+}

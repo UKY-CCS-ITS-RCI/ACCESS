@@ -1,0 +1,9 @@
+{
+    "software": "libgpg",
+    "resources": {
+        "softwareHomepage": "https://gnupg.org/software/libgcrypt/index.html",
+        "documentation": "https://gnupg.org/documentation/manuals/gcrypt/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

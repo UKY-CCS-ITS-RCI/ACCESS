@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "QD",
+  "Homepage": "https://www.davidhbailey.com/dhbsoftware/",
+  "Resources": {
+    "Documentation": "https://www.davidhbailey.com/dhbsoftware/qd.pdf",
+    "Tutorials": [
+      "https://www.mathworks.com/matlabcentral/fileexchange/26467-multiple-precision-toolbox-for-matlab/content/libraries/qd-2.3.17/doc/qd.pdf",
+      "https://theoval.cmp.uea.ac.uk/~nlct/latex/pdf/maths/latex-085-int-comparison.pdf"
+    ],
+    "TrainingMaterial": [
+      "https://www.davidhbailey.com/dhbsoftware/",
+      "https://www.davidhbailey.com/dhbsoftware/qd.pdf"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+Use Case: X11 is a windowing system for UNIX-like operating systems that provides a standard toolkit and protocol for building graphical user interfaces. It is typically used to run applications with a graphical user interface on a remote server while displaying the application's GUI locally.
+
+Code details and examples: 
+
+The X11 architecture doesn't directly require input files. The specifics of the input and output will depend on the particular software application being run on top of X11. In general, to run a program that utilizes X11, you start up an X server on your local machine, ssh into the remote machine, and run your program.
+
+For example, if you wanted to display the graphical user interface for a program such as matlab which is installed on a remote server, you would use the following commands:
+
+Code:
+
+Step 1 - Start the local X server
+```bash
+startx -- :1
+```
+
+Step 2 - SSH into the remote server
+In a new terminal
+```bash
+ssh -Y username@your.server.edu
+```
+
+Step 3 - Run your application
+```bash
+matlab
+```
+In this example, `matlab` launches on the remote server, and through the X11 forwarding, it displays the graphical user interface windows on your local machine.

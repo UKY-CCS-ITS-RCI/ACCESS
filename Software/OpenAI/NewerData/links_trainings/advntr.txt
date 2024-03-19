@@ -1,0 +1,15 @@
+{
+  "Software": "advntr",
+  "Details": [
+    {
+      "Homepage": "https://github.com/abyzovlab/AdVNTR",
+      "Documentation": "https://advntr.readthedocs.io/en/latest/",
+      "Training Materials": [
+        {
+          "Tutorial 1": "https://github.com/abyzovlab/AdVNTR",
+          "Tutorial 2": "https://www.cs.umd.edu/class/spring2019/cmsc423-0101/lectures/courseIntro.pdf"
+        }
+      ]
+    }
+  ]
+}

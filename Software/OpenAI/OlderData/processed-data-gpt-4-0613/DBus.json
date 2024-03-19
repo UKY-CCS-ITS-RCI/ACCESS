@@ -1,0 +1,11 @@
+{
+    "DBus": {
+        "Software Page": "https://www.freedesktop.org/wiki/Software/dbus/",
+        "Documentation": "https://www.freedesktop.org/wiki/Software/dbus/",
+        "Tutorials and Training Materials": [
+            "https://dbus.freedesktop.org/doc/dbus-tutorial.html",
+            "https://developer.gnome.org/gio/stable/gdbus-tutorial.html",
+            "https://www.linux.org/docs/man7/dbus-daemon.7.html"
+        ]
+    }
+}

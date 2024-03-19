@@ -1,0 +1,15 @@
+{
+  "Software_name": "Trilinos",
+  "Software_URL": "https://trilinos.github.io/",
+  "Documentation_URL": "https://docs.trilinos.org/",
+  "Training_Materials": [
+    {
+      "Tutorial_name": "Trilinos Tutorial - Introduction",
+      "Tutorial_URL": "https://trilinos.github.io/tutorial.html"
+    },
+    {
+      "Tutorial_name": "Trilinos Beginners Tutorial",
+      "Tutorial_URL": "https://www-s.ks.uiuc.edu/Training/Tutorials/Trilinos/Trilinos-basic-tutorial.pdf"
+    }
+  ]
+}

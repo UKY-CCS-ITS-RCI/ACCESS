@@ -1,0 +1,9 @@
+{
+    "software": "libepoxy",
+    "resources": {
+        "softwareHomepage": "https://github.com/anholt/libepoxy",
+        "documentation": "https://people.freedesktop.org/~anholt/libepoxy/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

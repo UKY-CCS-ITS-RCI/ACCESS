@@ -1,0 +1,51 @@
+Use Case: The Bio++ libraries are a set of portable, efficient and modular C++ libraries designed for the development of bioinformatics and molecular evolution applications.
+
+Code details and examples:
+
+Bio++ is versatile and does not have one specific input file or format, it heavily depends on the application or custom developed software but we'll use the example of a simple sequence analysis program. 
+
+Input File: An alignment file formatted in PHYLIP. Here's a sample with two sequences that align "AAA-TTT" and "AAA-CCC":
+
+```
+2 7
+Seq1 AAA-TTT
+Seq2 AAA-CCC
+```
+
+Code: Here is a simple sequence alignment reading and printing program:
+
+```cpp
+#include <Bpp/Seq/Sequence.h>
+#include <Bpp/Seq/Alphabet/AlphabetTools.h>
+#include <Bpp/Seq/Io/Fasta.h>
+#include <Bpp/Seq/Container/VectorSequenceContainer.h>
+#include <iostream>
+
+using namespace bpp;
+
+int main()
+{
+  // Get a sequence reader
+  Fasta fastaReader;
+  
+  // Read a sequence file
+  VectorSequenceContainer* sequences = fastaReader.readSequences("/path_to_alignment/aligment.phylip", &AlphabetTools::DNA_ALPHABET);
+
+  // Print the sequences to the console
+  for (size_t i = 0; i < sequences->getNumberOfSequences(); ++i) {
+    const Sequence* sequence = &sequences->getSequence(i);
+    std::cout << sequence->getName() << ": " << sequence->toString() << std::endl;
+  }
+  
+  delete sequences;
+  
+  return 0;
+}
+```
+
+Command to compile and run:
+
+```bash
+g++ -o sequence_analysis sequence_analysis.cpp -lbpp-seq
+./sequence_analysis
+```

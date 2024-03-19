@@ -1,0 +1,13 @@
+{
+  "Software": "nasm",
+  "Link": "https://www.nasm.us/",
+  "More_Info": {
+    "Documentation": "https://www.nasm.us/doc/",
+    "Tutorials": [
+      {
+        "TutorialsPoint": "https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm",
+        "YouTube NASM Tutorial": "https://www.youtube.com/watch?v=HgEGAaYdABA"
+      }
+    ]
+  }
+}

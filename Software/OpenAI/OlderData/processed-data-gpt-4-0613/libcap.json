@@ -1,0 +1,9 @@
+{
+    "software": "libcap",
+    "resources": {
+        "softwareHomepage": "https://www.kernel.org/pub/linux/libs/security/linux-privs/",
+        "documentation": "https://www.kernel.org/doc/htmldocs/libcap/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

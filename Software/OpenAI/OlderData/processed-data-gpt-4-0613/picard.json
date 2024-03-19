@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "Picard",
+  "Homepage": "http://broadinstitute.github.io/picard/",
+  "Resources": {
+    "Documentation": "http://broadinstitute.github.io/picard/",
+    "Tutorials": [
+      "https://software.broadinstitute.org/gatk/documentation/tooldocs/current/",
+      "https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2019/RNAseq/html/3-QC.html"
+    ],
+    "TrainingMaterial": [
+      "https://gatk.broadinstitute.org/hc/en-us/articles/360037224731-Picard-Tool-Documentation",
+      "https://informatics.fas.harvard.edu/best-practices-for-dealing-with-duplicates-in-dna-seq-data.html"
+    ]
+  }
+}

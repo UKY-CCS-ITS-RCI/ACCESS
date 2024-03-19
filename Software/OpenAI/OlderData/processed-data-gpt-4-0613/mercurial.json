@@ -1,0 +1,22 @@
+
+{
+  "Mercurial": {
+    "software_page": "https://www.mercurial-scm.org/",
+    "documentation": "https://www.mercurial-scm.org/wiki/UnderstandingMercurial",
+    "training_materials": [
+      {
+        "title": "Mercurial for Git users",
+        "url": "https://www.mercurial-scm.org/wiki/GitConcepts"
+      },
+      {
+        "title": "Mercurial: The Definitive Guide",
+        "url": "https://www.mercurial-scm.org/wiki/Books"
+      },
+      {
+        "title": "Mercurial Tutorial",
+        "url": "https://www.tutorialspoint.com/mercurial/index.htm"
+      }
+    ]
+  }
+}
+

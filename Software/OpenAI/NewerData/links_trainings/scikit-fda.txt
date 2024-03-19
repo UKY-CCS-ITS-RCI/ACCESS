@@ -1,0 +1,25 @@
+{
+  "scikit-fda": {
+    "software-page": "https://github.com/GAA-UAM/scikit-fda",
+    "documentation": [
+      {
+        "name": "readthedocs",
+        "link": "https://scikit-fda.readthedocs.io/"
+      }
+    ],
+    "tutorials": [
+      {
+        "name": "Tutorial on how to use Functional Data Arrays",
+        "link": "https://scikit-fda.readthedocs.io/en/latest/auto_examples/plot_create_fd_basis.html"
+      },
+      {
+        "name": "Tutorial on how to use FDataGrid",
+        "link": "https://scikit-fda.readthedocs.io/en/latest/auto_examples/plot_grid_representation.html"
+      },
+      {
+        "name": "Tutorial on how to use depth measures in functional data",
+        "link": "https://scikit-fda.readthedocs.io/en/latest/auto_examples/plot_depths.html"
+      }
+    ]
+  }
+}

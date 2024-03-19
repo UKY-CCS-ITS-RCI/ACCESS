@@ -1,0 +1,14 @@
+{
+"gymnasium":{
+"Software":{
+"Link":"https://gym.openai.com/",
+"Documentation":"https://gym.openai.com/docs/",
+"Tutorials":[
+"https://github.com/openai/gym/blob/master/docs/environments.md",
+"https://www.youtube.com/watch?v=9RouzPjG5IE",
+"https://www.youtube.com/watch?v=Q92ZQyvplh0",
+"https://pythonprogramming.net/openai-cartpole-neural-network-example-machine-learning-tutorial/",
+"https://www.digitalocean.com/community/tutorials/how-to-train-machine-learning-models-with-openai-gym-on-ubuntu-18-04"]
+}
+}
+}

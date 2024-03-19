@@ -1,0 +1,19 @@
+{
+  "software": "TargetP",
+  "details": {
+    "softwareUrl": "http://www.cbs.dtu.dk/services/TargetP/",
+    "documentation": [
+      {
+        "urlDoc": "http://www.cbs.dtu.dk/services/TargetP/instructions.php"
+      }
+    ],
+    "tutorials": [
+      {
+        "urlTutorial": "https://www.researchgate.net/post/How_do_we_interpret_results_for_subcellular_localization_from_Targetp_and_SecretomeP2"
+      },
+      {
+        "urlTutorial": "https://www.biostars.org/p/307894/"
+      }
+    ]
+  }
+}

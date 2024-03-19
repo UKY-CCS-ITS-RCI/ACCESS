@@ -1,0 +1,20 @@
+{
+  "Software Name": "cytoolz",
+  "Software Page": "https://toolz.readthedocs.io/en/latest/index.html",
+  "Documentation": [
+    {
+      "URL": "https://toolz.readthedocs.io/en/latest/index.html",
+      "Description": "Official Documentation"
+    }
+  ],
+  "Training and Tutorials": [
+    {
+      "URL": "https://github.com/pytoolz/toolz-tutorial",
+      "Description": "GitHub Tutorial"
+    },
+    {
+      "URL": "https://www.datacamp.com/community/tutorials/python-data-science-toolbox",
+      "Description": "DataCamp Tutorial using Data Science Toolbox which includes cytoolz"
+    }
+  ]
+}

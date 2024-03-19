@@ -1,0 +1,14 @@
+{
+  "SoftwareName": "pigz",
+  "Homepage": "https://zlib.net/pigz/",
+  "Resources": {
+    "Documentation": "https://zlib.net/pigz/",
+    "Tutorials": [
+      "https://www.tecmint.com/compress-files-faster-in-linux/",
+      "https://linux.die.net/man/1/pigz"
+    ],
+    "TrainingMaterial": [
+      "https://askubuntu.com/questions/253312/multithreaded-compression"
+    ]
+  }
+}

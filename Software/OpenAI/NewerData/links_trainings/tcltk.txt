@@ -1,0 +1,14 @@
+{
+  "software": "TclTk",
+  "website": "https://www.tcl.tk/",
+  "documents": {
+    "1": "https://www.tcl.tk/doc/",
+    "2": "https://wiki.tcl-lang.org/page/Beginner%27s+Guide"
+  },
+  "tutorials": {
+    "1": "https://www.tutorialspoint.com/tcl-tk/index.htm",
+    "2": "https://www.w3resource.com/tcl-tk/index.php",
+    "3": "https://fossies.org/linux/tcltk/tutorial.html",
+    "4": "https://www.activestate.com/resources/quick-reads/what-is-tcl-tk/"
+  }
+}

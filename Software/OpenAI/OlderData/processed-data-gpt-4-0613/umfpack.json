@@ -1,0 +1,22 @@
+{
+  "Software": 
+  { 
+    "UMFPACK": 
+    { 
+      "URL": "http://faculty.cse.tamu.edu/davis/suitesparse.html",
+      "Documentation": "http://faculty.cse.tamu.edu/davis/umfpack_userguide.pdf",
+      "Tutorials": 
+      [
+        {
+          "A Quick UMFPACK Tutorial": "https://scipy-cookbook.readthedocs.io/items/UMFPACK.html"
+        },
+        {
+          "Solving large linear systems with PySparse and UMFPACK": "https://www.cfd-online.com/Forums/blogs/praveen/246-solving-large-linear-systems-pysparse-umfpack.html"
+        },
+        {
+          "UMFPACK example": "https://dealii.org/8.5.0/doxygen/deal.II/UMFPACK_8cc-example.html"
+        }
+      ]
+    }
+  }
+}

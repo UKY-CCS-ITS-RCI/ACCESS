@@ -1,0 +1,9 @@
+{
+  "Software":{
+    "name":"MutMap",
+    "link":"https://genomebiology.biomedcentral.com/articles/10.1186/gb-2011-12-6-r59",
+    "documentation":"",
+    "training":"", 
+    "tutorials":""
+  }
+}

@@ -1,0 +1,7 @@
+{
+"DAL": {
+	"Software_page": "https://www.dal.ca/faculty/computerscience/research/software.html",
+	"Documentation": "https://www.dal.ca/faculty/computerscience/research/software/dal-compiler-framework0/manual.html",
+	"Training_materials": ["https://www.dal.ca/faculty/computerscience/research/software/dal-compiler-framework0/tutorial1.html", "https://www.dal.ca/faculty/computerscience/research/software/dal-compiler-framework0/tutorial2.html"]
+	}
+}

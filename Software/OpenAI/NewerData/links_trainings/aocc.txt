@@ -1,0 +1,7 @@
+{
+  "software_name": "AOCC",
+  "software_url": "https://developer.amd.com/amd-aocc/",
+  "documentation_url": "https://developer.amd.com/amd-aocc/",
+  "tutorial_urls": [],
+  "training_urls": []
+}

@@ -1,0 +1,27 @@
+{
+  "softwareName": "shap",
+  "softwarePage": "https://github.com/slundberg/shap",
+  "documentation": "https://shap.readthedocs.io/en/latest/",
+  "tutorialsMaterials": [
+    {
+      "name": "Interpretable Machine Learning with XGBoost and Shap in Python",
+      "URL": "https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27"
+    },
+    {
+      "name": "Shap values for feature importance",
+      "URL": "https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30"
+    },
+    {
+      "name": "SHAP: SHapley Additive exPlanations",
+      "URL": "https://towardsdatascience.com/shap-shapley-additive-explanations-5a2ee3e69e69"
+    },
+    {
+      "name": "Introduction to SHAP Values (Tree SHAP)",
+      "URL": "https://towardsdatascience.com/introduction-to-shap-values-tree-shap-df69f4511a73"
+    },
+    {
+      "name": "Understanding SHAP through Kernel Explainer",
+      "URL": "https://towardsdatascience.com/understanding-shap-through-kernel-explainer-4720fb58152a"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+Use Case: Illumina's BaseSpace Sequence Hub is an NGS cloud computing platform that provides data analysis and management for genomic sequencing. It is widely used for data uploads, storage, sharing, analysis, and visualisation in bioinformatics. 
+
+Code details and examples: Code 
+
+Input Format: Raw Sequencing Data files (FASTQ or BCL).
+
+Code Snippet:
+
+Uploading Raw Data:
+```bash
+bs upload dataset -p </path/to/your/fastq/files> --library-name <library_name> --sample-name <sample_name>
+```
+
+Analyzing Data:
+```bash
+bs launch appsession -n <app_session_name> -a <app_name> -i <input_id>
+```
+
+Sharing Data:
+```bash
+bs share dataset -i <dataset_id> -u <user_id>
+```
+This script first uploads the FASTQ files, launch an analysis app (like bwa, GATK, etc.), and share the resulting datasets. The `<library_name>`, `<sample_name>`, `<app_session_name>`, `<app_name>`, `<input_id>`, `<dataset_id>`, and `<user_id>` are placeholders for user-specific data. 
+
+Command to run: 
+
+The bash script can be run directly in the command line if you have BaseSpace CLI (Command Line Interface) installed and correctly set with your API key.
+
+The output format is dependent on the app used for analysis. For example, bwa will generate alignment files (SAM/BAM), GATK might generate variant files (VCF), etc.

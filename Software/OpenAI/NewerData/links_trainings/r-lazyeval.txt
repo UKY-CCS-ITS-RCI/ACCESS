@@ -1,0 +1,22 @@
+{
+  "SoftwareName": "r-lazyeval",
+  "SoftwareDetails": {
+    "Homepage": "https://cran.r-project.org/web/packages/lazyeval/index.html",
+    "Documentation": [
+      {
+        "DocumentationLink": "https://rdrr.io/cran/lazyeval/",
+        "Name": "Rdocumentation"
+      }
+    ],
+    "TutorialAndTrainingMaterials": [
+      {
+        "TutorialLink": "https://r4ds.had.co.nz/non-tidyverse.html",
+        "Name": "Data Science with R - Non-tidyverse"
+      },
+      {
+        "TutorialLink": "https://www.datacamp.com/community/blog/lazyeval-package-r",
+        "Name": "Data Camp - Understanding Lazy Evaluation"
+      }
+    ]
+  }
+}

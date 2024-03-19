@@ -1,0 +1,12 @@
+{
+  "software": {
+    "name": "Pycairo",
+    "software_url": "https://www.cairographics.org/pycairo/",
+    "documentation_url": "https://www.cairographics.org/documentation/pycairo/2/",
+    "tutorial_urls": [
+      "http://zetcode.com/gfx/pycairo/",
+      "https://drmullins.github.io/python/2017/11/23/pycairo-tutorial.html",
+      "https://www.tutorialspoint.com/pycairo/index.htm"
+    ]
+  }
+}

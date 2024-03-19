@@ -1,0 +1,11 @@
+{
+    "softwareName": "r-httpuv",
+    "softwarePageLink": "https://cran.r-project.org/web/packages/httpuv/index.html",
+    "additionalLinks": {
+        "documentationLink": "https://www.rdocumentation.org/packages/httpuv/versions/1.6.1",
+        "tutorialMaterials": [
+            "https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/",
+            "https://cran.r-project.org/web/packages/httpuv/vignettes/httpuv.html"
+        ]
+    }
+}

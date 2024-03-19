@@ -1,0 +1,9 @@
+{
+    "software": "libpciaccess",
+    "resources": {
+        "softwareHomepage": "https://www.x.org/wiki/Development/LibPciAccess/",
+        "documentation": "https://www.x.org/wiki/Development/LibPciAccess/Documentation/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

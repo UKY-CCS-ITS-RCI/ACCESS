@@ -1,0 +1,14 @@
+{
+  "Software_name": "inputproto",
+  "Software_URL": "https://www.xquartz.org/releases/XQuartz-2.7.7.html",
+  "Documentation": [
+    {
+      "Documentation_URL": "https://www.x.org/releases/X11R7.5/doc/inputproto/xi.html"
+    }
+  ],
+  "Tutorials_and_Training": [
+    {
+      "Tutorial_URL": "https://unix.stackexchange.com/questions/3755/why-do-we-need-inputproto-package-in-xorg"
+    }
+  ]
+}

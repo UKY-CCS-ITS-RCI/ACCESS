@@ -1,0 +1,19 @@
+{
+  "Software": "Ninja",
+  "Software_URL": "https://ninja-build.org/",
+  "Documentation_Link": "https://ninja-build.org/manual.html",
+  "Training_Materials": [
+    {
+      "Description": "Quick start with Ninja",
+      "URL": "https://github.com/ninja-build/ninja/wiki/Getting-started"
+    },
+    {
+      "Description": "Tutorial on Using Ninja and CMake",
+      "URL": "https://clang.llvm.org/docs/HowToSetupToolingForLLVM.html"
+    },
+    {
+      "Description": "Introduction to Ninja build system",
+      "URL": "https://www.youtube.com/watch?v=GC4JdaeAU6Y"
+    }
+  ]
+}

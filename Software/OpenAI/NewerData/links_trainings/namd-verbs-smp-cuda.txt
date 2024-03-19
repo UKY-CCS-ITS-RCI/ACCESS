@@ -1,0 +1,18 @@
+{
+	"software": "namd-verbs-smp-cuda",
+	"software_url": "https://www.ks.uiuc.edu/Research/namd/",
+	"documentation": {
+		"official_documentation": "https://www.ks.uiuc.edu/Research/namd/2.14/ug/",
+		"other_resources": [
+			"https://www.scholars.northwestern.edu/en/publications/scalable-molecular-dynamics-on-cpu-and-gpu-architectures-with-nam",
+			"https://pubmed.ncbi.nlm.nih.gov/21731610/"
+		]
+	},
+	"tutorials": {
+		"official_tutorials": "https://www.ks.uiuc.edu/Training/Tutorials/",
+		"other_tutorials": [
+			"https://www.youtube.com/watch?v=hdRghiPxqQo",
+			"https://www.biostars.org/p/211861/"
+		]
+	}
+}

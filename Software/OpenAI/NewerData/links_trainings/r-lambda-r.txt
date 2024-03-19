@@ -1,0 +1,20 @@
+{
+  "software": {
+    "name": "r-lambda-r",
+    "software_page": "https://cran.r-project.org/web/packages/lambda.r/index.html",
+    "links": [
+      {
+        "title": "Documentation",
+        "url": "https://cran.r-project.org/web/packages/lambda.r/lambda.r.pdf"
+      },
+      {
+        "title": "Quick Start Guide",
+        "url": "https://www.rdocumentation.org/packages/lambda.r/versions/1.2.4"
+      },
+      {
+        "title": "Tutorial",
+        "url": "https://www.programcreek.com/r-programming-examples/?api=lambda.r"
+      }
+    ]
+  }
+}

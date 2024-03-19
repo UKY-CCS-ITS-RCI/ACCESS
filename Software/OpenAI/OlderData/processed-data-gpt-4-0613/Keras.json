@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Keras": {
+      "MainPage": "https://keras.io/",
+      "Documentation": "https://keras.io/api/",
+      "Tutorials": [
+        "https://www.tensorflow.org/guide/keras",
+        "https://keras.io/examples/",
+        "https://www.coursera.org/projects/deep-learning-keras"
+      ]
+    }
+  }
+}

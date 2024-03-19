@@ -1,0 +1,20 @@
+{
+  "Software": "mob_suite",
+  "Link": "https://github.com/phac-nml/mob-suite",
+  "Documentation": [
+    {
+      "Link": "https://mob-suite.readthedocs.io/en/latest/"
+    }
+  ],
+  "Training_materials": [
+    {
+      "Link": "https://github.com/phac-nml/mob-suite#usage"
+    }
+  ],
+  "Tutorial_materials": [
+    {
+      "Link1": "https://omictools.com/mob-suite-tool",
+      "Link2": "https://anaconda.org/bioconda/mob_suite"
+    }
+  ]
+}

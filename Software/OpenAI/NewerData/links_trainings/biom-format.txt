@@ -1,0 +1,25 @@
+{
+  "software": {
+    "name": "biom-format",
+    "software_url": "https://biom-format.org/",
+    "documentation_url": "http://biom-format.org/documentation/",
+    "training_materials": [
+      {
+        "title": "QIIME 2 user documentation",
+        "url": "https://docs.qiime2.org/2021.4/tutorials/importing/"
+      },
+      {
+        "title": "Bioinformatics. VIB/Vrije Universiteit Brussel",
+        "url": "https://www.vub.be/enrolment/biom/"
+      },
+      {
+        "title": "Understanding the BIOM Format",
+        "url": "https://biom-format.org/documentation/understanding_biom_format.html"
+      },
+      {
+        "title": "GitHub - biom-format/biom-format: The biom file format",
+        "url": "https://github.com/biom-format/biom-format"
+      }
+    ]
+  }
+}

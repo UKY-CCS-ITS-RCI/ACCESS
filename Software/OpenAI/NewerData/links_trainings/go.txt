@@ -1,0 +1,150 @@
+{
+    "scientific software": [
+        {
+            "name": "Matlab",
+            "homepage": "https://www.mathworks.com/products/matlab.html",
+            "documentation": "https://www.mathworks.com/help/matlab/",
+            "tutorials": [
+                "https://www.mathworks.com/academia/student_center/tutorials.html",
+                "https://www.mathworks.com/help/matlab/getting-started-with-matlab.html"
+            ]
+        },
+        {
+            "name": "Maple",
+            "homepage": "https://www.maplesoft.com/products/Maple/",
+            "documentation": "https://www.maplesoft.com/support/help/Maple/view.aspx",
+            "tutorials": [
+                "https://www.maplesoft.com/support/help/Maple/view.aspx?path=tutorial"
+            ]
+        }
+    ],
+    "compilers": [
+        {
+            "name": "GCC",
+            "homepage": "https://gcc.gnu.org/",
+            "documentation": "https://gcc.gnu.org/onlinedocs/",
+            "tutorials": [
+                "https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html",
+                "https://developer.ibm.com/technologies/linux/tutorials/l-gcc/"
+            ]
+        },
+        {
+            "name": "Clang",
+            "homepage": "https://clang.llvm.org/",
+            "documentation": "https://clang.llvm.org/docs/",
+            "tutorials": [
+                "https://clang.llvm.org/docs/UsersManual.html",
+                "https://llvm.org/docs/tutorial/"
+            ]
+        }
+    ],
+    "Python libraries": [
+        {
+            "name": "pandas",
+            "homepage": "https://pandas.pydata.org/",
+            "documentation": "https://pandas.pydata.org/docs/",
+            "tutorials": [
+                "https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html",
+                "https://realpython.com/tutorials/pandas/"
+            ]
+        },
+        {
+            "name": "numpy",
+            "homepage": "https://numpy.org/",
+            "documentation": "https://numpy.org/doc/",
+            "tutorials": [
+                "https://numpy.org/learn/",
+                "https://realpython.com/tutorials/numpy/"
+            ]
+        }
+    ],
+    "Computational software": [
+        {
+            "name": "OpenFOAM",
+            "homepage": "https://www.openfoam.com/",
+            "documentation": "https://www.openfoam.com/documentation",
+            "tutorials": [
+                "https://www.openfoam.com/documentation/tutorial-guide/tutorialse1.php",
+                "https://www.youtube.com/playlist?list=PLvUvOH0OYx3BcZivtK2aZjeHbBx1Cq28h"
+            ]
+        },
+        {
+            "name": "COMSOL Multiphysics",
+            "homepage": "https://www.comsol.com/comsol-multiphysics",
+            "documentation": "https://www.comsol.com/documentation",
+            "tutorials": [
+                "https://www.comsol.com/video-gallery",
+                "https://www.comsol.blog/education/video-tutorials-for-teaching-comsol-multiphysics/"
+            ]
+        }
+    ],
+    "conda packages": [
+        {
+            "name": "scipy",
+            "homepage": "https://www.scipy.org/",
+            "documentation": "https://docs.scipy.org/doc/scipy/reference/",
+            "tutorials": [
+                "https://www.scipy.org/getting-started.html",
+                "https://docs.scipy.org/doc/scipy/tutorial/general.html"
+            ]
+        },
+        {
+            "name": "biopython",
+            "homepage": "https://biopython.org/",
+            "documentation": "https://biopython.org/wiki/Documentation",
+            "tutorials": [
+                "https://biopython.org/wiki/Getting%20started",
+                "https://biopython.org/DIST/docs/tutorial/Tutorial.html"
+            ]
+        }, 
+        {
+            "name": "matplotlib",
+            "homepage": "https://matplotlib.org/",
+            "documentation": "https://matplotlib.org/contents.html",
+            "tutorials": [
+                "https://matplotlib.org/stable/tutorials/index.html",
+                "https://realpython.com/tutorials/matplotlib/"
+            ]
+        }
+    ],
+    "bioinformatics tools": [
+        {
+            "name": "BLAST",
+            "homepage": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
+            "documentation":"https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs",
+            "tutorials": [
+                "https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Manual",
+                "https://www.ncbi.nlm.nih.gov/books/NBK279690/"
+            ]
+        },
+        {
+            "name": "Clustal Omega",
+            "homepage": "http://www.clustal.org/omega/",
+            "documentation":"http://www.clustal.org/omega/#documentation",
+            "tutorials": [
+                "http://www.ebi.ac.uk/tools/msa/clustalo/",
+                "https://www.youtube.com/watch?v=c2euhhy5s5U"
+            ]
+        }
+    ],
+    "HPC tools": [
+        {
+            "name": "Open MPI",
+            "homepage": "https://www.open-mpi.org/",
+            "documentation":"https://www.open-mpi.org/doc/",
+            "tutorials": [
+                "https://www.open-mpi.org/faq/",
+                "https://www.youtube.com/watch?v=58pe9R9EoAA"
+            ]
+        },
+        {
+            "name": "CUDA",
+            "homepage": "https://developer.nvidia.com/cuda-zone",
+            "documentation":"https://developer.nvidia.com/cuda-documentation",
+            "tutorials": [
+                "https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html",
+                "http://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+   "software_name": "Jasper",
+   "software_page_link": "https://github.com/mdadams/jasper",
+   "additional_links": {
+      "documentation": [
+         {
+            "info": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/JasPer"
+         },
+         {
+            "info": "SourceForge Documentation",
+            "link": "https://jasper.sourceforge.net/"
+         }
+      ],
+      "training_and_tutorial": [
+         {
+            "info": "JasPer Tutorial PDF",
+            "link": "http://www.ece.uvic.ca/~frodo/jasper/jasper.pdf"
+         },
+         {
+            "info": "Intro to JasPer",
+            "link": "https://pubs.usgs.gov/of/2005/1253/images/pdf/tutorial.pdf"
+         }
+      ]
+   }
+}

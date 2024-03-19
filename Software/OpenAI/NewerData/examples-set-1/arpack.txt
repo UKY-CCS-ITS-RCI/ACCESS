@@ -1,0 +1,53 @@
+Use Case: ARPACK is a collection of Fortran77 subroutines designed to solve large scale eigenvalue problems. 
+
+Code details and examples: Code.
+
+To use ARPACK, you need to provide an input file that contains parameters such as the number of matrix elements and the properties of the matrix. The software also requires additional files that contain the data for the matrix and the right-hand side of the equation.
+
+Here's an example of an input file:
+
+```
+5                           # number of matrix elements
+0 0 1 2 3 4 5               # coordinate format
+0.1 0.2 0.3 0.4 0.5         # right-hand side
+```
+
+You'll also need to have two Fortran routine in your project. The first one is to provide the reverse communication with the main program:
+
+```Fortran
+SUBROUTINE SMATVEC(N, X, Y)
+    INTEGER N
+    DOUBLE PRECISION X(*), Y(*)
+    ...
+END
+```
+
+The second one is to perform the reverse communication:
+
+```Fortran
+SUBROUTINE REVERCOMM()
+    INTEGER IDO, INFO, N
+    DOUBLE PRECISION V(N,4), WORKD(3*N)
+    ...
+    CALL SAUPD(IDO, 'I', N, 'A', 3, 10, 0.0D0, INFO, V, N, 
+              ’ALL’, N, WORKL, 4*N, WORKD, IPARAM, IPIV, 
+              AX, RESID, INFO)
+    ...
+END
+```
+
+These two routines use the SAUPD subroutine of the ARPACK library which is used for communication to solve the eigenvalue problem.
+
+To run your program that uses ARPACK, you'll need to link it with the ARPACK library when you compile it. The command for this might look something like:
+
+```bash
+gfortran MYPROGRAM.f -L/usr/local/lib -larpack -o MYPROGRAM
+```
+
+Then you can run your program with a command such as:
+
+```bash
+./MYPROGRAM < input.dat
+```
+
+Where "input.dat" is your file with the matrix data and other parameters.

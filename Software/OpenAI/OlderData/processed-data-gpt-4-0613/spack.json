@@ -1,0 +1,19 @@
+{
+    "software": "Spack",
+    "resources": {
+        "softwareHomepage": "https://spack.io/",
+        "documentation": "https://spack.io/documentation/",
+        "tutorials": [
+            {
+                "title": "Spack Tutorial",
+                "url": "https://spack-tutorial.readthedocs.io/"
+            }
+        ],
+        "trainingMaterials": [
+            {
+                "title": "Spack YouTube Channel",
+                "url": "https://www.youtube.com/channel/UCPKxM87nX9txs4OEZR7gtMA"
+            }
+        ]
+    }
+}

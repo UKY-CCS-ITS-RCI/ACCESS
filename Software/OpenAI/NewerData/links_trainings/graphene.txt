@@ -1,0 +1,12 @@
+{
+  "graphene": {
+    "softwarePage": "https://graphene-python.org/",
+    "documentation": "https://docs.graphene-python.org/en/latest/",
+    "tutorialMaterials": [
+      "https://docs.graphene-python.org/en/latest/quickstart/",
+      "https://www.howtographql.com/graphql-python/0-introduction/",
+      "https://github.com/graphql-python/graphene/wiki",
+      "https://blog.apollographql.com/the-anatomy-of-a-graphql-query-6dffa9e9e747"
+    ]
+  }
+}

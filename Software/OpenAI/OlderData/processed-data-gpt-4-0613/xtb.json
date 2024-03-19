@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "XTB": 
+    { 
+      "URL": "https://xtb-docs.readthedocs.io/en/latest/",
+      "Documentation": "https://xtb-docs.readthedocs.io/en/latest/contents.html",
+      "Tutorials": 
+      [
+        {
+          "Getting Started with XTB": "https://xtb-docs.readthedocs.io/en/latest/gfnff.html"
+        },
+        {
+          "Advanced XTB Tutorials": "https://xtb-docs.readthedocs.io/en/latest/advanced.html"
+        },
+        {
+          "XTB Program Overview": "https://xtb-docs.readthedocs.io/en/latest/program_overview.html"
+        },
+        {
+          "XTB Tutorial on Predicting Properties": "https://xtb-docs.readthedocs.io/en/latest/comparison.html"
+        }
+      ]
+    }
+  }
+}

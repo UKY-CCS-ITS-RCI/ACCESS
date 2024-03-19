@@ -1,0 +1,25 @@
+Use Case: Use Qt for developing multi-platform applications and GUIs;
+
+Code details and examples: Code
+
+Below is a simple example of a Qt application in C++. An application in Qt is defined by subclassing QApplication, a GUI is built by subclassing a QWidget and a button can be created using QPushButton.
+
+```c++
+#include <QApplication>
+#include <QPushButton>
+
+int main(int argc, char **argv)
+{
+ QApplication app (argc, argv);
+
+ QPushButton button ("Hello world !");
+ button.show();
+
+ return app.exec();
+}
+```
+
+To run this application, save it to a .cpp file, compile it with g++, and run the resulting executable. You'll need to have the Qt development libraries installed.
+
+Compilation command: `g++ main.cpp -o app -lQt5Core -lQt5Gui -lQt5Widgets`
+Running command: `./app`

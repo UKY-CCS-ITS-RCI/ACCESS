@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "Remora",
+  "Homepage": "https://github.com/TACC/remora",
+  "Resources": {
+    "Documentation": "https://github.com/TACC/remora",
+    "Tutorials": [
+      "https://www.tacc.utexas.edu/news/tacc-releases-remora-tool",
+      "https://portal.tacc.utexas.edu/software/remora"
+    ],
+    "TrainingMaterial": [
+      "https://www.youtube.com/watch?v=fFSmBXT2ea4",
+      "https://training.oit.duke.edu/enroll/common/show/21/173341"
+    ]
+  }
+}

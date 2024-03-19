@@ -1,0 +1,21 @@
+{
+  "Software Name": "virtualenv",
+  "Software Link": "https://virtualenv.pypa.io/en/latest/",
+  "Documentation": "https://virtualenv.pypa.io/en/latest/user_guide.html",
+  "Training and Tutorial materials": [
+    {
+      "Tutorial-1": {
+        "Title": "Python Virtual Environments Tutorial",
+        "Link": "https://www.datacamp.com/community/tutorials/virtual-environment-in-python"
+      },
+      "Tutorial-2": {
+        "Title": "Python Virtual Environments (venv, virtualenv and conda)",
+        "Link": "https://ai-geek.co.uk/tutorials/python-virtual-environments/"
+      },
+      "Tutorial-3": {
+        "Title": "Introduction to Python Virtual Environments",
+        "Link": "https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/"
+      }
+    }
+  ]
+}

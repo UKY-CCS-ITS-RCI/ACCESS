@@ -1,0 +1,12 @@
+{
+  "mothur": {
+    "software_url": "https://www.mothur.org/",
+    "documentation_url": "https://mothur.org/wiki/commands/",
+    "tutorial_links": {
+      "Tutorial_mothur_miSeq_SOP": "https://mothur.org/wiki/miseq_sop/",
+      "Getting_started_tutorial": "https://mothur.org/wiki/getting.started/",
+      "Tutorial_Otus_16S": "https://mothur.org/wiki/otus_16s/",
+      "Training_material_KSUbioinformatics": "https://bioinformatics.k-state.edu/software/mothur/"
+    }
+  }
+}

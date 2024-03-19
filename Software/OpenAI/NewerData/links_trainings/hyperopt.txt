@@ -1,0 +1,12 @@
+{
+  "Hyperopt": {
+    "SoftwareURL": "http://hyperopt.github.io/hyperopt/",
+    "Documentation": "https://hyperopt.github.io/hyperopt/",
+    "TutorialsAndResources": {
+      "Hyperopt Tutorial on Kaggle": "https://www.kaggle.com/yassinealouini/hyperopt-the-tutorial",
+      "Hyperopt Tutorial on TowardsDataScience": "https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a",
+      "Hyperopt on Github": "https://github.com/hyperopt/hyperopt/wiki/FMin",
+      "Youtube Tutorial": "https://www.youtube.com/watch?v=GJBOMWpLpTQ"
+    }
+  }
+}

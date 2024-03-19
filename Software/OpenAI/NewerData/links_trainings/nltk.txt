@@ -1,0 +1,20 @@
+{
+  "nltk": {
+    "software_page": "https://www.nltk.org/",
+    "documentation": "https://www.nltk.org/api/nltk.html",
+    "training_materials": [
+      {
+        "name": "NLTK book",
+        "url": "https://www.nltk.org/book/"
+      },
+      {
+        "name": "NLTK tutorial on medium",
+        "url": "https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b"
+      },
+      {
+        "name": "NLTK YouTube tutorial",
+        "url": "https://www.youtube.com/watch?v=vyOgWhwUmec"
+      }
+    ]
+  }
+}

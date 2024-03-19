@@ -1,0 +1,23 @@
+{
+    "software_name": "OpenFOAM",
+    "software_page": "https://www.openfoam.com",
+    "documentation": [
+        {
+            "link": "https://www.openfoam.com/documentation/"
+        }
+    ],
+    "tutorial_materials": [
+        {
+            "link": "https://www.openfoam.com/documentation/tutorial-guide/tutorialse1.php"
+        },
+        {
+            "link": "https://github.com/OpenFOAM/OpenFOAM-8/tree/master/tutorials"
+        },
+        {
+            "link": "https://www.cfd-online.com/Forums/openfoam/"
+        },
+        {
+            "link": "https://openfoamwiki.net/index.php/Main_Page"
+        }
+    ]
+}

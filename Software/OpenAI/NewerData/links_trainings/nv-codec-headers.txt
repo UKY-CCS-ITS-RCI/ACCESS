@@ -1,0 +1,12 @@
+{
+  "nv-codec-headers": {
+    "softwarePage": "https://github.com/FFmpeg/nv-codec-headers",
+    "documentation": [
+      "https://www.ffmpeg.org/doxygen/trunk/index.html"
+    ],
+    "trainingMaterials": [
+      "https://trac.ffmpeg.org/wiki",
+      "https://www.ffmpeg.org/documentation.html"
+    ]
+  }
+}

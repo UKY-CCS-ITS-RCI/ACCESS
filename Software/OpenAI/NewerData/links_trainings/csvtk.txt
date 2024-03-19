@@ -1,0 +1,9 @@
+{
+  "software_name": "csvtk",
+  "software_page": "https://github.com/shenwei356/csvtk",
+  "additional_links": {
+    "documentation": "https://bioinf.shenwei.me/csvtk/usage/",
+    "tutorial": "https://github.com/shenwei356/csvtk#examples",
+    "training_materials": "https://bioinf.shenwei.me/csvtk/tutorial/"
+  }
+}

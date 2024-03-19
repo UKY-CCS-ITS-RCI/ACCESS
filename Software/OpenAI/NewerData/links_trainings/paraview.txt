@@ -1,0 +1,19 @@
+{
+  "software_name": "Paraview",
+  "software_url": "https://www.paraview.org/",
+  "documentation_url": "https://docs.paraview.org/en/latest/",
+  "tutorial_materials": [
+    {
+      "name": "Getting Started with Paraview",
+      "url": "https://www.paraview.org/Wiki/ParaView"
+    },
+    {
+      "name": "Paraview Tutorial YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLZ-ynb_dY06Ilo2PO0Oh1tGVB2xVhgify"
+    },
+    {
+      "name": "Kitware tutorial",
+      "url": "https://www.kitware.com/products/paraview-tutorial/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+
+{
+  "AOCC": {
+    "software_page": "https://developer.amd.com/amd-aocc/",
+    "documentation": "https://developer.amd.com/wp-content/resources/56345.pdf",
+    "training_materials": [
+      {
+        "title": "AMD Optimizing C/C++ Compiler User Guide",
+        "url": "https://developer.amd.com/wp-content/resources/56345.pdf"
+      },
+      {
+        "title": "AOCC Compiler suite",
+        "url": "https://developer.amd.com/amd-aocc/"
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,14 @@
+{
+    "software": "LVM2",
+    "resources": {
+        "softwareHomepage": "https://sourceware.org/lvm2/",
+        "documentation": "https://sourceware.org/lvm2/",
+        "tutorials": [
+            {
+                "title": "A Beginner's Guide To LVM",
+                "url": "https://www.howtoforge.com/linux_lvm"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

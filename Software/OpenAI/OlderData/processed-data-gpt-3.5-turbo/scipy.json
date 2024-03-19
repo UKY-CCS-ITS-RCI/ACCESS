@@ -1,0 +1,20 @@
+{
+  "software": "SciPy",
+  "comprehensive_overview": "SciPy is an open-source scientific computing library in Python that provides a wide range of mathematical and numerical routines for scientific and engineering applications. It builds on NumPy and includes modules for optimization, integration, interpolation, signal processing, and more.",
+  "core_features": [
+    "Mathematical routines",
+    "Numerical computation",
+    "Scientific computing tools"
+  ],
+  "general_tags": [
+    "scientific computing",
+    "mathematics",
+    "Python library"
+  ],
+  "additional_tags": {
+    "research_discipline": "Computer Science",
+    "research_area": "Scientific Computing",
+    "software_class": "Library",
+    "software_type": "Computational Tool"
+  }
+}

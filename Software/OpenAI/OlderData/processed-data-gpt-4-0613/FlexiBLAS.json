@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "FlexiBLAS": {
+      "MainPage": "https://www.mpi-magdeburg.mpg.de/projects/flexiblas",
+      "Documentation": "https://www.mpi-magdeburg.mpg.de/projects/flexiblas/docs",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=4p-Zz3lruk4",
+        "https://publikationsserver.tu-braunschweig.de/receive/dbbs_mods_00057350",
+        "https://www.mpi-magdeburg.mpg.de/csc"
+      ]
+    }
+  }
+}

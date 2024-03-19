@@ -1,0 +1,20 @@
+Use Case: The Zsh shell is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting. Zsh is noted for its interactive features and well-implemented job control.
+
+Code Details and Examples: The basic command for running a script file created in zsh is similar to bash. 
+
+Code:
+```
+#!/bin/zsh
+# This is a comment
+echo "Hello, World!"
+```
+
+This can be done by declaring the command-line interpreter at the very top of the file, followed by commands as you'd write in the terminal.
+To run your script, firstly you should set it as executable using `chmod +x scriptname.zsh`. Then you can run it with `./scriptname.zsh`.
+
+Also, to start zsh at login, you can add this line to your `.bash_profile` or `.bashrc`:
+```
+exec zsh
+```
+
+This will start up zsh whenever you start a new Terminal session. You will not need to install anything new or change your current setup to use Zsh.

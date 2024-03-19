@@ -1,0 +1,9 @@
+{
+  "software": "blosc2",
+  "software_url": "https://github.com/Blosc/c-blosc2",
+  "additional_links": {
+    "documentation": "https://c-blosc2.readthedocs.io/",
+    "tutorial": "https://blosc.org/posts/new-promising-compression-ratio-benchmarks/",
+    "training_materials": "https://c-blosc2.readthedocs.io/en/latest/source/README.html"
+  }    
+}

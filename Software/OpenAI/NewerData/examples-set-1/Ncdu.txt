@@ -1,0 +1,24 @@
+Use Case: Ncdu (NCurse Disk Usage) is a command-line tool used to find the directories and files that take up the most disk space on a Unix-like operating system. It is designed to offer a fast way to scan the file system, and let the users browse the disk usage statistics in a friendly interface.
+
+Code details and examples: Code 
+
+Considering the root filesystem as an example:
+
+Command to run ncdu:
+
+```bash
+ncdu /
+```
+
+In this case, the input is the path we want to scan, represented by "/". The tool then recursively scans the filesystem from that path, building up a representation of the disk usage of each file and directory.
+After scanning, it presents an interactive interface where you can explore the directories that take up the most space.
+
+Please note that running `ncdu` with a directory that contains many files can take a long time to finish as it needs to get the size for each file. This is true especially for '/'. A better use would be specifying a directory like `/var` instead of `/`
+
+Please also note that you need the right permissions to inspect some directories. Running ncdu with superuser (sudo) permissions can check for these directories:
+
+```bash
+sudo ncdu /
+```
+
+But please be very careful when running commands with superuser permissions!

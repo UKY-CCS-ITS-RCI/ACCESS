@@ -1,0 +1,14 @@
+
+{
+    "name": "MARS",
+    "software_page": "http://courses.missouristate.edu/kenvollmar/mars/",
+    "documentation": "http://courses.missouristate.edu/KenVollmar/MARS/help/syscallhelp.html",
+    "tutorials": [
+        "http://faculty.cs.uwlax.edu/~mark.j.lesperance/CS340_Spring2021/mars_tutorial.html",
+        "https://www.youtube.com/watch?v=78_Npxf7mh4"
+    ],
+    "additional_resources": [
+        "https://en.wikipedia.org/wiki/MIPS_Architecture_Simulator",
+        "http://chortle.ccsu.edu/AssemblyTutorial/Chapter-14/ass14_3.html"
+    ]
+}

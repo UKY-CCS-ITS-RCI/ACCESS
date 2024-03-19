@@ -1,0 +1,7 @@
+{
+  "cramino": {
+    "softwareLink": "Information not available",
+    "documentation": "Information not available",
+    "trainingMaterials": []
+  }
+}

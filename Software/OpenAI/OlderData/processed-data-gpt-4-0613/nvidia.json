@@ -1,0 +1,36 @@
+{
+  "software": "NVIDIA",
+  "website": "https://www.nvidia.com/",
+  "documentation": [
+    {
+      "title": "NVIDIA Developer Documentation",
+      "url": "https://developer.nvidia.com/developer-documentation"
+    },
+    {
+      "title": "NVIDIA GPU Documentation",
+      "url": "https://docs.nvidia.com/cuda/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "NVIDIA Deep Learning Institute",
+      "url": "https://www.nvidia.com/en-us/deep-learning-ai/education/"
+    },
+    {
+      "title": "NVIDIA Developer Program",
+      "url": "https://developer.nvidia.com/developer-program"
+    },
+    {
+      "title": "NVIDIA AI and Deep Learning Course Catalog",
+      "url": "https://www.nvidia.com/en-us/training/catalog/"
+    },
+    {
+      "title": "NVIDIA CUDA Tutorials",
+      "url": "https://developer.nvidia.com/cuda-education"
+    },
+    {
+      "title": "Introduction to CUDA Programming",
+      "url": "https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+"Graphite2": {
+    "software_page": "https://github.com/silnrsi/graphite",
+    "documentation_links": {
+        "API Documentation": "https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_api",
+        "Developer Documentation": "https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_developer"
+    },
+    "training_and_tutorial_materials": {
+        "Getting Started with Graphite": "http://scriptsource.org/cms/scripts/page.php?item_id=using_graphite"
+    }
+}
+}

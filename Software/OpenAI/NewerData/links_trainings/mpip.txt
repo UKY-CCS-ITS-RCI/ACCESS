@@ -1,0 +1,11 @@
+{
+  "mpip": {
+    "software_page": "https://github.com/junfeng99/mpip",
+    "documentation": "https://llvm.org/docs/GettingStarted.html",
+    "tutorial_materials": [
+      "https://www.youtube.com/watch?v=EOs0tGcb_OY",
+      "https://www.intel.com/content/www/us/en/developer/tools/mpi/ioss/overview.html",
+      "https://www.inf.ed.ac.uk/teaching/courses/pa/2016_2017/assets/mpi/mpi-1-c-slides.pdf"
+    ]
+  }
+}

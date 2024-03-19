@@ -1,0 +1,16 @@
+{
+  "software": {
+    "name": "Inspector",
+    "software_url": "https://software.intel.com/content/www/us/en/develop/tools/inspector.html",
+    "documentation": "https://software.intel.com/content/www/us/en/develop/documentation/inspector-user-guide-windows/top.html",
+    "tutorial": [
+      {
+        "tutorial_name": "Getting Started with Intel Inspector",
+        "url": "https://software.intel.com/content/www/us/en/develop/documentation/get-started-with-inspector/top.html"
+      },
+      {
+        "tutorial_name": "Tutorial: Find Memory Leaks",
+        "url": "https://software.intel.com/content/www/us/en/develop/documentation/inspector-user-guide-windows/top/debugging-with-the-intel-inspector/debugging-a-memory-error/debugging-a-memory-leak.html"
+      }]
+  }
+}

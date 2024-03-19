@@ -1,0 +1,21 @@
+{
+  "name": "Snap",
+  "software_url": "https://snap.stanford.edu/index.html",
+  "documentation_url": "https://snap.stanford.edu/snappy/doc/index.html",
+  "tutorial_urls": [
+    {
+      "name": "Snap.py Tutorial",
+      "url": "https://snap.stanford.edu/snappy/doc/tutorial/index-tut.html"
+    },
+    {
+      "name": "Google Group for Snap.py",
+      "url": "https://groups.google.com/forum/#!forum/snap-stanford"
+    }
+  ],
+  "training_materials": [
+    {
+      "name": "Snap Course Slides",
+      "url": "https://snap.stanford.edu/class/cs224w-2019/materials.html"
+    }
+  ]
+}

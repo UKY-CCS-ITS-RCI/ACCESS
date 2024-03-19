@@ -1,0 +1,14 @@
+{
+  "glpk": {
+    "software_page": "https://www.gnu.org/software/glpk/",
+    "documentation": [
+      "https://www.gnu.org/software/glpk/glpk.html",
+      "https://en.wikibooks.org/wiki/GLPK/Documentation"
+    ],
+    "training_and_tutorials": [
+      "https://en.wikibooks.org/wiki/GLPK",
+      "https://www.ibm.com/support/knowledgecenter/SSSA5P_12.7.0/ilog.odms.ide.help/OPL_Studio/opllanguser/topics/opl_languser_glpk.html",
+      "https://www.youtube.com/watch?v=zF8yhiDc8sw"
+    ]
+  }
+}

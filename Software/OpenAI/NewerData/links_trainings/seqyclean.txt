@@ -1,0 +1,15 @@
+{
+  "seqyclean": {
+    "software_page": "https://github.com/ibest/seqyclean",
+    "documentation": [
+      "https://github.com/ibest/seqyclean/blob/master/README.md"
+    ],
+    "tutorials": [
+      "https://github.com/ibest/HTStream/wiki"
+    ],
+    "training_materials": [
+      "https://bioinformatics.uconn.edu/seqyclean-a-galaxy-tool/",
+      "https://github.com/ibest/HTStream/wiki"
+    ]
+  }
+}

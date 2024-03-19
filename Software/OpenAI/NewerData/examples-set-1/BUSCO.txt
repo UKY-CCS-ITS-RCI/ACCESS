@@ -1,0 +1,32 @@
+Use Case: BUSCO (Benchmarking Universal Single-Copy Orthologs) is a quality assessment tool for genomic and annotated data. It's predominantly used for measuring the completeness of the assembled genome, transcriptome, or proteome in terms of their expected gene content.
+
+Code Details and Example: 
+
+Code: The BUSCO assessment is performed by running the program by providing it the genome file and the lineage dataset. Here is an example command:
+
+```bash
+busco -i input.fasta -o output_dir -l lineage_dataset
+```
+
+Sample Input File: The primary input for BUSCO is genome sequence data provided in a FASTA format. 
+
+```
+>seq1
+AACTAGGTACCGTTGAGATCGATCGATG
+>seq2
+AGCTAGCTAGCTAGCTAGCTAGTAGCTAGT
+>seq3
+ACGTACGTAGCTAGTAGCTGACTAGCATG
+```
+
+Format Required: FASTA file format.
+
+Specifications & Details in Input Files: The input genome sequence data should be in the .fasta format having sequence identifier starting with ">" followed by sequence data in the new line.
+
+Command to run them: 
+
+```bash
+busco -i genome.fasta -o busco_out -l bacteria_odb9
+``` 
+
+This command runs BUSCO on the genome.fasta file, creates an output folder named busco_out, and uses the bacteria lineage dataset for comparison.

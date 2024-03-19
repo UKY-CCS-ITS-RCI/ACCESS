@@ -1,0 +1,15 @@
+{
+  "name": "ngs-bits",
+  "software_page": "https://github.com/imgag/ngs-bits",
+  "documentation": "https://github.com/imgag/ngs-bits/blob/master/README.md",
+  "training_materials": [
+    {
+      "name": "imgag/ngs-bits GitHub Tutorials",
+      "url": "https://github.com/imgag/ngs-bits#quick-start"
+    },
+    {
+      "name": "imgag/ngs-bits GitHub FAQ",
+      "url": "https://github.com/imgag/ngs-bits/blob/master/doc/FAQ.md"
+    }
+  ]
+}

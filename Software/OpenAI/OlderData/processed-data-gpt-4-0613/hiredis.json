@@ -1,0 +1,32 @@
+{
+  "software": "hiredis",
+  "category": "library",
+  "link": "https://github.com/redis/hiredis",
+  "documentation": "https://redis.io/topics/introduction",
+  "tutorials": [
+    {
+      "title": "Introduction to Redis",
+      "link": "https://redis.io/topics/introduction"
+    },
+    {
+      "title": "Redis Command Reference",
+      "link": "https://redis.io/commands"
+    },
+    {
+      "title": "The Little Redis Book",
+      "link": "http://openmymind.net/2012/1/23/The-Little-Redis-Book/"
+    },
+    {
+      "title": "Getting Started with Redis",
+      "link": "https://app.datacamp.com/community/tutorials/redis-python-getting-started"
+    },
+    {
+      "title": "Redis Crash Course Tutorial",
+      "link": "https://www.youtube.com/watch?v=Hbt56gFj998"
+    },
+    {
+      "title": "Redis in Action",
+      "link": "https://www.manning.com/books/redis-in-action"
+    }
+  ]
+}

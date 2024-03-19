@@ -1,0 +1,14 @@
+{
+  "Software": "golang",
+  "Description": "Go, also known as Golang, is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
+  "Official_Webpage": "https://golang.org/",
+  "Documentation_Webpage": "https://golang.org/doc/",
+  "Tutorial_Materials": {
+    "1": "https://golang.org/doc/tutorial/getting-started",
+    "2": "https://www.tutorialspoint.com/go/index.htm",
+    "3": "https://www.w3schools.com/go/default.asp",
+    "4": "https://gobyexample.com/",
+    "5": "https://www.learn-golang.org/",
+    "6": "https://www.youtube.com/playlist?list=PLSak_q1UXfPp2VwUQ4ZdUVJdMO6pfi5v_"
+  }
+}

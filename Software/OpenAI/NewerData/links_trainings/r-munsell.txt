@@ -1,0 +1,17 @@
+{
+    "Software": "R-Munsell",
+    "Details": 
+    {
+        "Software_URL": "https://rdrr.io/cran/munsell/",
+        "Documentation": 
+        [
+           "https://www.rdocumentation.org/packages/munsell/versions/0.5.0",
+           "https://rdrr.io/cran/munsell/man/munsell.html"
+        ],
+        "Tutorial_and_Training": 
+        [
+           "https://www.cs.colostate.edu/~anderson/wp/2017/03/15/r-function-for-converting-colors-in-munsell-color-space/",
+           "https://rpubs.com/Koundy/colMisclassification"
+        ]
+    }
+}

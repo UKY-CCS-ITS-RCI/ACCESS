@@ -1,0 +1,28 @@
+{
+  "software_name": "Kraken2",
+  "software_link": "https://ccb.jhu.edu/software/kraken2/index.shtml?t=downloads",
+  "software_type": "Bioinformatics",
+  "documentation_link": "https://ccb.jhu.edu/software/kraken2/index.shtml?t=manual",
+  "training_materials": [
+    {
+      "name": "Kraken2 GitHub",
+      "link": "https://github.com/DerrickWood/kraken2"
+    },
+    {
+      "name": "Kraken2 tutorial",
+      "link": "https://bioinformatics.uconn.edu/kraken2/"
+    },
+    {
+      "name": "Introduction to Kraken2",
+      "link": "https://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html"
+    },
+    {
+      "name": "Kraken2 on Galaxy Platform",
+      "link": "https://usegalaxy.org/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/kraken2/kraken2/2.0.8_beta"
+    },
+    {
+      "name": "Kraken2 tutorial on YouTube",
+      "link": "https://www.youtube.com/watch?v=hDt7txWYSiw"
+    }
+  ]
+}

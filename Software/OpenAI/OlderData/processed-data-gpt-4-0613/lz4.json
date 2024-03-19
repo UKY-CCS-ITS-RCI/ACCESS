@@ -1,0 +1,14 @@
+{
+    "software": "LZ4",
+    "resources": {
+        "softwareHomepage": "https://lz4.github.io/lz4/",
+        "documentation": "https://lz4.github.io/lz4/",
+        "tutorials": [
+            {
+                "title": "LZ4 Compression and Decompression in Java",
+                "url": "https://www.baeldung.com/java-lz4"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

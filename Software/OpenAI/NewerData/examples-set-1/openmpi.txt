@@ -1,0 +1,49 @@
+Use Case: OpenMPI is a computer software library package used primarily for performing parallel computations across multiple processor cores and/or separate computer nodes.
+
+Code details and examples: Code
+
+OpenMPI provides MPI-2 standard support, including dynamic process creation and network fault tolerance, which are either currently unavailable or not fully supported by other open-source MPI libraries.
+
+OpenMPI is general-purpose and can be used with any program written in C/C++ or Fortran that adheres to the MPI standard.
+
+Here is an example MPI program (hello world) written in C and OpenMPI:
+
+```c
+#include <mpi.h>
+#include <stdio.h>
+
+int main(int argc, char** argv) {
+    // Initialize the MPI environment
+    MPI_Init(NULL, NULL);
+
+    // Get the number of processes
+    int world_size;
+    MPI_Comm_size(MPI_COMM_WORLD, &world_size);
+
+    // Get the rank of the process
+    int world_rank;
+    MPI_Comm_rank(MPI_COMM_WORLD, &world_rank);
+
+    // Get the name of the processor
+    char processor_name[MPI_MAX_PROCESSOR_NAME];
+    int name_len;
+    MPI_Get_processor_name(processor_name, &name_len);
+
+    // Print off a hello world message
+    printf("Hello world from processor %s, rank %d out of %d processors\n",
+           processor_name, world_rank, world_size);
+
+    // Finalize the MPI environment.
+    MPI_Finalize();
+}
+```
+
+To compile this example, you could use the OpenMPI 'mpicc' wrapper compiler:
+
+`$ mpicc helloworld.c -o helloworld`
+
+This produces an executable file called 'helloworld'. To run this program with OpenMPI you would use the 'mpirun' command like so:
+
+`$ mpirun -np 4 ./helloworld`
+
+The '-np 4' argument tells OpenMPI to run the program on 4 processor cores. If you don't specify this argument, OpenMPI will default to running the program on a single core.

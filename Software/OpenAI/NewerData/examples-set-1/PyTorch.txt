@@ -1,0 +1,38 @@
+Use Case: PyTorch is a machine learning library used for applications such as natural language processing. It is primarily developed by Facebook's artificial intelligence research group, and Uber's Pyro software for probabilistic programming is built on it. 
+
+It is free and open-source software released under the Modified BSD license. PyTorch provides two high-level features:
+
+- Tensor computing with strong acceleration via graphics processing units (GPU)
+- Deep neural networks built on a tape-based autograd system
+
+Code details and examples:
+
+Code:
+
+```
+import torch
+
+# Construct a uninitialized matrix
+x = torch.empty(2, 3)
+print(x)
+
+# Construct a randomly initialized matrix
+x = torch.rand(2, 3)
+print(x)
+
+# Construct a matrix filled with zeros and of dtype long (Integer)
+x = torch.zeros(2, 3, dtype=torch.long)
+print(x)
+
+# Create a tensor directly from data
+x = torch.tensor([2.5, 0.1])
+print(x)
+```
+In this code, different kinds of tensors are being initialized and printed.
+
+Command to run a Pytorch Python file is simply:
+
+```
+python filename.py
+```
+Make sure that correct Python environment containing PyTorch is used.

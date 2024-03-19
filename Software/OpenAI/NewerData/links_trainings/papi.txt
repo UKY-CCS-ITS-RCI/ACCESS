@@ -1,0 +1,9 @@
+{
+  "software": "PAPI",
+  "product_url": "http://icl.utk.edu/papi/index.html",
+  "Additional_links": {
+      "documentation_url": "http://icl.cs.utk.edu/papi/docs/",
+      "tutorial_url": "http://icl.utk.edu/papi/software/pages.html",
+      "training_materials_url": "http://icl.cs.utk.edu/papi/resources/pages.html"
+  }
+}

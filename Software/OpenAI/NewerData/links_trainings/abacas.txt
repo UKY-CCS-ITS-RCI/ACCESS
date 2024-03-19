@@ -1,0 +1,9 @@
+{
+  "Software Name": "abacas",
+  "Software Page": "http://abacas.sourceforge.net/",
+  "Documentation": "http://abacas.sourceforge.net/manual.html",
+  "Training and Tutorial": [
+    "https://sourceforge.net/p/abacas/mailman/message/29106286/",
+    "http://seqanswers.com/forums/showthread.php?t=3775"
+  ]
+}

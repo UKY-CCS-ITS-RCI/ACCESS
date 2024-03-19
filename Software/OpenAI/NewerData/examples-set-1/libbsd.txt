@@ -1,0 +1,27 @@
+Use Case: libbsd is a utility library that provides useful functions commonly found on BSD systems, and lacking on others like glibc systems, thus enhancing portability. Its functionality includes network functions, string functions, stdio functions, memory functions, time functions, and others. 
+
+Code Details and Examples:
+
+Code:
+```c
+#include <bsd/stdlib.h>
+
+int main(int argc, char *argv[]) {
+  char *p = arc4random_buf(20);
+  /* ... */
+  free(p);
+  return 0;
+}
+```
+In this example, we are using the arc4random_buf function from libbsd to generate random values into a buffer.
+
+To compile this code, you need to pass -lbsd to the compiler to link against libbsd:
+
+```
+gcc -o test test.c -lbsd
+```
+
+For running:
+```
+./test
+```

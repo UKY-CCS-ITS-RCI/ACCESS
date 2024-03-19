@@ -1,0 +1,32 @@
+{
+  "software": [
+    {
+      "name": "libreadline",
+      "software_url": "https://tiswww.case.edu/php/chet/readline/rltop.html",
+      "documentation": [
+        {
+          "url": "https://tiswww.case.edu/php/chet/readline/readline.html"
+        }
+      ],
+      "training": [
+        {
+          "url": "https://tiswww.case.edu/php/chet/readline/rluserman.html"
+        },
+        {
+          "url": "https://www.gnu.org/software/bash/manual/html_node/Readline.html"
+        },
+        {
+          "url": "https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Readline-Interaction"
+        }
+      ],
+      "tutorial": [
+        {
+          "url": "https://www.ibm.com/docs/en/i/7.3?topic=apis-readline-library"
+        },
+        {
+          "url": "https://cnswww.cns.cwru.edu/php/chet/readline/rluserman.html#SEC_Top"
+        }
+      ]
+    }
+  ]
+}

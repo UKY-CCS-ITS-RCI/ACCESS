@@ -1,0 +1,19 @@
+{
+  "Software Name": "mujoco-py",
+  "Software Page": "https://github.com/openai/mujoco-py",
+  "Documentation": "https://openai.github.io/mujoco-py/build/html/index.html",
+  "Training and Tutorial Materials": [
+    {
+      "Title": "Installation tutorial",
+      "URL": "https://github.com/openai/mujoco-py#install-mujoco"
+    },
+    {
+      "Title": "Python API Reference",
+      "URL": "https://openai.github.io/mujoco-py/build/html/reference.html"
+    },
+    {
+      "Title": "Tutorial on getting started with MuJoCo in Python",
+      "URL": "https://spinningup.openai.com/en/latest/user/mujoco.html"
+    }
+  ]
+}

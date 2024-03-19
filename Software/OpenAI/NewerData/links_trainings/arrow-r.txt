@@ -1,0 +1,29 @@
+{
+  "software": "arrow-r",
+  "website": "https://arrow.apache.org/docs/r/",
+  "documentation_url": "https://arrow.apache.org/docs/r/",
+  "tutorial_links": [
+    {
+      "title": "Getting started with Apache Arrow in R",
+      "url": "https://arrow.apache.org/docs/r/articles/getting_started.html"
+    },
+    {
+      "title": "Apache Arrow and R datasets",
+      "url": "https://arrow.apache.org/docs/r/articles/dataset.html"
+    },
+    {
+      "title": "Apache Arrow R Flight tutorial",
+      "url": "https://arrow.apache.org/docs/r/articles/flight.html"
+    }
+  ],
+  "training_materials": [
+    {
+      "title": "Learning to use Apache Arrow and R with Big Data",
+      "url": "https://www.youtube.com/watch?v=eXakSxaYGtA"
+    },
+    {
+      "title": "Apache Arrow and R: A Hands-On Guide",
+      "url": "https://towardsdatascience.com/apache-arrow-and-r-a-hands-on-guide-fd8c44c18f29"
+    }
+  ]
+}

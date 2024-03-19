@@ -1,0 +1,10 @@
+{
+  "Launcher": {
+    "Software_page": "https://github.com/TACC/launcher",
+    "Documentation": "https://github.com/TACC/launcher#readme",
+    "Training_materials": [
+      "https://www.nics.tennessee.edu/wp-content/uploads/2011/12/LauncherUserGuide.pdf",
+      "https://sites.google.com/a/case.edu/hpc-upgraded-cluster/home/Software-Guide/launcher"
+    ]
+  }
+}

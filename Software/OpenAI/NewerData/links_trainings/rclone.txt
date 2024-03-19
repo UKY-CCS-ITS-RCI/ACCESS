@@ -1,0 +1,17 @@
+{
+    "softwareName": "rclone",
+    "softwarePageLink": "https://rclone.org/",
+    "additionalLinks": {
+        "documentationLink": "https://rclone.org/docs/",
+        "tutorialLinks": {
+            "rcloneTutorial1": "https://www.youtube.com/watch?v=bn0oPZajZoE",
+            "tutorialPage": "https://www.mankier.com/1/rclone#Tutorials",
+            "dataPipimerTutorial": "https://www.data-pipeline.org/tutorial/rclone"
+        },
+        "trainingMaterials": {
+            "courseraCourse": "https://www.coursera.org/projects/data-transfer-rclone",
+            "udemyCourse": "https://www.udemy.com/course/rclone/home/",
+            "skillshareCourse": "https://www.skillshare.com/classes/rclone-masterclass-data-transfer"
+        }
+    }
+}

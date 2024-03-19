@@ -1,0 +1,13 @@
+{
+  "cudacore": {
+    "software_url": "https://developer.nvidia.com/cuda-gpus",
+    "documentation_url": "https://docs.nvidia.com/cuda/",
+    "tutorial_materials": {
+      "An Introduction to CUDA Programming": "https://www.nvidia.com/en-us/about-nvidia/careers/what-is-cuda/",
+      "CUDA Programming Guide": "https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html",
+      "CUDA Tutorials on Udacity": "https://www.udacity.com/course/intro-to-parallel-programming--cs344",
+      "CUDA Basic Tutorials": "https://cuda-tutorial.readthedocs.io/en/latest/",
+      "NVIDIA's CUDA Learning Resources": "https://developer.nvidia.com/cuda-education"
+    }
+  }
+}

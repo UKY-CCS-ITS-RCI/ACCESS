@@ -1,0 +1,14 @@
+{
+   "Software Package": {
+      "arrow": {
+         "Software Page": "https://arrow.apache.org/",
+         "Documentation": "https://arrow.apache.org/docs/python/",
+         "Training and Tutorial Materials":{
+            "Arrow Tutorial 1":"https://learn.datacamp.com/courses/streamlined-data-ingestion-with-pandas",
+            "Arrow Tutorial 2":"https://arrow.apache.org/docs/python/tutorials.html",
+            "Arrow and PySpark Tutorial":"https://databricks.com/session/accelerating-pyspark-with-pyarrow-an-under-the-hood-look",
+            "Arrow Video Tutorial":"https://www.youtube.com/watch?v=LhnM5Retmi4"
+         }
+      }
+   }
+}

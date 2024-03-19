@@ -1,0 +1,59 @@
+Use Case: ibrun is a wrapper script typically used on high performance computing (HPC) environments to run parallel programs which use MPI (Message Passing Interface) for communication between processes. Here, an MPI program written in C is profiled.
+
+Code details and examples:
+
+Code:
+
+1. Create a sample MPI program written in C, say hello_world_mpi.c as follows:
+
+   ```c
+   #include <mpi.h>
+   #include <stdio.h>
+
+   int main(int argc, char* argv[]) {
+       MPI_Init(NULL, NULL);
+
+       int world_size;
+       MPI_Comm_size(MPI_COMM_WORLD, &world_size);
+
+       int world_rank;
+       MPI_Comm_rank(MPI_COMM_WORLD, &world_rank);
+
+       printf("Hello world from processor %d out of %d processors\n", world_rank, world_size);
+
+       MPI_Finalize();
+       return 0;
+   }
+   ```
+   
+   This sample code basically lets each processor print its rank and the total number of processors.
+
+2. Next, compile the mpi C program using the mpicc compiler as follows:
+
+   ```bash
+   mpicc -o hello_world_mpi hello_world_mpi.c
+   ```
+
+   This command compiles the code and generates an executable named `hello_world_mpi`.
+
+3. Create a job script, say job.sh which looks like the following:
+
+   ```bash
+   #!/bin/bash
+   #SBATCH -n 64
+   #SBATCH -o output.txt
+
+   ibrun ./hello_world_mpi
+   ```
+
+   This script requests 64 processors (-n 64) and writes the standard output to output.txt (-o output.txt). Ibun runs the hello_world_mpi executable.
+
+4. Then submit the job to the scheduler using sbatch command:
+
+   ```bash
+   sbatch job.sh
+   ```
+
+   This command schedules the job for execution and returns a job id.
+
+   Note that the job submission and ibrun command might differ based on the specific HPC environment and MPI version. Please refer to the specific documentations if error occurs.

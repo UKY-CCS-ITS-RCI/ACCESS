@@ -1,0 +1,10 @@
+{
+  "genmap": {
+    "software_page": "https://github.com/cpockrandt/genmap",
+    "documentation": "https://github.com/cpockrandt/genmap/tree/master/docs",
+    "tutorial_materials": [
+      { "link": "https://genomic-hashes.readthedocs.io/en/latest/quickstart.html#genomic-hashes-with-genmap" },
+      { "link": "https://github.com/cpockrandt/genmap#how-to-cite" }
+    ]
+  }
+}

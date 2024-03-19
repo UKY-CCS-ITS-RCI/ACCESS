@@ -1,0 +1,7 @@
+{
+  "Software": "nss",
+  "Website": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS",
+  "Documentation": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_Tech_Notes",
+  "Tutorials": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/tools/NSS_Tools_tutorial",
+  "Training materials": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_Sample_Code"
+}

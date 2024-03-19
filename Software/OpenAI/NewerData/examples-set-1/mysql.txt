@@ -1,0 +1,41 @@
+Use Case: Use mysql to create a database, create a table in the database, and insert data into the table.
+
+Code details and examples: Code
+
+To connect to MySQL server:
+
+```mysql -u username -p```
+
+Replace 'username' with your MySQL username. You'll be prompted for password.
+
+To create a new database:
+
+```CREATE DATABASE database_name;```
+
+Replace 'database_name' with the name of the database you want to create.
+
+To use the created database:
+
+```USE database_name;```
+
+Replace 'database_name' with the name of the database you want to use.
+
+To create a new table:
+
+```CREATE TABLE table_name (column1 datatype, column2 datatype, column3 datatype,...);```
+
+Replace 'table_name' with the name of the table you want to create. 'column1', 'column2', 'column3', etc. are the names of the columns and 'datatype' is the type of data.
+
+For example:
+
+```CREATE TABLE Employees (ID INT, Name VARCHAR(20), Age INT, Address CHAR(25));```
+
+To insert data into the table:
+
+```INSERT INTO table_name (column1, column2, column3,...) VALUES (value1, value2, value3,...);```
+
+Replace 'table_name' with the name of the table, 'column1', 'column2', 'column3', etc. with the names of the columns, and 'value1', 'value2', 'value3', etc. with the values.
+
+For example:
+
+```INSERT INTO Employees (ID, Name, Age, Address) VALUES (1, 'John', 36, '1234 Elm St');```

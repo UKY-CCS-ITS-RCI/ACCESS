@@ -1,0 +1,30 @@
+{
+  "software": "Popscle",
+  "categories": ["bioinformatics", "computational biology"],
+  "links": [
+    {
+      "type": "homepage",
+      "url": "https://github.com/statgen/popscle"
+    }, 
+    {
+      "type": "documentation",
+      "url": "https://github.com/statgen/popscle/blob/master/README.md"
+    }, 
+    {
+      "type": "tutorial",
+      "url": "https://github.com/statgen/popscle/tree/master/tool/src"
+    },
+    {
+      "type": "git download",
+      "url": "https://github.com/statgen/popscle.git"
+    },
+    {
+      "type": "conda installation",
+      "url": "https://anaconda.org/bioconda/popscle"
+    },
+    {
+      "type": "paper",
+      "url": "https://www.biorxiv.org/content/10.1101/615179v1"
+    }
+  ]
+}

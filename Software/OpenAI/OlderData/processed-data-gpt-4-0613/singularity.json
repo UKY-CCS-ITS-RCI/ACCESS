@@ -1,0 +1,30 @@
+{
+    "Software": "Singularity",
+    "Software Page Link": "https://sylabs.io/",
+    "Documentation": {
+        "v3.5 User Guide": "https://sylabs.io/guides/3.5/user-guide/",
+        "v3.6 User Guide": "https://sylabs.io/guides/3.6/user-guide/"
+    },
+    "Training Materials and Tutorials": [
+        {
+            "Name": "Introduction to Singularity",
+            "Link": "https://www.youtube.com/watch?v=DA87Ba2dpNM"
+        },
+        {
+            "Name": "Singularity User Guide",
+            "Link": "https://sylabs.io/guides/3.0/user-guide/"
+        },
+        {
+            "Name": "Singularity on HPC",
+            "Link": "https://sylabs.io/guides/3.0/user-guide/singularity_on_hpc.html"
+        },
+        {
+            "Name": "Singularity and Docker",
+            "Link": "https://sylabs.io/guides/3.0/user-guide/singularity_and_docker.html"
+        },
+        {
+            "Name": "Building Singularity Images",
+            "Link": "http://singularity.lbl.gov/docs-build-container"
+        }
+    ]
+}

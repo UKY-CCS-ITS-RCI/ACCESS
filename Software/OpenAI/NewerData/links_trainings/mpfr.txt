@@ -1,0 +1,23 @@
+{
+  "name": "mpfr",
+  "main_page": "https://www.mpfr.org/",
+  "documentation": [
+    {
+      "link": "https://www.mpfr.org/mpfr-current/mpfr.html"
+    }
+  ],
+  "tutorial_and_training_materials": [
+    {
+      "name": "C library for multiple-precision floating-point computations with correct rounding - GNU Project",
+      "link": "https://www.gnu.org/software/mpfr/manual/"
+    },
+    {
+      "name": "A tutorial on the use of mpfr",
+      "link": "https://fredrikj.net/math/mpfrar/doc/mpfrar_tutorial.html"
+    },
+    {
+      "name": "GitHub - aleph7/mpfr: Mirror of the official MPFR repo",
+      "link": "https://github.com/aleph7/mpfr"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+Use Case: htop is an interactive system-monitor process viewer. It is designed as an alternative to the Unix program top. It shows a frequently updated list of the processes running on a computer, sorted by the CPU usage.
+
+Code details and examples:
+
+Code:
+
+There is no need for input files or code snippets for htop, as it is a command-line tool that provides real-time monitoring. You simply launch it in the terminal using the command:
+
+```bash
+htop
+```
+
+Once htop is running, you can use your keyboard for various operations:
+- Arrows, PgUP, PgDn, Home, End: Scroll the process list.
+- Space: Tag or untag a process. Commands that can operate on multiple processes, like "kill", will then apply over the tagged processes, instead of the currently highlighted one.
+- U: Untag all processes (removes all tags added with the space key).
+- s: Trace process system calls (strace).
+- l: Display open files for a process (lsof).
+- u: Show only processes owned by a specified user.
+- H: Hide threads: if checked, all individual threads will be hidden and only process "groups" recognized by the kernel become visible.
+- K: Hide kernel threads: prevents the threads belonging the kernel to be displayed in the process list. (This is beyond the ones displaying as kthreadd and ksoftirq in Turquoise.)
+
+Output:
+
+htop generates a live output in the terminal, showing an overview of CPU and memory usage, as well as a detailed list of running processes. This output is interactive and can be controlled using various keys.

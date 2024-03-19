@@ -1,0 +1,28 @@
+{
+  "software": "OpenEXR",
+  "website": "https://www.openexr.com/",
+  "documentation": [
+    {
+      "title": "OpenEXR Documentation",
+      "url": "https://www.openexr.com/documentation.html"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Reading and Writing OpenEXR Image Files",
+      "url": "https://www.openexr.com/documentation/readingAndWritingImageFiles.pdf"
+    },
+    {
+      "title": "Introduction to OpenEXR",
+      "url": "https://www.fxguide.com/featured/openexr/"
+    },
+    {
+      "title": "Working with OpenEXR Render Passes in After Effects Tutorial",
+      "url": "https://www.youtube.com/watch?v=JfG2M5XclZc"
+    },
+    {
+      "title": "Understanding OpenEXR",
+      "url": "https://library.creativecow.net/articles/russell_paul/openexr.php"
+    }
+  ]
+}

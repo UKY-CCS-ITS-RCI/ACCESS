@@ -1,0 +1,12 @@
+{
+  "Software Name": "Spark",
+  "links": {
+    "software page": "https://spark.apache.org/",
+    "documentation": "https://spark.apache.org/docs/latest/",
+    "tutorials": [
+      "https://spark.apache.org/examples.html",
+      "https://www.tutorialspoint.com/apache_spark/index.htm",
+      "https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+Use Case: Use pybind11 to create a Python bindings for C++ code, using a simple arithmetic function as an example.
+
+Code details and examples: Code.
+
+In C++ (`example.cpp`):
+
+```cpp
+#include <pybind11/pybind11.h>
+
+int add(int i, int j) {
+    return i + j;
+}
+
+PYBIND11_MODULE(example, m) {
+    m.def("add", &add, "A function which adds two numbers");
+}
+```
+
+In Python (`run.py`):
+
+```python
+import example
+print(example.add(1, 2))
+```
+
+Command to Run:
+
+Use these compiler commands to create the shared object file from the C++ source code:
+
+```bash
+c++ -O3 -Wall -shared -std=c++11 -fPIC `python3 -m pybind11 --includes` example.cpp -o example`python3-config --extension-suffix`
+```
+
+Then, this Python command to run the Python script:
+
+```bash
+python3 run.py
+```

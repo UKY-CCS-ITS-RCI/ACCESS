@@ -1,0 +1,21 @@
+{
+  "software": "bedtools",
+  "software_page": "https://bedtools.readthedocs.io/",
+  "additional_urls": {
+    "documentation": "https://bedtools.readthedocs.io/en/latest/content/bedtools-suite.html",
+    "tutorial_materials": [
+      {
+        "name": "Introduction to bedtools",
+        "url": "https://edwards.sdsu.edu/research/introduction-to-bedtools/"
+      },
+      {
+        "name": "Bedtools Tutorial",
+        "url": "https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/05_counting_reads_using_bedtools.html"
+      },
+      {
+        "name": "BEDTools tutorial from Broad Institute",
+        "url":  "https://software.broadinstitute.org/software/igv/BEDTools"
+      }
+    ]
+  }
+}

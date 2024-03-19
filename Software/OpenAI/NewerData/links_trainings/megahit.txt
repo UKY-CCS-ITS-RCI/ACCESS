@@ -1,0 +1,21 @@
+{
+  "megahit": {
+    "softwarePage": "https://github.com/voutcn/megahit",
+    "documentation": [
+      {
+        "title": "MEGAHIT User Manual",
+        "url": "https://github.com/voutcn/megahit#readme"
+      }
+    ],
+    "trainingMaterials": [
+      {
+        "title": "Introduction to MEGAHIT",
+        "url": "https://www.biostarhandbook.com/amp/assembly/megahit.html"
+      },
+      {
+        "title": "Tutorial - De-novo Assembly Using Oxford Nanopore and Illumina reads",
+        "url": "https://labs.rc.colorado.edu/ben-shapiro/wp-content/uploads/sites/29/2018/05/MEGAHIT_tutorial.pdf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "SoftwareName": "SingularityPRO",
+  "SoftwarePage": "https://www.sylabs.io/singularity/",
+  "Documentation": "https://sylabs.io/guides/latest/user-guide/",
+  "Tutorials and Training Materials": [
+      {
+        "Tutorial1": "https://sylabs.io/guides/latest/user-guide/quick_start.html",
+        "Tutorial2": "https://singularity-tutorial.github.io",
+        "Tutorial3": "https://www.youtube.com/playlist?list=PLgWfBB74K8jv1zQylQ2iKisV4Rtte17Sx"
+      }
+    ]
+}

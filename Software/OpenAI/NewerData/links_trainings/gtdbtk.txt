@@ -1,0 +1,17 @@
+{
+"software": {
+    "name": "gtdbtk",
+    "software_url": "https://github.com/Ecogenomics/GTDBTk",
+    "documentation_url": "https://gtdb.ecogenomic.org/faq#q-2-1",
+    "training_materials": [
+      {
+        "training_name": "Impromptu GTDB-Tk tutorial",
+        "training_url": "https://forum.qiime2.org/t/impromptu-gtdb-tk-tutorial/12567"
+      },
+      {
+        "training_name": "Tutorial - External Plugins",
+        "training_url": "https://forum.qiime2.org/t/external-plugins-tutorials/9998/5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Software Name": "PyCuda",
+  "Link to Software Page": "https://pypi.org/project/pycuda/",
+  "Additional Links": {
+    "Documentation": "https://documen.tician.de/pycuda/index.html",
+    "Tutorial Materials": {
+      "Tutorial 1": "https://wiki.tiker.net/PyCuda/FrequentlyAskedQuestions",
+      "Tutorial 2": "https://documen.tician.de/pycuda/tutorial.html",
+      "Tutorial 3": "https://heig-tul.github.io/teaching/spnt/notes/07-introduction_to_pycuda/"
+    }
+  }
+}

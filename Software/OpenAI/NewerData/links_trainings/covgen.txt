@@ -1,0 +1,9 @@
+{
+  "software_name": "Covgen",
+  "software_page": "https://gitlab.com/genomeinfo/covgen",
+  "documentation": "https://gitlab.com/genomeinfo/covgen#covgen---coverage-statistics-generator",
+  "tutorials_materials": [
+    "https://biohackacademy.github.io/bha5/tutorials/TUTORIAL-software/",
+    "https://training.nih.gov/courses/Software_Carpentry"
+  ]
+}

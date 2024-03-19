@@ -1,0 +1,19 @@
+{
+  "software": "rocm-compilersupport",
+  "official_website": "https://www.amd.com/",
+  "official_documentation": "https://rocmdocs.amd.com/",
+  "tutorials_and_training": [
+    {
+      "link": "https://rocmdocs.amd.com/en/latest/",
+      "description": "ROCm Documentation"
+    },
+    {
+      "link": "https://github.com/RadeonOpenCompute/ROCm",
+      "description": "ROCm Github Repository - Readme and Contribute"
+    },
+    {
+      "link": "https://developer.amd.com/resources/developer-guides-manuals/",
+      "description": "AMD Developer Guides and Manuals"
+    }
+  ]
+}

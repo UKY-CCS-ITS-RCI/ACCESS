@@ -1,0 +1,13 @@
+{
+    "name": "MONAI",
+    "software_page": "https://monai.io/",
+    "documentation": "https://docs.monai.io/",
+    "tutorials": [
+        "https://github.com/Project-MONAI/tutorials",
+        "https://towardsdatascience.com/get-started-with-monai-a-pytorch-based-framework-for-medical-image-analysis-d6d8f41d7b61"
+    ],
+    "additional_resources": [
+        "https://github.com/Project-MONAI/MONAI",
+        "https://arxiv.org/abs/2006.12575"
+    ]
+}

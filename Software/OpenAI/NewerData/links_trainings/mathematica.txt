@@ -1,0 +1,23 @@
+{
+  "name": "Mathematica",
+  "main_link": "https://www.wolfram.com/mathematica/",
+  "documentation": "https://reference.wolfram.com/language/",
+  "tutorials": [
+    {
+      "name": "Wolfram Mathematica Tutorials",
+      "link": "https://www.wolfram.com/mathematica/tutorials/"
+    },
+    {
+      "name": "Mathematica Tutorials | Wolfram",
+      "link": "https://www.wolfram.com/broadcast/screencasts/handsonstart/"
+    },
+    {
+      "name": "Mathematica Tutorial For Beginners: Learn Mathematica",
+      "link": "https://mindmajix.com/mathematica-tutorial"
+    },
+    {
+      "name": "Learn by Example: Mathematica - Primer Tutorial",
+      "link": "https://www.math.ubc.ca/~pwalls/mathematica-tutorial/"
+    }
+  ]
+}

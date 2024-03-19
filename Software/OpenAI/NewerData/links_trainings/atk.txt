@@ -1,0 +1,11 @@
+{
+  "atk": {
+    "software_page": "https://www.quantumwise.com/products/atk",
+    "documentation": "https://docs.quantumwise.com/",
+    "tutorials_and_training": {
+      "getting_started_guide": "https://docs.quantumwise.com/manuals/getting-started-atk/",
+      "training_material": "https://www.quantumwise.com/downloads/atkpdf/ATK_Training_Material.zip",
+      "webinar_material": "https://www.quantumwise.com/webinars"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "software": "librsvg",
+  "software_url": "https://wiki.gnome.org/Projects/LibRsvg",
+  "documentation_url": "https://developer.gnome.org/rsvg/stable/",
+  "tutorial_and_training_materials": [
+    {
+      "name": "librsvg Tutorial",
+      "url": "https://wiki.gnome.org/Projects/LibRsvg/Tutorial"
+    },
+    {
+      "name": "librsvg API Reference",
+      "url": "https://developer.gnome.org/rsvg/stable/rsvg-RsvgHandle.html"
+    },
+    {
+      "name": "Stack Overflow - librsvg Issues",
+      "url": "https://stackoverflow.com/questions/tagged/librsvg"
+    }
+  ]
+}

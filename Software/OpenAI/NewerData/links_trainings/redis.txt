@@ -1,0 +1,13 @@
+{
+  "redis": {
+    "software_url": "https://redis.io/",
+    "documentation_url": "https://redis.io/documentation",
+    "tutorial_urls": [
+      "https://redis.io/topics/quickstart",
+      "https://www.tutorialspoint.com/redis/index.htm",
+      "https://www.datacamp.com/community/tutorials/redis-python-introduction",
+      "https://realpython.com/python-redis/",
+      "https://www.w3schools.in/redis-tutorial/"
+    ]
+  }
+}

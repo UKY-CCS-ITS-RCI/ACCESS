@@ -1,0 +1,25 @@
+{
+  "software": {
+    "name": "Chapel",
+    "webPage": "https://chapel-lang.org/",
+    "documentation": "https://chapel-lang.org/docs/",
+    "tutorials": [
+      {
+        "name": "Introduction to Chapel",
+        "link": "https://chapel-lang.org/tutorials/"
+      },
+      {
+        "name": "Chapel Tutorials on YouTube",
+        "link": "https://www.youtube.com/playlist?list=PLTp0XRk5S7LD-R6b2S2vZAlqtNAhtp1j6"
+      },
+      {
+        "name": "Learn Chapel in Y minutes",
+        "link": "https://learnxinyminutes.com/docs/chapel/"
+      },
+      {
+        "name": "Chapel for Python Programmers",
+        "link": "https://chapel-lang.org/CHIUW/2012/python-chapel.pdf"
+      }
+    ]
+  }
+}

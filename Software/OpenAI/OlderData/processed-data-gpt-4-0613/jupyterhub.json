@@ -1,0 +1,27 @@
+{
+  "Software": "JupyterHub",
+  "Software_URL": "https://jupyter.org/hub",
+  "Documentation": "https://jupyterhub.readthedocs.io/en/stable/",
+  "Tutorials_and_Training_Materials": [
+    {
+      "Source_Name": "JupyterHub Tutorial on GitHub",
+      "Source_URL": "https://github.com/jupyterhub/jupyterhub-tutorial"
+    },
+    {
+      "Source_Name": "Deploying JupyterHub for Education",
+      "Source_URL": "https://github.com/data-8/jupyterhub-deploy-teaching-learning-guide"
+    },
+    {
+      "Source_Name": "JupyterHub on Read the Docs",
+      "Source_URL": "https://jupyterhub-team-compass.readthedocs.io/en/latest/"
+    },
+    {
+      "Source_Name": "The Littlest JupyterHub",
+      "Source_URL": "https://tljh.jupyter.org/en/latest/"
+    },
+    {
+      "Source_Name": "Zero to JupyterHub with Kubernetes",
+      "Source_URL": "https://zero-to-jupyterhub.readthedocs.io/en/latest/"
+    }
+  ]
+}

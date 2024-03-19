@@ -1,0 +1,78 @@
+{
+  "software": {
+    "name": "Python",
+    "link": "https://www.python.org/",
+    "documentation": "https://docs.python.org/3/",
+    "training_materials": [
+      "https://www.python.org/about/gettingstarted/",
+      "https://www.learnpython.org/",
+      "https://www.codecademy.com/learn/learn-python-3",
+      "https://www.w3schools.com/python/"
+    ]
+  },
+  "compilers": [
+    {
+      "name": "GCC",
+      "link": "https://gcc.gnu.org/",
+      "documentation": "https://gcc.gnu.org/onlinedocs/",
+      "training_materials": [
+        "https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html",
+        "https://stackoverflow.com/questions/tagged/gcc"
+      ]
+    }
+  ],
+  "libraries": [
+    {
+      "name": "NumPy",
+      "link": "https://numpy.org/",
+      "documentation": "https://numpy.org/doc/",
+      "training_materials": [
+        "https://numpy.org/learn/",
+        "https://www.w3schools.com/python/numpy_intro.asp"
+      ]
+    },
+    {
+      "name": "Pandas",
+      "link": "https://pandas.pydata.org/",
+      "documentation": "https://pandas.pydata.org/docs/",
+      "training_materials": [
+        "https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/",
+        "https://www.kaggle.com/learn/pandas",
+        "https://www.datacamp.com/courses/pandas-foundations"
+      ]
+    }
+  ],
+  "condaPackages": [
+    {
+      "name": "Conda",
+      "link": "https://docs.conda.io/en/latest/",
+      "documentation": "https://conda.io/projects/conda/en/latest/user-guide/getting-started.html",
+      "training_Materials": [
+        "https://conda.io/projects/conda/en/latest/user-guide/tutorials/index.html",
+        "https://www.datacamp.com/community/tutorials/installing-anaconda-python"
+      ]
+    }
+  ],
+  "bioinformaticsTools": [
+    {
+      "name": "BLAST",
+      "link": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
+      "documentation": "https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs",
+      "training_materials": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK153387/",
+        "https://www.youtube.com/watch?v=XteJFEgTB_M"
+      ]
+    }
+  ],
+  "HPCTools": [
+    {
+      "name": "OpenMPI",
+      "link": "https://www.open-mpi.org/",
+      "documentation": "https://www.open-mpi.org/doc/current/",
+      "training_materials": [
+        "https://www.open-mpi.org/faq/?category=running",
+        "https://www.open-mpi.org/faq/?category=building"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Software": "libmesh",
+  "Software_URL": "http://libmesh.github.io/",
+  "Documentation": [
+    {
+      "Documentation_URL": "http://libmesh.github.io/examples.html"
+    },
+    {
+      "Documentation_URL": "http://libmesh.github.io/doxygen/annotated.html"
+    }
+  ],
+  "Tutorials_Training": [
+    {
+      "Tutorials_Training_URL": "https://libmesh.github.io/tutorials/introduction/"
+    },
+    {
+      "Tutorials_Training_URL": "https://libmesh.github.io/tutorials/"
+    },
+    {
+      "Tutorials_Training_URL": "https://www.youtube.com/watch?v=HwJGvZyNJOA"
+    },
+    {
+      "Tutorials_Training_URL": "https://awesomeopensource.com/project/libMesh/Tutorials"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "ls",
+    "software_page": "https://linux.die.net/man/1/ls",
+    "documentation": "https://man7.org/linux/man-pages/man1/ls.1.html",
+    "tutorials": [
+        "https://www.geekhideout.com/ls.shtml",
+        "https://www.youtube.com/watch?v=ohulzvv0bOg"
+    ],
+    "additional_resources": [
+        "https://www.unixtutorial.org/ls-command-unix/",
+        "https://unix.stackexchange.com/questions/128985/what-do-the-fields-in-ls-al-output-mean"
+    ]
+}

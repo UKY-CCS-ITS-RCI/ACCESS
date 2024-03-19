@@ -1,0 +1,21 @@
+{
+  "software_name": "aws-cli",
+  "software_page": "https://aws.amazon.com/cli",
+  "links": {
+    "documentation": "https://awscli.amazonaws.com/v2/documentation/api/latest/index.html",
+    "training_materials": [
+      {
+        "description": "AWS (Amazon Web Services) Interactive Browser",
+        "url": "https://www.aws.training"
+      },
+      {
+        "description": "AWS Developer Guide",
+        "url": "https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html"
+      },
+      {
+        "description": "AWS CLI Tutorial on YouTube",
+        "url": "https://www.youtube.com/watch?v=AKvO9BZMZ_E"
+      }
+    ]
+  }
+}

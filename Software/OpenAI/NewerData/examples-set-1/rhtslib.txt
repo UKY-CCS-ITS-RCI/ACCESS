@@ -1,0 +1,34 @@
+Use Case: Rhtslib is an R package which provides streaming access to high-throughput sequencing data. It allows for reading of BAM, Cram and Tabix file formats.
+
+Code details and examples: Code
+
+To use Rhtslib, it is necessary to have an existing file in these formats. Here's an example of working with a BAM file:
+
+First, you need to import the library:
+```
+library(Rhtslib)
+```
+
+Then, you will initialize a BAM file. Suppose we have a BAM file named 'file.bam':
+````
+bam <- Rhtslib::BamFile("file.bam")
+```
+
+To fetch a specific region from the BAM file:
+```
+records <- scanBam(bam,
+                   param=ScanBamParam(which=GRanges("chr1", IRanges(100, 200))))
+```
+
+Where: 
+- `chr1` is the region of the genome you want to fetch
+- `IRanges(100, 200)` specifies to extract the reads that overlaps with positions 100 to 200 in chr1.
+
+So, in this case, command to run file: A Shell or Terminal emulator (Bash, ZSH, etc.), with The R Interpreter (`Rscript`) installed.
+
+The above script is purely an R script, so it could be saved into a .R file and run from a terminal like so:
+```
+Rscript script.R
+```
+
+Bear in mind it's assumed "script.R" is the file name you stored the script into.

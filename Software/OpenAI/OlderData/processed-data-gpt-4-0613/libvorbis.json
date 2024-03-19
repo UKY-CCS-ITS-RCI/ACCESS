@@ -1,0 +1,19 @@
+{
+  "software_name": "libvorbis",
+  "software_page_link": "https://xiph.org/vorbis/",
+  "documentation_link": "https://www.xiph.org/vorbis/doc/",
+  "training_and_tutorial_materials": [
+    {
+      "tutorial_name": "Ogg Vorbis - a beginner’s guide",
+      "link": "http://cnx.org/content/m12537/latest/"
+    },
+    {
+      "tutorial_name": "Using libvorbis to encode an audio stream",
+      "link": "https://gist.github.com/xiphmont/7b26e6aed2b7f6c4b783"
+    },
+    {
+      "tutorial_name": "Libvorbis reference manual",
+      "link": "https://www.un4seen.com/doc/#bass_vst/BASS_VST_GetVstEffect.html"
+    }
+  ]
+}

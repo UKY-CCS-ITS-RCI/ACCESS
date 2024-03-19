@@ -1,0 +1,11 @@
+{
+  "Software_Name": "libmd",
+  "Software_URL": "http://libmd.org/",
+  "Documentation": {
+    "libmd Documentation": "http://libmd.org/documentation/"
+  },
+  "Training_Materials": {
+     "libmd Introduction": "http://libmd.org/?page_id=23",
+     "libmd Wiki": "https://github.com/libmd/libmd/wiki"
+   }
+}

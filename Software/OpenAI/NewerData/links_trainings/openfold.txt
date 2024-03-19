@@ -1,0 +1,10 @@
+{
+  "softwareName": "openfold",
+  "softwarePage": "https://github.com/OpenFold",
+  "documentation": "https://github.com/OpenFold/OpenFold",
+  "trainingAndTutorialMaterials": [
+    "https://github.com/OpenFold/OpenFold/blob/main/README.md",
+    "https://openfold.readthedocs.io/en/latest/",
+    "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  ]
+}

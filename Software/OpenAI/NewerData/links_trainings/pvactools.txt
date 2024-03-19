@@ -1,0 +1,27 @@
+{
+  "software_name": "pvactools",
+  "software_page": "https://github.com/griffithlab/pVACtools",
+  "documentation": "https://pvactools.readthedocs.io/en/latest/",
+  "tutorial_materials": [
+    {
+      "name": "pVacseq Tutorial",
+      "url": "https://pvactools.readthedocs.io/en/latest/workflow/pvacseq.html#pvacseq-workflow"
+    },
+    {
+      "name": "pVACbind tutorial",
+      "url": "https://pvactools.readthedocs.io/en/latest/workflow/pvacbind.html"
+    },
+    {
+      "name": "pVACfuse tutorial",
+      "url": "https://pvactools.readthedocs.io/en/latest/workflow/pvacfuse.html"
+    },
+    {
+      "name": "pVACvector tutorial",
+      "url": "https://pvactools.readthedocs.io/en/latest/workflow/pvacvector.html"
+    },
+    {
+      "name": "pVACviz tutorial",
+      "url": "https://pvactools.readthedocs.io/en/latest/workflow/pvacviz.html"
+    }   
+  ]
+}

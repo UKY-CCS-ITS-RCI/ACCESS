@@ -1,0 +1,129 @@
+Use Case: Solve a system of linear equations using the CUBLAS library in CUDA.
+
+Code details and examples:
+
+Code:
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include <assert.h>
+#include <cuda.h>
+#include <cublas.h>
+
+#define N 3   
+#define IDX2C(i,j,ld) (((j)*(ld))+(i)) 
+
+int main(void) {
+    cublasStatus status;
+    int i,j;
+    float* A;
+    float* x;
+    float* y;
+    float* devPtrA;
+    float* devPtrx;
+    float* devPtry;
+    float alpha = 1.0f;
+    float beta = 0.0f;
+    A = (float *)malloc (N * N * sizeof (*A));
+    if (!A) {
+        printf ("host memory allocation failed");
+        return EXIT_FAILURE;
+    }
+    x = (float *)malloc (N * 1 *sizeof(*x));
+    if (!x) {
+        printf ("host memory allocation failed");
+        return EXIT_FAILURE;
+    }
+    
+    for (j =0; j<N; j++) {
+        x[j] = (float)j;
+    }
+
+    for (j = 0; j < N; j++) {
+        for (i =0; i< N; i++) {
+            A[IDX2C(i,j,N)] = (float)(i*N + j);
+        }
+    }
+    
+    // Device memory allocations
+    status = cublasInit();
+    if (status != CUBLAS_STATUS_SUCCESS) {
+        printf ("CUBLAS initialization error\n");
+        return EXIT_FAILURE;
+    }
+    status = cublasAlloc (N*N, sizeof(A[0]), (void**)&devPtrA);
+    if (status != CUBLAS_STATUS_SUCCESS) {
+        printf ("device memory allocation error (A)\n");
+        return EXIT_FAILURE;
+    }
+    status = cublasAlloc (N, sizeof(x[0]), (void**)&devPtrx);
+    if (status != CUBLAS_STATUS_SUCCESS) {
+       printf ("device memory allocation error (x)\n");
+       return EXIT_FAILURE;
+    }
+    status = cublasAlloc (N, sizeof(y[0]), (void**)&devPtry);
+    if (status != CUBLAS_STATUS_SUCCESS) {
+        printf ("device memory allocation error (y)\n");
+        return EXIT_FAILURE;
+    }
+
+
+    status = cublasSetVector (N, sizeof(x[0]), x, 1, devPtrx, 1);
+    if (status != CUBLAS_STATUS_SUCCESS) {
+       printf ("data download error");
+       return EXIT_FAILURE;
+    }
+    status = cublasSetMatrix (N, N, sizeof(A[0]), A, N, devPtrA, N);
+    if (status != CUBLAS_STATUS_SUCCESS) {
+        printf ("data download error");
+        return EXIT_FAILURE;
+    }
+
+    cublasSgemv('n', N, N, alpha, devPtrA, N, devPtrx, 1, beta, devPtry, 1);
+    status = cublasGetError();
+    if (status != CUBLAS_STATUS_SUCCESS) {
+        printf ("kernel execution error.\n");
+        return EXIT_FAILURE;
+    }
+    
+    status = cublasGetVector (N, sizeof(y[0]), devPtry, 1, y, 1);
+    if (status != CUBLAS_STATUS_SUCCESS) {
+        printf ("data upload error");
+        return EXIT_FAILURE;
+    }
+    
+    printf ("y after Sgemv:\n");
+    for (j = 0; j < N; j++) {
+        printf ("%7.0f\n", y[j]); // Assuming single precision
+    }
+
+    free(A);
+    free(x);
+    free(y);
+    status = cublasShutdown();
+    if (status != CUBLAS_STATUS_SUCCESS) {
+        printf ("!!!! shutdown error (A)\n");
+        return EXIT_FAILURE;
+    }
+    
+    if (cudaFree (devPtrA) != cudaSuccess) {
+        printf ("device memory deallocation failed");
+        return EXIT_FAILURE;
+    }
+    if (cudaFree (devPtrx) != cudaSuccess) {
+        printf ("device memory deallocation failed");
+        return EXIT_FAILURE;
+    }
+    if (cudaFree (devPtry) != cudaSuccess) {
+        printf ("device memory deallocation failed");
+        return EXIT_FAILURE;
+    }
+
+    exit(EXIT_SUCCESS);
+}
+```
+
+By saving this file as `sgemv.cu`, it could be run with `nvcc sgemv.cu -lcublas -o sgemv`, assuming we were working in a Unix-like environment with nvcc and the CUDA SDK installed. Then `./sgemv` to execute.
+
+This code solves a system of linear equations in the form Ax=y, where A is an N-by-N matrix and x and y are N-by-1 vectors. The elements of A and x are defined by the user. The output is the vector y. The procedure includes initializing memory for the matrix A and vectors x and y on the host and device, solving the system, and then printing the resulting vector y. All memory is freed after use.

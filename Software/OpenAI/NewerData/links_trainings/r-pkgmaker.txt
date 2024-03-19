@@ -1,0 +1,14 @@
+{
+  "Software": {
+    "Name": "r-pkgmaker",
+    "SoftwareURL": "https://CRAN.R-project.org/package=r-pkgmaker",
+    "Documentation": {
+      "Link1": "https://rdrr.io/cran/r-pkgmaker/man/r-pkgmaker-package.html",
+      "Link2": "https://www.rdocumentation.org/packages/r-pkgmaker/versions/0.27.5"
+    },
+    "TrainingAndTutorial": {
+      "Link1": "https://rdrr.io/github/Rappster/rdrr.r/f/inst/rdrr/R/pkgmaker.R",
+      "Link2": "https://cran.r-project.org/web/packages/r-pkgmaker/r-pkgmaker.pdf"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "tobias": {
+    "software_page_link": "https://github.com/loosolab/toBIAS",
+    "documentation_link": "https://tobias.readthedocs.io/en/latest/",
+    "training_materials": [
+      {
+        "name": "TUTORIAL: Setting up TOBIAS",
+        "link": "https://bioweb.pasteur.fr/packages/Web-TOPABS/Tutorials/TOBIAS%20tutorial"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "software": "Silo",
+    "resources": {
+        "softwareHomepage": "https://wci.llnl.gov/simulation/computer-codes/silo",
+        "documentation": "https://wci.llnl.gov/sites/wci/files/2021-01/silo-4.10.2.pdf",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

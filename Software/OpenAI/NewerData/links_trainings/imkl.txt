@@ -1,0 +1,25 @@
+{
+  "imkl": {
+    "softwarePage": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html",
+    "documentation": [
+      {
+        "title": "Intel® oneAPI Math Kernel Library Developer Reference",
+        "url": "https://software.intel.com/content/www/us/en/develop/documentation/onemkl-developer-reference/top.html"
+      },
+      {
+        "title": "Intel® oneAPI Math Kernel Library Details",
+        "url": "https://software.intel.com/content/www/us/en/develop/documentation/onemkl-faq/top.html"
+      }
+    ],
+    "tutorialMaterials": [
+      {
+        "title": "Intel OneAPI Math Kernel Library (MKL) with C/C++",
+        "url": "https://www.youtube.com/watch?v=4USwcYSDG0U"
+      },
+      {
+        "title": "Intel oneAPI MKL User Guide",
+        "url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl/install-guide.html"
+      }
+    ]
+  }
+}

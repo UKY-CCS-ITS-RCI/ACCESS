@@ -1,0 +1,14 @@
+
+{
+    "name": "M4",
+    "software_page": "https://www.gnu.org/software/m4/m4.html",
+    "documentation": "https://www.gnu.org/software/m4/manual/m4.html",
+    "tutorials": [
+        "https://www.ibm.com/developerworks/library/l-m4/index.html",
+        "https://www.tutorialspoint.com/unix_commands/m4.htm"
+    ],
+    "additional_resources": [
+        "https://man7.org/linux/man-pages/man1/m4.1.html",
+        "https://en.wikipedia.org/wiki/M4_(computer_language)"
+    ]
+}

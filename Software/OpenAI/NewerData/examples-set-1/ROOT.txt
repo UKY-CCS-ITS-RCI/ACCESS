@@ -1,0 +1,27 @@
+Use Case: ROOT is a scientific software framework that provides all functionalities needed to deal with big data processing, statistical analysis, visualization and storage. It's used in high energy physics and other natural sciences. 
+
+Input File: A data file, say myfile.root, to be analyzed
+
+Code Details and Examples:
+
+Code: 
+
+```
+TFile *hfile = new TFile("myfile.root");
+TTree *tree = (TTree*)hfile->Get("T");
+Int_t nentries = (Int_t)tree->GetEntries();
+
+for (Int_t i=0; i<nentries; i++) {
+  tree->GetEntry(i);
+  //analysis code here
+}
+
+hfile->Close();
+```
+
+Command to Run: ROOT scripts can be executed with the root command followed by the script name:
+
+```
+root script.C
+```
+In the above example, the code is reading a ROOT file containing a TTree 'T' and looping over its entries. The user should replace "//analysis code here" with code to actually do something with the data contained in the TTree. Each entry in a TTree corresponds to a "row" or "event" in the data. Each event contains several variables, which could include things like particle energies and momenta, for example. How the user gets and uses these variables depends on the structure of the TTree, which is normally defined when the TTree is first created.

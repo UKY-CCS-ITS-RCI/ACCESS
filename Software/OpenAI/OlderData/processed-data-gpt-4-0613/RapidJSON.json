@@ -1,0 +1,12 @@
+{
+  "Software Name": "RapidJSON",
+  "links": {
+    "software page": "http://rapidjson.org/",
+    "documentation": "http://rapidjson.org/md_doc_tutorial.html",
+    "tutorials": [
+      "https://code.google.com/archive/p/rapidjson/wikis/Tutorial.wiki",
+      "http://www.cplusplus.com/forum/beginner/152834/",
+      "https://stackoverflow.com/questions/18386414/example-for-rapidjson"
+    ]
+  }
+}

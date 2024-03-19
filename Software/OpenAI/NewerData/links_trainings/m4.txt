@@ -1,0 +1,8 @@
+{
+  "Software_Name": "m4",
+  "Software_URL": "https://www.gnu.org/software/m4/m4.html",
+  "Documentation_URL": "https://www.gnu.org/software/m4/manual/m4.html",
+  "Training_Material_1": "https://www.gnu.org/savannah-checkouts/gnu/m4/manual/m4-1.4.18/index.html",
+  "Tutorial_1": "https://www.tutorialspoint.com/unix_commands/m4.htm",
+  "Tutorial_2": "https://www.ibm.com/docs/en/aix/7.1?topic=m-m4-command"
+}

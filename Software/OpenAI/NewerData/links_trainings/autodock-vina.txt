@@ -1,0 +1,14 @@
+{
+  "Software": {
+    "Name": "AutoDock Vina",
+    "Software URL": "http://vina.scripps.edu/",
+    "Documentation": {
+      "Official Documentation": "http://vina.scripps.edu/manual.html"
+    },
+    "Training Materials": {
+      "AutoDock Vina Tutorial": "http://ringo.ams.stonybrook.edu/index.php/2017/01/04/autodock-vina-tutorial/",
+      "Using AutoDock Vina with UCSF Chimera": "https://www.cgl.ucsf.edu/chimera/data/vina-tutorial/frames.html",
+      "YouTube Tutorial": "https://www.youtube.com/watch?v=1QO2j2Y16Ew"
+    }
+  }
+}

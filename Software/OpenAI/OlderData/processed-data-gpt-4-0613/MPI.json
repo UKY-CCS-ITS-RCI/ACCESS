@@ -1,0 +1,13 @@
+{
+    "name": "MPI",
+    "software_page": "https://www.mpi-forum.org/",
+    "documentation": "https://docs.microsoft.com/en-us/message-passing-interface/mpi-standard-library-reference",
+    "tutorials": [
+        "https://mpitutorial.com/tutorials/",
+        "https://www.codingame.com/playgrounds/349/introduction-to-mpi/introduction-to-mpi"
+    ],
+    "additional_resources": [
+        "https://en.wikipedia.org/wiki/Message_Passing_Interface",
+        "https://www.open-mpi.org/"
+    ]
+}

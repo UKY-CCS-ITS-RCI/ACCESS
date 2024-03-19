@@ -1,0 +1,28 @@
+{
+  "software": "CMake",
+  "software_URL": "https://cmake.org/",
+  "Documentation": [
+    {
+      "name": "Official Documentation",
+      "URL": "https://cmake.org/cmake/help/latest/"
+    },
+    {
+      "name": "CMake Wiki",
+      "URL": "https://gitlab.kitware.com/cmake/community/-/wikis/home"
+    }
+  ],
+  "Tutorials": [
+    {
+      "name": "CMake Tutorial",
+      "URL": "https://cmake.org/cmake/help/latest/guide/tutorial/index.html"
+    },
+    {
+      "name": "CMake Tutorial (LLVM)",
+      "URL": "https://llvm.org/docs/CMakePrimer.html"
+    },
+    {
+      "name": "CMake by example",
+      "URL": "https://cliutils.gitlab.io/modern-cmake/chapters/intro/tutorial.html"
+    }
+  ]
+}

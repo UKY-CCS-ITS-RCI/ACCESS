@@ -1,0 +1,11 @@
+{
+  "software": "Quantum-ESPRESSO",
+  "software_url": "http://www.quantum-espresso.org/",
+  "documentation": "https://www.quantum-espresso.org/resources/users-manual",
+  "tutorials": [
+    { "title": "Quantum ESPRESSO tutorials", "url": "https://www.quantum-espresso.org/resources/tutorials" },
+    { "title": "Tutorial on Quantum ESPRESSO", "url": "https://matteoacm.github.io/posts/quantum-espresso/" },
+    { "title": "Quantum-ESPRESSO Band Structure and DOS Calculation Tutorial", "url": "https://www.youtube.com/watch?v=_O6NmMkAUno" },
+    { "title": "Basic Quantum Espresso tutorial", "url": "https://www.youtube.com/watch?v=4MdtbCmMvZ4" }
+  ]
+}

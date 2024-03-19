@@ -1,0 +1,23 @@
+{
+"name": "Visit",
+"softwarePage": "https://wci.llnl.gov/simulation/computer-codes/visit",
+"documentation": "https://wci.llnl.gov/simulation/computer-codes/visit/manuals",
+"tutorialMaterials": [
+    {
+        "name": "Visit tutorial - Basics",
+        "url": "https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/tutorials/TutorialBasics.html"
+    },
+    {
+        "name": "Visit tutorial - Data Analysis and Visualization",
+        "url": "https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/tutorials/DataAnalysis.html"
+    },
+    {
+        "name": "Visit tutorial - Making movies",
+        "url": "https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/tutorials/MovieMaking.html"
+    },
+    {
+        "name": "An Intuitive Introduction to Visualization and Analysis with VisIt",
+        "url": "https://www.youtube.com/watch?v=76I3ZlPCrRY"
+    }
+  ]
+}

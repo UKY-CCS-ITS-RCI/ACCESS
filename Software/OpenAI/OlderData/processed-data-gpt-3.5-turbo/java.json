@@ -1,0 +1,20 @@
+{
+  "software name": "Java",
+  "comprehensive overview": "Java is a widely-used, versatile programming language known for its platform independence, object-oriented approach, and extensive ecosystem of libraries and frameworks. It is utilized in various domains, ranging from web development and mobile apps to enterprise applications and scientific computing.",
+  "core features": [
+    "Platform-independent language with cross-platform compatibility",
+    "Object-oriented programming paradigm",
+    "Extensive library ecosystem for diverse application development"
+  ],
+  "general tags": [
+    "Programming Language",
+    "Platform Independence",
+    "Object-Oriented Programming"
+  ],
+  "additional tags": {
+    "research discipline": "Computer Science",
+    "research area": "Software Development",
+    "software class": "Programming Language",
+    "software type": "General Purpose Language"
+  }
+}

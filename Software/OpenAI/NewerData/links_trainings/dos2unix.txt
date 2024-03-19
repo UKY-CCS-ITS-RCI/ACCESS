@@ -1,0 +1,15 @@
+{
+  "software": {
+    "name": "dos2unix",
+    "webURL": "https://waterlan.home.xs4all.nl/dos2unix.html",
+    "documentationURL": "https://waterlan.home.xs4all.nl/dos2unix-man.html",
+    "tutorialMaterials": {
+      "tutorial1": {
+        "webURL": "https://linux.die.net/man/1/dos2unix"
+      },
+      "tutorial2": {
+        "webURL": "https://www.cyberciti.biz/faq/howto-unix-linux-convert-dos-newlines-cr-lf-unix-text-format/"
+      }
+    }
+  }
+}

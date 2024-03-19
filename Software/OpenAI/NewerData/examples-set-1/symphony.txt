@@ -1,0 +1,50 @@
+Use Case: SYMPHONY is a software package for solving mixed-integer linear programs (MILPs). This can be used for applications such as supply chain optimization, resource allocation, scheduling and etc.
+
+Code details and examples: 
+
+Code:
+Let's assume that we have a MILP problem defined in a file named "problem.mps". To solve this problem, you would use the following command:
+
+```bash
+symphony -F problem.mps
+```
+
+The input file must be in MPS format, which is a standard, widely-used format for representing linear and mixed-integer linear programs. An exemplary MPS file might look like this:
+
+```
+NAME          EXAMPLE
+ROWS
+ N  COST
+ L  CONSTRAINT1
+ G  CONSTRAINT2
+ E  CONSTRAINT3
+COLUMNS
+    JOBCOST        COST                 1
+    JOBCOST        CONSTRAINT1          1
+    JOBCOST        CONSTRAINT2          1
+    RESOURCE      COST                 2
+    RESOURCE      CONSTRAINT1         -1
+    RESOURCE      CONSTRAINT2         -2
+    RESOURCE      CONSTRAINT3          1
+RHS
+    RHS1          CONSTRAINT1          1
+    RHS1          CONSTRAINT2          2
+    RHS1          CONSTRAINT3          3
+BOUNDS
+ UP BND1        JOBCOST                4
+ LO BND1        RESOURCE              -1
+ UP BND1        RESOURCE               3
+ENDATA
+```
+
+This file defines a problem with three constraints and two variables. The objective is to minimize the cost, which is defined in the "ROWS" section. Each row after the "COLUMNS" keyword defines the coefficients for each variable in each constraint and the cost (objective) function.
+
+Please note that SYMPHONY uses an in-built MPS reader to interpret this file, so the formatting and naming conventions must adhere to the MPS standard for SYMPHONY to correctly interpret it. The MPS format allows for quite complex and large-scale problems to be defined in a relatively compact manner. 
+
+To execute the code above:
+
+```bash
+symphony -F problem.mps
+```
+
+This tells SYMPHONY to read the problem from the file "problem.mps" and solve it. The solution – if one exists – will be written to the console.

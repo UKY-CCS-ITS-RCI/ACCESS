@@ -1,0 +1,7 @@
+{
+"Infernal": {
+    "Software URL": "http://eddylab.org/infernal/",
+    "Documentation": ["http://eddylab.org/infernal/Userguide.pdf", "http://eddylab.org/software/infernal/infernal.man.html"],
+    "Tutorials and Training": ["http://eddylab.org/software/infernal/Quickguide.html", "https://www.youtube.com/watch?v=YNYoqHQjdtk", "https://www.youtube.com/watch?v=Yc755P7VLzQ"]
+  }
+}

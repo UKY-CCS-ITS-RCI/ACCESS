@@ -1,0 +1,33 @@
+{
+  "software": "sympy",
+  "software_info": {
+    "official_page": "https://www.sympy.org/",
+    "documentation": "https://docs.sympy.org/latest/index.html",
+    "tutorial_materials": [
+      {
+        "tutorial_name": "Sympy Tutorial",
+        "tutorial_link": "https://docs.sympy.org/latest/tutorial/index.html"
+      },
+      {
+        "tutorial_name": "Sympy : Symbolic Mathematics in Python",
+        "tutorial_link": "https://www.scipy-lectures.org/packages/sympy.html"
+      },
+      {
+        "tutorial_name": "Python Sympy Tutorial: A Complete Guide for Beginners",
+        "tutorial_link": "https://www.javatpoint.com/sympy-tutorial"
+      },
+      {
+        "tutorial_name": "Sympy tutorial for the workshop 'Symbolic Computation in Python'",
+        "tutorial_link": "https://minireference.com/static/tutorials/sympy_tutorial.pdf"
+      },
+      {
+        "tutorial_name": "Symbolic Algebra and Calculus in Python with SymPy",
+        "tutorial_link": "https://towardsdatascience.com/symbolic-algebra-and-calculus-in-python-with-sympy-9e2eed16404f"
+      },
+      {
+        "tutorial_name": "Symbolic computation with Python and SymPy",
+        "tutorial_link": "https://pythonforundergradengineers.com/sympy-expressions-and-equations.html"
+      }
+    ]
+  }
+}

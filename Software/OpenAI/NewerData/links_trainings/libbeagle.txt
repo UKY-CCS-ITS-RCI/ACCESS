@@ -1,0 +1,15 @@
+{
+  "Software_Name": "libbeagle",
+  "Software_URL": "https://github.com/beagle-dev/beagle-lib",
+  "Documentation_URL": "https://github.com/beagle-dev/beagle-lib/wiki",
+  "Training_Tutorial_URL": [
+    "http://beast.community/troubleshooting_beagle",
+    "https://github.com/beagle-dev/beagle-lib/wiki/GettingStarted",
+    "https://pubmed.ncbi.nlm.nih.gov/20298518/"
+  ],
+  "Python_Library": "NA",
+  "Conda_Package_URL": "https://anaconda.org/bioconda/beagle-lib",
+  "Computational_Software": "NA",
+  "Bioinformatics_Tool": "Yes",
+  "HPC_Tool": "NA"
+}

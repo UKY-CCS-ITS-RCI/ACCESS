@@ -1,0 +1,16 @@
+{
+  "any2fasta": {
+    "software_url": "https://github.com/tseemann/any2fasta",
+    "documentation_url": "https://github.com/tseemann/any2fasta",
+    "tutorial_materials": [
+      {
+        "title": "Any2fasta Usage",
+        "url": "https://github.com/tseemann/any2fasta#usage"
+      },
+      {
+        "title": "Any2fasta Readme",
+        "url": "https://github.com/tseemann/any2fasta/blob/master/README.md"
+      }
+    ]
+  }
+}

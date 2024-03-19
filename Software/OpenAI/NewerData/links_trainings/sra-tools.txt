@@ -1,0 +1,23 @@
+{
+  "Software": 
+  [
+    {
+      "Name": "sra-tools",
+      "SoftwareUrl": "https://github.com/ncbi/sra-tools",
+      "Documentation": 
+      [
+        {
+	    "DocumentationUrl": "https://github.com/ncbi/sra-tools/wiki"
+	    }
+      ],
+      "Tutorials": 
+      [
+        {
+	    "Tutorial1": "https://www.youtube.com/watch?v=G8R8REUQFrc",
+	    "Tutorial2": "https://www.ncbi.nlm.nih.gov/books/NBK242621/",
+	    "Tutorial3": "http://angus.readthedocs.io/en/2018/sra.html"
+	    }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Software": {
+    "Name": "circompara2",
+    "Software_url": "https://github.com/egaffo/circompara2",
+    "Documentation": {
+      "Documentation_url": "https://github.com/egaffo/circompara2#readme"
+    },
+    "Tutorials_and_Training_Material": {
+      "Tutorials_and_Training_Material_url": []
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Software": {
+    "Name": "go-bootstrap",
+    "Link": "https://github.com/go-bootstrap/go-bootstrap",
+    "Documentation": [
+      {
+        "Link": "https://go.googlesource.com/go/+/refs/heads/master/doc/go1compat.md"
+      }
+    ],
+    "Tutorials": [
+      {
+        "Name": "Intro to Go Bootstrap Tutorial",
+        "Link": "https://www.tutorialsteacher.com/bootstrap/bootstrap-introduction"
+      },
+      {
+        "Name": "Bootstrap with Go: Getting started",
+        "Link": "https://tutorialedge.net/golang/bootstrap-getting-started/"
+      },
+      {
+        "Name": "Go Lang Web with Bootstrap",
+        "Link": "https://www.programming-books.io/essential/go/web-application-with-bootstrap-c2ec1f6f4fcf487c9b6e0f68a8fc6a98"
+      }
+    ]
+  }
+}

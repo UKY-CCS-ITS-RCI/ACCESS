@@ -1,0 +1,19 @@
+{
+  "software": "automake",
+  "software_url": "https://www.gnu.org/software/automake/",
+  "documentation_url": "https://www.gnu.org/software/automake/manual/automake.html",
+  "training_materials": [
+    {
+      "title": "Automake Tutorial",
+      "url": "https://www.lrde.epita.fr/~adl/autotools.html"
+    },
+    {
+      "title": "Gnu Autotools Tutorial",
+      "url": "https://www.openismus.com/documents/linux/automake/automake.shtml"
+    },
+    {
+      "title": "Autoconf, Automake, and Libtool Tutorial",
+      "url": "http://www.flatmtn.com/computer/Linux/AutoconfAutomakeLibtool.html"
+    }
+  ]
+}

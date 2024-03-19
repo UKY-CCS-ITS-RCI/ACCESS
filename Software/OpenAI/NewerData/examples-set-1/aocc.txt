@@ -1,0 +1,20 @@
+Use Case: The AOCC (AMD Optimizing C/C++ Compiler) is an advanced compiler from AMD that has been optimized for x86-64 architecture. It provides high performance for C and C++ applications with superior optimizations, multi-threading, and tuning for AMD processors. For example, it can be used for several tasks including creating an executable from a C or C++ source file.
+
+Code details and examples:
+
+Code:
+Assuming we have a C++ source file called "myprog.cpp", the command line usage of AOCC to compile this source file into an executable can be as follows:
+
+```shell
+clang++ -O3 -march=native ./myprog.cpp -o ./myprog
+```
+Input Files: myprog.cpp
+
+Specifications: The input file in this case would be a C++ source file (.cpp) and the file format must adhere to the C++ syntax rules.
+
+Command to run: 
+```shell
+./myprog
+```
+
+The resulting "myprog" is an executable file that has been optimized for the specific architecture of the AMD processor in the system where the original source file was compiled. Note that "-O3" is a compiler flag that instructs the compiler to apply a high level of optimization during the compilation process, and the "-march=native" flag instructs the compiler to generate code that is optimized for the host processor.

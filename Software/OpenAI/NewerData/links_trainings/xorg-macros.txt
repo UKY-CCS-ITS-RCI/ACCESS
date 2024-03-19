@@ -1,0 +1,11 @@
+{
+  "Software Name": "xorg-macros",
+  "Software Page": "https://gitlab.freedesktop.org/xorg/util/macros",
+  "Documentation": [
+    {
+      "Name": "GitLab Docs",
+      "URL": "https://docs.gitlab.com"
+    }
+  ],
+  "Training and Tutorial Materials": []
+}

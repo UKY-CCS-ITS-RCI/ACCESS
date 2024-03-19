@@ -1,0 +1,22 @@
+{
+  "Software": 
+  { 
+    "XPMEM": 
+    { 
+      "URL": "https://github.com/hjelmn/xpmem",
+      "Documentation": "https://github.com/hjelmn/xpmem/blob/master/README.md",
+      "Tutorials": 
+      [
+        {
+          "XPMEM User’s Guide": "http://xebec.sc.ornl.gov/gitlab/earthio/xpmem/wikis/User%27s-Guide"
+        },
+        {
+          "Using XPMEM in Linux Kernel": "https://www.kernel.org/doc/ols/2010/ols2010-pages-209-218.pdf"
+        },
+        {
+          "An Introduction to XPMEM": "https://www.cisl.ucar.edu/nwp-bootcamp-2019/content/hrpc_mdsawyer_20190613.pdf"
+        }
+      ]
+    }
+  }
+}

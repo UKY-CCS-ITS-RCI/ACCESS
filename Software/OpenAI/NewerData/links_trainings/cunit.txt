@@ -1,0 +1,10 @@
+{
+  "softwareName": "CUnit",
+  "softwarePage": "http://cunit.sourceforge.net/",
+  "documentationLink": "http://cunit.sourceforge.net/doc/index.html",
+  "tutorials": {
+    "tutorialLink1": "http://cunit.sourceforge.net/example.html",
+    "tutorialLink2": "https://www.guru99.com/c-unit-test-framework.html",
+    "tutorialLink3": "http://cunit.sourceforge.net/doc/writing_tests.html"
+  }
+}

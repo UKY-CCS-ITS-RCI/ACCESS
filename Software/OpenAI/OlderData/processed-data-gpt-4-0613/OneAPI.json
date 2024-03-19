@@ -1,0 +1,28 @@
+{
+  "software": "OneAPI",
+  "website": "https://software.intel.com/content/www/us/en/develop/tools/oneapi.html",
+  "documentation": [
+    {
+      "title": "OneAPI Documentation",
+      "url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi.html#documentation"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Intel® OneAPI Training",
+      "url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/training.html"
+    },
+    {
+      "title": "Get Started with OneAPI",
+      "url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/get-started.html"
+    },
+    {
+      "title": "OneAPI Essential Series",
+      "url": "https://www.youtube.com/playlist?list=PLLwegszbdpCKNMhjO1qiRMTmbbFLr2fu6"
+    },
+    {
+      "title": "Introduction to OneAPI Programming",
+      "url": "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top.html"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Software": "imkl-fftw",
+  "Link": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html#fft",
+  "Documentation": [
+    {
+      "Title": "Intel oneAPI Math Kernel Library",
+      "URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html"
+    },
+    {
+      "Title": "Intel Math Kernel Library (MKL) FFT Routines",
+      "URL": "https://software.intel.com/content/www/us/en/develop/documentation/mkl-developer-reference-c/top/fast-fourier-transform-routines.html"
+    },
+    {
+      "Title": "User Guide",
+      "URL": "https://software.intel.com/sites/default/files/managed/db/88/MKL_Userguide.pdf"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Title": "FFT in Intel Math Kernel Library",
+      "URL": "https://software.intel.com/content/www/us/en/develop/documentation/mkl-tutorial-c/top/fft-in-intel-mkl.html"
+    }
+  ]
+}

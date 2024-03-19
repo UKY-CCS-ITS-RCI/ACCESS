@@ -1,0 +1,20 @@
+{
+  "Software Name": "rnaQUAST",
+  "Software URL": "http://cab.spbu.ru/software/rnaquast/",
+  "Documentation": [
+    { 
+      "URL": "http://cab.spbu.ru/software/rnaquast"
+    },
+    { 
+      "URL": "https://anaconda.org/bioconda/rnaquast"
+    }  
+  ],
+  "Training and Tutorials": [
+    {
+      "URL": "https://conda.io/projects/conda/en/latest/user-guide/tutorials/index.html"
+    },
+    {
+      "URL": "https://www.youtube.com/watch?v=ZL0vpTBc0RA"
+    }
+  ]
+}

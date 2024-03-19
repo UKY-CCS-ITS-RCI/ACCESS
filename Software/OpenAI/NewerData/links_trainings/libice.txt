@@ -1,0 +1,12 @@
+{
+   "softwareName": "libice",
+   "softwareUrl": "https://www.x.org/releases/X11R7.6/doc/libICE/libICE.html",
+   "documentations": [
+      {
+         "docUrl": "https://www.x.org/releases/X11R7.6/doc/libICE/libICE.html"
+      }
+   ],
+   "tutorials": [
+
+   ]
+}

@@ -1,0 +1,19 @@
+{
+  "Software": "libopus",
+  "WebPage": "https://opus-codec.org/",
+  "Documentation": "https://opus-codec.org/docs/",
+  "Tutorials": [
+    {
+      "Title": "Opus Interactive Audio Codec Overview",
+      "URL": "https://opus-codec.org/docs/opus_overview.html"
+    },
+    {
+      "Title": "Programming with libopus",
+      "URL": "https://opus-codec.org/docs/opus_api-1.3.1/"
+    },
+    {
+      "Title": "Opus Codec Documentation",
+      "URL": "https://opus-codec.org/documentation/"
+    }
+  ]
+}

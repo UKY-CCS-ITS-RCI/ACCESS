@@ -1,0 +1,51 @@
+Use Case: The libcap library is used for getting, setting or changing POSIX.1e capabilities of running programs. POSIX.1e defines a generic rights framework which can be extended by the system and individual applications. In Linux, libcap uses this framework to control the capabilities that each process and (since Linux 2.2.12) each thread has. 
+
+Code details and examples:
+
+Code:
+
+Here's an example of how you can use libcap to manipulate process capabilities.
+
+```C
+#include <sys/capability.h>
+.
+.
+.
+cap_t caps;
+cap_value_t cap_list[1];
+
+/* Get the current capabilities */
+caps = cap_get_proc();
+if (caps == NULL) {
+    perror("cap_get_proc");
+}
+
+/* Clear all caps */
+if (cap_clear(caps) == -1) {
+    perror("cap_clear");
+}
+
+/* Raise the CAP_SYS_NICE capability */
+cap_list[0] = CAP_SYS_NICE;
+if (cap_set_flag(caps, CAP_EFFECTIVE, 1, cap_list, CAP_SET) == -1) {
+    perror("cap_set_flag");
+}
+
+/* Push the changes back to the kernel*/
+if (cap_set_proc(caps) == -1) {
+    perror("cap_set_proc");
+}
+
+/* Don't forget to free the structure allocated by cap_get_proc */
+cap_free(caps);
+
+```
+Command:
+
+To compile and run the C program that uses libcap, use the following commands:
+
+```bash
+gcc -o program program.c -lcap
+./program
+```
+The -lcap in the gcc command informs the gcc compiler to link against the libcap library. "program" in the ./program command should be replaced with the actual name of your program.

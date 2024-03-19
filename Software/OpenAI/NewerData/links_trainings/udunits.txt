@@ -1,0 +1,24 @@
+{
+    "SoftwareName": "udunits",
+    "SoftwareInfo": {
+        "URL": "https://www.unidata.ucar.edu/software/udunits/",
+        "Documentation": [
+            {
+                "DocURL": "https://www.unidata.ucar.edu/software/udunits/udunits-2.2.28/udunits2lib.html",
+                "Title": "UDUNITS Library"
+
+            },
+            {
+                "DocURL": "https://www.unidata.ucar.edu/software/udunits/udunits-2.2.28/udunits2.html",
+                "Title": "UDUNITS-2 Program"
+
+            }
+        ],
+        "Tutorial": [
+            {
+                "TutURL": "https://ncics.org/portfolio/other-software/udunits/",
+                "Title": "UDUNITS software by NCICS"
+            }
+        ]
+    }
+}

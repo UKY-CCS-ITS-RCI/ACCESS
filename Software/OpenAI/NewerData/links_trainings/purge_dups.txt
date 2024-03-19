@@ -1,0 +1,19 @@
+{
+  "software": "purge_dups",
+  "software_url": "https://github.com/dfguan/purge_dups",
+  "documentation": "https://github.com/dfguan/purge_dups#readme",
+  "training_materials": [
+    {
+      "tutorial": "Purge Dups Tutorial",
+      "url": "https://genomeinformatics.github.io/hipster-2020-purge-dups/"
+    },
+    {
+      "tutorial": "Purge_Dups Tutorial in Bioinformatics Recipes",
+      "url": "https://bioinformaticsworkbook.org/Appendix/Glossary/Purge_Dups_Tutorial.html#gsc.tab=0"
+    },
+    {
+      "tutorial": "Purge_dups Wiki",
+      "url": "https://bitbucket.org/mroachawri/dna-seq/wiki/home"
+    }
+  ]
+}

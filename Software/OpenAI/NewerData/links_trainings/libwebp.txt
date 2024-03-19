@@ -1,0 +1,13 @@
+{
+    "Software Name": "libwebp",
+    "Software URL": "https://developers.google.com/speed/webp/docs/precompiled",
+    "Documentation": {
+        "Doc link1": "https://developers.google.com/speed/webp/docs/api",
+        "Doc link2": "https://developers.google.com/speed/webp/docs/container-spec"
+    },
+    "Tutorials / Training": {
+        "Tutorial link1": "https://developers.google.com/speed/webp/docs/using",
+        "Tutorial link2": "https://developers.google.com/speed/webp/docs/cwebp",
+        "Tutorial link3": "https://www.digicamsoft.com/softwaredetail.php?softid=25"
+    }
+}

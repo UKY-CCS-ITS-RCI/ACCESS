@@ -1,0 +1,25 @@
+{
+  "Software": "angsd",
+  "Details": [
+    {
+      "SoftwarePage": {
+        "URL": "http://www.popgen.dk/angsd/index.php/ANGSD"
+      },
+      "Documentation": {
+        "URL": "http://www.popgen.dk/angsd/index.php/Manual"
+      },
+      "Tutorials": [
+        {
+          "Tutorial1": {
+            "title": "ANGSD tutorial – RADseq – data analysis",
+            "URL": "https://radseq.wordpress.com/angsd-tutorial/"
+          },
+          "Tutorial2": {
+            "title": "Analyzing low-depth sequencing data with ANGSD",
+            "URL": "http://evomicsorg.wpengine.netdna-cdn.com/wp-content/uploads/2016/01/angsd13.pdf"
+          }
+        }
+      ]
+    }
+  ]
+}

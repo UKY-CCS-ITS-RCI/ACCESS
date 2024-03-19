@@ -1,0 +1,21 @@
+{
+  "cgns": {
+    "softwarePage": "https://cgns.github.io/",
+    "documentation": [
+      {
+        "url": "https://cgns.github.io/CGNS_docs_current/midlevel/about.html",
+        "name": "CGNS Documentation"
+      }
+    ],
+    "tutorials": [
+      {
+        "url": "https://cgns.github.io/tutorial.html",
+        "name": "CGNS Tutorial"
+      },
+      {
+        "url": "https://www.researchgate.net/publication/280210620_CGNS_Overview_and_Future_Directions",
+        "name": "CGNS Overview and Future Directions - ResearchGate"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "software":{
+        "name": "Scipy",
+        "website": "https://www.scipy.org/",
+        "documentation": "https://docs.scipy.org/doc/",
+        "tutorials":[
+            {
+                "name":"SciPy tutorial",
+                "URL": "https://docs.scipy.org/doc/scipy/reference/tutorial/index.html"
+            },
+            {
+                "name":"SciPy lectures",
+                "URL": "http://www.scipy-lectures.org/index.html"
+            },
+            {
+                "name":"Beginner's guide to SciPy",
+                "URL": "https://www.datacamp.com/community/tutorials/python-scipy-tutorial"
+            }
+        ]
+    }
+}

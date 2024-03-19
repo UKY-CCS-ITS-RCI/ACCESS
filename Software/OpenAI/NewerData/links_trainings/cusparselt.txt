@@ -1,0 +1,17 @@
+{
+  "Software Name": "cuSPARSELt",
+  "Software Page": "https://developer.nvidia.com/cusparselt",
+  "Related URLs": {
+    "Documentation": "https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html",
+    "Tutorials": [
+      {
+        "Tutorial_1": "https://docs.nvidia.com/cuda/cuda-samples/index.html#matrix-multiply-using-cublas",
+        "Tutorial_2": "https://docs.nvidia.com/cuda/cusparse/index.html"
+      }
+    ],
+    "Training": [
+      "https://developer.nvidia.com/deep-learning",
+      "https://www.coursera.org/learn/introduction-to-gpu-programming-with-cuda"
+    ]
+  }
+}

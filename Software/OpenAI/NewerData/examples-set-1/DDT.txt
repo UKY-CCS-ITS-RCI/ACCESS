@@ -1,0 +1,47 @@
+Use Case: DDT (Distributed Debugging Tool) is a popular tool used for debugging parallel applications. It supports multiple parallel programming models and helps developers in identifying and rectifying bugs in their parallel code.
+
+Code details and examples: 
+
+Code:
+
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char **argv) {
+    int i, n;
+    double *a, sum = 0.0;
+
+    if(argc < 2) {
+        fprintf(stderr, "Usage: %s <num>\n", argv[0]);
+        exit(1);
+    }
+
+    n = atoi(argv[1]);
+    a = malloc(sizeof(double) * n);
+
+    for(i = 0; i < n; i++) {
+        a[i] = i;
+        sum += a[i];
+    }
+
+    printf("Sum: %g\n", sum);
+
+    free(a);
+    return 0;
+}
+```
+
+To debug the above C code using DDT, we start the tool with the ddt command as follows:
+
+`ddt ./program`
+
+After you start the tool, it automatically analyzes the code and allows you to set breakpoints, watch variables, etc. Additionally, you can navigate the source code to look at different parts of your program.
+
+With DDT you have to make sure to use executable compiled with -g option to include debugging symbols in the binary. 
+
+For more complex case, like running on MPI code, you may use command like:
+
+`ddt --connect mpirun -np 4 ./program <arg1> <arg2>`
+
+Where arg1, arg2 are arguments required by your program. In the above case, 4 is the number of processes to start, it should be modified to fit your requirements.

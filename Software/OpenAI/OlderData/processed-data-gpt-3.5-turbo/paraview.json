@@ -1,0 +1,23 @@
+{
+    "software_name": "ParaView",
+    "comprehensive_overview": "ParaView is an open-source, multi-platform data analysis and visualization application. It utilizes a distributed and parallel architecture to process large data sets. It is designed to handle extremely large data sets using scalable visualization techniques.",
+    "core_features": [
+        "Advanced visualization capabilities",
+        "Support for large datasets",
+        "Distributed and parallel processing",
+        "Interactive analysis tools",
+        "Customizable scripting support"
+    ],
+    "general_tags": [
+        "Data Visualization",
+        "Big Data Analysis",
+        "Parallel Processing",
+        "Open Source"
+    ],
+    "additional_tags": {
+        "research_discipline": "Engineering",
+        "research_area": "Data Analysis",
+        "software_class": "Data Visualization",
+        "software_type": "Analysis Tool"
+    }
+}

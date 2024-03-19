@@ -1,0 +1,12 @@
+{
+  "Software": "libdeflate",
+  "URL": {
+"https://github.com/ebiggers/libdeflate": {},
+  "Documentation": {
+"https://github.com/ebiggers/libdeflate/blob/master/README.md": {}
+  },
+  "Training Materials": {
+    "Generic C lib": "https://www.learn-c.org/",
+    "Understanding Compression Algorithms": "https://medium.com/@duhroach/rethinking-gzip-69bf4b6b88c6"
+  }
+}

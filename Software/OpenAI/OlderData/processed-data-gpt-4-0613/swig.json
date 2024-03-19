@@ -1,0 +1,14 @@
+{
+    "software": "SWIG",
+    "resources": {
+        "softwareHomepage": "http://www.swig.org/",
+        "documentation": "http://www.swig.org/doc.html",
+        "tutorials": [
+            {
+                "title": "Introduction to SWIG",
+                "url": "http://www.swig.org/tutorial.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

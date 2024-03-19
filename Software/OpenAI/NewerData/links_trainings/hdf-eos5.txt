@@ -1,0 +1,9 @@
+{
+  "Software": "hdf-eos5",
+  "URL": "https://hdfeos.org/software/tool.php",
+  "Documentation": "https://hdfeos.org/software/library.php",
+  "Tutorials": {
+    "HDF-EOS Workshop": "https://hdfeos.org/workshops/ws18.php",
+    "Python H5PY Tutorial": "https://vahidmirjalili.com/reading-hdf5-files-in-python.html"
+  }
+}

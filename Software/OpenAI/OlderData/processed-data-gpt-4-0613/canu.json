@@ -1,0 +1,10 @@
+{
+    "Software": "Canu",
+    "Website": "https://canu.readthedocs.io/en/latest/",
+    "Documentation": "https://canu.readthedocs.io/en/latest/",
+    "Tutorial_and_Training": [
+        "https://genomeinformatics.github.io/CanuTutorial/",
+        "https://datacarpentry.org/wrangling-genomics/03-assembling-genomes-using-canu/index.html",
+        "https://www.youtube.com/watch?v=z9zqChLTVVY"
+    ]
+}

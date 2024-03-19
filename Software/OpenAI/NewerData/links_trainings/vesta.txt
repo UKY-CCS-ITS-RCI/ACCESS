@@ -1,0 +1,29 @@
+{
+  "software": {
+    "name": "VESTA",
+    "webURL": "https://jp-minerals.org/vesta/en/",
+    "documentationURL": "https://jp-minerals.org/vesta/en/download.html",
+    "tutorials": [
+      {
+        "name": "Visualization for Electronic and STructural Analysis",
+        "url": "https://www.youtube.com/watch?v=B8vVq5aHhYE"
+      },
+      {
+        "name": "Basic use of VESTA program",
+        "url": "https://www.youtube.com/watch?v=er9HNeARazI"
+      },
+      {
+        "name": "Importing and Visualising Crystal Structures with VESTA",
+        "url": "https://www.youtube.com/watch?v=bkjky3fUvWM"
+      },
+      {
+        "name": "VESTA Tutorial - Plotting Electron Density Maps",
+        "url": "https://www.youtube.com/watch?v=NY0BQy1v8m8"
+      },
+      {
+        "name": "VESTA Tutorial - XRD Plotting",
+        "url": "https://www.youtube.com/watch?v=Ezpr3EdcJbU"
+      }
+    ]
+  }
+}

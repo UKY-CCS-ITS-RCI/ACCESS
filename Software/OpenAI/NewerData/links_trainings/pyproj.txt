@@ -1,0 +1,23 @@
+{
+  "software_name": "PyProj",
+  "software_url": "https://pypi.org/project/pyproj/",
+  "documentation": "https://pyproj4.github.io/pyproj/stable/",
+  "training_and_tutorial_materials": [
+    {
+      "title": "PyProj Basic Usage",
+      "url": "https://pyproj4.github.io/pyproj/stable/examples.html"
+    },
+    {
+      "title": "GitHub PyProj Examples",
+      "url": "https://github.com/pyproj4/pyproj/tree/master/examples"
+    },
+    {
+      "title": "Stackoverflow PyProj questions",
+      "url": "https://stackoverflow.com/questions/tagged/pyproj"
+    },
+    {
+      "title": "GeoPython workshop materials",
+      "url": "https://github.com/GeospatialPython/geopython"
+    }
+  ]
+}

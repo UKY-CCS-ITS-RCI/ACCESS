@@ -1,0 +1,10 @@
+{
+  "Software Name": "spice-server",
+  "Main Page": "https://www.spice-space.org/",
+  "Documentation": "https://www.spice-space.org/docs.html",
+  "Tutorials_and_Training_Materials": [
+    "https://www.spice-space.org/spice-user-manual.html",
+    "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-spice",
+    "https://www.spice-space.org/spice-about.html"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Software_Name": "r-openssl",
+  "Software_Link": "https://cran.r-project.org/web/packages/openssl/index.html",
+  "Documentation_Link": "https://www.rdocumentation.org/packages/openssl/versions/1.4.3",
+  "Tutorials_And_Training_Materials": [
+    {
+      "Tutorial_Link_1": "https://www.databovin.com/r-openssl-create-public-private-key-pairs/"
+    },
+    {
+      "Tutorial_Link_2": "https://gpilgrim.netlify.app/2018/06/parallel-processing-in-r-with-openssl-snowfall-and-doparallel.html"
+    }
+  ]
+}

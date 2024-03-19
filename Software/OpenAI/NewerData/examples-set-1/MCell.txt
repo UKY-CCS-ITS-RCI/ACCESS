@@ -1,0 +1,40 @@
+Use Case: Use MCell for modeling complex microscopic biochemical systems, such as inside living cells. It can track molecules in a 3D space over time executing their modifications. 
+
+Code details and examples: Code :
+
+Input File: The input to MCell is a plain text MDL (MCell Development Language) file. The MDL file describes the physical system and chemical reactions. Here is a simple example of MDL file:
+
+```
+// Create box
+WORLD_BOX
+{
+  [0,0,0]
+  [1,1,1]
+}
+ 
+// Place molecules
+DEFINE_MOLECULES
+{
+  MOL_A
+  {
+    DIFFUSION_CONSTANT_3D = 1e-06 [um^2 us^1] [molecules=1e15]
+  }
+}
+ 
+//Create an instantiation for placement of molecules. 
+INSTANTIATIONS
+{
+  DEFAULT_RELEASE
+  {
+    MOL_A = [[0,0,0]]
+  }
+}
+```
+This simple example creates a cubic world box of size 1 um and places a single `MOL_A` molecule at the origin.
+
+Run the MCell simulation : 
+
+Command to run this MDL file, named `test.mdl`, is: 
+```
+mcell test.mdl
+```

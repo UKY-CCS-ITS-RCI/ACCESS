@@ -1,0 +1,10 @@
+{
+  "software": {
+    "name":"Prothint",
+    "official_page": "https://github.com/gatech-genemark/ProtHint",
+    "links": {
+      "documentation": "https://prothint.readthedocs.io/en/latest/",
+      "tutorial": "https://prothint.readthedocs.io/en/latest/tutorial.html"
+    }
+  }
+}

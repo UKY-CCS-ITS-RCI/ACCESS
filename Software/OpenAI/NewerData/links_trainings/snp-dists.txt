@@ -1,0 +1,16 @@
+{
+  "snp-dists" : {
+    "software_page": "https://github.com/tseemann/snp-dists",
+    "documentation": "https://github.com/tseemann/snp-dists#snp-dists---find-snp-differences-in-a-set-of-sequences",
+    "tutorial_materials" : [
+      {
+        "name": "Gubbins tutorial",
+        "link": "https://sanger-pathogens.github.io/gubbins/"
+      },
+      {
+        "name": "SNP Dists & FastTree Workflow",
+        "link": "https://bioinformaticsonline.com/pages/view/24900/snpdists-determines-the-hamming-distance-between-snp-datasets-with-each-other"
+      }
+    ]
+  }
+}

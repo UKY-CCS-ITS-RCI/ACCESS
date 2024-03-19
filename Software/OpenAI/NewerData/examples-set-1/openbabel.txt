@@ -1,0 +1,33 @@
+Use Case: Open Babel is a chemical toolbox used to search, convert, analyze, or store chemical data. In particular, it can be used to convert chemical file formats. 
+
+Code Details and Examples:
+
+Code:
+
+Consider a molecule stored in a "MOL" format file named "input.mol" and we want to convert it into "PDB" format.
+
+- Sample Input File: `input.mol`
+
+```
+ OpenBabel09022116273D
+
+  9  9  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2990    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2990   -0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0878    1.4627   -1.0023 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0878    1.4627    1.0023 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -1.2990   -0.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2990    0.7500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  M  END
+
+$$$$
+```
+
+- Command to run: `obabel input.mol -O output.pdb`
+
+This will convert the input molecular structure in "MOL" format to an output structure in "PDB" format and save it as "output.pdb". 
+
+The "-O" flag is used to specify the output file and format. 
+
+Note that the input and output file formats are inferred from the file extensions.

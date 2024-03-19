@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Gdk": {
+      "MainPage": "https://developer.gnome.org/gdk3/stable/",
+      "Documentation": "https://developer.gnome.org/gdk3/stable/gdk3-The-GDK-Library.html",
+      "Tutorials": [
+        "https://developer.gnome.org/gdk-pixbuf/stable/",
+        "https://developer.gnome.org/gtk-tutorial/stable/x481.html",
+        "https://stackoverflow.com/questions/29055561/what-is-the-difference-between-gtk-and-gdk"
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "softwareName": "libnotify",
+  "softwarePage": "https://developer.gnome.org/libnotify/",
+  "documentation": {
+    "url": "https://developer.gnome.org/libnotify/"
+  },
+  "trainingMaterials": [
+    {
+      "url": "https://people.gnome.org/~fab/libnotify/docs.html",
+      "label": "libnotify documentation"
+    },
+    {
+      "url": "https://help.gnome.org/users/gnome-help/stable/shell-notifications.html.en",
+      "label": "GNOME Help for libnotify"
+    },
+    {
+      "url": "https://www.linuxuprising.com/2018/07/how-to-use-notify-send-command-to-send.html",
+      "label": "Tutorial - How to use notify-send"
+    }
+  ]
+}

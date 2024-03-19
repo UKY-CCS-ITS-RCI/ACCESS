@@ -1,0 +1,12 @@
+{
+  "SoftwareName": "Snappy",
+  "Homepage": "https://github.com/google/snappy",
+  "Resources": {
+    "Documentation": "https://github.com/google/snappy",
+    "Tutorials": [
+      "https://stackoverflow.com/questions/9297579/snappy-compression-method-for-net",
+      "https://csharp.hotexamples.com/examples/-/Snappy/Decompress/php-snappy-decompress-method-examples.html"
+    ],
+    "TrainingMaterial": ["https://github.com/google/snappy"]
+  }
+}

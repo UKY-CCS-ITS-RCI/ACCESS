@@ -1,0 +1,23 @@
+{
+    "software": "Git",
+    "overview": "Git is a distributed version control system commonly used for tracking changes in source code during software development. It enables collaboration, branch management, and version control for individual and team-based projects.",
+    "core_features": [
+        "Distributed version control",
+        "Commit and tracking changes",
+        "Branching and merging",
+        "Remote repository management",
+        "Collaboration and code review"
+    ],
+    "general_tags": [
+        "version control system",
+        "source code management",
+        "collaborative development",
+        "branching and merging"
+    ],
+    "additional_tags": {
+        "research_discipline": "Software Engineering",
+        "research_area": "Version Control",
+        "software_class": "Version Control System",
+        "software_type": "Open Source"
+    }
+}

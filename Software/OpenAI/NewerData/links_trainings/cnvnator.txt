@@ -1,0 +1,13 @@
+{
+  "Software Name": "cnvnator",
+  "Software Link": "https://github.com/abyzovlab/CNVnator",
+  "Documentation Links": {
+    "GitHub Wiki": "https://github.com/abyzovlab/CNVnator/wiki",
+    "User Manual": "https://github.com/abyzovlab/CNVnator/blob/master/README.md"
+  },
+  "Training and Tutorial Links": {
+      "Tutorial on Biostar": "https://www.biostars.org/p/135762/",
+      "Video Tutorial on Youtube": "https://www.youtube.com/watch?v=UT6pJIxMOvI",
+      "Use Case: CNV Calling with CNVnator": "https://genome.sph.umich.edu/wiki/CNVnator"
+  }
+}

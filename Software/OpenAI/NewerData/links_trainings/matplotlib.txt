@@ -1,0 +1,11 @@
+{
+  "name": "matplotlib",
+  "url": "https://matplotlib.org/",
+  "documentation": "https://matplotlib.org/stable/contents.html",
+  "tutorials": {
+    "matplotlib official tutorials": "https://matplotlib.org/stable/tutorials/index.html",
+    "Real Python": "https://realpython.com/python-matplotlib-guide/",
+    "DataCamp": "https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python",
+    "Python Course": "https://www.python-course.eu/matplotlib.php"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "software_name": "paml",
+  "software_page": "http://abacus.gene.ucl.ac.uk/software/paml.html",
+  "documentation": "http://abacus.gene.ucl.ac.uk/software/pamlDOC.pdf",
+  "tutorials_and_training_materials": [
+    "https://www.youtube.com/watch?v=YNMkADpvO4w",
+    "https://molevol.mbl.edu/index.php/PAML",
+    "http://bioinformatics.cvr.ac.uk/blog/simple-paml-tutorial/"
+  ]
+}

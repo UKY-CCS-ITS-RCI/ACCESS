@@ -1,0 +1,19 @@
+{
+  "software": "libxc",
+  "software_url": "https://www.tddft.org/programs/libxc/",
+  "docs_url": "https://www.tddft.org/programs/libxc/manual-5.0/",
+  "training_materials": [
+    {
+      "title": "Introduction to libxc",
+      "url": "http://www.physics.rutgers.edu/~haule/681/src_MP/libxc-2.0.2/"
+    },
+    {
+      "title": "libxc Training Course",
+      "url": "http://www.yambo-code.org/wiki/index.php?title=Libxc:_A_library_of_exchange_and_correlation"
+    },
+    {
+      "title": "libxc Tutorial",
+      "url": "https://psicode.org/psi4manual/master/external.html#compiling-libxc"
+    }
+  ]
+}

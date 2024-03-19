@@ -1,0 +1,7 @@
+{
+  "software_name": "idev",
+  "software_URL": "https://uhhpc.its.hawaii.edu/idev.html",
+  "documentation_link": "https://uhhpc.its.hawaii.edu/idev.html",
+  "training_materials": [],
+  "tutorial_links": ["https://www.tacc.utexas.edu/about/directorate/advanced-computing/tutorials/idev-nchc"]
+}

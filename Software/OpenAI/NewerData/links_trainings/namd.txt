@@ -1,0 +1,19 @@
+{
+  "software": "NAMD",
+  "software_url": "https://www.ks.uiuc.edu/Research/namd/",
+  "documentation": "https://www.ks.uiuc.edu/Research/namd/2.14/ug/",
+  "tutorial_material": [
+    {
+      "title": "NAMD Tutorial",
+      "url": "https://www.ks.uiuc.edu/Training/Tutorials/"
+    },
+    {
+      "title": "NAMD User Guide",
+      "url": "https://www.ks.uiuc.edu/Research/namd/2.14/ug/"
+    },
+    {
+      "title": "NAMD Mailing List",
+      "url": "https://www.ks.uiuc.edu/Research/namd/mailing_list/"
+    }
+  ]
+}

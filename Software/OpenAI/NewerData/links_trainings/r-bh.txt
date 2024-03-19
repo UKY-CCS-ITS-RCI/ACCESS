@@ -1,0 +1,8 @@
+{
+  "SoftwareName": "r-bh",
+  "SoftwarePageLink": "https://cran.r-project.org/web/packages/BH/index.html",
+  "AdditionalLinks": {
+    "DocumentationLink": "https://cran.r-project.org/web/packages/BH/BH.pdf",
+    "TutorialLinks": ["https://www.rdocumentation.org/packages/BH/versions/1.72.0-3"]
+  }
+}

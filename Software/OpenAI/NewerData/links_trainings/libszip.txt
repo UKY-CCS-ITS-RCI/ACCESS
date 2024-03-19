@@ -1,0 +1,15 @@
+{
+  "Software": "libszip",
+  "Website": "https://www.hdfgroup.org/szip/",
+  "Documentation": "https://support.hdfgroup.org/doc_resource/SZIP/Documentation/szip.html",
+  "Tutorials": [
+    {
+      "Title": "How to Install libszip with HDF5",
+      "URL": "https://support.hdfgroup.org/HDF5/release/obtain5.html#szip"
+    },
+    {
+      "Title": "General Tutorial on HDF5 (with which libszip is usually used)",
+      "URL": "https://www.hdfgroup.org/solutions/hdf5/"
+    }
+  ]
+}

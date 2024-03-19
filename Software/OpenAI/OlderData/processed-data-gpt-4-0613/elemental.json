@@ -1,0 +1,16 @@
+{
+  "Software Name": "Elemental",
+  "Software Link": "http://libelemental.org/",
+  "Documentation": [
+    {
+      "Link": "https://libelemental.readthedocs.io/en/latest/",
+      "Title": "Elemental Documentation"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Link": "https://libelemental.readthedocs.io/en/latest/details/quicktutorial.html",
+      "Title": "Elemental Quick Tutorial"
+    }
+  ]
+}

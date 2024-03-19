@@ -1,0 +1,14 @@
+{
+    "software": "Libint",
+    "resources": {
+        "softwareHomepage": "https://github.com/evaleev/libint",
+        "documentation": "https://github.com/evaleev/libint/wiki",
+        "tutorials": [
+            {
+                "title": "Libint library for the evaluation of molecular integrals of many-body operators over Gaussian functions",
+                "url": "http://web.archive.org/web/20110401201634/http://www.cse.clrc.ac.uk/qcg/projects/libint/libint.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

@@ -1,0 +1,12 @@
+
+{
+  "NCBI": {
+    "Web Portal": "https://www.ncbi.nlm.nih.gov/",
+    "Documentation": "https://www.ncbi.nlm.nih.gov/books/NBK3831/",
+    "Tutorials": [
+      "https://www.ncbi.nlm.nih.gov/guide/training-tutorials/",
+      "https://www.ncbi.nlm.nih.gov/home/learn/"
+    ]
+  }
+}
+

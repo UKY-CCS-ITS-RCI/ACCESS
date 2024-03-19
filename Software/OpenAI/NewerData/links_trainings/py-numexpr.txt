@@ -1,0 +1,12 @@
+{
+  "software_name": "py-numexpr",
+  "software_url": "https://pypi.org/project/numexpr/",
+  "documentation": {
+    "doc1_url": "https://numexpr.readthedocs.io/en/latest/user_guide.html"
+  },
+  "tutorials_and_training": {
+    "tutorial1_url": "https://numpy.org/doc/stable/user/basics.broadcasting.html",
+    "tutorial2_url": "https://www.youtube.com/watch?v=ok1RcUrc2Qc",
+    "tutorial3_url": "https://www.codementor.io/@mr_michael_washburnjr/numexpr-optimizing-arithmetic-operations-in-python-ovfspzvcq"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Software": "OpenMM",
+  "Details": [
+    {
+      "Software_Url": "http://openmm.org/",
+      "Documentation": {
+        "Documentation_Url": "http://docs.openmm.org/latest/userguide/index.html"
+      },
+      "Training_Materials": [
+        {
+          "Training_Material_Url1": "https://simtk.org/projects/openmm",
+          "Training_Material_Url2": "https://github.com/pandegroup/openmm/wiki"
+        }
+      ]
+    }
+  ]
+}

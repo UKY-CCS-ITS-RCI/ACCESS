@@ -1,0 +1,15 @@
+{
+  "Software": "shovill",
+  "Software_url": "https://github.com/tseemann/shovill",
+  "Documentation_url": "https://github.com/tseemann/shovill#readme",
+  "Tutorial_and_training_materials": [
+    {
+      "Tutorial_url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/shovill/tutorial.html",
+      "Tutorial_name": "De novo genome sequence assembly using Shovill"
+    },
+    {
+      "Training_material_url": "https://galaxyproject.github.io/training-material/topics/assembly/",
+      "Training_material_name": "Assembly - Galaxy Training"
+    }
+  ]
+}

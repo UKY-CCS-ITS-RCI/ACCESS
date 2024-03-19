@@ -1,0 +1,13 @@
+{
+  "Protobuf": {
+    "software_link": "https://developers.google.com/protocol-buffers",
+    "documentation_link": "https://developers.google.com/protocol-buffers/docs/overview",
+    "tutorial_links": [
+      "https://developers.google.com/protocol-buffers/docs/cpptutorial",
+      "https://developers.google.com/protocol-buffers/docs/javatutorial",
+      "https://developers.google.com/protocol-buffers/docs/pythontutorial",
+      "https://developers.google.com/protocol-buffers/docs/gotutorial",
+      "https://www.tutorialspoint.com/protocol_buffers/index.htm"
+    ]
+  }
+}

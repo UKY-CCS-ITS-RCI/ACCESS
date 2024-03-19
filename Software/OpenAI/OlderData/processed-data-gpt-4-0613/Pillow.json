@@ -1,0 +1,21 @@
+{
+  "Software": {
+    "Name": "Pillow",
+    "Software URL": "https://python-pillow.org/",
+    "Docs URL": "https://pillow.readthedocs.io/",
+    "Tutorial URL": [
+      {
+        "Name": "Pillow Python Image Processing Tutorial",
+        "URL": "https://www.pythonprogramming.net/series/image-processing-series/"
+      },
+      {
+        "Name": "Pillow in Python tutorial",
+        "URL": "https://likegeeks.com/pillow-python-images/"
+      },
+      {
+        "Name": "Pillow: Image Processing with Python",
+        "URL": "https://realpython.com/tutorials/pillow/"
+      }
+    ]
+  }
+}

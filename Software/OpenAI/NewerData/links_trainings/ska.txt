@@ -1,0 +1,70 @@
+{
+  "Scientific Software": {
+    "name": "ska",
+    "Software page": "https://github.com/ska-sa",
+    "Documentation": "",
+    "Training and tutorial materials": ""
+  },
+  "Compilers": {
+    "GNU Compiler Collection": {
+      "Software page": "https://gcc.gnu.org/",
+      "Documentation": "https://gcc.gnu.org/onlinedocs/",
+      "Training and tutorial materials": [
+        "https://www.geeksforgeeks.org/compiling-with-gcc/",
+        "https://gcc.gnu.org/wiki/GettingStarted"
+      ]
+    }
+  },
+  "Python Libraries": {
+    "NumPy": {
+      "Software page": "https://numpy.org/",
+      "Documentation": "https://numpy.org/doc/",
+      "Training and tutorial materials": [
+        "https://numpy.org/learn/",
+        "https://www.w3schools.com/python/numpy_intro.asp"
+      ]
+    },
+    "Pandas": {
+      "Software page": "https://pandas.pydata.org/",
+      "Documentation": "https://pandas.pydata.org/docs/",
+      "Training and tutorial materials": [
+        "https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html",
+        "https://www.w3schools.com/python/pandas/default.asp"
+      ]
+    }
+  },
+  "Computataional Software": {
+    "MATLAB": {
+      "Software page": "https://www.mathworks.com/products/matlab.html",
+      "Documentation": "https://www.mathworks.com/help/matlab/",
+      "Training and tutorial materials": [
+        "https://www.mathworks.com/learn/tutorials/matlab-onramp.html",
+        "https://www.coursera.org/learn/matlab"
+      ]
+    }
+  },
+  "Conda Packages": {
+    "Bioconda": {
+      "Software page": "https://bioconda.github.io/",
+      "Documentation": "https://bioconda.github.io/contributing.html",
+      "Training and tutorial materials": "https://bioconda.github.io/user/install.html"
+    }
+  },
+  "Bioinformatics Tools": {
+    "BLAST": {
+      "Software page": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
+      "Documentation": "https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs",
+      "Training and tutorial materials": "https://www.ncbi.nlm.nih.gov/books/NBK279690/"
+    }
+  },
+  "HPC Tools": {
+    "OpenMP": {
+      "Software page": "https://www.openmp.org/",
+      "Documentation": "https://www.openmp.org/specifications/",
+      "Training and tutorial materials": [
+        "https://www.openmp.org/resources/tutorials-articles/",
+        "https://www.youtube.com/watch?v=nE-xN4Bf8XI&ab_channel=OpenMPArchitectureReviewBoard"
+      ]
+    }
+  }
+}

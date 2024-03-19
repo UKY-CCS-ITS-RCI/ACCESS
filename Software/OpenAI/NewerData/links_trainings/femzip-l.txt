@@ -1,0 +1,8 @@
+{
+  "software": {
+    "name": "femzip-l",
+    "software_page": "http://www.sidact.com/downloads/femzip_files/femzip_8.4.0_Linux64/R1-Readme_femzip_v8.4.txt",
+    "documentation_link": "N/A",
+    "training_materials": "N/A"
+  }
+}

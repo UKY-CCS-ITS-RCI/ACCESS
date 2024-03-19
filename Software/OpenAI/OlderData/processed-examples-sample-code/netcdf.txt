@@ -1,0 +1,59 @@
+Use Case: NetCDF (Network Common Data Form) is a set of software libraries and machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
+
+Code details and examples:
+NetCDF file example (sample.nc):
+```
+netcdf sample {
+dimensions:
+    time = 2;
+    lat = 3;
+    lon = 4;
+variables:
+    float temperature(time, lat, lon);
+    temperature:units = "K";
+    float latitude(lat);
+    latitude:units = "degrees_north";
+    float longitude(lon);
+    longitude:units = "degrees_east";
+    int time(time);
+    time:units = "hours since 2021-07-01 00:00:00";
+data:
+ temperature =
+  22.5, 23.5, 24.5, 25.5,
+  26.5, 27.5, 28.5, 29.5,
+  30.5, 31.5, 32.5, 33.5,
+  34.5, 35.5, 36.5, 37.5,
+  38.5, 39.5, 40.5, 41.5,
+  42.5, 43.5, 44.5, 45.5;
+ latitude = 10.0, 20.0, 30.0;
+ longitude = -120.0, -110.0, -100.0, -90.0;
+ time = 0, 1;
+}
+```
+
+Python code to read NetCDF file using netCDF4 library:
+```python
+import netCDF4
+
+# Open NetCDF file
+nc = netCDF4.Dataset('sample.nc', 'r')
+
+# Read variable
+temperature = nc.variables['temperature'][:]
+latitude = nc.variables['latitude'][:]
+longitude = nc.variables['longitude'][:]
+time = nc.variables['time'][:]
+
+# Close NetCDF file
+nc.close()
+
+print(temperature)
+print(latitude)
+print(longitude)
+print(time)
+```
+
+Command to run the Python script:
+```
+python script.py
+```

@@ -1,0 +1,16 @@
+{
+"software_name": "Graphmap",
+"software_URL": "https://github.com/isovic/graphmap",
+"documentation": {
+"link1": "https://github.com/isovic/graphmap#readme"
+},
+"training_materials": {
+"link1": "https://www.researchgate.net/publication/303359709_GraphMap_A_Highly_Sensitive_and_Accurate_Mapper_for_Long_Noisy_Reads_Maybe_Even_The_Ultimate_Mapper",
+"link2": "https://bioinformatics.stackexchange.com/questions/1450/is-it-possible-to-use-graphmap-to-splice-alignment-and-how",
+"link3": "https://github.com/isovic/graphmap/issues/2"
+},
+"tutorial_materials": {
+"link1": "https://omictools.com/tutorials/graphmap-tutorial",
+"link2": "https://www.protocols.io/view/bioinformatics-workflows-bts156"
+}
+}

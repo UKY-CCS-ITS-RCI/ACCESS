@@ -1,0 +1,31 @@
+Use Case: Tecplot is a visualization software package that is commonly used in scientific and engineering areas. It provides a unique method of analyzing and understanding simulation data, measured data, and analytic data.
+
+Code details and examples:
+
+Code:
+
+An example of a Tecplot ASCII data file format is :
+
+    TITLE     = "Sample Data"
+    VARIABLES = "X" "Y" "Z" "P" "U" "V"
+    ZONE T="ZONE 1"
+    0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+    0.000000 0.250000 0.000000 0.000000 0.000000 0.250000
+
+In the above example:
+
+TITLE signifies the title of the data set.
+
+VARIABLES signifies the list of variable names. Each name represents a column in the data section.
+
+ZONE T = "ZONE 1" signifies the start of a new data zone.
+
+The lines beneath ZONE represent the actual data - each line is one data point, each value represents the corresponding variable.
+
+Note that the gaps between the figures are spaces; Tecplot also accepts tabs as separators.
+
+Command to run the TecPlot:
+
+tec360 -b script.mcr
+
+The above command will launch tecplot in batch mode with the provided Macro script (script.mcr). It is necessary to replace "script.mcr" with the actual path of the macro script you intend to execute.

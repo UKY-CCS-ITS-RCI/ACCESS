@@ -1,0 +1,9 @@
+{
+    "software_name": "Inq",
+    "software_page_url": "https://github.com/LLNL/inq",
+    "documentation_link": "https://inq.readthedocs.io/en/latest/",
+    "tutorial_links": [
+        "https://inq.readthedocs.io/en/latest/getting_started/basic.html",
+        "https://inq.readthedocs.io/en/latest/getting_started/install.html"
+    ]
+}

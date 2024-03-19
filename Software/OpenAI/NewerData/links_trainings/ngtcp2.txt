@@ -1,0 +1,9 @@
+{
+  "software_name": "ngtcp2",
+  "software_url": "https://github.com/ngtcp2/ngtcp2",
+  "documentation_url": "https://github.com/ngtcp2/ngtcp2#documentation",
+  "tutorial_materials_urls": [
+    "https://github.com/ngtcp2/ngtcp2#build",
+    "https://github.com/ngtcp2/ngtcp2#run-examples"
+  ]
+}

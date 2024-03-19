@@ -1,0 +1,12 @@
+{
+  "Software Name": "ReFrame",
+  "links": {
+    "software page": "https://reframe-hpc.readthedocs.io/en/stable/",
+    "documentation": "https://reframe-hpc.readthedocs.io/en/stable/",
+    "tutorials": [
+      "https://reframe-hpc.readthedocs.io/en/stable/tutorial.html",
+      "https://www.youtube.com/watch?v=VizcvtRtnpo",
+      "https://www.hpc.cineca.it/news/reframe-30-released"
+    ]
+  }
+}

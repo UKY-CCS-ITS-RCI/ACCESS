@@ -1,0 +1,11 @@
+{
+  "softwareName": "pychopper",
+  "softwarePage": "https://github.com/nanoporetech/pychopper",
+  "documentation": {
+    "docLink1": "https://nanoporetech.github.io/pychopper/"
+  },
+  "tutorials": {
+    "tutorialLink1": "https://nanoporetech.github.io/pychopper/tutorial.html",
+    "tutorialLink2": "https://github.com/nanoporetech/pychopper#usage"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "software": "circos",
+  "website": "http://circos.ca/",
+  "documentation": "http://circos.ca/documentation/tutorials/quick_start/",
+  "tutorials": [
+    "http://circos.ca/documentation/tutorials/2d_tracks/",
+    "http://circos.ca/documentation/tutorials/3d_tracks/",
+    "http://circos.ca/documentation/tutorials/ideograms/",
+    "http://circos.ca/tutorials/course/"
+  ]
+}

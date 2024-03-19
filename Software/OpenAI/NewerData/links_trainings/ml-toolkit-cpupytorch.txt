@@ -1,0 +1,29 @@
+[
+  {
+    "software": "ml-toolkit-cpu/pytorch",
+    "software_url": "https://pytorch.org/",
+    "documentation_url": "https://pytorch.org/docs/stable/index.html",
+    "training_materials": [
+      {
+        "name": "PyTorch Tutorials",
+        "url": "https://pytorch.org/tutorials/"
+      },
+      {
+        "name": "Deep Learning with PyTorch: A 60 Minute Blitz",
+        "url": "https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
+      },
+      {
+        "name": "Practical Deep Learning for Coders",
+        "url": "https://course.fast.ai/"
+      },
+      {
+        "name": "PyTorch Course from FreeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=GIsg-ZUy0MY"
+      },
+      {
+        "name": "Intro to Deep Learning with PyTorch",
+        "url": "https://www.udacity.com/course/deep-learning-pytorch--ud188"
+      }
+    ]
+  }
+]

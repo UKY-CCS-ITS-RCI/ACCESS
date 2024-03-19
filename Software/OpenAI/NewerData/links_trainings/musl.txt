@@ -1,0 +1,26 @@
+{
+  "software_name": "musl",
+  "software_page_link": "https://www.musl-libc.org/",
+  "additional_links": {
+    "documentation": [
+      {
+        "name": "musl FAQ",
+        "url": "https://www.musl-libc.org/faq.html"
+      },
+      {
+        "name": "Online Manual",
+        "url": "https://www.musl-libc.org/man/"
+      }
+    ],
+    "training_tutorials_materials": [
+      {
+        "name": "Introduction to musl",
+        "url": "https://wiki.musl-libc.org/introduction.html"
+      },
+      {
+        "name": "Cross-compiling with musl-gcc",
+        "url": "https://www.etalabs.net/compare_libcs.html"
+      }
+    ]
+  }
+}

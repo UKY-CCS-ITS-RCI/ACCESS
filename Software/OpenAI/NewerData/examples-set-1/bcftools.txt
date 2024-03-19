@@ -1,0 +1,34 @@
+Use Case: BCFtools is a set of utilities for variant calling and manipulating VCFs (Variant Call Formats) and BCFs (Binary Call Formats). They work on sorted and indexed sequence alignments in BAM and CRAM formats produced by programs such as SAMtools.
+
+Code details and examples:
+
+Code Sample Input File: 
+A .vcf or .bcf file is required for bcftools. Here is a small example of .vcf file:
+
+```
+##fileformat=VCFv4.2
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total Depth">
+##FILTER=<ID=lowqual,Description="Low quality">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM  POS     ID      REF     ALT     QUAL    FILTER  INFO    FORMAT   Sample1
+chr20   14370   rs6054257       G       A       29      PASS    DP=14    GT      0/0
+chr20   17330   .       T       A       3       q10     DP=11   GT      0/0
+chr20   1110696 rs6040355       A       G,T     67      PASS    DP=10   GT      1/2
+chr20   1230237 .       T       .       47      PASS    DP=13   GT      0/0
+chr20   1234567 microsat1       GTC     G,GTCT  50      PASS    DP=9    GT      0/2
+```
+
+Command to run : 
+
+```bcftools view -g Sample1 file.vcf``` 
+This command will show the genotypes for Sample1 in the provided VCF file. 
+
+You can also do operations like filtering, sorting, merging and comparing VCF/BCF files. For example:
+
+```bcftools merge file1.bcf file2.bcf``` 
+This command will merge the two BCF files into one.
+
+Another example is:
+
+```bcftools filter -i'%QUAL>20 && DP>10' file.vcf``` 
+This command will filter the VCF file for entries where the quality is more than 20 and the depth is more than 10.

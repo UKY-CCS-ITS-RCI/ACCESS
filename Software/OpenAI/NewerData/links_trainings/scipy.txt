@@ -1,0 +1,23 @@
+{
+  "software": {
+    "name": "scipy",
+    "website": "https://www.scipy.org/",
+    "documentation": {
+      "url": "https://docs.scipy.org/doc/scipy/reference/"
+    },
+    "tutorials": [
+      {
+        "name": "Scipy lecture notes",
+        "url": "https://scipy-lectures.org/"
+      },
+      {
+        "name": "Scipy Tutorial from Tutorials Point",
+        "url": "https://www.tutorialspoint.com/scipy/index.htm"
+      },
+      {
+        "name": "Scipy Tutorial from W3schools",
+        "url": "https://www.w3schools.com/python/numpy_scipy_intro.php"
+      }
+    ]
+  }
+}

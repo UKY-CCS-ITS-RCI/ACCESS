@@ -1,0 +1,19 @@
+{
+  "Software Name": "nccl",
+  "Software URL": "https://developer.nvidia.com/nccl",
+  "Documentation URL": "https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html",
+  "Training and Tutorial Materials": [
+    {
+      "Name": "NCCL: Deep Learning Training Optimization by NVIDIA",
+      "URL": "https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=s9149-nccl%3a+deep+learning+training+optimization"
+    },
+    {
+      "Name": "Nccl Training on Super Computing Wales",
+      "URL": "https://supercomputing.wales/use-nccl-training"
+    },
+    {
+      "Name": "Scaling Multi-GPU Training with NCCL",
+      "URL": "https://pytorch.org/tutorials/intermediate/ddp_tutorial.html"
+    }
+  ]
+}

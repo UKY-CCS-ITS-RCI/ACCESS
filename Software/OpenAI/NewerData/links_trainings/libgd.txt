@@ -1,0 +1,14 @@
+{
+  "Software_Name": "libgd",
+  "Software_URL": "https://libgd.github.io/",
+  "Documents": {
+    "Documentation_URL": "https://libgd.github.io/manuals/2.3.0/files/overview-txt.html",
+    "Tutorial_URL": [
+      "https://www.fileformat.info/lib/gd/index.htm",
+      "https://libgd.github.io/manuals/2.3.0/files/sic-txt.html"
+    ],
+    "Training_URL": [
+      "https://libgd.github.io/manuals/2.3.0/files/sic-txt.html"
+    ]
+  }
+}

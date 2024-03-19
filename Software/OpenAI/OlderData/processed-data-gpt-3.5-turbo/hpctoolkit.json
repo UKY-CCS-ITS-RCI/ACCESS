@@ -1,0 +1,20 @@
+{
+  "software name": "hpctoolkit",
+  "comprehensive overview": "HPCToolkit is a performance analysis and visualization tool designed for profiling and understanding the behavior of parallel and high-performance computing applications. It provides detailed insights into application performance to optimize code and resource utilization.",
+  "core features": [
+    "Performance analysis and profiling of parallel applications",
+    "Visualization of performance metrics and bottlenecks",
+    "Insights into code performance and resource utilization"
+  ],
+  "general tags": [
+    "Performance Analysis",
+    "High-Performance Computing",
+    "Profiling Tool"
+  ],
+  "additional tags": {
+    "research discipline": "Computer Science",
+    "research area": "Performance Optimization",
+    "software class": "Analysis Tool",
+    "software type": "Performance Profiling Tool"
+  }
+}

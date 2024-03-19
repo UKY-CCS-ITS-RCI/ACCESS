@@ -1,0 +1,8 @@
+{
+"Repeatscout": 
+        {
+        "software_page": "http://bix.ucsd.edu/repeatscout/", 
+        "documentation": ["http://bix.ucsd.edu/repeatscout/1.0.5/manual.html"],
+        "tutorials/training_materials": ["https://www.biostars.org/p/214287/"]
+        }
+}

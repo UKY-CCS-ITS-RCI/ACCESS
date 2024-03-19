@@ -1,0 +1,10 @@
+{
+  "software_name": "fastq_pair",
+  "software_page": "https://github.com/linsalrob/fastq-pair",
+  "documentation": {
+    "documentation_link1": "https://edwards.sdsu.edu/research/fastq-pair/"
+  },
+  "tutorial": {
+    "tutorial_link1": "https://github.com/linsalrob/EdwardsLab/blob/master/tutorials/Pairing_sequences.md"
+  }
+}

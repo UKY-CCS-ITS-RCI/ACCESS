@@ -1,0 +1,20 @@
+{
+  "Software Name": "cryptsetup",
+  "Software Link": "https://gitlab.com/cryptsetup/cryptsetup",
+  "Documentation": [
+    {
+      "Documentation Link": "https://manpages.debian.org/latest/cryptsetup-run/cryptsetup.html"
+    },
+    {
+      "Documentation Link": "https://wiki.archlinux.org/title/dm-crypt/System_Configuration"
+    }
+  ],
+  "Training Material": [
+    {
+      "Training Material Link": "https://devconnected.com/how-to-encrypt-file-systems-in-linux-using-cryptsetup/"
+    },
+    {
+      "Training Material Link": "https://www.mankier.com/8/cryptsetup"
+    }
+  ]
+}

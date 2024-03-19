@@ -1,0 +1,19 @@
+{
+  "software": "Parallel netCDF",
+  "softwareURL": "https://parallel-netcdf.github.io/",
+  "documentation": [
+    {
+      "documentationURL": "https://parallel-netcdf.github.io/using.html"
+    }
+  ],
+  "tutorial": [
+    {
+      "tutorialURL": "https://www.unidata.ucar.edu/blogs/developer/entry/distributed_computing_and_big_data"
+    }],
+  "training": [],
+  "condaPackages": [
+    {
+      "packageURL": "https://anaconda.org/conda-forge/pnetcdf"
+    }
+  ]
+}

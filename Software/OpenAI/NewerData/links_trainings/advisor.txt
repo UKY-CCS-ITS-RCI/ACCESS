@@ -1,0 +1,10 @@
+{
+  "Advisor": {
+    "SoftwarePage": "https://github.com/baidu/Advisor",
+    "Documentation": "https://github.com/baidu/Advisor/blob/master/docs/en/README.md",
+    "Tutorials": [
+      "https://github.com/baidu/Advisor/blob/master/docs/en/README.md#tutorial",
+      "https://medium.com/@cgiridhar/advisor-an-open-source-implementation-of-googles-vizier-4472ad062922"
+    ]
+  }
+}

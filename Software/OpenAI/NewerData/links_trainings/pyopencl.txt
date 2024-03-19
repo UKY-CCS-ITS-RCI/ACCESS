@@ -1,0 +1,14 @@
+{
+  "software": "pyopencl",
+  "software_page": "https://documen.tician.de/pyopencl/",
+  "documentation": {
+    "link1": "https://documen.tician.de/pyopencl/",
+    "link2": "https://documen.tician.de/pyopencl/misc.html"
+  },
+  "training_materials": {
+    "tutorial1": "https://documen.tician.de/pyopencl/tutorial/index.html",
+    "tutorial2": "https://github.com/inducer/pyopencl"
+  },
+  "conda_package": "https://anaconda.org/conda-forge/pyopencl",
+  "additional_info": "Required for GPU computation using OpenCL."
+}

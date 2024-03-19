@@ -1,0 +1,21 @@
+Use Case: M4 is generally used for writing macros, reading and writing files.
+
+Code details and examples:
+
+Code:
+The macro file, for the case of calculating square of a number would look like this:
+
+```
+define(`square', `eval($1 * $1)')dnl
+```
+Save this file as square.m4. It defines a macro named square which squares it's argument.
+
+Let's run this:
+
+```shell
+$ echo "The square of 5 is: square(5)" | m4 square.m4
+The square of 5 is: 25
+```
+As you see, you need to pass your m4 file and your input text to m4 command. The input can be put into a file, or as here, can be passed via 'echo'. The system will replace all macro calls ('square(5)') in your input with macro results (as they are defined in your m4 file).
+
+The specific data types, number of arguments, the kind of operation etc. are defined by the user in the M4 macro file.

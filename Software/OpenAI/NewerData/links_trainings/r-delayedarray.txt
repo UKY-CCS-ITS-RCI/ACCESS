@@ -1,0 +1,12 @@
+{
+  "SoftwareName": "R-DelayedArray",
+  "SoftwarePageLink": "https://bioconductor.org/packages/release/bioc/html/DelayedArray.html",
+  "DocumentationLinks": [
+    "https://bioconductor.org/packages/devel/bioc/vignettes/DelayedArray/inst/doc/DelayedArray.html",
+    "https://bioconductor.org/packages/devel/bioc/manuals/DelayedArray/man/DelayedArray.pdf"
+  ],
+  "TutorialMaterialLinks": [
+    "https://bioconductor.riken.jp/packages/3.4/bioc/vignettes/DelayedArray/inst/doc/DelayedArray.pdf",
+    "https://support.bioconductor.org/p/131284/"
+  ]
+}

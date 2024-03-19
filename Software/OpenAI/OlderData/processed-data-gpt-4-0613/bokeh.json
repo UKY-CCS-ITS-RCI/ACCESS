@@ -1,0 +1,10 @@
+{
+    "Software": "Bokeh",
+    "Website": "https://bokeh.org/",
+    "Documentation": "https://docs.bokeh.org/en/latest/",
+    "Tutorial_and_Training": [
+        "https://docs.bokeh.org/en/latest/docs/user_guide/quickstart.html",
+        "https://realpython.com/python-data-visualization-bokeh/",
+        "https://programminghistorian.org/en/lessons/visualizing-with-bokeh"
+    ]
+}

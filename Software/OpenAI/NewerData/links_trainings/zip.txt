@@ -1,0 +1,19 @@
+{
+  "softwareName": "Zip",
+  "softwareURL": "https://www.info-zip.org/",
+  "documentationURL": "https://www.info-zip.org/doc/",
+  "tutorials": [
+    {
+      "tutorialName": "Using ZIP on Windows",
+      "tutorialURL": "https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc"
+    },
+    {
+      "tutorialName": "Using ZIP on Linux",
+      "tutorialURL": "https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/"
+    },
+    {
+      "tutorialName": "ZIP Files with Python",
+      "tutorialURL": "https://realpython.com/python-zipfile/"
+    }
+  ]
+}

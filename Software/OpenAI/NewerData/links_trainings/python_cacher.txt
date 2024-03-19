@@ -1,0 +1,12 @@
+{
+  "python_cacher": {
+    "Software Page": "N/A",
+    "Documentation": "N/A",
+    "Tutorials": [
+      {
+        "Tutorial Name": "Python Modules and Packages – An Introduction",
+        "URL": "https://realpython.com/tutorials/modules-packages/"
+      }
+    ]
+  }
+}

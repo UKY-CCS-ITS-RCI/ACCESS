@@ -1,0 +1,24 @@
+{
+  "software": "segalign",
+  "software_url": "https://github.com/UCSC-nanopore-cgl/segAlign",
+  "documentation": [
+    {
+      "doc_name": "SegAlign Github page",
+      "doc_url": "https://github.com/UCSC-nanopore-cgl/segAlign"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorial_name": "Introduction to Nanopore Sequencing",
+      "tutorial_url": "https://nanoporetech.com/about-us/news/new-animated-video-introduction-nanopore-sequencing"
+    },
+    {
+      "tutorial_name": "Direct RNA Sequencing Protocol",
+      "tutorial_url": "https://store.nanoporetech.com/us/direct-rna-sequencing/"
+    },
+    {
+      "tutorial_name": "Nanopore Sequencing Data Analysis",
+      "tutorial_url": "https://nanoporetech.com/nanopore-sequencing-data-analysis"
+    }
+  ]
+}

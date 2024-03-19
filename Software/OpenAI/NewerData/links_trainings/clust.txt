@@ -1,0 +1,11 @@
+{
+    "software_name": "clust",
+    "software_page": "https://github.com/BaselAbujamous/clust",
+    "documentation_links": ["https://github.com/BaselAbujamous/clust/blob/master/clust_manual.pdf"],
+    "training_materials": [
+        {
+            "title": "Clust GitHub README",
+            "link": "https://github.com/BaselAbujamous/clust"
+        }
+    ]
+}

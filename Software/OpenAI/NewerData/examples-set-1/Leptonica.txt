@@ -1,0 +1,40 @@
+Use Case: Optical Character Recognition (OCR) in images with text; image processing and analysis including tasks such as image file reading and writing, extraction of binary character/glyph bitmaps from a page of text, removal of line intersections, and image skew correction.
+
+Code Details and Examples: 
+
+Sample Input File: The input file for Leptonica is an image file. Leptonica supports multiple formats: BMP, GIF, JPEG, PNG, etc. Here we assume a PNG image "input.png".
+
+Code Snippet:
+```
+#include "allheaders.h"
+
+int main(int argc, char **argv)
+{
+    PIX *pixs;
+
+    if (argc != 2)
+    {
+        return 1;
+    }
+
+    pixs = pixRead(argv[1]);
+    if (pixs == NULL)
+    {
+        return 1;
+    }
+    
+    pixDisplay(pixs, 0, 0);
+    pixDestroy(&pixs);
+
+    return 0;
+}
+```
+This C code snippet reads an image file, the path to which is passed as a command line argument, and displays the image in a new window. The PIX data structure is unique to Leptonica and represents an image up to 4 samples per pixel (red, green, blue, and alpha transparency). So it is most commonly used with images.
+
+Command to Run: Leptonica C APIs can be compiled and run with any C/C++ compiler. Considering we are using GCC, with the source code stored in a file named `main.c`, the commands to compile and run the above C code snippet are: 
+
+```
+gcc -Wunused-result -Wsign-compare -Wunreachable-code -ansi -DINPUTS_PATH=\"./\" -Wall -DANDROID_BUILD -g -I/usr/include/leptonica -o main main.c -llept 
+
+./main input.png
+```

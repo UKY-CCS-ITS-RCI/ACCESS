@@ -1,0 +1,24 @@
+{
+  "software_name": "boost.mpi",
+  "software_page": "https://www.boost.org/doc/libs/1_76_0/doc/html/mpi.html",
+  "documentation": [
+    {
+      "name": "Boost.MPI documentation",
+      "url": "https://www.boost.org/doc/libs/1_76_0/doc/html/mpi.html"
+    },
+    {
+      "name": "Boost.MPI Getting started",
+      "url": "https://www.boost.org/doc/libs/1_76_0/doc/html/mpi/getting_started.html"
+    }
+  ],
+  "training_materials": [
+    {
+      "name": "Tutorial on Parallel Programming with Boost.MPI",
+      "url": "https://www.youtube.com/watch?v=pYOT29zS78Q"
+    },
+    {
+      "name": "Boost MPI tutorial",
+      "url": "https://www.boost.org/doc/libs/1_52_0/doc/html/boost_asio/example/mpi/mpi.cpp"
+    }
+  ]
+}

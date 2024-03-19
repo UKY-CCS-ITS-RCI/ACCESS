@@ -1,0 +1,18 @@
+{
+  "software": "Intel One API MPI",
+  "details": {
+    "software_url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/mpi-library.html",
+    "documentation": [
+      {
+        "doc_title": "Intel One API MPI Library Developer Guide and Reference",
+        "doc_url": "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-mpi-dev-guide-and-reference/top.html"
+      }
+    ],
+    "tutorial": [
+      {
+        "tutorial_title": "Intel Oneapi Tutorial",
+        "tutorial_url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/choose-download.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Graphene": {
+      "MainPage": "https://grapheneproject.io/",
+      "Documentation": "https://graphene.readthedocs.io/en/latest/",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=QIUC8gEAGh8",
+        "https://www.socallinuxexpo.org/sites/default/files/presentations/scon18%20graphene%20yocto%20tutorial.pdf",
+        "https://github.com/oscarlab/graphene/wiki/SGX-Quick-Start"
+      ]
+    }
+  }
+}

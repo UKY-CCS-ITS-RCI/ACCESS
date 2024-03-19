@@ -1,0 +1,12 @@
+{
+  "Software": "jellyfish",
+  "Details": {
+    "Software Link": "http://www.genome.umd.edu/jellyfish.html",
+    "Documentation": "http://www.genome.umd.edu/jellyfish.html",
+    "Tutorials": [
+      {
+        "Tutorial Link": "https://academic.oup.com/bioinformatics/article/25/21/2790/211941"
+      }
+    ]
+  }
+}

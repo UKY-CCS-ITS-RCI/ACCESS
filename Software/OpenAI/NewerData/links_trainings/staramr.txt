@@ -1,0 +1,19 @@
+{
+  "software_name": "staramr",
+  "software_page": "https://github.com/phac-nml/staramr",
+  "documentation": "https://staramr.readthedocs.io/en/latest/index.html",
+  "tutorial_materials": [
+    {
+      "title": "Tutorial",
+      "url": "https://staramr.readthedocs.io/en/latest/tutorial/index.html"
+    },
+    {
+      "title": "Command Line Usage",
+      "url": "https://staramr.readthedocs.io/en/latest/usage.html"
+    },
+    {
+      "title": "Command Line Examples",
+      "url": "https://staramr.readthedocs.io/en/latest/examples.html"
+    }
+  ]
+}

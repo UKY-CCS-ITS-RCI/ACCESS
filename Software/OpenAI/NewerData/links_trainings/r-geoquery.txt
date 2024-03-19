@@ -1,0 +1,24 @@
+{
+  "Software_Name": "r-geoquery",
+  "Software_Page_Link": "https://www.bioconductor.org/packages/release/bioc/html/GEOquery.html",
+  "Documentation": [
+    {
+      "Title": "Bioconductor GEOquery User's Guide",
+      "URL": "https://www.bioconductor.org/packages/release/bioc/vignettes/GEOquery/inst/doc/GEOquery.html"
+    },
+    {
+      "Title": "GEOquery documentation on Bioconductor",
+      "URL": "https://bioconductor.org/packages/release/bioc/manuals/GEOquery/man/GEOquery.pdf"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Title": "Using GEOquery",
+      "URL": "https://www.sean-j.com/post/using-geoquery/"
+    },
+    {
+      "Title": "Analysis of GEO Data Using R and Bioconductor",
+      "URL": "https://compgenomr.github.io/book/geo.html"
+    }
+  ]
+}

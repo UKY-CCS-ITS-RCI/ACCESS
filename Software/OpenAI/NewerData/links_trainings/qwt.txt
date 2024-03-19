@@ -1,0 +1,11 @@
+{
+  "Software_Name": "Qwt",
+  "Software_Page_Link": "https://qwt.sourceforge.io/",
+  "Documentation": "https://qwt.sourceforge.io/class_qwt.html",
+  "Training_and_Tutorials": [
+    {
+      "Tutorial1": "https://www.youtube.com/watch?v=E4R1DmhlG6s",
+      "Tutorial2": "https://www.bogotobogo.com/Qt/Qt5_Qwt_Tutorial.php"
+    }
+  ]
+}

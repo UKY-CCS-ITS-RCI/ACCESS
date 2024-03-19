@@ -1,0 +1,9 @@
+{
+    "software": "libedit",
+    "resources": {
+        "softwareHomepage": "http://thrysoee.dk/editline/",
+        "documentation": "https://man.openbsd.org/editline.3",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

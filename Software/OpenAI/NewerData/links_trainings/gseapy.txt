@@ -1,0 +1,31 @@
+{
+  "gseapy": {
+    "software_page": "https://gseapy.readthedocs.io/en/latest/",
+    "documentation": [
+      {
+        "title": "Introduction",
+        "url": "https://gseapy.readthedocs.io/en/latest/introduction.html"
+      },
+      {
+        "title": "Installation",
+        "url": "https://gseapy.readthedocs.io/en/latest/installation.html"
+      },
+      {
+        "title": "API Reference",
+        "url": "https://gseapy.readthedocs.io/en/latest/api.html"
+      }
+    ],
+    "training_materials": [
+      {
+        "title": "Example Notebooks",
+        "url": "https://nbviewer.jupyter.org/github/Phlya/gseapy/blob/master/tutorial/GSEApy.nbconvert.ipynb"
+      }
+    ],
+    "conda_package": [
+      {
+        "title": "GSEApy (Bioconda)",
+        "url": "https://anaconda.org/bioconda/gseapy"
+      }
+    ]
+  }
+}

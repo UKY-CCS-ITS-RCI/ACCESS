@@ -1,0 +1,13 @@
+{
+  "cegma": 
+  {
+    "software_page": "http://korflab.ucdavis.edu/datasets/cegma/", 
+    "documentation": "http://korflab.ucdavis.edu/datasets/cegma/#manual", 
+    "tutorials_and_training": 
+    {
+      "CEGMA tutorial": "http://korflab.ucdavis.edu/datasets/cegma/tutorial.html",
+      "CEGMA YouTube tutorial": "https://www.youtube.com/watch?v=3kl-3ijWp3o",
+      "CEGMA Bioinformatics Training": "https://bioinformatics-training.github.io/introduction/2017/Genome_annotation_cegma.html"
+    }
+  }
+}

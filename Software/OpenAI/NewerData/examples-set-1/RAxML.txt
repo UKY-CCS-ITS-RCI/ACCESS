@@ -1,0 +1,33 @@
+Use Case: RAxML (Randomized Axelerated Maximum Likelihood) is a program for sequential and parallel Maximum Likelihood – based inference of large phylogenetic trees.
+
+Code Details and Examples:
+
+Code: 
+
+Input Format: PHYLIP or FASTA sequence alignment files. The input file is a protein or DNA dataset in PHYLIP format.
+
+Input File Specification: The dataset must contain only IUPAC characters. Ambiguity codes (RYMKVHBDSW) allowed for DNA and only amino acid symbols allowed for proteins.
+
+Example:
+```
+4 10
+seq1   ATGCGAATG
+seq2   ATGCGCATG
+seq3   ATGCGGAT-
+seq4   ATGCGGATC
+```
+
+Command to run: 
+
+```bash
+raxmlHPC -s sequence.phy -n somename -m PROTGAMMAWAG -p 12345 -# 100
+```
+
+Here, `-s` designates the input file, `-n` designates an arbitrary name of your choice for the output files generated, `-m` designates the substitution model used, `-p` indicates the random seed for the parsimony inferences, and `-#` or `-N` indicates the number of alternative runs on distinct starting trees.  In this example, RAxML will conduct 100 runs on distinct starting trees.
+
+Code Snippet: 
+
+```bash
+raxmlHPC -f a -s infile.phy -n T1 -m GTRGAMMA -p 12345 -x 12345 -# 100 -k -f a.
+```
+Here, `-f` controls the algorithm that RAxML will employ for tree inference. `-k` means keep bootstrapped trees with branch lengths. `-x` is to specify an integer number (random seed) and will invoke a rapid Bootstrap analysis and search for best-scoring ML tree in a single run.  `-f a` will conduct a rapid Bootstrap analysis and search for best-scoring ML tree in one single program run.

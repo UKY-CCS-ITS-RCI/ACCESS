@@ -1,0 +1,12 @@
+{
+  "Software Name": "R",
+  "links": {
+    "software page": "https://www.r-project.org/",
+    "documentation": "https://www.r-project.org/help.html",
+    "tutorials": [
+      "https://www.coursera.org/courses?query=r%20programming",
+      "https://cran.r-project.org/manuals.html",
+      "https://www.datacamp.com/courses/free-introduction-to-r"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+Use Case: Using Boost C++ Library for Scientific Computations and Problem Solving;
+
+Code Details and Examples: Code;
+
+In this example we will demonstrate use of the Boost C++ library to find the Root of a function using the Newton-Raphson method.
+
+Consider a function f(x) = x^3- x- 1 and we are to find the root of this function with an initial guess of x=1. We will use Boost's newton_raphson_iterate function to solve this.
+
+First, we need to write the function f(x) and its derivative.
+
+Input File: None
+
+Specifications: C++ compiler
+
+Code Snippet:
+
+```cpp
+#include <iostream>
+#include <boost/math/tools/minima.hpp>
+
+// Function
+double func(const double& x)
+{
+    return (x*x*x - x - 1);
+}
+
+// Derivative of function
+double funcPrime(const double& x)
+{
+    return (3 * x*x - 1);
+}
+
+/****************************************************************************
+Main Function
+****************************************************************************/
+int main()
+{
+    using namespace boost::math::tools;
+
+   // The Brackets
+    double min = 1, max = 2;
+
+   // The tolerance
+    const double Tol = 0.000001;
+
+   //Initial Guess
+    double guess = 1.3f;
+
+   // The result
+    double minima = newton_raphson_iterate(func, guess, min, max, Tol);
+
+   //Print out the result
+   std::cout << "Root found: " << minima << std::endl;
+    
+   return 0;
+}
+```
+
+The procedure newton_raphson_iterate takes 5 parameters: Function for which we need to find root, initial guess, bracket minimum, bracket maximum, and the tolerance level, and recursively applies Newton-Raphson method until required tolerance is achieved or maximum iterations are exceeded. 
+
+Command to Run:
+
+Compile:
+```shell
+g++ -o main main.cpp -lboost_system
+```
+Run:
+```shell
+./main
+```

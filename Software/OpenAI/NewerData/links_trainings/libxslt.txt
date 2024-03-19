@@ -1,0 +1,11 @@
+{
+  "libxslt": {
+    "software_page": "https://xmlsoft.org/XSLT/index.html",
+    "documentation": "https://xmlsoft.org/XSLT/doc.html",
+    "tutorial_materials": [
+      "https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms765388(v=vs.85)",
+      "https://www.tutorialspoint.com/xslt/index.htm",
+      "https://www.w3schools.com/xml/xsl_intro.asp"
+    ]
+  }
+}

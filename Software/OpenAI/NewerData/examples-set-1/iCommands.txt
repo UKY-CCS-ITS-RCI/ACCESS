@@ -1,0 +1,43 @@
+Use Case: iCommands is a collection of commands for the Integrated Rule-Oriented Data System (iRODS). It can handle data management, sharing, and integration and is used in high-performance computing and data-heavy processing applications.
+
+Code Details and Examples:
+
+Code 1: Standard command to display information about the iRODS system and the user's iRODS account.
+
+Command: ils
+
+The "ils" command lists the contents of a collection. 
+
+```
+
+ils /tempZone/home/rods
+/tempZone/home/rods:  
+gearRules.json
+test1.txt
+```
+
+Code 2: Command to upload a file to the iRODS repository.
+
+Command: iput (input, then filename)
+
+iput is used to put a file into iRODS.
+
+Input file: test_file.txt
+
+```
+iput test_file.txt
+```
+
+Code 3: Command to download a file from the iRODS repository.
+
+Command: iget
+
+iget retrieves a file from the iRODS.
+
+```
+iget test_file.txt
+```
+
+Remember that these commands can only function in an active iRODS environment - you need to be connected to an iRODS grid.
+
+You can test these commands by creating a dummy text file in the same directory where the commands are run. Make sure that the file names are exactly the same in the commands and actual files.

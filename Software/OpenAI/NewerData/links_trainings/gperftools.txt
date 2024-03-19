@@ -1,0 +1,13 @@
+{
+  "Software_Name": "gperftools",
+  "Software_Page": {
+    "URL": "https://github.com/gperftools/gperftools"
+  },
+  "Documentation": [
+    { "URL": "https://github.com/gperftools/gperftools/wiki" }
+  ],
+  "Training_and_Tutorial_Materials": [
+    { "URL": "https://www.youtube.com/watch?v=NvCIw6lJKI4" },
+    { "URL": "https://github.com/gperftools/gperftools/blob/master/TUTORIAL" }
+  ]
+}

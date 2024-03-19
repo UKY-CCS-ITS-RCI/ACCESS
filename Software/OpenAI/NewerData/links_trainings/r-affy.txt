@@ -1,0 +1,13 @@
+{
+  "r-affy": {
+    "software_link": "https://bioconductor.org/packages/release/bioc/html/affy.html",
+    "documentation_links": [
+      "https://bioconductor.org/packages/release/bioc/vignettes/affy/inst/doc/usersguide.pdf",
+      "https://rdrr.io/bioc/affy/man/affy-package.html"
+    ],
+    "tutorial_links": [
+      "http://www-huber.embl.de/users/klaus/Teaching/DEMB.html",
+      "https://bioconductor.org/packages/release/workflows/html/altcdfenvs.html"
+    ]
+  }
+}

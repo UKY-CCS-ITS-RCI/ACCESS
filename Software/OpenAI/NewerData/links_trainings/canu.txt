@@ -1,0 +1,21 @@
+{
+  "canu": {
+    "software_link": "https://github.com/marbl/canu",
+    "documentation": [
+      {
+      "title": "Official Documentation",
+      "link": "https://canu.readthedocs.io/en/latest/"
+      }
+    ],
+    "training": [
+      {
+      "title": "Canu on Github",
+      "link": "https://github.com/marbl/canu"
+      },
+      {
+      "title": "Canu Quick Start",
+      "link": "https://canu.readthedocs.io/en/latest/quick-start.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"ucsc_genome_toolkit": {
+		"software_page": "https://genome.ucsc.edu/",
+		"documentation_link": "https://genome.ucsc.edu/FAQ/FAQformat.html",
+		"tutorial_materials": {
+			"tutorial-1": "https://www.youtube.com/watch?v=MiDP6RmnLYo",
+			"tutorial-2": "https://www.youtube.com/watch?v=-ZtrIKA4S3I",
+			"training_material-1": "https://www.coursera.org/learn/genomic-tools",
+			"training_material-2": "https://www.coursera.org/learn/dna-sequencing"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "software": "libMesh",
+    "resources": {
+        "softwareHomepage": "https://libmesh.github.io/",
+        "documentation": "https://libmesh.github.io/doxygen/index.html",
+        "tutorials": [
+            {
+                "title": "libMesh Examples",
+                "url": "https://libmesh.github.io/examples/index.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

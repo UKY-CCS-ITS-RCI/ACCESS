@@ -1,0 +1,24 @@
+{
+  "py-dendropy": {
+    "software_page": "https://dendropy.org/",
+    "documentation": "https://dendropy.org/primer.html",
+    "tutorials_and_training": [
+      {
+        "name": "Getting Started with DendroPy",
+        "url": "https://dendropy.org/tutorial/intro.html"
+      },
+      {
+        "name": "Python Biopython Dendropy PDF",
+        "url": "https://buildmedia.readthedocs.org/media/pdf/biopython/latest/biopython.pdf"
+      },
+      {
+        "name": "DendroPy tutorial on GitHub",
+        "url": "https://github.com/jeetsukumaran/DendroPy"
+      },
+      {
+        "name": "DendroPy: a Python library for phylogenetic computing",
+        "url": "https://academic.oup.com/bioinformatics/article/26/12/1569/219101"
+      }
+    ]
+  }
+}

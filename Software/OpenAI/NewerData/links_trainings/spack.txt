@@ -1,0 +1,11 @@
+{
+  "1": {
+    "Software": "Spack",
+    "Software URL": "https://spack.io/",
+    "Documentation URL": "https://spack.readthedocs.io/en/latest/",
+    "Tutorial and Training Materials": [
+      "https://spack-tutorial.readthedocs.io/en/latest/",
+      "https://www.youtube.com/watch?v=3NtEIAQ3rq0"
+    ]
+  }
+}

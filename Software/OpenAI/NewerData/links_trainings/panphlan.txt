@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "panphlan",
+    "softwareURL": "https://github.com/SegataLab/panphlan",
+    "documentationURL": "https://github.com/SegataLab/panphlan/wiki",
+    "trainingMaterials": [
+      {
+        "name": "Page on Metagenomics Analysis",
+        "url": "https://galaxyproject.org/tutorials/metagenomics/"
+      },
+      {
+        "name": "Tutorial on Youtube",
+        "url": "https://www.youtube.com/watch?v=_q3SOV9Pjzk"
+      },
+      {
+        "name": "Bacterial Profiling using PanPhlAn, Tutorial on Github",
+        "url": "https://github.com/galaxyproject/SARS-CoV-2/tree/master/genomics/4_Variation"
+      }
+    ]
+  }
+}

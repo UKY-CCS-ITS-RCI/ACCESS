@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "Zlib": 
+    { 
+      "URL": "https://zlib.net/",
+      "Documentation": "https://zlib.net/manual.html",
+      "Tutorials": 
+      [
+        {
+          "Zlib Tutorial": "https://www.tutorialspoint.com/zlib/index.htm"
+        },
+        {
+          "Zlib usage example": "https://www.bolet.org/~pornin/deflate-flush.html"
+        },
+        {
+          "Zlib compression/decompression tutorial": "https://refspecs.linuxbase.org/LSB_3.0.0/LSB-PDA/LSB-PDA/zlib.html"
+        },
+        {
+          "How to use zlib": "https://codeyarns.com/tech/2010-10-24-how-to-use-zlib.html"
+        }
+      ]
+    }
+  }
+}

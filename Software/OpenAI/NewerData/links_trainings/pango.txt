@@ -1,0 +1,12 @@
+{
+    "Software Name": "Pango",
+    "Software Page": "https://pango.network/",
+    "Additional Links": {
+        "Documentation": "https://cov-lineages.org/resources_pango.html",
+        "Training Materials": {
+            "Tutorial on GitHub": "https://github.com/cov-lineages/pangolin",
+            "Introduction to Pango Lineages": "https://cov-lineages.org/resources/nomenclature.html",
+            "Pango Designation Issue Tracker": "https://github.com/cov-lineages/pango-designation/issues"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+Use Case: Tabix is a generic indexer that allows fast retrieval of very large tab-delimited, newline-terminated text files with a header; it's a great tool for querying and managing large genetic variation datasets.
+
+Code details and examples: Code.
+
+Tabix requires a sorted and compressed input file:
+
+Sample input file (named 'file.txt'):
+
+```
+1 1000 rs1 0 0
+2 2000 rs2 0 0
+3 3000 rs3 0 0
+4 4000 rs4 0 0
+5 5000 rs5 0 0
+```
+
+To sort and compress:
+
+```
+sort -k1,1 -k2,2n file.txt | bgzip > file.gz
+```
+The -k options indicate the key fields; here, the sort is on fields 1 and 2 (chromosome and position). The 'n' following the 2 in -k2,2n directs a numerical sort.
+
+Then, index the compressed file:
+
+```
+tabix -s 1 -b 2 -e 2 file.gz
+```
+The -s, -b, and -e options indicate the columns for the chromosome, start position, and end position, respectively.
+
+To query the resulting index:
+
+```
+tabix file.gz 1:1000-2000
+```
+Retrieving variants on chromosome 1 between positions 1000 and 2000.

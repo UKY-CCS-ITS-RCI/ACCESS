@@ -1,0 +1,23 @@
+{
+"name": "Apache Ant",
+"softwarePage": "https://ant.apache.org/",
+"documentation": "https://ant.apache.org/manual/index.html",
+"tutorialMaterials": [
+    {
+        "name": "Ant - Quick Guide",
+        "url": "https://www.tutorialspoint.com/ant/ant_quick_guide.htm"
+    },
+    {
+        "name": "Apache Ant Tutorial",
+        "url": "https://www.vogella.com/tutorials/ApacheAnt/article.html"
+    },
+    {
+        "name": "Easy way to use Apache Ant",
+        "url": "https://www.freecodecamp.org/news/how-to-use-apache-ant/"
+    },
+    {
+        "name": "Apache Ant Tutorial - Build Files and Build Tool",
+        "url": "https://www.youtube.com/watch?v=JEhqKoElEZI"
+    }
+  ]
+}

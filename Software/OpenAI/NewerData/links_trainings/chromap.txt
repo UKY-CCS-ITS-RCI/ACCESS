@@ -1,0 +1,9 @@
+{
+  "software_name": "Chromap",
+  "software_URL": "https://github.com/haowenz/chromap",
+  "documentation": {
+    "github_repository": "https://github.com/haowenz/chromap",
+    "research_paper": "https://www.biorxiv.org/content/10.1101/848847v1"
+  },
+  "tutorial_and_training_materials": "Not Available"
+}

@@ -1,0 +1,28 @@
+{
+  "software": 
+  {
+    "name": "meme",
+    "link": "http://meme-suite.org/",
+    "description": "The MEME Suite allows the biologist to discover novel motifs in collections of unaligned nucleotide or protein sequences. MEME Suite data output can be further analyzed using STAMP by comparing against motif databases.",
+    "documentation": [
+      {
+        "name": "MEME documentation",
+        "link": "http://meme-suite.org/doc/meme.html?man_type=web"
+      },
+      {
+        "name": "MEME Suite User's Manual",
+        "link": "http://meme-suite.org/doc/manual/index.html"
+      }
+    ],
+    "training_materials": [
+      {
+        "name": "MEME Tutorial",
+        "link": "http://meme-suite.org/doc/tutorial/meme-tutorial.html"
+      },
+      {
+        "name": "YouTube MEME Suite Tutorial",
+        "link": "https://www.youtube.com/watch?v=_Yu4bJ5v7Lo"
+      }
+    ]
+  }
+}

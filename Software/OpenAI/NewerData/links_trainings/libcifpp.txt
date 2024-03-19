@@ -1,0 +1,10 @@
+{
+  "software_name": "libcifpp",
+  "software_page": "https://github.com/PDB-REDO/libcifpp",
+  "documentation": "https://github.com/PDB-REDO/libcifpp#readme",
+  "training_materials": [
+    "https://www.wwpdb.org/documentation/file-format-content/format33/v3.3.html",
+    "https://github.com/project-gemmi/gemmi/blob/master/doc/cif.md",
+    "http://mmcif.wwpdb.org/docs/sw-examples/python3/html/c2.html"
+  ]
+}

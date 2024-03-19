@@ -1,0 +1,10 @@
+{
+  "Software Name": "run_dbcan",
+  "Web_URL": "http://bcb.unl.edu/dbCAN2/",
+  "Documentation": "http://csbl.bmb.uga.edu/dbCAN/download/readme.txt",
+  "Tutorials_and_Training_Materials": [
+    "http://csbl.bmb.uga.edu/dbCAN/download/Levasseur_et_al.pdf",
+    "https://support.thermofisher.com/en_US/Content/img/en_US/templates/CAD/dbCAN_Sample_Report.pdf",
+    "https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5035-8"
+  ]
+}

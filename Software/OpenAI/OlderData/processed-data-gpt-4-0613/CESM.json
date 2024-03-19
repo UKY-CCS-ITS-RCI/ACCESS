@@ -1,0 +1,19 @@
+{
+  "Software": "CESM",
+  "Website": "https://www.cesm.ucar.edu/",
+  "Documentation": "https://escomp.github.io/CESM/release-cesm2/quickstart.html",
+  "Tutorials and Training material": [
+    {
+      "Title": "CESM Tutorial",
+      "Link": "https://www.cesm.ucar.edu/events/tutorials/2018/coursework.html"
+    },
+    {
+      "Title": "CESM User Guide",
+      "Link": "https://escomp.github.io/CESM/release-cesm2/quickstart.html"
+    },
+    {
+      "Title": "Introduction to CESM",
+      "Link": "https://www.youtube.com/watch?v=S6kX0eUE3JQ"
+    }
+  ]
+}

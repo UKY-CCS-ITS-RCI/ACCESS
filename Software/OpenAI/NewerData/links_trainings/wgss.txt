@@ -1,0 +1,19 @@
+{
+  "software": {
+    "name": "Wgss",
+    "software_url": "https://github.com/tseemann/snippy",
+    "documentation": "https://github.com/tseemann/snippy/blob/master/README.md",
+    "tutorials": [
+      {
+        "tutorial_name": "Wgss YouTube Tutorial",
+        "url": "https://www.youtube.com/watch?v=6TZovu-eiOo"
+      }
+    ],
+    "training_materials": [
+      {
+        "name": "Wgss Training on SlideShare",
+        "url": "https://www.slideshare.net/secret/3vHpfK2bIpXzsI"
+      }
+    ]
+  }
+}

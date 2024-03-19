@@ -1,0 +1,20 @@
+{
+  "software name": "gnu",
+  "comprehensive overview": "GNU is an operating system and an extensive collection of free software. The GNU project was launched to develop a complete Unix-like operating system that is free software.",
+  "core features": [
+    "Free and open-source operating system",
+    "Includes a wide range of tools and utilities",
+    "Designed to be compatible with POSIX standards"
+  ],
+  "general tags": [
+    "Operating System",
+    "Free Software",
+    "Utilities"
+  ],
+  "additional tags": {
+    "research discipline": "Computer Science",
+    "research area": "Operating Systems",
+    "software class": "Operating System",
+    "software type": "Operating System"
+  }
+}

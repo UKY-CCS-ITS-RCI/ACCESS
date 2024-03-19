@@ -1,0 +1,14 @@
+{
+  "Software Name": "r-tibble",
+  "Software URL": "https://cran.r-project.org/web/packages/tibble/index.html",
+  "Documentation": {
+    "Documentation URL1": "https://tibble.tidyverse.org/",
+    "Documentation URL2": "https://www.rdocumentation.org/packages/tibble/versions/3.1.2"
+  },
+  "Tutorials & Training Materials": {
+    "Tutorial URL1": "https://r4ds.had.co.nz/tibbles.html",
+    "Tutorial URL2": "https://stat545.com/tibble.html",
+    "Training Material1": "https://r4ds.had.co.nz/tibble.html#tibble-basics",
+    "Training Material2": "https://davidedc.com/blog/fancy-r-part-2-tidyverse-and-tibbles/"
+  }
+}

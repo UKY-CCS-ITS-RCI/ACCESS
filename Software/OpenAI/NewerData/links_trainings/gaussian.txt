@@ -1,0 +1,14 @@
+{
+  "gaussian": {
+    "software_page": "http://gaussian.com/",
+    "documentation": [
+      "http://gaussian.com/glossary"
+    ],
+    "training_and_tutorial_materials": [
+      "https://sites.lafayette.edu/belkinr1/dft-tutorial/gaussian/",
+      "https://www.youtube.com/watch?v=O9qJM8MSFyU",
+      "https://www.chem.umd.edu/undergraduateprogram/laboratories/computerlab/gaussian-tutorials/",
+      "https://www.youtube.com/watch?v=9PMWh_WyKUo"
+    ]
+  }
+}

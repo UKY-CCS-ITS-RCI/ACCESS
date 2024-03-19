@@ -1,0 +1,23 @@
+{
+    "softwareName": "Numba",
+    "softwarePage": "http://numba.pydata.org/",
+    "documentationLink": "https://numba.readthedocs.io/en/stable/",
+    "tutorialMaterials": [
+        {
+            "tutorialName": "Numba tutorial in Scipy conference",
+            "tutorialLink": "https://www.youtube.com/watch?v=1AwG0T4gaO0"
+        },
+        {
+            "tutorialName": "Numba tutorial in Pycon conference",
+            "tutorialLink": "https://www.youtube.com/watch?v=ROguuIdmM_I"
+        },
+        {
+            "tutorialName": "Numba Python tutorial in Jupyter notebook",
+            "tutorialLink": "https://mybinder.org/v2/gh/numba/numba-examples/master?filepath=notebooks"
+        },
+        {
+            "tutorialName": "Numba GitHub tutorial repo",
+            "tutorialLink": "https://github.com/numba/numba-examples/"
+        }
+    ]
+}

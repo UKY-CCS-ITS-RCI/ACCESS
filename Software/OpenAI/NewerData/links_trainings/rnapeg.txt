@@ -1,0 +1,12 @@
+{
+"rnapeg": 
+{
+"software_page": "https://github.com/smithlabcode/rnapeg",
+"documentation": "https://github.com/smithlabcode/rnapeg/blob/master/README.md",
+"tutorials_and_training_materials": [
+"https://github.com/smithlabcode/rnapeg#walk-through-of-mapping-nanopore-direct-rna-reads-to-a-genome",
+"https://github.com/smithlabcode/rnapeg#usage",
+"https://github.com/smithlabcode/rnapeg#example-instructions-for-aligning-nanopore-direct-rna-reads"
+]
+}
+}

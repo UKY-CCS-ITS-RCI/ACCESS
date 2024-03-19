@@ -1,0 +1,15 @@
+{
+"Software": "libtirpc",
+"Software_URL": "https://sourceforge.net/projects/libtirpc/",
+"Documentation": 
+[
+{ "Title": "Linux man page for libtirpc", "URL": "https://linux.die.net/man/3/libtirpc" },
+{ "Title": "libtirpc Documentation on rpm.org", "URL": "https://rpm.org/user_doc/libs.html#libtirpc-library" }
+],
+"Training_and_Tutorial": 
+[
+{ "Title": "Code initialization with libtirpc", "URL": "https://docs.rtems.org/doc-current/share/rtems/html/porting/libtirpc.html" },
+{ "Title": "libtirpc usage example from Cvedetails", "URL": "https://www.cvedetails.com/vulnerability-list/vendor_id-72/product_id-42114/Fedoraproject-Libtirpc.html" },
+{ "Title": "Program Development with rpcgen and libtirpc", "URL": "http://nfs.sourceforge.net/nfs-howto/ar01s05.html" }
+]
+}

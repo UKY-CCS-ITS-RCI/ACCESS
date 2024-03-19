@@ -1,0 +1,19 @@
+{
+  "software": "hdf5",
+  "website": "https://portal.hdfgroup.org/display/support",
+  "documentation": "https://portal.hdfgroup.org/display/HDF5/Documentation",
+  "tutorials": [
+    {
+      "name": "HDF5 Tutorial",
+      "link": "https://portal.hdfgroup.org/display/HDF5/Tutorials"
+    },
+    {
+      "name": "HDF5 Introduction",
+      "link": "https://www.hdfgroup.org/HDF5/doc/H5.intro.html"
+    },
+    {
+      "name": "HDF5 Example Codes",
+      "link": "https://prefix.computer/hdf5/examples.html"
+    }
+  ]
+}

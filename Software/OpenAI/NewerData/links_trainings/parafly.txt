@@ -1,0 +1,45 @@
+{
+  "Software_Name": "ParaFly",
+  "Software_URL": "https://github.com/trinityrnaseq/trinityrnaseq/tree/master/trinity-plugins/Trimmomatic/util/support_scripts",
+  "Documentation_URL": "https://github.com/trinityrnaseq/trinityrnaseq/wiki",
+  "Tutorials_Trainings": [
+    {
+      "Tutorial_Link_1": "https://informatics.fas.harvard.edu/trinity-transcriptome-assembly-tutorial.html",
+      "Tutorial_Link_2": "http://korflab.ucdavis.edu/Datasets/Trinity/Trinity-tutorial.html"
+    }
+  ],
+  "Python_Libraries": [
+    {
+      "Library_Name": "",
+      "Library_URL": ""
+    }
+  ],
+  "Conda_Packages": [
+    {
+      "Package_Name": "trinity",
+      "Package_URL": "https://anaconda.org/bioconda/trinity"
+    }
+  ],
+  "Bioinformatics_Tools": [
+    {
+      "Tool_Name": "trinityrnaseq",
+      "Tool_URL": "https://github.com/trinityrnaseq/trinityrnaseq"
+    },
+    {
+      "Tool_Name": "Trimmomatic",
+      "Tool_URL": "http://www.usadellab.org/cms/?page=trimmomatic"
+    }
+  ],
+  "HPC_Tools": [
+    {
+      "Tool_Name": "",
+      "Tool_URL": ""
+    }
+  ],
+  "Compilers": [
+    {
+      "Compiler_Name": "",
+      "Compiler_URL": ""
+    }
+  ]
+}

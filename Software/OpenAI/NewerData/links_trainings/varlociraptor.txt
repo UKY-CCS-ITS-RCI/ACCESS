@@ -1,0 +1,18 @@
+{
+"Software Name": "Varlociraptor",
+"Software Page": "https://varlociraptor.github.io/docs/",
+"Additional Links": [
+  {
+    "LinkName": "Documentation",
+    "URL": "https://varlociraptor.github.io/docs/guide/"
+  },
+  {
+    "LinkName": "Github Repository",
+    "URL": "https://github.com/varlociraptor/varlociraptor"
+  },
+  {
+    "LinkName": "Tutorial",
+    "URL": "https://varlociraptor.github.io/docs/detecting_events/tutorial/"
+  }
+]
+}

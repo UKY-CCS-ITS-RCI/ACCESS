@@ -1,0 +1,18 @@
+{
+  "software": "kentutils",
+  "website": "https://github.com/ENCODE-DCC/kentUtils",
+  "documentation": [
+    "https://genomewiki.ucsc.edu/index.php/Kent_source_utilities",
+    "https://users.soe.ucsc.edu/~kent/"
+  ],
+  "training": [
+    "https://genome.ucsc.edu/FAQ/FAQblat.html#blat4",
+    "https://bioinformatics.ucdavis.edu/kent-utilities-with-galaxy/",
+    "https://training.hgsc.bcm.edu/content/ucsc-genome-browser-kent-utilities"
+  ],
+  "tutorial": [
+    "https://genomewiki.ucsc.edu/index.php/Blat,_the_BLAST-Like_Alignment_Tool",
+    "https://www.biostars.org/p/282045/",
+    "https://crazyhottommy.blogspot.com/2014/02/use-kent-binaries-to-filter-bam-files.html"
+  ]
+}

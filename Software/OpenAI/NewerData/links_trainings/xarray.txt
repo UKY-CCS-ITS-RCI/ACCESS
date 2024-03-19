@@ -1,0 +1,17 @@
+{
+  "software": "xarray",
+  "software_url": "http://xarray.pydata.org/en/stable/",
+  "documentation": {
+    "documentation_url": "http://xarray.pydata.org/en/stable/getting-started-guide/"
+  },
+  "tutorials": {
+    "tutorial1": "https://geohackweek.github.io/nDarrays/",
+    "tutorial2": "https://xarray-contrib.github.io/xarray-tutorial/",
+    "tutorial3": "https://earth-env-data-science.github.io/lectures/xarray/xarray_intro.html"
+  },
+  "training_materials": {
+    "training1": "https://www.youtube.com/watch?v=X0pAhJgySxk",
+    "training2": "https://xarray.pydata.org/en/stable/examples.html",
+    "training3": "https://www.earthdatascience.org/courses/use-data-open-source-python/multidimensional-arrays-xarray/"
+  }
+}

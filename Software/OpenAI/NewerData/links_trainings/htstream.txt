@@ -1,0 +1,21 @@
+{
+    "htstream": {
+        "software_page": "https://s4hts.github.io/HTStream/",
+        "documentation": "https://s4hts.github.io/HTStream/tutorial.html",
+        "training_materials": [
+            {
+                "name": "HTStream Documentation",
+                "url": "https://s4hts.github.io/HTStream/docs/overview.html"
+            },
+            {
+                "name": "HTStream Tutorial",
+                "url": "https://s4hts.github.io/HTStream/tutorial.html"
+            }
+        ],
+        "additional_info": {
+            "source_code": "https://github.com/s4hts/HTStream",
+            "conda_package": "https://anaconda.org/bioconda/htstream",
+            "bioconda_page": "https://bioconda.github.io/recipes/htstream/README.html"
+        }
+    }
+}

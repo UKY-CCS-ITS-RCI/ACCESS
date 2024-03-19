@@ -1,0 +1,24 @@
+{
+  "jupyternotebook": {
+    "softwarePage": "https://jupyter.org/",
+    "documentation": "https://jupyter-notebook.readthedocs.io/en/stable/",
+    "trainingMaterials": [
+      {
+        "title": "Jupyter Notebook Tutorial",
+        "url": "https://www.dataquest.io/blog/jupyter-notebook-tutorial/"
+      },
+      {
+        "title": "Getting Started with Jupyter Notebook",
+        "url": "https://realpython.com/jupyter-notebook-introduction/"
+      },
+      {
+        "title": "Jupyter Notebook for Beginners",
+        "url": "https://towardsdatascience.com/jypyter-notebook-for-beginners-a-tutorial-f55b57c23ada"
+      },
+      {
+        "title": "Jupyter Notebook Tutorial in Python",
+        "url": "https://www.guru99.com/jupyter-notebook-tutorial.html"
+      }
+    ]
+  }
+}

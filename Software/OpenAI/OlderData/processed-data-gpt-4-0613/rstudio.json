@@ -1,0 +1,12 @@
+{
+  "RStudio": {
+    "Software page": "https://www.rstudio.com/",
+    "Documentation": "https://docs.rstudio.com/",
+    "Tutorials and Training materials": {
+      "RStudio Education": "https://education.rstudio.com/",
+      "RStudio Learning": "https://learn.rstudio.com/",
+      "DataCamp Course": "https://www.datacamp.com/courses/r-basics-with-rstudio",
+      "Quick-R Tutorial": "https://www.statmethods.net/r-tutorial/index.html"
+    }
+  }
+}

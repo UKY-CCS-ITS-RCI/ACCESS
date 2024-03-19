@@ -1,0 +1,13 @@
+{
+  "software": "Squid",
+  "website_link": "http://www.squid-cache.org/",
+  "documentation_link": [
+    "http://www.squid-cache.org/Doc/",
+    "http://www.squid-cache.org/Versions/v4/cfgmanual/"
+  ],
+  "tutorial_links": [
+    "https://help.ubuntu.com/lts/serverguide/squid.html.en",
+    "https://www.linode.com/docs/guides/using-squid-to-proxy-ssp/",
+    "https://www.tecmint.com/install-squid-in-linux/"
+  ]
+}

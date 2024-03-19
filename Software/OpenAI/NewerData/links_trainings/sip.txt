@@ -1,0 +1,14 @@
+{
+  "software": "SIP",
+  "software_url": "https://www.riverbankcomputing.com/software/sip/intro",
+  "documentation": [
+    {
+      "url": "https://www.riverbankcomputing.com/static/Docs/sip4/"
+    }
+  ],
+  "tutorials": [
+    {
+      "url": "https://www.riverbankcomputing.com/software/sip/tutorial"
+    }
+  ]
+}

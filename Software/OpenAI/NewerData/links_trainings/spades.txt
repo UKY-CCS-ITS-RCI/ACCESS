@@ -1,0 +1,19 @@
+{
+  "software_name": "spades",
+  "software_url": "http://cab.spbu.ru/software/spades/",
+  "documentation_url": "http://cab.spbu.ru/files/release3.13.0/manual.html",
+  "tutorial_links": [
+    {
+      "name": "Galaxy Tutorial - SE-SPAdes assembly",
+      "url": "https://galaxyproject.github.io/training-material/topics/assembly/tutorials/spades/tutorial.html"
+    },
+    {
+      "name": "SPAdes Manual - Github",
+      "url": "https://github.com/ablab/spades"
+    },
+    {
+      "name": "SPAdes Basic Usage",
+      "url": "https://biowize.wordpress.com/2015/03/24/navigating-the-maze-of-genome-assemblers-a-gentle-introduction-to-spades/"
+    }
+  ]
+}

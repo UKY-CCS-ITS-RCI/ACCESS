@@ -1,0 +1,49 @@
+Use Case: SDL2 is a cross-platform software development library, used to create high-performance applications that are portable across different platforms. It is used for game development, multimedia applications that require rendering of 2D images/graphics, and handling audio, keyboard, mouse, joystick, events, and threads.
+
+Code Details and Examples:
+
+Code:
+
+# Include the SDL library
+#include <SDL2/SDL.h>
+
+int main(int argc, char* args[]) 
+{ 
+   // Initializing SDL
+   if (SDL_Init(SDL_INIT_EVERYTHING) < 0) 
+   { 
+      printf("SDL could not initialize! SDL_Error: %s\n", SDL_GetError()); 
+   } 
+   else 
+   { 
+      // Create a window
+      SDL_Window* window = SDL_CreateWindow("SDL Tutorial", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, 800, 600, SDL_WINDOW_SHOWN);
+      if (window == nullptr) 
+      { 
+         printf("Window could not be created! SDL_Error: %s\n", SDL_GetError()); 
+      } 
+      else 
+      { 
+         // Wait for 3000 ms (3 seconds)
+         SDL_Delay(3000);
+
+         // Destroy the window
+         SDL_DestroyWindow(window);
+
+         // Quit SDL subsystems
+         SDL_Quit(); 
+      } 
+   } 
+
+   return 0; 
+}
+
+This code initializes SDL, creates a window with a given title and dimensions, waits for a certain amount of time (3 seconds in this case), then destroys the window and quits the SDL subsystems.
+
+Command to run:
+
+Assuming the code is in a file called `main.c`, it requires the SDL2 library installed and a C compiler (e.g., gcc):
+
+`gcc main.c -o output -lSDL2`
+
+Then to run: `./output`

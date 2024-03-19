@@ -1,0 +1,11 @@
+{
+  "software_name": "kbproto",
+  "software_url": "https://www.x.org/releases/current/doc/kbproto/xkbproto.html",
+  "documentation": [
+    {
+      "url": "https://www.x.org/releases/X11R7.5/doc/inputproto/xkbproto.html"
+    }
+  ],
+  "tutorials": [],
+  "training_materials": []
+}

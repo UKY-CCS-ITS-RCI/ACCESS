@@ -1,0 +1,31 @@
+Use Case: CMake is a cross-platform build system generator.
+
+Code details and examples: 
+- Create a simple CMakeLists.txt file:
+```cmake
+cmake_minimum_required(VERSION 3.10)
+
+project(MyProject)
+
+add_executable(MyExecutable main.cpp)
+```
+
+- Sample main.cpp file:
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!\n";
+    return 0;
+}
+```
+
+- Run CMake to generate build files:
+```bash
+cmake -S . -B build
+```
+
+- Build the project using the generated build files:
+```bash
+cmake --build build
+```

@@ -1,0 +1,12 @@
+{
+  "Software": "Atop",
+  "Website": "https://www.atoptool.nl/",
+  "Documentation": {
+    "Manual": "https://www.atoptool.nl/download/atop.pdf",
+    "GitHub Wiki": "https://github.com/Atoptool/atop/wiki"
+  },
+  "Tutorials and Training Materials": {
+    "A Comprehensive Review of the ATOP command": "https://linoxide.com/linux-command/linux-atop-command/",
+    "ATOP User Guide": "https://www.ibm.com/docs/en/linux-821?topic=8c13-atop-user-guide"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "software_name": "FragGeneScanRS",
+  "software_page_link": "https://github.com/Czh3/FGS",
+  "documentation_links": [
+    {
+      "Tutorial": "https://github.com/Czh3/FGS/blob/master/README.md"
+    }
+  ],
+  "training_materials": [
+    {
+      "Guide on FragGeneScan for metagenomic data": "http://omics.informatics.indiana.edu/FragGeneScan/"
+    }
+  ]
+}

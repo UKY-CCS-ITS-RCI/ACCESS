@@ -1,0 +1,23 @@
+{
+  "softwareName": "Transrate",
+  "mainURL": "http://hibberdlab.com/transrate/",
+  "documentationURL": "http://hibberdlab.com/transrate/docs.html",
+  "tutorialAndTrainingMaterials": [
+    {
+      "name": "Transrate installation guide",
+      "URL": "http://hibberdlab.com/transrate/getting_started.html"
+    },
+    {
+      "name": "Transrate usage guide",
+      "URL": "http://hibberdlab.com/transrate/usage.html"
+    },
+    {
+      "name": "Tutorial on next-generation sequencing data analysis using Transrate",
+      "URL": "https://www.ebi.ac.uk/training/online/course/functional-annotation-genomics-funcgen-genomic-data-analysis-rna-seq-and-its-derivatives"
+    },
+    {
+      "name": "Guide on how to evaluate and improve de novo transcriptome assemblies with Transrate",
+      "URL": "https://academic.oup.com/bioinformatics/article/32/13/2037/1743516"
+    }
+  ]
+}

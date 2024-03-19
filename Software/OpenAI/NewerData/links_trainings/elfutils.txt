@@ -1,0 +1,16 @@
+{
+  "Elfutils": {
+    "Software_page": "https://sourceware.org/elfutils/",
+    "Additional_links": {
+      "Documentation": {
+        "General_documentation": "https://sourceware.org/elfutils/Debuginfod.html",
+        "FAQ": "https://sourceware.org/elfutils/Debuginfod.html"
+      },
+      "Training_and_tutorial_materials": {
+        "Elfutils_tutorial": "https://lwn.net/Articles/633422/",
+        "Debugging_with_elfutils": "https://developers.redhat.com/blog/2019/02/25/debuginfod-elfutils-0-176/",
+        "Elfutils_Basics": "https://www.linuxtopia.org/online_books/linux_tool_guides/the_elfutils_package.html"
+      }
+    }
+  }
+}

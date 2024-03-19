@@ -1,0 +1,19 @@
+{
+  "software": "ml-toolkit-cpu/opencv",
+  "software_link": "https://opencv.org/",
+  "documentation_link": "https://docs.opencv.org/master/",
+  "tutorial_materials": [
+    {
+      "title": "OpenCV-Python Tutorials",
+      "link": "https://docs.opencv.org/master/d6/d00/tutorial_py_root.html"
+    },
+    {
+      "title": "OpenCV Tutorials on YouTube",
+      "link": "https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq"
+    },
+    {
+      "title": "Python Programming Tutorial: Getting Started with the OpenCV",
+      "link": "https://pythonprogramming.net/loading-images-python-opencv-tutorial/"
+    }
+  ]
+}

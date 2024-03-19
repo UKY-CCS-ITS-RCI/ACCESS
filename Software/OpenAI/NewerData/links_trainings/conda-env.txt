@@ -1,0 +1,19 @@
+{
+  "software": {
+    "name": "conda-env",
+    "link": "https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html",
+    "resources": {
+      "documentation": [
+        "https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#viewing-a-list-of-your-environments"
+      ],
+      "tutorials": [
+        "https://conda.io/projects/conda/en/latest/user-guide/getting-started.html",
+        "https://www.youtube.com/watch?v=nDPiF0sDErU"
+      ],
+      "training": [
+        "https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/02-working-with-environments/index.html",
+        "https://www.datacamp.com/courses/conda-for-building-distributing-packages"
+      ]
+    }
+  }
+}

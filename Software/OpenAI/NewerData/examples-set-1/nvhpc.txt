@@ -1,0 +1,48 @@
+Use Case: The NVHPC (NVIDIA HPC SDK) is a comprehensive suite of compilers and libraries for developing high-performance computing applications. A use case might be to compile and run a simple Fortran program that calculates the Fibonacci sequence up to a given number.
+
+Code Details and Examples: 
+
+Code:
+
+This is a simple Fortran program called `fibonacci.f90`:
+
+```fortran
+program fibonacci
+implicit none
+integer :: n, res
+print *, 'Enter a positive integer:'
+read *, n
+res = fib(n)
+print *, 'The', n, 'th Fibonacci number is:', res
+end program fibonacci
+
+function fib(n)
+implicit none
+integer, intent(in) :: n
+integer :: fib 
+if (n == 0) then
+  fib = 0
+else if (n == 1) then
+  fib = 1
+else
+  fib = fib(n-1) + fib(n-2)
+end if
+return
+end function fib
+```
+
+Command to compile and run:
+
+First, compile the Fortran program with `nfort`:
+
+```
+nfort -o fibonacci fibonacci.f90
+```
+
+After successful compilation, an executable file `fibonacci` is created. This can be run with:
+
+```
+./fibonacci
+``` 
+
+The program will then ask for input (a positive integer), calculate the Fibonacci number in that position, and print it to standard output.

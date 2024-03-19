@@ -1,0 +1,10 @@
+{
+  "software": "cuDNN",
+  "software_url": "https://developer.nvidia.com/cudnn",
+  "documentation_url": "https://docs.nvidia.com/deeplearning/cudnn/developer-guide/index.html",
+  "tutorial_urls": [
+    "https://learnopencv.com/installing-cudnn-for-cuda/",
+    "https://www.youtube.com/watch?v=h3hB5HKHbS4",
+    "https://github.com/NVIDIA/cudnn-training"
+  ]
+}

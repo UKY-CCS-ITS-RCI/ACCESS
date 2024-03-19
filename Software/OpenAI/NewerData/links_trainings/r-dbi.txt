@@ -1,0 +1,18 @@
+{
+  "Software_Name": "r-dbi",
+  "Software_URL": "https://dbi.r-dbi.org/",
+  "Documentation": {
+    "Intro_to_DBI": "https://dbi.r-dbi.org/articles/dbi-1-1-0.html",
+    "Examples_DBI": "https://cran.r-project.org/web/packages/DBI/vignettes/DBI-1-1-0.html",
+    "DBI_Functions": "https://rdrr.io/cran/DBI/man/DBI-package.html"
+  },
+  "Training_Materials": {
+    "R_DBI_Tutorial_YouTube": "https://www.youtube.com/watch?v=0oBJC6gUhF0",
+    "Data_Manipulation_with_DBI": "http://www.datamanagement.ucla.edu/training-materials/r-dbi-tutorial/",
+    "SQL_Database_with_DBI": "https://cengel.github.io/R-dbplyr/"
+  },
+  "Additional_Resources": {
+    "DBI_ON_CRAN": "https://cran.r-project.org/package=DBI",
+    "DBI_on_R-Documentation": "https://www.rdocumentation.org/packages/DBI/versions/0.8-1"
+  }
+}

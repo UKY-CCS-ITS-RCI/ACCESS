@@ -1,0 +1,21 @@
+Use Case: Use scipy for scientific computing in Python.
+
+Code details and examples:
+```
+import numpy as np
+from scipy import optimize
+
+# Define a simple function to optimize
+def objective_function(x):
+    return x**2 + 10*np.sin(x)
+
+# Minimize the function using scipy's optimize.minimize
+result = optimize.minimize(objective_function, x0=0)
+
+print(result)
+```
+
+Command to run (assuming code is saved in a file named `optimize_function.py`):
+```
+python optimize_function.py
+```

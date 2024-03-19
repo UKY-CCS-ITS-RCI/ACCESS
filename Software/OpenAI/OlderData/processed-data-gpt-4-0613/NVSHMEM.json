@@ -1,0 +1,32 @@
+{
+  "software": "NVSHMEM",
+  "website": "https://developer.nvidia.com/nvshmem",
+  "documentation": [
+    {
+      "title": "NVSHMEM Documentation",
+      "url": "https://docs.nvidia.com/hpc-sdk/nvshmem/"
+    }
+  ],
+  "training_tutorials": [
+   {
+      "title": "NVSHMEM: GPU-Accelerated Programming with OpenSHMEM",
+      "url": "https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=scivis01p04-nvshmem%3a+gpu-accelerated+programming+with+openshmem"
+    },
+    {
+      "title": "NVIDIA NVSHMEM: User Guide",
+      "url": "https://docs.nvidia.com/hpc-sdk/nvshmem/nvshmem/NVSHMEM-user-guide/nvshmem-user-guide.html"
+    },
+    {
+      "title": "CSCS Training Series: GPU-Direct and NVSHMEM",
+      "url": "https://indico.cscs.ch/event/48/contributions/104/"
+    },
+    {
+      "title": "GTC 2019 Presentation: NVSHMEM: Introduction and Use Cases",
+      "url": "https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=s9779-nvshmem%3a+introduction+and+use+cases"
+    },
+    {
+      "title": "NVSHMEM API Reference",
+      "url": "https://docs.nvidia.com/hpc-sdk/nvshmem/nvshmem/NVSHMEM-API-reference/nvshmem-api-reference.html"
+    }
+  ]
+}

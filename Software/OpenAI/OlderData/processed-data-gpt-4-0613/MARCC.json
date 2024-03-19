@@ -1,0 +1,14 @@
+
+{
+    "name": "MARCC",
+    "software_page": "https://www.marcc.jhu.edu/",
+    "documentation": "https://www.marcc.jhu.edu/getting-started/faq-documentation/",
+    "tutorials": [
+        "https://www.youtube.com/watch?v=cjMV7G1x91c",
+        "https://www.marcc.jhu.edu/training/"
+    ],
+    "additional_resources": [
+        "https://www.marcc.jhu.edu/research/",
+        "https://www.marcc.jhu.edu/support/"
+    ]
+}

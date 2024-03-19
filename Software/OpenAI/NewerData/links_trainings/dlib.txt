@@ -1,0 +1,28 @@
+{
+  "dlib": {
+    "software_page": "http://dlib.net/",
+    "documentation": "http://dlib.net/docs/overview.html",
+    "training_materials": [
+      {
+        "title": "Dlib C++ Library",
+        "url": "https://sourceforge.net/p/dclib/wiki/Home/"
+      },
+      {
+        "title": "Dlib Python Introduction",
+        "url": "http://dlib.net/python/index.html"
+      },
+      {
+        "title": "Machine Learning with Dlib",
+        "url": "https://pythonprogramming.net/machine-learning-dlib-19-install-python-plays-gta-v/"
+      },
+      {
+        "title": "Face Recognition with Dlib",
+        "url": "https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/"
+      },
+      {
+        "title": "A Practical Introduction to Dlib using C++",
+        "url": "https://www.learnopencv.com/a-practical-introduction-to-dlib-using-cpp/"
+      }
+    ]
+  }
+}

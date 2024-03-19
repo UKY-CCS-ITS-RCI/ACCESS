@@ -1,0 +1,12 @@
+{
+  "Software": "Homopolish",
+  "SoftwareUrl": "https://github.com/ythuang0522/homopolish",
+  "SoftwareDocumentation": {
+    "GithubWiki": "https://github.com/ythuang0522/homopolish/wiki",
+    "GitHubReadme": "https://github.com/ythuang0522/homopolish#readme"
+  },
+  "TrainingAndTutorialMaterials": {
+    "HomopolishPipelineOnScilifelab": "https://www.scilifelab.se/platforms-ngis/tools-and-software-nf-core-pipelines/homopolish/",
+    "BiocondaHomopolish": "https://bioconda.github.io/recipes/homopolish/README.html"
+  }
+}

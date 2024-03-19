@@ -1,0 +1,17 @@
+{
+  "software": "libseccomp",
+  "details": [
+    {
+      "software_page_link": "https://github.com/seccomp/libseccomp",
+      "documentation_links": [
+        "https://github.com/seccomp/libseccomp/blob/main/doc/README.md",
+        "https://man7.org/linux/man-pages/man2/seccomp_user_notif.2.html"
+      ],
+      "training_and_tutorial_materials_links": [
+        "https://people.kernel.org/kees/refcount-vs-atomic_t-vs-seqcount",
+        "https://opensource.com/article/17/6/seccomp",
+        "https://www.kernel.org/doc/Documentation/prctl/seccomp_filter.txt"
+      ]
+    }
+  ]
+}

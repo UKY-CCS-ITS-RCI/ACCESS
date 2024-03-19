@@ -1,0 +1,25 @@
+{
+  "Software": "ecBuild",
+  "SoftwareURL": "https://github.com/ecmwf/ecbuild",
+  "Documentation": [
+     {
+       "DocLink": "https://confluence.ecmwf.int/display/EMOS/ecBuild"
+     },
+     {
+       "DocLink": "https://confluence.ecmwf.int/display/JIFS/ecCodes+installation"
+     } 
+  ],
+  "Tutorials": [
+    {
+      "TutorialLink": "https://www.coursera.org/lecture/weather-forecasts/ecmwf-software-infrastructure-MZyj7"
+    },
+    {
+      "TutorialLink": "https://www.youtube.com/watch?v=JZcDn04UQpE"
+    }
+  ],
+  "TrainingMaterials": [
+    {
+      "TrainingMaterialLink": "https://www.ecmwf.int/en/newsletter/153/meteorology/journey-shared-code-ecmwf"
+    }
+  ]
+}

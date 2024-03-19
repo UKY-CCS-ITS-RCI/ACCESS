@@ -1,0 +1,19 @@
+{
+  "Software Name": "Intel Trace Analyzer and Collector (ITAC)",
+  "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/trace-analyzer.html",
+  "Documentation Page": "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-hpc-toolkit-user-guide/top.html",
+  "Training And Tutorial Materials": {
+    "Training1": {
+      "Title": "Intel Tools for High Performance Computing – Trace Analyzer and Collector",
+      "URL": "https://software.intel.com/content/www/us/en/develop/articles/intel-performance-tools-for-hpc---trace-analyzer.html"
+    },
+    "Training2": {
+      "Title": "Understanding MPI Traces with the Intel Trace Analyzer",
+      "URL": "https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/dp/hls/ug-hls.pdf"
+    },
+    "Training3": {
+      "Title": "Using Intel® MPI Library and Intel® Trace Analyzer and Collector in WSL",
+      "URL": "https://software.intel.com/content/www/us/en/develop/articles/using-intel-mpi-library-and-itac-in-wsl.html"
+    }
+  }
+}

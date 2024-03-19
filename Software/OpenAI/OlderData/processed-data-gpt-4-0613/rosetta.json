@@ -1,0 +1,18 @@
+{
+   "rosetta":{
+      "URL":"https://www.rosettacommons.org/",
+      "Documentation":"https://www.rosettacommons.org/docs/latest/Home",
+      "Tutorials":[
+         {
+            "Tutorial one":"https://www.rosettacommons.org/demos/latest/Home",
+            "Tutorial two":"https://www.rosettacommons.org/docs/latest/application_documentation/introduction-tutorials"
+         }
+      ],
+      "Training materials":[
+         {
+            "Rosetta workshop":"https://www.rosettacommons.org/node/10481",
+            "Rosetta tutorials YouTube":"https://www.youtube.com/playlist?list=PLyJWpwaYOdhGKtkcCUgbyA6VknIO1fsjk"
+         }
+      ]
+   }
+}

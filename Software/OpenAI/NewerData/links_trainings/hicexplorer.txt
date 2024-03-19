@@ -1,0 +1,24 @@
+{
+    "software": "hicexplorer",
+    "software_url": "https://hicexplorer.readthedocs.io/en/latest/",
+    "documentation": [
+        {
+            "title": "Official Documentation",
+            "url": "https://hicexplorer.readthedocs.io/en/latest/"
+        },
+        {
+            "title": "GitHub Page",
+            "url": "https://github.com/deeptools/HiCExplorer"
+        }
+    ],
+    "training_materials": [
+        {
+            "title": "Galaxy Training Material on HiCExplorer",
+            "url": "https://training.galaxyproject.org/training-material/topics/hic/tutorials/hicexplorer/tutorial.html"
+        },
+        {
+            "title": "Tutorial by RNASeqBlog",
+            "url": "https://www.rna-seqblog.com/hicexplorer-high-resolution-chromosome-conformation-capture-analysis/"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "Software_List": [
+    {
+      "Software_Name": "Tombo",
+      "Software_URL": "https://github.com/nanoporetech/tombo",
+      "Documentation_URL": "https://tombo.readthedocs.io/en/latest/",
+      "Tutorials_and_Trainings": [
+        {
+          "Tutorial_Name": "Tombo tutorial for Direct RNA",
+          "Tutorial_URL": "https://nanoporetech.github.io/tombo/tutorial_rna.html"
+        },
+        {
+          "Tutorial_Name": "Getting Started with Nanopore Sequencing & Data Analysis Using Tombo",
+          "Tutorial_URL": "https://www.youtube.com/watch?v=GnWSXoJzQz4"
+        },
+        {
+          "Tutorial_Name": "Tombo GitHub Wiki",
+          "Tutorial_URL": "https://github.com/nanoporetech/tombo/wiki"
+        },
+        {
+          "Tutorial_Name": "Tombo Python API",
+          "Tutorial_URL": "https://tombo.readthedocs.io/en/latest/python_api.html"
+        }
+      ]
+    }
+  ]
+}

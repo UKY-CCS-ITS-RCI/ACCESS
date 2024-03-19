@@ -1,0 +1,10 @@
+{
+  "softwareName": "GSL",
+  "links": {
+    "softwarePage": "https://www.gnu.org/software/gsl/",
+    "documentation": "https://www.gnu.org/software/gsl/doc/html/index.html",
+    "officialTutorial": "https://www.gnu.org/software/gsl/doc/html/index.html#examples",
+    "tutorial1": "https://www.youtube.com/watch?v=L0XNggBebfs",
+    "tutorial2": "https://www.brianbunner.com/gsl-tutorial/"
+  }
+}

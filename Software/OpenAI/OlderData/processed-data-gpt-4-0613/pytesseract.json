@@ -1,0 +1,20 @@
+{
+  "pytesseract": {
+    "softwarePage": "https://pypi.org/project/pytesseract/",
+    "documentation": "https://pypi.org/project/pytesseract/",
+    "trainingMaterials": [
+      {
+        "tutorial": "https://medium.com/better-programming/beginners-guide-to-tesseract-ocr-using-python-10ecbb426c3d",
+        "tutorialLink": "https://medium.com/better-programming/beginners-guide-to-tesseract-ocr-using-python-10ecbb426c3d"
+      },
+      {
+        "tutorial": "https://nanonets.com/blog/ocr-with-tesseract/",
+        "tutorialLink": "https://nanonets.com/blog/ocr-with-tesseract/"
+      },
+      {
+        "tutorial": "https://stackabuse.com/pytesseract-simple-python-optical-character-recognition/",
+        "tutorialLink": "https://stackabuse.com/pytesseract-simple-python-optical-character-recognition/"
+      }
+    ]
+  }
+}

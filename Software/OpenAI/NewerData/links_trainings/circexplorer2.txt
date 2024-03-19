@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Name": "circexplorer2",
+    "SoftwareURL": "https://github.com/YangLab/CircExplorer2",
+    "Documentation": {
+        "URL1": "https://circexplorer2.readthedocs.io/en/latest/"
+      },
+    "Tutorials": {
+      "URL1": "https://circexplorer2.readthedocs.io/en/latest/tutorial/",
+      "URL2": "http://circexplorer2-troubleshooting-guide.readthedocs.io/"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "openjdk": {
+    "softwarePage": "https://openjdk.java.net/",
+    "documentation": [
+      {
+        "name": "Official Documentation",
+        "url": "https://openjdk.java.net/groups/hotspot/docs/"
+      }
+    ],
+    "trainingAndTutorials": [
+      {
+        "name": "Learn Java Programming - OpenJDK Tutorial",
+        "url": "https://www.codejava.net/java-core/the-java-language/learn-java-programming-with-openjdk"
+      },
+      {
+        "name": "How to Install OpenJDK 11 on CentOS 8 ",
+        "url": "https://www.howtoforge.com/tutorial/how-to-install-openjdk-11-on-centos-8/"
+      },
+      {
+        "name": "OpenJDK Quick start",
+        "url": "https://openjdk.java.net/guide/start.html"
+      }
+    ]
+  }
+}

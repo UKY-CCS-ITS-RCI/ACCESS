@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "TBB 3.2",
+  "Homepage": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb.html",
+  "Resources": {
+    "Documentation": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb/documentation.html",
+    "Tutorials": [
+      "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb/tutorials.html",
+      "https://www.threadingbuildingblocks.org/docs/help/reference/index.htm"
+    ],
+    "TrainingMaterial": [
+      "https://www.youtube.com/watch?v=ttY59zEC8rY",
+      "https://www.threadingbuildingblocks.org/tutorial-intel-tbb-concurrent-containers"
+    ]
+  }
+}

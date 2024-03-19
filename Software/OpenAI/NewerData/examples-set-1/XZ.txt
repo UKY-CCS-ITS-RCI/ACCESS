@@ -1,0 +1,33 @@
+Use Case: XZ is a data compression software, used for reducing the size of data. It is particularly effective on files containing repetitive information.
+
+Code details and examples:
+
+Code:
+
+For compressing a file
+
+```
+xz -z filename
+```
+
+This command will compress `filename` into `filename.xz`. The original file (`filename`) will be deleted.
+
+If you want to keep the original file, you can use:
+
+```
+xz -zk filename
+```
+
+For uncompressing a file:
+
+```
+xz -d filename.xz
+```
+
+The sample input file can be a text file, a binary file or any other file type.
+
+The format required should be a file readable by the operating system. The software does not require any specific format.
+
+The specification and details in the input file should contain data that can be compressed. It is irrelevant what kind of data it is, since xz compresses the binary form of the data. There are no standards that require a specific format in the file. 
+
+The command to run the xz is "xz" from the command line. It is generally available in Unix/Linux distributions. To see more options, you can type "man xz" in the command line.

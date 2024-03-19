@@ -1,0 +1,15 @@
+{
+  "Software Name": "bactopia",
+  "Software URL": "https://github.com/bactopia/bactopia",
+  "Additional-Resources": {
+    "Documentation-URL": "https://bactopia.readthedocs.io/en/latest/",
+    "Tutorial-URL": [
+      "https://bactopia.github.io/tutorial",
+      "https://bactopia.github.io/install/"
+    ],
+    "Training-Materials": [
+      "https://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/general-tutorial/tutorial.html",
+      "https://github.com/warwick-ac-uk-rsg/WarwickRSE_Python_Workshop/tree/master/Day_3_Exercises/Bactopia"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "software": "snaptools",
+  "software_link": "https://github.com/r3fang/SnapTools",
+  "documentation": [
+    {
+      "documentation_link": "https://github.com/r3fang/SnapTools#full-documentations-on-snaptools"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorial_link": "https://github.com/r3fang/SnapATAC/wiki/FAQs---Snaptools"
+    },
+    {
+      "tutorial_link": "https://github.com/r3fang/SnapATAC/wiki/How-to-convert-BAM-to-Snap-File"
+    },
+    {
+      "tutorial_link": "https://github.com/ncbi/sra-tools/wiki/HowTo:-fasterq-dump-to-an-aligner"
+    }
+  ]
+}

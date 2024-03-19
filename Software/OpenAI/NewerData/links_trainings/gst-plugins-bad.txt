@@ -1,0 +1,11 @@
+{
+  "software": "gst-plugins-bad",
+  "softwarePage": "https://gstreamer.freedesktop.org/modules/gst-plugins-bad.html",
+  "documentationUrl": "https://gstreamer.freedesktop.org/documentation/plugins.html",
+  "tutorialsAndTrainingMaterials": {
+    "MainTutorial": "https://gstreamer.freedesktop.org/documentation/tutorials/basic/index.html",
+    "ApplicationDevelopmentManual": "https://gstreamer.freedesktop.org/documentation/application-development/index.html",
+    "PluginWritingGuide": "https://gstreamer.freedesktop.org/documentation/plugins/write-plugin.html",
+    "GstPluginOverview": "https://gstreamer.freedesktop.org/documentation/plugin-development/basics/overview.html"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "siesta": {
+    "softwarePage": "https://departments.icmab.es/leem/siesta/",
+    "documentation": "https://departments.icmab.es/leem/siesta/DOWNLOAD/Manuals/Manual-siesta-v4.0.pdf",
+    "trainingMaterials": [
+      {
+        "name": "SIESTA Beginners Guide",
+        "url": "https://www.cecam.org/workshop-0-1929.html"
+      },
+      {
+        "name": "SIESTA basic training tutorial by Bethe Research Center",
+        "url": "http://indico.ictp.it/event/a08193/session/87/contribution/41/material/slides/0.pdf"
+      },
+      {
+        "name": "Basic SIESTA tutorials",
+        "url": "https://icmab.es/siesta-tutorials"
+      }
+    ]
+  }
+}

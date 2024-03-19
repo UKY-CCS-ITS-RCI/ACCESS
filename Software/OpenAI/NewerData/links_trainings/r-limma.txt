@@ -1,0 +1,23 @@
+{
+  "software": "r-limma",
+  "software_url": "https://bioconductor.org/packages/release/bioc/html/limma.html",
+  "documentation": [
+    {
+      "url": "https://www.bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf"
+    }
+  ],
+  "tutorials": [
+    {
+      "url": "https://www.bioconductor.org/help/workflows/RNAseq123/"
+    },
+    {
+      "url": "https://hbctraining.github.io/DGE_workshop_salmon_online/lessons/05_DGE_Limma-Voom_analysis.html"
+    },
+    {
+      "url": "https://www.reneshbedre.com/blog/gene_deg.html"
+    },
+    {
+      "url": "https://ucdavis-bioinformatics-training.github.io/2020_August_UCD_mRNAseq_workshop/tuesday/DE.html"
+    }
+  ]
+}

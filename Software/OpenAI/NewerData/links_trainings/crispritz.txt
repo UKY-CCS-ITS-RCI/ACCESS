@@ -1,0 +1,19 @@
+{
+  "software": "Crispritz",
+  "links": {
+    "softwareURL": "https://sourceforge.net/projects/crispritz/",
+    "documentation": [
+      {
+        "url": "https://crispritz.readthedocs.io"
+      }
+    ],
+    "tutorials": [
+      {
+        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006880"
+      },
+      {
+        "url": "https://www.protocol-online.org/protocols/36852-crispritz-a-new-tool-for-genome-editing.html"
+      }
+    ]
+  }
+}

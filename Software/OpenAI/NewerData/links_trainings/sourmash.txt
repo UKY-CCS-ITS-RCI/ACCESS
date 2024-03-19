@@ -1,0 +1,18 @@
+{
+  "Software": {
+    "Name": "sourmash",
+    "URL": "https://sourmash.readthedocs.io/",
+    "Software Info": "A library for creating, comparing, and manipulating MinHash sketches of DNA sequences and other data",
+    "Documentation": "https://sourmash.readthedocs.io/en/latest/",
+    "Tutorials": [
+      {
+        "Title": "Sourmash User's Guide",
+        "URL": "https://sourmash.readthedocs.io/en/latest/tutorial.html"
+      },
+      {
+        "Title": "GitHub Tutorial for Sourmash",
+        "URL": "https://github.com/dib-lab/sourmash/tree/latest/doc/tutorials"
+      }
+    ]
+  }
+}

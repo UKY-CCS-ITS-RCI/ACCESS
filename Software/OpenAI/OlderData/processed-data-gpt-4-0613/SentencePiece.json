@@ -1,0 +1,12 @@
+{
+  "Software Name": "SentencePiece",
+  "links": {
+    "software page": "https://github.com/google/sentencepiece",
+    "documentation": "https://github.com/google/sentencepiece#usage",
+    "tutorials": [
+      "https://www.machinecurve.com/index.php/2020/12/02/tokenize-strings-with-sentencepiece/",
+      "https://dzlab.github.io/nlp/2020/09/14/python-sentencepiece/",
+      "https://huggingface.co/transformers/tokenizer_summary.html#google-s-sentencepiece"
+    ]
+  }
+}

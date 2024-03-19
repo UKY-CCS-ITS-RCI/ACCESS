@@ -1,0 +1,23 @@
+{
+    "SoftwareName": "Espresso",
+    "SoftwareURL": "https://www.quantum-espresso.org/",
+    "Documentation": [
+        {
+            "DocURL": "https://www.quantum-espresso.org/Doc/"
+        }
+    ],
+    "Tutorials": [
+        {
+            "TutorialURL": "https://www.quantum-espresso.org/resources/tutorials"
+        },
+        {
+            "TutorialURL": "https://www.youtube.com/watch?v=Xr78ItDmu7E"
+        },
+        {
+            "TutorialURL": "https://www.psik.org/index.php/psi-k-2020/espresso"
+        },
+        {
+            "TutorialURL": "https://www.nsc.liu.se/~pla/esp/vasp-ref/node162.html"
+        }
+    ]
+}

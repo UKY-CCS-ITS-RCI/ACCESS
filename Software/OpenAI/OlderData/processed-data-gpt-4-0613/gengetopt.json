@@ -1,0 +1,15 @@
+{
+  "Software": "gengetopt",
+  "Link": "https://www.gnu.org/software/gengetopt/",
+  "Documentation": "https://www.gnu.org/software/gengetopt/gengetopt.html",
+  "Training and Tutorial": [
+    {
+      "Title": "GNU Gengetopt Tutorial",
+      "URL": "https://www.gnu.org/software/gengetopt/gengetopt_toc.html"
+    },
+    {
+      "Title": "Introduction with Examples - GNU Gengetopt 2.22",
+      "URL": "https://www.gnu.org/software/gengetopt/gengetopt.pdf"
+    }
+  ]
+}

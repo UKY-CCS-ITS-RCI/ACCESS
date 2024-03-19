@@ -1,0 +1,15 @@
+{
+  "software": "r-mass",
+  "software_webpage": "https://cran.r-project.org/web/packages/MASS/",
+  "documentation_link": "https://cran.r-project.org/web/packages/MASS/MASS.pdf",
+  "tutorials_and_training_materials": [
+    {
+      "name": "R MASS package guide",
+      "URL": "https://www.rdocumentation.org/packages/MASS/versions/7.3-54"
+    },
+    {
+      "name": "MASS package tutorial overview",
+      "URL": "https://www.statmethods.net/advstats/glm.html"
+    }
+  ]
+}

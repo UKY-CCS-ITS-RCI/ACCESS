@@ -1,0 +1,12 @@
+{
+  "Software": "Geocube",
+  "Software_Page_Link": "https://www.crayfour.com/geocube/",
+  "Documentation_Link": "https://corteva.github.io/rioxarray/html/geocube.html",
+  "Tutorial_and_Training_Materials": 
+  [ 
+    {
+      "Introduction_to_Geocube": "https://www.youtube.com/watch?v=hDpENi3F1GA",
+      "Geospatial_Analysis_with_Geocube": "https://www.earthdatascience.org/courses/use-data-open-source-python/intro-raster-data-python/fundamentals-raster-data/plotting-spatial-data/using-geocube-with-xarray/"
+    }
+  ]
+}

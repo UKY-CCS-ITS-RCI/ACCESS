@@ -1,0 +1,20 @@
+{
+  "name": "quast",
+  "software_page": "http://quast.sourceforge.net/quast",
+  "documentation": [
+    {
+      "doc_title": "QUAST Manual",
+      "doc_link": "http://quast.sourceforge.net/manual.html"
+    }
+  ],
+  "tutorial_materials": [
+    {
+      "tutorial_title": "QUAST: Quality Assessment Tool for Genome Assemblies",
+      "tutorial_link": "https://www.youtube.com/watch?v=_T965fYOwXU"
+    },
+    {
+      "tutorial_title": "QUAST Installation Tutorial",
+      "tutorial_link": "https://www.youtube.com/watch?v=wIENcBDOjbU"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+Use Case: Improving the performance of a Python script by converting it to C.
+
+Code Details and Examples:
+
+Code:
+```python
+# distutils: language = c
+import numpy as np
+from scipy.linalg import eigvals
+
+def main():
+    lst = [list(range(1000)), list(range(1000, 2000)), list(range(2000, 3000))]
+    arr = np.array([np.array(xi) for xi in lst]) # convert lists into a numpy array
+    print(eigvals(arr)) # compute eigenvalues
+
+if __name__ == "__main__":
+    main()
+```
+This is a Python code that calculates the eigenvalues of a 2D numpy array using the scipy library. This code can be optimized using Cython. To write a Cython version of this script:
+
+Code:
+```python
+# distutils: language = c
+import numpy as np
+cimport numpy as np
+from scipy.linalg.cython_blas cimport dgemm
+from scipy.linalg.cython_lapack cimport zgeev
+
+def main():
+    cdef np.ndarray[np.double_t, ndim=2] arr
+    lst = [list(range(1000)), list(range(1000, 2000)), list(range(2000, 3000))]
+    arr = np.array([np.array(xi) for xi in lst]) # convert lists into a numpy array
+    print(eigvals(arr)) # compute eigenvalues
+
+if __name__ == "__main__":
+    main()
+```
+In this Cython code, we imported `dgemm` and `zgeev` as Cython extension types from `scipy.linalg.cython_blas` and `scipy.linalg.cython_lapack` respectively. Then we used Cython's `cdef` keyword to create a static C-level variable `arr` as a 2D numpy array of doubles. The rest of the code is the same as the original Python code, but now makes use of the Cython interface for numpy.
+
+Command to run them:
+
+You can compile the Cython code into a C extension module using the following command in the terminal/command line:
+
+```
+python setup.py build_ext --inplace
+```
+
+Here `setup.py` is a build script for setuptools. It's going to build your Cython code into a Python extension module.
+
+Here is a sample `setup.py` script:
+
+Code:
+```python
+from setuptools import setup
+from Cython.Build import cythonize
+
+setup(
+    name='My Program',
+    ext_modules=cythonize("my_program.pyx"),
+)
+```
+
+Then you can import and execute the Cython-optimized script with Python:
+
+```python
+python -c "import my_program; my_program.main()"
+```

@@ -1,0 +1,16 @@
+{
+  "SoftwareName": "Python 3",
+  "Homepage": "https://www.python.org/",
+  "Resources": {
+    "Documentation": "https://docs.python.org/3/",
+    "Tutorials": [
+        "https://docs.python.org/3/tutorial/",
+        "https://www.learnpython.org/",
+        "https://www.w3schools.com/python/"
+    ],
+    "TrainingMaterial": [
+      "https://realpython.com/",
+      "https://www.codecademy.com/learn/learn-python-3"
+    ]
+  }
+}

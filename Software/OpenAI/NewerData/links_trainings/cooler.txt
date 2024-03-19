@@ -1,0 +1,12 @@
+{
+  "Software": "Cooler",
+  "Website": "https://open2c.github.io/cooler/",
+  "Documentation": "https://cooler.readthedocs.io/en/latest/",
+  "Tutorials": [
+    {
+      "Tutorial 1": "https://cooler.readthedocs.io/en/latest/tutorial.html",
+      "Tutorial 2": "https://github.com/mirnylab/cooler-binder",
+      "Tutorial 3": "https://snakepipes.readthedocs.io/en/latest/content/workflows/HiC.html#diagnostics-output-of-cooler"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "software": "macs2",
+  "software_url": "https://github.com/taoliu/MACS",
+  "documentation": [
+    {
+      "name": "macs2 documentation",
+      "url": "https://macs2.readthedocs.io/en/latest/"
+    }
+  ],
+  "tutorial_material": [
+    {
+      "name": "macs2 tutorial by Epigenomics Core",
+      "url": "https://www.epigenomicscore.bio.cornell.edu/macs2-tutorials"
+    },
+    {
+      "name": "Peak Calling with MACS tutorial",
+      "url": "https://hbctraining.github.io/Intro-to-ChIPseq/lessons/05_peak_calling_macs.html"
+    },
+    {
+      "name": "Using MACS2 for peak calling",
+      "url": "https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionVI/lessons/03_peakcalling_macs2.html"
+    }
+  ]
+}

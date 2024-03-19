@@ -1,0 +1,10 @@
+{
+  "Software Name": "R-UTF8",
+  "Software URL": "https://www.rdocumentation.org/packages/stringi/versions/1.4.3/topics/utf8",
+  "Documentation URL": "https://cran.r-project.org/web/packages/utf8/utf8.pdf",
+  "Tutorial and Training Materials": {
+    "Tutorial 1 URL": "https://www.youtube.com/watch?v=J2hoi9ULJ6I",
+    "Tutorial 2 URL": "https://r-strings.com/articles/utf8.html",
+    "Tutorial 3 URL": "https://www.datacamp.com/courses/importing-data-in-r-part-2"
+  }
+}

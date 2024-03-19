@@ -1,0 +1,13 @@
+{
+  "Software_Name": "CoverM",
+  "Software_URL": "https://github.com/wwood/CoverM",
+  "Documentation": "https://github.com/wwood/CoverM/blob/master/README.md",
+  "Training_Materials": {
+    "coverm": [
+      {
+        "title": "Bioinformatics StackExchange",
+        "url": "https://bioinformatics.stackexchange.com/questions/15547/anyone-know-a-good-circular-genome-browser-that-can-handle-depth-files"
+      }
+    ]
+  }
+}

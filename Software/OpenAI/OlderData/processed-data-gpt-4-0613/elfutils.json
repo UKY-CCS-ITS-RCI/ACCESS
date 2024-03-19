@@ -1,0 +1,9 @@
+{
+  "softwareName": "Elfutils",
+  "links": {
+    "softwarePage": "https://sourceware.org/elfutils/",
+    "documentation": "https://sourceware.org/elfutils/Debuginfod.html",
+    "tutorial1": "https://sourceware.org/elfutils/Debuginfod.html#Debuginfod-Clients",
+    "tutorial2": "https://elixir.bootlin.com/linux/latest/source/Documentation/admin-guide/perf/elfutils"
+  }
+}

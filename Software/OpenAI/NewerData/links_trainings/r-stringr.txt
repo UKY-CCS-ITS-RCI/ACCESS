@@ -1,0 +1,19 @@
+{
+  "softwareName": "r-stringr",
+  "softwarePage": "https://stringr.tidyverse.org/",
+  "documentation": "https://stringr.tidyverse.org/reference/index.html",
+  "tutorials": [
+    {
+      "name": "Data manipulation with dplyr and stringr",
+      "URL": "https://www.datacamp.com/community/blog/dplyr-tutorial-data-manipulation-r"
+    },
+    {
+      "name": "String manipulation with stringr",
+      "URL": "https://csgillespie.github.io/efficientR/3-3-rmd-packages.html#stringr"
+    },
+    {
+      "name": "Introduction to stringr",
+      "URL": "https://r4ds.had.co.nz/strings.html"
+    }
+  ]
+}

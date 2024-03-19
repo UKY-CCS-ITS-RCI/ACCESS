@@ -1,0 +1,21 @@
+{
+  "Software": "ODGI",
+  "Links": [
+    {
+      "Type": "Software Page",
+      "URL": "https://github.com/vgteam/odgi"
+    },
+    {
+      "Type": "Documentation",
+      "URL": "https://github.com/vgteam/odgi/wiki"
+    },
+    {
+      "Type": "Training",
+      "URL": "https://odgi.readthedocs.io/en/latest/"
+    },
+    {
+      "Type": "Tutorial",
+      "URL": "https://odgi.readthedocs.io/en/latest/getting-started/#what-is-odgi"
+    }
+  ]
+}

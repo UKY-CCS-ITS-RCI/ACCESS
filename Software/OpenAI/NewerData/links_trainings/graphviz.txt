@@ -1,0 +1,23 @@
+{
+  "Software": {
+    "Name": "Graphviz",
+    "Software URL": "https://www.graphviz.org/",
+    "Additional Resources": {
+      "Documentation URL": "https://graphviz.org/documentation/",
+      "Tutorial Material": [
+        {
+          "Tutorial Name": "Graphviz Tutorial",
+          "Tutorial URL": "http://www.tonyballantyne.com/graphs.html"
+        },
+        {
+          "Tutorial Name": "Graphviz Workshop",
+          "Tutorial URL": "https://rwos.in/events/graphviz.html"
+        },
+        {
+          "Tutorial Name": "Graphviz Guide on Github",
+          "Tutorial URL": "https://github.com/glejeune/Ruby-Graphviz/blob/master/guide/2_tutorial.md"
+        }
+      ]
+    }
+  }
+}

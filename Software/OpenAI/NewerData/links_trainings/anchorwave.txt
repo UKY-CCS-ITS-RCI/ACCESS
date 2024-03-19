@@ -1,0 +1,9 @@
+{
+  "software": {
+    "name": "Anchorwave",
+    "url": "https://github.com/anchorwave",
+    "documentation": "https://github.com/anchorwave",
+    "training": [],
+    "tutorial": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+   "r-iterators": {
+      "name": "r-iterators",
+      "software_page": "https://cran.r-project.org/web/packages/iterators/index.html",
+      "documentation": [
+         {
+            "name": "R Documentation",
+            "url": "https://www.rdocumentation.org/packages/iterators"
+         },
+         {
+            "name": "CRAN - Package iterators",
+            "url": "https://cran.r-project.org/web/packages/iterators/iterators.pdf"
+         }
+      ],
+      "tutorials": [
+         {
+            "name": "Basic Usage of the iterators Package",
+            "url": "https://www.johndcook.com/blog/r_iterators/"
+         },
+         {
+            "name": "Parallelism, and Python’s Global Interpreter Lock",
+            "url": "https://realpython.com/python-gil/"
+         }
+      ]
+   }
+}

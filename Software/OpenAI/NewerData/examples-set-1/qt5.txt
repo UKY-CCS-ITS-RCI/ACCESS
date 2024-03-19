@@ -1,0 +1,22 @@
+Use Case: Use qt5 toolkit to develop a simple GUI for displaying a "Hello, World" message.
+
+Code details and examples: Code:
+```python
+from PyQt5.QtWidgets import QApplication, QLabel
+
+if __name__ == "__main__":
+    app = QApplication([])
+
+    label = QLabel('Hello, World!')
+    label.show()
+
+    app.exec_()
+```
+
+For PyQt5, no specific input files or formats are needed. What's needed is the Python code to define the GUI. In this case, a QLabel is used to display a message. QApplications manages the GUI application's control flow and main settings.
+
+To run the PyQt5 program, simply use:
+```bash
+python3 filename.py
+```
+Replace "filename.py" with the actual Python script filename. This assumes that Python 3 and PyQt5 have been installed on the system.

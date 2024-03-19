@@ -1,0 +1,60 @@
+Use Case: Solving large scale linear algebra problems.
+
+Code details and examples: 
+
+Code:
+Magma is used to solve linear algebra problems effectively using the GPUs. The inputs are usually large matrices. 
+
+Example: Solving a system of linear equations AX = B using Magma
+
+Input File Format:
+The input file should contain your matrix A and B. These can be stored in plain text file format. Each line corresponds to a row of the matrix, with the values in the row separated by spaces.
+
+Suppose we have a 2x2 matrix A = [1, 2; 3, 4] and a 2x1 vector B = [5; 6] to represent the system of linear equations:
+
+1*x1 + 2*x2 = 5
+3*x1 + 4*x2 = 6 
+
+Sample Input File:
+
+For Matrix A:
+1 2
+3 4  
+
+For Vector B:
+5
+6
+
+Code Snippet:
+
+In MAGMA, we first need to initialize the MAGMA library with `magma_init()`, then we create the matrices and vectors.
+
+```c
+#include "magma_v2.h"
+
+// create matrices
+magma_d_matrix A={Magma_CSR}, B={Magma_CSR}, X={Magma_CSR};
+
+// Read matrices A and B
+magma_d_csr_mtx(&A, "A.txt");
+magma_d_csr_mtx(&B, "B.txt");
+
+// solve AX = B
+magma_d_solver( A, B, &X, opts);
+
+// Write the solution matrix X
+magma_d_csr_mtx(&X, "X.txt");
+
+magma_finalize(); // finalize the magma
+```
+
+Command to Run:
+
+You compile the code using gcc and then run the executable. For example, if the file is named `solver.c`:
+
+```shell
+gcc -o solver solver.c -lmagma
+./solver
+```
+
+In the file X.txt, you'll find the solution to your system of equations.

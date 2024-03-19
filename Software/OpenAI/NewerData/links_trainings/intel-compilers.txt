@@ -1,0 +1,26 @@
+{
+  "software": "Intel Compilers",
+  "details": {
+    "softwarePage": "https://software.intel.com/content/www/us/en/develop/tools/compilers.html",
+    "documentation": [
+      {
+        "title": "Official Intel Documentation",
+        "link": "https://software.intel.com/content/www/us/en/develop/documentation/fortran-compiler-developer-guide-and-reference/top.html"
+      }
+    ],
+    "trainingAndTutorialMaterials": [
+      {
+        "title": "Tutorial: How to Use Intel C++ Compiler",
+        "link": "https://www.youtube.com/watch?v=QP8gYc3lXnQ"
+      },
+      {
+        "title": "Intel C++ Compiler Tutorials",
+        "link": "https://www3.nd.edu/~zxu2/acms60212-40212/Intel-C-tutorial.pdf"
+      },
+      {
+        "title": "Intel Fortran Compiler Tutorial",
+        "link": "https://fs.hlrs.de/projects/par/fortran_compile.html"
+      }
+    ]
+  }
+}

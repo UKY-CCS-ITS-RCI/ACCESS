@@ -1,0 +1,21 @@
+{
+  "software": "r-latticeextra",
+  "software_info": {
+    "software_url": "https://cran.r-project.org/web/packages/latticeExtra/index.html",
+    "documentation_url": "https://cran.r-project.org/web/packages/latticeExtra/latticeExtra.pdf",
+    "tutorial_materials": [
+      {
+        "title": "R Graphics: Lattice & ggplot2",
+        "url": "https://www.statmethods.net/advgraphs/trellis.html"
+      },
+      {
+        "title": "Data Visualization with latticeExtra",
+        "url": "https://www.datacamp.com/community/tutorials/latticeextra-r"
+      },
+      {
+        "title": "Lattice - Multivariate Data Visualization with R",
+        "url": "https://www.jstatsoft.org/article/view/v025i01"
+      }
+    ]
+  }
+}

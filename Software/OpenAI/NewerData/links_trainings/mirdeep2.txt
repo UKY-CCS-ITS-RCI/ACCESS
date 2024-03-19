@@ -1,0 +1,25 @@
+{
+  "software": "mirdeep2",
+  "details": [
+    {
+      "name": "Software page",
+      "link": "https://www.mdc-berlin.de/8551903/en"
+    },
+    {
+      "name": "Documentation",
+      "link": "https://www.mdc-berlin.de/8551903/en/research/research_teams/systems_biology_of_gene_regulatory_elements/research/miRDeep/miRDeep2_doc"
+    },
+    {
+      "name": "Tutorial",
+      "link": "https://www.mdc-berlin.de/8551903/en/research/research_teams/systems_biology_of_gene_regulatory_elements/research/miRDeep/miRDeep2_tut_white"
+    },
+    {
+      "name": "Installation guide",
+      "link": "https://www.mdc-berlin.de/8551903/en/research/research_teams/systems_biology_of_gene_regulatory_elements/research/miRDeep/miRDeep2_tut_white/installation"
+    },
+    {
+      "name": "Usage guide",
+      "link": "https://www.mdc-berlin.de/8551903/en/research/research_teams/systems_biology_of_gene_regulatory_elements/research/miRDeep/miRDeep2_tut_white/usage"
+    }
+  ]
+}

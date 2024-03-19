@@ -1,0 +1,21 @@
+{
+  "software": "netlib-lapack",
+  "details": [
+    {
+      "name": "software link",
+      "url": "http://www.netlib.org/lapack/"
+    },
+    {
+      "name": "documentation link",
+      "url": "http://www.netlib.org/lapack/lug/"
+    },
+    {
+      "name": "tutorial link 1",
+      "url": "https://icl.cs.utk.edu/lapack-forum/lapack_testing/Makefile"
+    },
+    {
+      "name": "tutorial link 2",
+      "url": "https://software.intel.com/content/www/us/en/develop/articles/intel-math-kernel-library-lapack-user-guide.html"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+   "software_name":"ruby",
+   "software_url":"https://www.ruby-lang.org/en/",
+   "documentation":[
+      {
+         "url":"https://www.ruby-lang.org/en/documentation/",
+         "name":"Official Documentation"
+      },
+      {
+         "url":"https://ruby-doc.org/",
+         "name":"Ruby Doc"
+      },
+      {
+         "url":"https://guides.rubyonrails.org/",
+         "name":"Ruby on Rails Guide"
+      }
+   ],
+   "training_materials":[
+      {
+         "url":"https://www.codecademy.com/learn/learn-ruby",
+         "name":"Codecademy ruby course"
+      },
+      {
+         "url":"https://www.learnrubyonline.org/",
+         "name":"Learn Ruby Online"
+      },
+      {
+         "url":"https://www.udemy.com/topic/ruby/",
+         "name":"Udemy Ruby Courses"
+      },
+      {
+         "url":"https://www.ruby-lang.org/en/documentation/quickstart/",
+         "name":"Ruby: Quickstart"
+      }
+   ]
+}

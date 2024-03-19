@@ -1,0 +1,24 @@
+{
+  "fastai": {
+    "Software_Page": "https://www.fast.ai/",
+    "Documentation": "https://docs.fast.ai/",
+    "Tutorials_Training_Materials": [
+      {
+        "Name": "Practical Deep Learning for Coders",
+        "Link": "https://course.fast.ai/"
+      },
+      {
+        "Name": "Fastai's YouTube Channel",
+        "Link": "https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ"
+      },
+      {
+        "Name": "Fastai Tutorials on Github",
+        "Link": "https://github.com/fastai/fastbook"
+      },
+      {
+        "Name": "Fastai Forum for Q&A",
+        "Link": "https://forums.fast.ai/"
+      }
+    ]
+  }
+}

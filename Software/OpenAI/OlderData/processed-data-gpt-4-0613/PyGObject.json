@@ -1,0 +1,12 @@
+{
+  "Software Name": "PyGObject",
+  "links": {
+    "software page": "https://pygobject.readthedocs.io/en/latest/",
+    "documentation": "https://pygobject.readthedocs.io/en/latest/guide/index.html",
+    "tutorials": [
+      "https://python-gtk-3-tutorial.readthedocs.io/en/latest/",
+      "https://www.tutorialspoint.com/pygtk/index.htm",
+      "https://realpython.com/lessons/installing-pyqt5-and-pygobject/"
+    ]
+  }
+}

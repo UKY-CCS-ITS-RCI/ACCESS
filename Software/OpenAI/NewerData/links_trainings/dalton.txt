@@ -1,0 +1,17 @@
+{
+   "dalton":{
+      "software_page":"http://daltonprogram.org/",
+      "documentation":[
+         "http://daltonprogram.org/documentation/",
+         "http://www.daltonprogram.org/doc/dalton2015/"
+      ],
+      "training_materials":[
+         "http://www.daltonprogram.org/workshop/2017/",
+         "https://www.youtube.com/watch?v=IxIyrhx0v0M"
+      ],
+      "tutorials":[
+         "http://daltonprogram.org/documentation/manual/",
+         "https://chem.libretexts.org/Courses/Computational_Chemistry/Programming/Dalton"
+      ]
+   }
+}

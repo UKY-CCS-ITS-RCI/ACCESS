@@ -1,0 +1,29 @@
+{
+  "ScientistsSoftware": {
+    "Name": "R-bit",
+    "Link": "https://www.r-project.org/",
+    "Documentation": "https://cran.r-project.org/manuals.html",
+    "Tutorials": [
+      {
+        "Name": "DataCamp",
+        "Link": "https://www.datacamp.com/courses/free-introduction-to-r"
+      },
+      {
+        "Name": "Coursera",
+        "Link": "https://www.coursera.org/courses?query=r%20programming"
+      },
+      {
+        "Name": "R for Data Science",
+        "Link": "https://r4ds.had.co.nz/"
+      },
+      {
+        "Name": "R Programming - Codecademy",
+        "Link": "https://www.codecademy.com/learn/learn-r"
+      },
+      {
+        "Name": "R Basics - R Programming Language Introduction | Udemy",
+        "Link": "https://www.udemy.com/course/r-basics/"
+      }
+    ]
+  }
+}

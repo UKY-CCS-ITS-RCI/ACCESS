@@ -1,0 +1,11 @@
+{
+  "software_name": "Jupyter",
+  "software_page": "https://jupyter.org/",
+  "documentation": "https://jupyter.org/documentation",
+  "training_and_tutorial_links": {
+    "Jupyter Notebook Tutorial": "https://www.dataquest.io/blog/jupyter-notebook-tutorial/",
+    "Jupyter Notebook for Beginners Tutorial": "https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a",
+    "Jupyter Notebook - An Introduction": "https://realpython.com/jupyter-notebook-introduction/",
+    "Project Jupyter | Tutorials": "https://jupyter.org/try"
+  }
+}

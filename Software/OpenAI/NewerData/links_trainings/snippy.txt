@@ -1,0 +1,13 @@
+{
+  "snippy": {
+    "softwarePage": "https://github.com/tseemann/snippy",
+    "documentation": [
+      "https://github.com/tseemann/snippy#readme"
+    ],
+    "training": [],
+    "tutorials": [
+      "https://snippy.readthedocs.io/en/latest/index.html",
+      "https://www.youtube.com/watch?v=ZNni3RTF3Pk"
+    ]
+  }
+}

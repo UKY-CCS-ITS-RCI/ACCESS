@@ -1,0 +1,13 @@
+{
+  "Software": "miniconda3",
+  "Official_website": "https://docs.conda.io/en/latest/miniconda.html",
+  "Documentation": "https://docs.conda.io/projects/conda/en/latest/index.html",
+  "Training_materials": [
+    {
+      "Tutorial":"https://conda.io/projects/conda/en/latest/user-guide/getting-started.html"
+    },
+    {
+      "Tutorial":"https://www.youtube.com/watch?v=YJC6ldI3hWk"
+    }
+  ]
+}

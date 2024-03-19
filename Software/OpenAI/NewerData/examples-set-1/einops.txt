@@ -1,0 +1,26 @@
+Use Case: A minimal example of average pooling operation in a machine learning tensorflow application using the einops python library. 
+
+Code details and examples: 
+
+**Code:**
+
+```python
+import tensorflow as tf
+
+from einops import rearrange, reduce
+
+# input tensor
+x = tf.random.normal((1,64,75,75))
+
+# average pooling operation
+pooled_tensor = reduce(x, 'b c (h h2) (w w2) -> b c h w', 'mean', h2=2, w2=2)
+
+```
+
+- b, c, h, w stands for batch, channels, height and width respectively. 
+- The tensor ‘x’ is reduced along the height and width axes by a factor of 2, averaging the values.
+- 'b c (h h2) (w w2) -> b c h w' is the reduction recipe.
+
+The command to run the code is:
+
+In a jupyter notebook, you can run your cell with SHIFT + ENTER. If it's a ".py" file you can run it from the terminal with the command: `python filename.py`

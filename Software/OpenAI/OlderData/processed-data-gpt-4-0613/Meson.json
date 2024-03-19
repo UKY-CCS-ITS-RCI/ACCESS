@@ -1,0 +1,13 @@
+{
+    "name": "Meson",
+    "software_page": "https://mesonbuild.com/",
+    "documentation": "https://mesonbuild.com/Documentation.html",
+    "tutorials": [
+        "https://mesonbuild.com/SimpleStart.html",
+        "https://www.youtube.com/watch?v=eZU-bMfnC0M"
+    ],
+    "additional_resources": [
+        "https://github.com/mesonbuild/meson",
+        "https://en.wikipedia.org/wiki/Meson_(software)"
+    ]
+}

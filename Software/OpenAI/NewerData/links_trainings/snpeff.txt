@@ -1,0 +1,20 @@
+{
+   "snpeff":{
+      "homepage":"http://snpeff.sourceforge.net/",
+      "documentation":"http://snpeff.sourceforge.net/SnpEff_manual.html",
+      "tutorials_and_training":[
+         {
+            "name":"SnpEff & SnpSift Presentation",
+            "url":"http://snpeff.sourceforge.net/SnpSift.html"
+         },
+         {
+            "name":"Variant Analysis Workshop - Exercise 4: Using SnpEff and SnpSift",
+            "url":"https://hbctraining.github.io/Intro-to-variant-calling/lessons/08_annotation_snpeff.html"
+         },
+         {
+            "name":"Galaxy Training: Variant Annotation with SnpEff",
+            "url":"https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/snpeff/tutorial.html"
+         }
+      ]
+   }
+}

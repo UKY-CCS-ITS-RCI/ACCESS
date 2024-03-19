@@ -1,0 +1,12 @@
+{
+  "software_name": "trim_galore",
+  "software_page_url": "https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/",
+  "documentation_links": [
+    "https://github.com/FelixKrueger/TrimGalore/blob/master/Docs/Trim_Galore_User_Guide.md"
+  ],
+  "tutorial_materials": [
+    "https://www.youtube.com/watch?v=bPiUvzBB6tE",
+    "https://libraryguides.missouri.edu/c.php?g=564718&p=5806786",
+    "https://informatics.fas.harvard.edu/bulk-rna-seq-qaqc-with-fastqc-and-trim_galore.html"
+  ]
+}

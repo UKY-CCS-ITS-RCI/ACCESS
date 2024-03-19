@@ -1,0 +1,23 @@
+{
+  "software": {
+    "name": "serf",
+    "link": "https://serf.apache.org/",
+    "resources": {
+      "documentation": "https://serf.apache.org/docs/",
+      "training": [
+        {
+          "name": "Build a serf-powered application",
+          "url": "https://learn.hashicorp.com/tutorials/consul/service-simple-serf?in=consul/developer-discovery"
+        },
+        {
+          "name": "Serf User Mailing List",
+          "url": "https://groups.google.com/group/serf-users"
+        },
+        {
+          "name": "Github Repository",
+          "url": "https://github.com/hashicorp/serf"
+        }
+      ]
+    }
+  }
+}

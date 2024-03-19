@@ -1,0 +1,14 @@
+{
+  "Libidn2": {
+    "Software Page": "https://www.gnu.org/software/libidn/#libidn2",
+    "Documentation": "https://www.gnu.org/software/libidn/manual/",
+    "Tutorials and Training": [
+      {
+        "TLDP Guide": "http://www.tldp.org/HOWTO/Unicode-HOWTO-8.html"
+      },
+      {
+        "O'Reilly Network": "http://onlamp.com/pub/a/onlamp/2002/07/18/utf8.html"
+      }
+    ]
+  }
+}

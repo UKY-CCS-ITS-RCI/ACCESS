@@ -1,0 +1,20 @@
+{
+    "software_name": "Cross Compiler",
+    "software_url": "https://www.gnu.org/software/binutils/",
+    "documentation": [
+        {
+            "title": "GCC GNU Compiler Documentation",
+            "url": "https://gcc.gnu.org/onlinedocs/"
+        }
+    ],
+    "training_materials": [
+        {
+            "title": "Introduction to Cross Compilation",
+            "url": "https://www.ibm.com/developerworks/library/l-llvm-port1/index.html"
+        },
+        {
+            "title": "Cross Compilation Guide",
+            "url": "https://docs.openwrt.org/docs/guide-developer/crosscompile.html"
+        }
+    ]
+}

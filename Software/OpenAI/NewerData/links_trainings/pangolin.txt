@@ -1,0 +1,24 @@
+{
+  "software": "pangolin",
+  "softwareUrl": "https://cov-lineages.org/resources/pangolin.html",
+  "documentation": [
+    {
+      "url": "https://cov-lineages.org/pangolin_docs.html",
+      "title": "Pangolin Documentation"
+    }
+  ],
+  "tutorialsAndTraningMaterials": [
+    {
+      "url": "https://docs.google.com/document/d/1eyIffTp3fL4Ynf2TfDz3gNfiSV2l_-EgRIzNS_bTOY8/edit#",
+      "title": "Pangolin quick run-through guide"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2F-vaBOIwYg",
+      "title": "Pangolin Lineage Assignment Tutorial"
+    },
+    {
+      "url": "https://cov-lineages.org/pangolin_replacement_note.html",
+      "title": "Pangolin SARS-CoV-2 Lineage Assigner"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "software_name": "flex",
+  "software_page": "https://github.com/westes/flex",
+  "documentation": [
+    {
+      "url": "https://www.gnu.org/software/flex/manual/",
+      "description": "Flex Documentation"
+    }
+  ],
+  "tutorials": [
+    {
+      "url": "https://www.geekhideout.com/urlcode.shtml",
+      "description": "Flex - Fast Lexical Analyzer Generator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=54bo1qaHAfk",
+      "description": "flex tutorial on YouTube"
+    }
+  ]
+}

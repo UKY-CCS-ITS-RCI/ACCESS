@@ -1,0 +1,25 @@
+{
+  "Software": "Statsmodels",
+  "Link": "https://www.statsmodels.org/",
+  "Additional Information": {
+    "Documentation": "https://www.statsmodels.org/stable/index.html",
+    "Tutorials": [
+      {
+        "Name": "Statsmodels: Econometric and statistical modeling with python",
+        "URL": "https://nbviewer.jupyter.org/github/ChadFulton/statsmodels/blob/master/examples/notebooks/generated/tsa_arma_3.ipynb"
+      },
+      {
+        "Name": "Statsmodels Tutorial : Python Data Analytics",
+        "URL": "https://www.datacamp.com/community/tutorials/statsmodels"
+      },
+      {
+        "Name": "A Complete Guide to Statsmodels in Python",
+        "URL": "https://towardsdatascience.com/a-complete-guide-to-statsmodels-in-python-1c3380a5e8ad"
+      },
+      {
+        "Name": "Linear Regression in Python using Statsmodels",
+        "URL": "https://www.marsja.se/linear-regression-python-statsmodels/"
+      }
+    ]
+  }
+}

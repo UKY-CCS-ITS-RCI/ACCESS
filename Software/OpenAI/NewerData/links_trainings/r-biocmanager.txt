@@ -1,0 +1,13 @@
+{
+  "name": "r-biocmanager",
+  "software_page": "https://www.bioconductor.org/install/",
+  "additional_links": {
+    "documentation": "https://www.rdocumentation.org/packages/BiocManager/versions/1.30.15", 
+    "tutorials": [
+      "https://bioconductor.org/packages/devel/bioc/vignettes/BiocManager/inst/doc/Workflows.html", 
+      "https://cran.r-project.org/web/packages/BiocManager/vignettes/BiocManager.html"],
+    "training_materials": [
+      "https://www.bioconductor.org/help/course-materials/2017/BioC2017/Day1/Workshops/BiocManager/BiocManagerSlides.html", 
+      "http://www.bioconductor.org/help/course-materials/"]
+  }
+}

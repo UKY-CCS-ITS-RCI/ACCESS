@@ -1,0 +1,58 @@
+Use Case: Imlib2 is a powerful graphics library that can be used for loading, saving, rendering, scaling, and editing of images. Imlib2 is often utilized in image manipulation programs, games, and desktop environments for rendering wallpapers, icons, and cursors.
+
+Code details and examples:
+
+Code: 
+
+Here is an example of a C program that loads an image file using Imlib2, scales it, and saves it to a new file.
+
+```C
+#include <Imlib2.h>
+
+int main() {
+   Imlib_Image img;
+   Imlib_Load_Error err;
+
+   imlib_set_cache_size(2048 * 1024);
+   imlib_context_set_dither(1);
+   imlib_context_set_blend(0);
+
+   img = imlib_load_image_with_error_return("input.jpg", &err);
+   if (!img) {
+      fprintf(stderr, "Error Loading Image: %d\n", err);
+      return 1;
+   }
+   imlib_context_set_image(img);
+   imlib_image_set_has_alpha(1);
+
+   imlib_context_set_image(img);
+   imlib_image_resize(1024, 768);
+   
+   //Saving the resized image
+   imlib_save_image_with_error_return("output.jpg", &err);
+   if (err != IMLIB_LOAD_ERROR_NONE) {
+      fprintf(stderr, "Error Saving Image: %d\n", err);
+      return 1;
+   }
+
+   return 0;
+}
+```
+
+For this code, input would be an image file named "input.jpg" in the same location where your code is running. The output will be a resized image named "output.jpg" saved in the same location.
+
+The code can be saved in a file named "imlib2_example.c". To compile it, use the gcc compiler with the Imlib2 library like so:
+
+```bash
+gcc -o imlib2_example imlib2_example.c `pkg-config --cflags --libs imlib2`
+```
+
+To run the compiled program, use:
+
+```bash
+./imlib2_example
+``` 
+
+In this case, the .jpg files will need to be in the same directory or the path needs to be mentioned if in other directories.
+
+Remember, to run the code, one must have Imlib2 installed and configured correctly in the environment.

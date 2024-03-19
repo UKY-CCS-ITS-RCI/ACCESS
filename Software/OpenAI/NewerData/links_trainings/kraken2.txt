@@ -1,0 +1,14 @@
+{
+  "kraken2": 
+  {
+    "softwarePage": "https://ccb.jhu.edu/software/kraken2/",
+    "Documentation": "https://github.com/DerrickWood/kraken2/wiki",
+    "Tutorials and Training Material": 
+    [
+      "https://bioinformaticsworkbook.org/dataAnalysis/Metagenomics/Kraken2.html#gsc.tab=0",
+      "https://www.youtube.com/watch?v=m9_PaMjFUJY",
+      "https://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html",
+      "http://ccb.jhu.edu/software/kraken/MANUAL.html"
+    ]
+  }
+}

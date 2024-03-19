@@ -1,0 +1,11 @@
+{
+  "Software": {
+    "Name": "isoseq3",
+    "Page": "https://github.com/PacificBiosciences/IsoSeq3",
+    "Links": {
+      "Documentation": "https://github.com/PacificBiosciences/IsoSeq3/wiki",
+      "Tutorials": "https://github.com/PacificBiosciences/IsoSeq/blob/master/README.md",
+      "Training": "https://github.com/PacificBiosciences/cDNA_primer/wiki"
+    }
+  }
+}

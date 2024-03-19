@@ -1,0 +1,23 @@
+{
+"name": "Xfig",
+"softwarePage": "https://www.xfig.org/",
+"documentation": "https://www.xfig.org/userman/",
+"tutorialMaterials": [
+    {
+        "name": "How to use Xfig",
+        "url": "https://www-math.mit.edu/~djk/18.095/XFIG_TUTORIAL.html"
+    },
+    {
+        "name": "Short User Guide to Xfig",
+        "url": "http://www.robots.ox.ac.uk/~juang/resources/xfig_tutorial.html"
+    },
+    {
+        "name": "Xfig Tutorial",
+        "url": "https://www.cs.cornell.edu/courses/cs417/2000fa/xfig.html"
+    },
+    {
+        "name": "Xfig Drawing Program for X Window - Tutorial",
+        "url": "https://www.youtube.com/watch?v=FlvU5u0Tups"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "lldb": {
+    "softwarePage": "https://lldb.llvm.org/",
+    "documentation": [
+      "https://lldb.llvm.org/use/map.html",
+      "https://lldb.llvm.org/use/tutorial.html"
+    ],
+    "training": [
+      "https://www.youtube.com/watch?v=IHzZJhVshi8"
+    ],
+    "tutorial": [
+      "https://lldb.llvm.org/use/tutorial.html",
+      "https://www.youtube.com/watch?v=H_pfmhVcxTE"
+    ]
+  }
+}

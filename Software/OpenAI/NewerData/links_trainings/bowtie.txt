@@ -1,0 +1,28 @@
+{
+  "Software Name": "Bowtie",
+  "Software URL": "http://bowtie-bio.sourceforge.net/index.shtml",
+  "Documentation": [
+    {
+      "URL": "http://bowtie-bio.sourceforge.net/manual.shtml",
+      "Description": "Manual for Bowtie"
+    },
+    {
+      "URL": "http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml",
+      "Description": "Manual for Bowtie 2"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "https://bio.tools/tutorial_bowtie2",
+      "Description": "Bowtie2 tutorial"
+    },
+    {
+      "URL": "https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html",
+      "Description": "Tutorial on mapping with Bowtie2"
+    },
+    {
+      "URL": "https://www.youtube.com/watch?v=5MkHkCHN2mM",
+      "Description": "YouTube tutorial"
+    }
+  ]
+}

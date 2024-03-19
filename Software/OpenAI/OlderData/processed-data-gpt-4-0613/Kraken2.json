@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Kraken2": {
+      "MainPage": "https://ccb.jhu.edu/software/kraken2/",
+      "Documentation": "https://ccb.jhu.edu/software/kraken2/index.shtml?t=manual",
+      "Tutorials": [
+        "https://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/general-tutorial/tutorial.html",
+        "https://github.com/DerrickWood/kraken2/wiki/Manual",
+        "https://www.biostars.org/p/340274/"
+      ]
+    }
+  }
+}

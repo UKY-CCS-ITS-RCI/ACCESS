@@ -1,0 +1,27 @@
+{
+  "software": {
+    "name": "kissplice",
+    "website": "http://kissplice.prabi.fr/",
+    "details": {
+      "documentation": [
+        {
+          "url": "http://kissplice.prabi.fr/tools/kissplice"
+        }
+      ],
+      "trainings_and_tutorials": [
+        {
+          "name": "kissplice usage",
+          "url": "http://kissplice.prabi.fr/usage.php"
+        },
+        {
+          "name": "kissplice output details",
+          "url": "http://kissplice.prabi.fr/output.php"
+        },
+        {
+          "name": "kissplice FAQ",
+          "url": "http://kissplice.prabi.fr/faq.php"
+        }
+      ]
+    }
+  }
+}

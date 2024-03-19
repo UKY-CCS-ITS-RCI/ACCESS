@@ -1,0 +1,10 @@
+{
+    "softwareName": "FlexiBLAS",
+    "softwareLink": "https://www.mpi-magdeburg.mpg.de/projects/flexiblas",
+    "documentationLink": "https://www.mpi-magdeburg.mpg.de/projects/flexiblas/docs/latest/",
+    "tutorialLink": "https://www.tu-chemnitz.de/mathematik/scs/lehre/ss14/hpc/labor05_lab07.pdf",
+    "trainingMaterialLinks": [
+        "https://www.tu-chemnitz.de/mathematik/schroeder/download/FlexiBLAS_Poster.pdf",
+        "https://www.mpi-magdeburg.mpg.de/csc/events/flexiblas-tutorial"
+    ]
+}

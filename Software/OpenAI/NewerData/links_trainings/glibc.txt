@@ -1,0 +1,30 @@
+{
+  "software": "glibc",
+  "software_url": "https://www.gnu.org/software/libc/",
+  "documentation": [
+    {
+      "doc_url": "https://www.gnu.org/software/libc/manual/",
+      "doc_title": "The GNU C Library: Documentation"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorial_url": "https://www.tutorialspoint.com/gnu_debugger/gdb_using_glibc.htm",
+      "tutorial_title": "TutorialsPoint: Using GLIBC"
+    },
+    {
+      "tutorial_url": "https://www.youtube.com/watch?v=aroI9aXhixc",
+      "tutorial_title": "YouTube: Introduction to glibc"
+    }
+  ],
+  "training_materials": [
+    {
+      "training_url": "https://www.coursera.org/courses?query=glibc",
+      "training_title": "Coursera courses on GLIBC"
+    },
+    {
+      "training_url": "https://www.udemy.com/topic/c-programming/",
+      "training_title": "Udemy: C Programming Courses (relevant for GLIBC)"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "Software Name": "lumpy-sv",
+  "Software Page": "https://github.com/arq5x/lumpy-sv",
+  "Documentation": "https://github.com/arq5x/lumpy-sv#how-to-use-lumpy",
+  "Training and Tutorial Materials": [
+    "https://www.cs.helsinki.fi/group/genbase/largedata2015/Lumpy/Lumpy.html",
+    "https://www.youtube.com/watch?v=_OlbnyLVLSU"
+  ]
+}

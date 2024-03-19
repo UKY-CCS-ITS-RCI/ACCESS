@@ -1,0 +1,32 @@
+{
+  "software_name": "Salmon",
+  "software_page_link": "https://combine-lab.github.io/salmon/",
+  "documentation_links": [
+    "https://salmon.readthedocs.io/en/latest/salmon.html",
+    "https://combine-lab.github.io/salmon/getting_started/"
+  ],
+  "tutorial_and_training_materials": [
+    {
+      "link": "https://combine-lab.github.io/alevin-tutorial/2019/selective-alignment/",
+      "name": "Selective Alignment tutorial"
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=8ATsqPeJOEU",
+      "name": "YouTube - Introduction to Salmon"
+    },
+    {
+      "link": "https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/rnaseq/html/2-salmon.html",
+      "name": "RNA-Seq data analysis using Salmon - Tutorial"
+    }
+  ],
+  "additional_information": [
+    {
+      "link": "https://pubmed.ncbi.nlm.nih.gov/28263959/",
+      "name": "Salmon Paper"
+    },
+    {
+      "link": "https://bioconda.github.io/recipes/salmon/README.html",
+      "name": "Bioconda - Salmon recipe"
+    }
+  ]
+}

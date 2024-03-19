@@ -1,0 +1,48 @@
+Use Case: Libsigsegv is a library for handling page faults in user mode. It provides the ability to identify the type of segmentation fault, the faulty address and then take appropriate action such as logging the error, terminating the process, or correcting the problem.
+
+Code Details and Examples:
+
+The usage of 'libsigsegv' is generally embedded within a larger program or routine. Below is a simplified example, assuming we have a function called `faulty()` which we expect might cause a segmentation fault.
+
+Code:
+```c
+#include <stdlib.h>
+#include <stdio.h>
+#include <sigsegv.h>
+
+void segv_handler(int emergency, stackoverflow_context_t scp)
+{
+    printf("Segmentation fault detected!\n");
+    _exit(0);
+}
+
+void faulty()
+{
+    int *ptr = NULL;
+    *ptr = 0;
+}
+
+int main()
+{
+    if (sigsegv_install_handler(&segv_handler) == -1)
+    {
+        printf("Failed to install segmentation fault handler.\n");
+        return 1;
+    }
+    faulty();
+    return 0;
+}
+```
+
+Command to compile:
+```bash
+gcc faulty.c -lsigsegv -o faulty
+```
+
+Command to run:
+```bash
+./faulty
+```
+
+Specifications and details:
+`segv_handler` is a function which will be called if a segmentation fault occurs. Any faulty code (in this example, the `faulty()` function) which might cause a segmentation fault should be placed after the 'sigsegv_install_handler' function. The function 'faulty' is intentionally faulty in order to demonstrate the 'libsigsegv' segmentation fault handler.

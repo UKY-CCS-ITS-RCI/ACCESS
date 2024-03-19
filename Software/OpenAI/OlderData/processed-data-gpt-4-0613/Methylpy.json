@@ -1,0 +1,14 @@
+
+{
+  "Methylpy": {
+    "software_page": "https://github.com/yupenghe/methylpy",
+    "documentation": "https://methylpy.readthedocs.io/",
+    "training_materials": [
+      {
+        "title": "Bioinformatics for DNA methylation: A Python based tutorial",
+        "url": "https://genomicsclass.github.io/book/pages/bioinformatics_for_DNA_methylation.html"
+      }
+    ]
+  }
+}
+

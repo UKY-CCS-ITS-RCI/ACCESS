@@ -1,0 +1,11 @@
+{
+  "software_name": "posix2ime",
+  "software_page": "https://www.tbi.univie.ac.at/RNA/positional2ime/",
+  "documentation": [
+    "https://www.tbi.univie.ac.at/RNA/positional2ime/output.html"
+  ],
+  "training_materials": [
+    "https://www.tbi.univie.ac.at/RNA/positional2ime/evidenceCalculations.html",
+    "https://www.tbi.univie.ac.at/RNA/positional2ime/algorithmDescriptions.html"
+  ]
+}

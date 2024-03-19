@@ -1,0 +1,18 @@
+{
+    "software_name": "Prinseq",
+    "software_page": "http://prinseq.sourceforge.net/",
+    "documentation_links":
+    [
+        {
+            "documentation_name": "Prinseq User Manual",
+            "documentation_url": "http://prinseq.sourceforge.net/manual.html"
+        }
+    ],
+    "tutorial_links":
+    [
+        {
+            "tutorial_name": "Prinseq Tutorial on SeqAnswers",
+            "tutorial_url": "http://seqanswers.com/forums/showthread.php?t=19102"
+        }
+    ]
+}

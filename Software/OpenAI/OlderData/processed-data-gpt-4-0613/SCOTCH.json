@@ -1,0 +1,12 @@
+{
+  "Software Name": "SCOTCH",
+  "links": {
+    "software page": "https://www.labri.fr/perso/pelegrin/scotch/",
+    "documentation": "https://www.labri.fr/perso/pelegrin/scotch/scotch_6.1.0_doc.pdf",
+    "tutorials": [
+      "https://www.researchgate.net/post/Any_tutorials_to_learn_how_to_use_the_SCOTCH_partitioning_tool",
+      "https://stackoverflow.com/questions/18185060/how-to-compile-scotch-library-on-windows",
+      "http://www-hpc.cea.fr/fr/complexe/hpc/Progiciels/CAPE.htm"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Software Name": "AdapterRemoval",
+  "Software URL": "https://github.com/MikkelSchubert/adapterremoval",
+  "Documentation": {
+    "Documentation URL 1": "https://adapterremoval.readthedocs.io/en/latest/"
+  },
+  "Tutorials": {
+    "Tutorial URL 1": "https://bioinformaticsworkbook.org/dataProcessing/TrimmingReads/adapterremoval.html#gsc.tab=0",
+    "Tutorial URL 2": "https://evodify.com/adapter-removal-tutorial/"
+  }
+}

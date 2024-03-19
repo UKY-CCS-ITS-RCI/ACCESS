@@ -1,0 +1,12 @@
+
+{
+  "NetCDF4": {
+    "Software Page": "https://unidata.github.io/netcdf4-python/",
+    "Documentation": "https://unidata.github.io/netcdf4-python/",
+    "Tutorials": [
+      "https://unidata.github.io/netcdf4-python/netCDF4/index.html#section1",
+      "https://www.example.com/netcdf4/tutorial2"
+    ]
+  }
+}
+

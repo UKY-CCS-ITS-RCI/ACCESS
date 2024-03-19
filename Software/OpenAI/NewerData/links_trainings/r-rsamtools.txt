@@ -1,0 +1,23 @@
+{
+  "Software_name": "R-rsamtools",
+  "Software_link": "https://bioconductor.org/packages/release/bioc/html/Rsamtools.html",
+  "Documentation_link": "https://www.bioconductor.org/packages/devel/bioc/vignettes/Rsamtools/inst/doc/Rsamtools.html",
+  "Training_materials": [
+    {
+      "Tutorial_name": "R Bioconductor - Rsamtools Tutorial",
+      "Tutorial_link": "https://genomicsclass.github.io/book/pages/bams_and_bigwigs.html"
+    },
+    {
+      "Tutorial_name": "Rsamtools Bioconductor PDF Tutorial",
+      "Tutorial_link": "https://www.bioconductor.org/packages/release/bioc/vignettes/Rsamtools/inst/doc/Rsamtools.pdf"
+    },
+    {
+      "Tutorial_name": "Rsamtools Function Reference",
+      "Tutorial_link": "https://www.rdocumentation.org/packages/Rsamtools"
+    },
+    {
+      "Tutorial_name": "Rsamtools General Blog",
+      "Tutorial_link": "https://support.bioconductor.org/t/r-rsamtools/"
+    }
+  ]
+}

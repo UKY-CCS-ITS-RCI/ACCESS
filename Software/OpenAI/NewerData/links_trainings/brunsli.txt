@@ -1,0 +1,11 @@
+{
+  "SoftwareName": "brunsli",
+  "SoftwareURL": "https://github.com/google/brunsli",
+  "Documentation": [
+      { "DocLink": "https://github.com/google/brunsli", "DocName": "Documentation on GitHub" }
+  ],
+  "Tutorials": [
+      { "TutorialLink": "https://www.programmersought.com/article/84553420222/", "TutorialName": "Brunsli - Usage Guide" },
+      { "TutorialLink": "https://www.programcreek.com/python/?ProjectName=brunsli", "TutorialName": "Python examples of brunsli" }
+  ]
+}

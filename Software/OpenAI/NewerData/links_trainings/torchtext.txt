@@ -1,0 +1,23 @@
+{
+"software_name": "torchtext",
+"software_url": "https://pytorch.org/text/",
+"documentation": [
+    {
+    "documentation_url": "https://torchtext.readthedocs.io/en/latest/"
+    }
+],
+"training_tutorials": [
+  {
+    "tutorial_name": "Introduction to TorchText",
+    "tutorial_url": "https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/"
+  },
+  {
+    "tutorial_name": "PyTorch Text (torchtext) - PyTorch Tutorial",
+    "tutorial_url": "https://pytorch.org/tutorials/beginner/torchtext_translation_tutorial.html"
+  },
+  {
+    "tutorial_name": "Getting started with torch text for PyTorch",
+    "tutorial_url": "https://medium.com/@sonicboom8/sentiment-analysis-torchtext-55fb57b1fab8"
+  }
+]
+}

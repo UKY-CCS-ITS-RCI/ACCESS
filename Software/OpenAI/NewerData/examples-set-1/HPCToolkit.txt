@@ -1,0 +1,33 @@
+Use Case: HPCToolkit is used for measuring and analyzing time/cycles consumed by your program. Its main usage is to provide a detailed view of how resources are being used, call paths in which they occur, and the relation to the program structure.
+
+Code details and examples:
+
+Measurements are typically done as follows:
+
+Code:
+
+```bash
+# Perform the measurements
+hpcrun -o hpctoolkit-myprog-measurements myprog
+
+# Post process the measurements
+hpcstruct hpctoolkit-myprog-measurements
+
+# Generate the database
+hpcprof -S myprog.hpcstruct -o mydatabase hpctoolkit-myprog-measurements
+```
+
+Review the results:
+
+Code:
+
+```bash
+# Launch the hpcviewer GUI
+hpcviewer mydatabase
+```
+
+In this example, 'myprog' is a binary of the program which you are analyzing.
+
+The output of the measurement command (hpcrun) is a collection of HPCToolkit measurement files, which are fed into hpcstruct for post-processing. The measurement files are then processed by hpcprof to generate a database, which can be analyzed with hpcviewer.
+
+This particular example does not require any specific input file formats, the target for analysis can be any compiled program.

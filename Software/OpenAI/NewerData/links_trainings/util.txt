@@ -1,0 +1,10 @@
+{
+  "Util": {
+    "softwarePage": "https://www.npmjs.com/package/util",
+    "documentation": "https://nodejs.org/api/util.html",
+    "tutorials": [
+      "https://www.tutorialsteacher.com/nodejs/nodejs-util-package",
+      "https://www.javatpoint.com/nodejs-util"
+    ]
+  }
+}

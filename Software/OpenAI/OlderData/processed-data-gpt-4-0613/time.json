@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "Time",
+  "Homepage": "https://www.gnu.org/software/time/",
+  "Resources": {
+    "Documentation": "https://www.gnu.org/software/time/",
+    "Tutorials": [
+      "https://www.gnu.org/software/time/manual/time.html",
+      "https://www.howtoforge.com/linux-time-command"
+    ],
+    "TrainingMaterial": [
+      "https://www.computerhope.com/unix/utime.htm",
+      "https://ostechnix.com/how-to-measure-a-commands-execution-time-in-linux/"
+    ]
+  }
+}

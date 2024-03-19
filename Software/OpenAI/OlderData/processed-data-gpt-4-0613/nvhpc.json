@@ -1,0 +1,24 @@
+{
+  "software": "nvhpc",
+  "website": "https://developer.nvidia.com/nvidia-hpc-sdk",
+  "documentation": [
+    {
+      "title": "NVIDIA HPC SDK Documentation",
+      "url": "https://docs.nvidia.com/hpc-sdk/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "NVIDIA HPC SDK: High-Performance CUDA Fortran",
+      "url": "https://developer.nvidia.com/hpc-sdk/fortran-compiler"
+    },
+    {
+      "title": "NVIDIA HPC SDK: Introduction and Overview",
+      "url": "https://www.youtube.com/watch?v=2Ik7mgoSm-E"
+    },
+    {
+      "title": "Feb. 2021 Online CUDA Training Series - Introduction to Performance Tuning with the NVIDIA HPC SDK", 
+      "url": "https://www.youtube.com/watch?v=rFHdo_0qjSc"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "Software": "libarchive",
+    "Official Site": "https://www.libarchive.org/",
+    "Documentation": [
+        {
+            "URL": "https://www.libarchive.org/documentation/"
+        }
+    ],
+    "Tutorials and Training": [
+        {
+            "URL": "https://learn.oreilly.com/library/view/mastering-linux-shell/9781785286952/ch10s04.html",
+            "Title": "Working with archive files using libarchive"
+        },
+        {
+            "URL": "https://gist.github.com/martine/51b71942bd87a37fa21f",
+            "Title": "libarchive example - simple.c"
+        }
+    ]
+}

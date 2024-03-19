@@ -1,0 +1,10 @@
+{
+  "software": "newick_utils",
+  "description": "A set of tools for processing phylogenetic trees. Newick Utils is C library and a set of programs for managing phylogenetic trees. Provides functionality like comparisons, rerooting, subtree extraction and standardizes tree manipulation in scripts.",
+  "links": {
+    "software": "https://github.com/tjunier/newick_utils", 
+    "documentation": "http://cegg.unige.ch/newick_utils", 
+    "tutorial_1": "https://evosite3d.blogspot.com/2012/11/tutorial-newick-utilities.html",
+    "tutorial_2": "https://willpearse.github.io/phylo.lib/utilities/newick-utils.html"
+  }
+}

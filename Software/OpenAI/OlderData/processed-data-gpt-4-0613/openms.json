@@ -1,0 +1,12 @@
+{
+  "Name": "OpenMS",
+  "SoftwareURL": "https://www.openms.de/",
+  "DocumentationURL": "https://www.openms.de/documentation/",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://www.openms.de/tutorials/",
+    "Tutorial_2_URL": "https://abibuilder.informatik.uni-tuebingen.de/archive/openms/Tutorials/",
+    "Webinars": "https://www.openms.de/webinars/",
+    "Workshops": "https://www.openms.de/workshops/",
+    "Courses": "https://www.openms.de/courses/"
+  }
+}

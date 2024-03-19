@@ -1,0 +1,17 @@
+{
+    "Software Name": "SuperLU",
+    "Software Page": "https://portal.nersc.gov/project/sparse/superlu/",
+    "Documentation": [
+        {
+            "URL": "https://portal.nersc.gov/project/sparse/superlu/SuperLU_UG.pdf",
+            "Description": "SuperLU User Guide"
+        }
+    ],
+    "Tutorials": [
+        {
+            "URL": "https://portal.nersc.gov/project/sparse/superlu/#how-to-use-superlu",
+            "Description": "How to Use SuperLU"
+        }
+    ],
+    "Training": []
+}

@@ -1,0 +1,15 @@
+{
+  "softwareName": "Fontconfig",
+  "softwareLink": "https://www.freedesktop.org/wiki/Software/fontconfig/",
+  "documentationLinks": [
+   "https://www.freedesktop.org/software/fontconfig/fontconfig-user.html", 
+   "https://www.man7.org/linux/man-pages/man1/fc-match.1.html"],
+  "trainingAndTutorialLinks": [
+   "https://wiki.archlinux.org/index.php/Font_configuration",
+   "https://linux.die.net/man/1/fc-list"],
+  "isPythonLibrary": false,
+  "isComputationalSoftware": false,
+  "isHPCtool": false,
+  "isBioinformaticsTool": false,
+  "isCondaPackage": false
+}

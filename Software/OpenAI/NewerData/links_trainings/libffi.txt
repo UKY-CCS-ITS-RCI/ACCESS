@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Name": "libffi",
+    "URL": "https://sourceware.org/libffi/",
+    "DocumentationLink": "https://sourceware.org/libffi/libffi.html",
+    "TrainingMaterial": [
+      {
+        "Tutorial1": "https://www.geekhideout.com/software/libffi.shtml",
+        "Tutorial2": "https://www.cs.utah.edu/plt/ffi-2.0/manual/index.html"
+      }
+    ]
+  }
+}

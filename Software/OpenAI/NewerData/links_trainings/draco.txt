@@ -1,0 +1,25 @@
+{
+  "Software_Name": "Draco",
+  "Links": {
+    "Software_Page": "https://github.com/enthought/mayavi",
+    "Documentation": "https://docs.enthought.com/mayavi/mayavi/",
+    "Training": [
+      {
+        "Title": "Mayavi: 3D Scientific data visualization and plotting in Python",
+        "URL": "https://www.youtube.com/watch?v=r6OD07Qq2mw"
+      },
+      {
+        "Title": "Mayavi tutorial",
+        "URL": "https://docs.enthought.com/mayavi/mayavi/auto/example_surface_from_irregular_data.html"
+      },
+      {
+        "Title": "Python 3D Plotting With Mayavi2",
+        "URL": "http://www.scipy-lectures.org/advanced/3d_plotting/index.html"
+      },
+      {
+        "Title": "Blood Pressure Visualization using Mayavi in Python",
+        "URL": "https://www.coolprop.org/fluid_properties/Mayavi.html"
+      }
+    ]
+  }
+}

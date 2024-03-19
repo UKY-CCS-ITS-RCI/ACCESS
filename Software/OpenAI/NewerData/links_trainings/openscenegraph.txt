@@ -1,0 +1,20 @@
+{
+  "openscenegraph": {
+    "softwarePage": "http://www.openscenegraph.org/",
+    "documentation": "http://www.openscenegraph.org/index.php/documentation",
+    "tutorials": [
+      {
+        "name": "OSG beginners guide",
+        "url": "http://www.stackedboxes.org/~lmb/en/computer-stuff/osg/osg-beginners-guide/"
+      },
+      {
+        "name": "OSG tutorials on the official forums",
+        "url": "http://forum.openscenegraph.org/viewforum.php?f=14"
+      },
+      {
+        "name": "WillCast tutorial",
+        "url": "http://willcast.com/webgl/tutorial.php"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "software": "intel_ippcp_ia32",
+    "website": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/ipp.html",
+    "documentation": "https://software.intel.com/content/www/us/en/develop/articles/intel-integrated-performance-primitives-documentation.html",
+    "tutorials": [
+        {
+            "title": "Intel® Integrated Performance Primitives (Intel® IPP) Cryptography thunks Patch IA-32",
+            "link": "https://software.intel.com/content/www/us/en/secure/download/36722"
+        }
+    ]
+}

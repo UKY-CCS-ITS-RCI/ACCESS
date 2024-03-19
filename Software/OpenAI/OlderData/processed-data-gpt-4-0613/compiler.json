@@ -1,0 +1,57 @@
+[
+  {
+    "name": "GCC",
+    "software_link": "https://gcc.gnu.org/",
+    "documentation_links": [
+      "https://gcc.gnu.org/onlinedocs/gcc/",
+      "https://gcc.gnu.org/install/index.html",
+      "https://gcc.gnu.org/wiki/"
+    ],
+    "tutorial_links": [
+      "https://www.learn-c.org/",
+      "https://www.cplusplus.com/doc/tutorial/",
+      "https://www.geeksforgeeks.org/c-programming-language/"
+    ]
+  },
+  {
+    "name": "LLVM",
+    "software_link": "https://llvm.org/",
+    "documentation_links": [
+      "https://llvm.org/docs/",
+      "https://llvm.org/docs/GettingStarted.html",
+      "https://llvm.org/docs/UsersManual.html"
+    ],
+    "tutorial_links": [
+      "https://llvm.org/docs/tutorial/",
+      "https://www.cs.cornell.edu/~asampson/blog/llvm.html",
+      "https://www.llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html"
+    ]
+  },
+  {
+    "name": "Intel Compiler",
+    "software_link": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler.html",
+    "documentation_links": [
+      "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-cpp-compiler-dev-guide-and-reference/top.html",
+      "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-cpp-compiler-dev-guide-and-reference/top/optimizing-your-application.html"
+    ],
+    "tutorial_links": [
+      "https://software.intel.com/content/www/us/en/develop/documentation/get-started-with-cpp-compiler/top.html",
+      "https://www.ccs.tsukuba.ac.jp/eng/supercomputer/software/intel/",
+      "https://software.intel.com/content/www/us/en/develop/articles/getting-started-with-intel-oneapi-dpcpp-compiler.html"
+    ]
+  },
+  {
+    "name": "Clang",
+    "software_link": "https://clang.llvm.org/",
+    "documentation_links": [
+      "https://clang.llvm.org/docs/",
+      "https://clang.llvm.org/docs/UsersManual.html",
+      "https://clang.llvm.org/get_started.html"
+    ],
+    "tutorial_links": [
+      "https://clang.llvm.org/docs/IntroductionToTheClangAST.html",
+      "https://www.cprogramming.com/",
+      "https://www.tutorialspoint.com/cprogramming/index.htm"
+    ]
+  }
+]

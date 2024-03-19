@@ -1,0 +1,24 @@
+{
+  "software_name": "gapit",
+  "software_page": "https://www.maizegenetics.net/gapit",
+  "documentation": [
+    {
+      "title": "gapit manual PDF",
+      "url": "https://www.maizegenetics.net/download/publication/475/1"
+    },
+    {
+      "title": "gapit tutorial on Github",
+      "url": "https://github.com/jianhaizhang/GAPIT"
+    }
+  ],
+  "training_materials": [
+    {
+      "title": "GAPIT tutorial Youtube",
+      "url": "https://www.youtube.com/watch?v=MRWFUvH0tqM"
+    },
+    {
+      "title": "Association Mapping using GAPIT in R",
+      "url": "https://www.plantbreeding.wur.nl/UK/software_GAPIT.html"
+    }
+  ]
+}

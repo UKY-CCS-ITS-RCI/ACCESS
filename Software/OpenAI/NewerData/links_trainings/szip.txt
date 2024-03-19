@@ -1,0 +1,9 @@
+{
+"szip": 
+  {
+    "software_page": "https://support.hdfgroup.org/doc_resource/SZIP/",
+    "documentation": "https://support.hdfgroup.org/doc_resource/SZIP/Using_szip.html",
+    "tutorials": ["https://szip-source-code.hdfgroup.org/"],
+    "training_materials": ["https://www.hdfgroup.org/solutions/hdf5-tutorial/"]
+  }
+}

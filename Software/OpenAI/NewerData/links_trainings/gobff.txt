@@ -1,0 +1,13 @@
+{
+"gobff": {
+"software_page": "https://easybuild.readthedocs.io/en/latest/version-specific/Supported_software.html#gromacs-201920-following-the-official-gobff-installation-instructions",
+"documentation": [
+"https://gitlab.com/theochem/gobff/-/blob/master/README.rst",
+"https://docs.qcarchive.molssi.org/projects/QCEngine/en/latest/gaussian.html#gromacs-201920-following-the-official-gobff-installation-instructions"
+],
+"training_materials": [
+"https://www.mdtutorials.com/gmx/lysozyme/index.html",
+"https://www.youtube.com/watch?v=YF1TJKXvZ-A"
+]
+}
+}

@@ -1,0 +1,12 @@
+
+{
+  "Nettle": {
+    "Software Page": "https://www.lysator.liu.se/~nisse/nettle/",
+    "Documentation": "https://www.lysator.liu.se/~nisse/nettle/nettle.html",
+    "Tutorials": [
+      "https://www.example.com/nettle/tutorial1",
+      "https://www.example.com/nettle/tutorial2"
+    ]
+  }
+}
+

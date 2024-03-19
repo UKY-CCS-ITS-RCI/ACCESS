@@ -1,0 +1,12 @@
+{
+  "fiji": {
+    "software_page": "https://imagej.net/Fiji",
+    "documentation": "https://imagej.net/Fiji/Documentation",
+    "tutorials": [
+      "https://imagej.net/Fiji/Downloads",
+      "https://imagej.net/Learn_Fiji",
+      "https://imagej.nih.gov/ij/docs/guide/user-guide.pdf",
+      "https://www.youtube.com/watch?v=EyxGhodHmk8"
+    ]
+  }
+}

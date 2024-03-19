@@ -1,0 +1,32 @@
+{
+  "software_name": "TensorBoard",
+  "software_page": "https://www.tensorflow.org/tensorboard",
+  "documentation": [
+    {
+      "name": "Official Documentation",
+      "link": "https://www.tensorflow.org/tensorboard/get_started"
+    },
+    {
+      "name": "TensorBoard in TensorFlow",
+      "link": "https://www.tensorflow.org/api_docs/python/tf/summary"
+    }
+  ],
+  "tutorials_and_training_materials": [
+    {
+      "name": "TensorBoard Tutorial - TensorFlow",
+      "link": "https://www.tensorflow.org/tensorboard/tensorboard_in_notebooks"
+    },
+    {
+      "name": "Introducing TensorFlow Datasets and TensorBoard",
+      "link": "https://www.youtube.com/watch?v=uIcqeP7MFH0"
+    },
+    {
+      "name": "TensorBoard Visualization - TensorFlow",
+      "link": "https://www.tensorflow.org/tensorboard/r2/image_summaries"
+    },
+    {
+      "name": "Using TensorBoard - Deep Learning with Python, TensorFlow and Keras",
+      "link": "https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "opencv": {
+    "software_page": "https://opencv.org/",
+    "documentation": "https://docs.opencv.org/master/",
+    "tutorials_and_trainings": [
+      "https://docs.opencv.org/master/d9/df8/tutorial_root.html",
+      "https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html",
+      "https://www.udemy.com/topic/opencv/",
+      "https://www.coursera.org/courses?query=opencv"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "csvkit",
+  "software_page": "https://csvkit.readthedocs.io/en/latest/",
+  "documentation_url": "https://csvkit.readthedocs.io/en/latest/index.html",
+  "tutorial_links": [
+    "https://csvkit.readthedocs.io/en/latest/tutorial/1_getting_started.html",
+    "https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine",
+    "https://www.journalism.co.uk/skills/how-to-get-started-with-the-csvkit-toolkit/s7/a564710/",
+    "https://learn.co/lessons/csvkit-reading-writing-sql"
+  ]
+}

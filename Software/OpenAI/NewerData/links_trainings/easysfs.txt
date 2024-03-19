@@ -1,0 +1,14 @@
+{
+    "Software_Name": "easysfs",
+    "Software_URL": "https://github.com/isaacovercast/easysfs",
+    "Documentation": [
+        {
+            "URL": "https://github.com/isaacovercast/easysfs#Easysfs"
+        }
+    ],
+    "Tutorials_and_Training": [
+        {
+            "URL": "https://gentoobb.github.io/easysfs/"
+        }
+    ]
+}

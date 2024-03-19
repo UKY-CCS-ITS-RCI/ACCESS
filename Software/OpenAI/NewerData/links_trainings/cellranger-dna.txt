@@ -1,0 +1,15 @@
+{
+  "software": "cellranger-dna",
+  "link": "https://support.10xgenomics.com/single-cell-dna/software/pipelines/latest/what-is-cell-ranger-dna",
+  "documentation": "https://support.10xgenomics.com/single-cell-dna/software/pipelines/latest/using/pipeline",
+  "tutorials": [
+    {
+      "name": "Using Cell Ranger DNA",
+      "link": "https://support.10xgenomics.com/single-cell-dna/software/pipelines/latest/using/tutorial_cli"
+    },
+    {
+      "name": "Cell Ranger DNA Tutorials",
+      "link": "https://support.10xgenomics.com/single-cell-dna/software/pipelines/latest/tutorials/overview"
+    }
+  ]
+}

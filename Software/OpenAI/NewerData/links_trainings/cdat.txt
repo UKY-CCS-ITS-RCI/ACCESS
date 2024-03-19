@@ -1,0 +1,14 @@
+{
+  "cdat": {
+    "software_page": "https://www.anaconda.com/project/uv-cdat/",
+    "documentation": "https://cdat.llnl.gov/home/",
+    "training_materials": [
+      {
+        "tutorial1": "https://cdat.llnl.gov/tutorials/",
+        "tutorial2": "https://github.com/UV-CDAT/cdat/wiki/Tutorials",
+        "training1": "https://www.geosci-model-dev.net/8/3053/2015/gmd-8-3053-2015.html",
+        "training2": "https://uvcdat.llnl.gov/learn-more.html"
+      }
+    ]
+  }
+}

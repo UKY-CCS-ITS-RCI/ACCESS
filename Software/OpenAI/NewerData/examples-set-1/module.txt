@@ -1,0 +1,30 @@
+Use Case: The Modules package provides for the dynamic modification of the user's environment via module files; 
+
+Code details and examples:
+
+Code:
+
+A sample module file can look like this:
+
+```bash
+#%Module
+
+prepend-path    PATH            /opt/toolchain/bin
+prepend-path    MANPATH         /opt/toolchain/man
+prepend-path    INFOPATH        /opt/toolchain/info
+prepend-path    LD_LIBRARY_PATH /opt/toolchain/lib
+```
+
+In the above module file, the tools in /opt/toolchain are added to the path and the library files are added to the environment.
+
+You can use the following command to load the above module file:
+
+```bash
+module load toolchain
+```
+
+The following command can be used to unload the module file:
+
+```bash
+module unload toolchain
+```

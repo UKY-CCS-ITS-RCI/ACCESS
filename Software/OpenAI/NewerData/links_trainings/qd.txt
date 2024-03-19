@@ -1,0 +1,11 @@
+{
+  "Software Name": "qd",
+  "Software Link": "https://crd-legacy.lbl.gov/~dhbailey/mpdist/qd-2.3.22.tar.gz",
+  "Documentation Link": "",
+  "Training/Tutorial Materials": [
+      {
+      "name": "Double-Double and Quad-Double Arithmetic",
+      "url": "https://www.davidhbailey.com/dhbsoftware/dd_qd.pdf"
+      }
+  ]
+}

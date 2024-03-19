@@ -1,0 +1,17 @@
+{
+  "name": "Ragout",
+  "softwarePage": "https://github.com/fenderglass/Ragout",
+  "documentation": "https://github.com/fenderglass/Ragout#usage",
+  "tutorials": [
+    {
+      "name": "Tutorial from README",
+      "link": "https://github.com/fenderglass/Ragout#usage"
+    }
+  ],
+  "additionalResources": [
+    {
+      "name": "Ragout publication on Bioinformatics",
+      "link": "https://academic.oup.com/bioinformatics/article/30/12/i302/374825"
+    }
+  ]
+}

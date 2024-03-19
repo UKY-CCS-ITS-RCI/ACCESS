@@ -1,0 +1,57 @@
+Use Case: Fluent is a Computational Fluid Dynamics (CFD) software for modeling fluid flow and heat transfer in complex geometries. It has a broad range of multi-physics capabilities, including fluid-structure interaction and multiphase flow. 
+
+Code Details and Examples: 
+
+Code:
+
+Sample Fluent Input File:
+
+Steps to generate this input file:
+1. Choose File > Write > Case 
+2. Enter filename.cas in the File Name field
+3. Click OK.
+
+To run the simulation:
+
+Command to run fluent:
+
+`fluent 3ddp -g -i input.jou > output.log &`
+
+where 
+- '3ddp' specifies the version (3D double precision)
+- '-g' starts it without the graphics window,
+- '-i' specifies the input journal file.
+
+The output is sent to output.log. This is just a basic command. Fluent has numerous options and possibilities when it comes to problem setup and solving, post-processing, etc. It hugely depends on the physics of the problem.
+
+This input file essentially has a list of Fluent commands that are executed in sequence. They can specify the problem setup, solver settings, and even when to write results and end the simulation.
+
+Here is an example of a basic input (journal) file:
+
+```
+; Read the mesh file
+/file/read-case myMesh.msh
+
+; Setup the models, materials, boundary conditions etc
+/define/models/steady
+/define/materials/change-create airIdealGas airIdealGas constant 287
+/define/boundary-conditions/wall wallHeatFlux 0 heat-flux 50
+/define/boundary-conditions/pressure-outlet outlet 0 gauge-pressure 0
+
+; Initialize the flow field
+/solve/initialize/compute-defaults/velocity-inlet inlet
+
+; Setup solver settings
+/solve/set/discretization-scheme pressure second-order
+/solve/set/discretization-scheme momentum second-order-upwind
+/solve/set/under-relaxation pressure 0.2
+/solve/set/under-relaxation momentum 0.5
+
+; Run the calculation for 200 time steps
+/solve/iterate 200
+
+; Write the results
+/file/write-data myResults.dat
+```
+
+In this example, the mesh is read from the file 'myMesh.msh'. The simulation is set up for steady-state, the air is set as an ideal gas with a specific heat capacity ratio of 287 J/kgK. Walls are specified with a heat flux of 50 W/m^2, and the outlet is set to be a pressure outlet with gauge pressure 0. Flow field is initialized from the inlet conditions. Pressure and momentum equations are discretized using second-order schemes, and under-relaxation factors are set. The simulation is iterated for 200 steps, and results are written to 'myResults.dat'.

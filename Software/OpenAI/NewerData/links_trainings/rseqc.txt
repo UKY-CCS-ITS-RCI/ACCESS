@@ -1,0 +1,20 @@
+{
+  "Software": "rseqc",
+  "Link": "http://rseqc.sourceforge.net",
+  "Documentation": [
+    {
+      "Link": "http://rseqc.sourceforge.net/#documentation",
+      "Title": "Documentation"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Link": "https://www.youtube.com/watch?v=9efgsX4x_hw",
+      "Title": "YouTube Tutorial: Installation process of RSeQC tool"
+    },
+    {
+      "Link": "https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon/lessons/08_visualizing_alignments_quality_with_rseqc.html",
+      "Title": "Hands-on Tutorial: Visualizing RNAseq alignments quality with RSeQC on HPC"
+    }
+  ]
+}

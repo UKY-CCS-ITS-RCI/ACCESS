@@ -1,0 +1,19 @@
+{
+  "Software": "CP2K",
+  "Website": "https://www.cp2k.org/",
+  "Documentation": "https://manual.cp2k.org/",
+  "Tutorials and Training material": [
+    {
+      "Title": "CP2K Tutorials",
+      "Link": "https://www.cp2k.org/exercises"
+    },
+    {
+      "Title": "CP2K Manual",
+      "Link": "https://manual.cp2k.org/"
+    },
+    {
+      "Title": "CP2K Online Training",
+      "Link": "https://www.osti.gov/pages/servlets/purl/1032538"
+    }
+  ]
+}

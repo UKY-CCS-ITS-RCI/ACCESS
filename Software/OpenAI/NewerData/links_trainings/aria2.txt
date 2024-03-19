@@ -1,0 +1,15 @@
+{
+  "software": "aria2",
+  "software_url": "https://aria2.github.io/",
+  "documentation": "https://aria2.github.io/manual/en/html/index.html",
+  "tutorials": [
+    {
+      "tutorial_name": "aria2 - The Ultimate Download Utility",
+      "tutorial_url": "https://www.tecmint.com/aria2-the-ultimate-download-utility/"
+    },
+    {
+      "tutorial_name": "Introduction to aria2",
+      "tutorial_url": "https://passthejoe.net/2019/03/25/introduction-to-aria2-the-high-speed-console-based-download-manager/"
+    }
+  ]
+}

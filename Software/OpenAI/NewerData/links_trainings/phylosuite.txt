@@ -1,0 +1,11 @@
+{
+  "phylosuite": {
+    "softwarePage": "https://github.com/dongzhang0725/PhyloSuite",
+    "documentation": "https://dongzhang0725.github.io/PhyloSuite_doc/",
+    "tutorials": [
+      "https://dongzhang0725.github.io/PhyloSuite_tutorial/",
+      "https://www.biorxiv.org/content/10.1101/647958v1.full",
+      "https://www.researchgate.net/publication/340953292_PhyloSuite_Automated_pipeline_for_phylogenetic_analysis_on_genomics_and_mitogenomics_data"
+    ]
+  }
+}

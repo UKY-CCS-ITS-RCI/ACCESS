@@ -1,0 +1,41 @@
+Use Case: Solving Partial Differential Equations
+
+Code Details and Examples:
+
+PETSc, the Portable, Extensible Toolkit for Scientific Computation, is a suite of data structures and routines for the scalable solution of scientific applications modeled by partial differential equations. It supports MPI, and GPUs through CUDA or OpenCL, as well as hybrid MPI-GPU parallelism.
+
+Code:
+
+Here is a simple example of usage for the PETSc library:
+
+```c
+#include <petscsys.h>
+
+int main(int argc,char **argv)
+{
+  PetscInitialize(&argc,&argv,(char*)0,help);
+  
+  PetscPrintf(PETSC_COMM_WORLD,"Hello PETSc!\n");
+  
+  PetscFinalize();
+  return 0;
+}
+```
+
+Command to run:
+
+Assume a file `hello.c` has the above code, the command to compile with MPI would look like this:
+
+```bash
+mpicc -o hello hello.c -I/petsc/include -L/petsc/lib -lpetsc -lm -lstdc++
+```
+
+And to execute:
+
+```bash
+mpirun -np 4 ./hello
+```
+
+Input Files and Format:
+
+No input files are necessary for this simple example. In more complex cases, PETSc can read in files in multiple formats for different purposes (matrix storage, vector storage, etc.) including raw binary, ASCII, HDF5, and others. The exact format will depend on the usage and the specific PETSc function called.

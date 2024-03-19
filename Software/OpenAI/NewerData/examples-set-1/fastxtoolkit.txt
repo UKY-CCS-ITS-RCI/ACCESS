@@ -1,0 +1,41 @@
+Use Case: Fastx-Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing. It can be used for quality filtering, trimming of reads and many more applications.
+
+Code Details and Examples:
+
+Code:
+
+Fastq Quality Filter
+-----------------------
+This tool filters out low-quality reads based on the quality scores in your input fastq file. 
+
+Input file format: A fastq file to be quality checked. Quality scores should be phred +33.
+
+Command to run it:
+```
+fastq_quality_filter -Q33 -q 20 -p 80 -i input.fastq -o output.fastq
+```
+Where:
+-Q33 specifies the phred scale of quality scores
+-q is the minimum quality score to retain a read
+-p is the minimum percentage of bases that must have the quality as specified by -q
+-i specifies the input file
+-o specifies the output file
+
+Fastq Trim Tool
+-------------------
+This tool trims low-quality bases from the 3'-end of reads until it comes across a base with a quality score above the threshold.
+
+Input file format: A fastq file with sequence reads to be trimmed. Quality scores should be phred +33.
+
+Command to run it:
+```
+fastq_quality_trimmer -Q33 -t 20 -l 20 -i input.fastq -o output.fastq
+```
+Where:
+-Q33 specifies the phred scale of quality scores
+-t is the minimum quality score, below which trimming will occur.
+-l is the minimum length of reads to be kept.
+-i specifies the input file
+-o specifies the output file
+
+Remember to replace input.fastq and output.fastq with the names of your own files.

@@ -1,0 +1,22 @@
+{
+  "softwareName": "kissDE",
+  "software_page_link": "https://bioconductor.org/packages/release/bioc/html/kissDE.html",
+  "additional_links": {
+    "documentation": [
+      {
+        "name": "kissDE Documentation",
+        "url": "https://www.bioconductor.org/packages/devel/bioc/vignettes/kissDE/inst/doc/kissDE.pdf"
+      }
+    ],
+    "tutorials_and_trainings": [
+      {
+        "name": "Library kissDE",
+        "url": "https://rdrr.io/bioc/kissDE/"
+      },
+      {
+        "name": "kissDE tutorial",
+        "url": "https://bioconductor.org/packages/release/bioc/vignettes/kissDE/inst/doc/kissDE.pdf"
+      }
+    ]
+  }
+}

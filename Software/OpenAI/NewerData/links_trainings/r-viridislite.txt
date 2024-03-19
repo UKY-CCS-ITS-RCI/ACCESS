@@ -1,0 +1,11 @@
+{
+  "Software": "r-viridislite",
+  "Links": {
+    "Software Page": "https://cran.r-project.org/web/packages/viridisLite/index.html",
+    "Documentation": "https://www.rdocumentation.org/packages/viridisLite/versions/0.4.0",
+    "Tutorials": {
+      "How to use Viridis Colors in R": "https://www.r-bloggers.com/2019/05/how-to-use-viridis-colors-in-r/",
+      "Beautiful color scales with viridis": "https://www.r-bloggers.com/2020/10/beautiful-color-scales-with-viridis/"
+    }
+  }
+}

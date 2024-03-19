@@ -1,0 +1,24 @@
+{
+  "software_name": "CellBender",
+  "software_url": "https://github.com/broadinstitute/CellBender",
+  "documentation": [
+    {
+      "name":"Main Documentation",
+      "url":"https://cellbender.readthedocs.io"
+    },
+    {
+      "name":"Tutorial Notebook",
+      "url":"https://cellbender.readthedocs.io/en/latest/tutorials.html"
+    }
+  ],
+  "tutorials_and_training": [
+    {
+      "name":"CellBender Webinar",
+      "url":"https://www.youtube.com/watch?v=gT6Sdyfi0GQ"
+    },
+    {
+      "name":"cellbender - Remove EmptyDROPS tutorial",
+      "url":"https://singlecell.broadinstitute.org/single_cell/study/SCP867/cellbender-removeemptydrops-tutorial"
+    }
+  ]
+}

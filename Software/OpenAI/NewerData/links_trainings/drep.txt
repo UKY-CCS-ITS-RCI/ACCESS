@@ -1,0 +1,16 @@
+{
+  "Software": "drep",
+  "Website": "https://drep.readthedocs.io/en/latest/",
+  "Additional_Resources": {
+    "Documentation": "https://drep.readthedocs.io/en/latest/index.html",
+    "Tutorials": [
+      "https://drep.readthedocs.io/en/latest/tutorials.html",
+      "https://drep.readthedocs.io/en/latest/quick_start.html"
+    ],
+    "Training_Materials": [
+      "https://github.com/MrOlm/drep/blob/master/tutorials/C_comprehensive_tutorial.md",
+      "https://microbialsystems.wordpress.com/2017/08/10/protocol-dereplicate-genomes-using-drep/",
+      "https://www.youtube.com/watch?v=z7cCx8z9A04"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "software": "minimap2",
+  "description": "A versatile pairwise aligner for genomic and spliced nucleotide sequences",
+  "website": "https://lh3.github.io/minimap2/",
+  "docs": "https://lh3.github.io/minimap2/minimap2.html",
+  "tutorials": [
+    {
+      "title": "Basic usage of minimap2",
+      "link": "https://bioinformaticsworkbook.org/dataAnalysis/GenomeAssembly/longreads/Minimap2.html#gsc.tab=0"
+    },
+    {
+      "title": "Mapping reads with minimap2",
+      "link": "https://angus.readthedocs.io/en/2019/mapping-reads-lecture.html"
+    },
+    {
+      "title": "Minimap2, an Ideal Tool for Genome Assembly",
+      "link": "https://www.cusabio.com/c-20906.html"
+    }
+  ]
+}

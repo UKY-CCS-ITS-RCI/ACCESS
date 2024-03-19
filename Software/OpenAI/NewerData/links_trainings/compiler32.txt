@@ -1,0 +1,7 @@
+{
+  "Compiler32": {
+    "software_page": "Link not available",
+    "documentation_link": "Link not available",
+    "training_materials": []
+  }
+}

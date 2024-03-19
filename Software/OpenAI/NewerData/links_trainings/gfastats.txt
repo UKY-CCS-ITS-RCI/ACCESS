@@ -1,0 +1,23 @@
+{
+  "software_name": "gfastats",
+  "software_link": "https://bio.tools/gfastats",
+  "documentation_link": "https://github.com/lh3/gfastats",
+  "training_materials": [
+    {
+      "name": "Gfastats Usage",
+      "link": "https://lh3.github.io/gfastats/"
+    },
+    {
+      "name": "Getting Started with Gfastats",
+      "link": "https://bioinformatics.stackexchange.com/questions/16170/what-is-gfastats"
+    },
+    {
+      "name": "PyPi Gfastats Tutorial",
+      "link": "https://pypi.org/project/gfastats/"
+    },
+    {
+      "name": "Python Gfastats Tutorial",
+      "link": "https://readthedocs.org/projects/gfastats/"
+    }
+  ]
+}

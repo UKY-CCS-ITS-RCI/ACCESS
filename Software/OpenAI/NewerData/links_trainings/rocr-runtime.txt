@@ -1,0 +1,12 @@
+{
+  "rocr-runtime":{
+    "URL":"https://github.com/RadeonOpenCompute/ROCR-Runtime",
+    "Documentation":"https://rocmdocs.amd.com/en/latest/",
+    "Tutorials_and_Training": [
+      {
+        "Tutorial_1":"https://rocmdocs.amd.com/en/latest/Programming_Guides/HIP-GUIDE.html",
+        "Tutorial_2":"https://rocmdocs.amd.com/en/latest/Programming_Guides/HCC-to-HIP.html"
+      }
+    ]
+  }
+}

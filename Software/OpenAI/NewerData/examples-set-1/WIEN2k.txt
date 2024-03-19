@@ -1,0 +1,33 @@
+Use Case: WIEN2k is a very popular tool for performing electronic structure calculations of solids in Physics and Materials Science. It is primarily used by researchers in these fields. It implements the full potential (linearized) augmented plane-wave ((L)APW) + local orbitals (lo) method. It allows calculations of the physical properties of a given material, based on the fundamental principles of quantum mechanics.
+
+Code details and examples:
+
+Code:
+The main input file for WIEN2k is 'case.struct', where case is the name of the system.
+
+Here is an example of such an input file:
+
+Title
+Pm-3m			(Free format)
+1.0 1.0 1.0
+4 4 4
+ 226
+ATOM  -1: X=0 Y=0 Z=0
+        MULT=1
+        ISPLIT=2
+O O s
+ -6.000000 -4.000000  0.000000  1.000000
+
+ATOM  -2: X=0.5 Y=0.5 Z=0.5
+        MULT=1
+        ISPLIT=2
+La La s
+ -6.000000 -4.000000  0.000000  1.000000
+
+This represents a simple cubic LaO structure. 
+
+To run WIEN2k, you need to execute the following command (assuming WIEN2k installation directory is in your PATH):
+
+run_lapw
+
+This will start the self-consistency cycle, and repeat the SCF procedure until convergence is reached.

@@ -1,0 +1,11 @@
+{
+    "software_name": "gettext",
+    "software_homepage": "https://www.gnu.org/software/gettext/",
+    "documentation_link": "https://www.gnu.org/software/gettext/manual/gettext.html",
+    "tutorial_links": {
+        "official_tutorials": "https://www.gnu.org/software/gettext/manual/gettext.html#Introduction",
+        "community_tutorials": [
+            "https://www.linuxtopia.org/online_books/software_development_tools/gettext/gettext_toc.html"
+        ]
+    }
+}

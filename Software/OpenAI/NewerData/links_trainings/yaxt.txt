@@ -1,0 +1,13 @@
+{
+  "Software Name": "yaxt",
+  "Software URL": "https://www.yaxt.eu/",
+  "Documentation URL": [
+    "https://www.yaxt.eu/documentation.html"
+  ],
+  "Tutorial and Training materials": [
+    {
+      "Tutorial 1": "https://www.yaxt.eu/package-tutorial.html",
+      "Tutorial 2": "https://www.yaxt.eu/package-compiler.html"
+    }
+  ]
+}

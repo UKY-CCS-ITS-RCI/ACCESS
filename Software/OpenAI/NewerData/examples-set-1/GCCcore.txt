@@ -1,0 +1,22 @@
+Use Case: In High Performance Computing scenarios, one often needs to compile C or C++ code for optimization and performance purposes. GCCcore is a part of the GNU Compiler Collection, specifically for the C and C++ languages, which allows such code compilation.
+
+Code details and examples:
+
+Code file: hello_world.c
+```c
+#include <stdio.h>
+
+int main() {
+   printf("Hello, World!\n");
+   
+   return 0;
+}
+```
+
+Command to compile the code: `gcc hello_world.c -o hello.out`
+
+This command will compile the C coded file named "hello_world.c" and output a binary executable file named "hello.out". The -o option signals the compiler to output the compile code to a file, in this case, "hello.out".
+
+Command to run the code: `./hello.out` 
+
+This will execute the compiled binary and print "Hello, World!" to the standard output.

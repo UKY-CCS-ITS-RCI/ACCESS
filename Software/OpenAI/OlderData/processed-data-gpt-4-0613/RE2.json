@@ -1,0 +1,12 @@
+{
+  "Software Name": "RE2",
+  "links": {
+    "software page": "https://github.com/google/re2",
+    "documentation": "https://github.com/google/re2/wiki/Syntax",
+    "tutorials": [
+      "https://aakinshin.net/posts/re2/",
+      "https://www.systutorials.com/docs/linux/man/1-re2/",
+      "https://www.codeproject.com/Questions/1262001/How-to-use-google-RE2-library-in-C-plus-plus"
+    ]
+  }
+}

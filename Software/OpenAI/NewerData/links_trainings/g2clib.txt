@@ -1,0 +1,8 @@
+{ 
+   "g2clib": { 
+      "URL": "https://www.nco.ncep.noaa.gov/pmb/codes/GRIB2/g2clib/", 
+      "Documentation": "https://www.nco.ncep.noaa.gov/pmb/docs/grib2/grib2_doc.php", 
+      "Tutorials": [],
+      "Training Materials": [] 
+   }
+}

@@ -1,0 +1,19 @@
+{
+"name": "Armadillo",
+"softwarePage": "http://arma.sourceforge.net/",
+"documentation": "http://arma.sourceforge.net/docs.html",
+"tutorialMaterials": [
+    {
+        "name": "Armadillo API Guide",
+        "url": "http://arma.sourceforge.net/docs.html"
+    },
+    {
+        "name": "How to use Armadillo in C++",
+        "url": "https://www.youtube.com/watch?v=eK7_9woVhok"
+    },
+    {
+        "name": "Armadillo C++ Matrix Library Quick Start Guide",
+        "url": "https://www.kevinstadler.com/tutorials/armadillo-cpp-matrix-library-quick-start-guide/"
+    }
+  ]
+}

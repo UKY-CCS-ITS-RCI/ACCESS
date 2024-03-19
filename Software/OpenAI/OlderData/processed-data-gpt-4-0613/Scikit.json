@@ -1,0 +1,12 @@
+{
+  "Software Name": "Scikit-learn",
+  "links": {
+    "software page": "https://scikit-learn.org/stable/",
+    "documentation": "https://scikit-learn.org/stable/supervised_learning.html",
+    "tutorials": [
+      "https://scikit-learn.org/stable/tutorial/basic/tutorial.html",
+      "https://www.datacamp.com/community/tutorials/machine-learning-python",
+      "https://www.w3schools.com/python/python_ml_getting_started.asp"
+    ]
+  }
+}

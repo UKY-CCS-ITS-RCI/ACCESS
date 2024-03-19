@@ -1,0 +1,16 @@
+{
+  "software": {
+    "pkgconfig": {
+      "information": {
+        "software_url": "https://www.freedesktop.org/wiki/Software/pkg-config/",
+        "documentation_url": "https://people.freedesktop.org/~dbn/pkg-config-guide.html",
+        "tutorials_and_training_materials": [
+          {
+            "getting_started_with_pkgconfig": "https://wiki.freedesktop.org/www/Software/pkg-config/",
+            "pkgconfig_tutorial": "http://www.ncnynl.com/archives/201702/1495.html"
+          }
+        ]
+      }
+    }
+  }
+}

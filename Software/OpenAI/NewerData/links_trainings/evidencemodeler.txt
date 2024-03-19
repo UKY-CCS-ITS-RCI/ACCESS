@@ -1,0 +1,14 @@
+{
+  "software": {
+    "name": "evidencemodeler",
+    "description": "EvidenceModeler (EVM) is a comprehensive, bioinformatics tool that integrates the results of different gene prediction algorithms into a single prediction set.",
+    "links": {
+      "software_url": "https://evidencemodeler.github.io/",
+      "documentation_url": "https://evidencemodeler.github.io/manual.html",
+      "tutorial_urls": [
+        "https://genomeannotation.github.io/docs/2019/07/18/evm-evidencemodeler/",
+        "https://youtu.be/o6pf9883F20"
+      ]
+    }
+  }
+}

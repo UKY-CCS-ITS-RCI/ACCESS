@@ -1,0 +1,27 @@
+{
+  "softwareName": "antismash",
+  "softwarePage": {
+      "url": "https://antismash.secondarymetabolites.org/",
+      "description": "official antismash page"
+  },
+  "documentation": [
+    {
+      "url": "https://docs.antismash.secondarymetabolites.org/",
+      "description": "official documentation"
+    },
+    {
+      "url": "https://academic.oup.com/nar/article/49/W1/W29/6144475",
+      "description": "academic paper on antismash"
+    }
+  ],
+  "tutorials": [
+    {
+      "url": "https://www.youtube.com/watch?v=eQWVlAo-jBE",
+      "description": "youtube tutorial on antismash"
+    },
+    {
+      "url": "https://manuals.tieto.com.ezproxy.uef.fi/tietodocs/staccbio/aq/transcriptomics/Application_Manual_Antismash_rev022015.pdf",
+      "description": "Application manual for antismash"
+    }
+  ]
+}

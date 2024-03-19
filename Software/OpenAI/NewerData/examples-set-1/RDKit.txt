@@ -1,0 +1,34 @@
+Use Case: RDKit is a collection of cheminformatics and machine learning tools. It includes functionality for drawing 2D and 3D molecules, generating 3D conformations, clustering, descriptor calculation, and more. It is also a base tool for many bioinformatic and cheminformatic software.
+
+Code Details and Examples: 
+
+Input: The input to RDKit is usually a molecule file in a format such as .sdf or .mol. Other formats including SMILES strings can also be used.
+
+Example Input File: A SMILES string representing a molecule
+       
+              CC(=O)OC1=CC=CC=C1C(=O)O     
+
+Code: Below is a simple code snippet to read the SMILES string input and generate a 2D depiction of the molecule
+
+```python
+from rdkit import Chem
+from rdkit.Chem import Draw
+
+# Create a molecule object from a SMILES string
+mol = Chem.MolFromSmiles('CC(=O)OC1=CC=CC=C1C(=O)O')
+
+# Generate a depiction of the molecule
+img = Draw.MolToImage(mol)
+
+# Display the image
+img.show()
+```
+This code takes a SMILES string as input, creates a molecule object, then generates and shows a 2D depiction of the molecule.
+
+Command to Run:
+
+This code can be run in a Python environment. If the code is saved in a file named script.py, it can be run with the command:
+
+```shell
+python script.py
+```

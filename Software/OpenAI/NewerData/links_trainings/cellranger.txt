@@ -1,0 +1,22 @@
+{
+  "Software": "Cell Ranger",
+  "Website": "https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger",
+  "Documentation": [
+    {
+      "Documentation Link": "https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial-peak",
+      "Description": "Tutorial for Using Cell Ranger"
+    },
+    {
+      "Documentation Link": "https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/getting-started",
+      "Description": "Getting Started with Cell Ranger"
+    },
+    {
+      "Documentation Link": "https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial-gr",
+      "Description": "Gene-Region Tutorial - Cell Ranger"
+    },
+    {
+      "Documentation Link": "https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/metrics/mri",
+      "Description": "Cell Ranger - Metrics"
+    }
+  ]
+}

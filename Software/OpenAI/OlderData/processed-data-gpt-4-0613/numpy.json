@@ -1,0 +1,32 @@
+{
+  "software": "numpy",
+  "website": "https://numpy.org/",
+  "documentation": [
+    {
+      "title": "Numpy Documentation",
+      "url": "https://numpy.org/doc/stable/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Numpy Tutorial",
+      "url": "https://numpy.org/devdocs/user/quickstart.html"
+    },
+    {
+      "title": "Numpy Tutorial from W3Schools",
+      "url": "https://www.w3schools.com/python/numpy/default.asp"
+    },
+    {
+      "title": "Python Numpy Tutorial from Stanford",
+      "url": "http://cs231n.github.io/python-numpy-tutorial/"
+    },
+    {
+      "title": "Numpy Tutorial: Beginner to Advanced",
+      "url": "https://www.youtube.com/watch?v=GB9ByFAIAH4"
+    },
+    {
+      "title": "Numpy Tutorial: Data Analysis with Python",
+      "url": "https://www.dataquest.io/blog/numpy-tutorial-python/"
+    }
+  ]
+}

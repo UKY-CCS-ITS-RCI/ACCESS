@@ -1,0 +1,26 @@
+{
+  "Software": {
+    "Name": "blast-plus",
+    "Link": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
+    "Description": "BLAST+ is a suite of command-line tools to run BLAST.",
+    "AdditionalLinks": {
+      "Documentation": {
+        "Link": "https://www.ncbi.nlm.nih.gov/books/NBK279690/"
+      },
+      "Training": {
+        "Training1": {
+          "Link": "https://www.ncbi.nlm.nih.gov/books/NBK279668/",
+          "Name": "BLAST+ user manual"
+        },
+        "Training2": {
+          "Link": "https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/blast/tutorial.html",
+          "Name": "BLAST+ tutorial on galaxyproject"
+        },
+        "Training3": {
+          "Link": "https://www.youtube.com/watch?v=iz3cR7OWT-E",
+          "Name": "Youtube tutorial on BLAST+"
+        }
+      }
+    }
+  }
+}

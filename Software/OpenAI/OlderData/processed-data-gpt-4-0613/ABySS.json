@@ -1,0 +1,19 @@
+{
+  "Software": "ABySS",
+  "Website": "https://www.bcgsc.ca/platform/bioinfo/software/abyss",
+  "Documentation": "https://www.bcgsc.ca/platform/bioinfo/software/abyss",
+  "Tutorials and Training material": [
+    {
+      "Title": "ABySS installation guide",
+      "Link": "https://bioinfomethods.github.io/Book-ChIPseq-data-analysis_A1_abyss-installation.html"
+    },
+    {
+      "Title": "ABySS Walkthrough",
+      "Link": "https://github.com/bcgsc/abyss#assembly-walkthrough"
+    },
+    {
+      "Title": "Using ABySS",
+      "Link": "https://docs.computecanada.ca/wiki/ABySS"
+    }
+  ]
+}

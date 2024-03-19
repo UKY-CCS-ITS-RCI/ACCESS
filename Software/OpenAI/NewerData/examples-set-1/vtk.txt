@@ -1,0 +1,44 @@
+Use Case: Visualization of scientific data in 3D.
+
+Code Details and Examples:
+
+Code:
+
+```python
+import vtk
+
+# Create a rendering window and renderer
+ren = vtk.vtkRenderer()
+renWin = vtk.vtkRenderWindow()
+renWin.AddRenderer(ren)
+ 
+# Create a renderwindowinteractor
+iren = vtk.vtkRenderWindowInteractor()
+iren.SetRenderWindow(renWin)
+ 
+# Create a source
+source = vtk.vtkConeSource()
+source.SetHeight(3)
+source.SetRadius(1)
+source.SetResolution(10)
+ 
+# Create a mapper
+mapper = vtk.vtkPolyDataMapper()
+mapper.SetInputConnection(source.GetOutputPort())
+ 
+# Create an actor
+actor = vtk.vtkActor()
+actor.SetMapper(mapper)
+ 
+# Assign actor to the renderer
+ren.AddActor(actor)
+ 
+# Enable user interface interactor
+iren.Initialize()
+renWin.Render()
+iren.Start()
+```
+
+This python script represents a basic rendering pipeline of a Cone shape object in VTK (Visualization Tool Kit) Software. 
+
+There aren't any specific input files required for this code snippet, rather it generates a 3D Cone shape object. 

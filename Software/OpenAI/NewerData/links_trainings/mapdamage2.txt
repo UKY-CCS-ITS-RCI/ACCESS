@@ -1,0 +1,16 @@
+{
+  "Software": "mapDamage2",
+  "Software_URL": "https://ginolhac.github.io/mapDamage/",
+  "Documentation": [
+    {
+      "Name": "mapDamage2.0 Documentation",
+      "Link": "http://ginolhac.github.io/mapDamage/"
+    }
+  ],
+  "Training_and_tutorials": [
+    {
+      "Name": "mapDamage Tutorial",
+      "Link": "https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2017/Afternoon_Session_5/01-mapDamage.html"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "trng": {
+    "software_page": "https://numbercrunch.de/trng/",
+    "documentation": [
+      {
+      "name": "TRNG Documentation",
+      "link": "https://numbercrunch.de/trng/trng4.pdf"
+      }
+    ],
+    "tutorial_materials": [
+      {
+        "name": "TRNG example: random_float",
+        "link": "https://numbercrunch.de/trng/trng_8hpp-example.html#a12"
+      },
+      {
+        "name": "TRNG example: random_int",
+        "link": "https://numbercrunch.de/trng/trng_8hpp-example.html#a8"
+      }
+    ]
+  }
+}

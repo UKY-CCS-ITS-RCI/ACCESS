@@ -1,0 +1,36 @@
+{
+  "softwareName": "r-curl",
+  "softwarePage": "https://cran.r-project.org/web/packages/curl/index.html",
+  "documentation": [
+    {
+      "name": "CRAN Documentation",
+      "url": "https://cran.r-project.org/web/packages/curl/curl.pdf"
+    },
+    {
+      "name": "GitHub README",
+      "url": "https://github.com/jeroen/curl"
+    },
+    {
+      "name": "r-curl tutorial",
+      "url": "https://www.rdocumentation.org/packages/curl/versions/4.3"
+    },
+    {
+      "name": "r-curl vignette",
+      "url": "https://cran.r-project.org/web/packages/curl/vignettes/intro.html"
+    },
+    {
+      "name": "Package 'curl' - Quick reference",
+      "url": "http://www.sthda.com/english/wiki/r-curl-package-a-modern-and-flexible-web-client-for-r-r-software-and-data-importation"
+    }
+  ],
+  "training": [
+    {
+      "name": "Using R's rvest Package for Web Scraping",
+      "url": "https://www.computerworld.com/article/2926176/using-rs-rvest-package-for-web-scraping.html"
+    },
+    {
+      "name": "R Data Import/Export",
+      "url": "https://cran.r-project.org/doc/manuals/R-data.pdf"
+    }
+  ]
+}

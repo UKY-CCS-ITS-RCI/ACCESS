@@ -1,0 +1,28 @@
+{
+  "Software Name": "xerces-c",
+  "Software Page": {
+    "url": "https://xerces.apache.org/xerces-c/"
+  },
+  "Documentation": [
+    {
+      "url": "https://xerces.apache.org/xerces-c/apiDocs-3/index.html"
+    },
+    {
+      "url": "https://xerces.apache.org/xerces-c/prog-2.html"
+    },
+    {
+      "url": "https://xerces.apache.org/xerces-c/subpages.html"
+    }
+  ],
+  "Tutorials": [
+    {
+      "url": "https://xerces.apache.org/xerces-c/tutorial_intro.html"
+    },
+    {
+      "url": "https://xerces.apache.org/xerces-c/sample-2.html"
+    },
+    {
+      "url": "https://www.ibm.com/support/knowledgecenter/SS9H2Y_7.7.0/com.ibm.dp.xerces.doc/xercestutorial.html"
+    }
+  ]
+}

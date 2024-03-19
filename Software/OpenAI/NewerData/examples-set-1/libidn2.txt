@@ -1,0 +1,44 @@
+Use Case: libidn2 is a free software library that implements Internationalized Domain Names (IDNs, defined in RFC 5890). It is used by various software and systems to support non-ASCII domain names.
+
+Code Details and Examples: 
+
+Code: 
+
+```c
+#include <idn2.h>
+#include <stdio.h>
+
+int main() {
+    char *punycode = NULL;
+    char *utf8 = NULL;
+
+    // Encode an UTF-8 string to Punycode
+    if(IDN2_OK != idn2_lookup_u8((uint8_t *)"EUROPAÄ", &punycode, 0)) {
+        return 1;
+    }
+
+    printf("Punycode version of EUROPAÄ is %s\n", punycode);
+    free(punycode); 
+
+    // Decode a Punycode string to UTF-8
+    if(IDN2_OK != idn2_to_unicode_8zlz((uint8_t *)"xn--europa-674b", &utf8, 0)) {
+        return 1;
+    }
+
+    printf("UTF-8 version of xn--europa-674b is %s\n", utf8);
+    free(utf8);
+
+    return 0;
+}
+```
+
+Above given is the c code snippet that demonstrates basic usage of libidn2 to encode/decode an internationalized domain name. After running this code we should get the following output:
+
+```
+Punycode version of EUROPAÄ is rn--europa-674b
+UTF-8 version of rn--europa-674b is EUROPAÄ
+```
+
+Compilation command: `gcc -o example example.c -lidn2`
+
+Execution command: `./example`

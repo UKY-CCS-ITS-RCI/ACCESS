@@ -1,0 +1,9 @@
+{
+  "Name": "Orca",
+  "SoftwareURL": "https://docs.orca.pet/",
+  "DocumentationURL": "https://orca.readthedocs.io/",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://www.orcachess.org/30-guide-to-using-orca/documenting-orca.html",
+    "Tutorial_2_URL": "https://orca.paleobiodb.org/"
+  }
+}

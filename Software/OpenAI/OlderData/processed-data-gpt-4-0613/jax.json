@@ -1,0 +1,23 @@
+{
+    "software_name": "jax",
+    "software_URL": "https://github.com/google/jax",
+    "documentation_link": "https://jax.readthedocs.io/en/latest/",
+    "tutorial_materials": [
+        {
+            "title": "JAX Quickstart",
+            "url": "https://jax.readthedocs.io/en/latest/notebooks/quickstart.html"
+        },
+        {
+            "title": "JAX 101",
+            "url": "https://jax.readthedocs.io/en/latest/jax-101/index.html"
+        },
+        {
+            "title": "Deep Learning with JAX",
+            "url": "https://flax.readthedocs.io/en/latest/notebooks/jax_for_the_impatient.html"
+        },
+        {
+            "title": "JAX with TensorFlow Datasets",
+            "url": "https://github.com/google/jax#using-tensorflow-datasets"
+        }
+    ]
+}

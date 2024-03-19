@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "YAML": 
+    { 
+      "URL": "https://yaml.org/",
+      "Documentation": "https://learnxinyminutes.com/docs/yaml/",
+      "Tutorials": 
+      [
+        {
+          "YAML tutorial": "https://www.tutorialspoint.com/yaml/index.htm"
+        },
+        {
+          "Learn YAML in Y Minutes": "https://learnxinyminutes.com/docs/yaml/"
+        },
+        {
+          "Getting Started With YAML": "https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/"
+        },
+        {
+          "Intro to YAML: How to Make Your Own Config Files": "https://opensource.com/article/18/7/intro-yaml"
+        }
+      ]
+    }
+  }
+}

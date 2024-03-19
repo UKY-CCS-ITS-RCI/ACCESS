@@ -1,0 +1,24 @@
+{
+  "software": "Intel IPP Cryptography",
+  "software_link": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/ipp.html",
+  "documentation": [
+    {
+      "name": "Intel IPP Documentation",
+      "link": "https://software.intel.com/content/www/us/en/develop/documentation/ipp-cryptography/top.html"
+    },
+    {
+      "name": "Intel IPP Cryptography Developer Reference",
+      "link": "https://software.intel.com/content/www/us/en/develop/documentation/ipp-dev-reference/top/volume-1-signal-and-data-processing/cryptography.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "Intel Documentation - All Tutorials",
+      "link": "https://software.intel.com/content/www/us/en/develop/documentation/get-started-with-ipp/top.html"
+    },
+    {
+      "name": "Crypto-API: Programmers Model for Intel IPP Cryptography",
+      "link": "https://software.intel.com/content/www/us/en/develop/articles/ipp-crypto-api.html"
+    }
+  ]
+}

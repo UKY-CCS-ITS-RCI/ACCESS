@@ -1,0 +1,29 @@
+{
+  "software": {
+    "name": "gimmemotifs",
+    "software_url": "https://gimmemotifs.readthedocs.io/en/stable/",
+    "documentation": "https://gimmemotifs.readthedocs.io/en/stable/contents.html",
+    "training_materials": [
+      {
+        "name": "Introduction to gimmemotifs",
+        "url": "https://gimmemotifs.readthedocs.io/en/stable/introduction.html"
+      },
+      {
+        "name": "Installing gimmemotifs",
+        "url": "https://gimmemotifs.readthedocs.io/en/stable/installation.html"
+      },
+      {
+        "name": "gimmemotifs Tutorial",
+        "url": "https://gimmemotifs.readthedocs.io/en/stable/tutorial.html"
+      },
+      {
+        "name": "Using the command-line interface",
+        "url": "https://gimmemotifs.readthedocs.io/en/stable/cli.html"
+      },
+      {
+        "name": "Using the Python API",
+        "url": "https://gimmemotifs.readthedocs.io/en/stable/api.html"
+      }
+    ]
+  }
+}

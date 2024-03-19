@@ -1,0 +1,10 @@
+{
+  "ucc": {
+    "software_page": "https://www.cs.dartmouth.edu/~jpalmer/cocp/ucc.html",
+    "documentation": "https://www.open-austin.org/learning-library/civic-coding-ucc/",
+    "tutorial_materials": [
+      "https://www.nalco.com/assets/ucc-ro-tutorial-video.pdf",
+      "https://www.cc.gatech.edu/~echow/ipco2002/ucc.pdf"
+    ]
+  }
+}

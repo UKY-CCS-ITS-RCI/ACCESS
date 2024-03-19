@@ -1,0 +1,25 @@
+{
+    "Software": "re2",
+    "Software_Link": "https://github.com/google/re2",
+    "Description": "RE2 is a fast, safe, thread-friendly alternative to regular expressions from Google.",
+    "Documentation": [
+        {
+            "Doc_Link": "https://github.com/google/re2/wiki/Syntax",
+            "Description": "Syntax Description in Official Github Repository"
+        },
+        {
+            "Doc_Link": "https://github.com/google/re2/blob/master/re2/re2.h",
+            "Description": "Header File with Full Implementation Details"
+        }
+    ],
+    "Tutorials_and_Training": [
+        {
+            "Tutorial_Link": "https://mg.pov.lt/blog/using-re2-from-python.html",
+            "Description": "Blog post on using re2 from Python"
+        },
+        {
+            "Tutorial_Link": "https://www.youtube.com/watch?v=ha8gdZ27wFo",
+            "Description": "YouTube Video explanation and usage of RE2"
+        }
+    ]
+}

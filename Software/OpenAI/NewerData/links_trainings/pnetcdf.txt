@@ -1,0 +1,18 @@
+{
+  "software": "pnetcdf",
+  "software_url": "https://parallel-netcdf.github.io/",
+  "documentation": {
+    "title": "pnetcdf Documentation",
+    "url": "https://parallel-netcdf.github.io/wiki/Docs.html"
+  },
+  "tutorials": [
+    {
+      "title": "pnetcdf tutorial",
+      "url": "https://cug.org/proceedings/cug2009_proceedings/includes/files/pap146-file2.pdf"
+    },
+    {
+      "title": "pnetcdf tutorial HPCWire",
+      "url": "https://www.hpcwire.com/off-the-wire/novel-parallel-io-enhancements-contribute-to-scientific-applications/"
+    }
+  ]
+}

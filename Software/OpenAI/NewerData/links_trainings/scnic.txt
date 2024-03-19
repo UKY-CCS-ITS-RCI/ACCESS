@@ -1,0 +1,12 @@
+{
+  "Software": {
+    "Name": "Scnic",
+    "Software_page": "https://github.com/shafferm/SCNIC",
+    "Documentation_links": [
+      "https://scnic.readthedocs.io/"
+    ],
+    "Training_tutorials": [
+      "https://scnic.readthedocs.io/en/latest/tutorial.html"
+    ]
+  }
+}

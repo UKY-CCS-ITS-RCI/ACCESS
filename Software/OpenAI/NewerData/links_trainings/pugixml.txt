@@ -1,0 +1,13 @@
+{
+  "pugixml": {
+    "softwareUrl": "https://pugixml.org/",
+    "documentationUrl": "https://pugixml.org/docs/manual.html",
+    "trainingMaterials": [
+      {
+        "tutorial1": "https://code.luasoftware.com/tutorials/c-cpp/xml-parsing-using-pugixml/",
+        "tutorial2": "https://www.tutorialspoint.com/pugixml/index.htm",
+        "tutorial3": "https://github.com/zeux/pugixml/blob/master/docs/manual.md"
+      }
+    ]
+  }
+}

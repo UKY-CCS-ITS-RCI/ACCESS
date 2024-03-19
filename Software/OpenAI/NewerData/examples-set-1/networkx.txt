@@ -1,0 +1,46 @@
+Use Case: Create and manipulate complex networks, calculate shortest paths, and find cluster scores
+
+Code details and examples: Code
+
+1. Simple Input File (text file: input1.txt...)
+
+* Elements in the file are comma separated edges of the graph
+```
+A,B
+B,C
+C,D
+D,E
+E,F
+```
+
+2.  NetworkX python library example usage 
+
+```python
+import networkx as nx
+
+G = nx.Graph()
+
+# Read edge list from input file, create graph
+with open('input1.txt', 'r') as f:
+    for line in f:
+        edge = line.strip().split(',')
+        G.add_edge(edge[0], edge[1])
+
+# printing nodes of the graph 
+print("Nodes of graph: ", G.nodes()) 
+
+# printing edges of the graph 
+print("Edges of graph: ", G.edges()) 
+
+# Calculate shortest path
+print("Shortest Path from A to E: ", nx.shortest_path(G, source='A', target='E')) 
+
+# Calculate clustering
+print("Clustering: ", nx.clustering(G)) 
+```
+
+The above python program uses Networkx to build a graph from an edge list defined in a text file. It then computes and prints the nodes and edges of the graph, finds the shortest path from a given source and target node, and computes the clustering of the graph.
+To run the python file you can use: 
+```
+python filename.py
+```

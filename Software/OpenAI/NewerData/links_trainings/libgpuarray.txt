@@ -1,0 +1,22 @@
+{
+"libgpuarray": {
+  "SoftwarePage": "http://deeplearning.net/software/libgpuarray/",
+  "Documentation": "http://deeplearning.net/software/libgpuarray/",
+  "TrainingMaterials": {
+    "Tutorials": [
+      {
+        "Title": "libgpuarray: Efficient pure Python computations on the GPU",
+        "URL": "https://python.g-node.org/python-summerschool-2011/_media/materials/cuda/libgpuarray-tutorial.pdf"
+      },
+      {
+        "Title": "libgpuarray installation guide",
+        "URL": "https://stackoverflow.com/questions/39898149/libgpuarray-how-to-build-from-source-and-specifically-what-is-meant-by-prefix"
+      },
+      {
+        "Title": "Building libgpuarray",
+        "URL": "https://groups.google.com/forum/#!topic/theano-users/BSMQgM8cutQ"
+      }
+    ]
+  }
+}
+}

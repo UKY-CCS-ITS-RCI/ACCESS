@@ -1,0 +1,32 @@
+{
+  "software_name": "iqtree",
+  "software_page": "http://www.iqtree.org/",
+  "documentation": [
+    {
+      "name": "User Guide",
+      "link": "http://www.iqtree.org/doc/IQ-TREE"
+    },
+    {
+      "name": "Tutorial",
+      "link": "http://www.iqtree.org/doc/Tutorial"
+    },
+    {
+      "name": "Frequently Asked Questions",
+      "link": "http://www.iqtree.org/doc/Frequently-Asked-Questions"
+    },
+    {
+      "name": "Command Reference",
+      "link": "http://www.iqtree.org/doc/Command-Reference"
+    }
+  ],
+  "training": [
+    {
+      "name": "ModelFinder Plus tutorial",
+      "link": "https://academic.oup.com/mbe/article/35/5/1022/4844436"
+    },
+    {
+      "name": "IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7167674/"
+    }
+  ]
+}

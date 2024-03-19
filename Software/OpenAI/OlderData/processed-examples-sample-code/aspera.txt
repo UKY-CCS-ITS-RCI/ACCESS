@@ -1,0 +1,7 @@
+Use Case: High-speed data transfer.
+Code details and examples: 
+- Aspera allows high-speed data transfer over the internet. 
+- An example command to transfer a file using Aspera:
+```
+ascp user_name@host_name:remote_file local_directory
+```

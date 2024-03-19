@@ -1,0 +1,30 @@
+{
+  "software": {
+    "name": "nvidia",
+    "link": "https://www.nvidia.com/en-us/",
+    "documentation": [
+      {
+        "name": "Nvidia Documentation",
+        "link": "https://docs.nvidia.com/"
+      }
+    ],
+    "tutorials": [
+      {
+        "name": "NVIDIA Developer",
+        "link": "https://developer.nvidia.com/"
+      },
+      {
+        "name": "NVIDIA Deep Learning Institute",
+        "link": "https://www.nvidia.com/en-us/deep-learning-ai/education/"
+      },
+      {
+        "name": "NVIDIA CUDA Toolkit Documentation",
+        "link": "https://docs.nvidia.com/cuda/"
+      },
+      {
+        "name": "NVIDIA Tutorial YouTube Channel",
+        "link": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOZqKzgQo3VU5AnVjN9GxVQr"
+      }
+    ]
+  }
+}

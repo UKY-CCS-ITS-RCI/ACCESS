@@ -1,0 +1,11 @@
+{
+  "software": "Clever-toolkit",
+  "webpage": "https://github.com/Clever/clever-toolkit",
+  "documentation": "https://github.com/Clever/clever-toolkit/blob/master/README.md",
+  "tutorials": [
+    {
+      "howTo": "https://github.com/Clever/clever-toolkit#how-to-structure-a-clever-test",
+      "exampleTests": "https://github.com/Clever/clever-toolkit/tree/master/examples/tests"
+    }
+  ]
+}

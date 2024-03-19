@@ -1,0 +1,21 @@
+{
+  "Circlator": {
+    "Software_page": "https://sanger-pathogens.github.io/circlator/",
+    "Documentation": [
+      {
+        "Name": "GitHub Documents",
+        "URL": "https://github.com/sanger-pathogens/circlator"
+      }
+    ],
+    "Tutorial_and_Training_Materials": [
+      {
+        "Name": "BioStars - A Guide to Circlator",
+        "URL": "https://www.biostars.org/p/176150/"
+      },
+      {
+        "Name": "Slideshare - Practical: Assembly improvement",
+        "URL": "https://www.slideshare.net/MicrobialGenomics/practical-assembly-improvement"
+      }
+    ]
+  }
+}

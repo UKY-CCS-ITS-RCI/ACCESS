@@ -1,0 +1,9 @@
+{
+    "Software": "BLIS",
+    "Website": "https://github.com/flame/blis",
+    "Documentation": "https://github.com/flame/blis/wiki",
+    "Tutorial_and_Training": [
+        "https://github.com/flame/blis/wiki/ConfigurationGuide",
+        "https://github.com/flame/blis/wiki/InstallationGuide"
+    ]
+}

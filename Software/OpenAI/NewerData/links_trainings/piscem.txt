@@ -1,0 +1,8 @@
+{
+"Piscem": {
+  "Software Page": "https://piscem-project.github.io/",
+  "Documentation": "https://github.com/piscem-project/piscem",
+  "Tutorial": "N/A",
+  "Training Material": "N/A"
+  }
+}

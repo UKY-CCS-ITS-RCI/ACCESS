@@ -1,0 +1,49 @@
+Use Case: libffi is a supporting package that provides a portable, high level programming interface to various calling conventions in C. It can be used in scenarios where you need a bridge between different programming languages, for instance calling C routines from higher language like Python.
+
+Code details and examples:
+
+Code:
+
+Here is an example of using `libffi` to call the `puts` function from the C Standard Library. You will need a C file and a Python file.
+
+First, the C file. This one is written to be included (not compiled on its own). Call this `func.c`:
+
+```c
+#include <stdio.h>
+
+void print_hello(void) {
+  puts("Hello, world!");
+}
+```
+
+Make a shared object `libfunc.so` using the C file `func.c`:
+
+```shell
+$ gcc -shared -o libfunc.so func.c
+```
+
+Next the Python file. This one uses `ctypes` with libffi to call our `puts` function from `libfunc.so`. Call this file `call_func.py`:
+
+```python
+import ctypes
+
+# Load the shared object into ctypes
+libfunc = ctypes.CDLL('./libfunc.so')
+
+# Provide the necessary argument type information
+# In this case, no arguments are needed
+libfunc.print_hello.argtypes = []
+
+# Call the function
+libfunc.print_hello()
+```
+
+Command to run:
+
+```shell
+$ python call_func.py
+```
+
+You'll then see `Hello, world!` printed to STDOUT.
+
+In terms of input files, this example only involves source code files (one in C, one in Python). The C file outlines a function `print_hello()` and the Python file uses `ctypes` (which utilises libffi) to load the shared library created from the C file and call that function. No additional specifications or formats are needed, although in more advanced use cases, the C function might accept arguments for which libffi needs correct type hinting.

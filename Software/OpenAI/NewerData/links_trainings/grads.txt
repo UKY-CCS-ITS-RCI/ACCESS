@@ -1,0 +1,23 @@
+{
+  "software_name": "GRADS",
+  "software_url": "http://cola.gmu.edu/grads/",
+  "documentation_url": "http://cola.gmu.edu/grads/gadoc/",
+  "tutorial_materials": [
+    {
+      "tutorial_name": "GrADS Tutorial by COLA",
+      "tutorial_url": "http://cola.gmu.edu/grads/gadoc/tutorial.php"
+    },
+    {
+      "tutorial_name": "GrADS Tutorial by Center for Ocean-Land-Atmosphere Studies",
+      "tutorial_url": "https://cola.gmu.edu/grads/tutorials/"
+    },
+    {
+      "tutorial_name": "GrADS Scripting Tutorial",
+      "tutorial_url": "http://gradsusr.org/pipermail/gradsusr/2011-December/033080.html"
+    },
+    {
+      "tutorial_name": "GrADS Basic Usage Tutorial",
+      "tutorial_url": "http://apollowebworks.com/grads/"
+    }
+  ]
+}

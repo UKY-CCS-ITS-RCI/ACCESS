@@ -1,0 +1,14 @@
+{
+  "Software Name": "tensorboardx",
+  "Software Page": "https://pypi.org/project/tensorboardX/",
+  "Related Links": {
+    "Documentation": "https://tensorboardx.readthedocs.io/en/latest/",
+    "Tutorials and Training Materials": [
+      "https://github.com/lanpa/tensorboardX",
+      "https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html",
+      "https://pytorch.org/docs/stable/tensorboard.html",
+      "https://www.tensorflow.org/tensorboard/get_started",
+      "https://www.youtube.com/watch?v=pSexXMdruFM"
+    ]
+  }
+}

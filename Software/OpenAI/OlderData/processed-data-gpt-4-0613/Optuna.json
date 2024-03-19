@@ -1,0 +1,10 @@
+{
+  "Name": "Optuna",
+  "SoftwareURL": "https://optuna.org/",
+  "DocumentationURL": "https://optuna.readthedocs.io/en/stable/",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://optuna.readthedocs.io/en/stable/tutorial/index.html",
+    "Tutorial_2_URL": "https://www.youtube.com/watch?v=J_aymk4YXhg",
+    "Tutorial_3_URL": "https://www.kaggle.com/carlolepelaars/tutorial-optuna-the-best-hyperparameter-optimizer"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "debreak": {
+    "software_page": "https://github.com/GraphAlchemist/DeBreak",
+    "documentation": "https://github.com/GraphAlchemist/DeBreak#readme",
+    "training_and_tutorial_materials": []
+  }
+}

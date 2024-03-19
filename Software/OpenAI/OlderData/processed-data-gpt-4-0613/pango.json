@@ -1,0 +1,9 @@
+{
+  "Name": "Pango",
+  "SoftwareURL": "http://www.pango.org/",
+  "DocumentationURL": "https://developer.gnome.org/pango/stable/",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://developer.gnome.org/pango-tutorial/stable/tutorial.html",
+    "Tutorial_2_URL": "https://www.cairographics.org/tutorial/"
+  }
+}

@@ -1,0 +1,55 @@
+Use Case: GROMACS is used for molecular dynamics simulation, specifically for bio-molecular systems. 
+
+Code details and examples: Code 
+
+To run a GROMACS simulation, you need to have a topology file (.top), a coordinates file (.gro), a molecular dynamics parameters file (.mdp) and possibly an index file (.ndx). 
+
+Here are the basic steps for a simple simulation. 
+
+1. Create a topology file. You could start with an example from the GROMACS site, which includes specifications for the types of atoms, bonds, angles and dihedrals in your system:
+
+```
+[ moleculetype ]
+; Name            nrexcl
+Protein                 3
+
+[ atoms ]
+;   nr       type  resnr residue  atom   cgnr     charge       mass  typeB    chargeB      massB
+     1   amber99_1      1    ALA      N      1   -0.4157      14.01   ; qtot -0.416
+     2   amber99_2      1    ALA      H      1    0.2719      1.008   ; qtot -0.144
+```
+
+2. Create a coordinates file. This defines the initial positions and velocities of your atoms:
+
+```
+1ALA
+    1ALA     N    1   1.064   1.509   1.597  0.0000  0.0000  0.0000
+    1ALA     H    2   1.092   1.447   1.634  0.0000  0.0000  0.0000
+```
+
+3. Create a .mdp file. This contains the specifications for the MD run, such as the temperature, pressure, time step etc:
+
+```
+; Run parameters
+integrator               = md
+nsteps                   = 5000
+dt                       = 0.002
+
+; Output control
+nstxout                  = 500
+nstvout                  = 500
+nstenergy                = 500
+nstlog                   = 500
+```
+
+4. If required, create an index file. This might be used to specify groups of atoms for analysis or to set up restraints. 
+
+5. Once you have your input files, you would typically first preprocess your topology (.top) and parameters (.mdp) into a binary run input file (.tpr) using the `grompp` command:
+
+Command: `gmx grompp -f md.mdp -c system.gro -p system.top -o run.tpr`
+
+6. This .tpr file is then used as input for the actual simulation run with the `mdrun` command:
+
+Command: `gmx mdrun -v -deffnm run`
+
+In this case, both commands are executed from the terminal. Note that GROMACS commands may start with "gmx" or "gmx_mpi", depending on your GROMACS installation.

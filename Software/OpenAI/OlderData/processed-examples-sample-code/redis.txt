@@ -1,0 +1,37 @@
+Use Case: In-memory data structure store
+
+Code details and examples:
+Sample input file (input.txt):
+```
+SET key1 value1
+GET key1
+SET key2 value2
+GET key2
+```
+
+Sample code (Python script using redis-py library):
+```python
+import redis
+
+# Connect to Redis server
+r = redis.Redis(host='localhost', port=6379)
+
+# Read and execute commands from input file
+with open('input.txt', 'r') as file:
+    for line in file:
+        parts = line.strip().split()
+        command = parts[0]
+        if command == 'SET':
+            key = parts[1]
+            value = parts[2]
+            r.set(key, value)
+        elif command == 'GET':
+            key = parts[1]
+            result = r.get(key)
+            print(result.decode('utf-8'))
+```
+
+Command to run the script:
+```
+python script.py
+```

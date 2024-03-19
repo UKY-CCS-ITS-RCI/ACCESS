@@ -1,0 +1,22 @@
+{
+  "Software Name": "r-annotationdbi",
+  "Details": {
+    "Software Link": "https://bioconductor.org/packages/release/bioc/html/AnnotationDbi.html",
+    "Documentation": [
+      {
+        "Name": "Package Documentation",
+        "URL": "https://www.bioconductor.org/packages/release/bioc/vignettes/AnnotationDbi/inst/doc/AnnotationDbi.pdf"
+      },
+      {
+        "Name": "AnnotationDbi Manual",
+        "URL": "https://bioconductor.org/packages/release/bioc/manuals/AnnotationDbi/man/AnnotationDbi.pdf"
+      }
+    ],
+    "Tutorials": [
+      {
+        "Name": "AnnotationDbi Tutorial",
+        "URL": "http://www.bioconductor.org/help/workflows/annotation/AnnotationDbi/"
+      }
+    ]
+  }
+}

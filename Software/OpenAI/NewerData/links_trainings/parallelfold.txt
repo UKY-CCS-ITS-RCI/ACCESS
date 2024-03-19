@@ -1,0 +1,14 @@
+{
+  "Software Name": "ParallelFold",
+  "Software Type": "Bioinformatics Tool",
+  "Links": {
+    "Software Page": "https://github.com/eternagame/ParallelFold",
+    "Documentation": "https://github.com/eternagame/ParallelFold#readme",
+    "Tutorial Materials": {
+      "Readme on GitHub": "https://github.com/eternagame/ParallelFold#readme",
+      "RNAfold Theory and Practice": "http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi",
+      "EteRNA Project": "https://eternagame.org/",
+      "Origami Game - How EteRNA Works": "https://www.youtube.com/watch?v=i0KJ2vFxZuc"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "Software": "py-jupyterlab",
+    "Link": "https://jupyterlab.readthedocs.io/en/latest/",
+    "Additional_Information": {
+        "Official_Documentation": "https://jupyterlab.readthedocs.io/en/latest/getting_started/overview.html",
+        "Tutorials_and_Training_Materials": [
+            {
+                "Name": "JupyterLab Quick Start Guide",
+                "Link": "https://jupyterlab.readthedocs.io/en/latest/getting_started/quickstart.html"
+            },
+            {
+                "Name": "Basic Features of JupyterLab",
+                "Link": "https://jupyterlab.readthedocs.io/en/latest/user/interface.html"
+            },
+            {
+                "Name": "JupyterLab Training Video",
+                "Link": "https://www.youtube.com/watch?v=7wfPqAyYADY"
+            },
+            {
+                "Name": "JupyterLab Tutorial on DataCamp",
+                "Link": "https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "software_info":
+  {
+    "name": "pandas",
+    "website": "https://pandas.pydata.org",
+    "documentation": "https://pandas.pydata.org/pandas-docs/stable/",
+    "tutorial_and_training_materials": 
+    [
+      {
+        "title": "10 minutes to pandas",
+        "url": "https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html"
+      },
+      {
+        "title": "An introduction to Pandas",
+        "url": "https://realpython.com/tutorials/pandas/"
+      },
+      {
+        "title": "Pandas tutorial: Data analysis with Python",
+        "url": "https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python"
+      },
+      {
+        "title": "Introduction to pandas",
+        "url": "https://introduction-to-python.readthedocs.io/05pandas/index.html"
+      }
+    ]
+  }
+}

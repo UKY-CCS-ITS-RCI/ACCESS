@@ -1,0 +1,8 @@
+{
+  "software": "Tiara",
+  "website": "https://tiara.gmi.ac.cn/tiara/main.htm",
+  "documentation": "No documented information on the web.",
+  "tutorials": [
+     "No available tutorial information on the web."
+  ]
+}

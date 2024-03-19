@@ -1,0 +1,19 @@
+{
+  "software_name": "momi",
+  "software_URL": "https://github.com/jeromekelleher/demographic-modeling",
+  "documentation_URL": "https://momi.readthedocs.io/en/latest/",
+  "training_materials": [
+    {
+      "material_name": "Quick Start",
+      "material_URL": "https://momi.readthedocs.io/en/latest/quickstart.html"
+    },
+    {
+      "material_name": "Tutorial for running momi",
+      "material_URL": "https://momi.readthedocs.io/en/latest/coevolity-tutorial.html"
+    },
+    {
+      "material_name": "Demographic history inference",
+      "material_URL": "https://momi.readthedocs.io/en/latest/inference.html"
+    }
+  ]
+}

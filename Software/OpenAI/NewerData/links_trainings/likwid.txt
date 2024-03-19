@@ -1,0 +1,15 @@
+{
+  "Software": "likwid",
+  "SoftwarePage": "https://github.com/RRZE-HPC/likwid",
+  "Documentation": "https://github.com/RRZE-HPC/likwid/wiki",
+  "TrainingMaterials": [
+    {
+      "Title": "likwid Training by XSEDE",
+      "URL": "https://www.xsede.org/for-users/software/-/wiki/Main/LIKWID"
+    },
+    {
+      "Title": "likwid on Github Pages",
+      "URL": "https://hpc-wiki.info/hpc/Likwid"
+    }
+  ]
+}

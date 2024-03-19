@@ -1,0 +1,54 @@
+Use Case: Use of Libfabric for message-passing between nodes and managing multiple network connections within HPC environments. Its aim is to provide a low-latency and high bandwidth interface to meet the needs of the sophisticated network applications of today.
+
+Code details and examples: 
+
+Code:
+
+Libfabric does not ship with sample code. Typically, code using libfabric will make use of the libfabric API, which provides functions for setting up and managing fabrics (network topologies), domains (isolated communication spaces), ep’s (endpoints for data transfer), cq’s (completion queues for async operations), and other network resources. An example of an endpoint setup and message send using the libfabric API might look like this:
+
+```c
+#include <rdma/fi_domain.h>
+#include <rdma/fi_endpoint.h>
+#include <rdma/fi_cm.h>
+#include <rdma/fi_errno.h>
+
+// setup hints, info
+struct fi_info *hints, *info;
+
+hints = fi_allocinfo();
+hints->ep_attr->type = FI_EP_RDM;          // reliable datagrams
+hints->caps = FI_MSG;                      // messaging capability
+hints->domain_attr->mr_mode = FI_MR_LOCAL; // local memory registration
+
+// get provider
+if (fi_getinfo(FI_VERSION(1,5), NULL, NULL, 0, hints, &info) != 0) {
+  fprintf(stderr, "Could not get provider info\r\n");
+  exit(1);
+}
+
+// setup domain
+struct fid_fabric *fabric;
+struct fid_domain *domain;
+fi_fabric(info->fabric_attr, &fabric, NULL);
+fi_domain(fabric, info, &domain, NULL);
+
+// setup endpoint
+struct fid_ep *ep;
+fi_endpoint(domain, info, &ep, NULL);
+
+// set up send buffer
+void *sendbuf;
+fi_mr_reg(domain, sendbuf, bufsize, FI_SEND, 0, 0, 0, &mr, NULL);
+
+// send a message
+fi_send(ep, sendbuf, sendlen, fi_mr_desc(mr), 0, &context);
+```
+
+Command to run:
+
+gcc -o myprogram myprogram.c -lfabric
+
+./myprogram
+
+Inputs: C source files with API calls to libfabric.
+Outputs: Any information sent/received over the network using the libfabric endpoints.

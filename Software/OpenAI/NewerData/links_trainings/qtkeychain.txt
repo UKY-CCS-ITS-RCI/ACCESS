@@ -1,0 +1,14 @@
+{
+  "Software Name": "qtkeychain",
+  "Official Website": "https://github.com/frankosterfeld/qtkeychain",
+  "Documentation": {
+    "GitHub Repository": "https://github.com/frankosterfeld/qtkeychain",
+    "GitHub Wiki": "https://github.com/frankosterfeld/qtkeychain/wiki",
+    "Developer Documentation": "https://www.freedesktop.org/wiki/Software/qtkeychain/"
+  },
+  "Tutorials and Training": {
+    "Learning Resources": "https://docs.microsoft.com/en-us/windows/uwp/security/key-credentials",
+    "GitHub Issues": "https://github.com/frankosterfeld/qtkeychain/issues",
+    "Qt Documentation": "https://doc.qt.io/qt-5/qkeychain.html"
+  }
+}

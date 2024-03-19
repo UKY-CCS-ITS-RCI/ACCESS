@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Name": "dot",
+    "Official Page": "https://graphviz.org/",
+    "Documentation": "https://graphviz.org/documentation/",
+    "Training and Tutorials": [
+      "https://graphviz.gitlab.io/_pages/Documentation/dotguide.pdf",
+      "https://riptutorial.com/graphviz",
+      "https://learn.g2.com/graphviz",
+      "https://monashbioinformaticsplatform.github.io/2017-12-08-network-analysis-handout-with-graphviz.html"
+    ]
+  }
+}

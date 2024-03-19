@@ -1,0 +1,28 @@
+{
+  "Software Name": "SignalP6",
+  "Software Link": "http://www.cbs.dtu.dk/services/SignalP-6.0/",
+  "Documentation": [
+    {
+      "name" : "Software Description",
+      "url" : "http://www.cbs.dtu.dk/services/SignalP-6.0/#:~:text=SignalP%206.0%20predicts%20the%20presence,section%20for%20further%20explanation%20details."
+    },
+    {
+      "name" : "Tutorial for Sequence Submission",
+      "url" : "https://services.healthtech.dtu.dk/submission.php"
+    }
+  ],
+  "Training and Tutorials": [
+    {
+      "name" : "Bioinformatics Tutorials",
+      "url" : "https://www.bioinformatics.org/tutorial/"
+    },
+    {
+      "name" : "Protein Signal Processing Training",
+      "url" : "https://www.proteinprophet.com/tutorial-Submitting_to_SignalP.html"
+    },
+    {
+      "name" : "Bioinformatics Tools and Databases",
+      "url" : "https://www.coursera.org/specializations/bioinformatics"
+    }
+  ]
+}

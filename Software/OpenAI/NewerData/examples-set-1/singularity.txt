@@ -1,0 +1,34 @@
+Use Case: Use Singularity for running reproducible scientific analyses in a portable software container.
+
+Code details and examples: Code
+
+To use Singularity, you need a Singularity Image File (SIF) file. SIF files are single-file binary representations of the container and its contents. Consider that we have a Singularity image named "my_image.sif".
+
+```bash
+# Sample command to run a shell within the container
+singularity shell my_image.sif
+```
+
+To run a specific command within the container, use:
+
+```bash
+singularity exec my_image.sif ls /data
+```
+
+For scripts or applications within a SIF, the Singularity run command can be used:
+
+```bash
+singularity run my_image.sif
+```
+
+For running MPI applications:
+
+```bash
+mpirun -np 20 singularity exec my_image.sif ./my_mpi_application
+```
+
+Specifications and name of required input files depend on the scientific application you have chosen to run within the Singularity container.
+
+Regarding input file formatting, it would depend on the contained program. Singularity itself doesn't require any specific input file or format. It simply provides a contained and reproducible environment in which to run your scientific applications.
+
+Note: For creating your own SIF files with a specific environment, Singularity takes a specification file (a text file named Singularity) as input.

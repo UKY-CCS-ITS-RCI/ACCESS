@@ -1,0 +1,10 @@
+{
+    "pdtoolkit": {
+        "software_page": "https://www.cs.uoregon.edu/research/pdtoolkit/",
+        "documentation": "https://www.cs.uoregon.edu/research/pdt/documentation.php",
+        "tutorials_and_training": [
+            "https://www.cs.uoregon.edu/research/pdt/documentation.php",
+            "https://web.njit.edu/~ding/software/tau/PDTutorial/web/"
+        ]
+    }
+}

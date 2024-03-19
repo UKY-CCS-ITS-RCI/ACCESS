@@ -1,0 +1,9 @@
+{
+  "software": "NVIDIA HPC SDK",
+  "software_url": "https://developer.nvidia.com/hpc-sdk",
+  "documentation_url": "https://docs.nvidia.com/hpc-sdk/hpc-sdk-user-guide/",
+  "tutorial_urls": [
+    "https://developer.nvidia.com/blog/introducing-the-nvidia-hpc-sdk/",
+    "https://forums.developer.nvidia.com/t/nvidia-hpc-sdk-webinars-a-six-part-series/129555"
+  ]
+}

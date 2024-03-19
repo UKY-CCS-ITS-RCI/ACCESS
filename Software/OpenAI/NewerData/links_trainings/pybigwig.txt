@@ -1,0 +1,12 @@
+{
+  "Software": "pyBigWig",
+  "Website": "https://github.com/dpryan79/pyBigWig",
+  "Documentation": "https://pybigwig.readthedocs.io/en/latest/",
+  "Tutorials and Training Materials": [
+    {
+      "Tutorial1": "https://webs.iiitd.edu.in/raghava/ccpdb/tutorials.php",
+      "Tutorial2": "https://bioimagingcore.be/wiki/index.php/IGV_bigWig",
+      "Tutorial3": "https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-viz/tutorial.html"
+    }
+  ]
+}

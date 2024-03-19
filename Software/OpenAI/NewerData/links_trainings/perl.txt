@@ -1,0 +1,17 @@
+{
+  "software_name": "Perl",
+  "official_website": "https://www.perl.org",
+  "additional_resources": {
+    "documentation": "https://perldoc.perl.org",
+    "tutorials": {
+      "tutorial_1": "https://www.tutorialspoint.com/perl/index.htm",
+      "tutorial_2": "https://beginnersbook.com/2017/05/perl-tutorial/",
+      "tutorial_3": "https://www.learn-perl.org/"
+    },
+    "training_materials": {
+      "training_material_1": "https://perlresource.com/courses/introductory-perl-course/",
+      "training_material_2": "https://www.codecademy.com/learn/learn-perl",
+      "training_material_3": "https://www.udemy.com/topic/perl/"
+    }
+  }
+}

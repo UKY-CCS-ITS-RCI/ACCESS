@@ -1,0 +1,10 @@
+{
+  "software_name": "OpenFold",
+  "software_page": "https://github.com/OpenFold",
+  "documentation": "https://openfold.readthedocs.io/",
+  "tutorial_links": {
+    "Tutorial 1": "https://rosettacode.org/wiki/OpenFold",
+    "Training Material 1": "https://www.openfoldproject.org/openfold/tutorial",
+    "Training Material 2": "https://www.openfoldproject.org/openfold/tutorial/advanced"
+  }
+}

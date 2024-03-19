@@ -1,0 +1,10 @@
+{
+  "software_name": "py-cycler",
+  "software_URL": "https://pypi.org/project/Cycler/",
+  "documentation_URL": "https://matplotlib.org/cycler/",
+  "tutorial_links": [
+    "https://matplotlib.org/stable/users/whats_new.html#major-enhancements",
+    "https://jakevdp.github.io/PythonDataScienceHandbook/04.10-customizing-ticks.html",
+    "https://matplotlib.org/stable/gallery/style_sheets/cycler_demo.html"
+  ]
+}

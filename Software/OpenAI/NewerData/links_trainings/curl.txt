@@ -1,0 +1,24 @@
+{
+  "name" : "Curl",
+  "software_page" : "https://curl.se/",
+  "documentation" : [
+    {
+      "name" : "Curl Docs",
+      "url" : "https://curl.se/docs/"
+    }
+  ],
+  "tutorials" : [
+    {
+      "name" : "Curl Tutorial - Guru99",
+      "url" : "https://www.guru99.com/curl-command-tutorial.html"
+    },
+    {
+      "name" : "Curl Tutorial - Tutorialspoint",
+      "url" : "https://www.tutorialspoint.com/curl/index.htm"
+    },
+    {
+      "name" : "Introduction to Curl - Linuxize",
+      "url" : "https://linuxize.com/post/curl-command-examples/"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Software Name": "hipsycl",
+  "Website Link": "https://github.com/illuhad/hipSYCL",
+  "Documentation Link": "https://github.com/illuhad/hipSYCL/wiki",
+  "Tutorial & Training Materials": [
+    {
+      "Link": "https://hipsycl.readthedocs.io/en/latest/",
+      "Title": "hipSYCL User Manual"
+    },
+    {
+      "Link": "https://github.com/illuhad/hipSYCL/blob/develop/doc/hipSYCL_targets.md",
+      "Title": "hipSYCL Targets Introduction"
+    },
+    {
+      "Link": "https://github.com/illuhad/hipSYCL/tree/develop/examples",
+      "Title": "hipSYCL Examples"
+    }
+  ]
+}

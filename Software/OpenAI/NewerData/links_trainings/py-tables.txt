@@ -1,0 +1,14 @@
+{
+  "softwareName": "py-tables",
+  "softwarePage": "https://www.pytables.org/",
+  "documentation": "https://www.pytables.org/usersguide/",
+  "tutorials": [
+    "https://www.pytables.org/usersguide/tutorials.html",
+    "https://www.pytables.org/tutorial/index.html",
+    "https://pythonhosted.org/tables/tutorial1.html"
+  ],
+  "trainingMaterial": [
+    "https://www.pytables.org/cookbook/",
+    "https://www.pytables.org/FrequentlyAskedQuestions.html"
+  ]
+}

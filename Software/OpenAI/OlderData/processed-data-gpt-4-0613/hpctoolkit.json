@@ -1,0 +1,10 @@
+{
+  "softwareName": "HPCToolkit",
+  "links": {
+    "softwarePage": "http://hpctoolkit.org/",
+    "documentation": "http://hpctoolkit.org/documentation.html",
+    "tutorial1": "http://hpctoolkit.org/tutorials.html",
+    "tutorial2": "https://wgropp.cs.illinois.edu/courses/cs598-s15/lectures/lecture18.pdf",
+    "tutorial3": "http://hpctoolkit.org/manual/HPCToolkit-users-manual.pdf"
+  }
+}

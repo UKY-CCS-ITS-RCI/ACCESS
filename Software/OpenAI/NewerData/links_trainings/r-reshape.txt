@@ -1,0 +1,27 @@
+{
+  "Software": "r-reshape",
+  "Website": "https://cran.r-project.org/web/packages/reshape/index.html",
+  "Documentation": "https://cran.r-project.org/web/packages/reshape/reshape.pdf",
+  "Tutorials": [
+    {
+      "URL": "https://seananderson.ca/2013/10/19/reshape.html",
+      "Title": "Reshape Tutorial by Sean Anderson"
+    },
+    {
+      "URL": "https://rstudio-pubs-static.s3.amazonaws.com/16518_2527807cf14a4a7eab56d155040ed7ab.html",
+      "Title": "Reshaping data with the reshape Package in RStudio"
+    },
+    {
+      "URL": "https://www.datacamp.com/community/blog/r-reshape2-tutorial",
+      "Title": "R reshape2 Tutorial by DataCamp"
+    },
+    {
+      "URL": "https://www.stat.berkeley.edu/~s133/reshape.html",
+      "Title": "Reshaping data in R - the reshape package"
+    },
+    {
+      "URL": "https://www.youtube.com/watch?v=zx55UIsZpW0",
+      "Title": "YouTube - Reshape package in R - Tidying up messy datasets"
+    }
+  ]
+}

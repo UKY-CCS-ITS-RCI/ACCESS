@@ -1,0 +1,10 @@
+{
+  "softwareName": "GEOS",
+  "links": {
+    "softwarePage": "https://trac.osgeo.org/geos/",
+    "documentation": "https://geos.osgeo.org/doxygen/",
+    "tutorial1": "https://geos.osgeo.org/doxygen/geos-1.html",
+    "tutorial2": "https://geos.osgeo.org/doxygen/tutorial.html",
+    "tutorial3": "https://www.youtube.com/watch?v=N4VhrWSJxHk"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "Platon",
+  "SoftwareURL": "https://platon.science/",
+  "DocumentationURL": "https://platon.readthedocs.io/",
+  "TutorialLinks": [
+    {
+      "TutorialName": "Platon Quickstart Guide",
+      "TutorialURL": "https://platon.readthedocs.io/en/latest/quickstart.html"
+    },
+    {
+      "TutorialName": "Platon Tutorials on GitHub",
+      "TutorialURL": "https://github.com/ideasrule/platon/tree/master/docs/tutorials"
+    }
+  ]
+}

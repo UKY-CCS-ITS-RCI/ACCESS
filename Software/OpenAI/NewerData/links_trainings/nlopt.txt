@@ -1,0 +1,13 @@
+{
+  "Software": "nlopt",
+  "Details": [
+    {
+      "Website": "https://nlopt.readthedocs.io/en/latest/",
+      "Documentation": "https://nlopt.readthedocs.io/en/latest/NLopt_Introduction/",
+      "Tutorials": [
+        "https://nlopt.readthedocs.io/en/latest/NLopt_Tutorial/",
+        "https://nlopt.readthedocs.io/en/latest/NLopt_Algorithms/"
+      ]
+    }
+  ]
+}

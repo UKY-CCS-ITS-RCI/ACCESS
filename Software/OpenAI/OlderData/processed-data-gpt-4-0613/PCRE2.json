@@ -1,0 +1,20 @@
+{
+  "name": "PCRE2",
+  "description": "Revised API for the Perl Compatible Regular Expressions (PCRE) library, which is a set of functions that implement regular expression pattern matching.",
+  "url": "https://www.pcre.org/",
+  "documentation": "https://www.pcre.org/current/doc/html/",
+  "training_materials": [
+    {
+      "name": "PCRE2 Tutorial",
+      "url": "https://www.pcre.org/current/doc/html/pcre2tutorial.html"
+    },
+    {
+      "name": "PCRE2 Syntax",
+      "url": "https://www.pcre.org/current/doc/html/pcre2syntax.html"
+    },
+    {
+      "name": "PCRE2 - API Functions",
+      "url": "https://www.pcre.org/current/doc/html/pcre2api.html"
+    }
+  ]
+}

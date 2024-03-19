@@ -1,0 +1,18 @@
+{
+  "name": "GetDist",
+  "description": "A python package for analysing Monte Carlo samples, including correlation plots, best-fit parameters and error contours.",
+  "versions": "1.1.0",
+  "software_URL": "https://getdist.readthedocs.io/",
+  "documentation_URL": "https://getdist.readthedocs.io/en/latest/",
+  "conda_package": "https://anaconda.org/conda-forge/getdist",
+  "training_and_tutorial_materials": [
+    {
+      "name": "GitHub Examples",
+      "URL": "https://github.com/cmbant/getdist/tree/master/examples"
+    },
+    {
+      "name": "Python notebook tutorials",
+      "URL": "https://getdist.readthedocs.io/en/latest/notebooks/GetDist%20analysis.html"
+    }
+  ]
+}

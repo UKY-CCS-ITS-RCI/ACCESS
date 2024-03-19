@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GAMESS": {
+      "MainPage": "https://www.msg.chem.iastate.edu/GAMESS/",
+      "Documentation": "https://www.msg.chem.iastate.edu/GAMESS/documentation/doc.html",
+      "Tutorials": [
+        "https://www.msg.chem.iastate.edu/GAMESS/tutorial.html",
+        "https://chem.libretexts.org/Courses/UCLA/CHEM_20B_Topics_in_Physical_Chemistry_(Shea)/GAMESS_Tutorial",
+        "https://gwdac.com/docs/"
+      ]
+    }
+  }
+}

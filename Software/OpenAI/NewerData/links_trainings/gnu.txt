@@ -1,0 +1,15 @@
+{
+  "software_name": "GNU Compiler Collection (GCC)",
+  "software_url": "https://gcc.gnu.org/",
+  "documentation_url": "https://gcc.gnu.org/onlinedocs/",
+  "tutorials_and_training": [
+    {
+      "name": "Introduction to GNU Compiler",
+      "url": "https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html"
+    },
+    {
+      "name": "GNU Compiler Collection (GCC) Internals",
+      "url": "https://gcc.gnu.org/onlinedocs/gccint/"
+    }
+  ]
+}

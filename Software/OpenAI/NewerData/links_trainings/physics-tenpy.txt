@@ -1,0 +1,20 @@
+{
+  "Software": {
+    "Name": "physics-tenpy",
+    "Software_url": "https://tenpy.github.io/",
+    "Additional_resources": {
+      "Documentation": "https://tenpy.readthedocs.io/en/latest/",
+      "Tutorials": [
+        {
+          "Tutorials_url": "https://tenpy.readthedocs.io/en/latest/examples/index.html"
+        },
+        {
+          "Tutorials_url": "https://github.com/tenpy/tenpy/blob/master/examples/readme_tutorial.ipynb"
+        },
+        {
+          "Tutorials_url": "https://github.com/tenpy/tenpy/blob/master/examples/custom_model_class.ipynb"
+        }
+      ]
+    }
+  }
+}

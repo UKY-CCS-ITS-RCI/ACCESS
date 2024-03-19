@@ -1,0 +1,17 @@
+Use Case: Use p7zip for compressing files and folders into .7z format and extracting files from .7z archives.
+
+Code details and examples: Code
+
+Example 1:
+Compressing a directory:
+Input: A directory '/path/to/directory'
+Command: '7z a archive.7z /path/to/directory'
+
+This command will compress directory into the 'archive.7z' file.
+
+Example 2:
+Extracting a .7z archive:
+Input: An archive 'archive.7z'
+Command: '7z e archive.7z'
+
+This command will extract the contents of 'archive.7z' into the current directory.

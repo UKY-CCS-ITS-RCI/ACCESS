@@ -1,0 +1,15 @@
+{
+  "hpc-x": {
+    "software_page": "https://docs.mellanox.com/display/hpcox",
+    "documentation": [
+      {
+        "link": "https://docs.mellanox.com/display/hpcox/Software+User+Manual"
+      }
+    ],
+    "tutorials": [
+      {
+        "link": "https://github.com/Mellanox/hpcx-mpi-tests"
+      }
+    ]
+  }
+}

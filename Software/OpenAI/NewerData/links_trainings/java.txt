@@ -1,0 +1,16 @@
+{
+  "Software_Name": "Java",
+  "Software_URL": "https://www.oracle.com/java/",
+  "Documentation_URL": "https://docs.oracle.com/en/java/",
+  "Tutorial_Materials": [
+    {
+      "Oracle_Tutorials": "https://docs.oracle.com/javase/tutorial/",
+      "W3Schools_Java_Tutorial": "https://www.w3schools.com/java/",
+      "Java_T_Point": "https://www.javatpoint.com/java-tutorial",
+      "Tutorials_Point": "https://www.tutorialspoint.com/java/index.htm",
+      "Codecademy_Java_Course": "https://www.codecademy.com/learn/learn-java",
+      "Coursera_Java_Courses": "https://www.coursera.org/courses?query=java",
+      "Udemy_Java_Courses": "https://www.udemy.com/topic/java/"
+    }
+  ]
+}

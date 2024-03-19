@@ -1,0 +1,41 @@
+Use Case: Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is particularly well-suited for large computational loads such as those found in deep learning.
+
+Code details and examples:
+
+Code:
+To use Theano, it's necessary to define the variables and expressions we’ll use. For simple mathematical expressions, this seems overkill.
+
+Firstly, we import theano:
+```python
+import theano
+from theano import tensor
+```
+Then we define the variables. In Theano, we define variables using `theano.tensor` sorts of objects. The variable declarations are a little different than normal Python symbolic computations. Instead of giving a value to a variable directly in the computation, we allow Theano to automatically fill-in the needed variable.
+
+```python
+# declare two symbolic floating-point scalars
+a = tensor.dscalar()
+b = tensor.dscalar()
+```
+A function `f` that computes the sum of `a` and `b`:
+
+```python
+# create a simple expression
+c = a + b
+
+# convert the expression into a callable object that takes (a,b)
+# values as input and computes a value for c
+f = theano.function([a,b], c)
+
+# bind 1.5 to 'a', 2.5 to 'b', and evaluate 'c'
+result = f(1.5, 2.5)
+print(result)
+```
+When you run this code, the output displayed will be `4.0`.
+
+Command to Run:
+Since Theano is a Python library, you just need to run your Python code as usual. For example, if your code is in a file named `example.py`, you can run it using this command:
+
+```bash
+python example.py
+```

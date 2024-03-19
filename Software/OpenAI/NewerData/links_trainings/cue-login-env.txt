@@ -1,0 +1,11 @@
+{
+  "software_name": "cue-login-env",
+  "software_page_url": "https://learn.hpc.caen.umich.edu/content/cue_tools/",
+  "documentation_url": "https://cue.readthedocs.io/en/latest/index.html",
+  "training_materials": [
+    {
+      "name": "Custom Environment variables Maintenance In LSF – CUE",
+      "url": "https://deep-teaching.cs.uni-potsdam.de/spring2020/unit0/docs/Custom-Environment-variables-Maintenance-In-LSF-–-CUE.pdf"
+    }
+  ]
+}

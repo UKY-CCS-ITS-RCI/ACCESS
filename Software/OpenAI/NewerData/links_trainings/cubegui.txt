@@ -1,0 +1,15 @@
+{
+  "software_name": "CubeGUI",
+  "software_url": "https://apps.fz-juelich.de/scalasca/releases/cubegui/4.6/docs/index.html",
+  "documentation": [
+    {
+      "Doc_url1": "https://apps.fz-juelich.de/scalasca/releases/cubegui/4.6/docs/index.html"
+    }
+  ],
+  "training_materials": [
+    {
+      "tutorial1": "https://apps.fz-juelich.de/scalasca/releases/cubegui/4.6/docs/tutorial.html"
+    }
+  ],
+  "conda_package": "cubegui"
+}

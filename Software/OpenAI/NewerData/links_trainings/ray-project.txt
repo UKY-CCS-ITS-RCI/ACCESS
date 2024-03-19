@@ -1,0 +1,19 @@
+{
+  "software": "ray-project",
+  "link": "https://ray.io/",
+  "documentation": "https://docs.ray.io/en/latest/",
+  "tutorials": [
+    {
+      "name": "Ray Python Tutorial",
+      "link": "https://ray.io/tutorial/"
+    },
+    {
+      "name": "Ray Project Tutorial on GitHub",
+      "link": "https://github.com/ray-project/tutorial"
+    },
+    {
+      "name": "Ray Project Tutorial on YouTube",
+      "link": "https://www.youtube.com/channel/UC69ovGKGw3gfoyHROfYPXhw"
+    }
+  ]
+}

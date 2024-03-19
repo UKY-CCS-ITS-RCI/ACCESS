@@ -1,0 +1,17 @@
+{
+"software": {
+    "name": "zlib",
+    "software_page": "https://zlib.net/",
+    "documentation": "https://zlib.net/manual.html",
+    "tutorials": [
+      {
+        "description": "How To Install and Use zlib In Linux",
+        "link": "https://www.cyberciti.biz/faq/how-to-install-zlib-on-linux/"
+      },
+      {
+        "description": "zlib Tutorial",
+        "link": "https://www.tutorialspoint.com/zlib/index.htm"
+      }
+    ]
+  }
+}

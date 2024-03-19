@@ -1,0 +1,28 @@
+{
+  "python": {
+    "software_page": "https://www.python.org/",
+    "documentation": "https://docs.python.org/3/",
+    "tutorials": [
+      {
+        "name": "Python.org Tutorial",
+        "link": "https://docs.python.org/3/tutorial/"
+      },
+      {
+        "name": "W3Schools Python Tutorial",
+        "link": "https://www.w3schools.com/python/"
+      },
+      {
+        "name": "Python for Beginners",
+        "link": "https://www.python.org/about/gettingstarted/"
+      },
+      {
+        "name": "Codecademy Python Course",
+        "link": "https://www.codecademy.com/learn/learn-python-3"
+      },
+      {
+        "name": "Coursera Python Courses",
+        "link": "https://www.coursera.org/courses?query=python"
+      }
+    ]
+  }
+}

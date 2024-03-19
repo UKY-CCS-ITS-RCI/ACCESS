@@ -1,0 +1,24 @@
+{
+    "software_name": "scikit",
+    "comprehensive_overview": "scikit-learn is a powerful Python module for machine learning built on top of SciPy and distributed under the 3-Clause BSD license. It is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.",
+    "core_features": [
+        "Classification", 
+        "Regression", 
+        "Clustering", 
+        "Dimensionality reduction", 
+        "Model selection", 
+        "Preprocessing"
+    ],
+    "general_tags": [
+        "Machine Learning", 
+        "Python", 
+        "Data Science", 
+        "Artificial Intelligence"
+    ],
+    "additional_tags": {
+        "research_discipline": "Computer Science",
+        "research_area": "Machine Learning",
+        "software_class": "Library",
+        "software_type": "Machine Learning Toolkit"
+    }
+}

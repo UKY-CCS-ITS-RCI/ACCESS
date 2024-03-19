@@ -1,0 +1,12 @@
+
+{
+  "MySQL": {
+    "Software Page": "https://www.mysql.com/",
+    "Documentation": "https://dev.mysql.com/doc/",
+    "Tutorials": [
+      "https://dev.mysql.com/doc/mysql-getting-started/en/",
+      "https://dev.mysql.com/doc/mysql-tutorial/en/"
+    ]
+  }
+}
+

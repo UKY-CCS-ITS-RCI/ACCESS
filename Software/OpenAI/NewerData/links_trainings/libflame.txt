@@ -1,0 +1,16 @@
+{
+  "software_name": "libflame",
+  "software_website": "https://www.cs.utexas.edu/~flame/web/libflame.html",
+  "documentation_links": [
+	  {
+		"name": "API documentation",
+		"url": "https://www.cs.utexas.edu/~flame/web/libflame_ug_5.0.0.pdf"	  
+	  }
+	],
+  "tutorials_training_materials": [
+	  {
+		"name": "libflame Tutorial",
+		"url": "https://www.cs.utexas.edu/~flame/libflame/FLAMEC_Tutorial/Welcome.html"
+    }
+  ]
+}

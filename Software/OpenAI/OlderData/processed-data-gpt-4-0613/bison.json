@@ -1,0 +1,10 @@
+{
+    "Software": "Bison",
+    "Website": "https://www.gnu.org/software/bison/",
+    "Documentation": "https://www.gnu.org/software/bison/manual/",
+    "Tutorial_and_Training": [
+        "https://www.gnu.org/software/bison/manual/html_node/Examples.html",
+        "https://aquamentus.com/flex_bison.html",
+        "https://www.youtube.com/watch?v=54bo1qaHAfk"
+    ]
+}

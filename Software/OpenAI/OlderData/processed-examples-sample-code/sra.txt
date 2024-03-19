@@ -1,0 +1,21 @@
+Use Case: Downloading data from the Sequence Read Archive (SRA)
+Code details and examples:
+To download data from the SRA, you can use the SRA Toolkit which provides the `fastq-dump` command for this purpose.
+
+1. First, you need to have the SRA Toolkit installed. If you do not have it installed, you can download it from the NCBI website: https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software
+
+2. Once you have the SRA Toolkit installed, you can use the following command to download data from SRA. Replace `SRA_RUN_ID` with the actual SRA run accession number.
+
+```bash
+fastq-dump SRA_RUN_ID
+```
+
+This command will download the data in fastq format from the specified SRA run accession.
+
+3. For example, if you want to download data from SRA run accession SRR4052018, you can use the following command:
+
+```bash
+fastq-dump SRR4052018
+```
+
+This will download the data in fastq format from the specified SRA run accession SRR4052018.

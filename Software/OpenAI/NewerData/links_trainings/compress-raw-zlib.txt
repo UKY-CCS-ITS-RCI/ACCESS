@@ -1,0 +1,12 @@
+{
+  "name": "Compress::Raw::Zlib",
+  "software_url": "https://metacpan.org/pod/Compress::Raw::Zlib",
+  "documentation": {
+    "url_1": "https://metacpan.org/pod/Compress::Raw::Zlib",
+    "url_2": "https://perldoc.perl.org/Compress::Raw::Zlib"
+  },
+  "tutorials_and_training": {
+    "tutorial_1": "https://prepan.org/module/nCOBEBTxEbi",
+    "tutorial_2": "https://www.perlmonks.org/?node_id=603175"
+  }
+}

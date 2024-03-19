@@ -1,0 +1,15 @@
+{
+  "softwareName": "r-digest",
+  "softwarePage": "https://cran.r-project.org/package=digest",
+  "documentation": "https://cran.r-project.org/web/packages/digest/digest.pdf",
+  "tutorialMaterials": [
+    {
+      "tutorialName": "Hashing with R's digest package",
+      "URL": "https://www.rdocumentation.org/packages/digest/versions/0.6.27/topics/digest"
+    },
+    {
+      "tutorialName": "digest function in R",
+      "URL": "https://www.geeksforgeeks.org/digest-function-in-r-programming/"
+    }
+  ]
+}

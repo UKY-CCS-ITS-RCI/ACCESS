@@ -1,0 +1,13 @@
+{
+  "libtirpc": {
+    "Software_page": "https://sourceforge.net/projects/libtirpc/",
+    "Documentation": [
+      "http://manpages.ubuntu.com/manpages/focal/man3/rpc.3.html",
+      "https://man7.org/linux/man-pages/man3/rpc.3.html"
+    ],
+    "Tutorials": [
+      "https://www.ibm.com/docs/en/aix/7.2?topic=commands-rpcgen-command",
+      "https://www.loggly.com/ultimate-guide/parsing-rpc-log/"
+    ]
+  }
+}

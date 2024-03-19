@@ -1,0 +1,31 @@
+{
+  "software_name": "Abinit",
+  "software_url": "https://www.abinit.org/",
+  "documentation": {
+    "official": "https://docs.abinit.org/",
+    "other_resources": [
+      {
+        "name": "Abinit Tutorial",
+        "url": "https://www.nsc.liu.se/~pla/abinit/handson/hands_on.html"
+      },
+      {
+        "name": "Abinit School",
+        "url": "https://www.abinit.org/events/schools"
+      }
+    ]
+  },
+  "training_material": [
+    {
+      "name": "Abinit Training",
+      "url": "https://www.youtube.com/watch?v=KKmmFthFpnw"
+    },
+    {
+      "name": "Abinit Hands On",
+      "url": "https://www.nsc.liu.se/~pla/abinit/handson/hands_on.html"
+    },
+    {
+      "name": "Abinit Basic Tutorial",
+      "url": "https://henriquemiranda.github.io/blog/2016/02/23/abinit-basic-tutorial/"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+Use Case: Intel's Math Kernel Library (MKL) is a set of computational routines, hand-optimized specifically for Intel processors. The library supports many functionalities including BLAS (Basic Linear Algebra Subprograms), LAPACK (Linear Algebra PACKage), sparse solvers, Fast Fourier Transformation, Vector Math and more.
+
+Code details and examples:
+
+Code:
+```
+#include <mkl.h>
+
+int main() {
+    double A[2][2], B[2], X[2];
+    int n = 2, nrhs = 1, lda = 2, ldb = 2, info;
+    int ipiv[2];
+    A[0][0] = 1.80; A[0][1] = 2.88; A[1][0] = 5.25; A[1][1] = -2.95;
+    B[0] = 9.52; B[1] = 24.35;
+    info = LAPACKE_dgesv(LAPACK_ROW_MAJOR, n, nrhs, *A, lda, ipiv, B, ldb);
+    X[0] = B[0]; X[1] = B[1];
+    return 0;
+}
+```
+This is a C programm to solve the system of linear equations AX = B using Intel MKL's LAPACKE_dgesv routine. Matrix A and vector B are given while solution for X is found.
+
+To compile and run this example:
+You can use Intel's C compiler `icc`,
+```
+icc -o sample sample.c -lmkl_rt
+./sample
+```
+Above commands will compile the code with Intel MKL and execute the binary.

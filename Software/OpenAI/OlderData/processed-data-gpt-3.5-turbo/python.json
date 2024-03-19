@@ -1,0 +1,22 @@
+{
+    "software_name": "Python",
+    "comprehensive_overview": "Python is a high-level, interpreted, and general-purpose programming language that emphasizes code readability and simplicity. It supports multiple programming paradigms, including object-oriented, imperative, functional, and procedural styles.",
+    "core_features": [
+        "Easy-to-read syntax",
+        "Dynamic typing",
+        "Automatic memory management",
+        "Large standard library",
+        "Extensive third-party modules"
+    ],
+    "general_tags": [
+        "programming language",
+        "scripting language",
+        "interpreted language"
+    ],
+    "additional_tags": {
+        "research_discipline": "Computer Science",
+        "research_area": "Software Development",
+        "software_class": "High-Level Language",
+        "software_type": "General-Purpose Language"
+    }
+}

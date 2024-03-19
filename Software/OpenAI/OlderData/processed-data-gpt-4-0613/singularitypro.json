@@ -1,0 +1,13 @@
+{
+  "Software": "SingularityPRO",
+  "Link": "https://www.sylabs.io/singularity/",
+  "Documentation": {
+    "SingularityPRO user guide": "https://sylabs.io/guides/latest/user-guide/",
+    "GitHub - sylabs/singularity user-docs": "https://github.com/sylabs/singularity-userdocs"
+  },
+  "Tutorials": {
+    "SingularityPRO Containers for HPC tutorial": "https://www.youtube.com/watch?v=DkMq2YnoOFI",
+    "Getting Started with SingularityPRO": "https://sylabs.io/guides/3.2/user-guide/quick_start.html",
+    "SingularityPRO webinar series": "https://www.youtube.com/playlist?list=PLDNLB2C5VklIbdS-QRMBoUf7B2cFNcWe1"
+  }
+}

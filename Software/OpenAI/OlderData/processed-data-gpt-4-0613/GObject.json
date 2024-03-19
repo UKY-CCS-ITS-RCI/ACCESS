@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GObject": {
+      "MainPage": "https://developer.gnome.org/gobject/stable/",
+      "Documentation": "https://developer.gnome.org/gobject/stable/gobject-The-Base-Object-Type.html",
+      "Tutorials": [
+        "https://developer.gnome.org/gobject/stable/howto-gobject.html",
+        "https://www.e-consystems.com/blog/linux/how-to-create-gobject/",
+        "https://thegtklearningcurve.wordpress.com/category/gobjects/gobject-tutorials/"
+      ]
+    }
+  }
+}

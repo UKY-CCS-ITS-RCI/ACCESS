@@ -1,0 +1,17 @@
+{
+  "ucsctools": {
+    "software_page": "https://genome.ucsc.edu/util.html",
+    "documentation_links": [
+      "https://genome.ucsc.edu/goldenPath/help/hgTracksHelp.html",
+      "https://genome.ucsc.edu/goldenPath/help/hgBlatHelp.html"
+    ],
+    "training_materials": [
+      "https://youtu.be/ENup2xgT1cs",
+      "https://youtu.be/Wy7aEGwK2Yo"
+    ],
+    "tutorial_links": [
+      "https://genome.ucsc.edu/goldenPath/tutorial/",
+      "https://learn.gencore.bio.nyu.edu/ngs-file-formats/ucsc-genome-browser-tutorial/"
+    ]
+  }
+}

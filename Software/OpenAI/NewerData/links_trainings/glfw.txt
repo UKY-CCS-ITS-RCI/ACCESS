@@ -1,0 +1,19 @@
+{
+    "softwareName": "GLFW",
+    "softwarePage": "https://www.glfw.org/",
+    "documentation": "https://www.glfw.org/documentation.html",
+    "trainingTutorialMaterials": [
+        {
+            "title": "Learning Modern OpenGL",
+            "url": "http://learnopengl.com/"
+        },
+        {
+            "title": "molecular-matters.com Blogpost: Tutorial: Using GLFW 3 with Visual C++ Express",
+            "url": "https://blog.molecular-matters.com/2012/11/29/tutorial-using-glfw-3-with-visual-c-express/"
+        },
+        {
+            "title": "OpenGL and GLFW tutorial",
+            "url": "https://www.opengl-tutorial.org/miscellaneous/glfw/"
+        }
+    ]
+}

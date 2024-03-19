@@ -1,0 +1,13 @@
+{
+  "software": "libtool",
+  "software_homepage": "https://www.gnu.org/software/libtool/",
+  "documents": {
+    "manual": "https://www.gnu.org/software/libtool/manual/libtool.html",
+    "documentation": "https://www.gnu.org/software/libtool/documentation.html"
+  },
+  "tutorials": {
+    "autotools_tutorial": "http://www.lrde.epita.fr/~adl/autotools.html",
+    "introduction_to_automake_libtool": "http://www.tamacom.com/tour/tour-1.html",
+    "libtool_tutorial": "https://www.sourceware.org/autobook/autobook/autobook_91.html"
+  }
+}

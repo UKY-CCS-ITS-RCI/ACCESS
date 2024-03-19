@@ -1,0 +1,23 @@
+{
+  "softwareName": "SOAPdenovo2",
+  "softwarePage": "https://github.com/aquaskyline/SOAPdenovo2",
+  "documentation": "https://github.com/aquaskyline/SOAPdenovo2/wiki",
+  "tutorials": [
+    {
+      "title": "Introduction to SOAPdenovo2",
+      "link": "http://soap.genomics.org.cn/soapdenovo.html"
+    },
+    {
+      "title": "SOAPdenovo2 Manual",
+      "link": "http://soap.genomics.org.cn/down/SOAPdenovo2_manual.pdf"
+    },
+    {
+      "title": "Tutorial on Using SOAPdenovo2",
+      "link": "https://bioinformatics.uconn.edu/using-soapdenovo2/#.YQSN48BOR0s"
+    },
+    {
+      "title": "Training material from Galaxy Project",
+      "link": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/debruijn-graph-assembly-with-soapdenovo2/tutorial.html"
+    }
+  ]
+}

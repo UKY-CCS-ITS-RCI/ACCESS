@@ -1,0 +1,12 @@
+{
+  "Software Name": "dbus-glib",
+  "Software URL": "https://www.freedesktop.org/wiki/Software/DBusBindings/",
+  "Documentation": [
+    "https://dbus.freedesktop.org/doc/dbus-glib/"
+  ],
+  "Tutorials and Training Materials": [
+    "https://developer.gnome.org/gio/stable/ch01.html",
+    "https://tldp.org/HOWTO/DBUS-Tutorial/dbus.html",
+    "https://www.freedesktop.org/wiki/Software/DBusBindings/"
+  ]
+}

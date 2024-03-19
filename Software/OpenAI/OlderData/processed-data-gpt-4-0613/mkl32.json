@@ -1,0 +1,9 @@
+{
+  "software_name": "mkl32",
+  "software_link": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html",
+  "documentation_link": "https://software.intel.com/content/www/us/en/develop/documentation/onemkl-linux-developer-guide/top.html",
+  "tutorial_links": [
+    "https://software.intel.com/content/www/us/en/develop/documentation/get-started-with-intel-oneapi-for-linux/top.html",
+    "https://software.intel.com/content/www/us/en/develop/documentation/onemkl-linux-developer-guide/top/c-standards-compliance.html"
+  ]
+}

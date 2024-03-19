@@ -1,0 +1,32 @@
+Use Case: archspec is a library and command-line utility that helps to determine whether software is compatible with a certain system architecture. This is especially useful in large-scale cluster environments, where there are many different systems, and it becomes impractical to manually check software compatibility for each one.
+
+Code Details and Examples: 
+
+Code: 
+Python API usage:
+
+```python
+import archspec.cpu
+
+cpu = archspec.cpu.host() 
+
+print(f"{cpu}") #This will print the name of the host CPU microarchitecture.
+```
+
+Command-line utility usage:
+
+The input to this utility is the `lscpu` command’s output from the target host.
+
+```bash
+lscpu | archspec cpu 
+```
+
+The output is the most specific archspec label that matches the `lscpu` output.
+
+Output:
+
+```bash
+broadwell
+```
+
+No special specification or format is required as input file. It doesn't take a file input but rather commands from the terminal or scripts from a Python program.

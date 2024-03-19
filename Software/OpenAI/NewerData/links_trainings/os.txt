@@ -1,0 +1,8 @@
+{
+"os": {
+"software_page": "https://www.microsoft.com/en-in/softwares",
+"documentation": "https://docs.microsoft.com/en-us/",
+"tutorial": ["https://www.tutorialspoint.com/operating_system/index.htm", "https://www.geeksforgeeks.org/operating-systems/"],
+"training": ["https://www.coursera.org/courses?query=operating%20system", "https://www.udemy.com/topic/operating-system/"]
+}
+}

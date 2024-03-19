@@ -1,0 +1,17 @@
+{
+  "SoftwareName": "Quantum ESPRESSO",
+  "Homepage": "https://www.quantum-espresso.org/",
+  "Resources": {
+    "Documentation": "https://www.quantum-espresso.org/resources/users-manual",
+    "Tutorials": [
+      "https://www.quantum-espresso.org/resources/tutorials",
+      "https://www.psik.org/index.php/tutorials",
+      "https://materia.fisica.unimi.it/malavasi/SCF_DFT/DFT.html"
+    ],
+    "TrainingMaterial": [
+      "https://www.youtube.com/watch?v=e6k1_b3qvYk",
+      "https://www.slideshare.net/likejazz/20121129-the-basics-of-quantum-espresso-a-quantum-package-piw2012",
+      "https://www.cecam.org/workshop-details/965"
+    ]
+  }
+}

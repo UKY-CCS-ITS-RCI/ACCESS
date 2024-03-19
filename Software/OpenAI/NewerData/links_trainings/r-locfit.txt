@@ -1,0 +1,15 @@
+{
+  "software": "r-locfit",
+  "software_url": "https://cran.r-project.org/web/packages/locfit/locfit.pdf",
+  "documentation_url": "https://cran.r-project.org/web/packages/locfit/locfit.pdf",
+  "training_materials": [
+    {
+      "tutorial_name": "A Gentle Introduction to Nonparametric Statistics: Locfit in R",
+      "tutorial_url": "https://pdfs.semanticscholar.org/91f2/6e600717116a04c365cc38b29aeb59ce94df.pdf"
+    },
+    {
+      "tutorial_name": "Quick R: Loess Regression",
+      "tutorial_url": "https://www.statmethods.net/advstats/loess.html"
+    }
+  ]
+}

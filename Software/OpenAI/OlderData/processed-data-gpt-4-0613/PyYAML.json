@@ -1,0 +1,12 @@
+{ 
+  "Software Name": "PyYAML",
+  "links": { 
+    "software page": "https://pypi.org/project/PyYAML/", 
+    "documentation": "https://pyyaml.org/wiki/PyYAMLDocumentation", 
+    "tutorials": [
+      "https://zetcode.com/python/yaml/", 
+      "https://www.tutorialsteacher.com/yaml",
+      "https://realpython.com/python-yaml/"
+    ] 
+  } 
+}

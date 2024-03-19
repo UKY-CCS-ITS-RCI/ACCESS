@@ -1,0 +1,12 @@
+{
+  "Software Name": "Rclone",
+  "links": {
+    "software page": "https://rclone.org/",
+    "documentation": "https://rclone.org/docs/",
+    "tutorials": [
+      "https://www.geekstorage.com/blog/how-to-use-rclone-to-manage-files-in-remote-cloud-storage",
+      "https://www.techrepublic.com/article/how-to-sync-remote-directories-with-the-rclone-tool/",
+      "https://www.youtube.com/watch?v=FmBqvXKP1xE"
+    ]
+  }
+}

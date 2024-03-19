@@ -1,0 +1,14 @@
+{
+  "Software": "Nextflow",
+  "Homepage": "https://www.nextflow.io/",
+  "Documentation": "https://www.nextflow.io/docs/latest/index.html",
+  "Tutorials and Trainings": {
+    "Nextflow tutorial": "https://www.nextflow.io/docs/latest/tutorial.html",
+    "Nextflow script basic": "https://www.nextflow.io/docs/latest/script.html",
+    "Nextflow beginner's guide": "https://www.nextflow.io/docs/latest/getstarted.html",
+    "Nextflow patterns": "https://www.nextflow.io/docs/latest/dsl2.html",
+    "Nextflow workshop materials": "https://github.com/nextflow-io/training",
+    "SeqeraLab nf-core tutorial": "https://nf-co.re/usage/nf_core_tutorial",
+    "Nextflow on GCP": "https://cloud.google.com/life-sciences/docs/tutorials/nextflow"
+  }
+}

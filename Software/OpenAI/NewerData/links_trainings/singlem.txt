@@ -1,0 +1,10 @@
+{
+  "Software": {
+    "name": "singlem",
+    "website_url": "https://github.com/wwood/singlem",
+    "documentation_url": "https://singlem.readthedocs.io/en/latest/",
+    "tutorial_urls": [
+      "https://github.com/wwood/singlem#examples"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "softwareName": "Minialign",
+  "softwarePage": "https://github.com/ocxtal/minialign",
+  "documentation": "https://bioconda.github.io/recipes/minialign/README.html",
+  "tutorials": [
+    {
+      "name": "minialign-example",
+      "url": "https://github.com/ocxtal/minialign#example"
+    },
+    {
+      "name": "minialign - Basic tutorial",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210028"
+    },
+    {
+      "name": "Using Minialign for sequence alignment",
+      "url": "https://www.biostars.org/p/372883/"
+    }
+  ],
+  "trainingMaterials": "None Found"
+}

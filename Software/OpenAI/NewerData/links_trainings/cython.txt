@@ -1,0 +1,19 @@
+{
+  "name": "Cython",
+  "software_link": "https://cython.org/",
+  "documentation_link": "https://cython.readthedocs.io/en/latest/",
+  "tutorials_and_trainings": [
+    {
+      "title": "Cython Tutorial",
+      "link": "https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html"
+    },
+    {
+      "title": "Cython - Pythonic C",
+      "link":"https://pythonprogramming.net/introduction-and-basics-cython-tutorial/"
+    },
+    {
+      "title": "Cython tutorial - EuroSciPy 2018",
+      "link":"https://github.com/cython/cython/wiki/euroscipy2018-cython-tutorial"
+    }
+  ]
+}

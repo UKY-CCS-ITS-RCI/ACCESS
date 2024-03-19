@@ -1,0 +1,11 @@
+{
+  "Software Name": "pmi",
+  "Software Page": "https://github.com/open-mpi/pmi",
+  "Documentation": [
+    "https://github.com/open-mpi/pmi/blob/master/README.md"
+  ],
+  "Tutorial Materials": [
+    "https://www.youtube.com/watch?v=9aEse25KJcM",
+    "https://github.com/losalamos/OMPI/wiki/Proc-Modex-Library-(PMI)"
+  ]
+}

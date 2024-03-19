@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "x265": 
+    { 
+      "URL": "http://x265.org/",
+      "Documentation": "http://x265.readthedocs.io/en/stable/",
+      "Tutorials": 
+      [
+        {
+          "x265 encoding options guide": "http://x265.readthedocs.io/en/default/cli.html"
+        },
+        {
+          "How to Encode HEVC: The Set-Up and Test Files": "https://www.streamingmedia.com/Articles/Editorial/Featured-Articles/How-to-Encode-HEVC-The-Set-Up-and-Test-Files-94900.aspx"
+        },
+        {
+          "x265 - The Best Next Gen Codec": "https://www.vebeka.com/x265-best-next-generation-codec/"
+        },
+        {
+          "Using ffmpeg with x265": "https://trac.ffmpeg.org/wiki/Encode/H.265"
+        }
+      ]
+    }
+  }
+}

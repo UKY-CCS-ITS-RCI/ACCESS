@@ -1,0 +1,14 @@
+{
+  "Software": "Docker",
+  "LinkToSoftware": "https://www.docker.com",
+  "Documentation": {
+    "Docker Documentation": "https://docs.docker.com/"
+  },
+  "TrainingAndTutorialMaterials": {
+    "Getting Started with Docker": "https://www.docker.com/get-started",
+    "Docker Tutorial for Beginners": "https://www.tutorialspoint.com/docker/index.htm",
+    "Docker Training": "https://training.docker.com/",
+    "Docker Curriculum - GitHub": "https://github.com/prakhar1989/docker-curriculum",
+    "Docker Tutorial - YouTube": "https://www.youtube.com/watch?v=fqMOX6JJhGo"
+  }
+}

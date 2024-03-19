@@ -1,0 +1,29 @@
+{
+  "software": "Snappy",
+  "software_url": "https://senbox.atlassian.net/wiki/spaces/SNAP/pages/19300362/How+to+use+the+SNAP+API+from+Python",
+  "documentation": [
+    {
+      "url": "https://step.esa.int/docs/v6.0/apidoc/engine/",
+      "title": "SNAP Documentation"
+    },
+    {
+      "url": "https://senbox.atlassian.net/wiki/spaces/SNAP/pages/70503475/Python+SNAP+Tutorial",
+      "title": "Python SNAP Tutorial"
+    }
+  ],
+  "tutorials": [
+    {
+      "url": "https://www.youtube.com/watch?v=mivi7517Yjg",
+      "title": "How to use the SNAP API from Python"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cUH1nTL2iZo",
+      "title": "SNAP Tutorial - Sentinel-1 Toolbox"
+    },
+    {
+      "url": "https://senbox.atlassian.net/wiki/spaces/SNAP/pages/70503866/Bulk+Processing+with+GPT",
+      "title": "Bulk Processing with GPT Tutorial"
+    }
+  ],
+  "training_materials": []
+}

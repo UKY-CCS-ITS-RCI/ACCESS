@@ -1,0 +1,19 @@
+{
+  "software_name": "Manta",
+  "software_url": "https://github.com/Illumina/manta",
+  "doc_link": "https://github.com/Illumina/manta/tree/master/docs/userGuide",
+  "training_materials": [
+    {
+      "name": "Manta User Guide",
+      "url": "https://github.com/Illumina/manta/tree/master/docs/userGuide#section-1"
+    },
+    {
+      "name": "Manta Workflow Guide",
+      "url": "https://github.com/Illumina/manta/blob/master/docs/userGuide/userGuide.md#workflow-overview"
+    },
+    {
+      "name": "Manta Developer Guide",
+      "url": "https://github.com/Illumina/manta/blob/master/docs/developerGuide/README.md"
+    }
+  ]
+}

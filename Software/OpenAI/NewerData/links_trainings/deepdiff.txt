@@ -1,0 +1,24 @@
+{
+  "software": "deepdiff",
+  "link": "https://pypi.org/project/deepdiff/",
+  "documentation": [
+    {
+      "name": "Official Documentation",
+      "link": "https://deepdiff.readthedocs.io/en/latest/"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "Tutorial 1: Python DeepDiff - Understanding Deep Equality of Objects",
+      "link": "https://dzone.com/articles/python-deepdiff-understanding-deep-equality-of-obj"
+    },
+    {
+      "name": "Tutorial 2: Using DeepDiff for comparing Python objects",
+      "link": "https://www.codespeedy.com/python-deepdiff-example/"
+    },
+    {
+      "name": "Tutorial 3: DeepDiff Explanation With Examples",
+      "link": "https://appdividend.com/2021/04/28/python-deepdiff-tutorial-example/"
+    }
+  ]
+}

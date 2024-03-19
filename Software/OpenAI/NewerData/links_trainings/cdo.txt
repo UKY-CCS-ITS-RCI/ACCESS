@@ -1,0 +1,19 @@
+{
+  "software_name": "cdo",
+  "software_page": "https://code.mpimet.mpg.de/projects/cdo",
+  "documentation": [
+    {
+      "doc_url": "https://code.mpimet.mpg.de/projects/cdo/embedded/cdo.pdf"
+    }
+  ],
+  "tutorials_and_training_materials": [
+    {
+      "tutorial_url": "https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo#Tutorial",
+      "tutorial_name": "CDO Tutorial"
+    },
+    {
+      "tutorial_url": "https://www.youtube.com/watch?v=ubjSuHFQvzs",
+      "tutorial_name": "YouTube CDO Tutorial"
+    }
+  ]
+}

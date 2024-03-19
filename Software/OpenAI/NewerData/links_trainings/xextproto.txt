@@ -1,0 +1,11 @@
+{
+    "Software_Name": "xextproto",
+    "Software_URL": "https://cgit.freedesktop.org/xorg/proto/xextproto/",
+    "Documentation": {
+        "Documentation_URL1": "https://www.x.org/releases/current/doc/xextproto/xextproto.txt"
+    },
+    "Training_and_Tutorial": {
+        "Tutorial_URL1": "https://www.x.org/wiki/guide/extensions/",
+        "Tutorial_URL2": "https://manpages.ubuntu.com/manpages/focal/man1/xextproto.1.html"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "Software": "Twisted",
+  "Link": "https://twistedmatrix.com/trac/",
+  "Additional Links": {
+    "Documentation": "https://twistedmatrix.com/documents/current/",
+    "Tutorials": [
+      "https://twistedmatrix.com/documents/current/core/howto/tutorial/index.html",
+      "https://twistedmatrix.com/documents/current/core/examples/",
+      "https://www.twistedmatrix.com/documents/14.0.0/core/howto/tutorial/index.html#core-tutorial-index"
+    ]
+  }
+}

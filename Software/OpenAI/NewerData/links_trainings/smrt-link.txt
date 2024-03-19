@@ -1,0 +1,22 @@
+{
+  "software": {
+    "name": "smrt-link",
+    "software_url": "https://www.pacb.com/products-and-services/analytical-software/smrt-link/",
+    "documentation": [
+      {
+        "name": "SMRT Link User Guide",
+        "url": "https://www.pacb.com/support/documentation/?product=smrt-link"
+      },
+      {
+        "name": "SMRT Link Installation Guide",
+        "url": "https://www.pacb.com/wp-content/uploads/2015/09/Install-Guide-SMRT-Link-v5.0.0.pdf"
+      }
+    ],
+    "tutorials": [
+      {
+        "name": "PacBio Tutorials-SMRT Link",
+        "url": "https://www.pacb.com/support/training/"
+      }
+    ]
+  }
+}

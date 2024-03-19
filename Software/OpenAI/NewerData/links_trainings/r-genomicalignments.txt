@@ -1,0 +1,19 @@
+{
+  "softwareName": "R-GenomicAlignments",
+  "softwareURL": "https://bioconductor.org/packages/release/bioc/html/GenomicAlignments.html",
+  "documentationURL": "https://bioconductor.org/packages/release/bioc/vignettes/GenomicAlignments/inst/doc/GenomicAlignments.html",
+  "trainingMaterials": [
+    {
+      "name": "A quick introduction to the GenomicAlignments package",
+      "URL": "https://bioconductor.org/packages/devel/bioc/vignettes/GenomicAlignments/inst/doc/GenomicAlignments.html"
+    },
+    {
+      "name": "Bioconductor - GenomicAlignments Package Tutorial",
+      "URL": "https://www.bioconductor.org/packages/devel/bioc/vignettes/GenomicAlignments/inst/doc/GenomicAlignments.pdf"
+    },
+    {
+      "name": "Bioconductor - GenomicRanges and GenomicAlignments Tutorial",
+      "URL": "https://bioconductor.org/help/course-materials/bioc2021/GenomicRangesGenomicAlignments.html"
+    }
+  ]
+}

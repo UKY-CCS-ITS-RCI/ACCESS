@@ -1,0 +1,12 @@
+{
+  "SoftwareName": "Rebaler",
+  "SoftwareType": "Bioinformatics Tools",
+  "SoftwareLink": "https://github.com/rrwick/Rebaler",
+  "AdditionalLinks": {
+    "Documentation": "https://github.com/rrwick/Rebaler#usage",
+    "Tutorials": {
+      "Tutorial 1": "https://www.protocols.io/view/long-read-assembly-benchmark-labp",
+      "Tutorial 2": "https://www.researchgate.net/post/Which_software_do_you_recommend_for_assembling_bacterial_genomes"
+    }
+  }
+}

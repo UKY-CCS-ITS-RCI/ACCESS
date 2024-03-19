@@ -1,0 +1,12 @@
+{
+  "Software": "libidn",
+  "WebURL": "https://www.gnu.org/software/libidn/",
+  "Documentation": {
+    "User Manual": "https://www.gnu.org/software/libidn/manual/",
+    "API Documentation": "https://www.gnu.org/software/libidn/manual/libidn.html"
+  },
+  "Training and Tutorial Materials": {
+    "libidn Programming Manual": "https://www.gnu.org/software/libidn/manual/libidn.html#Programming-Manual",
+    "GitHub Repo Examples": "https://github.com/laurivosandi/libidn"
+  }
+}

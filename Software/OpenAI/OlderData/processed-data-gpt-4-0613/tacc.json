@@ -1,0 +1,15 @@
+{ 
+  "SoftwareName": "TACC",
+  "Homepage" : "https://www.tacc.utexas.edu/", 
+  "Resources" : { 
+    "Documentation" : "https://www.tacc.utexas.edu/support/documentation", 
+    "Tutorials": [
+      "https://www.tacc.utexas.edu/education/institutes",
+      "https://www.tacc.utexas.edu/research-development/tacc-software/"
+    ],
+    "TrainingMaterial": [
+      "https://portal.tacc.utexas.edu/training/courses", 
+      "https://www.tacc.utexas.edu/education/courses"
+    ] 
+  } 
+}

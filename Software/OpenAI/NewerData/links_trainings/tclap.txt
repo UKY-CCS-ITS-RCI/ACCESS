@@ -1,0 +1,15 @@
+{
+  "Software": "tclap",
+  "Link": "http://tclap.sourceforge.net/",
+  "Documentation": "http://tclap.sourceforge.net/manual.html",
+  "Training and Tutorials": [
+    {
+      "Name": "TCLAP - CommandLine Parsing Library",
+      "URL": "https://www.bogotobogo.com/cplusplus/files/tclap/tutorial.php"
+    },
+    {
+      "Name": "TCLAP - Templatized C++ Command Line Parser Library",
+      "URL": "https://www.cs.sfu.ca/~cameron/Teaching/384/99-3/ply++.html"
+    }
+  ]
+}

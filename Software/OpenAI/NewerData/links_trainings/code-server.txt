@@ -1,0 +1,23 @@
+{
+  "software": "code-server",
+  "link": "https://github.com/cdr/code-server",
+  "documentation": "https://coder.com/docs",
+  "tutorials": [
+    {
+      "name": "Code Server Tutorial",
+      "url": "https://www.youtube.com/watch?v=7Gh_aeHxvOM"
+    },
+    {
+      "name": "Code Server Tutorial Blog",
+      "url": "https://jimfrenette.com/2020/01/code-server/"
+    },
+    {
+      "name": "How to Set Up code-server on Ubuntu 20.04",
+      "url": "https://www.linode.com/docs/guides/how-to-install-code-server-on-ubuntu-20-04/"
+    },
+    {
+      "name": "How to Install Code Server on Ubuntu 18.04",
+      "url": "https://computingforgeeks.com/run-visual-studio-code-in-browsers-using-code-server/"
+    }
+  ]
+}

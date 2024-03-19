@@ -1,0 +1,13 @@
+{
+  "Software": "CESM DEPS",
+  "Software_URL": "https://www.cesm.ucar.edu/models/cesm2/",
+  "Documentation": {
+    "URL_1": "https://escomp.github.io/CESM/release-cesm2/quickstart.html",
+    "URL_2": "https://www.cesm.ucar.edu/models/cesm2/sections/quickstart/users_guide.html",
+    "URL_3": "https://escomp.github.io/CESM/release-cesm2/sections/running_cesm/prerequisites_and_overview.html"
+  },
+  "Tutorials": {
+    "URL_1": "https://www.cesm.ucar.edu/events/tutorials/2019/coursework.html",
+    "URL_2": "https://www.cesm.ucar.edu/events/tutorials/2017/coursework.html"
+  }
+}

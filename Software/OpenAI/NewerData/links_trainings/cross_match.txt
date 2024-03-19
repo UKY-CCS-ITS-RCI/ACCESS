@@ -1,0 +1,20 @@
+{
+  "Software": "cross_match",
+  "Website": "http://www.phrap.org/phredphrap/phrap.html",
+  "Documentation": [
+    {
+      "URL": "http://www.phrap.org/phredphrap/phrap.html#BLOCK28",
+      "Description": "Official Documentation"
+    }
+  ],
+  "Tutorials and Training Material": [
+    {
+      "URL": "http://www.biotech.wisc.edu/sites/default/files/services/htac/Phred-Phrap_Consed_Tutorial.pdf",
+      "Description": "Phred/Phrap/Consed tutorial by University of Wisconsin Biotech Center"
+    },
+    {
+      "URL": "http://seqanswers.com/forums/showthread.php?t=1071",
+      "Description": "SeqAnswers thread discussing Crossmatch usage"
+    }
+  ]
+}

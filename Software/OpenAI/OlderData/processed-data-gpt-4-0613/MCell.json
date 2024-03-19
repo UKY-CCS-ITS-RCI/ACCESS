@@ -1,0 +1,13 @@
+{
+    "name": "MCell",
+    "software_page": "https://mcell.org/",
+    "documentation": "https://mcell.org/tutorials/",
+    "tutorials": [
+        "https://mcell.org/tutorials/modeling-guide/",
+        "https://mcell.org/tutorials/geometry-guide/"
+    ],
+    "additional_resources": [
+        "https://github.com/mcellteam/mcell",
+        "https://mcell.org/workshops/"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "software": "hipify-clang",
+  "software_url": "https://github.com/ROCm-Developer-Tools/HIPIFY",
+  "documentation": [
+    {
+      "url": "https://rocmdocs.amd.com/en/latest/Programming_Guides/Hipify.html"
+    }
+  ],
+  "tutorials_and_training": [
+    {
+      "tutorial_url": "https://www.olcf.ornl.gov/olson-workshop/hipsycl-rocclr-hipc/"
+    },
+    {
+      "tutorial_url": "https://portingguide.readthedocs.io/en/latest/tools.html"
+    }
+  ]
+}

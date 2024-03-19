@@ -1,0 +1,14 @@
+Use Case: Perform a nucleotide database search using BLAST.
+
+Code details and examples:
+```
+# Example input file (query sequence in FASTA format)
+query.fasta:
+>QuerySequence
+ATCGATCGATCGATCG
+
+# Running BLAST with the query file against the nt database
+blastn -query query.fasta -db nt -out output.txt -outfmt 6
+```
+
+Note: Make sure to replace `query.fasta` with the actual path to your query sequence file and adjust the database and output options as needed.

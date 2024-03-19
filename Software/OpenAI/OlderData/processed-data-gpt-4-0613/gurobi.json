@@ -1,0 +1,11 @@
+{
+"Gurobi": {
+    "softwarePage": "https://www.gurobi.com/",
+    "documentation": "https://www.gurobi.com/documentation/",
+    "tutorialMaterials": [
+        "https://www.gurobi.com/resource/tutorial-mixed-integer-programming/",
+        "https://www.gurobi.com/resource/mathematical-programming-tutorial/",
+        "https://www.gurobi.com/resource/network-optimization-tutorial/"
+        ]
+    }
+}

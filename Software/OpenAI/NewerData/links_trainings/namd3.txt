@@ -1,0 +1,28 @@
+{
+  "software": "namd3", 
+  "software_page": "https://www.ks.uiuc.edu/Research/namd/",
+  "documentation": [
+    {
+      "name": "User Guide", 
+      "url": "https://www.ks.uiuc.edu/Research/namd/2.14/ug/"
+    }, 
+    {
+      "name": "Tutorial", 
+      "url": "https://www.ks.uiuc.edu/Training/Tutorials/"
+    }
+  ],
+  "training_materials": [
+    {
+      "name": "Namdbin Tutorial", 
+      "url": "https://www.ks.uiuc.edu/Training/Tutorials/science/namdbin/tutorial-namdbin.html"
+    },
+    {
+      "name": "Simulations of Proteins Tutorial",
+      "url": "https://www.ks.uiuc.edu/Training/Tutorials/science/namd/tutorial-namd.html"
+    },
+    {
+      "name": "NAMD Tutorial: NAMD Molecular Dynamics", 
+      "url": "https://www.ks.uiuc.edu/Training/Tutorials/science/md-tutorial/tutorial-html/"
+    }
+  ]
+}

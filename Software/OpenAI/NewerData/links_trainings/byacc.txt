@@ -1,0 +1,10 @@
+{
+  "byacc": {
+    "software_page": "https://invisible-island.net/byacc/byacc.html",
+    "documentation": "https://invisible-island.net/byacc/byacc.html",
+    "tutorials": [
+      "https://invisible-island.net/yacc/yacc.html",
+      "https://www.codeproject.com/Articles/383663/How-to-write-a-parser-in-C-by-using-BYACC"
+    ]
+  }
+}

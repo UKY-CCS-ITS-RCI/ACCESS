@@ -1,0 +1,36 @@
+{
+  "software_name": "Time",
+  "software_page_link": "https://www.gnu.org/software/time/",
+  "documentation_links": [
+    {
+      "name": "GNU Time documentation",
+      "url": "https://www.gnu.org/software/time/time.html"
+    },
+    {
+      "name": "Unix Time Command Examples",
+      "url": "https://www.howtogeek.com/423286/the-time-command-in-linux/"
+    },
+    {
+      "name": "Use of Time command in Linux",
+      "url": "https://www.geeksforgeeks.org/time-command-in-linux-with-examples/"
+    },
+    {
+      "name": "Time command in Linux with examples",
+      "url": "https://www.tutorialspoint.com/unix_commands/time.htm"
+    }
+   ],
+  "tutorial_links": [
+    {
+      "name": "Tutorialspoint Unix - Getting Started",
+      "url": "https://www.tutorialspoint.com/unix/unix-getting-started.htm"
+    },
+    {
+      "name": "Beginners guide to use script command in Linux",
+      "url": "https://www.linuxnix.com/script-command-in-linux-with-examples/"
+    },
+    {
+      "name": "Guide to Linux for Beginners",
+      "url": "https://www.guru99.com/unix-linux-tutorial.html"
+    }
+  ]
+}

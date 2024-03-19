@@ -1,0 +1,12 @@
+{
+  "Software Name": "STAR-Fusion",
+  "links": {
+    "software page": "https://github.com/STAR-Fusion/STAR-Fusion",
+    "documentation": "https://github.com/STAR-Fusion/STAR-Fusion/wiki",
+    "tutorials": [
+      "https://www.youtube.com/watch?v=r1j_-pG7zZY",
+      "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/star-fusion-tutorial/",
+      "https://bioinformaticsworkbook.org/Appendix/STARFusion_GFF3_conversion_tutorial.html#gsc.tab=0"
+    ]
+  }
+}

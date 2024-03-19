@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "PYTHIA",
+  "Homepage": "http://home.thep.lu.se/~torbjorn/Pythia.html",
+  "Resources": {
+    "Documentation": "http://home.thep.lu.se/~torbjorn/Pythia.html",
+    "Tutorials": [
+      "http://home.thep.lu.se/~torbjorn/pythia81html/Welcome.html",
+      "http://home.thep.lu.se/Pythia/pythia82html/Welcome.html"
+    ],
+    "TrainingMaterial": [
+      "http://home.thep.lu.se/~torbjorn/Pythia.html",
+      "https://www2.pv.infn.it/~rojo/pythia8lecture.html"
+    ]
+  }
+}

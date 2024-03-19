@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "libcerf",
+  "WebsiteURL": "https://jugit.fz-juelich.de/mlz/libcerf",
+  "DocumentationLinks": [
+    {
+      "DocumentationURL": "https://www.mpg.de/3982537/libcerf_manual.pdf"
+    }
+  ],
+  "TutorialLinks": [],
+  "CondaPackages": [
+    {
+      "CondaPackageURL": "https://anaconda.org/conda-forge/libcerf"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Software": "POV-Ray",
+  "Website": "http://www.povray.org/",
+  "Links": {
+    "Documentation": "http://www.povray.org/documentation/",
+    "Tutorials": [
+      {
+        "Name": "POV-Ray Tutorial",
+        "URL": "http://www.f-lohmueller.de/pov_tut/pov__idx.htm"
+      },
+      {
+        "Name": "Introduction to POV-Ray",
+        "URL": "https://www.povray.org/documentation/view/3.6.1/224/"
+      },
+      {
+        "Name": "POV-Ray: Documentation: 3.2 Creating A Scene",
+        "URL": "https://www.povray.org/documentation/3.7.0/r3_2.html#r3_2_1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Software": "exiv2",
+  "Link": "https://www.exiv2.org/",
+  "Documentation": [
+    "https://www.exiv2.org/doc.html"
+  ],
+  "Training and Tutorial": [
+    "https://www.exiv2.org/tutorial.html",
+    "https://www.exiv2.org/sample.html",
+    "https://darktable-org.github.io/dtdocs/overview/development/image-metadata/exif-xmp-iptc-and-sidecar-files-and-exiv2/"
+  ]
+}

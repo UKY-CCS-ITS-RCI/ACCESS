@@ -1,0 +1,18 @@
+{
+  "name": "py-sympy",
+  "softwarePage": "https://www.sympy.org/en/index.html",
+  "additionalLinks": {
+    "documentation": "https://docs.sympy.org/latest/index.html",
+    "tutorialMaterials": {
+      "Official Tutorial": "https://docs.sympy.org/latest/tutorial/index.html",
+      "Sympy Tutorial for Beginners": "https://www.tutorialspoint.com/sympy/index.htm",
+      "Python SymPy Tutorial – Symbolic Mathematics In Python": "https://www.edureka.co/blog/python-sympy-tutorial/",
+      "SymPy Tutorial — SymPy 1.7.1 documentation": "https://buildmedia.readthedocs.org/media/pdf/sympy/latest/sympy.pdf"
+    },
+    "trainingMaterials": {
+      "Python Sympy Tutorial": "https://www.youtube.com/watch?v=cYugp9IN1-Q",
+      "Symbolic Computation in Python using SymPy": "https://www.youtube.com/watch?v=BqwZyZjZj1M",
+      "Symbolic Mathematics in Python with SymPy": "https://pythonforundergradengineers.com/sympy-expressions-and-equations.html"
+    }
+  }
+}

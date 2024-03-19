@@ -1,0 +1,12 @@
+{
+  "Software Name": "Tkinter",
+  "links": {
+    "software page": "https://docs.python.org/3/library/tkinter.html",
+    "documentation": "https://docs.python.org/3/library/tkinter.html#module-tkinter",
+    "tutorials": [
+      "https://www.tutorialspoint.com/python/python_gui_programming.htm",
+      "https://realpython.com/python-gui-tkinter/",
+      "https://effbot.org/tkinterbook/"
+    ]
+  }
+}

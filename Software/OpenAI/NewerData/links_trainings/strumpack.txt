@@ -1,0 +1,15 @@
+{
+  "software": "Strumpack",
+  "link": "https://portal.nersc.gov/project/sparse/strumpack/",
+  "additional_links": {
+    "documentation": "https://portal.nersc.gov/project/sparse/strumpack/docs/",
+    "training_materials": [
+      "https://portal.nersc.gov/project/sparse/strumpack/tutorials/",
+      "https://strumpack.readthedocs.io/en/latest/"
+    ],
+    "tutorials": [
+      "https://github.com/pghysels/STRUMPACK",
+      "https://ieeexplore.org/abstract/document/8774645"
+    ]
+  }
+}

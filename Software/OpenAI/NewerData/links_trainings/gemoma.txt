@@ -1,0 +1,16 @@
+{
+  "software_name": "GeMoMa",
+  "software_url": "https://www.jstacs.de/index.php/GeMoMa",
+  "documentation": [
+    {
+      "documentation_title": "GeMoMa Documentation Page",
+      "documentation_url": "https://www.jstacs.de/index.php/GeMoMa_Documentation"
+    }
+  ],
+  "tutorials_and_training": [
+    {
+      "tutorial_title": "GeMoMa Tutorial",
+      "tutorial_url": "https://www.jstacs.de/index.php/GeMoMa_Tutorial"
+    }
+  ]
+}

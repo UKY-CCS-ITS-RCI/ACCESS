@@ -1,0 +1,12 @@
+{
+"Gaussian09":{
+"SoftwarePage":"http://gaussian.com/gaussian09/",
+"Documentation":"http://gaussian.com/techsupport/",
+"TutorialMaterials":{
+"Inside Gaussian09: Basic Tutorial":"https://www.youtube.com/watch?v=Ea2z5WgYvM0",
+"CHEM2248 - Using Gaussian 09 and GaussView 5":"http://gaussian.com/g_tut/mecp/",
+"Gaussian (G09) for Beginners":"https://towardsdatascience.com/gaussian-09-g09-for-beginners-f9bf2430cc07",
+"Gaussian 09W Tutorial":"https://sites.psu.edu/symbolicc/files/2018/02/Gaussian-09W-Tutorial-20c1z2z.pdf"
+}
+}
+}

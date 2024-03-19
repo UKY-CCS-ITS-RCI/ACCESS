@@ -1,0 +1,12 @@
+{
+  "Software": "psycopg2",
+  "Details": {
+    "Software URL": "https://www.psycopg.org/",
+    "Documentation": "https://www.psycopg.org/docs/",
+    "Tutorials and Training Materials": {
+      "Psycopg2 Tutorial": "https://www.tutorialspoint.com/psycopg2/index.htm",
+      "Psycopg2 Tutorial - Python PostgreSQL": "https://pynative.com/python-postgresql-tutorial/",
+      "Python PostgreSQL Tutorial using Psycopg2": "https://www.postgresqltutorial.com/postgresql-python/"
+    }
+  }
+}

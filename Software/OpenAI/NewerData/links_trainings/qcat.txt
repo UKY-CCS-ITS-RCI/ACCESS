@@ -1,0 +1,11 @@
+{
+  "Software": "qcat",
+  "Link": "https://github.com/nanoporetech/qcat",
+  "Documentation": "https://qcat.readthedocs.io/en/latest/",
+  "Tutorial_and_Training": [
+    "https://nanoporetech.github.io/qcat/",
+    "https://www.youtube.com/watch?v=HW292htAOgQ",
+    "https://www.researchgate.net/publication/341858776_qcat_Tutorial",
+    "https://www.biostars.org/p/395485/"
+  ]
+}

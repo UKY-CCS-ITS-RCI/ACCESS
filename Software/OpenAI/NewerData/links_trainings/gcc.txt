@@ -1,0 +1,23 @@
+{
+    "name": "gcc",
+    "software_url": "https://gcc.gnu.org/",
+    "related_links": 
+    [
+        {
+            "name": "Documentation",
+            "url": "https://gcc.gnu.org/onlinedocs/"
+        },
+        {
+            "name": "Tutorial 1",
+            "url": "https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html"
+        },
+        {
+            "name": "Tutorial 2",
+            "url": "https://www.learn-c.org/en/Hello%2C_World%21"
+        },
+        {
+            "name": "Tutorial 3",
+            "url": "https://www.cs.cf.ac.uk/Dave/C/node3.html"
+        }
+    ]
+}

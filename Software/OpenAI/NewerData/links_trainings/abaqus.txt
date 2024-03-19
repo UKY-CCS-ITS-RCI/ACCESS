@@ -1,0 +1,24 @@
+{
+  "Software_Name": "Abaqus",
+  "Software_URL": "https://www.3ds.com/products-services/simulia/products/abaqus/",
+  "Documentation": [
+    {
+      "Link": "https://help.3ds.com/ScriptingDessaultSystemes/English/Helius_PFA_r1.5.pdf",
+      "Title": "Abaqus Documentation"
+    }
+  ],
+  "Training_and_Tutorial": [
+    {
+      "Link": "https://www.youtube.com/playlist?list=PLJPKD8WMn9l1tQyr8k9j3_gk8FBnIq755",
+      "Title": "YouTube Videos for Abaqus Tutorials"
+    },
+    {
+      "Link": "https://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/19445/SIMULIA-Workshops-a-Chance-to-Get-Free-Abaqus-Training.aspx",
+      "Title": "SIMULIA Workshops for Free Abaqus Training"
+    },
+    {
+      "Link": "https://www.udemy.com/topic/abaqus/",
+      "Title": "Udemy Abaqus Tutorials"
+    }
+  ]
+}

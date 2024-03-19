@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GStreamer": {
+      "MainPage": "https://gstreamer.freedesktop.org/",
+      "Documentation": "https://gstreamer.freedesktop.org/documentation/",
+      "Tutorials": [
+        "https://gstreamer.freedesktop.org/documentation/tutorials/index.html",
+        "https://www.youtube.com/watch?v=OueAijteWeY",
+        "https://github.com/GStreamer/gst-docs/tree/main/examples/tutorials"
+      ]
+    }
+  }
+}

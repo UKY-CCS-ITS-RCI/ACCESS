@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "Qt",
+  "Homepage": "https://www.qt.io/",
+  "Resources": {
+    "Documentation": "https://doc.qt.io/",
+    "Tutorials": [
+      "https://doc.qt.io/qt-5/qtexamplesandtutorials.html",
+      "https://zetcode.com/gui/qt5/"
+    ],
+    "TrainingMaterial": [
+      "https://www.udemy.com/topic/qt/",
+      "https://www.youtube.com/watch?v=6KtOzh0StTc"
+    ]
+  }
+}

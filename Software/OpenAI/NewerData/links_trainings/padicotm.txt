@@ -1,0 +1,8 @@
+{
+  "padicotm": {
+    "software page": "No specific software page found",
+    "documentation": "No specific documentation page found",
+    "training materials": "No specific training materials found",
+    "tutorial materials": "No specific tutorial materials found"
+  }
+}

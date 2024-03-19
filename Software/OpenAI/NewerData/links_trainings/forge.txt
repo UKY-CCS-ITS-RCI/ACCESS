@@ -1,0 +1,15 @@
+{
+  "software_name": "Forge",
+  "software_web_page": "https://www.enthought.com/products/enthought-interface-development/",
+  "documentation_link": "https://forge.readthedocs.io/en/latest/",
+  "training_materials": [
+    {
+      "training_material_name": "Forge Walkthrough",
+      "training_material_link": "https://videos.enthought.com/watch/edgments-forge-walkthrough/"
+    },
+    {
+      "training_material_name": "Forge Introduction",
+      "training_material_link": "https://github.com/datawire/forge#introduction"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "softwareName": "Devito",
+  "softwarePage": "https://www.devitoproject.org/",
+  "documentation": "https://www.devitoproject.org/devito/documentation.html",
+  "tutorialsAndTrainingMaterials":
+  [
+    {
+      "tutorialName": "Installation Guide",
+      "URLLink": "https://www.devitoproject.org/devito/download.html"
+    },
+    {
+      "tutorialName": "User Guide",
+      "URLLink": "https://www.devitoproject.org/devito/usage.html"
+    },
+    {
+      "tutorialName": "Examples",
+      "URLLink": "https://www.devitoproject.org/devito/examples.html"
+    },
+    {
+      "tutorialName": "API Documentation",
+      "URLLink": "https://www.devitoproject.org/devito/api.html"
+    },
+    {
+      "tutorialName": "Contributor's Guide",
+      "URLLink": "https://www.devitoproject.org/devito/contributing.html"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+Use Case: Use OpenMPI for distributed computing to optimally use multiple computing nodes.
+
+Code details and examples:
+
+Code:
+
+Consider the following simple MPI hello world program in C:
+
+```
+#include <stdio.h>
+#include <mpi.h>
+
+int main(int argc, char** argv) {
+    MPI_Init(NULL, NULL);
+    int world_size;
+    MPI_Comm_size(MPI_COMM_WORLD, &world_size);
+    int world_rank;
+    MPI_Comm_rank(MPI_COMM_WORLD, &world_rank);
+    char processor_name[MPI_MAX_PROCESSOR_NAME];
+    int name_len;
+    MPI_Get_processor_name(processor_name, &name_len);
+    printf("Hello world from processor %s, rank %d out of %d processors\n", processor_name, world_rank, world_size);
+    MPI_Finalize();
+}
+```
+
+This code is written in C and uses the MPI library to get the name and rank of each processor in a distributed system. It then prints a message with these details.
+
+Format required: This program is written in C and requires a .c file extension. 
+
+To compile and run:
+
+If your file is named hello_world.c, compile it using mpicc:
+
+```
+mpicc -o hello_world hello_world.c
+```
+
+Then run the program with mpirun 
+```
+mpirun -np 4 ./hello_world
+```
+mpirun is the command-line interface to run MPI programs where -np 4 specifies the number of processes.
+
+Any specifications and details in input files: No specific input file format required. Output will be printed to the console.

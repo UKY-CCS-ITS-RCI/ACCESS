@@ -1,0 +1,36 @@
+Use Case: ReFrame is a software framework for writing regression tests for HPC systems. It allows the user to add system-agnostic tests and adapts them to run on different systems without any modification. 
+
+Code details and examples: Code.
+
+A simple ReFrame test might look like this:
+
+```python
+import reframe as rfm
+
+@rfm.simple_test
+class HelloWorldTest(rfm.RegressionTest):
+    def __init__(self):
+        self.valid_systems = ['*']
+        self.valid_prog_environs = ['*']
+        self.sourcepath = 'hello.cpp'
+        self.build_system = 'SingleSource'
+        self.sanity_patterns = rfm.assert_found(r'Hello, World\!', self.stdout)
+
+```
+In this code:
+
+- The `@rfm.simple_test` decorator indicates that this test case is to be discovered automatically. 
+- The `valid_systems` list indicates on which systems this test is expected to pass. The value '*' means all systems.
+- The `valid_prog_environs` list indicates under which environment this test is expected to pass.
+- The `sourcepath` is the relative path (of the check's directory) to the file to compile and run.
+- The `sanity_patterns` attribute describes the patterns to be searched in the output and/or error files of the test in order to determine the sanity of the run.
+  
+To run the test:
+
+ReFrame supports a command-line interface for running and managing tests. On Linux or macOS, it can be installed and run via terminal. You first need to configure ReFrame to recognize your system and then use the following command to run the HelloWorldTest:
+
+```bash
+reframe -c <directory of HelloWorldTest> -r
+```
+This command instructs ReFrame to compile and execute the test. 
+It checks the results and reports success or failure. Test information and results are written to an output folder. This architecture makes it easy to read and interpret test results at a glance.

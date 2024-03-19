@@ -1,0 +1,37 @@
+Use Case: Optuna is an open-source hyperparameters optimization library in Python. It is designed to optimize machine learning model's hyperparameters.
+
+Code details and examples: 
+
+Code:
+```python
+import optuna
+
+def objective(trial):
+    x = trial.suggest_uniform('x', -10, 10)
+    return (x - 2) ** 2
+
+study = optuna.create_study()
+study.optimize(objective, n_trials=100)
+
+best_params = study.best_params
+best_value = study.best_value
+trials = study.trials
+
+print('Best Parameters: {}'.format(best_params))
+print('Best value: {}'.format(best_value))
+print('Number of trials: {}'.format(len(trials)))
+```
+
+Input Files: Not required for this specific example.
+
+Format Required: Not required for this specific example.
+
+Specifications and Details in Input Files: Not required for this specific example.
+
+Command to Run: Assuming the above script is saved in a file called `optuna_example.py`, it can be run with the following command in a terminal:
+
+Command: 
+
+```bash
+python optuna_example.py
+```

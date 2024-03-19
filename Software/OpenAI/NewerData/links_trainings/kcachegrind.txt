@@ -1,0 +1,17 @@
+{
+  "softwareName": "KCacheGrind",
+  "softwareLink": "https://kcachegrind.github.io/html/Home.html",
+  "documentation": [
+    {
+      "docLink": "https://docs.kde.org/trunk5/en/kdesdk/kcachegrind/index.html"
+    }
+  ],
+  "tutorialMaterials": [
+    {
+      "tutorialLink": "http://pavlovich.page.cern.ch/work/kcachegrind.html"
+    },
+    {
+      "tutorialLink": "https://ubuntuforums.org/showthread.php?t=2028687"
+    }
+  ]
+}

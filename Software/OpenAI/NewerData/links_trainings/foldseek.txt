@@ -1,0 +1,11 @@
+{
+  "software_name": "Foldseek",
+  "software_link": "https://foldseek.com/",
+  "documentation": [],
+  "trainings_and_tutorials": [
+    {
+      "name": "Foldseek Tutorial",
+      "link": "https://foldseek.com/tutorial"
+    }
+  ]
+}

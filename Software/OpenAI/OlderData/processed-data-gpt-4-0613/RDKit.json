@@ -1,0 +1,12 @@
+{
+  "Software Name": "RDKit",
+  "links": {
+    "software page": "https://www.rdkit.org/",
+    "documentation": "https://www.rdkit.org/docs/index.html",
+    "tutorials": [
+      "https://www.rdkit.org/docs/GettingStartedInPython.html",
+      "https://github.com/rdkit/rdkit-tutorials",
+      "https://iwatobipen.wordpress.com/tag/rdkit/"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Git": {
+      "MainPage": "https://git-scm.com/",
+      "Documentation": "https://git-scm.com/doc",
+      "Tutorials": [
+        "https://git-scm.com/docs/gittutorial",
+        "https://learn.github.com/",
+        "https://www.atlassian.com/git/tutorials"
+      ]
+    }
+  }
+}

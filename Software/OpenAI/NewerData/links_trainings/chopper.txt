@@ -1,0 +1,20 @@
+{
+  "softwareName": "chopper",
+  "softwareLink": "https://github.com/seqan/chopper",
+  "documentationLinks": [
+    {
+      "description": "SeqAn3.0.3 documentation",
+      "link": "https://docs.seqan.de/seqan/3.0.3/"
+    }
+  ],
+  "tutorialLinks": [
+    {
+      "description": "seqan tutorials",
+      "link": "https://seqan.readthedocs.io/en/master/Tutorial/"
+    },
+    {
+      "description": "Genome Informatics 2021 - Chopping Big Data Into Manageable Pieces",
+      "link": "https://www.youtube.com/watch?v=VPh2r3Cn7PI"
+    }
+  ]
+}

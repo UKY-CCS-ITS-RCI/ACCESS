@@ -1,0 +1,20 @@
+{
+  "software_name": "alien-hunter",
+  "software_URL": "https://www.sanger.ac.uk/tool/alien-hunter/",
+  "documentation": [
+    {
+      "documentation_name": "Alien_hunter README",
+      "documentation_URL": "https://github.com/sanger-pathogens/alien_hunter/blob/master/README.md"
+    }
+  ],
+  "training_materials": [
+    {
+      "training_name": "Bioinformatics Algorithms",
+      "training_URL": "https://www.coursera.org/specializations/bioinformatics"
+    },
+    {
+      "training_name": "Bioinformatics online course",
+      "training_URL": "https://www.edx.org/professional-certificate/bioinformatics"
+    }
+  ]
+}

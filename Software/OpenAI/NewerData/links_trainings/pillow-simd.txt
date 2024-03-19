@@ -1,0 +1,16 @@
+{
+  "SoftwareName": "pillow-simd",
+  "Software_URL": "https://github.com/uploadcare/pillow-simd",
+  "Documentation": [
+    {
+      "Doc_Name": "Pillow-simd Documentation",
+      "Doc_URL": "https://pillow.readthedocs.io/en/stable/"
+    }
+  ],
+  "Training_And_Tutorial": [
+    {
+      "Training_Name": "Pillow Tutorial",
+      "Training_URL": "https://pillow.readthedocs.io/en/stable/handbook/tutorial.html"
+    }
+  ]
+}

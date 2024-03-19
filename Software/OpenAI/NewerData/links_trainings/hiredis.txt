@@ -1,0 +1,23 @@
+{
+  "software": "hiredis",
+  "details": [
+    {
+      "homepage": "https://github.com/redis/hiredis",
+      "documentation": "https://redis.io/topics/internals-redirection",
+      "tutorials": [
+        {
+          "name": "How to install Hiredis",
+          "link": "https://gist.github.com/katopz/8b766a5cb0ca96c816658e9407e83d00"
+        },
+        {
+          "name": "Hiredis Tutorial",
+          "link": "https://blog.pivotal.io/data-science-pivotal/products/using-redis-as-a-time-series-database-how-to-use-the-hiredis-api"
+        },
+        {
+          "name": "Hiredis examples",
+          "link": "https://www.programcreek.com/python/example/86784/hiredis.Reader"
+        }
+      ]
+    }
+  ]
+}

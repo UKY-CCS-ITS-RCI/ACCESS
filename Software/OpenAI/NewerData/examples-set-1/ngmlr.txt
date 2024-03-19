@@ -1,0 +1,14 @@
+Use Case: NGMLR is a long-read mapper designed to accurately align sequenced DNA from unknown genomes to a reference. Here we show the process of aligning a long read file with the reference genome.
+
+Code details and examples:
+
+The input files required are the read file in FASTQ or FASTA format and the reference genome in FASTA format.
+
+For example, if your read file is 'reads.fasta' and the reference is 'reference.fasta', 
+
+Code: 
+```shell
+ngmlr -r reference.fasta -q reads.fasta -o output.sam
+```
+
+In the above code, '-r' represents the reference file, '-q' represents the query file and '-o' specifies the output file name.

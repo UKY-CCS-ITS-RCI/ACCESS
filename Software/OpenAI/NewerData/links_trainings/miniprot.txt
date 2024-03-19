@@ -1,0 +1,11 @@
+{
+    "Miniprot": {
+        "Software Page": "https://pypi.org/project/miniprot/",
+        "Documentation": "https://miniprot.readthedocs.io/en/latest/",
+        "Tutorials & Training": [
+            "https://bananamafia.dev/post/building-an-immune-repertoire/",
+            "https://www.rna-seqblog.com/explore-transcription-factor-binding-with-miniprot/",
+            "https://blog.jurisak.com/blog/2018/03/09/miniprot-more-than-fasta-parser/"
+        ]
+    }
+}

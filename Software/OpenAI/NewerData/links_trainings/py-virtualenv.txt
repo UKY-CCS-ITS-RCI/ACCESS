@@ -1,0 +1,13 @@
+{
+  "Software_Name": "py-virtualenv",
+  "Software_Page": "https://virtualenv.pypa.io/en/latest/",
+  "Links": [
+    {
+      "Documentation": "https://virtualenv.pypa.io/en/latest/user_guide.html",
+      "Tutorial_Link1": "https://www.dummies.com/programming/python/how-to-use-virtualenv-in-python/",
+      "Tutorial_Link2": "https://www.geeksforgeeks.org/python-virtual-environment/",
+      "Training_Material1": "https://www.youtube.com/watch?v=N5vscPTWKOk",
+      "Training_Material2": "https://realpython.com/python-virtual-environments-a-primer/"
+    }
+  ]
+}

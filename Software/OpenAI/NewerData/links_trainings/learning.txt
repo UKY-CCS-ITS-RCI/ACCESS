@@ -1,0 +1,68 @@
+{
+"software": [
+    {
+        "name": "Python",
+        "main_url": "https://www.python.org/",
+        "documentation_url": "https://docs.python.org/3/",
+        "tutorial_url": "https://www.learnpython.org/",
+        "additional_links": [
+            "https://www.codecademy.com/learn/learn-python-3",
+            "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+        ]
+    },
+    {
+        "name": "R",
+        "main_url": "https://www.r-project.org/",
+        "documentation_url": "https://cran.r-project.org/manuals.html",
+        "tutorial_url": "https://www.datacamp.com/courses/free-introduction-to-r",
+        "additional_links": [
+            "https://www.r-tutorial.com/",
+            "https://www.coursera.org/specializations/data-science-r"
+        ]
+    },
+    {
+        "name": "TensorFlow",
+        "main_url": "https://www.tensorflow.org/",
+        "documentation_url": "https://www.tensorflow.org/guide",
+        "tutorial_url": "https://www.tensorflow.org/tutorials",
+        "additional_links": [
+            "https://www.coursera.org/learn/introduction-tensorflow",
+            "https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/"
+        ]
+    },
+    {
+        "name": "Conda",
+        "main_url": "https://docs.conda.io/projects/conda/en/latest/",
+        "documentation_url": "https://docs.conda.io/projects/conda/en/latest/user-guide/",
+        "tutorial_url": "https://conda.io/projects/conda/en/latest/user-guide/getting-started.html",
+        "additional_links": [
+            "https://www.coursera.org/projects/conda",
+            "https://www.datacamp.com/community/tutorials/installing-R-conda"
+        ]
+    },
+    {
+        "name": "Bioconductor",
+        "main_url": "https://www.bioconductor.org/",
+        "documentation_url": "https://www.bioconductor.org/developers/package-guidelines/",
+        "tutorial_url": "https://www.bioconductor.org/help/course-materials/",
+        "additional_links": []
+    },
+    {
+       "name": "Hadoop",
+       "main_url": "http://hadoop.apache.org/",
+       "documentation_url": "http://hadoop.apache.org/docs/current/",
+       "tutorial_url": "https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html",
+       "additional_links": [
+           "https://www.coursera.org/learn/big-data-essentials",
+           "https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/"
+       ]
+   },
+   {
+       "name": "Slurm",
+       "main_url": "https://slurm.schedmd.com/",
+       "documentation_url": "https://slurm.schedmd.com/documentation.html",
+       "tutorial_url": "https://slurm.schedmd.com/quickstart.html",
+       "additional_links": []
+   }
+]
+}

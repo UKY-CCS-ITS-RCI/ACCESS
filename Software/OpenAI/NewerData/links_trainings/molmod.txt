@@ -1,0 +1,12 @@
+{
+  "MolMod": {
+    "Software URL": "https://molmod.github.io/molmod/",
+    "Documentation URL": "https://molmod.github.io/molmod/doc",
+    "Training & Tutorial Materials": [
+      {
+        "Material 1": "https://molmod.github.io/molmod/examples.html",
+        "Material 2": "https://github.com/molmod/molmod/graphs/contributors"
+      }
+    ]
+  }
+}

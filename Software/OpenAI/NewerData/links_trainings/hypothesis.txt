@@ -1,0 +1,18 @@
+{
+  "Software": "Hypothesis",
+  "Description": "Hypothesis is an advanced testing library for Python. It lets you write tests which are parametrized by a source of examples, and then generates simple and comprehensible examples that make your tests fail.",
+  "Links": {
+    "Software Page": "https://hypothesis.readthedocs.io/en/latest/",
+    "Documentation": "https://hypothesis.readthedocs.io/en/latest/details.html",
+    "Tutorials": [
+      "https://hypothesis.readthedocs.io/en/latest/quickstart.html",
+      "https://www.youtube.com/watch?v=Fx2PvrYxYAo",
+      "https://www.linkedin.com/pulse/python-functional-testing-logical-properties-infinite-case-smith/"
+    ],
+    "Training Materials": [
+      "https://docs.python-guide.org/writing/tests/",
+      "https://hypothesis.works/articles/tutorial/",
+      "https://books.google.com/books/about/Python_Testing_with_Pytest.html?id=McMdDwAAQBAJ"
+    ]
+  }
+}

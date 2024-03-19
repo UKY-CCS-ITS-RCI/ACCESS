@@ -1,0 +1,10 @@
+{
+  "software_name": "perftools-lite-loops",
+  "software_url": "https://docs.nersc.gov/performance/perftools-lite/",
+  "documentation_links": [
+    "https://docs.nersc.gov/performance/perftools-lite/",
+    "https://docs.nersc.gov/performance/profiling/#cray-perftools"],
+  "training_materials":[
+    "https://www.nersc.gov/users/computational-systems/cori/running-jobs/performance-and-debugging-tools/cray-performance-analysis-tools/",
+    "https://www.training.prace-ri.eu/training_material/uploads/tx_pracetmo/handasato-mdstep-tutorial-lite.pdf"]
+}

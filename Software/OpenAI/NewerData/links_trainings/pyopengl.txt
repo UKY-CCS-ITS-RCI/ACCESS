@@ -1,0 +1,13 @@
+{
+  "software": "PyOpenGL",
+  "softwareURL": "http://pyopengl.sourceforge.net/",
+  "documentationURL": [
+    "http://pyopengl.sourceforge.net/documentation/index.html"
+  ],
+  "tutorialURLs": [
+    "https://pythonprogramming.net/opengl-rotating-cube-example-pyopengl-tutorial/",
+    "http://pyopengl.sourceforge.net/context/tutorials/index.html",
+    "https://www.tutorialspoint.com/pyqt/pyqt_opengl.htm",
+    "https://coderslegacy.com/python/python-opengl-introduction/"
+  ]
+}

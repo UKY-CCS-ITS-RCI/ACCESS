@@ -1,0 +1,32 @@
+{
+    "softwareName": "Trilinos",
+    "softwareUrl": "https://trilinos.github.io/",
+    "documentation": [
+        {
+            "docTitle": "Trilinos Documentation",
+            "docUrl": "https://trilinos.github.io/documentation.html"
+        },
+        {
+            "docTitle": "Trilinos Developer Documentation",
+            "docUrl": "https://docs.trilinos.org/"
+        }
+    ],
+    "trainingMaterials": [
+        {
+            "materialTitle": "Trilinos Tutorials",
+            "materialUrl": "https://trilinos.github.io/tutorials.html"
+        },
+        {
+            "materialTitle": "Trilinos Webinars",
+            "materialUrl": "https://trilinos.github.io/webinars.html"
+        },
+        {
+            "materialTitle": "Trilinos User Guide",
+            "materialUrl": "https://trilinos.github.io/user_guide.html"
+        },
+        {
+            "materialTitle": "Trilinos Getting Started Guide",
+            "materialUrl": "https://trilinos.github.io/getting_started.html"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "softwareName": "GnuTLS",
+  "links": {
+    "softwarePage": "https://www.gnutls.org/",
+    "documentation": "https://www.gnutls.org/manual/",
+    "officialTutorial": "https://www.gnutls.org/manual/gnutls.html",
+    "tutorial1": "https://www.gnutls.org/manual/gnutls.html#Getting-started",
+    "tutorial2": "https://www.mankier.com/package/gnutls"
+  }
+}

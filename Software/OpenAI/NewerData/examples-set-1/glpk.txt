@@ -1,0 +1,43 @@
+Use Case: GLPK (GNU Linear Programming Kit) is a software package intended for solving large-scale linear programming (LP), mixed integer programming (MIP), and other related problems.
+
+Code details and examples: Code.
+
+A typical GLPK problem is defined in the GNU MathProg Language, which is a subset of the AMPL language.
+
+Below is an example of a simple linear programming problem definition using the GNU MathProg Language:
+
+``` 
+/* Problem Definition */
+param a >= 0;
+param b >= 0;
+
+var x >= 0;
+var y >= 0;
+
+maximize profit: 3 * x + 4 * y;
+subject to condition1: x <= a;
+subject to condition2: 2 * y <= b - x;
+subject to condition3: 2 * x + y <= 2 * b;
+```
+
+In this problem, we are trying to maximize the profit (defined as 3x + 4y) subject to the conditions specified.
+
+This code is typically stored in a .mod file. Let's assume that the code above is saved in a file named problem.mod.
+
+To solve the problem, we first need to create a data file (e.g., problem.dat) that includes the values for the parameters a and b:
+
+```
+/* Problem Data */
+param a := 4;
+param b := 12;
+```
+
+The problem solution is obtained by running the glpsol command from the GLPK package as follows:
+
+``` 
+glpsol -m problem.mod -d problem.dat
+``` 
+
+This command will run the problem.mod model with the problem.dat data file and output the solution, including the optimal values for x and y that maximize the profit while satisfying the constraints.  
+
+Note: Always ensure that the model constraints and data respect the problem's conditions and limitations. It is essential to verify that the model is correctly specified before relying on the results.

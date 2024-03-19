@@ -1,0 +1,21 @@
+{
+  "Software": "julia",
+  "Details": {
+    "Software Link": "https://julialang.org/",
+    "Documentation": "https://docs.julialang.org/en/v1/",
+    "Tutorials": [
+      {
+        "Tutorial Link": "https://julialang.org/learning/"
+      },
+      {
+        "Tutorial Link": "https://www.codecademy.com/learn/learn-julia"
+      },
+      {
+        "Tutorial Link": "https://www.tutorialspoint.com/julia/index.htm"
+      },
+      {
+        "Tutorial Link": "https://www.coursera.org/courses?query=julia%20programming"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mpc": {
+    "software_page": "https://www.multiprecision.org/mpc/home.html",
+    "documentation": [
+      "https://www.multiprecision.org/mpc/documentation.html"
+    ],
+    "tutorials": [
+      "https://www.multiprecision.org/mpc/documentation.html"
+    ]
+  }
+}

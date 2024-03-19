@@ -1,0 +1,15 @@
+{
+  "software": "capstone",
+  "software_url": "http://www.capstone-engine.org/",
+  "documentation": "http://www.capstone-engine.org/documentation.html",
+  "tutorials": [
+    {
+      "tutorial_name": "Capstone tutorial",
+      "link": "http://www.capstone-engine.org/tutorial.html"
+    },
+    {
+      "tutorial_name": "Capstone Documentation",
+      "link": "https://www.capstone-engine.org/documentation.html"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "scgen": {
+    "software_page": "https://github.com/theislab/scgen",
+    "documentation": "https://scgen.readthedocs.io/en/latest/",
+    "tutorials": [
+      "https://scgen.readthedocs.io/en/latest/notebooks/scgen.html",
+      "https://nbviewer.jupyter.org/github/theislab/scgen/blob/master/notebooks/pancreas.ipynb",
+      "https://nbviewer.jupyter.org/github/theislab/scgen/blob/master/notebooks/imbalance.ipynb"
+    ],
+    "additional_links": [
+      "https://www.biorxiv.org/content/10.1101/532895v1",
+      "https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30292-2"
+    ]
+  }
+}

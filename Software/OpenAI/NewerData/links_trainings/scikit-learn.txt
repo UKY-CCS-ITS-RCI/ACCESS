@@ -1,0 +1,37 @@
+{
+  "software": "scikit-learn",
+  "software_url": "https://scikit-learn.org/",
+  "documentation": {
+    "url": "https://scikit-learn.org/stable/user_guide.html"
+  },
+  "tutorials_training_materials": [
+    {
+      "title": "User Manual",
+      "url": "https://scikit-learn.org/stable/user_guide.html"
+    },
+    {
+      "title": "Tutorial (scikit-learn)",
+      "url": "https://scikit-learn.org/stable/supervised_learning.html#supervised-learning"
+    },
+    {
+      "title": "Classification of text documents using sparse features",
+      "url": "https://scikit-learn.org/stable/auto_examples/text/plot_document_classification_20newsgroups.html"
+    },
+    {
+      "title": "An introduction to machine learning with scikit-learn",
+      "url": "https://scikit-learn.org/stable/tutorial/basic/tutorial.html"
+    },
+    {
+      "title": "Python Machine Learning Sci-kit Learn Tutorial",
+      "url": "https://www.youtube.com/watch?v=elojMnjn4kk"
+    },
+    {
+      "title": "SciKit Learn - Machine Learning using Python",
+      "url": "https://www.tutorialspoint.com/scikit_learn/index.htm"
+    },
+    {
+      "title": "Scikit-learn Tutorial: Machine Learning in Python",
+      "url": "https://www.datacamp.com/community/tutorials/machine-learning-python"
+    }
+  ]
+}

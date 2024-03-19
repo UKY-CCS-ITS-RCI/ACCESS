@@ -1,0 +1,13 @@
+{
+  "Software": "TensorRT",
+  "Link": "https://developer.nvidia.com/tensorrt",
+  "Documentation": "https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html",
+  "Tutorials_and_Trainings": [
+    {
+      "Tutorial1": "https://developer.nvidia.com/blog/speeding-up-deep-learning-inference-using-tensorrt/",
+      "Tutorial2": "https://docs.nvidia.com/deeplearning/frameworks/tf-trt-user-guide/index.html",
+      "Training1": "https://www.nvidia.com/deeplearning/training/",
+      "Training2": "https://www.nvidia.com/deeplearning/ai-education/"
+    }
+  ]
+}

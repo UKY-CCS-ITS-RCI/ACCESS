@@ -1,0 +1,30 @@
+{
+  "itk": {
+    "software_page": "https://itk.org/",
+    "documentation": [
+      {
+        "url": "https://itk.org/ITK/help/documentation.html"
+      }
+    ],
+    "tutorials_and_training_materials": [
+      {
+        "url": "https://itk.org/ITK/help/tutorials.html"
+      },
+      {
+        "url": "https://itkpythonpackage.readthedocs.io/en/latest/"
+      },
+      {
+        "url": "https://itk.org/ITKExamples/"
+      },
+      {
+        "url": "https://www.kitware.com/platforms/desktop/itk/"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL4r7ooLxB8BBA0Kfo5LS3F0zNNcOcUhGQ"
+      },
+      {
+        "url": "https://insightsoftwareconsortium.github.io/itk-js/examples/"
+      }
+    ]
+  }
+}

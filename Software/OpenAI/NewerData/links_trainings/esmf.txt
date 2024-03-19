@@ -1,0 +1,15 @@
+{
+  "esmf": {
+    "software_page": "https://www.earthsystemcog.org/projects/esmf/",
+    "documentation": {
+      "main_documentation": "https://www.earthsystemcog.org/projects/esmf/releasedoc/",
+      "user_guide": "https://www.earthsystemcog.org/projects/esmf/user_guide/",
+      "developer_guide": "https://www.earthsystemcog.org/projects/esmf/developerguide/"
+    },
+    "training_and_tutorials": {
+      "getting_started": "https://www.earthsystemcog.org/projects/esmf/getting_started/",
+      "tutorials": "https://portal.nersc.gov/cfs/esmf/esmf_4_0_0rp1/tutorial/",
+      "esmf_webinar_series": "https://www.earthsystemcog.org/projects/esmf/webinar_series/"
+    }
+  }
+}

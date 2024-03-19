@@ -1,0 +1,9 @@
+{
+    "Software": "bzip2",
+    "Website": "https://sourceware.org/bzip2/",
+    "Documentation": "http://www.bzip.org/1.0.6/bzip2-manual-1.0.6.pdf",
+    "Tutorial_and_Training": [
+        "https://www.tutorialspoint.com/unix_commands/bzip2.htm",
+        "https://www.youtube.com/watch?v=rjl0CttfHlU"
+    ]
+}

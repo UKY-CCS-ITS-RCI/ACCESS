@@ -1,0 +1,23 @@
+{
+"name": "WebProxy",
+"softwarePage": "https://www.freeproxyserver.net/",
+"documentation": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling",
+"tutorialMaterials": [
+    {
+        "name": "How to Use a Proxy Server in Windows 10",
+        "url": "https://www.digitalcitizen.life/how-set-proxy-server-windows-10/"
+    },
+    {
+        "name": "How to Set Up a Proxy Server on Windows",
+        "url": "https://www.makeuseof.com/tag/windows-set-proxy-server/"
+    },
+    {
+        "name": "Setup Free Proxy Server with CCProxy Step by Step",
+        "url": "https://www.youngzsoft.net/ccproxy/proxy-server-installation-steps.htm"
+    },
+    {
+        "name": "How to use a proxy server with Firefox",
+        "url": "https://www.youtube.com/watch?v=1HtFpFYCPzs"
+    }
+  ]
+}

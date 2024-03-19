@@ -1,0 +1,13 @@
+{
+   "atram":{
+      "Software_page":"https://www.github.com/juliema/aTRAM",
+      "Documentation":[
+         "https://www.github.com/juliema/aTRAM/blob/master/README.rst",
+         "https://atram.readthedocs.io/"
+      ],
+      "Training_and_tutorial_materials":[
+         "https://juliema.github.io/atram/atram.html",
+         "https://www.youtube.com/watch?v=BbryBlz0ZS8"
+      ]
+   }
+}

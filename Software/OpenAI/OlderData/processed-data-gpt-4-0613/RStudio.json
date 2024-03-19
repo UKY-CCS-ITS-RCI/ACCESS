@@ -1,0 +1,12 @@
+{
+  "Software Name": "RStudio",
+  "links": {
+    "software page": "https://rstudio.com/",
+    "documentation": "https://docs.rstudio.com/",
+    "tutorials": [
+      "https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1",
+      "https://rstudio.com/resources/webinars/",
+      "https://education.rstudio.com/learn/beginner/"
+    ]
+  }
+}

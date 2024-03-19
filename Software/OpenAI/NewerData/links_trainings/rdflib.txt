@@ -1,0 +1,15 @@
+{
+    "SoftwareName": "rdflib",
+    "SoftwareInfo": [{
+        "WebPageLink": "https://pypi.org/project/rdflib/",
+        "DocumentationLinks": [
+            "https://rdflib.readthedocs.io/en/stable/",
+            "https://rdflib.readthedocs.io/en/stable/gettingstarted.html"
+        ],
+        "TutorialLinks": [
+            "https://www.stardog.com/tutorials/data-model/#rdf-and-linked-data",
+            "https://rdflib.readthedocs.io/en/stable/intro_to_parsing.html",
+            "https://rdflib.readthedocs.io/en/stable/intro_to_graphs.html"
+        ]
+    }]
+}

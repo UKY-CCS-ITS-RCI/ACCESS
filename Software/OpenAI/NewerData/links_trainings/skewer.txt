@@ -1,0 +1,18 @@
+{
+  "software": "skewer",
+  "link": "https://github.com/relipmoc/skewer",
+  "documentation": [
+    "https://github.com/relipmoc/skewer#usage",
+    "https://github.com/relipmoc/skewer#examples",
+    "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0352-z"
+  ],
+  "tutorial": [
+    "https://bioinformatics.ca/1day-amplicon/",
+    "https://www.bioo-scientific.com/Manuals/kewer_tutorial.pdf",
+    "https://training.h3abionet.org/IBT_2017/?tutorial=Quality%20Control"
+  ],
+  "training": [
+    "https://bioinformatics.ca/workshops/dna-seq-2019/skewer/",
+    "https://bioinformatics-core-shared-training.github.io/cruk-bioinf-sschool/Day1/Sequence_quality_control_AM.html"
+  ]
+}

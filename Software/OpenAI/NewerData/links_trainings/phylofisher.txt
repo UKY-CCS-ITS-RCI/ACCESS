@@ -1,0 +1,15 @@
+{
+  "software": "phylofisher",
+  "links": {
+    "software_page": "https://github.com/ODiogoSilva/phylofisher",
+    "documentation": [
+      "https://github.com/ODiogoSilva/phylofisher/wiki"
+    ],
+    "training_and_tutorial": [
+      {
+        "name": "phylofisher tutorial",
+        "url": "https://github.com/ODiogoSilva/phylofisher/tree/master/tutorials"
+      }
+    ]
+  }
+}

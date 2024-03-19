@@ -1,0 +1,17 @@
+Use Case: Extracting text from a PDF file using the pdftotext utility provided in the Xpdf package.
+
+Code Details and Examples:
+
+Input File: A PDF file from which you wish to extract the text. 
+
+Input File Format: PDF (Portable Document Format).
+
+Specification: The file should be a valid PDF document.
+
+Code Snippet: Here's how you can use the pdftotext utility to extract text from a PDF file.
+
+```bash
+pdftotext -layout input.pdf output.txt
+```
+
+Command to Run: The above command will extract the text from "input.pdf" file and will store it in "output.txt" file. The "-layout" option is used to maintain as much of the original layout as possible.

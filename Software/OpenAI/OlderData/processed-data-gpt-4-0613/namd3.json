@@ -1,0 +1,12 @@
+
+{
+  "NAMD3": {
+    "Software Page": "https://www.ks.uiuc.edu/Research/namd/",
+    "Documentation": "https://www.ks.uiuc.edu/Research/namd/current/ug/",
+    "Tutorials": [
+      "https://www.ks.uiuc.edu/Training/Tutorials/",
+      "https://www.ks.uiuc.edu/Training/Tutorials/science/namd/namd-tutorial-html/"
+    ]
+  }
+}
+

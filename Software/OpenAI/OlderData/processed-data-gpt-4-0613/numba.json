@@ -1,0 +1,32 @@
+{
+  "software": "numba",
+  "website": "http://numba.pydata.org/",
+  "documentation": [
+    {
+      "title": "Numba Documentation",
+      "url": "http://numba.pydata.org/numba-doc/latest/index.html"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "A Short Introduction to Numba",
+      "url": "https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/"
+    },
+    {
+      "title": "Numba: A JIT Compiler for Python",
+      "url": "https://nyu-cds.github.io/python-numba/"
+    },
+    {
+      "title": "Python Optimization with Numba",
+      "url": "https://www.youtube.com/watch?v=x58W9A2lnQc"
+    },
+    {
+      "title": "Tutorial: JIT with Numba",
+      "url": "https://numba.pydata.org/numba-doc/latest/user/5minguide.html"
+    },
+    {
+      "title": "Speed Up Your Algorithms Part 2— Numba",
+      "url": "https://towardsdatascience.com/speed-up-your-algorithms-part-2-numba-293e554c5cc1"
+    }
+  ]
+}

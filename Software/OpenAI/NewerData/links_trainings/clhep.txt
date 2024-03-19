@@ -1,0 +1,12 @@
+{
+  "Software": "clhep",
+  "Software Page": "http://proj-clhep.web.cern.ch/proj-clhep/",
+  
+  "Additional Links": {
+    "Documentation": "http://proj-clhep.web.cern.ch/proj-clhep/manual/UsersGuide/",
+    "Tutorials and Training Materials": [
+      "https://sourceforge.net/p/clhep/wiki/Home/",
+      "http://cd-docdb.fnal.gov/cgi-bin/sso/RetrieveFile?docid=4842;filename=CLHEP-2_1_1_0.pdf;version=1"
+    ]
+  }
+}

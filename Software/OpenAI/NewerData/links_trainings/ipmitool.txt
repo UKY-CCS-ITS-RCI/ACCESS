@@ -1,0 +1,12 @@
+{
+  "Software": "ipmitool",
+  "Website_Link": "https://sourceforge.net/projects/ipmitool/",
+  "Documentation": [
+    "https://www.mankier.com/1/ipmitool"
+  ],
+  "Tutorials_and_Training_Materials": [
+    "https://calomel.org/ipmi_lan.html",
+    "https://www.thomas-krenn.com/en/wiki/IPMI_Basics_using_Ipmitool",
+    "https://www.broadcom.com/support/knowledgebase/1211161495682/ipmitool-commands"
+  ]
+}

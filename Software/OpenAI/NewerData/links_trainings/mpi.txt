@@ -1,0 +1,23 @@
+{
+  "software_name": "MPI",
+  "software_url": "https://www.mpi-forum.org/",
+  "documentation_url": "https://www.mpi-forum.org/docs/",
+  "training_materials": [
+    {
+      "name": "Introduction to Parallel Computing with MPI",
+      "url": "https://computing.llnl.gov/tutorials/mpi/"
+    },
+    {
+      "name": "MPI Tutorial",
+      "url": "https://mpitutorial.com/tutorials/"
+    },
+    {
+      "name": "MPI Programming in C",
+      "url": "https://www.tacc.utexas.edu/documents/13601/667821/MPI.pdf"
+    },
+    {
+      "name": "MPI for Python (mpi4py)",
+      "url": "https://mpi4py.readthedocs.io/en/stable/tutorial.html"
+    }
+  ]
+}

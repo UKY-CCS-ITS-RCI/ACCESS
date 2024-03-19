@@ -1,0 +1,29 @@
+{
+    "Software": "VeryFastTree",
+    "Mainpage": "http://www.microbesonline.org/fasttree/",
+    "Links": {
+        "Documentation": "http://www.microbesonline.org/fasttree/#Options",
+        "Tutorials": [
+            {
+                "Link": "https://www.drive5.com/usearch/manual/cmd_fasttree.html",
+                "Name": "Usearch Manual for Fasttree"
+            },
+            {
+                "Link": "https://bioinformaticsworkbook.org/dataAnalysis/Phylogeny/Phylogeny_guide1.html#gsc.tab=0",
+                "Name": "Bioinformatics Workbook Phylogeny With Fasttree"
+            },
+            {
+                "Link": "https://www.youtube.com/watch?v=7hHXlP5n8gI",
+                "Name": "FastTree - Tutorial Video"
+            },
+            {
+                "Link": "https://cme.h-its.org/exelixis/web/software/raxml/index.html",
+                "Name": "RAxML Web Servers"
+            },
+            {
+                "Link": "https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/",
+                "Name": "EBI Tools Phylogeny"
+            }
+        ]
+    }
+}

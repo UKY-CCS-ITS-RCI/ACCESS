@@ -1,0 +1,10 @@
+{
+  "Software": "pyspoa",
+  "Official link": "https://github.com/nanoporetech/pyspoa",
+  "Documentation": {
+    "Link 1": "https://github.com/nanoporetech/pyspoa#usage"
+  },
+  "Tutorials and Training Materials": {
+    "Link 1": "https://github.com/nanoporetech/pyspoa#installation"
+  }
+}

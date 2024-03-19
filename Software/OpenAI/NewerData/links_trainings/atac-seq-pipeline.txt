@@ -1,0 +1,27 @@
+{
+  "SoftwareName": "atac-seq-pipeline",
+  "SoftwareURL": "https://github.com/ENCODE-DCC/atac-seq-pipeline",
+  "DocumentationURL": "https://atac-seq-pipeline.readthedocs.io/en/latest/",
+  "TrainingMaterial": [
+    {
+      "TutorialName": "atac-seq-pipeline: User's guide",
+      "TutorialURL": "https://atac-seq-pipeline.readthedocs.io/en/latest/"
+    },
+    {
+      "TutorialName": "How to run the pipeline",
+      "TutorialURL": "https://atac-seq-pipeline.readthedocs.io/en/latest/howto/"
+    },
+    {
+      "TutorialName": "A city tour - GITC",
+      "TutorialURL": "https://atac-seq-pipeline.readthedocs.io/en/latest/city_tour/"
+    },
+    {
+      "TutorialName": "Conda environment",
+      "TutorialURL": "https://atac-seq-pipeline.readthedocs.io/en/latest/install_conda/"
+    },
+    {
+      "TutorialName": "Capter 1 - Hello world",
+      "TutorialURL": "https://atac-seq-pipeline.readthedocs.io/en/latest/hello_world/"
+    }
+  ]
+}

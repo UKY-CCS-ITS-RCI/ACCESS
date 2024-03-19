@@ -1,0 +1,14 @@
+
+{
+    "name": "LittleCMS",
+    "software_page": "http://www.littlecms.com/",
+    "documentation": "https://littlecms.com/Docs.html",
+    "tutorials": [
+        "https://littlecms.com/tutorial.html",
+        "https://www.youtube.com/watch?v=bKmOAgjCua4"
+    ],
+    "additional_resources": [
+        "https://github.com/mm2/Little-CMS",
+        "https://en.wikipedia.org/wiki/LittleCMS"
+    ]
+}

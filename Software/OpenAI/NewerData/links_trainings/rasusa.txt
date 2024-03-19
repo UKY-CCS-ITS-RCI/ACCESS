@@ -1,0 +1,16 @@
+{
+  "Software": "rasusa",
+  "Details": [
+    {
+      "Software_URL": "https://github.com/mbhall88/rasusa",
+      "Documentation_URL": "https://github.com/mbhall88/rasusa/blob/master/README.md",
+      "Training_and_Tutorial_Materials": [
+        {
+          "Tutorial_URL_1": "https://bio.tools/rasusa",
+          "Tutorial_URL_2": "https://anaconda.org/bioconda/rasusa",
+          "Tutorial_URL_3": "https://vitessce.io/docs/tutorials/rasusa"
+        }
+      ]
+    }
+  ]
+}

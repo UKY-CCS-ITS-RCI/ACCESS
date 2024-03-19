@@ -1,0 +1,18 @@
+{
+  "Software": "BWA",
+  "Link": "https://github.com/lh3/bwa",
+  "Documentation": {
+    "Link": "https://github.com/lh3/bwa"
+  },
+  "Training_Tutorials": [
+    {
+      "Link": "https://www.youtube.com/watch?v=bz93ReOv87Y"
+    },
+    {
+      "Link": "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/cgat-training-material/genomics-mapping-reads-bwa/"
+    },
+    {
+      "Link": "https://informatics.fas.harvard.edu/short-read-alignment-bwa.html"
+    }
+  ]
+}

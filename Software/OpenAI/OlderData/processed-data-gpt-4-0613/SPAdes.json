@@ -1,0 +1,12 @@
+{
+  "Software Name": "SPAdes",
+  "links": {
+    "software page": "http://cab.spbu.ru/software/spades/",
+    "documentation": "http://cab.spbu.ru/files/release3.14.1/manual.html",
+    "tutorials": [
+      "https://bioinformaticsworkbook.org/Appendix/SPAdes_tutorial.html#gsc.tab=0",
+      "https://bpa-csiro-workshops.github.io/introduction-to-genomics/03-assembly.html",
+      "https://www.youtube.com/watch?v=HJtMz9TE3jM"
+    ]
+  }
+}

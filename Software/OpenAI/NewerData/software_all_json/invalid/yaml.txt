@@ -1,0 +1,1 @@
+I can generate a JSON string, but if you want the output in YAML format, you can easily convert the provided JSON string to YAML using online tools or libraries such as Python's `pyyaml`. Just let me know if you would like the JSON string output for the list of software, compilers, Python libraries, computational software, Conda packages, bioinformatics and HPC tools.

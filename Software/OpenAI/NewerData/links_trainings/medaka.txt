@@ -1,0 +1,24 @@
+{
+"Medaka": {
+  "Software Page": {
+    "URL": "https://nanoporetech.github.io/medaka/index.html"
+  },
+  "Documentation": {
+    "URL": "https://nanoporetech.github.io/medaka/"
+  },
+  "Training and Tutorial Materials": [
+    {
+      "Name": "Medaka GitHub Repository",
+      "URL": "https://github.com/nanoporetech/medaka"
+    },
+    {
+      "Name": "Medaka tutorials in ReadTheDocs",
+      "URL": "https://nanoporetech.github.io/medaka/"
+    },
+    {
+      "Name": "Introduction to genome assembly (uses medaka)",
+      "URL": "https://evomicsorg.github.io/genome-assembly-and-annotation-workshop-2021/lessons/03-practical-assembkit/"
+    }
+  ]
+}
+}

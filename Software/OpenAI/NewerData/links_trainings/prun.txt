@@ -1,0 +1,9 @@
+{
+    "software": "prun",
+    "software_page": "https://slurm.schedmd.com/prun.html",
+    "documentation": ["https://www.asc.ohio-state.edu/statistics/pinnovation/software/prun.pdf"],
+    "tutorial": [
+        "https://gehrcke.de/2010/09/prun-run-each-argument-as-command-in-parallel/",
+        "https://bioweb.pasteur.fr/coursematerials/Scientific/Introduction_to_Linux/materials/LauraHolton-Prince/prun.pdf"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+   "software_name": "mkl-service",
+   "software_page": "https://pypi.org/project/mkl-service/",
+   "additional_details": {
+      "documentation": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html",
+      "training_materials": [
+         {
+            "tutorial_name": "Using Intel Math Kernel Library with Python - Anaconda",
+            "tutorial_link": "https://www.anaconda.com/blog/developer-blog/intel-math-kernel-library-python/"
+         },
+         {
+            "tutorial_name": "Intel MKL in Python by importing mkl",
+            "tutorial_link": "https://software.intel.com/content/www/us/en/develop/documentation/mkl-tutorial-c/top/intel-math-kernel-library-intel-mkl-2020-basics/using-intel-mkl-in-python-by-importing-the-mkl-module.html"
+         }
+      ]
+   }
+}

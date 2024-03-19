@@ -1,0 +1,10 @@
+{
+  "softwareName": "hwloc",
+  "links": {
+    "softwarePage": "https://www.open-mpi.org/projects/hwloc/",
+    "documentation": "https://www.open-mpi.org/projects/hwloc/doc/",
+    "tutorial1": "https://www.open-mpi.org/projects/hwloc/tutorials/",
+    "tutorial2": "https://www.open-mpi.org/projects/hwloc/doc/v1.11.8/a00310.php#details",
+    "tutorial3": "https://www.bsc.es/research/high-performance-computing/hwloc"
+  }
+}

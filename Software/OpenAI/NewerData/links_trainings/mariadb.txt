@@ -1,0 +1,32 @@
+{
+  "software": "mariadb",
+  "website": "https://mariadb.org/",
+  "documentation": [
+    {
+      "link": "https://mariadb.com/kb/en/documentation/",
+      "title": "MariaDB Documentation"
+    }
+  ],
+  "tutorial_and_training": [
+    {
+      "link": "https://mariadb.com/kb/en/training/",
+      "title": "MariaDB Training"
+    },
+    {
+      "link": "https://www.mysqltutorial.org/mysql-tutorials/mariadb-tutorial.aspx/",
+      "title": "MariaDB Tutorial for MySQL Users"
+    },
+    {
+      "link": "https://www.tutorialspoint.com/mariadb/",
+      "title": "MariaDB - Tutorialspoint"
+    },
+    {
+      "link": "https://www.youtube.com/playlist?list=PLcFL8Rqk2krijOssLO0tTlAIY3ydL1NfY",
+      "title": "MariaDB Tutorial, YouTube Playlist"
+    },
+    {
+      "link": "https://www.guru99.com/mariadb-tutorial.html",
+      "title": "MariaDB Tutorial for Beginners"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "software_name": "prodigal",
+  "software_info": {
+    "software_link": "https://github.com/hyattpd/Prodigal",
+    "additional_links": {
+      "documentation_link": "https://github.com/hyattpd/Prodigal/wiki",
+      "tutorial_materials": [
+        {
+          "tutorial_name": "Prodigal tutorial by Francesco Asnicar",
+          "tutorial_link": "https://asnicar.github.io/post/prodigal/"
+        },
+        {
+          "tutorial_name": "Prodigal training set creation",
+          "tutorial_link": "https://genomewiki.ucsc.edu/index.php/Prodigal_guide#Training_set_creation"
+        },
+        {
+          "tutorial_name": "Prodigal ad hoc training files",
+          "tutorial_link": "https://edwards.sdsu.edu/research/prodigal-ad-hoc-training-files/"
+        }
+      ]
+    }
+  }
+}

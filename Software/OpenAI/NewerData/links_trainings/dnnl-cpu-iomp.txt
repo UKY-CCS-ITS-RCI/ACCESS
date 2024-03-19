@@ -1,0 +1,12 @@
+{
+  "Software Name": "dnnl-cpu-iomp",
+  "Software Page": "https://www.intel.com/content/www/us/en/developer/tools/oneapi/components/onemkl.html",
+  "Documentation": {
+    "Link #1": "https://intel.github.io/mkl-dnn/",
+    "Link #2": "https://www.intel.com/content/www/us/en/developer/tools/oneapi/programming-guide.html"
+  },
+  "Training and Tutorials": {
+    "Tutorial #1": "https://software.intel.com/content/www/us/en/develop/articles/get-started-with-intel-onemkl-for-linux.html",
+    "Tutorial #2": "https://software.intel.com/content/www/us/en/develop/articles/get-started-with-intel-onemkl-for-windows.html"
+  }
+}

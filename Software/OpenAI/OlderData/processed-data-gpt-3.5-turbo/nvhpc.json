@@ -1,0 +1,22 @@
+{
+    "software_name": "NVHPC",
+    "comprehensive_overview": "NVHPC is a suite of compilers and libraries designed by NVIDIA to offer high-performance computing capabilities for scientific, engineering, and artificial intelligence applications on NVIDIA GPUs.",
+    "core_features": [
+        "High-performance computing",
+        "Scientific computing",
+        "Engineering applications",
+        "Artificial intelligence"
+    ],
+    "general_tags": [
+        "Compilers",
+        "HPC tools",
+        "GPU computing",
+        "High-performance computing"
+    ],
+    "additional_tags": {
+        "research_discipline": "Computer Science",
+        "research_area": "Parallel Computing",
+        "software_class": "Compiler",
+        "software_type": "Library"
+    }
+}

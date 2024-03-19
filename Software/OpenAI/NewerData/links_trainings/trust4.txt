@@ -1,0 +1,11 @@
+{
+  "Software Name": "TRUST4",
+  "Software URL": "https://github.com/liulab-dfci/TRUST4",
+  "Documentation": "https://github.com/liulab-dfci/TRUST4/wiki",
+  "Training and Tutorial": [
+    {
+      "URL": "https://www.biorxiv.org/content/10.1101/2020.08.19.257592v1",
+      "Name": "Amino acid-level immunoglobulin reconstruction from bulk late-stage cancer single cell RNA-seq data"
+    }
+  ]
+}

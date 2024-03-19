@@ -1,0 +1,23 @@
+{
+  "Software": "Anaconda3_cpu",
+  "Website": "https://www.anaconda.com/products/individual",
+  "Documentation": "https://docs.anaconda.com/",
+  "Tutorials": [
+    {
+      "Link": "https://docs.anaconda.com/anaconda/user-guide/getting-started/",
+      "Title": "Getting Started with Anaconda"
+    },
+    {
+      "Link": "https://www.datacamp.com/community/tutorials/installing-anaconda-windows",
+      "Title": "Installing Anaconda on Windows"
+    },
+    {
+      "Link": "https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04",
+      "Title": "How to Install the Anaconda Python Distribution on Ubuntu"
+    },
+    {
+      "Link": "https://conda.io/projects/conda/en/latest/user-guide/getting-started.html",
+      "Title": "Conda Getting Started"
+    }
+  ]
+}

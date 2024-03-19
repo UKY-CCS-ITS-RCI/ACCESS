@@ -1,0 +1,55 @@
+Use Case: ELPA is a high-performing library for the parallel solution of symmetric and Hermitian eigenvalue problems. Particularly, ELPA is used in scientific research for electronic structure calculations.
+
+Code details and examples:
+
+Code: 
+The required format for input matrices in ELPA is a block-cyclic distribution. Let's use a simple matrix as example:
+
+```fortran
+program testing_elpa
+  use elpa
+  implicit none
+  integer, parameter :: dp = kind(1.0d0)
+  integer, parameter :: n = 1000
+  real(dp), allocatable :: a(:,:), b(:,:)
+  integer :: na, myid, handle
+  integer :: mpi_flag
+  integer, parameter :: mpiroot = 0
+  integer :: error
+
+  Call mpi_init(mpi_flag)
+
+  !initialize elpa
+  na = elpa_init(n)
+  if (na < 0) stop
+
+  !allocate memory
+  allocate(a(n, na), b(n,na))
+
+  !fill the matrices
+  call random_number(a)
+  call random_number(b)
+
+  !create handle
+  handle = elpa_allocate(n, elpa_real_double_precision)
+
+  !diagonalize the matrix
+  call elpa_diagonalize(handle, a, b, error)
+
+  !release the handle
+  call elpa_deallocate(handle)
+
+  !finalize the library
+  call elpa_finalize()
+
+  call mpi_finalize(mpi_flag)
+end program testing_elpa
+```
+
+To compile the program, you would have to link the ELPA library along with an MPI compiler: `mpif90 testing_elpa.f90 -lelpa`.
+
+Command to run the program is: `mpirun -np 4 ./a.out`. 
+
+Here, `n` represents the matrix size and `na` signifies the number of eigenvalues to be computed. The matrices are filled with random numbers and then diagonalized. The diagonalized matrix is then stored in `a` and the eigenvalues in `b`. 
+
+In terms of the input files required, this depends on the specific use-case. Typically, ELPA is used as part of larger applications (such as electronic structure calculations), and it uses the input from these applications which often comes in the form of large matrices. It should be noted that the matrix elements must be of double precision real or complex numbers, and the matrix should be symmetric (real) or Hermitian (complex).

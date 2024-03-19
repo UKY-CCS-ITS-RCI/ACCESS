@@ -1,0 +1,28 @@
+{
+  "name": "bedops",
+  "softwarePage": "https://bedops.readthedocs.io/en/latest/",
+  "documentation": [
+    { 
+      "name": "Read the Docs",
+      "link": "https://bedops.readthedocs.io/en/latest/" 
+    },
+    { 
+      "name": "Github Documentation",
+      "link": "https://github.com/bedops/bedops/tree/master/documentation" 
+    }
+  ],
+  "tutorial": [
+    { 
+      "name": "bedops Tutorial Step-by-step",
+      "link": "https://kentinformatics.github.io/bedops-tutorial/" 
+    },
+    { 
+      "name": "Biostar Tutorial",
+      "link": "https://www.biostars.org/p/207015/" 
+    },
+    { 
+      "name": "Introduction to bedops",
+      "link": "https://stephenturner.github.io/dibsi-rnaseq/day-2/10-bedops-lecture.html" 
+    }
+  ]
+}

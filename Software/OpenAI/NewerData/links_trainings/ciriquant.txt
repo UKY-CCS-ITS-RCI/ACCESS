@@ -1,0 +1,9 @@
+{
+  "software_name": "ciriquant",
+  "software_page": "http://chulab.genome.tugraz.at/ciriquant/",
+  "additional_links": {
+    "documentation": "http://chulab.genome.tugraz.at/ciriquant/site/",
+    "tutorial_materials": "http://chulab.genome.tugraz.at/ciriquant/examples#iris",
+    "code_repository": "https://github.com/chulab/ciriquant"
+  }
+}

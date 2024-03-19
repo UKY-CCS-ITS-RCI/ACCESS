@@ -1,0 +1,62 @@
+Use Case: Use Subversion for version control which allows easier version control, reverting to previous versions, and managing multiple branches of the codebase.
+
+Code details and examples: Code
+
+Sample Input File: A simple text file such as example.txt can be used to illustrate the subversion commands.
+
+The file should have any text content, for example, it could be:
+"Hello, World!
+
+This is an example text file for Subversion."
+
+The command to add this file to the Subversion repository is:
+
+`svn add example.txt`
+
+The command-line output will be:
+
+```
+A         example.txt
+```
+
+After adding the file, it needs to be committed to the repository:
+
+`svn commit -m "Add example.txt" example.txt`
+
+The command-line output will show the revision number, for example:
+
+```
+Adding         example.txt
+Transmitting file data .
+Committed revision 1.
+```
+
+When changes are made to the file, Subversion can show the differences:
+
+`svn diff example.txt`
+
+If the file was changed from "Hello, World!" to "Hello, World! This is Subversion.", then the command-line output will be something like:
+
+```
+Index: example.txt
+===================================================================
+--- example.txt	(revision 1)
++++ example.txt	(working copy)
+@@ -1,2 +1,2 @@
+-Hello, World!
++Hello, World! This is Subversion.
+ 
+ This is an example text file for Subversion.
+```
+
+To update the file in the repository with the changes:
+
+`svn commit -m "Update example.txt" example.txt`
+
+The command-line output will be:
+
+```
+Sending        example.txt
+Transmitting file data .
+Committed revision 2.
+```

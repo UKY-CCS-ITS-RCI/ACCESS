@@ -1,0 +1,15 @@
+{
+  "Software": "z3",
+  "Website": "https://github.com/Z3Prover/z3",
+  "Documentation": {
+    "API documentation": "https://z3prover.github.io/api/html/group__capi.html"
+  },
+  "Tutorials": {
+    "Z3 Theorem Prover Tutorial by Nikolaj Bjorner and Leonardo de Moura": "https://ericpony.github.io/z3py-tutorial/guide-examples.htm",
+    "Python scripts using Z3 API": "https://github.com/Z3Prover/z3/tree/master/examples/python"
+  },
+  "Training materials": {
+    "Z3 A Tutorial by Nikolaj Bjorner and Leonardo de Moura": "https://rise4fun.com/z3/tutorial/guide",
+    "Z3Py Guide": "https://theory.stanford.edu/~nikolaj/programmingz3.html"
+  }
+}

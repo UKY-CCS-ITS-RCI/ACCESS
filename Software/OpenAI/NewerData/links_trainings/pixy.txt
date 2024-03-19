@@ -1,0 +1,10 @@
+{
+    "name": "pixy",
+    "software_url": "https://github.com/ksamuk/pixy",
+    "documentation_url": "https://pixy.readthedocs.io/en/latest/",
+    "tutorial_urls": [
+        "https://pixy.readthedocs.io/en/latest/3_user_guide.html",
+        "https://www.liebertpub.com/doi/10.1089/cmb.2019.0296",
+        "https://www.youtube.com/watch?v=XqhGoT_ldjo"
+    ]
+}

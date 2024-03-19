@@ -1,0 +1,19 @@
+{
+  "software": "Jupyter",
+  "website": "https://jupyter.org/",
+  "documentation": "https://jupyter.org/documentation",
+  "tutorials": [
+    {
+      "name": "Jupyter Notebook Beginner Guide",
+      "url": "https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/"
+    },
+    {
+      "name": "DataCamp Course - Jupyter Notebook Tutorial: The Definitive Guide",
+      "url": "https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook"
+    },
+    {
+      "name": "Project Jupyter Tutorials on Github",
+      "url": "https://github.com/ipython/ipython-in-depth"
+    }
+  ]
+}

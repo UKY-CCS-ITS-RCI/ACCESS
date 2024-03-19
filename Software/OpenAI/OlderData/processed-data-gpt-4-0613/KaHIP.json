@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "KaHIP": {
+      "MainPage": "http://algo2.iti.kit.edu/documents/kahip/",
+      "Documentation": "http://algo2.iti.kit.edu/documents/kahip/kahip.pdf",
+      "Tutorials": [
+        "http://algo2.iti.kit.edu/documents/kahip/",
+        "https://www.youtube.com/watch?v=QCVoZfyZ6a0",
+        "https://courses.csail.mit.edu/6.856/fall04/lectures/L25.readings/MJ94.pdf"
+      ]
+    }
+  }
+}

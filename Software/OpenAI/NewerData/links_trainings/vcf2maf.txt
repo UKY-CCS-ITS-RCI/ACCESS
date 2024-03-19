@@ -1,0 +1,20 @@
+{
+  "Vcf2maf": {
+    "software_page": "https://github.com/mskcc/vcf2maf",
+    "documentation": "https://github.com/mskcc/vcf2maf/blob/master/README.md",
+    "tutorial_materials": [
+      {
+        "title": "VCF to MAF conversion",
+        "url": "https://gatkforums.broadinstitute.org/gatk/discussion/11127/vcf-to-maf-conversion"
+      },
+      {
+        "title": "Bioinformatics Workshop: Genomic Data Analysis and Visualization",
+        "url": "https://bioinformatics-workshop.com/bioinformatics-practicals/genomic-data-analysis-and-visualization/"
+      },
+      {
+        "title": "VCF/MAF file format conversion",
+        "url": "https://www.biostars.org/p/259842/"
+      }
+    ]
+  }
+}

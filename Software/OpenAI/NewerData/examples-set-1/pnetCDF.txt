@@ -1,0 +1,46 @@
+Use Case: Parallel netCDF (PnetCDF) is a high-performance I/O library that provides an interface for manipulating data stored in netCDF format, primarily used in scientific applications that need to process large-scale multidimensional data.
+
+Code details and examples: 
+
+A typical netCDF dataset in PnetCDF is manipulated using various functions provided by the library:
+
+Code:
+
+```c
+#include <stdio.h>
+#include <string.h>
+#include netcdf.h>
+
+#define FILE_NAME "test.nc"
+#define DIM0_NAME "x"
+#define DIM_SIZE 4
+
+int main() {
+  int ncid, varid, dimids[1];
+  int data_out[DIM_SIZE] = {0, 10, 20, 30};
+
+  nc_create(FILE_NAME, NC_CLOBBER, &ncid);
+  nc_def_dim(ncid, DIM0_NAME, DIM_SIZE, &dimids[0]);
+  nc_def_var(ncid, "data", NC_INT, 1, dimids, &varid);
+  nc_enddef(ncid);
+
+  nc_put_var_int(ncid, varid, &data_out[0]);
+
+  nc_close(ncid);
+
+  return 0;
+}
+```
+
+This C program creates a new netCDF file named "test.nc" with a single dimension "x" of size 4, and a variable "data" of size 4. The "data" variable is then populated with four integer values.
+
+To compile and run this code, we may need to specify the include and library paths for the netCDF library, which might look like this:
+
+Command to run:
+
+```
+gcc -I /path/to/netcdf/include -L /path/to/netcdf/lib -lnetcdf -o test test.c
+./test
+```
+
+Note: Please replace "/path/to/netcdf/include" and "/path/to/netcdf/lib" with the actual paths to the netCDF include files and libraries. Usually these paths can be obtained by running "nc-config --cflags" and "nc-config --flibs" respectively.

@@ -1,0 +1,10 @@
+{
+    "Software": "bedtools2",
+    "Website": "https://github.com/arq5x/bedtools2",
+    "Documentation": "https://bedtools.readthedocs.io/en/latest/",
+    "Tutorial_and_Training": [
+        "https://davetang.org/wiki/tiki-index.php?page=bedtools",
+        "http://quinlanlab.org/tutorials/bedtools/bedtools.html",
+        "https://bedtools.readthedocs.io/en/latest/content/example-usage.html"
+    ]
+}

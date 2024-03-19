@@ -1,0 +1,15 @@
+{
+  "shasta": {
+    "software_page": "https://github.com/chanzuckerberg/shasta",
+    "documentation": [
+      {
+        "documentation_page": "https://chanzuckerberg.github.io/shasta/"
+      }
+    ],
+    "training_materials": [
+      {
+        "training_page": "https://github.com/chanzuckerberg/shasta/wiki"
+      }
+    ]
+  }
+}

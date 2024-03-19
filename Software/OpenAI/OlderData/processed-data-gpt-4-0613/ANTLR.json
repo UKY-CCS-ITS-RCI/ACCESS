@@ -1,0 +1,19 @@
+{
+  "Software": "ANTLR",
+  "Website": "https://www.antlr.org/",
+  "Documentation": "https://www.antlr.org/api/",
+  "Tutorials and Training material": [
+    {
+      "Title": "ANTLR Mega Tutorial",
+      "Link": "https://tomassetti.me/antlr-mega-tutorial/"
+    },
+    {
+      "Title": "ANTLR Tutorial - Hello Word",
+      "Link": "https://www.tutorialspoint.com/antlr/antlr_hello_word.htm"
+    },
+    {
+      "Title": "Learn ANTLR: Best ANTLR tutorials & best ANTLR books 2021",
+      "Link": "https://reactdom.com/antlr"
+    }
+  ]
+}

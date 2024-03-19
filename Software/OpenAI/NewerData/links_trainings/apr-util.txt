@@ -1,0 +1,8 @@
+{
+  "software": "apr-util",
+  "details": [
+    {
+      "name": "Software Page",
+      "url": "https://apr.apache.org/"
+    },
+    {

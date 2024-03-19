@@ -1,0 +1,22 @@
+{
+  "software": "libev",
+  "software_url": "http://software.schmorp.de/pkg/libev.html",
+  "documentation": {
+    "libev_doc_url": "http://pod.tst.eu/http://cvs.schmorp.de/libev/ev.pod",
+    "libev_man_page": "http://manpages.ubuntu.com/manpages/natty/man3/ev.3.html"
+  },
+  "tutorials_and_training": [
+    {
+      "tutorial_name": "libev - a high performance full-featured event loop written in C",
+      "tutorial_url": "https://www.pabst-software.de/libev-tutorial.html"
+    },
+    {
+      "tutorial_name": "Event-driven programming with libev",
+      "tutorial_url": "https://www.slideshare.net/lihan727/event-driven-programing-with-libev"
+    },
+    {
+      "tutorial_name": "libev Programming Tutorial",
+      "tutorial_url": "https://www.ulduzsoft.com/2012/08/libev-programming-tutorial/"
+    }
+  ]
+}

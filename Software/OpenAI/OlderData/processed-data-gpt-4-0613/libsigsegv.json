@@ -1,0 +1,9 @@
+{
+    "software": "libsigsegv",
+    "resources": {
+        "softwareHomepage": "https://www.gnu.org/software/libsigsegv/",
+        "documentation": "https://www.gnu.org/software/libsigsegv/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

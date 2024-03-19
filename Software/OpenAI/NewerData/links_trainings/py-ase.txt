@@ -1,0 +1,12 @@
+{
+  "name": "py-ase",
+  "software_page": "https://wiki.fysik.dtu.dk/ase/",
+  "additional_links": {
+    "documentation": "https://wiki.fysik.dtu.dk/ase/ase.html",
+    "tutorial_materials": [
+      "https://wiki.fysik.dtu.dk/ase/tutorials/tutorials.html",
+      "https://github.com/jkitchin/ase-tutorials",
+      "https://www.virtu.uni-saarland.de/gravon/dissemination/software/ase-python-tutorial.html"
+    ]
+  }
+}

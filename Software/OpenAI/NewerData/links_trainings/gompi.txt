@@ -1,0 +1,19 @@
+{
+  "software": "Gompi",
+  "software_page_link": "https://www.open-mpi.org/",
+  "documentation_link": "https://www.open-mpi.org/doc/",
+  "tutorial_links": [
+    {
+      "title": "Open MPI Tutorial",
+      "url": "http://mpitutorial.com/tutorials/"
+    },
+    {
+      "title": "MPI tutorial for beginners",
+      "url": "https://www.youtube.com/watch?v=f4x-FMfR5rQ"
+    },
+    {
+      "title": "OMP Introduction",
+      "url": "https://www.open-mpi.org/faq/?category=introduction"
+    }
+  ]
+}

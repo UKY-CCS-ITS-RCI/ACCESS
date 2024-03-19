@@ -1,0 +1,20 @@
+{
+  "Software": "py-six",
+  "Software Page": "https://pypi.org/project/six/",
+  "Documentation": [
+    {
+      "URL": "https://six.readthedocs.io/",
+      "Description": "Official Documentation"
+    }
+  ],
+  "Training and Tutorial Materials": [
+    {
+      "URL": "https://www.geeksforgeeks.org/python-2to3-utility/",
+      "Description": "Tutorial - Python 2to3 - An Automated Python 2 to Python 3 converter"
+    },
+    {
+      "URL": "https://realpython.com/tutorials/six/",
+      "Description": "Python 2 and 3 Compatibility With Six and Python-Future Libraries Tutorial"
+    }
+  ]
+}

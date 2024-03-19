@@ -1,0 +1,22 @@
+
+{
+  "Banner": {
+    "software_page": "https://www.ellucian.com/solutions/ellucian-banner",
+    "documentation": "https://www.ellucian.com/support-and-training/documentation-and-guides/bannerbyellucian",
+    "training_materials": [
+      {
+        "title": "Ellucian Training Services",
+        "url": "https://www.ellucian.com/support-and-training/training-services"
+      },
+      {
+        "title": "Ellucian Banner Registration Training Video",
+        "url": "https://www.youtube.com/watch?v=df1OkMYK9N8"
+      },
+      {
+        "title": "Ellucian Banner Tutorial - How to use Banner 9",
+        "url": "https://www.youtube.com/watch?v=3Tchob8Q5tA"
+      }
+    ]
+  }
+}
+

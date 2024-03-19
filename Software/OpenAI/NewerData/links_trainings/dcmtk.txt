@@ -1,0 +1,11 @@
+{
+  "Software": "dcmtk",
+  "Links": {
+    "Software Page": "https://dicom.offis.de/dcmtk.php.en",
+    "Documentation": "https://dicom.offis.de/dcmtk.php.en",
+    "Tutorials": {
+      "Basic tutorial": "https://dicom.offis.de/tutorial.php.en",
+      "Advanced tutorial": "https://dicom.offis.de/advtut.php.en"
+    }
+  }
+}

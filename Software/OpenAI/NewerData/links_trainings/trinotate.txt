@@ -1,0 +1,19 @@
+{
+  "Name": "Trinotate",
+  "SoftwarePage": {
+    "URL": "https://github.com/Trinotate/Trinotate.github.io"
+  },
+  "Documentation": {
+    "URL": "https://github.com/Trinotate/Trinotate.github.io/wiki"
+  },
+  "Tutorials": [
+    {
+      "Name": "Trinotate Tutorial",
+      "URL": "https://youtu.be/s6iyfCdJyPQ"
+    },
+    {
+      "Name": "Trinotate Annotation Workflow",
+      "URL": "https://trinotate.github.io/Trinotate_workflow.html"
+    }
+  ]
+}

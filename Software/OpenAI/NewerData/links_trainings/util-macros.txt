@@ -1,0 +1,19 @@
+{
+  "softwareName": "util-macros",
+  "softwareLink": "https://www.x.org/releases/individual/util/",
+  "documentationLink": "https://www.x.org/wiki/guide/macros/",
+  "trainingAndTutorials": [
+    {
+      "tutorialName": "Xorg util-macros",
+      "tutorialLink": "https://linuxreviews.org/Xorg_util-macros"
+    },
+    {
+      "tutorialName": "X library Macros",
+      "tutorialLink": "https://www.linuxtopia.org/online_books/linux_development_guides/x_lib_ref/macros/"
+    },
+    {
+      "tutorialName": "How to install util-macros in Ubuntu",
+      "tutorialLink": "https://zoomadmin.com/HowToInstall/UbuntuPackage/xutils-dev"
+    }
+  ]
+}

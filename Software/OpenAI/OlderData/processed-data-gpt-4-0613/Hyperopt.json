@@ -1,0 +1,18 @@
+
+{
+  "Hyperopt": {
+    "software_page": "http://hyperopt.github.io/hyperopt/",
+    "documentation": "https://hyperopt.github.io/hyperopt/",
+    "training_materials": [
+      {
+        "title": "Hyperopt: Optimizing Hyperparams with Python",
+        "url": "https://www.datacamp.com/community/tutorials/hyperparameter-optimization-with-hyperopt"
+      },
+      {
+        "title": "Python Machine Learning Optimization with HyperOpt",
+        "url": "https://stackabuse.com/python-machine-learning-optimization-with-hyperopt/"
+      }
+    ]
+  }
+}
+

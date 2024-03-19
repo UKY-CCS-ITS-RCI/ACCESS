@@ -1,0 +1,23 @@
+{
+  "Software": "Emacs",
+  "Link": "https://www.gnu.org/software/emacs/",
+  "Documentation": [
+    {
+      "URL": "https://www.gnu.org/software/emacs/manual/emacs.html"
+    }
+  ],
+  "Training Materials": [
+    {
+      "Title": "An Introduction to Programming in Emacs Lisp",
+      "URL": "https://www.gnu.org/software/emacs/manual/eintr.html"
+    },
+    {
+      "Title": "Emacs Tutorial",
+      "URL": "https://www.gnu.org/software/emacs/tour/"
+    },
+    {
+      "Title": "Learn Emacs in 21 Days",
+      "URL": "https://www.gnu.org/software/emacs/manual/learn-emacs-in-21-days.html"
+    }
+  ]
+}

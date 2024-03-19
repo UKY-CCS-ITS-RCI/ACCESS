@@ -1,0 +1,9 @@
+{
+  "softwareName": "gzip",
+  "links": {
+    "softwarePage": "https://www.gnu.org/software/gzip/",
+    "documentation": "https://www.gnu.org/software/gzip/manual/gzip.html",
+    "tutorial1": "https://www.tecmint.com/18-gzip-and-gunzip-command-examples-in-linux/",
+    "tutorial2": "https://www.youtube.com/watch?v=bKHiZtxKUfM"
+  }
+}

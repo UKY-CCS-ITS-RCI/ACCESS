@@ -1,0 +1,27 @@
+Use Case: Libint is widely used for computations of molecular integrals over Gaussian functions in molecular quantum chemistry. These computations are essential for molecular modeling and simulation. As Libint is a core computational kernel and its performance critical for many applications, we need to ensure that we use efficient algorithms. Molecular orbital basis set data is usually provided by the user in the form of a Gaussian-type orbital (GTO) basis set.  The format is the normalized contraction coefficients and exponents of the primitive Gaussian functions.
+
+Code details and examples: Code
+
+In libint, one usually specifies the basis set as a part of the molecular input file, for example:
+
+3
+water
+O 0.000000 0.000000 0.000000
+H 0.758602 0.000000 0.504284
+H 0.758602 0.000000 -0.504284
+sto-3g
+
+Where the first line (3) indicates the number of atoms in the molecule, "water" is a comment line for the user, the next three lines specify the atomic coordinates (in Angstroms), and the final line specifies the basis set (sto-3g is a popular choice for initial calculations).
+
+The molecule file is then read by the driver which computes the energies and forces. The libint code itself is a low-level library designed to be used by other quantum chemistry software, rather than being used directly. 
+
+The command to run libint dependent code could look like:
+
+```
+gcc -o myprog myprog.c `pkg-config --libs libint`
+./myprog < molecule.data
+```
+
+Where `myprog.c` is code written by the user utilizing the libint library, and `molecule.data` is the input file in the format given above.
+
+Please note, these are hypothetical and for comprehensive details, one has to refer to manuals or relevant literature.

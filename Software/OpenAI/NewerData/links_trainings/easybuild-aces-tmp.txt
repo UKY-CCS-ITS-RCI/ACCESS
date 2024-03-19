@@ -1,0 +1,18 @@
+{
+    "easybuild-aces-tmp": {
+        "software_url": "https://github.com/easybuilders/easybuild-easyblocks",
+        "documentation": [
+            {
+                "url": "https://easybuild.readthedocs.io/en/latest/"
+            }
+        ],
+        "training_materials": [
+            {
+                "url": "https://easybuild.readthedocs.io/en/latest/Tutorial.html"
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=2iR4WfS5zAQ"
+            }
+        ]
+    }
+}

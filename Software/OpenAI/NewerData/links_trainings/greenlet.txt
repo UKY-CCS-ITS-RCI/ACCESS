@@ -1,0 +1,13 @@
+{
+  "greenlet": {
+    "Software page": "https://greenlet.readthedocs.io/en/latest/",
+    "Additional links": {
+      "Documentation": "https://greenlet.readthedocs.io/en/latest/",
+      "Training material": {
+        "What is greenlet in Python? - Tutorial And Example": "https://www.tutorialandexample.com/what-is-greenlet-in-python/",
+        "Greenlets - Python Concurrency - Intermediate Python Practical Guide - Tutorial": "https://www.tutorialsteacher.com/python/greenlets-python-concurrency",
+        "Python greenlet Tutorial - JournalDev": "https://www.journaldev.com/34976/python-greenlet-tutorial"
+      }
+    }
+  }
+}

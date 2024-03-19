@@ -1,0 +1,30 @@
+{
+  "gsd-vmd": {
+    "softwarePage": "https://www.ks.uiuc.edu/Research/vmd/plugins/gsdplugin/",
+    "documentation": "https://gsd.readthedocs.io/en/stable/",
+    "tutorials": [
+      {
+        "title": "Getting Started with VMD",
+        "url": "https://www.ks.uiuc.edu/Research/vmd/tutorial/"
+      },
+      {
+        "title": "VMD Plugins",
+        "url": "https://www.ks.uiuc.edu/Research/vmd/plugins/"
+      },
+      {
+        "title": "VMD User's Guide",
+        "url": "https://www.ks.uiuc.edu/Research/vmd/current/ug/"
+      }
+    ],
+    "additionalMaterials": [
+      {
+        "title": "VMD Mail List Archive",
+        "url": "https://www.ks.uiuc.edu/Research/vmd/mailing_list/"
+      },
+      {
+        "title": "VMD Scripting Manual",
+        "url": "https://www.ks.uiuc.edu/Research/vmd/current/ug/node178.html"
+      }
+    ]
+  }
+}

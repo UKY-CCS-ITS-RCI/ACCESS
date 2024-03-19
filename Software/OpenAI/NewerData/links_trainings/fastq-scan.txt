@@ -1,0 +1,13 @@
+{
+  "software_name": "fastq-scan",
+  "software_page_link": "https://github.com/rjchallis/fastq-scan",
+  "documentation_link": "https://github.com/rjchallis/fastq-scan",
+ "tutorials": [
+  {
+    "tutorial1": {
+      "name": "fastq-scan Basic Usage",
+      "link": "https://bio.tools/fastq-scan"
+    }
+  ],
+  "training_materials": []
+}

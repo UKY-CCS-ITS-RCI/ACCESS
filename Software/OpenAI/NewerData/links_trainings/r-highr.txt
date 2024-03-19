@@ -1,0 +1,14 @@
+{
+  "softwareName": "R-Highr",
+  "softwarePage": "https://cran.r-project.org/web/packages/highr/index.html",
+  "documentation": [
+    {
+      "documentationURL": "https://cran.r-project.org/web/packages/highr/highr.pdf"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorialURL": "https://www.rdocumentation.org/packages/highr/versions/0.9/topics/highr"
+    }
+  ]
+}

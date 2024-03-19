@@ -1,0 +1,20 @@
+{
+  "Software": {
+    "Name": "Motif",
+    "Homepage": "http://motif.ics.com/motif",
+    "Documentation": {
+      "Title": "Motif Reference Manual",
+      "URL": "http://www.ist.co.uk/motif/books/vol6b/booktoc.pdf"
+    },
+    "Tutorials": [
+      {
+        "Title": "Motif Programming & Reference 2nd Edition",
+        "URL": "https://motif.ics.com/sites/default/files/motif-2.1.30-user-guide.pdf"
+      },
+      {
+        "Title": "Programming with Motif",
+        "URL": "http://web.cs.ucla.edu/~miryung/Public/motifpart1.pdf"
+      }
+    ]
+  }
+}

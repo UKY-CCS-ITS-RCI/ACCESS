@@ -1,0 +1,26 @@
+{
+  "software": [
+    {
+      "name": "mummer",
+      "software_page": "https://mummer4.github.io/",
+      "additional_links": [
+        {
+          "type": "documentation",
+          "url": "https://mummer4.github.io/manual/manual.html"
+        },
+        {
+          "type": "tutorial",
+          "url": "https://compbio.pbworks.com/w/page/32341141/MUMmer%20tutorials"
+        },
+        {
+          "type": "training_material",
+          "url": "https://www.youtube.com/watch?v=7W8F4ApA2Sk"
+        },
+        {
+          "type": "conda_package",
+          "url": "https://anaconda.org/bioconda/mummer"
+        }
+      ]
+    }
+  ]
+}

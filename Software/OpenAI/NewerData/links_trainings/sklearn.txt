@@ -1,0 +1,17 @@
+{
+  "Software_Name": "sklearn",
+  "Software_Link": "https://scikit-learn.org/stable/",
+  "Documentation_Links": [
+    {"Link": "https://scikit-learn.org/stable/user_guide.html"},
+    {"Link": "https://scikit-learn.org/stable/modules/classes.html"},
+    {"Link": "https://scikit-learn.org/stable/supervised_learning.html"},
+    {"Link": "https://scikit-learn.org/stable/unsupervised_learning.html"}
+  ],
+  "Tutorials_and_Training_Materials": [
+    {"Link": "https://scikit-learn.org/stable/tutorial/index.html"},
+    {"Link": "https://scikit-learn.org/stable/auto_examples/index.html"},
+    {"Link": "https://www.datacamp.com/courses/supervised-learning-with-scikit-learn"},
+    {"Link": "https://www.kaggle.com/learn/intro-to-machine-learning"},
+    {"Link": "https://www.coursera.org/learn/machine-learning-with-python"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "PLUMED",
+  "Homepage": "https://www.plumed.org/",
+  "Resources": {
+    "Documentation": "https://www.plumed.org/doc-v2.7/user-doc/html/index.html",
+    "Tutorials": [
+      "https://www.plumed.org/doc-v2.7/user-doc/html/tutorial-lugano2017.html",
+      "https://www.plumed.org/doc-v2.7/user-doc/html/_t_u_t_o_r_i_a_l.html"
+    ],
+    "TrainingMaterial": [
+      "https://www.plumed.org/doc-v2.7/user-doc/html/_syntax.html",
+      "https://www.plumed.org/get-involved"
+    ]
+  }
+}

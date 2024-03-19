@@ -1,0 +1,23 @@
+Use Case: OpenMPI is often used in physics and engineering simulations. For example, let's consider a use case where parallel processing is required to solve large-scale fluid dynamics problems using the Navier-Stokes equations. 
+
+Code details and examples: Code
+
+Sample Input File:
+
+The input file (let's call it 'navier_stokes.c') for this problem might include the necessary information and data for the program to calculate the solutions of the Navier-Stokes equations. The file will typically include a series of initialization statements, mathematical equations, loops, and output statements written in C programming language. The exact specifics and details of the input file will depend on the problem being solved.
+
+To use OpenMPI to run this program, the code needs to be compiled using mpicc (the MPI compiler for C programs) first:
+
+```
+mpicc navier_stokes.c -o navier_stokes
+```
+
+Now, the code can be run using mpirun (or mpiexec) with the required number of processes:
+
+```
+mpirun -np 4 ./navier_stokes
+```
+
+Here, '-np 4' specifies the number of processes to be used.
+
+Note: OpenMPI requires its own command to run the program. It won't run by the generic 'gcc' compiler command for C files. 'mpicc' and 'mpirun' are the commands provided by OpenMPI to handle this.

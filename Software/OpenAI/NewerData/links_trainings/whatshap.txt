@@ -1,0 +1,23 @@
+{
+  "software": "Whatshap",
+  "software_url": "https://whatshap.readthedocs.io/",
+  "documentation_url": "https://whatshap.readthedocs.io/en/latest/",
+  "tutorial_links": [
+    {
+      "name": "Quickstart",
+      "url": "https://whatshap.readthedocs.io/en/latest/quickstart.html"
+    },
+    {
+      "name": "Usage",
+      "url": "https://whatshap.readthedocs.io/en/latest/usage.html"
+    },
+    {
+      "name": "Running Whatshap on real data",
+      "url": "https://whatshap.readthedocs.io/en/latest/realdata.html"
+    },
+    {
+      "name": "Whatshap Community",
+      "url": "https://gitter.im/whatshap/Lobby"
+    }
+  ]
+}

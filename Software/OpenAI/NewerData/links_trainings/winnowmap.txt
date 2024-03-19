@@ -1,0 +1,23 @@
+{
+  "software_name": "Winnowmap",
+  "websites": [
+    {
+      "software_link": "https://github.com/marbl/Winnowmap",
+      "documentation": "https://github.com/marbl/Winnowmap#readme",
+      "training_materials": [
+        {
+          "type": "YouTube tutorial",
+          "link": "N/A"
+        },
+        {
+          "type": "Community forum",
+          "link": "https://www.biostars.org/t/Winnowmap/"
+        },
+        {
+          "type": "GitHub issues",
+          "link": "https://github.com/marbl/Winnowmap/issues"
+        }
+      ]
+    }
+  ]
+}

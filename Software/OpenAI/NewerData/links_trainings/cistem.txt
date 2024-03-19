@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "name": "cistem",
+    "links": {
+      "Software_page": "https://cistem.org/",
+      "Documentation": "https://cistem.org/documentation",
+      "Tutorials": {
+        "Cistem_Image_Alignment": "https://cistem.org/image-alignment",
+        "Cistem_Particle_Picking": "https://cistem.org/image-alignment"
+      }
+    }
+  }
+}

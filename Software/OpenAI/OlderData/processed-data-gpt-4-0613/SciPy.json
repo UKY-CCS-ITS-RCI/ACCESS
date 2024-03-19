@@ -1,0 +1,12 @@
+{
+  "Software Name": "SciPy",
+  "links": {
+    "software page": "https://www.scipy.org/",
+    "documentation": "https://docs.scipy.org/doc/scipy/reference/",
+    "tutorials": [
+      "https://docs.scipy.org/doc/scipy/reference/tutorial/index.html",
+      "https://www.tutorialspoint.com/scipy/index.htm",
+      "https://www.educative.io/blog/scipy-tutorial"
+    ]
+  }
+}

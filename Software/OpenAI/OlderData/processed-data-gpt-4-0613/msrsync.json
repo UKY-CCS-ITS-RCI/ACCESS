@@ -1,0 +1,9 @@
+{
+  "SoftwareName": "msrsync",
+  "SoftwareURL": "https://github.com/jbd/msrsync",
+  "Documentation": "https://github.com/jbd/msrsync/blob/master/README",
+  "Tutorials_and_Training": [
+    "https://phoenixnap.com/kb/rsync-command-linux",
+    "https://linux.die.net/man/1/rsync"
+  ]
+}

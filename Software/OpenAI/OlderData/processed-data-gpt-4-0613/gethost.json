@@ -1,0 +1,15 @@
+{
+  "gethost": {
+    "softwarePage": "https://docs.python.org/3/library/socket.html#gethostbyname",
+    "documentation": [
+      "https://docs.python.org/3/library/socket.html#gethostbyname",
+      "https://www.geekhideout.com/pythongethostbyname.shtml"
+    ],
+    "tutorialLinks": [
+      {
+        "Python Networking": "https://realpython.com/python-sockets/",
+        "Python Network Programming": "https://pymotw.com/3/socket/index.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "SoftwareName": "EMBOSS",
+  "SoftwareInfo": {
+    "MainPageUrl": "http://emboss.sourceforge.net/",
+    "Documentation": [
+      {
+        "Type": "User's Guide",
+        "Url": "http://emboss.open-bio.org/html/adm/ch01.html"
+      },
+      {
+        "Type": "Installation Manual",
+        "Url": "http://emboss.open-bio.org/html/adm/ch02s02.html"
+      },
+      {
+        "Type": "Program Manual",
+        "Url": "http://emboss.open-bio.org/html/use/index.html"
+      }
+    ],
+    "TrainingMaterials": [
+      {
+        "Type": "Workshop Material",
+        "Url": "http://emboss.open-bio.org/html/leuven/index.html"
+      },
+      {
+        "Type": "Tutorial",
+        "Url": "https://bioinformaticsworkbook.org/apendix/bioinformatics-programs-and-tools/EMBOSS.html#gsc.tab=0"
+      }
+    ]
+  }
+}

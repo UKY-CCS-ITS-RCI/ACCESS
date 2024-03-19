@@ -1,0 +1,16 @@
+{
+  "SoftwareTool": {
+    "Name": "opensubdiv",
+    "WebsiteLink": "https://graphics.pixar.com/opensubdiv/docs/intro.html",
+    "SupportingLinks": {
+      "Documentation": "https://graphics.pixar.com/opensubdiv/docs/intro.html",
+      "Tutorials": [
+        "https://graphics.pixar.com/opensubdiv/docs/getting_started.html",
+        "https://www.youtube.com/watch?v=uFma49ErYic"
+      ],
+      "TrainingMaterials": [
+        "https://graphics.pixar.com/opensubdiv/docs/developer.html"
+      ]
+    }
+  }
+}

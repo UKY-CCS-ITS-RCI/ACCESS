@@ -1,0 +1,12 @@
+{
+  "Software": "pcre2",
+  "Website": "https://www.pcre.org/",
+  "Documentation": "https://www.pcre.org/current/doc/html/index.html",
+  "Tutorials and Training Materials": [
+    {
+      "PCRE Tutorial": "https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html",
+      "PCRE2 API documentation": "https://www.pcre.org/current/doc/html/pcre2api.html",
+      "Regex tutorial": "https://www.regular-expressions.info/tutorial.html"
+    }
+  ]
+}

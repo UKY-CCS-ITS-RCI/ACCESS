@@ -1,0 +1,25 @@
+{
+  "software": {
+    "name": "Loki",
+    "type": "Scientific Software",
+    "softwareURL": "http://lokijs.org",
+    "links": [
+      {
+        "description": "Official Documentation",
+        "URL": "http://lokijs.org/#/"
+      },
+      {
+        "description": "GitHub Repository",
+        "URL": "https://github.com/techfort/LokiJS/"
+      },
+      {
+        "description": "Quick Start Tutorial",
+        "URL": "https://www.tutorialspoint.com/lokijs/index.htm"
+      },
+      {
+        "description": "Introduction on YouTube",
+        "URL": "https://www.youtube.com/watch?v=8FKE4GpuZjs"
+      }
+    ]
+  }
+}

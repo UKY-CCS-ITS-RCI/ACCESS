@@ -1,0 +1,22 @@
+{
+  "software": "torchvision",
+  "description": "torchvision is a package consisting of popular datasets, model architectures, and common image transformations for computer vision.",
+  "links": {
+    "software_url": "https://github.com/pytorch/vision",
+    "documentation_url": "https://pytorch.org/vision/stable/index.html",
+    "tutorial_material": [
+      {
+        "name": "PyTorch Tutorials",
+        "url": "https://pytorch.org/tutorials/"
+      },
+      {
+        "name": "Torchvision Overview",
+        "url": "https://pytorch.org/vision/stable/index.html"
+      },
+      {
+        "name": "TutoriasPoint PyTorch Tutorial",
+        "url": "https://www.tutorialspoint.com/pytorch/index.htm"
+      }
+    ]
+  }
+}

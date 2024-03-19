@@ -1,0 +1,15 @@
+{
+  "software": {
+    "name": "gconf",
+    "information": {
+      "website": "https://developer.gnome.org/gconf/",
+      "documentation": "https://developer.gnome.org/gconf/stable/",
+      "training": {
+        "tutorials": [
+          "http://library.gnome.org/users/user-guide/latest/gconf-2.html",
+          "https://www.linuxfromscratch.org/blfs/view/svn/gnome/gconf.html"
+        ]
+      }
+    }
+  }
+}

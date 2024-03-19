@@ -1,0 +1,12 @@
+
+{
+  "NetworkX": {
+    "Software Page": "https://networkx.org/",
+    "Documentation": "https://networkx.org/documentation/stable/",
+    "Tutorials": [
+      "https://networkx.org/documentation/stable/tutorial.html",
+      "https://networkx.org/documentation/latest/tutorial.html"
+    ]
+  }
+}
+

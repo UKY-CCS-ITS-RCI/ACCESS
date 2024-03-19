@@ -1,0 +1,11 @@
+{
+  "software": {
+    "name": "IML",
+    "softwareUrl": "https://www.research.ibm.com/haifa/projects/software/IML/",
+    "documentation": [
+      "https://www.research.ibm.com/haifa/projects/software/IML/Documentation.html"
+    ],
+    "tutorials": [],
+    "trainingMaterials": []
+  }
+}

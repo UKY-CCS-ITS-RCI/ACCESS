@@ -1,0 +1,10 @@
+{
+  "softwareName": "Hypothesis",
+  "links": {
+    "softwarePage": "https://hypothesis.works/",
+    "documentation": "https://hypothesis.readthedocs.io/en/latest/",
+    "officialTutorial": "https://hypothesis.works/articles/tutorial/",
+    "tutorial1": "https://github.com/HypothesisWorks/hypothesis#the-core-api",
+    "tutorial2": "https://codeascraft.com/2016/04/29/introduction-to-property-based-testing/"
+  }
+}

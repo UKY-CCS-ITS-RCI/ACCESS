@@ -1,0 +1,19 @@
+{
+  "softwareName": "glib-networking",
+  "softwarePage": "https://developer.gnome.org/gio/stable/glib-networking.html",
+  "documentationLink": "https://developer.gnome.org/gio/stable/glib-networking.html",
+  "tutorialMaterials": [
+    {
+      "tutorialName": "GLib Overview",
+      "tutorialLink": "https://developer.gnome.org/glib/stable/"
+    },
+    {
+      "tutorialName": "GLib Networking services",
+      "tutorialLink": "https://developer.gnome.org/gio/stable/ch01.html"
+    },
+    {
+      "tutorialName": "GLib Networking API References",
+      "tutorialLink": "https://developer.gnome.org/gio/stable/networking.html"
+    }
+  ]
+}

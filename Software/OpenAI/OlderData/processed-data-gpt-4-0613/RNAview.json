@@ -1,0 +1,12 @@
+{
+  "Software Name": "RNAview",
+  "links": {
+    "software page": "http://ndbserver.rutgers.edu/ndbmodule/services/download/rnaview.html",
+    "documentation": "http://ndbserver.rutgers.edu/ndbmodule/services/download/rnaview.html",
+    "tutorials": [
+      "https://github.com/yannponty/x3dna-dssr/blob/master/README.md",
+      "http://archive.ambermd.org/201312/att-0100/4-rna.pdf",
+      "https://bioinformatics.stackexchange.com/questions/13829/how-to-determine-the-secondary-structure-of-a-rna-molecule-given-its-3d-coordina"
+    ]
+  }
+}

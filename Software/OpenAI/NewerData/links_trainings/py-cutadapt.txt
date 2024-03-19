@@ -1,0 +1,15 @@
+{
+  "software_name": "py-cutadapt",
+  "software_url": "https://cutadapt.readthedocs.io/en/stable/",
+  "docs_url": "https://cutadapt.readthedocs.io/en/stable/",
+  "tutorials_and_training_materials": [{
+    "name": "Official Tutorial",
+    "url": "https://cutadapt.readthedocs.io/en/stable/guide.html"
+  }, {
+    "name": "Galaxy Training Material",
+    "url": "https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html"
+  }, {
+    "name": "Biostars Tutorial Post",
+    "url": "https://www.biostars.org/p/435162/"
+  }]
+}

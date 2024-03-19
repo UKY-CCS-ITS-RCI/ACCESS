@@ -1,0 +1,10 @@
+{
+  "name": "Parabricks",
+  "software_url": "https://www.nvidia.com/en-us/docs/parabricks/",
+  "documentation_url": "https://docs.nvidia.com/clara/parabricks/v3.5/",
+  "tutorial_url": [
+    "https://www.youtube.com/watch?v=MqJZjTRSJzY",
+    "https://github.com/parabricks/DeepVariant",
+    "https://developer.nvidia.com/blog/accelerating-variant-calling-with-gpu-accelerated-parabricks-pipeline/"
+  ]
+}

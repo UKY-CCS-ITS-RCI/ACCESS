@@ -1,0 +1,28 @@
+{
+  "name": "py-mpi4py",
+  "software_link": "https://mpi4py.readthedocs.io/",
+  "documentation": [
+     {
+       "name": "Official Documentation",
+       "link": "https://mpi4py.readthedocs.io/en/stable/"
+     },
+     {
+       "name": "API Reference",
+       "link": "https://mpi4py.readthedocs.io/en/stable/apiref/index.html"
+     }
+  ],
+  "training_and_tutorial_materials": [
+     {
+       "name": "Introduction to MPI with mpi4py",
+       "link": "https://nyu-cds.github.io/python-mpi/05-mpi4py/"
+     },
+     {
+       "name": "MPI for Python (mpi4py) - Tutorial",
+       "link": "https://www.youtube.com/watch?v=8aGhZQkoFbQ"
+     },
+     {
+       "name": "Parallel Programming with mpi4py - Training",
+       "link": "https://parallel-computing.pro/index.php/9-coding/1-hello-python"
+     }
+  ]
+}

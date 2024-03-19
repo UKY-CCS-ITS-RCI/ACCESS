@@ -1,0 +1,14 @@
+{
+  "Software Name": "bcftools",
+  "Description": "Bcftools is a set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF.",
+  "Software Link": "https://github.com/samtools/bcftools",
+  "Links": {
+    "Documentation": "http://samtools.github.io/bcftools/bcftools.html",
+    "Training Material": {
+      "Tutorial on BCFtools/SAMtools/HTSlib": "https://qcfelix.github.io/bcf-tutorial/",
+      "Usage of Bcftools for VCF/BCF Files": "https://bioinformatics.uconn.edu/resources-and-tools/coding-tutorials/bcftools/",
+      "Galaxy Training Material on BCFtools": "https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/vcf-annotation/tutorial.html",
+      "BCFtools Training on Towards Data Science": "https://towardsdatascience.com/a-guide-to-variant-calling-using-the-bcftools-pipeline-50f50b279014"
+    }
+  }
+}

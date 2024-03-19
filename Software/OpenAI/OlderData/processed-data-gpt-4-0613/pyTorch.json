@@ -1,0 +1,40 @@
+{
+    "Software": "pyTorch",
+    "Primary_Link": "https://pytorch.org/",
+    "Documentation": [
+        {
+            "Title": "PyTorch Documentation",
+            "Link": "https://pytorch.org/docs/stable/index.html"
+        },
+        {
+            "Title": "API Reference",
+            "Link": "https://pytorch.org/docs/stable/torch.html"
+        }
+    ],
+    "Tutorials_Training": [
+        {
+            "Title": "PyTorch Tutorials",
+            "Link": "https://pytorch.org/tutorials/"
+        },
+        {
+            "Title": "Deep Learning with PyTorch: A 60 Minute Blitz",
+            "Link": "https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
+        },
+        {
+            "Title": "Learning PyTorch with Examples",
+            "Link": "https://pytorch.org/tutorials/beginner/pytorch_with_examples.html"
+        },
+        {
+            "Title": "PyTorch Udacity Course",
+            "Link": "https://www.udacity.com/course/deep-learning-pytorch--ud188"
+        },
+        {
+            "Title": "PyTorch on Coursera",
+            "Link": "https://www.coursera.org/courses?query=pytorch"
+        },
+        {
+            "Title": "Official PyTorch Examples",
+            "Link": "https://github.com/pytorch/examples"
+        }
+    ]
+}

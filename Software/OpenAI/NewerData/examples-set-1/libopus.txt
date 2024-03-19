@@ -1,0 +1,46 @@
+Use Case: Use libopus for encoding and decoding audio data.
+
+Code Details and Examples: Code
+
+Input File Specifications:
+Libopus works with audio data, typically in raw format (.raw) or wave format (.wav). The sample rate and number of channels (mono or stereo) should be known for the user.
+
+Example Input File: song.wav.
+
+C Code Snippet:
+
+```
+#include <opus/opus.h>
+
+int main() {
+  int error;
+
+  // Create a new encoder state with sample rate of 48000 Hz and two channels (stereo).
+  OpusEncoder* encoder = opus_encoder_create(48000, 2, OPUS_APPLICATION_AUDIO, &error);
+  
+  // Create input buffer (16-bit signed integer samples).
+  opus_int16 in[FRAME_SIZE * CHANNELS]; 
+
+  // Fill in[] with your audio data here
+
+  // Create output buffer.
+  unsigned char data[OUTBUF_SIZE];
+
+  // Encode the audio.
+  int nbBytes = opus_encode(encoder, in, FRAME_SIZE, data, OUTBUF_SIZE);
+  
+  // data[] now contains the compressed audio data to be decoded
+
+  opus_encoder_destroy(encoder);
+
+  return 0;
+}
+```
+Command to run (assuming the file is named main.c and opus is installed):
+
+```
+gcc main.c -o main -lopus
+./main
+```
+
+Output file: In this example there isn't an output file since the output of libopus's functions are typically streamed for real time applications, or kept in memory for other uses like network transmission.

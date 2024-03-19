@@ -1,0 +1,10 @@
+{
+  "epic2": {
+    "Software Page": "https://github.com/biocore-ntnu/epic2",
+    "Documentation": "https://epic2.readthedocs.io/en/latest/",
+    "Tutorials and Training Materials": [
+      "https://bioconda.github.io/recipes/epic2/README.html",
+      "https://libraries.io/pypi/epic2"
+    ]
+  }
+}

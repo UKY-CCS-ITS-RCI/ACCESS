@@ -1,0 +1,15 @@
+{
+  "Software Name": "Rush",
+  "Software Page": "https://www.cg.com/products/rush",
+  "Documentation": "https://www.cg.com/support/rush",
+  "Training Material": [
+    {
+      "Links": "https://www.cg.com/support/rush/faq",
+      "Title": "Frequently Asked Question"
+    },
+    {
+      "Links": "https://www.cg.com/support/rush/manual",
+      "Title": "User's Guide"
+    }
+  ]
+}

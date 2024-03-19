@@ -1,0 +1,10 @@
+{
+"desmond": {
+  "software_page": "https://www.schrodinger.com/desmond",
+  "documentation": "https://www.schrodinger.com/docs",
+  "tutorials_materials": [
+    "https://www.schrodinger.com/products/desmond",
+    "https://www.schrodinger.com/support/training"
+    ]
+  }
+}

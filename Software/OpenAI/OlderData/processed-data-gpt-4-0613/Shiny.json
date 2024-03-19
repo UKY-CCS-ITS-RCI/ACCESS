@@ -1,0 +1,12 @@
+{
+  "Software Name": "Shiny",
+  "links": {
+    "software page": "https://shiny.rstudio.com/",
+    "documentation": "https://shiny.rstudio.com/tutorial/",
+    "tutorials": [
+      "https://mastering-shiny.org/",
+      "https://www.datacamp.com/courses/building-web-applications-in-r-with-shiny-case-studies",
+      "https://shiny.rstudio.com/gallery/"
+    ]
+  }
+}

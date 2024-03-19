@@ -1,0 +1,27 @@
+Use Case: Use the testing framework googletest for implementing unit tests in C++. 
+
+Code details and examples: 
+
+Code:
+
+```
+#include "gtest/gtest.h"
+
+TEST(MathTest, TwoPlusTwoEqualsFour) {
+    EXPECT_EQ(2 + 2, 4);
+}
+
+int main(int argc, char **argv) {
+    ::testing::InitGoogleTest(&argc, argv);
+    return RUN_ALL_TESTS();
+}
+```
+
+In this test suite, we are creating a MathTest suite with a test case TwoPlusTwoEqualsFour. We are testing if the equation 2 + 2 equals 4. There is no need for an input file since the test condition is hardcoded in the test case itself.
+
+Command to Run the test:
+
+```
+g++ -std=c++11 -pthread MathTest.cpp libgtest.a -o MathTest
+./MathTest
+```

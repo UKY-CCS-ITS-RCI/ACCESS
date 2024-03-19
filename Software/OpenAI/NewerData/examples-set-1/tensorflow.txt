@@ -1,0 +1,44 @@
+Use Case: TensorFlow is an open-source machine learning library for research and production. TensorFlow provides a collection of workflows for developing and training models using Python, JavaScript, or Swift, and provides a set of tools for running them on multiple platforms (like Windows, Linux, and MacOS). An application could be to create a deep learning model for image classification.
+
+Code details and examples:
+
+Code:
+
+```python
+import tensorflow as tf
+mnist = tf.keras.datasets.mnist
+
+(x_train, y_train), (x_test, y_test) = mnist.load_data()
+x_train, x_test = x_train / 255.0, x_test / 255.0
+
+model = tf.keras.models.Sequential([
+  tf.keras.layers.Flatten(input_shape=(28, 28)),
+  tf.keras.layers.Dense(128, activation='relu'),
+  tf.keras.layers.Dropout(0.2),
+  tf.keras.layers.Dense(10)
+])
+
+predictions = model(x_train[:1]).numpy()
+
+loss_fn = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True)
+
+model.compile(optimizer='adam',
+              loss=loss_fn,
+              metrics=['accuracy'])
+
+model.fit(x_train, y_train, epochs=5)
+
+model.evaluate(x_test, y_test, verbose=2)
+```
+
+This program will train a simple neural network on the MNIST dataset, which is a collection of handwritten digits that is commonly used for training image processing systems. 
+
+You need to provide data in the form of an array with dimensions (samples, pixel_rows, pixel_columns). Images in the dataset must be grayscale and they need to be resized to 28x28 pixels. 
+
+You can run this code using a python interpreter:
+
+```
+python3 your_program.py
+``` 
+
+Where "your_program.py" is the name of the file containing the above code. The output will include logging information about the training process, including the loss and accuracy on the training set for each epoch, and finally the loss and accuracy on the test set.

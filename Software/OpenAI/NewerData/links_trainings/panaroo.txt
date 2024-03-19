@@ -1,0 +1,23 @@
+{
+  "name": "Panaroo",
+  "software_page": "https://github.com/gtonkinhill/panaroo",
+  "documentation": "https://gtonkinhill.github.io/panaroo/",
+  "tutorials_and_training": [
+    {
+      "name": "Conda installation",
+      "url": "https://anaconda.org/bioconda/panaroo"
+    },
+    {
+      "name": "PyPI installation",
+      "url": "https://pypi.org/project/panaroo/"
+    },
+    {
+      "name": "Methodology",
+      "url": "https://academic.oup.com/bioinformatics/article/36/12/3702/5800506"
+    },
+    {
+      "name": "FAQs",
+      "url": "https://gtonkinhill.github.io/panaroo/FAQs/"
+    }
+  ]
+}

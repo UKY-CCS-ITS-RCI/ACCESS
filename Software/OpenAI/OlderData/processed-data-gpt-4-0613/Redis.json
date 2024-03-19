@@ -1,0 +1,12 @@
+{
+  "Software Name": "Redis",
+  "links": {
+    "software page": "https://redis.io/",
+    "documentation": "https://redis.io/documentation",
+    "tutorials": [
+      "https://www.youtube.com/watch?v=Hbt56gFj998",
+      "https://www.tutorialspoint.com/redis/index.htm",
+      "https://realpython.com/caching-in-django-with-redis/"
+    ]
+  }
+}

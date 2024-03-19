@@ -1,0 +1,11 @@
+{
+  "software_name": "waylandpp",
+  "software_link": "https://github.com/NilsBrause/waylandpp",
+  "documentation_link": "https://github.com/NilsBrause/waylandpp#readme",
+  "training_materials": [
+    {
+      "description": "Basic Introduction to waylandpp",
+      "link": "https://github.com/NilsBrause/waylandpp/wiki"
+    }
+  ]
+}

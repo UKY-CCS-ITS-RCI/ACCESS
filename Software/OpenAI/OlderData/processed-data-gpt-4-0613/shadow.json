@@ -1,0 +1,14 @@
+{
+    "software": "Shadow",
+    "resources": {
+        "softwareHomepage": "https://github.com/shadow",
+        "documentation": "https://shadow.github.io/docs/home/",
+        "tutorials": [
+            {
+                "title": "Shadow Tutorial",
+                "url": "https://shadow.github.io/docs/1-tutorial.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

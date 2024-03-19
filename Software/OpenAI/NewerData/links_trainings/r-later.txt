@@ -1,0 +1,19 @@
+{
+  "software": "r-later",
+  "main_link": "https://cran.r-project.org/package=later",
+  "documentation": "https://later.r-lib.org/",
+  "training_materials": [
+    {
+      "name": "CRAN package",
+      "link": "https://cran.r-project.org/package=later"
+    },
+    {
+      "name": "Introduction to later - RStudio",
+      "link": "https://rstudio.github.io/promises/later.html"
+    },
+    {
+      "name": "RDocumentation",
+      "link": "https://www.rdocumentation.org/packages/later/versions/1.1.0.1"
+    }
+  ]
+}

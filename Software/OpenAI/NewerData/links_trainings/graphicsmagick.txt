@@ -1,0 +1,15 @@
+{
+  "software": "GraphicsMagick",
+  "link": "http://www.graphicsmagick.org/",
+  "documentation": "http://www.graphicsmagick.org/documentation.html",
+  "tutorials": [
+    {
+      "url": "http://www.graphicsmagick.org/magick++/tutorial/Magick++_tutorial.pdf",
+      "title": "GraphicsMagick Magick++ Tutorial"
+    },
+    {
+      "url": "http://www.graphicsmagick.org/INSTALL-unix.html",
+      "title": "Installing GraphicsMagick"
+    }
+  ]
+}

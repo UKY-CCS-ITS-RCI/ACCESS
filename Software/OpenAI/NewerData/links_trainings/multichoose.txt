@@ -1,0 +1,9 @@
+{
+  "Software Name": "multichoose",
+  "Software URL": "https://pypi.org/project/multichoose/",
+  "Documentation": "https://pypi.org/project/multichoose/",
+  "Tutorials and Training Materials": [
+       "http://rosalind.info/problems/pper/",
+       "https://www.programming-algorithms.net/article/47334/Stars-and-bars-%5BF%5D"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "Software": {
+        "Name": "IntaRNA",
+        "Software_url": "http://rna.informatik.uni-freiburg.de/IntaRNA/Input.jsp",
+        "Documentation": {
+            "IntaRNA_2.0": "https://academic.oup.com/nar/article/46/W1/W365/4996980",
+            "UserGuide": "https://github.com/BackofenLab/IntaRNA/wiki/UserGuide",
+            "Parameters": "https://github.com/BackofenLab/IntaRNA/wiki/Parameters",
+            "FAQs": "https://github.com/BackofenLab/IntaRNA/wiki/FAQs"
+        },
+        "Training": {
+            "RNA-seq Data Analysis Workshop": "https://www.denbi.de/training/796-rna-seq-data-analysis-workshop-3",
+            "Introduction to bioinformatics for RNA and functional genomics": "https://www.eventbrite.de/e/introduction-to-bioinformatics-for-rna-and-functional-genomics-tickets-136103151155"
+        },
+        "Tutorials": {
+            "RNAcofold": "https://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html/RNAcofold.html",
+            "RNAfold": "https://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html/RNAfold.html",
+            "RNAhybrid": "https://bibiserv.cebitec.uni-bielefeld.de/rnahybrid/manual.html"
+        }
+    }
+}

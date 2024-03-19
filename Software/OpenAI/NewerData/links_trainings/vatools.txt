@@ -1,0 +1,10 @@
+{
+    "software_name":"vatools",
+    "software_page_link":"https://vatools.readthedocs.io/en/latest/",
+    "documentation_link":"https://vatools.readthedocs.io/en/latest/",
+    "training_materials":[
+        {"tutorial":"https://vatools.readthedocs.io/en/latest/quickstart.html"},
+        {"user_manual":"https://vatools.readthedocs.io/en/latest/user_manual.html"},
+        {"API_documentation":"https://vatools.readthedocs.io/en/latest/api.html"}
+    ]
+}

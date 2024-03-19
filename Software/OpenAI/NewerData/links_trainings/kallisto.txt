@@ -1,0 +1,19 @@
+{
+  "Software": "kallisto",
+  "Software_URL": "https://pachterlab.github.io/kallisto/",
+  "Documentation": "https://pachterlab.github.io/kallisto/manual",
+  "Tutorials_and_Training": [
+    {
+      "name": "Getting started with Kallisto",
+      "url": "https://pachterlab.github.io/kallisto/starting"
+    },
+    {
+      "name": "Kallisto tutorial by Griffith Lab",
+      "url": "https://rnabio.org/module-05-rnaseq/0005/03/01/Quantification-Kallisto/"
+    },
+    {
+      "name": "RNA-seq workshop using Kallisto",
+      "url": "https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon/lessons/02_quantifying_rna_using_kallisto.html"
+    }
+  ]
+}

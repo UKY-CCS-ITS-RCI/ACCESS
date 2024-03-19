@@ -1,0 +1,9 @@
+{
+  "software": "R-GenomicFeatures",
+  "software_URL": "https://bioconductor.org/packages/GenomicFeatures/",
+  "documentation_URLs": ["https://www.bioconductor.org/packages/release/bioc/vignettes/GenomicFeatures/inst/doc/GenomicFeatures.pdf", 
+                         "https://bioconductor.org/packages/devel/bioc/vignettes/GenomicFeatures/inst/doc/GenomicFeaturesIntroduction.html"],
+  "tutorial_URLs": ["https://kasperdanielhansen.github.io/genbioconductor/HTSeq-GenomicFeatures-03-AnnotationPackages.html", 
+                    "https://www.youtube.com/watch?v=RZgqCI5mIVA",
+                    "https://master.bioconductor.org/packages/release/bioc/vignettes/GenomicFeatures/inst/doc/GenomicFeaturesIntroduction.html"]
+}

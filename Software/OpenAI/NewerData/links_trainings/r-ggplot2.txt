@@ -1,0 +1,23 @@
+{
+  "software_name": "r-ggplot2",
+  "software_page": "https://ggplot2.tidyverse.org/",
+  "documentation_link": "https://ggplot2.tidyverse.org/reference/",
+  "tutorial_and_training_materials": [
+    {
+      "title": "ggplot2 Tutorial - DataCamp",
+      "url": "https://www.datacamp.com/community/tutorials/ggplot2-tutorial"
+    },
+    {
+      "title": "Introduction to ggplot - RStudio",
+      "url": "https://rstudio.com/resources/cheatsheets/introduction-to-ggplot/"
+    },
+    {
+      "title": "A beginners guide to ggplot - ZevRoss",
+      "url": "https://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/"
+    },
+    {
+      "title": "ggplot2 tutorial - Cookbook for R",
+      "url": "http://www.cookbook-r.com/Graphs/"
+    }
+  ]
+}

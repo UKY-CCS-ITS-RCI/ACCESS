@@ -1,0 +1,24 @@
+{
+  "software": "dbg2olc",
+  "software_url": "https://github.com/yechengxi/DBG2OLC",
+  "documentation": [
+    {
+      "doc_title": "DBG2OLC: A User Guide",
+      "doc_url": "https://sites.google.com/site/dbg2olc/"
+    }
+  ],
+  "training_materials": [
+    {
+      "material_title": "SparseAssembler and DBG2OLC: Assembling Large Genomes using Long Reads",
+      "material_url": "https://www.slideshare.net/YossiFarjoun/sparseassembler-and-dbg2olc-assembling-large-genomes-using-long-reads"
+    },
+    {
+      "material_title": "Ultra-fast & accurate de novo assembler for long noisy reads",
+      "material_url": "https://www.researchgate.net/publication/303735497_DBG2OLC_Ultra-fast_accurate_de_novo_assembler_for_long_noisy_reads"
+    },
+    {
+      "material_title": "Sequencing Technologies and Tools for Assembly: An Overview",
+      "material_url": "https://www.youtube.com/watch?v=FTZN0IPlaM8"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "iccifortcuda",
+  "software_page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit.html",
+  "documentation": [
+    {
+      "url": "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top.html",
+      "title": "Intel OneAPI Programming Guide"
+    },
+    {
+      "url": "https://software.intel.com/content/www/us/en/develop/documentation/fortran-compiler-developer-guide-and-reference/top.html",
+      "title": "Intel Fortran Compiler Developer Guide and Reference"
+    },
+    {
+      "url": "https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html",
+      "title": "CUDA Compiler Driver NVCC Documentation"
+    }
+  ],
+  "training_materials": [
+    {
+      "url": "https://software.intel.com/content/www/us/en/develop/training.html",
+      "title": "Intel Developers Training"
+    },
+    {
+      "url": "https://software.intel.com/content/www/us/en/develop/training/course-parallelism.html",
+      "title": "Course on Parallelism"
+    },
+    {
+      "url": "https://developer.nvidia.com/cuda-education",
+      "title": "CUDA Education for Developers"
+    }
+  ]
+}

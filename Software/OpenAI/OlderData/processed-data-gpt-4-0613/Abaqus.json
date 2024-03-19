@@ -1,0 +1,19 @@
+{
+  "Software": "Abaqus",
+  "Website": "https://www.3ds.com/products-services/simulia/products/abaqus",
+  "Documentation": "https://help.3ds.com/AdocEnglish/3dexperience/simulia_established/phy_sim_abaqus_fea/SMWDefault.htm",
+  "Tutorials and Training material": [
+    {
+      "Title": "Introduction to Abaqus - tutorials",
+      "Link": "https://sites.google.com/site/abaqusdocumentation/home"
+    },
+    {
+      "Title": "Abaqus Tutorial Videos",
+      "Link": "https://www.youtube.com/playlist?list=PLRq2LonNQAmvzgVFYgp8_5b-crE2VqfHq"
+    },
+    {
+      "Title": "Abaqus Tutorial pdf files, Abaqus Online Help",
+      "Link": "https://abaqushelp-viewer.netlify.app/pdf_docs/ABAQUS/2018/student/Student_Getting_Started_with_Abaqus.pdf?d90b4cf3=c38ea059"
+    }
+  ]
+}

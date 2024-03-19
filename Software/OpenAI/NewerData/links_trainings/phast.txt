@@ -1,0 +1,11 @@
+{
+  "Software": "PHAST",
+  "URL": "http://compgen.cshl.edu/phast/",
+  "Documentation": "http://compgen.cshl.edu/phast/phastCons-tutorial.php",
+  "Tutorials_Training": [
+    {
+      "Tutorial 1": "http://compgen.cshl.edu/phast/tutorials/phastCons.php",
+      "Tutorial 2": "https://gatkforums.broadinstitute.org/gatk/discussion/2799/howto-apply-hard-filters-to-a-call-set"
+    }
+  ]
+}

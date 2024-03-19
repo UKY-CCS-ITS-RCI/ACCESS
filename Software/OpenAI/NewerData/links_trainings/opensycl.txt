@@ -1,0 +1,12 @@
+{
+  "opensycl": {
+    "softwarePage": "https://www.khronos.org/sycl/",
+    "documentation": "https://www.khronos.org/registry/SYCL/specs/sycl-2020-provisional.pdf",
+    "tutorials": {
+      "DPC++/SYCL tutorial": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/choose-download/windows.html",
+      "SYCL Academy": "https://www.codeplay.com/portal/sycl-academy",
+      "Learn SYCL": "https://developer.codeplay.com/products/computecpp/ce/home",
+      "SYCL Tutorials on GitHub": "https://github.com/codeplaysoftware/computecpp-sdk"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Abricate": {
+    "software_page": "https://github.com/tseemann/abricate",
+    "documentation": "https://github.com/tseemann/abricate",
+    "training_materials": [
+      {
+        "name": "abricate GitHub",
+        "url": "https://github.com/tseemann/abricate"
+      },
+      {
+        "name": "Antibiotic Resistance Gene Predators",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034597"
+      }
+    ]
+  }
+}

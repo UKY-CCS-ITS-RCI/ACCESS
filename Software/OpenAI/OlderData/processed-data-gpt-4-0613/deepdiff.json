@@ -1,0 +1,25 @@
+{
+    "software_name": "deepdiff",
+    "software_page": "https://github.com/seperman/deepdiff",
+    "documentation": "https://deepdiff.readthedocs.io/",
+    "tutorials": [
+        {
+            "title": "DeepDiff tutorial",
+            "url": "https://deepdiff.readthedocs.io/en/latest/diffs.html"
+        },
+        {
+            "title": "DeepDiff usage example on StackOverflow",
+            "url": "https://stackoverflow.com/questions/53209127/a-simple-explanation-on-how-to-use-deepdiff"
+        }
+    ],
+    "training_materials": [
+        {
+            "title": "Python Library 'DeepDiff' tutorial - Colab Notebook",
+            "url": "https://colab.research.google.com/github/seperman/deepdiff/blob/master/examples/DeepDiff%20Tutorial.ipynb"
+        },
+        {
+            "title": "DeepDiff: Advanced usage tutorial",
+            "url": "https://zepworks.com/blog/digging-deeper-into-deepdiff-advanced-usage/"
+        }
+    ]
+}

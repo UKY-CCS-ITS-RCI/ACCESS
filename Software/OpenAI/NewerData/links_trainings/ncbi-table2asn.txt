@@ -1,0 +1,12 @@
+{
+  "software_name": "ncbi-table2asn",
+  "software_page": "https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/",
+  "links": {
+    "documentation": "https://www.ncbi.nlm.nih.gov/books/NBK53709/",
+    "tutorial": "https://bioinformaticsworkbook.org/dataWrangling/PeakCalling/annotate-genome-with-genbank.html#gsc.tab=0",
+    "training": [
+      "https://www.ncbi.nlm.nih.gov/genbank/submit/",
+      "https://www.ncbi.nlm.nih.gov/nuccore/docs/submit_train_tut.html"
+    ]
+  }
+}

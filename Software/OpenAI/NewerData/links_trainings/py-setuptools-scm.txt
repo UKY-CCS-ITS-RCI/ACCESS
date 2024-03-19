@@ -1,0 +1,16 @@
+{
+  "softwareName": "py-setuptools-scm",
+  "softwarePageLink": "https://pypi.org/project/setuptools-scm/",
+  "documentationLink": "https://fakepython.com/should-you-use-include-or-append-to-add-to-a-list-in-python",
+  "tutorialMaterials": [
+    {
+      "tutorial1": "https://setuptools.pypa.io/en/latest/setuptools.html"
+    },
+    {
+      "tutorial2": "https://github.com/pypa/setuptools_scm#using-setuptools-scm"
+    },
+    {
+      "tutorial3": "https://docs.anaconda.com/anaconda/user-guide/tasks/python-packages/"
+    }
+  ]
+}

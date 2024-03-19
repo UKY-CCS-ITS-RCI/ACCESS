@@ -1,0 +1,15 @@
+{
+  "software": {
+    "flask": {
+      "softwarePage": "https://palletsprojects.com/p/flask/",
+      "documentation": "https://flask.palletsprojects.com/en/2.0.x/",
+      "trainingMaterials": {
+        "quickStart": "https://flask.palletsprojects.com/en/2.0.x/quickstart/",
+        "tutorial": "https://flask.palletsprojects.com/en/2.0.x/tutorial/",
+        "flaskWebDevelopmentWithPythonTutorial": "https://www.tutorialspoint.com/flask/index.htm",
+        "fullFlaskCourseForBeginners": "https://www.youtube.com/watch?v=Qr4QMBUPxWo",
+        "flaskMegaTutorial": "https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "softwareName": "ImageJ",
+  "softwareURL": "https://imagej.nih.gov/ij/",
+  "documentationLink": "https://imagej.nih.gov/ij/docs/guide/index.html",
+  "tutorialsAndTrainingMaterials": [
+    {
+      "name": "ImageJ Tutorials",
+      "URL": "https://imagej.nih.gov/ij/docs/index.html"
+    },
+    {
+      "name": "ImageJ Macro Programming Tutorials",
+      "URL": "https://imagej.nih.gov/ij/developer/macro/macros.html"
+    },
+    {
+      "name": "ImageJ for Microscopy Collection Tutorials",
+      "URL": "https://imagej.nih.gov/ij/docs/examples/index.html"
+    },
+    {
+      "name": "Basic Image Analysis and Manipulation in ImageJ",
+      "URL": "https://bitesizebio.com/27947/basic-image-analysis-manipulation-imagej/"
+    },
+    {
+      "name": "Digital Image Processing with ImageJ (Second Edition) - Tutorial Book",
+      "URL": "https://www.packtpub.com/product/digital-image-processing-with-imagej-second-edition/9781785288294"
+    }
+  ]
+}

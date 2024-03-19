@@ -1,0 +1,9 @@
+{
+  "softwareName": "FFTW2",
+  "links": {
+    "softwarePage": "http://www.fftw.org/",
+    "documentation": "http://www.fftw.org/fftw2_doc/index.html",
+    "tutorial1": "http://www.sao.ru/tb/manuals/fftw/",
+    "tutorial2": "https://www.hpc.dtu.dk/?page_id=1180"
+  }
+}

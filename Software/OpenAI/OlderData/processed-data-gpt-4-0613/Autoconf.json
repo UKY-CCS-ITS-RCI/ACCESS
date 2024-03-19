@@ -1,0 +1,19 @@
+{
+  "Software": "Autoconf",
+  "Website": "https://www.gnu.org/software/autoconf/",
+  "Documentation": "https://www.gnu.org/software/autoconf/manual/",
+  "Tutorials and Training material": [
+    {
+      "Title": "Autoconf, Automake, and Libtool Tutorial",
+      "Link": "http://www.lrde.epita.fr/~adl/autotools.html"
+    },
+    {
+      "Title": "Autotools Tutorial",
+      "Link": "https://www.lrde.epita.fr/~adl/dl/autotools-tutorial.pdf"
+    },
+    {
+      "Title": "GNU Autoconf, Automake and Libtool",
+      "Link": "http://www.sourceware.org/autobook/"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "SoftwareName": "coordgenlibs",
+  "SoftwarePage": "https://github.com/schrodinger/coordgenlibs",
+  "AdditionalLinks": {
+    "Documentation": "http://schrodinger.github.io/coordgenlibs/",
+    "Tutorials": "http://rdkit.blogspot.com/2018/05/coordgen-and-rdkit.html"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "softwareName": "GNU",
+  "links": {
+    "softwarePage": "https://www.gnu.org/",
+    "documentation": "https://www.gnu.org/manual/manual.html",
+    "officialTutorial": "https://www.gnu.org/software/software.html#allgnupkgs",
+    "tutorial1": "https://www.gnu.org/software/make/manual/make.html",
+    "tutorial2": "https://www.learnlinux.org.za/courses/course-v1:Linuxjoburg+L101+2017/about",
+    "tutorial3": "https://www.computerworld.com/article/2598089/operating-systems/gnu-at-30-why-we-still-need-free-software.html"
+  }
+}

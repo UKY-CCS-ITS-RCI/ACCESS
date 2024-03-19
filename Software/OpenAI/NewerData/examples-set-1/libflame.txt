@@ -1,0 +1,49 @@
+Use Case: libflame is a high-performance library for dense matrix computations providing a complete LAPACK API. It can be used for scenarios such as solving systems of linear equations, least-squares solutions of linear systems of equations, eigenvalue problems, and singular value problems.
+
+Code Details and Examples: 
+
+The typical input for libflame operations are matrix data. The library has in-built functions for handling matrix data and operations.
+
+In order to use this library, we first include the necessary header file:
+
+```c
+#include "FLAME.h"
+```
+
+The following is an example for creating a simple matrix and performing an operation on it:
+
+```c
+FLA_Obj_create( FLA_DOUBLE, m, n, 0, 0, &A );
+FLA_Random_matrix( A );
+```
+
+Here we are creating a matrix `A` of size `m` x `n` with double data type and filling it with random values.
+
+An operation like LU factorization with partial pivoting can be performed with:
+
+```c
+FLA_Obj_create( FLA_INT, n, 1, 0, 0, &p );
+FLA_LU_piv( A, p ); 
+```
+
+Here, a matrix `p` is created to store the pivot indices for the LU factorization.
+
+Similarly, operations like Singular value decomposition can be performed with:
+
+```c
+FLA_Obj_create( FLA_DOUBLE, minmn, 1, 0, 0, &s );
+FLA_Obj_create( FLA_DOUBLE, m, n, 0, 0, &U );
+FLA_Obj_create( FLA_DOUBLE, minmn, n, 0, 0, &V );
+FLA_SVD( A, s, U, V );
+```
+
+This creates matrices `s`, `U`, `V` to store the singular values and singular vectors respectively after the SVD operation.
+
+To compile and run the code, use commands like:
+
+```shell
+gcc -o example example.c -lflame -lblas
+./example
+```
+
+This will compile the source code file `example.c` with libflame and, the given BLAS library and create the executable `example`, which can then be run.

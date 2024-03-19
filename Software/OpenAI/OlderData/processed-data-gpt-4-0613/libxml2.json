@@ -1,0 +1,14 @@
+{
+    "software": "libxml2",
+    "resources": {
+        "softwareHomepage": "http://xmlsoft.org/",
+        "documentation": "http://xmlsoft.org/html/index.html",
+        "tutorials": [
+            {
+                "title": "Libxml2 Tutorial",
+                "url": "http://xmlsoft.org/tutorial/index.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

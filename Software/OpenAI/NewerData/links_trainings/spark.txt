@@ -1,0 +1,45 @@
+{
+  "spark": {
+    "software_page": "https://spark.apache.org/",
+    "documentation": [
+      {
+        "url": "https://spark.apache.org/docs/latest/",
+        "name": "Spark Latest Documentation"
+      },
+      {
+        "url": "https://spark.apache.org/docs/latest/sql-programming-guide.html",
+        "name": "Spark SQL, DataFrames and Datasets Guide"
+      },
+      {
+        "url": "https://spark.apache.org/docs/latest/streaming-programming-guide.html",
+        "name": "Spark Streaming Programming Guide"
+      },
+      {
+        "url": "https://spark.apache.org/docs/latest/ml-guide.html",
+        "name": "Spark MLlib Machine Learning Library Guide"
+      },
+      {
+        "url": "https://spark.apache.org/docs/latest/graphx-programming-guide.html",
+        "name": "GraphX Programming Guide"
+      }
+    ],
+    "training_tutorial_materials": [
+      {
+        "url": "https://www.tutorialspoint.com/apache_spark/index.htm",
+        "name": "Apache Spark Tutorial - Tutorialspoint"
+      },
+      {
+        "url": "https://spark.apache.org/examples.html",
+        "name": "Spark Examples"
+      },
+      {
+        "url": "https://www.edx.org/course/big-data-analysis-with-apache-spark",
+        "name": "Big Data Analysis with Apache Spark - edX"
+      },
+      {
+        "url": "https://www.coursera.org/learn/big-data-analysis",
+        "name": "Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames - Coursera"
+      }
+    ]
+  }
+}

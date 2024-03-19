@@ -1,0 +1,23 @@
+{
+  "software": "tar",
+  "softwareURL": "https://www.gnu.org/software/tar/",
+  "documentation": [
+    {
+      "documentationURL": "https://www.gnu.org/software/tar/manual/"
+    }
+  ],
+  "tutorial": [
+    {
+      "tutorialName": "Tar Command in Linux with examples",
+      "tutorialURL": "https://www.geeksforgeeks.org/tar-command-linux-examples/"
+    },
+    {
+      "tutorialName": "How to use the tar command",
+      "tutorialURL": "https://www.computerhope.com/unix/utar.htm"
+    },
+    {
+      "tutorialName": "The Tar Command – Linux Command-Line I/O Redirection",
+      "tutorialURL": "https://www.linuxtrainingacademy.com/the-tar-command-linux/"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+"name": "XGBoost",
+"softwarePage": "https://xgboost.ai/",
+"documentation": "https://xgboost.readthedocs.io/en/latest/",
+"tutorialMaterials": [
+    {
+        "name": "A Gentle Introduction to XGBoost for Applied Machine Learning",
+        "url": "https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/"
+    },
+    {
+        "name": "XGBoost Tutorial – Objective Function, Loss Function and Base Learners",
+        "url": "https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/"
+    },
+    {
+        "name": "XGBoost Algorithm: Long May She Reign!",
+        "url": "https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d"
+    },
+    {
+        "name": "How to use XGBoost algorithm in Python",
+        "url": "https://www.youtube.com/watch?v=GrJP9FLV3FE"
+    }
+  ]
+}

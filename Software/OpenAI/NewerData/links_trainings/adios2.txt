@@ -1,0 +1,20 @@
+{
+  "Software Name": "adios2",
+  "Software Link": "https://github.com/ornladios/ADIOS2",
+  "Documentation": [
+    {
+      "Documentation Name": "ADIOS 2 User's Manual",
+      "Documentation Link": "https://readthedocs.org/projects/adios2/downloads/pdf/latest/"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Tutorial Name": "ADIOS2 Tutorials on Github",
+      "Tutorial Link": "https://github.com/ornladios/ADIOS2/tree/master/examples"
+    },
+    {
+      "Tutorial Name": "Introduction to Adios2",
+      "Tutorial Link": "https://www.olcf.ornl.gov/event/introduction-to-adios2/"
+    }
+  ]
+}

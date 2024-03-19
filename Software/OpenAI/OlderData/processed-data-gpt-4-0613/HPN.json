@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "HPN": {
+      "MainPage": "https://www.psc.edu/hpn-ssh",
+      "Documentation": "https://www.psc.edu/hpn-ssh-faqs",
+      "Tutorials": [
+        "https://www.slashroot.in/how-do-ssh-tunneling",
+        "https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-tunneling-on-a-vps",
+        "https://www.psc.edu/hpn-ssh-community"
+      ]
+    }
+  }
+}

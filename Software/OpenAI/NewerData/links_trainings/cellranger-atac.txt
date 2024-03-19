@@ -1,0 +1,32 @@
+{
+  "name": "Cell Ranger ATAC",
+  "software_page": "https://support.10xgenomics.com/single-cell-atac/software/pipelines/latest/what-is-cell-ranger-atac",
+  "documentation": [
+    {
+      "name": "Quick Start Guide",
+      "link": "https://support.10xgenomics.com/single-cell-atac/software/pipelines/latest/using/tutorial"
+    },
+    {
+      "name": "Software Downloads",
+      "link": "https://support.10xgenomics.com/single-cell-atac/software/downloads/latest"
+    },
+    {
+      "name": "Pipeline Overview",
+      "link": "https://support.10xgenomics.com/single-cell-atac/software/pipelines/latest/overview"
+    },
+    {
+      "name": "Analysis Overview",
+      "link": "https://support.10xgenomics.com/single-cell-atac/software/pipelines/latest/analysis"
+    },
+    {
+      "name": "Output Files",
+      "link": "https://support.10xgenomics.com/single-cell-atac/software/pipelines/latest/output/overview"
+    }
+  ],
+  "tutorial_and_training_materials": [
+    {
+      "name": "Tutorial Using Cell Ranger ATAC",
+      "link": "https://support.10xgenomics.com/single-cell-atac/software/pipelines/latest/using/tutorial"
+    }
+  ]
+}

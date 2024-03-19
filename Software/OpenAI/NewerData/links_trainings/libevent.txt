@@ -1,0 +1,21 @@
+{
+  "Software Name": "libevent",
+  "Software Details": {
+    "Software URL": "https://libevent.org/",
+    "Documentation": {
+      "Main Documentation": "https://libevent.org/doc.html",
+      "Additional Resources": [
+        {
+          "Resource 1": "https://hyperpolyglot.org/multiplexing",
+          "Resource 2": "https://www.ibm.com/developerworks/library/l-libev/index.html",
+          "Resource 3": "http://www.wangafu.net/~nickm/libevent-book/"
+        }
+      ]
+    },
+    "Tutorials and Training Materials": {
+      "Tutorial 1": "https://www.programmersought.com/article/69193846850/",
+      "Tutorial 2": "https://www.monkey.org/~provos/libevent/doxygen/",
+      "Tutorial 3": "https://www.youtube.com/watch?v=V056nvOgvMQ"
+    }
+  }
+}

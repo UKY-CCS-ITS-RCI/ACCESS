@@ -1,0 +1,29 @@
+{
+  "FASTA": {
+    "software_page": "https://fasta.bio/",
+    "documentation": [
+      {
+        "name": "FASTA Format",
+        "link": "https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp"
+      },
+      {
+        "name": "FASTA Format Specification and Parsing",
+        "link": "https://biopython.org/wiki/SeqIO"
+      }
+    ],
+    "tutorials": [
+      {
+        "name": "Introduction to the FASTA Format",
+        "link": "https://www.youtube.com/watch?v=1Kj1Q0QocsY"
+      },
+      {
+        "name": "Handling FASTA Files",
+        "link": "https://www.youtube.com/watch?v=OCrPmyNRba8"
+      },
+      {
+        "name": "Bioinformatics Tutorial - FASTA Format",
+        "link": "https://www.youtube.com/watch?v=0YvQnXjumCk"
+      }
+    ]
+}     
+}

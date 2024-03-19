@@ -1,0 +1,9 @@
+{
+    "Software": "Cell Ranger",
+    "Website": "https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger",
+    "Documentation": "https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial_br",
+    "Tutorial_and_Training": [
+        "https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial_ct",
+        "https://kb.10xgenomics.com/hc/en-us/categories/360002379372-Software-Cell-Ranger-"
+    ]
+}

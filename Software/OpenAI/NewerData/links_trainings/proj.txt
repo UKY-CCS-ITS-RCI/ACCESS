@@ -1,0 +1,22 @@
+{
+  "Software Name": "PROJ",
+  "Software page": "https://proj.org/",
+  "Documentation": {
+    "Main Documentation": "https://proj.org/usage/index.html",
+    "Tutorial": "https://proj.org/development/reference/functions.html",
+    "Additional Resources": [
+      {
+        "Name": "PROJ GitHub Repository",
+        "URL": "https://github.com/OSGeo/PROJ"
+      },
+      {
+        "Name": "PROJ Mailing List",
+        "URL": "https://lists.osgeo.org/mailman/listinfo/proj"
+      },
+      {
+        "Name": "PROJ Wiki",
+        "URL": "https://github.com/OSGeo/PROJ/wiki"
+      }
+    ]
+  }
+}

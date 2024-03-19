@@ -1,0 +1,16 @@
+{
+  "software": "snakemake",
+  "web_links": {
+    "software_page": "https://snakemake.readthedocs.io/en/stable/",
+    "documentation": "https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html",
+    "tutorial_and_training_materials": {
+      "Snakemake Tutorial": "https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html",
+      "Snakemake Tutorial - Setup": "https://snakemake.readthedocs.io/en/stable/tutorial/setup.html",
+      "Snakemake Tutorial - Basics": "https://snakemake.readthedocs.io/en/stable/tutorial/basics.html",
+      "Snakemake Tutorial - Advanced": "https://snakemake.readthedocs.io/en/stable/tutorial/advanced.html",
+      "Snakemake Workshop": "http://slowkow.com/notes/snakemake-tutorial/",
+      "Snakemake on HPC": "https://hpc.nih.gov/apps/snakemake.html",
+      "Snakemake with Docker": "https://www.docker.com/blog/combining-smakemake-docker-functional-testing/"
+    }
+  }
+}

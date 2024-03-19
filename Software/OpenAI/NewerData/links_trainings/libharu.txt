@@ -1,0 +1,25 @@
+{
+  "software": "libharu",
+  "details": [
+    {
+      "name": "libharu official page",
+      "url": "http://libharu.org/"
+    },
+    {
+      "name": "libharu documentation",
+      "url": "http://www.libharu.org/wiki/Documentation"
+    },
+    {
+      "name": "libharu GitHub repository",
+      "url": "https://github.com/libharu/libharu"
+    },
+    {
+      "name": "libharu examples",
+      "url": "https://github.com/libharu/libharu/tree/master/demo"
+    },
+    {
+      "name": "libharu tutorial",
+      "url": "http://www.libharu.org/wiki/Tutorial"
+    }
+  ]
+}

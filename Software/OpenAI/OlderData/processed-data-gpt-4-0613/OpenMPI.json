@@ -1,0 +1,28 @@
+{
+  "software": "OpenMPI",
+  "website": "https://www.open-mpi.org/",
+  "documentation": [
+    {
+      "title": "OpenMPI Documentation",
+      "url": "https://www.open-mpi.org/doc/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "OpenMPI Getting Started",
+      "url": "https://www.open-mpi.org/faq/?category=running"
+    },
+    {
+      "title": "Introduction to OpenMPI",
+      "url": "https://cvw.cac.cornell.edu/MPI/openmpi/default.aspx"
+    },
+    {
+      "title": "UC Berkeley CS267 Lecture 13: High Performance MPI",
+      "url": "https://www.youtube.com/watch?v=HAihV2iBJg8"
+    },
+    {
+      "title": "Introduction to MPI Programming with OpenMPI",
+      "url": "https://www.cs.usfca.edu/~peter/ipp/lectures/413.mpi.pdf"
+    }
+  ]
+}

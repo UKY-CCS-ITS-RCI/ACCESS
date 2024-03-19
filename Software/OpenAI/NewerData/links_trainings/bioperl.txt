@@ -1,0 +1,18 @@
+{
+  "Software":["bioperl"],
+  "SoftwareDetails": [
+        {
+          "name":"bioperl",
+          "websiteLink":"https://bioperl.org/",
+          "documentationLinks": [
+            "https://bioperl.org/FAQ.html",
+            "https://bioperl.org/Tutorials/",
+            "https://bioperl.org/INSTALL.html"
+          ],
+          "tutorialLinks": [
+            "https://bioperl.org/Tutorials/",
+            "https://www.slideshare.net/habdessamad/hands-on-bioperl"
+          ]
+        }
+    ]
+}

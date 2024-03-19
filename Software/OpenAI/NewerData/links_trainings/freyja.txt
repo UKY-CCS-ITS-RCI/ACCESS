@@ -1,0 +1,8 @@
+{
+  "Freyja": {
+    "software_url": "https://github.com/SciLifeLab/freyja",
+    "documentation_url": "https://github.com/SciLifeLab/freyja/blob/master/README.md",
+    "tutorial_url": ["https://github.com/SciLifeLab/freyja/wiki"],
+    "training_materials": []
+  }
+}

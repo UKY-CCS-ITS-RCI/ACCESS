@@ -1,0 +1,11 @@
+{
+  "software_name": "gperf",
+  "software_page_link": "https://www.gnu.org/software/gperf/",
+  "documentation_links": {
+    "gperf_manual": "https://www.gnu.org/software/gperf/manual/gperf.html"
+  },
+  "tutorial_material_links": {
+    "gperf_tips_and_tricks": "https://techoverflow.net/2011/06/15/gperf-tips-tricks-examples/",
+    "gperf_example": "https://www.lrde.epita.fr/~akim/ccmp/doc/gperf.html"
+  }
+}

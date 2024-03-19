@@ -1,0 +1,22 @@
+
+{
+  "BaseSpace": {
+    "software_page": "https://www.illumina.com/products/by-type/informatics-products/basespace-sequence-hub.html",
+    "documentation": "https://help.basespace.illumina.com/",
+    "training_materials": [
+      {
+        "title": "BaseSpace Sequence Hub Webinar",
+        "url": "https://www.youtube.com/watch?v=dQ5uYFA2suc"
+      },
+      {
+        "title": "BaseSpace Sequence Hub Overview",
+        "url": "https://www.youtube.com/watch?v=YPqL2vB1WCw"
+      },
+      {
+        "title": "Introduction to BaseSpace Sequence Hub",
+        "url": "https://www.biorxiv.org/content/10.1101/473662v1"
+      }
+    ]
+  }
+}
+

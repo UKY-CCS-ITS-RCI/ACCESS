@@ -1,0 +1,12 @@
+
+{
+  "NCL": {
+    "Software Page": "https://www.ncl.ucar.edu/",
+    "Documentation": "https://www.ncl.ucar.edu/Document/",
+    "Tutorials": [
+      "https://www.ncl.ucar.edu/Applications/",
+      "https://www.ncl.ucar.edu/Document/LearnNCL/"
+    ]
+  }
+}
+

@@ -1,0 +1,20 @@
+{
+  "software": [
+    {
+      "name": "fasta3",
+      "description": "FASTA is a DNA and protein sequence alignment software package for protein sequences.",
+      "homepage": "https://fasta.bioch.virginia.edu/fasta_www2/fasta_list2.shtml",
+      "documentation": "https://fasta.bioch.virginia.edu/fasta_www2/fasta_www.cgi?help",
+      "tutorials": [
+        {
+          "name": "FASTA Sequence Alignment Tutorials",
+          "url": "https://www.youtube.com/watch?v=hZzk8MFnWjY"
+        },
+        {
+          "name": "FASTA Format and Programs Tutorial",
+          "url": "https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "software": "libogg",
+  "software_url": "https://www.xiph.org/ogg/",
+  "documentation": [
+    {
+      "doc_name": "libogg GitHub documentation",
+      "doc_url": "https://github.com/xiph/ogg"
+    },
+    {
+      "doc_name": "libogg API reference",
+      "doc_url": "https://www.xiph.org/ogg/doc/libogg/"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorial_name": "Introduction to Ogg/Vorbis",
+      "tutorial_url": "https://www.xiph.org/ogg/doc/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Suitesparse": {
+     "Software_URL": "https://people.engr.tamu.edu/davis/suitesparse.html",
+     "Documentation": [
+       {
+          "title": "Official Documentation",
+          "URL": "http://faculty.cse.tamu.edu/davis/suitesparse/SuiteSparse-2nd-Edition.pdf"
+       }
+    ],
+    "Tutorials": [
+      {
+        "title": "Suitesparse Overview",
+        "URL": "http://www.cise.ufl.edu/research/sparse/umfpack/"
+      },
+      {
+        "title": "SuiteSparse Matrix Collection",
+        "URL": "https://sparse.tamu.edu/"
+      }
+    ]
+  }
+}

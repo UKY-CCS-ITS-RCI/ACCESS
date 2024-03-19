@@ -1,0 +1,10 @@
+{
+    "Software": "Clozure CL",
+    "Website": "https://ccl.clozure.com/",
+    "Documentation": "https://ccl.clozure.com/docs/introduction.html",
+    "Tutorial_and_Training": [
+        "https://lisptips.com/post/313754616/clozure-cl",
+        "https://www.reddit.com/r/lisp/comments/6et5tz/how_to_ccl_clozure_cl/",
+        "https://www.youtube.com/watch?v=VnWVu8VVDbI"
+    ]
+}

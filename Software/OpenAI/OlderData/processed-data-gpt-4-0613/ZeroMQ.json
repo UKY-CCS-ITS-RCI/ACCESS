@@ -1,0 +1,23 @@
+{
+"name": "ZeroMQ",
+"softwarePage": "https://zeromq.org/",
+"documentation": "http://api.zeromq.org/",
+"tutorialMaterials": [
+    {
+        "name": "ZeroMQ (ØMQ) Tutorial",
+        "url": "https://zeromq.org/languages/python/"
+    },
+    {
+        "name": "ZeroMQ via C# Introduction",
+        "url": "https://www.codeproject.com/Articles/488207/ZeroMQ-via-Csharp-Introduction"
+    },
+    {
+        "name": "NetMQ - An Introduction",
+        "url": "https://netmq.readthedocs.io/en/latest/"
+    },
+    {
+        "name": "ZeroMQ Tutorial",
+        "url": "https://www.tutorialspoint.com/zeromq/index.htm"
+    }
+  ]
+}

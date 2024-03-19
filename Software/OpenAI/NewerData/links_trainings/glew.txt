@@ -1,0 +1,13 @@
+{
+  "Software": "glew",
+  "Website": "http://glew.sourceforge.net/",
+  "Documentation": "http://glew.sourceforge.net/basic.html",
+  "Tutorials": [
+    {
+      "Beginner's guide to GLEW": "https://www.opengl.org/sdk/libs/GLEW/",
+      "OpenGL Programming guide": "https://www.khronos.org/files/opengl-red-book-8th-ed.pdf",
+      "Using GLEW for OpenGL 3 and 4": "http://www.tomdalling.com/blog/modern-opengl/01-getting-started-in-xcode-and-visual-cpp/",
+      "GLEW and freeglut tutorial": "http://www.codeincodeblock.com/2012/05/setting-up-opengl-glew-and-freeglut-in.html"
+    }
+  ]
+}

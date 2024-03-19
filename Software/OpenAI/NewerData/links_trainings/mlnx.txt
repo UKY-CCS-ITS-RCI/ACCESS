@@ -1,0 +1,16 @@
+{
+    "mlnx" : {
+      "website" : "https://www.mellanox.com/",
+      "documentation" : "https://docs.mellanox.com/",
+      "training_materials" : [
+        {
+          "name": "Mellanox Academy",
+          "url": "https://www.mellanox.com/training"
+        },
+        {
+          "name": "Mellanox Training YouTube Channel",
+          "url": "https://www.youtube.com/channel/UCbb7Z_rEW3R845YLvLNsd_Q"
+        }
+      ]
+    }
+}

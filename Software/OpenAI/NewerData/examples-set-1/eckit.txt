@@ -1,0 +1,26 @@
+Use Case: eckit is a cross-platform toolkit developed by ECMWF (European Centre for Medium-Range Weather Forecasts) which provides many of the basic building blocks for developing software systems. It is particularly tailored to develop large and distributed software systems for weather prediction requires. It is used for handling messages, configuration, input/output streams, filesystem, data structures and algorithms, and multi-threading and communication patterns.
+
+Code details and examples: Eckit provides a python library eckit-python which includes various modules such as core, log and SuperConfig.
+
+Code:
+
+```python
+from eckit.core import Main
+from eckit.log import Log
+
+class App(Main):
+
+    def run(self):
+        Log.info("Hello World")
+
+main = App("hello")
+main.start()
+```
+
+In this example, you define your main application as a class which is derived from eckit.core.Main and overloads a run() method. Within the run() method, you can use eckit.log.Log to output information. The command to run this python script would be:
+
+```
+python hello.py
+```
+
+This would run the hello.py script and output "Hello World" to the console.

@@ -1,0 +1,22 @@
+{
+  "Software": 
+  { 
+    "x264": 
+    { 
+      "URL": "https://www.videolan.org/developers/x264.html",
+      "Documentation": "https://code.videolan.org/videolan/x264/-/wikis/home",
+      "Tutorials": 
+      [
+        {
+          "x264 Settings": "https://trac.ffmpeg.org/wiki/Encode/H.264"
+        },
+        {
+          "x264 Encoding Guide": "https://www.axsotic.com/articles/x264-encoding-guide"
+        },
+        {
+          "How to Encode with x264": "https://www.tomsguide.com/us/x264-encode-high-quality-videos,news-17756.html"
+        }
+      ]
+    }
+  }
+}

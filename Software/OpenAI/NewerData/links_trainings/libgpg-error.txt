@@ -1,0 +1,13 @@
+{
+  "software": "libgpg-error",
+  "details": {
+    "homepage": "https://www.gnupg.org/(fr)/related_software/libgpg-error/index.html",
+    "documentation": "https://www.gnupg.org/documentation/manuals/gcrypt-devel/",
+    "tutorials": [
+      {
+        "tutorial1": "https://www.gnupg.org/documentation/manuals/libgpg-error.pdf",
+        "tutorial2": "https://dev.gnupg.org/source/libgpg-error/"
+      }
+    ]
+  }
+}

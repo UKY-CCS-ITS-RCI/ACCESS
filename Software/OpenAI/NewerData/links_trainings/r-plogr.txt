@@ -1,0 +1,22 @@
+{
+  "software": "r-plogr",
+  "details": {
+    "software_URL": "https://anaconda.org/bioconda/r-plogr",
+    "documentation": [
+    {
+      "doc_link": "https://www.rdocumentation.org/packages/plogr/versions/0.2-0",
+      "doc_title": "R Documentation - plogr Package"
+     }
+    ],
+    "training_materials": [
+     {
+      "tutorial_link": "https://www.r-bloggers.com/precision-vs-speed-understanding-the-plogr-package/",
+      "tutorial_title": "Understanding the plogr Package"
+      },
+      {
+      "tutorial_link": "https://davetang.org/muse/2014/12/17/installing-r-packages-locally/",
+      "tutorial_title": "Installing R Packages Locally - Example with plogr"
+      }
+    ]
+  }
+}

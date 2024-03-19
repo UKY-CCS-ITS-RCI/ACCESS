@@ -1,0 +1,28 @@
+{
+  "Software Name": "libsndfile",
+  "Software URL": "http://www.mega-nerd.com/libsndfile/",
+  "Documentation": [
+    {
+      "URL": "http://www.mega-nerd.com/libsndfile/api.html"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "http://www.mega-nerd.com/libsndfile/tutorial.html"
+    },
+    {
+      "URL": "https://stackoverflow.com/questions/15877406/libsndfile-tutorial"
+    },
+    {
+      "URL": "https://gist.github.com/cartazio/464758"
+    }
+  ],
+  "Additional Training Materials": [
+    {
+      "URL": "https://github.com/erikd/libsndfile"
+    },
+    {
+      "URL": "https://github.com/erikd/libsndfile-examples"
+    }
+  ]
+}

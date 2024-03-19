@@ -1,0 +1,25 @@
+{
+  "software": {
+    "name": "GNU parallel",
+    "url": "https://www.gnu.org/software/parallel/",
+    "additional_links": {
+      "documentation": {
+        "url": "https://www.gnu.org/software/parallel/parallel_tutorial.html"
+      },
+      "training_and_tutorial_materials": [
+        {
+          "name": "GNU Parallel Tutorial",
+          "url": "https://www.gnu.org/software/parallel/parallel_tutorial.html"
+        },
+        {
+          "name": "Introduction to GNU parallel with Tutorial",
+          "url": "https://www.tecmint.com/run-commands-in-parallel-in-linux/"
+        },
+        {
+          "name": "Using GNU Parallel For Quick/Parallel Linux Shell Commands",
+          "url": "https://www.cyberciti.biz/open-source/command-line-hacks/gnu-parallel-command-examples-for-unix-linux-sysadmins/"
+        }
+      ]
+    }
+  }
+}

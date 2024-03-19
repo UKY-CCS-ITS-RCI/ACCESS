@@ -1,0 +1,11 @@
+{
+  "software": {
+    "name": "ltrpred",
+    "software_url": "https://github.com/HajkD/LTRpred",
+    "documentation": "https://rdrr.io/github/HajkD/LTRpred/man/LTRpred.html",
+    "tutorials": {
+      "LTRpred tutorial": "https://hajkd.github.io/LTRpred/articles/LTRpred.html",
+      "Bioconductor workflow": "https://bioconductor.org/packages/release/bioc/vignettes/LTRpred/inst/doc/LTRpred.html"
+    }
+  }
+}

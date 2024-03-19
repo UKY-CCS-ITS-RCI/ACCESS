@@ -1,0 +1,16 @@
+{
+   "software":{
+      "name":"gpustat",
+      "software_url":"https://github.com/wookayin/gpustat",
+      "documentation":{
+         "Doc_title":"Github README File",
+         "Doc_url":"https://github.com/wookayin/gpustat/blob/master/README.md"
+      },
+      "training_materials":[
+         {
+            "tutorial_title":"Python installation and usage of gpustat",
+            "tutorial_url":"https://www.youtube.com/watch?v=DIYki3TgO24"
+         }
+      ]
+   }
+}

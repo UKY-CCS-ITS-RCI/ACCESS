@@ -1,0 +1,6 @@
+{
+  "name": "nompi",
+  "software_page": "https://anaconda.org/conda-forge/nompi",
+  "documentation_link": "Not Available",
+  "training_materials": "Not Available"
+}

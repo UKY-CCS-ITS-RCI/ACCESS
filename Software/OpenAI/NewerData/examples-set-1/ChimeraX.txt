@@ -1,0 +1,34 @@
+Use Case: ChimeraX is a high-performance software for visualizing molecular structures, densities, and trajectories, plus analysis and scripting capabilities.
+
+Code Details and Examples: ChimeraX provides multiple commands for representing and analyzing structures. It also provides functionalities to load and analyze 3D structures directly from PDB files.
+
+For example, consider we have protein structure file named "protein.pdb". The following steps could apply:
+
+1) Opening the PDB File:
+
+Code: 
+```
+open protein.pdb
+```
+
+This command will open and visualize the structure directly from the file named "protein.pdb". 
+
+2) Coloring the structure:
+
+Code:
+```
+color #FF0000
+```
+
+This command will color the currently selected molecule in red.
+
+3) Saving images:
+
+Code:
+```
+save ~/Desktop/protein.png
+```
+
+This command will save an image of the current view of the molecule to a file named "protein.png" on the Desktop. 
+
+The ChimeraX command language is used to interactively run specific actions. It is text-based and entered in a command line, similar to scripting languages.

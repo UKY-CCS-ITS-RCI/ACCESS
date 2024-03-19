@@ -1,0 +1,21 @@
+{
+    "software_name": "OpenBLAS",
+    "comprehensive_overview": "OpenBLAS (Open Basic Linear Algebra Subprograms) is an optimized BLAS (Basic Linear Algebra Subprograms) library based on GotoBLAS2. It provides efficient, portable and easy-to-use implementations of many commonly used linear algebra routines.",
+    "core_features": [
+        "Optimized BLAS library",
+        "Efficient and portable",
+        "Easy-to-use implementations",
+        "Supports many linear algebra routines"
+    ],
+    "general_tags": [
+        "Linear algebra",
+        "Optimization",
+        "Computational mathematics"
+    ],
+    "additional_tags": {
+        "research_discipline": "Mathematics",
+        "research_area": "Computational mathematics",
+        "software_class": "Numerical library",
+        "software_type": "Library"
+    }
+}

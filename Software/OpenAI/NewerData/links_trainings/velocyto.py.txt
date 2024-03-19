@@ -1,0 +1,9 @@
+{
+  "Software": "velocyto.py",
+  "Link": "https://github.com/velocyto-team/velocyto.py",
+  "Documentation": "http://velocyto.org/velocyto.py/",
+  "Tutorials": [
+    "https://nbviewer.jupyter.org/github/velocyto-team/velocyto-notebooks/blob/master/python/DG1.ipynb",
+    "https://nbviewer.jupyter.org/github/velocyto-team/velocyto-notebooks/blob/master/python/DG2.ipynb"
+  ]
+}

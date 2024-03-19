@@ -1,0 +1,28 @@
+{
+  "software": "OpenJDK",
+  "website": "https://openjdk.java.net/",
+  "documentation": [
+    {
+      "title": "OpenJDK Documentation",
+      "url": "https://openjdk.java.net/documentation/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "OpenJDK Developers' Guide",
+      "url": "https://openjdk.java.net/guide/"
+    },
+    {
+      "title": "Getting Started with OpenJDK",
+      "url": "https://wiki.openjdk.java.net/display/Adoption/Getting+started"
+    },
+    {
+      "title": "Building OpenJDK",
+      "url": "https://wiki.openjdk.java.net/display/Build/Building+OpenJDK"
+    },
+    {
+      "title": "Building OpenJDK on Windows",
+      "url": "https://adoptium.net/adoption/build-openjdk.html"
+    }
+  ]
+}

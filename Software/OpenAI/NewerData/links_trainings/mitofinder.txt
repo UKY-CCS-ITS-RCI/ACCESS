@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "Mitofinder",
+  "SoftwareURL": "https://github.com/RemiAllio/MitoFinder",
+  "Documentation": [
+    {
+      "URL": "https://mitofinder.readthedocs.io/en/latest/"
+    }
+  ],
+  "TrainingAndTutorial": [
+    {
+      "Title": "MitoFinder Tutorial",
+      "URL": "https://mitofinder.readthedocs.io/en/latest/tutorial.html"
+    }
+  ]
+}

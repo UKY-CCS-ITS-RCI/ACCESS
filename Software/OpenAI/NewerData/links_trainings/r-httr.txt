@@ -1,0 +1,14 @@
+{
+  "r-httr": {
+    "Software URL": "https://cran.r-project.org/web/packages/httr/index.html",
+    "Documentation": [
+      "https://cran.r-project.org/web/packages/httr/httr.pdf",
+      "https://httr.r-lib.org//index.html"
+    ],
+    "Tutorial and Training materials": [
+      "https://cran.r-project.org/web/packages/httr/vignettes/quickstart.html",
+      "https://programminghistorian.org/en/lessons/extracting-data-with-R-httr",
+      "https://rstudio-pubs-static.s3.amazonaws.com/311476_4f7a0e6e5e6d485995a1207611154e57.html"
+    ]
+  }
+}

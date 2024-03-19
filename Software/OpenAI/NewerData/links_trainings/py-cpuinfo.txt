@@ -1,0 +1,12 @@
+{
+  "Software": "py-cpuinfo",
+  "Website": "https://github.com/workhorsy/py-cpuinfo",
+  "Additional Resources": {
+    "Documentation": "https://github.com/workhorsy/py-cpuinfo#py-cpuinfo",
+    "Tutorials": [
+      {
+        "Tutorial 1: Py-cpuinfo usage": "https://py-cpuinfo.readthedocs.io/en/latest/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "SoftwareName": "gtk+",
+  "Website": "https://www.gtk.org/",
+  "Documentation": "https://docs.gtk.org/",
+  "TutorialsAndTrainingMaterials": [
+    {
+      "TrainingName": "GTK+ 3 Programming with C and Glade",
+      "TrainingURL": "https://prognotes.net/2014/08/gtk-3-programming-c-glade/"
+    },
+    {
+      "TrainingName": "A GTK+ Tutorial",
+      "TrainingURL": "https://developer.gnome.org/gtk-tutorial/stable/"
+    },
+    {
+      "TrainingName": "Python GUI Programming With GTK+3 – Real Python",
+      "TrainingURL": "https://realpython.com/python-gui-programming-gtk/"
+    },
+    {
+      "TrainingName": "GTK+3 For Graphical User Interfaces",
+      "TrainingURL": "https://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Software_name": "perl-bundle-cpan",
+  "Software_link": "https://metacpan.org/dist/Bundle-CPAN/view",
+  "Documentation_links": [
+    "https://perldoc.perl.org/CPAN.html",
+    "https://www.cpan.org/misc/cpan-faq.html",
+    "https://www.perl.org/cpan.html"
+  ],
+  "Tutorial_links": [
+    "https://perlmaven.com/how-to-install-a-perl-module-from-cpan",
+    "https://www.thegeekstuff.com/2008/09/how-to-install-perl-modules-manually-and-using-cpan-command/",
+    "https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm"
+  ],
+  "Training_materials": [
+    "https://www.lynda.com/Perl-tutorials/Introduction-perl-CPAN/122471/145497-4.html",
+    "https://www.pluralsight.com/courses/perl-fundamentals",
+    "https://www.udemy.com/topic/perl/"
+  ]
+}

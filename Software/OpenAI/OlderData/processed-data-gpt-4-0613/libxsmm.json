@@ -1,0 +1,9 @@
+{
+    "software": "LIBXSMM",
+    "resources": {
+        "softwareHomepage": "https://github.com/hfp/libxsmm",
+        "documentation": "https://github.com/hfp/libxsmm/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

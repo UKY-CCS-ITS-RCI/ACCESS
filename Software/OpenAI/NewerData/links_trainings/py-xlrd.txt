@@ -1,0 +1,10 @@
+{
+  "software_name": "py-xlrd",
+  "software_url": "https://pypi.org/project/xlrd/",
+  "documentation_url": "https://xlrd.readthedocs.io/en/latest/",
+  "tutorial_urls": [
+    "https://www.tutorialspoint.com/python_data_access/python_excel_file_using_xlrd_module.htm",
+    "https://www.datacamp.com/community/tutorials/python-excel-tutorial",
+    "https://medium.com/analytics-vidhya/python-read-and-write-excel-files-with-xlrd-xlwt-ba6bfedead19"
+  ]
+}

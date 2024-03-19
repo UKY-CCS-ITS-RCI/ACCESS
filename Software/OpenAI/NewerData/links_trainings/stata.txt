@@ -1,0 +1,13 @@
+{
+  "stata": {
+    "softwarePage": "https://www.stata.com/",
+    "documentation": "https://www.stata.com/manuals/",
+    "tutorials_and_training": [{
+      "stataWebBook":"https://stats.idre.ucla.edu/stata/webbooks/reg/",
+      "introduction": "https://www.cpc.unc.edu/research/tools/data_analysis/statatutorial",
+      "pdfTutorial": "https://www.southampton.ac.uk/~cpd/anovas/datasets/text%20books%20to%20support%20datasets/Using%20Stata%20for%20Principles%20of%20Econometrics.pdf",
+      "princetonStataTutorial": "https://data.princeton.edu/stata/",
+      "programmingStata": "https://www.stata.com/manuals13/p.pdf"
+    }]
+  }
+}

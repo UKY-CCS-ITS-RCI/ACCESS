@@ -1,0 +1,17 @@
+{
+  "name": "samblaster",
+  "software_link": "https://github.com/GregoryFaust/samblaster",
+  "documentation": [
+    {
+      "link": "https://github.com/GregoryFaust/samblaster#readme"
+    }
+  ],
+  "tutorials": [
+    {
+      "link": "https://bioinformatics-core-shared-training.github.io/cruk-bioinf-sschool/Day3/samtools_samblaster.html"
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=dZ3iG4HIjBI"
+    }
+  ]
+}

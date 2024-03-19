@@ -1,0 +1,32 @@
+{
+  "Software Name": "py-seaborn",
+  "Software Category": "Python libraries",
+  "Software Link": "https://seaborn.pydata.org/",
+  "Documentation Link": "https://seaborn.pydata.org/tutorial.html",
+  "Tutorial Links": [
+    {
+      "URL": "https://seaborn.pydata.org/tutorial/relational.html",
+      "Description": "Seaborn Tutorial: Visualizing statistical relationships"
+    },
+    {
+      "URL": "https://seaborn.pydata.org/tutorial/distributions.html",
+      "Description": "Seaborn Tutorial: Visualizing distributions of data"
+    },
+    {
+      "URL": "https://seaborn.pydata.org/tutorial/categorical.html",
+      "Description": "Seaborn Tutorial: Visualizing categorical data"
+    },
+    {
+      "URL": "https://seaborn.pydata.org/tutorial/regression.html",
+      "Description": "Seaborn Tutorial: Visualizing linear relationships"
+    },
+    {
+      "URL": "https://seaborn.pydata.org/tutorial/matrix.html",
+      "Description": "Seaborn Tutorial: Plotting with categorical data"
+    },
+    {
+      "URL": "https://seaborn.pydata.org/tutorial/color_palettes.html",
+      "Description": "Seaborn Tutorial: Choosing color palettes"
+    }
+  ]
+}

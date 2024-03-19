@@ -1,0 +1,10 @@
+{
+  "mvapich-3.0rc_s11": {
+    "software_page": "https://mvapich.cse.ohio-state.edu/",
+    "documentation": "https://mvapich.cse.ohio-state.edu/userguide/",
+    "tutorials": [
+      "https://mvapich.cse.ohio-state.edu/tutorials/",
+      "https://mvapich.cse.ohio-state.edu/overview/"
+    ]
+  }
+}

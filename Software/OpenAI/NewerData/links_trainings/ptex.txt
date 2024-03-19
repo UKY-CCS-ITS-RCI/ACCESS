@@ -1,0 +1,12 @@
+{
+    "ptex":{
+        "software_page":"https://www.math.tamu.edu/~harold.boas/ptex.html",
+        "documentation_links":[
+            "https://linux.die.net/man/1/ptex"
+        ],
+        "tutorial_links":[
+            "https://github.com/texjporg/ptex-manual",
+            "https://github.com/nekonazo-ya/ptex-tutorial"
+        ]
+    }
+}

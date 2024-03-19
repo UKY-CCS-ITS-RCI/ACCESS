@@ -1,0 +1,14 @@
+
+{
+    "name": "MATIO",
+    "software_page": "https://sourceforge.net/projects/matio/",
+    "documentation": "https://sourceforge.net/p/matio/home/Home/",
+    "tutorials": [
+        "https://www.tu-chemnitz.de/it/projekte/matio/tutorial.php",
+        "https://www.youtube.com/watch?v=NL3qXuEVvBg"
+    ],
+    "additional_resources": [
+        "https://github.com/tbeu/matio",
+        "https://github.com/tbeu/matio/wiki"
+    ]
+}

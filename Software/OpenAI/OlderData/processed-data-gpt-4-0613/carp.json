@@ -1,0 +1,10 @@
+{
+    "Software": "Carp",
+    "Website": "https://carp-lang.github.io/",
+    "Documentation": "https://carp-lang.github.io/carp-docs/Manual.html",
+    "Tutorial_and_Training": [
+        "https://carp-lang.github.io/carp-docs/Book.html",
+        "https://github.com/carp-lang/Carp/blob/master/docs/LanguageGuide.md",
+        "https://exercism.io/tracks/carp"
+    ]
+}

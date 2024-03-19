@@ -1,0 +1,23 @@
+{
+  "Software-Name": "R-RNAseq",
+  "Software-Page-Link": "https://bioconductor.org/packages/release/bioc/html/RNAseqData.html",
+  "Documentation-Links": [
+    {
+      "Documentation-1": "https://www.bioconductor.org/packages/devel/bioc/vignettes/RnaSeqTutorial/inst/doc/RnaSeqTutorial.html"
+    },
+    {
+      "Documentation-2": "https://cran.r-project.org/web/packages/edgeR/vignettes/edgeRUsersGuide.pdf"
+    }
+  ],
+  "Training-and-Tutorial-Materials-Links": [
+    {
+      "Tutorial-1": "http://manuals.bioinformatics.ucr.edu/home/ht-seq"
+    },
+    {
+      "Tutorial-2": "https://stemangiola.github.io/bioc_2017_rnaseq/"
+    },
+    {
+      "Tutorial-3": "https://broadinstitute.github.io/2019_scWorkshop/scrnaseq-R.html"
+    }
+  ]
+}

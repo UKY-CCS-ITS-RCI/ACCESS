@@ -1,0 +1,12 @@
+{ 
+  "Software Name": "Prodigal",
+  "links": { 
+    "software page": "https://github.com/hyattpd/Prodigal", 
+    "documentation": "https://github.com/hyattpd/Prodigal/wiki", 
+    "tutorials": [
+      "https://gtpb.github.io/ANGB18/session-2/Prodigal/", 
+      "https://bioinformaticsworkbook.org/Appendix/Glossary/Prodigal.html#gsc.tab=0", 
+      "http://merenlab.org/2013/10/20/annotating-contigs/"
+     ] 
+  } 
+}

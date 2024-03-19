@@ -1,0 +1,22 @@
+{
+    "software": "NanoPlot",
+    "softwareURL": "https://github.com/wdecoster/NanoPlot",
+    "documentation": [
+        {
+            "docName": "ReadTheDocs Documentation",
+            "docURL": "https://nanoplot.readthedocs.io/en/latest/"
+        }
+    ],
+    "tutorial": [
+        {
+            "tutorialName": "NanoPlot - Tutorial Notebook",
+            "tutorialURL": "https://github.com/wdecoster/nanoplot/blob/master/examples/NanoPlot%20-%20Tutorial%20Notebook.ipynb"
+        }
+    ],
+    "training": [
+        {
+            "trainingName": "BioStars - NanoPlot: visualize nanopore sequencing data",
+            "trainingURL": "https://www.biostars.org/p/313684/"
+        }
+    ]
+}

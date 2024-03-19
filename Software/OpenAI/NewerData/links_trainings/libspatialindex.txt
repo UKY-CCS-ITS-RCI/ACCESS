@@ -1,0 +1,13 @@
+{
+    "name": "libspatialindex",
+    "software_page": "https://libspatialindex.org/",
+    "additional_links": {
+        "documentation": "https://libspatialindex.org/en/latest/",
+        "tutorial_materials": {
+            "spatialindex_basic_usage_guide": "https://libspatialindex.org/en/latest/Basic-Usage.html",
+            "spatialindex_queries_doc": "https://libspatialindex.org/en/latest/Queries.html",
+            "intro_to_Rtree": "https://toblerity.org/rtree/tutorial.html",
+            "PyGIS_Rtree_Tutorial": "https://automating-gis-processes.github.io/CSC/notebooks/L3/spatial_index.html"
+        }
+    }
+}

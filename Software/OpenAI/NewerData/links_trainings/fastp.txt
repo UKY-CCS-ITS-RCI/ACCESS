@@ -1,0 +1,25 @@
+{
+  "software": "fastp",
+  "website": "https://github.com/OpenGene/fastp",
+  "resources": {
+    "documentation": "https://github.com/OpenGene/fastp",
+    "tutorials": [
+      {
+        "name": "fastp tutorial",
+        "url": "http://opengene.org/fastp/fastp.html"
+      },
+      {
+        "name": "fastp usage",
+        "url": "https://github.com/OpenGene/fastp#usage"
+      },
+      {
+        "name": " fastp Bioconda package",
+        "url": "https://bioconda.github.io/recipes/fastp/README.html"
+      },
+      {
+        "name": "fastp Docker image",
+        "url": "https://hub.docker.com/r/openkbs/fastp-docker"
+      }
+    ]
+  }
+}

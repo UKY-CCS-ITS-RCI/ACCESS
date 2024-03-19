@@ -1,0 +1,23 @@
+{
+  "SoftwareName": "R-R6",
+  "SoftwareURL": "https://cran.r-project.org/package=R6",
+  "Documentation": [
+    {
+      "DocLink": "https://cran.r-project.org/web/packages/R6/R6.pdf"
+    }
+  ],
+  "Training": [
+    {
+      "TutorialLink": "https://adv-r.hadley.nz/r6.html",
+      "TutorialDescription": "R6 - Advanced R."
+    },
+    {
+      "TutorialLink": "https://www.listendata.com/2019/07/r6-classes-in-r.html",
+      "TutorialDescription": "Introduction to R6 Classes in R."
+    },
+    {
+      "TutorialLink": "https://rpubs.com/williamroman/r-61",
+      "TutorialDescription": "R6 Classes - An Introduction Tutorial on RPubs."
+    }
+  ]
+}

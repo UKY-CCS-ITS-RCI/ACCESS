@@ -1,0 +1,24 @@
+{
+    "software_name": "GCC-NVPTX",
+    "software_page": "https://gcc.gnu.org/wiki/nvptx",
+    "documentation_links": [
+        {
+            "link_name": "GCC Documentation",
+            "link_url": "https://gcc.gnu.org/onlinedocs/"
+        },
+        {
+            "link_name": "NVPTX GCC Wiki",
+            "link_url": "https://gcc.gnu.org/wiki/nvptx"
+        }
+    ],
+    "tutorial_materials": [
+        {
+            "name": "Using GCC with NVidia PTX",
+            "url": "https://docs.nvidia.com/hpc-sdk/compilers/hpc-compilers-user-guide/index.html#nvptx-gcc"
+        },
+        {
+            "name": "Multi-target Compilation with NVPTX",
+            "url": "https://llvm.org/docs/NVPTXUsage.html"
+        }
+    ]
+}

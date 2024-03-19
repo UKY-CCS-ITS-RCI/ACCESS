@@ -1,0 +1,13 @@
+{
+  "softwareName": "muparser",
+  "softwarePage": "https://beltoforion.de/article.php?a=muparser",
+  "documentation": "https://beltoforion.de/article.php?a=muparser&hl=en&p=details&s=idPageTop#idPageTop",
+  "trainingMaterial": [
+    {
+      "tutorial1": "https://www.youtube.com/watch?v=s1noXh-B6Ag"
+    },
+    {
+      "tutorial2": "https://www.codeproject.com/Articles/7333/High-Precision-Computation-of-complex-math-expres"
+    }
+  ]
+}

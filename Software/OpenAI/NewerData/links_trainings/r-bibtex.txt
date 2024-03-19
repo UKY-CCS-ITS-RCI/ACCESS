@@ -1,0 +1,28 @@
+{
+  "Software Name": "r-bibtex",
+  "Software URL": "https://cran.r-project.org/web/packages/bibtex/bibtex.pdf",
+  "Documentation": [
+    {
+      "Documentation Name": "CRAN bibtex package",
+      "URL": "https://cran.r-project.org/web/packages/bibtex/bibtex.pdf"
+    },
+    {
+      "Documentation Name": "R-Forge bibtex package",
+      "URL": "https://r-forge.r-project.org/projects/bibtex/"
+    }
+  ],
+  "Tutorials and Training Materials": [
+    {
+      "Material Name": "BibTeX in RMarkdown and RStudio",
+      "URL": "https://bookdown.org/yihui/rmarkdown-cookbook/bibtex.html"
+    },
+    {
+      "Material Name": "Using BibTeX to Manage a Bibliography with R Markdown",
+      "URL": "https://rstats.work/blog/2019/11/17/using-bibtex-to-manage-a-bibliography-with-r-markdown/"
+    },
+    {
+      "Material Name": "Creating Citations with BibTeX and RMD Files",
+      "URL": "https://kbroman.org/github_tutorial/pages/citations.html"
+    }
+  ]
+}

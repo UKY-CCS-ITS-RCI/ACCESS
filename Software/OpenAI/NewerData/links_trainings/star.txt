@@ -1,0 +1,13 @@
+{
+ "STAR": {
+   "software_page": "https://github.com/alexdobin/STAR",
+   "documentation": [
+     "https://github.com/alexdobin/STAR/blob/master/doc/STARmanual.pdf"
+   ],
+   "training_materials": [
+     "https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon/lessons/02_STAR_alignment.html",
+     "https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref_based/tutorial.html",
+     "https://www.youtube.com/watch?v=0CfC_K88ldU"
+   ]
+ }
+}

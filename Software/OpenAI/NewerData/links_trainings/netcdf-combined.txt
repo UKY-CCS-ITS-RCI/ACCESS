@@ -1,0 +1,44 @@
+{
+  "software": {
+    "name": "netCDF",
+    "home_url": "https://www.unidata.ucar.edu/software/netcdf/",
+    "description": "Set of software libraries and machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.",
+    "documentation_url": "https://www.unidata.ucar.edu/software/netcdf/docs/",
+    "tutorial_url": [
+      "https://www.unidata.ucar.edu/software/netcdf/workshops/2011/",
+      "https://www.unidata.ucar.edu/software/netcdf/workshops/2010/"
+    ],
+    "training_materials": [
+      "https://www.unidata.ucar.edu/software/netcdf/docs/faq.html",
+      "https://www.aos.wisc.edu/~gpetty/ocen400/netcdf_tutorial.html"
+    ]
+  },
+  "compiler": {
+    "name": "NetCDF Fortran",
+    "home_url": "https://www.unidata.ucar.edu/software/netcdf/docs/netcdf-fortran/",
+    "description": "Provides a Fortran 90 interface for netCDF",
+    "documentation_url": "https://www.unidata.ucar.edu/software/netcdf/docs/f90-format.html",
+    "tutorial_url": [
+      "https://www.unidata.ucar.edu/software/netcdf/workshops/2011/fortran",
+      "https://www.youtube.com/watch?v=8bpd-qlO2DI"
+    ],
+    "training_materials": [
+      "https://www.unidata.ucar.edu/software/netcdf/examples/programs/fortran.html",
+      "https://www.unidata.ucar.edu/software/netcdf/workshops/2011/fortran_direct.html"
+    ]
+  },
+  "python_library": {
+    "name": "netCDF4",
+    "home_url": "https://pypi.org/project/netCDF4/",
+    "description": "Python interface to the netCDF",
+    "documentation_url": "http://unidata.github.io/netcdf4-python/netCDF4/index.html",
+    "tutorial_url": [
+      "http://www.ceda.ac.uk/static/media/uploads/ncas-reading-2015/10_read_netcdf_python.pdf",
+      "https://geo-python.github.io/site/notebooks/L7/netCDF4.html"
+    ],
+    "training_materials": [
+      "https://iescoders.com/2017/10/03/read-and-plot-a-netcdf-file-using-python/",
+      "https://annefou.github.io/metos_python/03-netcdf/"
+    ]
+  }
+}

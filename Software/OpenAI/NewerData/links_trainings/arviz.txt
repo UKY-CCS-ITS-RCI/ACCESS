@@ -1,0 +1,24 @@
+{
+  "arviz": {
+    "software_page": "https://arviz-devs.github.io/arviz/",
+    "documentation": "https://arviz-devs.github.io/arviz/getting_started/Introduction.html",
+    "training_materials": [
+      {
+        "name": "Github example notebooks",
+        "url": "https://github.com/arviz-devs/arviz/tree/main/examples"
+      },
+      {
+        "name": "Quickstart guide",
+        "url": "https://arviz-devs.github.io/arviz/notebooks/Introduction.html"
+      },
+      {
+        "name": "API reference",
+        "url": "https://arviz-devs.github.io/arviz/api.html"
+      },
+      {
+        "name": "User Guide",
+        "url": "https://arviz-devs.github.io/arviz/user_guide.html"
+      }
+    ]
+  }
+}

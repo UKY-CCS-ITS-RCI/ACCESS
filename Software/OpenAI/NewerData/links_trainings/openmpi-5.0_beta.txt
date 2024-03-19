@@ -1,0 +1,32 @@
+{
+  "SoftwareName": "openmpi-5.0_beta",
+  "SoftwarePageLink": "https://www.open-mpi.org/software/",
+  "Documentation": [
+    {
+      "DocumentName": "openmpi_manpage",
+      "Link": "https://www.open-mpi.org/doc/v5.0/man1/mpirun.1.php"
+    },
+    {
+      "DocumentName": "openmpi_FAQ",
+      "Link": "https://www.open-mpi.org/faq/"
+    },
+    {
+      "DocumentName": "openmpi_docs_and_tutorials",
+      "Link": "https://www.open-mpi.org/doc/"
+    },
+    {
+      "DocumentName": "openmpi_tutorials",
+      "Link": "https://www.open-mpi.org/pdf/"
+    }
+  ],
+  "TrainingMaterials": [
+    {
+      "MaterialName": "openmpi_user’s_guides",
+      "Link": "https://www.open-mpi.org/doc/v5.0/"
+    },
+    {
+      "MaterialName": "openmpi_community_discussion",
+      "Link": "https://www.open-mpi.org/community/lists/"
+    }
+  ]
+}

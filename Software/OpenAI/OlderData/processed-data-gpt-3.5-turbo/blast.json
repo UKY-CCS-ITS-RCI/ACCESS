@@ -1,0 +1,23 @@
+{
+    "software": "blast",
+    "overview": "BLAST (Basic Local Alignment Search Tool) is a widely-used bioinformatics software for comparing nucleotide or protein sequences against databases. It is essential for sequence similarity searches and evolutionary analysis.",
+    "core_features": [
+        "Fast database searching",
+        "Pairwise sequence alignments",
+        "Database statistics and ranking of hits",
+        "Various BLAST algorithms (e.g., BLASTn, BLASTp)",
+        "Integration with NCBI databases"
+    ],
+    "general_tags": [
+        "sequence alignment",
+        "homology search",
+        "bioinformatics analysis",
+        "database searching"
+    ],
+    "additional_tags": {
+        "research_discipline": "Genomics",
+        "research_area": "Sequence Similarity",
+        "software_class": "Bioinformatics Tools",
+        "software_type": "Open Source"
+    }
+}

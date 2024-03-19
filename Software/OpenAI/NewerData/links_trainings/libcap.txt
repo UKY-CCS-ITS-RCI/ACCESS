@@ -1,0 +1,19 @@
+{
+  "software": "libcap",
+  "link": "https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2/",
+  "documentation": "https://www.kernel.org/pub/linux/libs/security/linux-privs/",
+  "training": [
+    {
+      "name": "Linux Man Pages",
+      "link": "https://man7.org/linux/man-pages/man3/cap_get_proc.3.html"
+    },
+    {
+      "name": "GitHub Repository",
+      "link": "https://github.com/linux4sam/libcap-ng"
+    },
+    {
+      "name": "Library Overview",
+      "link": "https://www.systutorials.com/docs/linux/man/3-cap/"
+    }
+  ]
+}

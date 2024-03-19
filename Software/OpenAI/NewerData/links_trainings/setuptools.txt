@@ -1,0 +1,28 @@
+{
+  "software": "setuptools",
+  "website": "https://setuptools.readthedocs.io/",
+  "documentation": [
+    {
+      "name": "ReadTheDocs",
+      "URL": "https://setuptools.readthedocs.io/en/latest/"
+    },
+    {
+      "name": "PyPip",
+      "URL": "https://pypi.org/project/setuptools/"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "Real Python Tutorial",
+      "URL": "https://realpython.com/pypi-publish-python-package/#using-setuptools"
+    },
+    {
+      "name": "Pythonhosted Tutorial",
+      "URL": "https://pythonhosted.org/an_example_pypi_project/setuptools.html"
+    },
+    {
+      "name": "Python Packaging User Guide",
+      "URL": "https://packaging.python.org/tutorials/packaging-projects/"
+    }
+  ]
+}

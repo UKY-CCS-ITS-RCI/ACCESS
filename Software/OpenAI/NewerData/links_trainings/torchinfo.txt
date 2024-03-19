@@ -1,0 +1,19 @@
+{
+  "software_name": "torchinfo",
+  "source_url": "https://github.com/TylerYep/torchinfo",
+  "documentation_url": "https://torchinfo.readthedocs.io/en/latest/",
+  "tutorial_materials": [
+    {
+      "tutorial_name": "Using torchinfo to Debug PyTorch Models",
+      "tutorial_url": "https://towardsdatascience.com/how-to-debug-pytorch-dnn-models-using-tensorboard-and-torchinfo-156804b6dd5b"
+    },
+    {
+      "tutorial_name": "Torchinfo for Model Summaries in PyTorch",
+      "tutorial_url": "https://towardsdatascience.com/a-better-version-of-model-summary-in-pytorch-b0a327072582"
+    },
+    {
+      "tutorial_name": "PyTorch with GPU and torchinfo Setup",
+      "tutorial_url": "https://www.youtube.com/watch?v=DtBu1u5aBsc"
+    }
+  ]
+}

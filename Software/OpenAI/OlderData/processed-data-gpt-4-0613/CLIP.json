@@ -1,0 +1,19 @@
+{
+  "Software": "CLIP",
+  "Website": "https://openai.com/research/clip",
+  "Documentation": "https://github.com/openai/CLIP",
+  "Tutorials and Training material": [
+    {
+      "Title": "CLIP GitHub Repository",
+      "Link": "https://github.com/openai/CLIP"
+    },
+    {
+      "Title": "CLIP: Connecting Text and Images",
+      "Link": "https://openai.com/research/clip"
+    },
+    {
+      "Title": "Tutorial on using CLIP",
+      "Link": "https://github.com/openai/CLIP#usage"
+    }
+  ]
+}

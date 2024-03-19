@@ -1,0 +1,14 @@
+{
+  "SoftwareName": "pkgconfig",
+  "Homepage": "https://www.freedesktop.org/wiki/Software/pkg-config/",
+  "Resources": {
+    "Documentation": "https://www.freedesktop.org/wiki/Software/pkg-config/",
+    "Tutorials": [
+      "https://people.freedesktop.org/~dbn/pkg-config-guide.html",
+      "https://autotools.io/pkgconfig/"
+    ],
+    "TrainingMaterial": [
+      "https://people.freedesktop.org/~dbn/pkg-config-guide.html"
+    ]
+  }
+}

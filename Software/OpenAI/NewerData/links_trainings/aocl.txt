@@ -1,0 +1,15 @@
+{
+  "Software": "AOCL",
+  "Website": "https://www.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html",
+  "Documentation": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html",
+  "Training_and_tutorial_materials": [
+    {
+      "Name": "Intel AOCL User Guide",
+      "Link": "https://www.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-cpp-compiler/top/appendices/intel-advisor-training.html"
+    },
+    {
+      "Name": "Intel AOCL Developer Guide and Reference",
+      "Link": "https://www.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-cpp-compiler/top/appendices/intel-developer-documentation-overview.html"
+    }
+  ]
+}

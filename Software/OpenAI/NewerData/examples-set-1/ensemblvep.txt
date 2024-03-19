@@ -1,0 +1,36 @@
+Use Case: Variant Effect Predictor (VEP) is a Perl script that uses the Ensembl API to access the Ensembl data for variant annotation. It annotates the input variants with the consequence, predictive scores, and other relevant information.
+
+Code Details and Examples: 
+
+Code: 
+To run the basic version of VEP use the following command (Single line command)
+
+```
+./vep -i input.vcf --cache
+```
+Where "input.vcf" is the name of your input file.
+
+Below is the outline of a typical VCF file (input file)
+
+```
+##fileformat=VCFv4.1
+#CHROM  POS ID  REF ALT QUAL    FILTER  INFO
+20  14370   rs6054257 G   A   29  PASS    NS=3;DP=14;AF=0.5;DB;H2
+20  17330   .   T   A   3   q10 NS=3;DP=11;AF=0.017
+20  1110696 .   A   G,T 67  PASS    NS=2;DP=10;AF=0.333,0.667;AA=T;DB
+```
+In this file, the columns are `#CHROM`, `POS`, `ID`, `REF`, `ALT`, `QUAL`, `FILTER`, `INFO`. These columns contain the chromosome name, start and end positions, ID, reference allele, alternative allele, quality scores, filters and other information respectively. 
+
+The `AF` under the `INFO` column denotes Allele Frequencies, where multiple values are separated by commas which correspond to multiple alternative alleles.
+
+Please prepare the input vcf file following this format.
+
+Code:
+To run VEP with the additional options for filtering and format conversion:
+
+```
+./vep -i input.vcf --cache --filter "Consequence is missense_variant" --vcf
+```
+Note:
+`--filter` command is used to filter the results based on the consequences.
+`--vcf` command converts the output into VCF format.

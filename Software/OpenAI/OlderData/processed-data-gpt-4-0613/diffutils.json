@@ -1,0 +1,10 @@
+{
+  "softwareName": "Diffutils",
+  "links": {
+    "softwarePage": "https://www.gnu.org/software/diffutils/",
+    "documentation": "https://www.gnu.org/software/diffutils/manual/diffutils.html",
+    "tutorial1": "https://www.gnu.org/software/diffutils/manual/html_node/Invoking-diff.html#Invoking-diff",
+    "tutorial2": "https://www.linux.org/threads/diff-and-patch-utility.4422/",
+    "tutorial3": "https://www.tecmint.com/diff-command-compare-files-in-linux/"
+  }
+}

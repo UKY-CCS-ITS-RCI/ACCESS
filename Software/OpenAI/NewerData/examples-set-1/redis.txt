@@ -1,0 +1,40 @@
+Use Case: Use Redis for key-value storage, message queue and caching data in-memory for faster access.
+
+Code details and examples: Code
+
+Package Name: Redis
+
+- File format: No specific input file needed. Redis uses commands in the form of Redis Query Language (RQL). 
+
+Start the Redis server with the following command:
+
+```redis-server```
+
+Write a Python script to set up a key-value pair in Redis:
+
+```python
+import redis
+
+r = redis.Redis(
+    host='localhost',
+    port=6379)  
+
+r.set('foo', 'bar')
+```
+
+This script connects to a Redis server running on localhost at port 6379 and sets the key 'foo' to the value 'bar'.
+
+To retrieve this value:
+
+```python
+value = r.get('foo')
+print(value)  # Prints: b'bar'
+```
+
+This script gets the value at key 'foo' from the Redis server and prints it to console.
+
+These example commands are executed at command line via Python interpreter:
+
+```python3 your_script.py```
+
+Before running your Python script, make sure you have Redis server running and Python3 is installed with `redis` library.

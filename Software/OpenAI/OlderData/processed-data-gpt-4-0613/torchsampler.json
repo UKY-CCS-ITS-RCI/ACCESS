@@ -1,0 +1,12 @@
+{
+  "Software_Name": "torchsampler",
+  "Software_URL": "https://github.com/ncullen93/torchsample",
+  "Documentation_Links": [
+    "https://torchsample.readthedocs.io/en/latest/"
+  ],
+  "Tutorial_Materials": [
+    "https://www.youtube.com/watch?v=0mhz8iwZCkI",
+    "https://www.datacamp.com/courses/deep-learning-in-python"
+  ],
+  "Additional_Resources": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "afplot",
+  "software_url": "https://github.com/ssarfraz/SFPlot",
+  "documentation_url": "https://github.com/ssarfraz/SFPlot/blob/master/README.md",
+  "training_materials": [
+    {
+      "name": "afplot usage",
+      "url": "https://github.com/ssarfraz/SFPlot/blob/master/README.md#usage"
+    },
+    {
+      "name": "Example plots",
+      "url": "https://github.com/ssarfraz/SFPlot/blob/master/README.md#example-plots"
+    },
+    {
+      "name": "Installation guide",
+      "url": "https://github.com/ssarfraz/SFPlot#getting-started"
+    }
+  ]
+}

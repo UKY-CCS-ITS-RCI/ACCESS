@@ -1,0 +1,21 @@
+{
+  "name": "PASTA",
+  "description": "Practical Aligner and Sequence Transducer Analysis (PASTA) is a software tool designed to align very large datasets of proteins, RNAs, or genomic sequences",
+  "website": "https://github.com/smirarab/pasta",
+  "docs": [
+    {
+      "name": "Github Wiki",
+      "link": "https://github.com/smirarab/pasta/wiki"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "PASTA tutorial",
+      "link": "http://omegabiotics.org/w2yap9/pasta-python-example.html"
+    },
+    {
+      "name": "PASTA on GitHub",
+      "link": "https://github.com/smirarab/pasta#readme"
+    }
+  ]
+}

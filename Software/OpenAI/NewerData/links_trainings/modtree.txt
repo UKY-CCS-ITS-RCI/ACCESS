@@ -1,0 +1,10 @@
+{
+  "modtree": {
+    "softwareUrl": "https://github.com/veidenberg/modtree",
+    "documentationUrl": "https://github.com/veidenberg/modtree/blob/master/README.md",
+    "tutorialLinks": [
+      "https://bioinformatics.stackexchange.com/questions/2409/how-to-make-a-rna-folding-modtree",
+      "https://gist.github.com/veidenberg/d1c3e7c772569e913a293790f6a429da"
+    ]
+  }
+}

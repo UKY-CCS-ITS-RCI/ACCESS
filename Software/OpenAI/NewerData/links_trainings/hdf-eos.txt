@@ -1,0 +1,48 @@
+{
+  "Software Name": "hdf-eos",
+  "Information": [
+    {
+      "Software Page": "https://hdfeos.org/",
+      "Documentation": [
+        {
+          "Link": "https://hdfeos.org/software/hdfeos2.php",
+          "Title": "HDF-EOS2 Library"
+        },
+        {
+          "Link": "https://hdfeos.org/software/hdfeos5.php",
+          "Title": "HDF-EOS5 Library"
+        },
+        {
+          "Link": "https://hdfeos.org/zoo/index_openNSIDC_Examples.php",
+          "Title": "OpenNSIDC Examples"
+        }
+      ],
+      "Tutorials": [
+        {
+          "Link": "https://hdfeos.org/zoo/index_openNSIDC_Examples.php",
+          "Title": "OpenNSIDC Examples"
+        },
+        {
+          "Link": "https://hdfeos.org/software/tutorial.php",
+          "Title": "HDF-EOS Tutorial"
+        },
+        {
+          "Link": "https://hdfeos.org/zoo/index_Examples.php",
+          "Title": "ZOO - Examples of HDF-EOS File Handling"
+        },
+        {
+          "Link": "https://hdfeos.org/zoo/index_read_Examples.php",
+          "Title": "ZOO - Examples of HDF Data Reading"
+        },
+        {
+          "Link": "https://hdfeos.org/zoo/index_write_Examples.php",
+          "Title": "ZOO - Examples of HDF Data Writing"
+        },
+        {
+          "Link": "https://hdfeos.org/zoo/index_plot_Examples.php",
+          "Title": "ZOO - Examples of HDF Data Plotting"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "software": "Kokkos",
+    "resources": {
+        "softwareHomepage": "https://kokkos.github.io/",
+        "documentation": "https://github.com/kokkos/kokkos/wiki",
+        "tutorials": [
+            {
+                "title": "Kokkos Tutorials",
+                "url": "https://github.com/kokkos/kokkos-tutorials"
+            }
+        ],
+        "trainingMaterials": [
+            {
+                "title": "Kokkos User Guide",
+                "url": "https://kokkos.github.io/Kokkos_Documentation.html"
+            }
+        ]
+    }
+}

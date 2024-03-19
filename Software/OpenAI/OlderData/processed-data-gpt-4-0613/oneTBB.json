@@ -1,0 +1,28 @@
+{
+  "software": "oneTBB",
+  "website": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb.html",
+  "documentation": [
+    {
+      "title": "oneTBB Documentation",
+      "url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb/documentation.html"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "oneTBB GitHub Repository",
+      "url": "https://github.com/oneapi-src/oneTBB"
+    },
+    {
+      "title": "oneTBB Tutorial and Guide",
+      "url": "https://software.intel.com/content/www/us/en/develop/articles/intel-threading-building-blocks-documentation.html"
+    },
+    {
+      "title": "Getting Started with oneTBB",
+      "url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb.html#gs"
+    },
+    {
+      "title": "oneTBB Sample Code",
+      "url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/component-samples.html#oneTBB"
+    }
+  ]
+}

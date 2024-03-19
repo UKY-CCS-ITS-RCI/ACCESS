@@ -1,0 +1,10 @@
+{
+   "Software": "bcftools",
+   "Website": "https://samtools.github.io/bcftools/bcftools.html",
+   "Documentation": "https://samtools.github.io/bcftools/howtos/index.html",
+   "Tutorial_and_Training": [
+       "https://www.htslib.org/workflow/#mapping-to-variants",
+       "https://evodify.com/bcftools-tutorial/",
+       "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/bcf-vcftools-tutorial/"
+   ]
+}

@@ -1,0 +1,11 @@
+{
+  "softwareName": "GMT",
+  "links": {
+    "softwarePage": "https://www.generic-mapping-tools.org/",
+    "documentation": "https://docs.generic-mapping-tools.org/latest/",
+    "officialTutorial": "https://docs.generic-mapping-tools.org/latest/tutorial-session-1.html",
+    "tutorial1": "https://wiki.seg.org/wiki/Geophysical_tutorials",
+    "tutorial2": "https://www.youtube.com/watch?v=LvO3t8x-hx4",
+    "tutorial3": "https://www.coursera.org/lecture/gis-data/acquiring-gis-data-9UE0I"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "py-htseq": {
+    "software_page": "https://htseq.readthedocs.io/en/release_0.11.1/",
+    "additional_links": {
+      "documentation": "https://htseq.readthedocs.io/en/release_0.11.1/#",
+      "tutorial_materials": [
+        "https://htseq.readthedocs.io/en/release_0.11.1/tour.html",
+        "https://bioservices.readthedocs.io/en/master/htseq_tutorial.html",
+        "http://seqanswers.com/forums/showthread.php?t=41581"
+      ],
+      "training_materials": [
+        "https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-viz/tutorial.html#featurecounts-vs-htseq"
+      ]
+    }
+  }
+}

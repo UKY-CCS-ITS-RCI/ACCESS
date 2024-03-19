@@ -1,0 +1,12 @@
+{
+  "Software Name": "RapidJson",
+  "Software Page": "https://rapidjson.org/",
+  "Documentation Links": [
+    "https://rapidjson.org/md_doc_tutorial.html",
+    "https://rapidjson.org/md_doc_faq.html"
+  ],
+  "Training and Tutorial Materials": [
+    "https://rapidjson.org/md_doc_tutorial.html",
+    "https://github.com/Tencent/rapidjson"
+   ]
+}

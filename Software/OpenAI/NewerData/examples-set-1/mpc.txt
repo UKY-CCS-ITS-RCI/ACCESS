@@ -1,0 +1,55 @@
+Use Case: mpc is a library for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result. It can be used to solve complex equations, perform operations on complex numbers, and so on. 
+
+Code Details and Examples:
+
+Code:
+
+Here are a few simple examples of mpc’s C API. The first multiplies two complex numbers:
+
+```
+#include <stdio.h>
+#include <mpc.h>
+
+int main() {
+    mpc_t a, b, c;
+
+    mpc_init2(a, 1000);  /* Initialize a with a precision of 1000 bits */
+    mpc_set_si_si(a, 1, 1, MPC_RNDNN);  /* a = 1 + i */
+
+    mpc_init2(b, 1000);  /* Initialize b with a precision of 1000 bits */
+    mpc_set_si_si(b, 2, 2, MPC_RNDNN);  /* b = 2 + 2i */
+
+    mpc_init2(c, 1000);  /* Initialize c with a precision of 1000 bits */
+
+    mpc_mul(c, a, b, MPC_RNDNN);  /* c = a * b */
+
+    /* Print the result */
+    char * c_str = mpc_get_str(10, 0, c, MPC_RNDNN);
+    printf("%s\n", c_str);  
+
+    /* Clear the memory used by a, b, c */
+    mpc_clear(a);  
+    mpc_clear(b);  
+    mpc_clear(c);
+
+    return 0;
+}
+```
+Note: The mpc_set_si_si function sets a complex number with two signed integers, while the mpc_get_str function converts a complex number into a string.
+
+To compile and run this program, you could use commands like:
+
+```
+$ gcc -o complex_numbers complex_numbers.c -lmpc
+$ ./complex_numbers
+```
+
+Input:
+
+This code sample doesn't require an input file. The input values are hard-coded into the code itself.
+
+Specifications and Details in Input:
+
+Since there's no input file for this code, no file format or specifications need to be provided.
+
+However, it should be noted that the mpc_set_si_si function takes 2 integer values as input (for the real and imaginary parts of a complex number), and these needs to be provided directly in the code.

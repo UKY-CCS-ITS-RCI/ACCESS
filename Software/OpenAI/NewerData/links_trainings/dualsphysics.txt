@@ -1,0 +1,29 @@
+
+{
+  "software_name": "dualsphysics",
+  "software_page_link": "https://dual.sphysics.org/",
+  "documentation_links": [
+    {
+      "name": "GitHub Wiki",
+      "url": "https://github.com/DualSPHysics/DualSPHysics/wiki"
+    },
+    {
+      "name": "User Guide",
+      "url": "https://github.com/DualSPHysics/DualSPHysics/wiki/3.-User-Guide"
+    }
+  ],
+  "tutorial_materials": [
+    {
+      "name": "DualSPHysics Examples",
+      "url": "https://github.com/DualSPHysics/DualSPHysics/wiki/4.-Examples"
+    },
+    {
+      "name": "SPHERIC workshops",
+      "url": "https://dual.sphysics.org/index.php/spheric-workshops/"
+    },
+    {
+      "name": "DualSPHysics forum",
+      "url": "https://dual.sphysics.org/forum/"
+    }
+  ]
+}

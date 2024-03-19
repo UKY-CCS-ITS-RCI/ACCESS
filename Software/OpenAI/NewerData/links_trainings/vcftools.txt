@@ -1,0 +1,10 @@
+{
+  "vcftools": {
+    "software_page": "https://vcftools.github.io/index.html",
+    "documentation": "https://vcftools.github.io/man_latest.html",
+    "training_materials": {
+      "tutorial_1": "https://evodify.com/vcftools-tutorial/",
+      "tutorial_2": "https://populationgenomics.blogspot.com/2013/12/what-would-you-do-with-vcftools.html"
+    }
+  }
+}

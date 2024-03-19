@@ -1,0 +1,40 @@
+Use Case: Use AutoDock for molecular modeling simulation.
+
+Code details and examples:
+
+Code:
+
+AutoDock is frequently used for ligand-receptor docking studies in structural biology and drug discovery. 
+
+The AutoDock tool suite comprises AutoGrid and AutoDock programs. 
+
+AutoGrid is used to compute grids of interaction energy based on given macromolecule and instructions in a grid parameter file (GPF). 
+
+AutoDock uses these grids to predict ligand conformation and positioning in the target protein's active sites.
+
+The necessary input files include:
+
+- Protein structure file (PDBQT format)
+- Ligand structure file (PDBQT format)
+- Grid parameter file (GPF format)
+- Docking parameter file (DPF format)
+
+PDBQT is similar to Protein Data Bank (PDB) file, but it also includes charge (Q) and atom type (T) information. GPF and DPF are ASCII files that are generated with AutoDock Tools (ADT).
+
+Sample shell command to run AutoGrid (creating grid map): 
+
+```bash
+autogrid4 -p protein.gpf -l protein.glg
+```
+protein.gpf is the grid parameter file and protein.glg is the log file.
+
+Sample shell command to run AutoDock (performing docking):
+
+```bash
+autodock4 -p ligand.dpf -l ligand.dlg
+```
+ligand.dpf is the docking parameter file and ligand.dlg is the docking log file.
+
+Note: It's crucial to setup environmental variables and path correctly before running these commands. In the above shell commands, 'autogrid4' and 'autodock4' refer to the executables of AutoDock suite.
+
+Further details regarding the creation and modification of these input files can be found in the AutoDock user's manual.

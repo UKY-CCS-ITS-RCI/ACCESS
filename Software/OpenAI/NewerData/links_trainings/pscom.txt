@@ -1,0 +1,24 @@
+{
+  "Software" : "pscom",
+  "Software URL" : "https://www-user.tu-chemnitz.de/~mpf/pscom/",
+  "Documentation" : "https://www-user.tu-chemnitz.de/~mpf/pscom/doc/",
+  "Tutorials and Trainings" : [
+    { 
+      "Title" : "pscom Tutorial 1",
+      "URL" : "https://www.example1.com"
+    }, 
+    { 
+      "Title" : "pscom Tutorial 2",
+      "URL" : "https://www.example2.com"
+    }, 
+    { 
+      "Title" : "pscom Training 1",
+      "URL" : "https://www.example3.com"
+    }, 
+    { 
+      "Title" : "pscom Training 2",
+      "URL" : "https://www.example4.com"
+    }]
+} 
+
+Please note that actual links for tutorials and trainings are not available, so I've added placeholder links("https://www.example1.com", etc.). You will need to replace these with the actual URLs.

@@ -1,0 +1,18 @@
+{
+  "software_name": "r-htmltools",
+  "software_url": "https://cran.r-project.org/web/packages/htmltools/index.html",
+  "documentation_url": [
+    "https://cran.r-project.org/web/packages/htmltools/htmltools.pdf",
+    "https://www.rdocumentation.org/packages/htmltools/versions/0.3.6"
+  ],
+  "training_materials": [
+    {
+      "name": "RStudio htmltools Tutorials",
+      "link": "https://rstudio.github.io/htmltools/"
+    },
+    {
+      "name": "HTML Table Generation in R using htmltools",
+      "link": "https://www.datanovia.com/en/lessons/html-table-generation-in-r-using-htmltools/"
+    }
+  ]
+}

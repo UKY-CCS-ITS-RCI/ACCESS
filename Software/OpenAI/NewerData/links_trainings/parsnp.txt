@@ -1,0 +1,16 @@
+{
+"softwareName": "parsnp",
+"softwarePageLink": "https://github.com/marbl/parsnp",
+"additionalLinks":
+{
+   "documentation": "https://harvest.readthedocs.io/en/latest/content/parsnp.html",
+   "tutorials": [
+       "https://github.com/marbl/parsnp/wiki",
+       "https://academic.oup.com/nar/article/42/17/e131/2439044"
+   ],
+   "trainingMaterials": [
+       "https://omictools.com/parsnp-tool",
+       "https://www.coursehero.com/file/60237428/parsnppdf/"
+   ]
+}
+}

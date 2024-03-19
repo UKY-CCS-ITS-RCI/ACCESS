@@ -1,0 +1,12 @@
+{
+  "Software": {
+    "Name": "LZO",
+    "Website": "https://www.oberhumer.com/opensource/lzo/",
+    "Documentation": "https://www.oberhumer.com/opensource/lzo/",
+    "Tutorials and Training Material": {
+      "LZO Compression and Its Implementation Overview": "https://www.geekhideout.com/lzo.shtml",
+      "LZO Wikipedia Page with Overview and Usage": "https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Oberhumer",
+      "LZO Algorithms Description and Examples": "https://www.devglan.com/data-compression/lzo-compression-algorithm"
+    }
+  }
+}

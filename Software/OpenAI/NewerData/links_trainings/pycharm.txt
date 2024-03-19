@@ -1,0 +1,12 @@
+{
+  "pycharm": {
+    "software_page": "https://www.jetbrains.com/pycharm/",
+    "documentation": "https://www.jetbrains.com/pycharm/documentation/",
+    "training_and_tutorial_materials": [
+      "https://www.jetbrains.com/pycharm/guide/tutorials/",
+      "https://www.jetbrains.com/help/pycharm/learning-pycharm.html",
+      "https://www.codecademy.com/learn/learn-pycharm",
+      "https://www.udemy.com/topic/pycharm/"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Software": {
+    "Name": "xxd",
+    "Main_Page": {
+      "URL": "https://linux.die.net/man/1/xxd"
+    },
+    "Documentation_and_Tutorials" : [
+      {
+        "Title": "Unix Manual Page",
+        "URL": "https://linux.die.net/man/1/xxd"
+      },
+      {
+        "Title": "xxd Tutorial on Linux Command Tutorial",
+        "URL": "https://www.linuxcommand.org/lc3_adv_xxd.php"
+      },
+      {
+        "Title": "xxd usage example on Stackoverflow",
+        "URL": "https://stackoverflow.com/questions/10569994/xxd-jumbled-output-how-do-i-fix-this"
+      },
+      {
+        "Title": "xxd Guide on ComputerHope",
+        "URL": "https://www.computerhope.com/unix/uxxd.htm"
+      }
+    ]
+  }
+}

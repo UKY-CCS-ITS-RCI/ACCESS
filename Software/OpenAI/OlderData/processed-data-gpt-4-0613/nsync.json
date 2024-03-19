@@ -1,0 +1,20 @@
+{
+  "software": "nsync",
+  "website": "https://github.com/google/nsync",
+  "documentation": [
+    {
+      "title": "nsync Github Repository",
+      "url": "https://github.com/google/nsync"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Tutorialspoint - Concurrency",
+      "url": "https://www.tutorialspoint.com/concurrency-in-c"
+    },
+    {
+      "title": "YouTube - C++ Threading #1: Introduction",
+      "url": "https://www.youtube.com/watch?v=LL8wkskDlbs"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Software Name": "Score-P",
+  "main_link": "http://www.vi-hps.org/projects/score-p/",
+  "documentation_link": "https://perftools.pages.jsc.fz-juelich.de/cicdoc/scorep/4.0/manual.pdf",
+  "tutorial_materials": [
+    {
+      "name": "Score-P tutorial_1",
+      "link": "https://doc.itc.rwth-aachen.de/display/CC/Score-P+Tutorial"
+    },
+    {
+      "name": "Score-P tutorial_2",
+      "link": "https://tools.bsc.es/scorep"
+    },
+    {
+      "name": "Score-P tutorial_3",
+      "link": "https://apps.fz-juelich.de/jsc/hpsl/workshop-2013/Score-P_Tutorial.pdf"
+    }
+  ]
+}

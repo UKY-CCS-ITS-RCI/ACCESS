@@ -1,0 +1,12 @@
+{
+    "Software": "dropest",
+    "Links": {
+        "Software Page": "https://github.com/hms-dbmi/dropEst",
+        "Documentation": "https://github.com/hms-dbmi/dropEst/tree/master/pipelines",
+        "Training and Tutorial Materials": {
+            "Tutorial 1": "https://dropest.readthedocs.io/en/latest/tutorial.html",
+            "Tutorial 2": "https://bustools.github.io/BUS_notebooks_R/dropest.html",
+            "Tutorial 3": "https://jef.works/blog/2017/03/28/drop-seq-tools-tutorial/"
+        }
+    }
+}

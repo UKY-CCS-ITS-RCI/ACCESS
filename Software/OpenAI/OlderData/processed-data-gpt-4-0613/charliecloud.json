@@ -1,0 +1,10 @@
+{
+    "Software": "Charliecloud",
+    "Website": "https://hpc.github.io/charliecloud/",
+    "Documentation": "https://hpc.github.io/charliecloud/",
+    "Tutorial_and_Training": [
+        "https://hpc.github.io/charliecloud/tutorial.html",
+        "https://www.youtube.com/watch?v=0SxEsSs0pzo",
+        "https://www.alcf.anl.gov/files/Charliecloud-tutorial-2019.pdf"
+    ]
+}

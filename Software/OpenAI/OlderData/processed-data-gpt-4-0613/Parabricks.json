@@ -1,0 +1,21 @@
+{
+  "Name": "Parabricks",
+  "URL": "https://developer.nvidia.com/clara-parabricks",
+  "Documentation": "https://docs.nvidia.com/clara-parabricks/docs/index.html",
+  "Tutorials": [
+    {
+      "Name": "GPU-Accelerated Genomics",
+      "URL": "https://www.nvidia.com/en-us/deep-learning-ai/solutions/genomics/"
+    }
+  ],
+  "Training materials": [
+    {
+      "Name": "Webinar: Accelerating Genomics Pipelines with GPUs",
+      "URL": "https://info.nvidia.com/parabricks.html"
+    },
+    {
+      "Name": "Secondary Analysis Pipeline Training",
+      "URL": "https://www.nvidia.com/en-us/industries/healthcare-life-sciences/webinars/secondary-analysis-pipeline-training/"
+    }
+  ]
+}

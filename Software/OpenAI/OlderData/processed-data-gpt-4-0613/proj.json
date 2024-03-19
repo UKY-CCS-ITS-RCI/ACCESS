@@ -1,0 +1,15 @@
+{
+  "software": "proj",
+  "Software_url": "https://proj.org/",
+  "Documentation": "https://proj.org/development/reference/index.html",
+  "Tutorials": [
+    {
+      "name": "PROJ tutorial",
+      "url": "https://proj.org/usage/index.html"
+    },
+    {
+      "name": "PROJ tutorial on Stack Overflow",
+      "url": "https://stackoverflow.com/questions/tagged/proj"
+    }
+  ]
+}

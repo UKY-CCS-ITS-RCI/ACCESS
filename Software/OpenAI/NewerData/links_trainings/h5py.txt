@@ -1,0 +1,22 @@
+{
+  "software": "h5py",
+  "software_url": "http://www.h5py.org/",
+  "documentation_urls": [
+    {
+      "doc_1": "https://docs.h5py.org/en/stable/"
+    }
+  ],
+  "training_materials": [
+    {
+      "tutorial_1": "https://docs.h5py.org/en/stable/quick.html",
+      "tutorial_2": "https://www.python-course.eu/python-h5py.php",
+      "tutorial_3": "https://www.youtube.com/watch?v=3bevLQkaTdY",
+      "tutorial_4": "https://software-carpentry.org/lessons/"
+    }
+  ],
+  "conda_package_url": [
+    {
+      "url": "https://anaconda.org/conda-forge/h5py"
+    }
+  ]
+}

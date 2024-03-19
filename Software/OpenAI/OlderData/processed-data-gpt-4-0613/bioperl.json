@@ -1,0 +1,10 @@
+{
+   "Software": "BioPerl",
+   "Website": "https://bioperl.org/",
+   "Documentation": "https://bioperl.org/Tutorial/",
+   "Tutorial_and_Training": [
+       "https://bioperl.org/INSTALL.html",
+       "https://bioperl.org/GetStarted.html",
+       "https://bioperl.org/HowTos/Beginners/BioperlPrimer.html"
+   ]
+}

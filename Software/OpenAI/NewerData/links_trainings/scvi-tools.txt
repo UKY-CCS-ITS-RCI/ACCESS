@@ -1,0 +1,27 @@
+{
+  "softwareName": "scvi-tools",
+  "softwareLink": "https://www.scvi-tools.org/",
+  "documentationLink": "https://docs.scvi-tools.org/en/stable/",
+  "trainingMaterials": [
+    {
+      "sourceTitle": "Tutorial: Analyzing PBMC data using totalVI",
+      "sourceLink": "https://docs.scvi-tools.org/en/stable/user_guide/notebooks/totalVI_pbmc_zheng17.html"
+    },
+    {
+      "sourceTitle": "Tutorial: Analyzing brain data using scVI",
+      "sourceLink": "https://docs.scvi-tools.org/en/stable/user_guide/notebooks/scvi_benchmarks.html"
+    },
+    {
+      "sourceTitle": "Tutorial: Interoperability with AnnData",
+      "sourceLink": "https://docs.scvi-tools.org/en/stable/user_guide/notebooks/anndata_sparse.html"
+    },
+    {
+      "sourceTitle": "Tutorial: Scarches scTyper with scArches seq model training",
+      "sourceLink": "https://docs.scvi-tools.org/en/stable/user_guide/notebooks/scarches_scvi_tools.html"
+    },
+    {
+      "sourceTitle": "Tutorial: Introduction to semi-supervised learning with scVI",
+      "sourceLink": "https://docs.scvi-tools.org/en/stable/user_guide/notebooks/seurat_pbmc3k.html"
+    }
+  ]
+}

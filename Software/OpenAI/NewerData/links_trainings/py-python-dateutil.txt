@@ -1,0 +1,21 @@
+{
+  "Software Name": "python-dateutil",
+  "Software URL": "https://pypi.org/project/python-dateutil/",
+  "Documentation": {
+    "URL": "https://dateutil.readthedocs.io/en/stable/"
+  },
+  "Tutorials and Training Materials": [
+    {
+      "Tutorial Name": "Python datetime guide",
+      "URL": "https://www.geeksforgeeks.org/python-working-with-date-and-time-using-dateutil-module/"
+    },
+    {
+      "Tutorial Name": "Python Dateutil Module",
+      "URL": "https://www.javatpoint.com/python-dateutil-module"
+    },
+    {
+      "Tutorial Name": "Python Datetime dateutil module",
+      "URL": "https://www.studytonight.com/python-howtos/how-to-use-dateutil-module-in-python"
+    }
+  ]
+}

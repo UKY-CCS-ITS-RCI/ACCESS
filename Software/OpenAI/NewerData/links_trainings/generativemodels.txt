@@ -1,0 +1,18 @@
+{
+    "Software": "generativemodels",
+    "Links": {
+        "Software Page": "https://github.com/tensorflow/probability/tree/main/tensorflow_probability/examples/jupyter_notebooks/Generative_Modeling",
+        "Documentation": "https://www.tensorflow.org/probability/examples/Generative_Modeling",
+        "Tutorials": [
+            "https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/",
+            "https://d2l.ai/chapter_generative-adversarial-networks/index.html",
+            "https://towardsdatascience.com/generative-models-6c298e6c5b5b",
+            "https://www.curiousily.com/posts/generative-adversarial-networks-gans-for-text-generation/"
+        ],
+        "Training": [
+            "https://www.coursera.org/courses?query=generative%20modeling",
+            "https://www.udemy.com/topic/generative-adversarial-networks/",
+            "https://www.udacity.com/course/generative-adversarial-networks-gans--ud501"
+        ]
+    }
+}

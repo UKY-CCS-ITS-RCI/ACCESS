@@ -1,0 +1,9 @@
+{
+    "software": "spglib",
+    "resources": {
+        "softwareHomepage": "https://atztogo.github.io/spglib/",
+        "documentation": "https://spglib.readthedocs.io/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

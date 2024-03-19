@@ -1,0 +1,9 @@
+{
+    "software": "libidn2",
+    "resources": {
+        "softwareHomepage": "https://www.gnu.org/software/libidn/#libidn2",
+        "documentation": "https://www.gnu.org/software/libidn/libidn2/manual/libidn2.html",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

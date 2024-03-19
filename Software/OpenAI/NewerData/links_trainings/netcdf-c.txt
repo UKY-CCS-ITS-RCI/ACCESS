@@ -1,0 +1,11 @@
+{
+  "Software": "netcdf-c",
+  "Details": {
+    "Software_URL": "https://www.unidata.ucar.edu/software/netcdf/",
+    "Documentation_URL": "https://www.unidata.ucar.edu/software/netcdf/docs/",
+    "Training_URL": {
+      "Tutorial1": "https://www.unidata.ucar.edu/software/netcdf/workshops/2011/",
+      "Tutorial2": "https://www.unidata.ucar.edu/software/netcdf/workshops/2012/"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "SoftwareName": "Resfinder",
+    "SoftwareURL": "https://cge.cbs.dtu.dk/services/ResFinder/",
+    "DocumentationURL": "https://cge.cbs.dtu.dk//services//ResFinder//help.php",
+    "TutorialMaterials": [
+        {
+            "TutorialName": "Resfinder tutorial",
+            "TutorialURL": "https://www.youtube.com/watch?v=VPmlmOEfvsM"
+        },
+        {
+            "TutorialName": "Resfinder Github page",
+            "TutorialURL": "https://github.com/statonlab/resfinder"
+        }
+    ]
+}

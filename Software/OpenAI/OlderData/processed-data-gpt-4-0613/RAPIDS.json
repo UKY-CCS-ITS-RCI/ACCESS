@@ -1,0 +1,12 @@
+{
+  "Software Name": "RAPIDS",
+  "links": {
+    "software page": "https://rapids.ai/index.html",
+    "documentation": "https://docs.rapids.ai/api/",
+    "tutorials": [
+      "https://rapidssuite.org/",
+      "https://github.com/rapidsai/cuxfilter",
+      "https://towardsdatascience.com/rapids-ai-speed-up-your-exploratory-data-analysis-698de5da0853"
+    ]
+  }
+}

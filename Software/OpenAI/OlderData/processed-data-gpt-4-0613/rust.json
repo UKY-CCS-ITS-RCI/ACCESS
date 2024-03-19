@@ -1,0 +1,13 @@
+{
+  "Rust": {
+    "Software Page": "https://www.rust-lang.org/",
+    "Documentation": "https://doc.rust-lang.org/stable/book/",
+    "Tutorials and Trainings": {
+      "The Rust Programming Language": "https://doc.rust-lang.org/book/",
+      "Rust by Example": "https://doc.rust-lang.org/rust-by-example/",
+      "Rustlings Course": "https://github.com/rust-lang/rustlings",
+      "Exercism Rust Track": "https://exercism.io/tracks/rust",
+      "Learn Rust": "https://www.learnrust.org/"
+    }
+  }
+}

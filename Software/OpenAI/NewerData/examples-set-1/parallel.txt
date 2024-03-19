@@ -1,0 +1,23 @@
+Use Case: GNU parallel is a shell tool for executing jobs in parallel using one or more computers. A job can be a single command or a small script that has to be run for each of the lines in the input.
+
+Code details and examples:
+Code:
+
+To use GNU Parallel for running a task/job like converting a group of .png images into .jpg, we can use something like this. We have images named as image1.png, image2.png, etc.
+
+Input file: input.txt (simple text file containing names of these images)
+Format required: Text, one record per line
+
+content in input.txt:
+
+    image1.png
+    image2.png
+    image3.png
+
+Running the parallel process can be started with this command:
+
+      parallel convert {} {.}.jpg ::: *.png
+
+In the above command, `{}` will be replaced by each line of input (i.e., the name of each image file), and `{.}` will be replaced by the line of input sans the file extension. `:::` specifies where input values are sourced from, in this case, all .png files.
+
+Parallel makes it very straightforward to split these tasks across multiple cores or even machines. No input specifications or script required.

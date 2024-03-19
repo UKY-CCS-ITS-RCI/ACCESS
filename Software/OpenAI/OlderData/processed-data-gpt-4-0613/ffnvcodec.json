@@ -1,0 +1,23 @@
+{
+   "software":"ffnvcodec",
+   "webpage":"https://github.com/FFmpeg/nv-codec-headers",
+   "documentation":"https://github.com/FFmpeg/nv-codec-headers/blob/master/README.md",
+   "tutorials_and_training_materials":[
+      {
+         "name":"FFmpeg Official Documentation",
+         "link":"https://ffmpeg.org/documentation.html"
+      },
+      {
+         "name":"FFmpeg and H.264 Encoding Guide",
+         "link":"https://trac.ffmpeg.org/wiki/Encode/H.264"
+      },
+      {
+         "name":"Using FFmpeg with NVIDIA GPU Acceleration Guide",
+         "link":"https://developer.nvidia.com/ffmpeg"
+      },
+      {
+         "name":"Video Encoding on GPUs Using FFmpeg",
+         "link":"https://developer.nvidia.com/blog/video-encode-and-decode-gpu-accelerated-ffmpeg/"
+      }
+   ]
+}

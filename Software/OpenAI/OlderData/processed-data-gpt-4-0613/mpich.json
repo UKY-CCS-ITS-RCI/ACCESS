@@ -1,0 +1,12 @@
+
+{
+  "MPICH": {
+    "Software Page": "https://www.mpich.org/",
+    "Documentation": "https://www.mpich.org/documentation/",
+    "Tutorials": [
+      "https://www.mpich.org/tutorial1",
+      "https://www.mpich.org/tutorial2"
+    ]
+  }
+}
+

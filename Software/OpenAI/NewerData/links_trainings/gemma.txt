@@ -1,0 +1,19 @@
+{
+    "Software Name": "GEMMA",
+    "Website Link": "http://www.xzlab.org/software.html",
+    "Documentation Link": "https://github.com/genetics-statistics/GEMMA/wiki",
+    "Training & Tutorial Materials": [
+        {
+            "Title": "GEMMA Tutorial",
+            "URL": "https://jef.works/blog/2017/02/22/gwas-in-r-marginal-associations-Fst/"
+        },
+        {
+            "Title": "Genome-wide efficient mixed model association (GEMMA)",
+            "URL": "https://csgillespie.github.io/efficientQ2/gemma.html"
+        },
+        {
+            "Title": "How to use GEMMA for GWAS",
+            "URL": "https://www.biostars.org/p/93927/"
+        }
+    ]
+}

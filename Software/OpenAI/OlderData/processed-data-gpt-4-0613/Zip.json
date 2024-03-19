@@ -1,0 +1,23 @@
+{
+"name": "Zip",
+"softwarePage": "https://www.info-zip.org/Zip.html",
+"documentation": "https://linux.die.net/man/1/zip",
+"tutorialMaterials": [
+    {
+        "name": "How to Use Zip Files in Linux",
+        "url": "https://www.fosslinux.com/10122/how-to-use-zip-files-in-linux.htm"
+    },
+    {
+        "name": "Zip command in Linux with examples",
+        "url": "https://www.geeksforgeeks.org/zip-command-in-linux-with-examples/"
+    },
+    {
+        "name": "Linux zip command help and examples",
+        "url": "https://www.computerhope.com/unix/zip.htm"
+    },
+    {
+        "name": "Zip a File or Directory in Linux",
+        "url": "https://www.youtube.com/watch?v=2KQZVo2dv3I"
+    }
+  ]
+}

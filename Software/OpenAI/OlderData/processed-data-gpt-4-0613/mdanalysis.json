@@ -1,0 +1,12 @@
+
+{
+  "MDAnalysis": {
+    "Software Page": "https://www.mdanalysis.org/",
+    "Documentation": "https://docs.mdanalysis.org/stable/",
+    "Tutorials": [
+      "https://www.mdanalysis.org/UserGuide/examples/index.html",
+      "https://www.mdanalysis.org/MDAnalysisTutorial/"
+    ]
+  }
+}
+

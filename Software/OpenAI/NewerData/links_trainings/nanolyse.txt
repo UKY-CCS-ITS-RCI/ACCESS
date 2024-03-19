@@ -1,0 +1,10 @@
+{
+  "SoftwareName": "Nanolyse",
+  "LinkToSoftwarePage": "https://github.com/wdecoster/nanolyse",
+  "DocumentationLinks": [
+    "https://nanolyse.readthedocs.io/en/latest/"
+  ],
+  "TrainingAndTutorialMaterials": [
+    "https://nanolyse.readthedocs.io/en/latest/usage.html"
+  ]
+}

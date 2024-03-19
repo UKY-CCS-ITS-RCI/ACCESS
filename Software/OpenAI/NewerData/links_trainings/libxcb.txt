@@ -1,0 +1,10 @@
+{
+   "Software_Name": "libxcb",
+   "Software_URL": "https://xcb.freedesktop.org/",
+   "Documentation_Link": "https://xcb.freedesktop.org/tutorial/",
+   "Additional_Resources": {
+      "Tutorial1": "https://linux.die.net/man/3/xcb",
+      "Tutorial2": "https://stackoverflow.com/questions/tagged/libxcb",
+      "Tutorial3": "https://wiki.archlinux.org/index.php/Xorg"
+   }
+}

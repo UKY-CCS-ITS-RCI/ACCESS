@@ -1,0 +1,24 @@
+{
+    "software": "Snakemake",
+    "software_url": "https://snakemake.github.io/",
+    "documentation": [
+        {
+            "name": "Documentation",
+            "url": "https://snakemake.readthedocs.io/en/stable/"
+        }
+    ],
+    "training_materials": [
+        {
+            "name": "Snakemake Tutorial",
+            "url": "https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html"
+        },
+        {
+            "name": "Snakemake Introduction",
+            "url": "https://www.youtube.com/watch?v=j3xU5d3nMG8"
+        },
+        {
+            "name": "Snakemake for scalable and reproducible data analysis",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2405471215000738"
+        }
+    ]
+}

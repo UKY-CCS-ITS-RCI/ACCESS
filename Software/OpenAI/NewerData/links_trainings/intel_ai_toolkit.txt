@@ -1,0 +1,42 @@
+{
+  "Software": {
+    "Name": "Intel AI Toolkit",
+    "URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/ai-analytics-toolkit.html",
+    "Documentation": [
+      {
+        "Name": "Intel AI Documentation",
+        "URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/ai-analytics-toolkit/documentation.html"
+      },
+      {
+        "Name": "Intel AI User Guide",
+        "URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/ai-analytics-toolkit/choose-download.html"
+      },
+      {
+        "Name": "AI Analytics Toolkit - Reference Guide",
+        "URL": "https://software.intel.com/content/www/us/en/develop/tools/documentation-library/ai-analytics.html"
+      },
+      {
+        "Name": "Intel OneApi Toolkit User Guide",
+        "URL": "https://software.intel.com/content/www/us/en/develop/tools/documentation-library/oneapi.html"
+      }
+    ],
+    "Tutorials": [
+      {
+        "Name": "Intel AI Analytics Toolkit - Training",
+        "URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/ai-analytics-toolkit/train.html"
+      },
+      {
+        "Name": "Getting Started with OneAPI for AI Applications",
+        "URL": "https://www.intel.co.uk/content/www/uk/en/developer/articles/tutorial/getting-started-with-intel-oneapi-for-ai-applications.html"
+      },
+      {
+        "Name": "Intel AI on Youtube - Tutorials and Trainings",
+        "URL": "https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ9ZETzVtHey3RNgYQYm6dXS"
+      },
+      {
+        "Name": "Intel AI: Introduction to Machine Learning",
+        "URL": "https://www.udacity.com/course/intel-edge-ai-for-iot-developers--ud1309"
+      }
+    ] 
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "software_name": "shigeifinder",
+  "software_URL": "https://github.com/gaow/shigefinder",
+  "docs": "https://github.com/gaow/shigefinder/blob/master/README.rst",
+  "tutorials": [],
+  "training": []
+}

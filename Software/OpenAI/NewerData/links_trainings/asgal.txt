@@ -1,0 +1,13 @@
+{
+  "SoftwareName": "asgal",
+  "SoftwarePageLink": "https://github.com/AlgoLab/galig",
+  "DocumentationLinks": [
+    "https://github.com/AlgoLab/galig#how-to-use",
+    "https://github.com/AlgoLab/AsgalBench",
+    "https://bioconda.github.io/recipes/asgal/README.html"
+  ],
+  "TutorialAndTrainingMaterials": [
+    "https://github.com/AlgoLab/AsgalBench#details",
+    "https://github.com/AlgoLab/galig#how-to-build"
+  ]
+}

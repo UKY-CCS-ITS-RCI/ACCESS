@@ -1,0 +1,12 @@
+
+{
+  "LSMS": {
+    "Software Page": "https://www.lsms.org/",
+    "Documentation": "https://www.lsms.org/docs",
+    "Tutorials": [
+      "https://www.lsms.org/tutorial1",
+      "https://www.lsms.org/tutorial2"
+    ]
+  }
+}
+

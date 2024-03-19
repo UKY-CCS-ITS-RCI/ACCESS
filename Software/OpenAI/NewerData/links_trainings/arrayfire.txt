@@ -1,0 +1,15 @@
+{
+  "arrayfire": {
+    "Software_URL": "https://arrayfire.com/",
+    "Documentation": {
+      "Documentation_URL1": "https://arrayfire.org/docs/index.htm",
+      "Documentation_URL2": "https://github.com/arrayfire/arrayfire/wiki"
+    },
+    "Tutorials_Training_Materials": {
+      "Tutorial_URL1": "https://www.youtube.com/playlist?list=PLjPvN0MrJfs5GR-FjbCLs2rkhb75C51X5",
+      "Tutorial_URL2": "https://github.com/arrayfire/arrayfire_examples",
+      "Training_material_URL1": "https://arrayfire.com/training-materials/",
+      "Training_material_URL2": "https://discourse/arrayfire.com/"
+    }
+  }
+}

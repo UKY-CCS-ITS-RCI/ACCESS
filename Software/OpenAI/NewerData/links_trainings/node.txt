@@ -1,0 +1,12 @@
+{
+"Software/Package": "Node.js",
+"Website": "https://nodejs.org/",
+"Documentation": [
+    {"Node.js Documentation": "https://nodejs.org/en/docs/"},
+    {"API Documentation": "https://nodejs.org/api/"}
+],
+"Tutorials": [
+    {"Node.js Tutorial W3Schools": "https://www.w3schools.com/nodejs/"},
+    {"Node.js Guide": "https://nodejs.dev/learn"},
+    {"Node.js Tutorial Mozilla": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs"}
+]}

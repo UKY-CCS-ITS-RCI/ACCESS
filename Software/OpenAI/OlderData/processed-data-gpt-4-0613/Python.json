@@ -1,0 +1,12 @@
+{
+  "Software Name": "Python",
+  "links": {
+    "software page": "https://www.python.org/",
+    "documentation": "https://docs.python.org/3/",
+    "tutorials": [
+      "https://www.w3schools.com/python/",
+      "https://www.tutorialspoint.com/python/index.htm",
+      "https://realpython.com/"
+    ]
+  }
+}

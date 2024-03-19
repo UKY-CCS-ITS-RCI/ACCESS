@@ -1,0 +1,18 @@
+
+{
+  "ATLAS": {
+    "software_page": "http://math-atlas.sourceforge.net/",
+    "documentation": "http://math-atlas.sourceforge.net/atlas_install/index.html",
+    "training_materials": [
+      {
+        "title": "Building and Using the ATLAS Library and Its Python Bindings",
+        "url": "https://www.acs.org/content/acs/en/education/educators/cwfg/compilations/python/building-and-using-the-atlas-library-and-its-python-bindings.html"
+      },
+      {
+        "title": "ATLAS Installation",
+        "url": "https://math-atlas.sourceforge.io/atlas_install/index.html"
+      }
+    ]
+  }
+}
+

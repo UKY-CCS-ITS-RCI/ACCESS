@@ -1,0 +1,15 @@
+{
+  "softwareName": "DMTCP",
+  "softwareLink": "http://dmtcp.sourceforge.net/",
+  "documentation": "http://dmtcp.sourceforge.net/FAQ.html",
+  "tutorials": [
+    {
+      "tutorialName": "DMTCP Tutorial",
+      "tutorialLink": "https://hpc.llnl.gov/training/tutorials/dmtcp-tutorial"
+    },
+    {
+      "tutorialName": "DMTCP Tutorials and Documentation",
+      "tutorialLink": "https://github.com/dmtcp/dmtcp/blob/master/doc/plugin-tutorial.pdf"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "software": "r-data-table",
+  "softwarePage": "https://rdatatable.gitlab.io/data.table/",
+  "documentation": {
+    "DocumentationURL": "https://rdatatable.gitlab.io/data.table/reference/data.table.html"
+  },
+  "trainingMaterials": [
+    {
+      "IntroductoryTutorial":
+      "https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html",
+      "Cheatsheet": "https://github.com/Rdatatable/data.table/wiki/Getting-started"
+    }
+  ]
+}

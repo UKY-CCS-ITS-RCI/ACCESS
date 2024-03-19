@@ -1,0 +1,9 @@
+{
+    "software": "libseccomp",
+    "resources": {
+        "softwareHomepage": "https://github.com/seccomp/libseccomp",
+        "documentation": "https://github.com/seccomp/libseccomp/blob/main/README",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

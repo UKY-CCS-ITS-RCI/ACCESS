@@ -1,0 +1,9 @@
+{
+    "software": "libopus",
+    "resources": {
+        "softwareHomepage": "https://opus-codec.org/",
+        "documentation": "https://opus-codec.org/docs/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

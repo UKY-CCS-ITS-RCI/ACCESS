@@ -1,0 +1,10 @@
+{
+"cm": {
+"SoftwarePage": "https://software.sandia.gov/trac/cmbnd",
+"Documentation": "https://software.sandia.gov/trac/cmbnd/wiki/WikiStart",
+"Tutorials": [
+"https://github.com/SNLComputation/Combo",
+"https://gitlab.kitware.com/cmb/cmb-training"
+]
+}
+}

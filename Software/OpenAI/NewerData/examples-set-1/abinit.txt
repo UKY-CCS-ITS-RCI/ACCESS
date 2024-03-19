@@ -1,0 +1,30 @@
+Use Case: Simulates the total energy, charge density and electronic structure of molecules and solids with Density Functional Theory (DFT). 
+
+Code details and examples:
+
+Code: ABINIT
+
+Sample Input Files: 
+
+The input file required is usually a text file with a '.in' extension. This file contains keywords for input variable under 3 sections - Dataset, File and Groundstate.
+
+Example of an input file: 
+```
+ ndtset 3 
+ acell 10 10 10 
+ rprim 1 0 0 0 1 0 0 0 1 
+ natom 2 
+ ntypat 2 
+ typat 1 2 
+ xred 
+  0 0 0 
+  0.75 0.75 0.75 
+```
+
+This file directs ABINIT to perform 3 calculations (ndtset 3), on a system with a 10 angstrom cubic simulation cell (acell 10 10 10 and rprim 1 0 0 0 1 0 0 0 1) containing two atoms of different types (natom 2 and ntypat 2 and typat 1 2) situated at specific positions specified under xred.
+
+Command to run it:
+
+`abinit < file.in > file.out`
+
+This command runs ABINIT using 'file.in' as the input file and 'file.out' as the output file.

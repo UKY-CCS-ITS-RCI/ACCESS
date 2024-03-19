@@ -1,0 +1,19 @@
+{
+  "software": "py-pyyaml",
+  "software_link": "https://pyyaml.org/",
+  "documentation_link": "https://pyyaml.org/wiki/PyYAMLDocumentation",
+  "training_materials": [
+    {
+      "name": "PyYAML Tutorial",
+      "link": "https://www.codeproject.com/articles/1215920/quick-yaml-tutorial"
+    },
+    {
+      "name": "YAML with Python Tutorial",
+      "link": "https://stackabuse.com/reading-and-writing-yaml-to-a-file-in-python"
+    },
+    {
+      "name": "PyYAML Basic Example",
+      "link": "https://www.programcreek.com/python/example/5610/yaml.dump"
+    }
+  ]
+}

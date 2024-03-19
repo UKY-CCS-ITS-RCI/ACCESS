@@ -1,0 +1,20 @@
+{
+  "gdal": {
+    "software_page": "https://gdal.org/",
+    "documentation": "https://gdal.org/user/index.html",
+    "training_and_tutorials": [
+      {
+        "name": "GDAL: Introduction to Geospatial Data with GDAL",
+        "url": "https://automating-gis-processes.github.io/CSC/notebooks/L5/reading-raster.html"
+      },
+      {
+        "name": "GDAL Tutorial 1",
+        "url": "https://www.gis.usu.edu/~chrisg/python/2009/lectures/ospy_slides2.pdf"
+      },
+      {
+        "name": "GDAL Tutorial 2",
+        "url": "https://pcjericks.github.io/py-gdalogr-cookbook/index.html"
+      }
+    ]
+  }
+}

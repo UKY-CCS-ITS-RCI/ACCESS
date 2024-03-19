@@ -1,0 +1,25 @@
+{
+  "softwareName": "perl-bundle1-cpan",
+  "softwareURL": "https://metacpan.org/pod/Bundle::CPAN",
+  "documentation": "https://perldoc.perl.org/CPAN.html",
+  "tutorials": [
+    {
+      "title": "How to use CPAN to install Perl modules",
+      "URL": "https://www.tecmint.com/install-perl-modules-in-linux/"
+    }
+  ],
+  "relatedResources": [
+    {
+      "title": "Understanding INC - Perl's Include Path",
+      "URL": "https://www.lemoda.net/perl/perl-inc/"
+    },
+    {
+      "title": "Managing Perl Modules with CPAN",
+      "URL": "https://www.linode.com/docs/guides/perlbrew-module-installation/"
+    },
+    {
+      "title": "How to Upload a Perl Module to CPAN",
+      "URL": "https://perlmaven.com/how-to-upload-a-perl-module-to-cpan"
+    }
+  ]
+}

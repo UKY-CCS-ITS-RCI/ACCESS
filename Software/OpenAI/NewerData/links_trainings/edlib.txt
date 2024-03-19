@@ -1,0 +1,11 @@
+{
+  "Software": "Edlib",
+  "SoftwareURL": "https://github.com/Martinsos/edlib",
+  "DocumentationURL": "https://martinsos.github.io/edlib/",
+  "Training and Tutorial Materials": {
+    "ReadmeDocument": "https://github.com/Martinsos/edlib/blob/master/README.rst",
+    "PythonAPI": "https://pypi.org/project/edlib/",
+    "EdlibonROS": "https://rosindex.github.io/edlib/",
+    "SeqAnTutorial": "https://seqan.readthedocs.io/en/master/Tutorial/Algorithms/Alignment/SeedAndExtend.html"
+  }
+}

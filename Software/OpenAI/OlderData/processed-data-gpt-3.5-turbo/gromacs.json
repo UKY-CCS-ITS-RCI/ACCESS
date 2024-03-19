@@ -1,0 +1,20 @@
+{
+  "software name": "gromacs",
+  "comprehensive overview": "GROMACS (GROningen MAchine for Chemical Simulations) is a molecular dynamics simulation software designed for studying the dynamics of biomolecules like proteins, lipids, and nucleic acids. It is widely used in computational chemistry and bioinformatics research.",
+  "core features": [
+    "Molecular dynamics simulations of biomolecules",
+    "Energy minimization, equilibration, and analysis tools",
+    "Support for various force fields and analysis techniques"
+  ],
+  "general tags": [
+    "Molecular Dynamics Simulation",
+    "Computational Chemistry",
+    "Bioinformatics"
+  ],
+  "additional tags": {
+    "research discipline": "Chemistry",
+    "research area": "Molecular Dynamics",
+    "software class": "Simulation Software",
+    "software type": "Molecular Dynamics Tool"
+  }
+}

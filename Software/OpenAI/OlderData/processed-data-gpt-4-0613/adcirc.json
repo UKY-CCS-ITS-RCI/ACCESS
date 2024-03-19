@@ -1,0 +1,19 @@
+{
+"name": "ADCIRC",
+"softwarePage": "https://adcirc.org/",
+"documentation": "https://adcirc.org/home/documentation/users-manual-2/",
+"tutorialMaterials": [
+    {
+        "name": "ADCIRC Getting Started",
+        "url": "https://adcirc.org/home/getting-started/"
+    },
+    {
+        "name": "ADCIRC Boot Camp Presentation",
+        "url": "https://coast.noaa.gov/data/docs/digitalcoast/adcirc-bootcamp-presentation.pdf"
+    },
+    {
+        "name": "ADCIRC Basics",
+        "url": "https://cirpwiki.info/wiki/ADCIRC_Basics"
+    }
+  ]
+}

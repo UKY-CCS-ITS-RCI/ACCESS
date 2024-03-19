@@ -1,0 +1,9 @@
+{
+"Lima": {
+  "URL": "https://github.com/PacificBiosciences/pbbioconda",
+  "Documentation": "https://lima-docs.readthedocs.io/en/latest/",
+  "Tutorial": "https://github.com/PacificBiosciences/pblaa",
+  "Training Materials": "https://www.youtube.com/watch?v=U8QVX7Y3JkY",
+  "Additional References": ["http://www.pacb.com/blog/how-to-use-pacbio-subreads-to", "https://conference.ingentium.com/2019/05/17/lima-isospecific-consensus-sequence-reads-improve-sensitivity-and-accuracy-in-detection-of-somatic-variants-in-cancer-genes-from-pacbio-high-fidelity-long-reads/", "http://seqanswers.com/forums/showthread.php?t=66617", "https://f1000research.com/articles/8-2138"]
+}
+}

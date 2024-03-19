@@ -1,0 +1,33 @@
+{
+  "software": "glimmer",
+  "software_url": "https://ccb.jhu.edu/software/glimmer/index.shtml",
+  "documentation": [
+    {
+      "documentation_url": "https://ccb.jhu.edu/software/glimmer/glim302notes.pdf"
+    },
+    {
+      "documentation_url": "https://ccb.jhu.edu/software/glimmer/glim302notes.pdf"
+    },
+    {
+      "documentation_url": "https://ccb.jhu.edu/software/glimmer/glim302.pdf"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorial_url": "https://www.cbs.dtu.dk/courses/27619.glimmer/glimmer.php"
+    },
+    {
+      "tutorial_url": "https://nature.berkeley.edu/garbelottoat/wp-content/uploads/Trainers-notes_Glimmer.pdf"
+    }
+  ],
+  "other_resources": [
+    {
+      "resource_name": "Pseudomonas Genome Database",
+      "resource_url": "https://www.pseudomonas.com/strain/show?id=466"
+    },
+    {
+      "resource_name": "Glimmer Github Repository",
+      "resource_url": "https://github.com/TheSEED/glimmer"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "software_name": "pyqt5",
+    "software_homepage": "https://pypi.org/project/PyQt5/",
+    "documentation": "https://www.riverbankcomputing.com/static/Docs/PyQt5/",
+    "tutorials_and_training": [
+      {
+        "name": "PyQt5 tutorial",
+        "url": "https://build-system.fman.io/pyqt5-tutorial"
+      },
+      {
+        "name": "Python GUI Programming With PyQt5",
+        "url": "https://www.learnpyqt.com/"
+      },
+      {
+        "name": "PyQt5 Tutorial: A Window Application with FileIO",
+        "url": "https://www.codeproject.com/Articles/1185430/PyQt-Tutorial-A-Window-Application-with-FileIO"
+      }
+    ]
+}

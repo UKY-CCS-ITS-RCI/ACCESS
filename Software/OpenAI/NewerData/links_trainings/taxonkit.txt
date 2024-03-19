@@ -1,0 +1,14 @@
+{
+  "software_name": "TaxonKit",
+  "software_page_link": "https://bioinf.shenwei.me/taxonkit/",
+  "additional_links": {
+    "documentation": "https://bioinf.shenwei.me/taxonkit/manual/",
+    "tutorial": "https://bioinf.shenwei.me/taxonkit/tutorial/",
+    "training_materials": [
+      {
+        "name": "Using TaxonKit for taxonomy data tasks",
+        "link": "https://www.biostars.org/p/415710/"
+      }
+    ]
+  }
+}

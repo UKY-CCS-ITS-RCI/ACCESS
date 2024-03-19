@@ -1,0 +1,11 @@
+{
+  "softwareName": "GDB",
+  "links": {
+    "softwarePage": "https://www.gnu.org/software/gdb/",
+    "documentation": "https://www.gnu.org/software/gdb/documentation/",
+    "officialTutorial": "https://www.gnu.org/software/gdb/documentation/#tutorials",
+    "tutorial1": "https://www.youtube.com/watch?v=PorfLSr3DDI",
+    "tutorial2": "http://www.cse.iitb.ac.in/~harsha/LinkedIn/gdb/gitbook/",
+    "tutorial3": "https://sourceware.org/gdb/onlinedocs/gdb/"
+  }
+}

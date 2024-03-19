@@ -1,0 +1,15 @@
+{
+  "software_name": "ase",
+  "software_URL": "https://wiki.fysik.dtu.dk/ase/",
+  "documentation_URL": "https://wiki.fysik.dtu.dk/ase/ase.html",
+  "tutorials_Training_Materials": [
+    {
+      "tutorial_name": "ase tutorial",
+      "tutorial_URL": "https://wiki.fysik.dtu.dk/ase/tutorials/tutorials.html"
+    },
+    {
+      "tutorial_name": "ase hands-on",
+      "tutorial_URL": "https://wiki.fysik.dtu.dk/ase/dev/handson.html"
+    }
+  ]
+}

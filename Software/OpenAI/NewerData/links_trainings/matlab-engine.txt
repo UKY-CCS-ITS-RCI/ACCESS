@@ -1,0 +1,20 @@
+{
+  "SoftwareName": "Matlab-Engine",
+  "SoftwareURL": "https://www.mathworks.com/products/matlab.html",
+  "Documentation": [
+    {
+      "URL": "https://www.mathworks.com/help/matlab/matlab-engine-api-for-python.html"
+    },
+    {
+      "URL": "https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "https://www.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html"
+    },
+    {
+      "URL": "https://www.mathworks.com/help/matlab/matlab_external/call-user-scripts-and-functions-from-python.html"
+    }
+  ]
+}

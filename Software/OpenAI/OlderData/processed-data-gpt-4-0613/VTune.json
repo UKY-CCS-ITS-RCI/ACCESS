@@ -1,0 +1,23 @@
+{
+"name": "VTune Profiler",
+"softwarePage": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/download.html?operatingsystem=window&distributions=webdownload&options=install&ja=pan&dgseg=idd",
+"documentation": "https://software.intel.com/content/www/us/en/develop/documentation/vtune-help/top.html",
+"tutorialMaterials": [
+    {
+        "name": "VTune Profiler Tutorial",
+        "url": "https://software.intel.com/content/www/us/en/develop/articles/vtune-profiler-tutorial.html"
+    },
+    {
+        "name": "How to Use Intel VTune Profiler",
+        "url": "https://www.youtube.com/watch?v=4HrZI3OTldE"
+    },
+    {
+        "name": "Using VTune Performance Analyzer",
+        "url": "https://www.intel.com/content/www/us/en/develop/blogs/using-vtune-performance-analyzer.html"
+    },
+    {
+        "name": "Profiling Applications with VTune Amplifier",
+        "url": "https://www.tutorialspoint.com/intel_parallel_studio/profiling_applications_with_vtune_amplifier.htm"
+    }
+  ]
+}

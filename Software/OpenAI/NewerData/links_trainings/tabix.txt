@@ -1,0 +1,28 @@
+{
+  "software": "tabix",
+  "website": "https://github.com/samtools/htslib",
+  "documentation": [
+    {
+      "name": "Github-Htslib README",
+      "link": "https://github.com/samtools/htslib/blob/develop/README"
+    },
+    {
+      "name": "Htslib Docs",
+      "link": "http://www.htslib.org/doc/"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "Samtools Introduction",
+      "link": "http://quinlanlab.org/tutorials/samtools/samtools.html"
+    },
+    {
+      "name": "BioStars - TABIX Tutorial",
+      "link": "https://www.biostars.org/p/414373/"
+    },
+    {
+      "name": "IGV Tabix Tutorial",
+      "link": "https://software.broadinstitute.org/software/igv/tabix"
+    }
+  ]
+}

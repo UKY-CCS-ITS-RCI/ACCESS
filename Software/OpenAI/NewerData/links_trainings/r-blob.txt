@@ -1,0 +1,26 @@
+{
+  "software_name": "r-blob",
+  "software_page": "https://cran.r-project.org/package=blob",
+  "additional_links": [
+    {
+      "name": "Documentation",
+      "url": "https://cran.r-project.org/web/packages/blob/blob.pdf"
+    },
+    {
+      "name": "Tutorial: R for Data Science",
+      "url": "https://r4ds.had.co.nz/"
+    },
+    {
+      "name": "Training: DataCamp R course",
+      "url": "https://www.datacamp.com/courses/free-introduction-to-r"
+    },
+    {
+      "name": "Reference: CRAN repository",
+      "url": "https://cran.r-project.org/"
+    },
+    {
+      "name": "R language guide",
+      "url": "https://www.r-project.org/other-docs.html"
+    }
+  ]
+}

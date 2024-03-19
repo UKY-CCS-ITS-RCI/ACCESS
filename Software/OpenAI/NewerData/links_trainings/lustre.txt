@@ -1,0 +1,18 @@
+{
+  "software_name": "lustre", 
+  "software_page": "https://www.intel.co.uk/content/www/uk/en/high-performance-computing-fabrics/lustre-open-source-software.html", 
+  "documentation": "http://wiki.lustre.org/Main_Page", 
+  "tutorial_materials": [
+    {
+      "name": "Getting Started with Lustre",
+      "url": "https://wiki.lustre.org/Getting_started"
+    }, 
+    {
+      "name": "Lustre Tutorial - Lawrence Livermore National Laboratory", 
+      "url": "https://computing.llnl.gov/tutorials/lustre/"
+    },
+    {
+      "name": "A Basic Introduction to Lustre File System and its Terminology",
+      "url": "https://insidehpc.com/2018/03/basic-introduction-lustre-file-system-terminology/"
+    }]
+}

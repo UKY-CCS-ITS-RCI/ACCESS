@@ -1,0 +1,11 @@
+{
+  "Software": "ImageMagick",
+  "Website": "https://imagemagick.org/index.php",
+  "Documentation": "https://imagemagick.org/script/documentation.php",
+  "Tutorials": [
+    "https://imagemagick.org/script/tutorial.php",
+    "https://legacy.imagemagick.org/Usage/",
+    "https://www.tutorialspoint.com/imagemagick/index.htm",
+    "https://www.youtube.com/playlist?list=PLZsOBAyNTZwYzsap_0L_Ui1vvbk_8nGJK"
+  ]
+}

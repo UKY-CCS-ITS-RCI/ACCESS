@@ -1,0 +1,86 @@
+Use Case: Libszip is an optimization codec for the HDF family of data formats. It provides lossless compression and is generally employed for scientific data.
+
+Code details and examples:
+
+Code:
+
+```bash
+#include "szlib.h"
+
+void compress(char* inputfile, char* outputfile) {
+    sz_stream c_stream;
+    FILE* inhandle;
+    FILE* outhandle;
+    int err;
+    int bytes_in;
+    int bytes_out;
+    
+    inhandle = fopen(inputfile, "r");
+    outhandle = fopen(outputfile, "w");
+
+    c_stream.hidden = SZ_BufftoBuffCompress;
+    c_stream.bits_per_pixel = 8; /* 8 bits/pixel for GRIB data */
+    c_stream.pixels_per_line = 512; /* pixels per line for your data */
+    c_stream.options_mask = SZ_MSB_OPTION_MASK; /* options... */
+    c_stream.sz_mode = SZ_DEFAULT_OPTION; /* compression mode... */
+    c_stream.endian = SZ_LITTLE_ENDIAN; /* machine endian-ness... */
+     
+    err = SZ_CompressInit(&c_stream);
+    if (err != SZ_OK) {
+        fprintf(stderr, "SZ_CompressInit error: %d\n", err);
+        exit(1);
+    }
+    
+    do {
+        c_stream.next_in = fread(inhandle, 1, c_stream.avail_out, &bytes_in);
+        if (ferror(inhandle)) {
+            (void)SZ_CompressEnd(&c_stream);
+            fprintf(stderr, "read error\n");
+            exit(1);
+        }
+        c_stream.avail_in = bytes_in;
+
+        if (bytes_in != 0) {
+            err = SZ_Compress(&c_stream, SZ_FINISH);
+            if (err != SZ_STREAM_END) {
+                fprintf(stderr, "SZ_Compress error: %d\n", err);
+                exit(1);
+            }
+        }
+        c_stream.next_out = fwrite(outhandle, 1, c_stream.avail_out - c_stream.avail_in, &bytes_out);
+        if (bytes_out != c_stream.avail_out) {
+            fprintf(stderr, "write error\n");
+            exit(1);
+        }
+    } while (bytes_in != 0);
+    
+    err = SZ_CompressEnd(&c_stream);
+    if (err != SZ_OK) {
+        fprintf(stderr, "SZ_CompressEnd error: %d\n", err);
+        exit(1);
+    }
+
+    fclose(inhandle);
+    fclose(outhandle);
+}
+```
+
+The input file should be in binary format. The output file will be in compressed binary format.
+
+Please note that this is a sample code, and you may need to adjust it according to your specific case.
+
+Command to run:
+
+This file can be compiled with a C compiler such as gcc. Suppose the file is named "compress.c", then you can compile it with:
+
+```bash
+gcc compress.c -o compress -lsz
+```
+
+And then run it with:
+
+```bash
+./compress
+```
+
+This commands will execute the program and it will compress the input file.

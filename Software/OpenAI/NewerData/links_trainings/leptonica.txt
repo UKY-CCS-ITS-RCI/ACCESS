@@ -1,0 +1,12 @@
+{
+  "Software": "leptonica",
+  "Description": "Leptonica is a pedagogically-oriented library for computer vision and image processing tasks",
+  "Website": "https://www.leptonica.org/",
+  "Documentation_links":[
+        {"Link_name":"Leptonica Image Processing Library", "URL":"http://www.leptonica.com/"}, 
+        {"Link_name":"Leptonica Documentation - C API", "URL":"http://tpgit.github.io/Leptonica/"}
+    ],
+  "Tutorials_and_Training_materials":[
+        {"Material_name":"Leptonica tutorial", "URL":"https://cppsecrets.com/users/572105981041011097105116101114121046976390/Hunting-Memory-Leaks-in-Leptonica-and-Tesseract.php"}, 
+        {"Material_name":"Image processing with Leptonica Part 1", "URL":"http://zderadicka.eu/image-processing-with-leptonica-part-1"}]
+ }

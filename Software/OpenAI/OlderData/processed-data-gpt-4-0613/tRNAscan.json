@@ -1,0 +1,14 @@
+{
+    "software": "tRNAscan-SE",
+    "resources": {
+        "softwareHomepage": "http://lowelab.ucsc.edu/tRNAscan-SE/",
+        "documentation": "http://lowelab.ucsc.edu/tRNAscan-SE/2.0-README.txt",
+        "tutorials": [
+            {
+                "title": "Predicting tRNA using tRNAscan-SE",
+                "url": "http://bioweb.uwlax.edu/GenWeb/Molecular/Seq_Anal/Analysis_protocol/tRNAscan_se_protocol/tRNAscan_se_protocol.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

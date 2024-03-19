@@ -1,0 +1,16 @@
+{
+  "Software_Name": "bmge",
+  "Software_URL": "https://research.pasteur.fr/en/software/bmge-block-mapping-and-gathering-with-entropy/",
+  "Documentation": [
+    {
+      "Doc_Name": "User Manual",
+      "Doc_URL": "https://research.pasteur.fr/wp-content/uploads/2013/08/bmge-doc.pdf"
+    }
+  ],
+  "Training_Materials": [
+    {
+      "Material_Name": "BMGE (Block Mapping and Gathering with Entropy): a new software for selection of phylogenetic informative regions from multiple sequence alignments",
+      "Material_URL": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-275"
+    }
+  ]
+}

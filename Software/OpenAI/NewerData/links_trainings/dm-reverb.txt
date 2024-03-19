@@ -1,0 +1,20 @@
+{
+  "compiler_name": "dm-reverb",
+  "software_page": "https://github.com/deepmind/reverb",
+  "documentation": [
+    { 
+      "name": "GitHub README",
+      "url": "https://github.com/deepmind/reverb/blob/master/README.md"
+    },
+    {
+      "name": "DeepMind Reverb Documentation",
+      "url": "https://deepmind.com/research/open-source/reverb"
+    }
+  ],
+  "tutorials_and_trainings": [
+    { 
+      "name": "Introduction to DeepMind’s Reverb",
+      "url": "https://towardsdatascience.com/introduction-to-deepminds-reverb-2f4495cbc650"
+    }
+  ]
+}

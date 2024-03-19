@@ -1,0 +1,14 @@
+{
+  "tinker-hp": {
+    "software_page": "https://www.tinker-hp.com/",
+    "documentation": "https://www.tinker-hp.com/resources.html",
+    "tutorial": [
+      "https://www.tinker-hp.com/tutorial.html",
+      "https://www.tinker-hp.com/resources.html"
+    ],
+    "training_materials": [
+      "https://www.tinker-hp.com/tutorial.html",
+      "https://www.tinker-hp.com/resources.html"
+    ]
+  }
+}

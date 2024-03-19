@@ -1,0 +1,23 @@
+{
+  "Software": {
+    "Name": "Augur",
+    "Software URL": "https://github.com/nextstrain/augur",
+    "Documentation": {
+      "URL": "https://docs.nextstrain.org/projects/augur/en/stable/"
+    },
+    "Tutorials": [
+      {
+        "Name": "Nextstrain Augur Tutorial",
+        "URL": "https://nextstrain.github.io/augur/docs/tutorials/quickstart"
+      },
+      {
+        "Name": "How to interpret Nextstrain outputs",
+        "URL": "https://nextstrain.github.io/ncov/narratives/trees-background"
+      },
+      {
+        "Name": "Nextstrain Augur Tutorial on Biorxiv",
+        "URL": "https://www.biorxiv.org/content/10.1101/2020.06.08.139055v1.full"
+      }
+    ]
+  }
+}

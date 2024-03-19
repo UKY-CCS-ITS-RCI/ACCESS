@@ -1,0 +1,25 @@
+Use Case: Parabricks is a GPU-accelerated genomics analysis toolkit, which is used for performing variant calling in genomic sequencing data. It performs alignment, variant calling and annotation in a highly parallel manner, making it much faster than traditional methods.
+
+Code details and examples: Code.
+
+Files Required: 
+Two FASTQ files (for paired-end sequencing data)
+
+Input File Format:
+FASTQ
+
+Code to run alignment (pbrun aligner), variant calling (pbrun germline), and variant annotation (pbrun vep):
+
+```
+$ pbrun aligner --ref ref.fasta --in-fq sample_R1.fastq sample_R2.fastq --out-bam output.bam
+$ pbrun germline --ref ref.fasta --bam output.bam --out-vcf output.vcf
+$ pbrun vep --ref ref.fasta --in-vcf output.vcf --out-vcf output_annotated.vcf
+```
+
+Where,
+- `--ref` is the reference genome in FASTA format.
+- `--in-fq` represents the input FASTQ files (paired-end in this case).
+- `--out-bam` is the output file in BAM format after alignment.
+- `--bam` is the input file in BAM format for variant calling.
+- `--out-vcf` is the output file in VCF format after variant calling.
+- `--in-vcf` is the input file in VCF format for annotation.

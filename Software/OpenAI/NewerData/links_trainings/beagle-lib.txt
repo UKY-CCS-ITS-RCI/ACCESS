@@ -1,0 +1,14 @@
+{
+  "Beagle-lib": {
+    "SoftwarePage": "https://github.com/beagle-dev/beagle-lib",
+    "Documentation": [
+      "https://github.com/beagle-dev/beagle-lib/wiki",
+      "https://beagle-library.github.io/beagle-lib/"
+    ],
+    "TrainingMaterials": [
+      "https://www.codemeta.com/third-party/beagle/readme.html",
+      "https://beagle-lib.readthedocs.io/en/latest/",
+      "https://www.youtube.com/watch?v=FTnEauemuqU"
+    ]
+  }
+}

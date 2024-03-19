@@ -1,0 +1,22 @@
+{
+  "Scientific Software": {
+    "Software Name": "NanoFilt",
+    "Software Page": "https://github.com/wdecoster/nanofilt",
+    "Documentation": [
+      {
+        "Title": "NanoFilt Github README",
+        "URL": "https://github.com/wdecoster/nanofilt/blob/master/README.md"
+      }
+    ],
+    "Training Materials & Tutorials": [
+      {
+        "Title": "NanoFilt Tutorial",
+        "URL": "https://nanoporetech.github.io/wub/usage.html#nanofilt-filter-by-read-length-and-read-quality"
+      },
+      {
+        "Title": "Using analysis tools - Nanopore",
+        "URL": "https://community.nanoporetech.com/posts/using-analysis-tools"
+      }
+    ]
+  }
+}

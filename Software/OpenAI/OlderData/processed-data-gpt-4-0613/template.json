@@ -1,0 +1,9 @@
+{
+  "SoftwareName": "Template",
+  "Homepage": "Enter URL here",
+  "Resources": {
+    "Documentation": "Enter URL here",
+    "Tutorials": ["Enter URL here"],
+    "TrainingMaterial": ["Enter URL here"]
+  }
+}

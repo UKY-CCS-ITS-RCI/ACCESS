@@ -1,0 +1,12 @@
+{
+  "Software Name": "dorado",
+  "Link": "https://github.com/pattonw/dorado",
+  "Documentation": "https://dorado.readthedocs.io/en/latest/",
+  "Tutorials/Training Material": [
+    {
+      "Link1": "https://dorado.readthedocs.io/en/latest/tutorials.html",
+      "Link2": "https://github.com/pattonw/dorado/tree/master/examples",
+      "Link3": "https://www.youtube.com/watch?v=0GTff3uXzTs"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "svtools": {
+    "Software Page": "https://github.com/hall-lab/svtools",
+    "Documentation": "",
+    "Training and Tutorial Materials": ""
+  }
+}

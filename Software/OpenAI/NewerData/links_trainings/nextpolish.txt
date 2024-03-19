@@ -1,0 +1,12 @@
+{
+  "software": "NextPolish",
+  "links": {
+    "softwarePage": "https://github.com/Nextomics/NextPolish",
+    "documentation": "https://github.com/Nextomics/NextPolish#readme",
+    "trainingAndTutorials": [
+    "https://open.oregonstate.education/computationalbiology/chapter/command-line-blast-nextpolish/",
+    "https://grants.hms.harvard.edu/research-comping/bioinformatics/nextpolish",
+    "https://www.biorxiv.org/content/10.1101/487494v1.full.pdf"
+]
+  }
+}

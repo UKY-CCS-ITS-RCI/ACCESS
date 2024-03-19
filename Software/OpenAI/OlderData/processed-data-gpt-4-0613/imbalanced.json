@@ -1,0 +1,20 @@
+{
+  "Software Name": "imbalanced-learn",
+  "Software Page": "https://imbalanced-learn.org/stable/",
+  "Links": {
+    "Documentation": "https://imbalanced-learn.org/stable/user_guide.html",
+    "Tutorials": [
+      "https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/",
+      "https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/",
+      "https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18"
+    ],
+    "Download": "https://pypi.org/project/imbalanced-learn/",
+    "Pypi Page": "https://pypi.org/project/imbalanced-learn/",
+    "Github": "https://github.com/scikit-learn-contrib/imbalanced-learn",
+    "Conda Package Link": "https://anaconda.org/conda-forge/imbalanced-learn",
+    "Additional Training Material": [
+      "https://www.coursera.org/courses?query=imbalanced%20data",
+      "https://www.udemy.com/course/machine-learning-with-imbalanced-datasets/"
+    ]
+  }
+}

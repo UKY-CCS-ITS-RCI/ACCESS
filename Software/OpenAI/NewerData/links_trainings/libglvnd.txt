@@ -1,0 +1,18 @@
+{
+  "Software": "libglvnd",
+  "Link": "https://github.com/NVIDIA/libglvnd",
+  "Documentation": [
+    {
+      "Name": "README",
+      "Link": "https://github.com/NVIDIA/libglvnd#readme"
+    }
+  ],
+  "Tutorials": [],
+  "Training Materials": [],
+  "Package Codes": [
+    {
+      "Name": "Conda",
+      "Link": "https://anaconda.org/conda-forge/libglvnd"
+    }
+  ]
+}

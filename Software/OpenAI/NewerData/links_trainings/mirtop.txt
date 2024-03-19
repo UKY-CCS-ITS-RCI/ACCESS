@@ -1,0 +1,23 @@
+{
+  "softwareName": "mirtop",
+  "softwareLink": "https://github.com/miRTop/mirtop",
+  "documentationLink": "https://mirtop.readthedocs.io/en/latest/",
+  "tutorialLinks": [
+    {
+      "title": "Getting Started",
+      "url": "https://mirtop.readthedocs.io/en/latest/getting_started.html"
+    },
+    {
+      "title": "Fetch miRNA annotation",
+      "url": "https://mirtop.readthedocs.io/en/latest/commands/mirtop.html#fetch"
+    },
+    {
+      "title": "GFF output description",
+      "url": "https://mirtop.readthedocs.io/en/latest/developer/gff.html"
+    },
+    {
+      "title": "Integrating with other tools",
+      "url": "https://mirtop.readthedocs.io/en/latest/integration.html"
+    }
+  ]
+}

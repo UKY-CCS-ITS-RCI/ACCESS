@@ -1,0 +1,29 @@
+{
+  "Software": {
+    "Name": "Bazel",
+    "Url": "https://www.bazel.build/",
+    "Documentation": {
+      "Url": "https://docs.bazel.build/versions/main/bazel-overview.html"
+    },
+    "Tutorials and Training Materials": [
+      {
+        "Tutorial1": {
+          "Name": "Bazel Tutorial",
+          "Url": "https://docs.bazel.build/versions/main/tutorial/index.html"
+        },
+        "Tutorial2": {
+          "Name": "Getting Started with Bazel",
+          "Url": "https://codelabs.developers.google.com/codelabs/bazel/#0"
+        },
+        "Tutorial3": {
+          "Name": "Bazel Concepts and Terminology",
+          "Url": "https://docs.bazel.build/versions/main/build-ref.html"
+        },
+        "Tutorial4": {
+          "Name": "Bazel User Manual",
+          "Url": "https://docs.bazel.build/versions/main/user-manual.html"
+        }
+      }
+    ]
+  }
+}

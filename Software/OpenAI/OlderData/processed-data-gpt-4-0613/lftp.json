@@ -1,0 +1,18 @@
+{
+    "software": "LFTP",
+    "resources": {
+        "softwareHomepage": "https://lftp.tech/",
+        "documentation": "https://lftp.yar.ru/lftp-man.html",
+        "tutorials": [
+            {
+                "title": "LFTP Guide - Unix & Linux Forums",
+                "url": "https://www.unix.com/tips-and-tutorials/127352-how-use-lftp-file-transfer-program.html"
+            },
+            {
+                "title": "How to Use LFTP (With Examples)",
+                "url": "https://www.putorius.net/how-to-use-lftp.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "software": "r-acepack",
+  "software_info": {
+    "homepage": "https://cran.r-project.org/web/packages/acepack/",
+    "documentation_link": "https://www.rdocumentation.org/packages/acepack/versions/1.4.1",
+    "training_tutorials": [
+      {"name": "Introduction to acepack in R", "url": "https://www.youtube.com/watch?v=3YvFyPPlRzk"},
+      {"name": "Acepack Tutorial", "url": "https://www.tutorialspoint.com/r/r_acepack.htm"}
+    ]
+  }
+}

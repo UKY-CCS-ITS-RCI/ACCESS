@@ -1,0 +1,12 @@
+{
+  "Software Name": "TIGER",
+  "links": {
+    "software page": "https://tigerdata.github.io/",
+    "documentation": "https://tigerdata.github.io/",
+    "tutorials": [
+      "https://tigerdata.github.io/",
+      "https://www.youtube.com/watch?v=SI1h_lYVunQ",
+      "https://software.broadinstitute.org/software/igv/"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+Use Case: GNU Screen is a terminal multiplexer, this allows a user to access multiple separate terminal sessions inside a single terminal window or remote terminal session. It can be used for terminal multiplexing, shells, logins, logouts, commands, and sessions for applications.
+
+Code Details and Examples: 
+
+Code: 
+
+To create a new session:
+
+```
+screen -S my_session
+```
+In the above command, 'my_session' is the name of the session that is used for future references.
+
+To list all the current sessions:
+
+```
+screen -ls
+```
+
+To re-attach a detached session:
+
+```
+screen -r my_session
+```
+
+Inside a screen session, typing Ctrl + a, followed by ? will bring up an extensive help page. 
+
+The command 'Ctrl-a' 'Ctrl-d' will detach a screen session while leaving it running. This is handy for long-running process that you want to check back in on periodically.
+
+To kill all the detached screen sessions:
+
+```
+screen -X quit
+```
+
+To split the screen vertically:
+
+```
+Ctrl-a |
+```
+
+To navigate between the splits:
+
+```
+Ctrl-a Tab
+```
+
+These commands often come handy when working on a remote machine, doing long calculations, working with many terminals simultaneously, and many more.

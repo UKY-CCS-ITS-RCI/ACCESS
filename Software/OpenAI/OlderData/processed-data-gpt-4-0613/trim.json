@@ -1,0 +1,13 @@
+{
+  "trim": {
+    "SoftwarePage": "https://www.usadellab.org/cms/?page=trimmomatic",
+    "Documentation": "http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf",
+    "Tutorials": [
+      {
+        "Beginner": "https://informatics.fas.harvard.edu/trimmomatic-help.html",
+        "Intermediate": "https://www.youtube.com/watch?v=XoKp8UJP54I",
+        "Advanced": "https://www.biostars.org/p/149014/"
+      }
+    ]
+  }
+}

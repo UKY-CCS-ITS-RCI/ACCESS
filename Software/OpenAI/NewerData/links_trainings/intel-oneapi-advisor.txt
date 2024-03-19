@@ -1,0 +1,30 @@
+{
+  "software": {
+    "name": "intel-oneapi-advisor",
+    "URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/advisor.html",
+    "documentation": [
+      {
+        "name": "Advisor User Guide",
+        "URL": "https://software.intel.com/content/www/us/en/develop/documentation/advisor-user-guide/top.html"
+      },
+      {
+        "name": "OneAPI Programming Guide",
+        "URL": "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top.html"
+      }
+    ],
+    "tutorials": [
+      {
+        "name": "Get Started with Intel Advisor for Vectorization analysis",
+        "URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/choose-download/windows.html"
+      },
+      {
+        "name": "Intel Advisor Roofline for Advanced Vectorization",
+        "URL": "https://software.intel.com/content/www/us/en/develop/articles/intel-advisor-roofline.html"
+      },
+      {
+        "name": "Get Started with oneAPI for Windows",
+        "URL": "https://software.intel.com/content/www/us/en/develop/documentation/get-started-with-intel-advisor/top.html"
+      }
+    ]
+  }
+}

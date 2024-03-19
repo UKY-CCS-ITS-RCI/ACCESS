@@ -1,0 +1,28 @@
+{
+  "software": "numactl",
+  "website": "https://github.com/numactl/numactl",
+  "documentation": [
+    {
+      "title": "Numactl Documentation",
+      "url": "https://man7.org/linux/man-pages/man8/numactl.8.html"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Numactl Man Page",
+      "url": "https://numactl.readthedocs.io/en/latest/"
+    },
+    {
+      "title": "Understanding NUMA",
+      "url": "https://www.kernel.org/pub/linux/kernel/people/christoph/misc/numa"
+    },
+    {
+      "title": "Using NUMA on RHEL 7",
+      "url": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_tuning_and_optimization_guide/sect-virtualization_tuning_optimization_guide-numa-numa_and_libvirt"
+    },
+    {
+      "title": "Optimize Systems with NUMA",
+      "url": "https://opensource.com/article/20/6/optimize-systems-numa"
+    }
+  ]
+}

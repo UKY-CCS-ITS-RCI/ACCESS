@@ -1,0 +1,30 @@
+{
+  "Software": {
+    "Name": "libspatialite",
+    "Link": "https://www.gaia-gis.it/fossil/libspatialite/index",
+    "Documentation": [
+      {
+          "Title": "Wiki Documentation",
+          "Link": "https://www.gaia-gis.it/fossil/libspatialite/wiki?name=DocsHome"
+      },
+      {
+          "Title": "API Reference",
+          "Link": "https://www.gaia-gis.it/fossil/libspatialite/wiki?name=Doc"
+      }
+    ],
+    "Training and Tutorial materials": [
+      {
+        "Title": "Spatialite Cook Book",
+        "Link": "http://www.gaia-gis.it/gaia-sins/spatialite-cookbook/html/"
+      },
+      {
+        "Title": "SQLite Tutorial",
+        "Link": "https://www.sqlitetutorial.net/"
+      },
+      {
+        "Title": "Stackoverflow libspatialite Questions",
+        "Link": "https://stackoverflow.com/questions/tagged/libspatialite"
+      }
+    ]
+  }
+}

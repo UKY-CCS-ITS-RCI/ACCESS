@@ -1,0 +1,19 @@
+{
+"name": "Zoltan",
+"softwarePage": "https://www.cs.sandia.gov/Zoltan/",
+"documentation": "https://www.cs.sandia.gov/Zoltan/ug_html/ug.html",
+"tutorialMaterials": [
+    {
+        "name": "Zoltan User's Guide",
+        "url": "https://www.cs.sandia.gov/Zoltan/ug_html/ug.html"
+    },
+    {
+        "name": "Guide to using Zoltan",
+        "url": "https://www.cs.sandia.gov/Zoltan/Zoltan_guide.pdf"
+    },
+    {
+        "name": "Zoltan Data Management",
+        "url": "https://www.cs.sandia.gov/Zoltan/ug_html/ug_data_mm.html"
+    }
+  ]
+}

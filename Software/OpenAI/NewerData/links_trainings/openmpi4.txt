@@ -1,0 +1,14 @@
+{
+    "software": "openmpi4",
+    "links": {
+        "software_page": "https://www.open-mpi.org/",
+        "documentation": "https://www.open-mpi.org/doc/",
+        "tutorials_and_training": [
+            {
+                "tutorial1": "https://mpitutorial.com/tutorials/",
+                "tutorial2": "https://www.tacc.utexas.edu/documents/13601/162127/workshop-mpi.pdf",
+                "tutorial3": "https://www.cac.cornell.edu/education/Training/RunningJobsWithOpenMPI.pdf"
+            }
+        ]
+    }
+}

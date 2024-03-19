@@ -1,0 +1,13 @@
+{
+  "Software Name": "OpenEXR",
+  "Software Category": "Science & Scientific Software",
+  "Official Website": "https://www.openexr.com/",
+  "Additional URLs": {
+    "Documentation": "https://www.openexr.com/documentation.html",
+    "GitHub": "https://github.com/openexr/openexr",
+    "Training & Tutorials": {
+      "Tutorial 1": "https://learnopengl.com/Advanced-Lighting/HDR",
+      "Tutorial 2": "https://docs.arnoldrenderer.com/display/A5AFMUG/OpenEXR"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "pegasus",
+  "description": "A workflow management system that enables scientists and engineers to compose large workflows",
+  "url": "https://pegasus.isi.edu/",
+  "documentation": "https://pegasus.isi.edu/documentation/",
+  "training_materials": [
+    {
+      "name": "Pegasus Tutorial",
+      "url": "https://pegasus.isi.edu/tutorial/"
+    },
+    {
+      "name": "Pegasus User Guide",
+      "url": "https://pegasus.isi.edu/documentation/user_guide.php"
+    },
+    {
+      "name": "Pegasus Workflow Management System Training",
+      "url": "https://www.youtube.com/watch?v=P2P8RpA3Dvk"
+    }
+  ]
+}

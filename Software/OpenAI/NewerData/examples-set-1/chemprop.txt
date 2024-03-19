@@ -1,0 +1,27 @@
+Use Case: Predicting molecular properties using a message passing neural network in chemprop
+
+Code details and examples:
+
+Code:
+
+The input file for ChemProp is a CSV file with SMILES strings. In the example, we have a simple molecule structure represented as a SMILES string, like:
+
+`Cn1cnc2c1c(=O)n(c(=O)n2C)C "compound1"`
+
+`CC(=O)OC1=CC=CC=C1C(=O)O "compound2"`
+
+SMILES (Simplified molecular-input line-entry system) is a specification for representing the structure of chemical species using short ASCII strings.
+
+After creating your dataset file, you can train a model using the following command:
+
+`python train.py --data_path data.csv --dataset_type classification --split_type random --ensemble_size 5 --num_folds 5 --epochs 30 --batch_size 50`
+
+Where:
+
+- `--data_path` is the path to your SMILES CSV file
+- `--dataset_type` classification or regression
+- `--split_type` how to split your data (random, scaffold, or time)
+- `--ensemble_size` number of models to train in the ensemble
+- `--num_folds` number of folds to use in cross-validation
+- `--epochs` number of training epochs
+- `--batch_size` size of mini-batches

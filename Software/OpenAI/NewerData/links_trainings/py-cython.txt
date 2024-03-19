@@ -1,0 +1,28 @@
+{
+  "software_name": "py-cython",
+  "software_page": {
+    "name": "py-cython",
+    "URL": "https://cython.org"
+  },
+  "documentation": {
+    "name": "py-cython Documentation",
+    "URL": "https://cython.readthedocs.io/en/latest/"
+  },
+  "tutorials_and_training_materials": [
+    {
+      "type": "Interactive Tutorial",
+      "name": "An Introduction To Cython",
+      "URL": "https://jakevdp.github.io/blog/2017/12/11/live-coding-cython/"
+    },
+    {
+      "type": "Video Tutorial",
+      "name": "Cython Tutorial",
+      "URL": "https://www.youtube.com/watch?v=gMvkiQ-gOW8"
+    },
+    {
+      "type": "Tutorial",
+      "name": "Cython tutorial for NumPy users",
+      "URL": "https://numpy.org/devdocs/user/cython.html"
+    }
+  ]
+}

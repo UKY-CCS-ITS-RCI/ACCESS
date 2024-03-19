@@ -1,0 +1,19 @@
+{
+  "Software_Name": "lifelines",
+  "Software_Page_Link":"https://pypi.org/project/lifelines/",
+  "Documentation_Link":"https://lifelines.readthedocs.io/en/latest/",
+  "Tutorials_And_Training_Material": [
+    {
+      "Title": "Survival Analysis in Python with lifelines",
+      "URL":"https://towardsdatascience.com/survival-analysis-in-python-a-model-for-customer-churn-e737c5242822"
+    },
+    {
+      "Title": "Intro to survival analysis with lifelines",
+      "URL":"https://lifelines.readthedocs.io/en/latest/Survival%20Analysis%20intro.html"
+    },
+    {
+      "Title": "lifelines Examples",
+      "URL":"https://lifelines.readthedocs.io/en/latest/Examples.html"
+    }
+  ]
+}

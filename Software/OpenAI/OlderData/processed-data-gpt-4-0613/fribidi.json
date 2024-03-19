@@ -1,0 +1,17 @@
+{
+   "fribidi":{
+      "software":"fribidi",
+      "link":"https://github.com/fribidi/fribidi",
+      "documentation":"https://fribidi.org/documentation",
+      "tutorials":[
+         {
+            "name":"Cross Compiling fribidi",
+            "link":"https://gist.github.com/gyunaev/8020358"
+         },
+         {
+            "name":"Building fribidi on Windows",
+            "link":"https://github.com/fribidi/fribidi/issues/15"
+         }
+      ]
+   }
+}

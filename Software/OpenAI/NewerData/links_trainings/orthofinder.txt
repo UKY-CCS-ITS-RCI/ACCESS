@@ -1,0 +1,11 @@
+{
+    "orthofinder": {
+        "softwarePage": "https://github.com/davidemms/OrthoFinder",
+        "documentation": "https://github.com/davidemms/OrthoFinder#orthofinder",
+        "tutorialMaterials": [
+            "https://davidemms.github.io/",
+            "http://galaxyproject.github.io/training-material/topics/genome-annotation/tutorials/functional-annotation/tutorial.html",
+            "https://www.youtube.com/watch?v=ZP-oSXQnnI0"
+        ]
+    }
+}

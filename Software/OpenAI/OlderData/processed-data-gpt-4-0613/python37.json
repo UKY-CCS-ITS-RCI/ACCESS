@@ -1,0 +1,16 @@
+{
+  "SoftwareName": "Python 3.7",
+  "Homepage": "https://www.python.org/downloads/release/python-370/",
+  "Resources": {
+    "Documentation": "https://docs.python.org/3.7/",
+    "Tutorials": [
+      "https://docs.python.org/3.7/tutorial/",
+      "https://www.learnpython.org/",
+      "https://www.w3schools.com/python/"
+    ],
+    "TrainingMaterial": [
+      "https://realpython.com/",
+      "https://www.codecademy.com/learn/learn-python-3"
+    ]
+  }
+}

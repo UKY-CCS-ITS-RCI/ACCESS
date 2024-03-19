@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Firefox": {
+      "MainPage": "https://www.mozilla.org/en-US/firefox/new/",
+      "Documentation": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=FVqzKAUsM68",
+        "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Developer_Edition",
+        "https://www.w3schools.com/css/css_rwd_mediaqueries.asp"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+   "Software": {
+      "Name": "pciutils",
+      "Information": {
+         "Software URL": "https://github.com/pciutils/pciutils",
+         "Documentation": [
+           "https://github.com/pciutils/pciutils/blob/master/README",
+           "https://cateee.net/lkddb/web-lkddb/PCIUTILS.html"
+         ],
+         "Tutorials": [],
+         "Training Materials": []
+      }
+   }
+}

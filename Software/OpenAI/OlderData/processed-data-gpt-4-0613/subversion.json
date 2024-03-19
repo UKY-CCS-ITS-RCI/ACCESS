@@ -1,0 +1,28 @@
+{
+  "software": "subversion",
+  "software_url": "https://subversion.apache.org/",
+  "documentation": [
+    {
+      "title": "Official Documentation",
+      "url": "https://subversion.apache.org/docs/"
+    },
+    {
+      "title": "User Manual",
+      "url": "http://svnbook.red-bean.com/"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Apache Subversion Tutorial",
+      "url": "https://www.tutorialspoint.com/apache_subversion/index.htm"
+    },
+    {
+      "title": "Learn Version Control with Subversion",
+      "url": "https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet"
+    },
+    {
+      "title": "Subversion Tutorial",
+      "url": "http://people.apache.org/~brane/svn-book.html"
+    }
+  ]
+}

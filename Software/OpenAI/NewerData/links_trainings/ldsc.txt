@@ -1,0 +1,19 @@
+{
+  "software_name": "ldsc",
+  "software_link": "https://github.com/bulik/ldsc",
+  "documentation_link": "https://github.com/bulik/ldsc/wiki",
+  "tutorials_and_trainings": [
+    {
+      "description": "LDSC Tutorial 1",
+      "link": "https://www.youtube.com/watch?v=_fE9M14RKfQ"
+    },
+    {
+      "description": "LDSC Tutorial 2",
+      "link": "https://www.youtube.com/watch?v=fw8mYx9SrvI"
+    },
+    {
+      "description": "LDSC Introduction Tutorial by Neale Lab",
+      "link": "https://www.broadinstitute.org/files/shared/mpg/ricopili/ldsc_inricopili_v2.pdf"
+    }
+  ]
+}

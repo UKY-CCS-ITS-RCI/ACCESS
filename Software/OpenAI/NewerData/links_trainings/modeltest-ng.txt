@@ -1,0 +1,15 @@
+{
+  "softwareName": "ModelTest-NG",
+  "softwareLink": "https://github.com/ddarriba/modeltest",
+  "documentationLink": "https://github.com/ddarriba/modeltest/wiki",
+  "trainingMaterials": [
+    {
+      "name": "ModelTest-NG tutorial",
+      "link": "https://github.com/ddarriba/modeltest/wiki/Tutorial"
+    },
+    {
+      "name": "ModelTest-NG: model selection is challenging",
+      "link": "https://academic.oup.com/mbe/article/37/10/2913/5863391"
+    }
+  ]
+}

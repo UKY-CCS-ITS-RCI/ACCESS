@@ -1,0 +1,10 @@
+{
+  "softwareName": "Help2man",
+  "links": {
+    "softwarePage": "https://www.gnu.org/software/help2man/",
+    "documentation": "https://www.gnu.org/software/help2man/help2man.html",
+    "tutorial1": "https://brewinstall.org/Install-help2man-on-Mac-with-Brew/",
+    "tutorial2": "https://www.savannah.gnu.org/maintenance/UsingHelp2man/",
+    "tutorial3": "https://www.youtube.com/watch?v=gW8k5r6rXpM"
+  }
+}

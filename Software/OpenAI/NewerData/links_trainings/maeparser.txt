@@ -1,0 +1,9 @@
+{
+  "Software name": "maeparser",
+  "Software link": "https://github.com/schrodinger/maeparser",
+  "Documentation link": "https://github.com/schrodinger/maeparser#readme",
+  "Tutorial or Training links": {
+      "Tutorial link": "Not Available",
+      "Training link": "Not Available"
+  }
+}

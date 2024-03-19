@@ -1,0 +1,39 @@
+Use Case: Abseil is a collection of C++ code (compliant to C++11) designed to augment the C++ standard library. Google itself uses Abseil for its production systems. It treats additions as an extension of the standard library, like `std::string` replacements, container types, threading, and synchronization primitives, etc.
+
+Code details and examples:
+
+Code:
+
+```cpp
+#include "absl/strings/str_join.h"
+#include "absl/strings/str_split.h"
+#include <iostream>
+#include <vector>
+
+int main() {
+   std::vector<std::string> v = {"foo","bar","baz"};
+   std::string s = absl::StrJoin(v, "-");
+
+   std::cout << s << std::endl;     // "foo-bar-baz"
+
+   std::vector<std::string> v2 = absl::StrSplit(s, '-');
+   for (const auto& x : v2) {
+       std::cout << x << std::endl;  // "foo" "bar" "baz"
+   }
+   return 0;
+}
+```
+
+Input file format: Not applicable as Abseil is a library to be used in C++ code, not a standalone software. 
+
+Specifications in input file: Not applicable.
+
+Command to run: Once written, C++ code can be compiled using g++ or any C++ compiler and then run the executable.
+
+```shell
+# to compile the code
+$ g++ -std=c++11 -I /path/to/abseil your_code.cpp -o your_program
+
+# to run the code
+$ ./your_program
+```

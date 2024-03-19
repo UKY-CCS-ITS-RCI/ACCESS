@@ -1,0 +1,11 @@
+{
+  "name": "ml-toolkit-cpu/tensorflow",
+  "softwarePage": "https://www.tensorflow.org/",
+  "documentation": "https://www.tensorflow.org/guide",
+  "tutorials": [
+    "https://www.tensorflow.org/tutorials",
+    "https://developers.google.com/machine-learning/crash-course/tf2-getting-started",
+    "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187",
+    "https://www.coursera.org/courses?query=tensorflow"
+  ]
+}

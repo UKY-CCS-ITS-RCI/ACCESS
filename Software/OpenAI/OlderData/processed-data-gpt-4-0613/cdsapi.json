@@ -1,0 +1,9 @@
+{
+    "Software": "CDSAPI",
+    "Website": "https://cds.climate.copernicus.eu/api-how-to",
+    "Documentation": "https://cds.climate.copernicus.eu/api-how-to",
+    "Tutorial_and_Training": [
+        "https://github.com/ecmwf/cdsapi",
+        "https://confluence.ecmwf.int/display/CKB/Climate+Data+Store+(CDS)+API+Keywords"
+    ]
+}

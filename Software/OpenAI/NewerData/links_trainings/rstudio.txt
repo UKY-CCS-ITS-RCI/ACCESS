@@ -1,0 +1,23 @@
+{
+  "software": "RStudio",
+  "link": "https://rstudio.com/",
+  "documentation": "https://docs.rstudio.com/",
+  "tutorials": [
+    {
+      "name": "RStudio Education",
+      "url": "https://education.rstudio.com/"
+    },
+    {
+      "name": "RStudio Cheatsheets",
+      "url": "https://rstudio.com/resources/cheatsheets/"
+    },
+    {
+      "name": "Introduction to RStudio (DataCamp)",
+      "url": "https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1"
+    },
+    {
+      "name": "R Programming and Analysis through RStudio (Coursera)",
+      "url": "https://www.coursera.org/specializations/r-programming"
+    }
+  ]
+}

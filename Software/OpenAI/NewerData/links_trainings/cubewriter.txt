@@ -1,0 +1,7 @@
+{
+  "Software": "CubeWriter",
+  "Main_Software_Link": "No official Software page found for CubeWriter",
+  "Additional_links_for_documentation": [],
+  "Additional_links_for_Training_Materials": [],
+  "Additional_links_for_tutorials": []
+}

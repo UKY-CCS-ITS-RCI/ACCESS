@@ -1,0 +1,36 @@
+Use Case: OpenBLAS is an optimized open-source library for handling Linear Algebra (BLAS) operations, including matrix multiplication, dot product, vector addition and scaling, and more. It is commonly used with languages like C, C++, and Fortran for developing high-performance applications in fields such as machine learning, computational physics, and quantitative finance.
+
+Code details and examples:
+
+Code:
+
+```c
+#include <cblas.h>
+#include <stdio.h> 
+    
+void main() {
+   double A[6] = {1.0, 2.0, 1.0, -3.0, 4.0, -1.0}; 
+   double B[6] = {1.0, 2.0, 1.0, -3.0, 4.0, -1.0}; 
+   double C[9] = {.5, .5, .5, .5, .5, .5, .5, .5, .5}; 
+   cblas_dgemm(CblasRowMajor, CblasNoTrans, CblasNoTrans, 3, 3, 2, 1.0, A, 3, B, 3, 1.0, C, 3); 
+   
+   for (int i = 0; i < 9; i++)
+      printf("%lf ", C[i]); 
+   printf("\n"); 
+}
+```
+The above code multiplies two 3x2 matrices `A` and `B` using the function `cblas_dgemm()` and adds the result to a 3x3 matrix `C`. The output matrix `C` is printed to the terminal.
+
+Command to compile the code (with OpenBLAS installed in '/opt/OpenBLAS'):
+
+```bash
+gcc -I/opt/OpenBLAS/include -L/opt/OpenBLAS/lib -lopenblas -o matrix_mul code.c
+```
+
+Command to run the compiled executable:
+
+```bash
+./matrix_mul
+```
+
+Note: The paths '/opt/OpenBLAS/include' and '/opt/OpenBLAS/lib' are assumed to be where the OpenBLAS header files and libraries are respectively stored in the system. Please replace these with the appropriate paths as per the installation.

@@ -1,0 +1,11 @@
+
+{
+  "mpi4py": {
+    "Software Page": "https://mpi4py.readthedocs.io/en/latest/index.html",
+    "Documentation": "https://mpi4py.readthedocs.io/en/latest/",
+    "Tutorial": [
+      "https://mpi4py.readthedocs.io/en/latest/tutorial.html"
+    ]
+  }
+}
+

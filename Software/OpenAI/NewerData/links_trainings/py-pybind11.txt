@@ -1,0 +1,23 @@
+{
+  "Software Name": "py-pybind11",
+  "Page Link": "https://pypi.org/project/pybind11/",
+  "Documentation Link": "https://pybind11.readthedocs.io/en/stable/",
+  "Tutorial & Training Material": [
+    {
+      "Title": "Introduction to pybind11",
+      "Link": "https://pybind11.readthedocs.io/en/stable/basics.html"
+    },
+    {
+      "Title": "Advanced usages of pybind11",
+      "Link": "https://pybind11.readthedocs.io/en/stable/advanced.html"
+    },
+    {
+      "Title": "Compiling modules with pybind11",
+      "Link": "https://pybind11.readthedocs.io/en/stable/compiling.html"
+    },
+    {
+      "Title": "pybind11 GitHub Repo",
+      "Link": "https://github.com/pybind/pybind11"
+    }
+  ]
+}

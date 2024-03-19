@@ -1,0 +1,11 @@
+{
+  "Software": "dm-tree",
+  "Software_URL": "https://github.com/deepmind/tree",
+  "Documentation": {
+    "GitHub_docs": "https://github.com/deepmind/tree/blob/master/README.md"
+  },
+  "Tutorials": {
+    "Medium_Tutorial": "https://pythonawesome.com/a-library-for-working-with-nested-structures-of-tensors-in-tensorflow-and-jax/",
+    "StackOverflow": "https://stackoverflow.com/questions/tagged/dm-tree"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Software": "r-htmltable",
+  "Link to Software Page": "https://cran.r-project.org/web/packages/htmlTable/index.html",
+  "Additional URLs": {
+    "Documentation": ["https://cran.r-project.org/web/packages/htmlTable/htmlTable.pdf"],
+    "Training and Tutorial Materials": [
+      "https://www.rdocumentation.org/packages/htmlTable/versions/2.3.0",
+      "https://www.datanovia.com/en/packages/r-htmltable/",
+      "https://bookdown.org/yih_huynh/Guide-to-R-Book/export-a-table-to-pdf-from-r.html"
+    ]
+  }
+}

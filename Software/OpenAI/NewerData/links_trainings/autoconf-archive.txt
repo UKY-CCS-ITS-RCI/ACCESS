@@ -1,0 +1,19 @@
+{
+  "software_name": "autoconf-archive",
+  "software_link": "https://www.gnu.org/software/autoconf-archive/",
+  "documentation_link": "https://www.gnu.org/software/autoconf-archive/manuals.html",
+  "tutorials": [
+    {
+      "name": "Autoconf and Automake tutorial",
+      "link": "https://www.lrde.epita.fr/~adl/autotools.html"
+    },
+    {
+      "name": "Autotools tutorial",
+      "link": "https://autotools.io/autoconf/"
+    },
+    {
+      "name": "Autotools: a practitioner's guide to Autoconf, Automake and Libtool",
+      "link": "https://www.flameeyes.com/autotools-mythbuster/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Software Name": "climetlab",
+  "Software Page": "https://github.com/ecmwf/climetlab",
+  "Documentation": "https://climetlab.readthedocs.io/en/latest/",
+  "Training Material": [
+    {
+      "Training Title": "Getting started with climetlab",
+      "Training Link": "https://climetlab.readthedocs.io/en/latest/getting-started.html"
+    },
+    {
+      "Training Title": "Examples and Notebooks - climetlab",
+      "Training Link": "https://climetlab.readthedocs.io/en/latest/examples.html"
+    }
+  ]
+}

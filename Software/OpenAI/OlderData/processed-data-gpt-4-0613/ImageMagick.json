@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "ImageMagick": {
+      "MainPage": "https://imagemagick.org/index.php",
+      "Documentation": "https://imagemagick.org/script/command-line-tools.php",
+      "Tutorials": [
+        "https://imagemagick.org/script/tutorial.php",
+        "https://www.youtube.com/watch?v=Gs7E7B-B5cQ",
+        "https://www.tutorialspoint.com/imagemagick/index.htm"
+      ]
+    }
+  }
+}

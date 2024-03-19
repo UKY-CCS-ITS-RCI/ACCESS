@@ -1,0 +1,18 @@
+{
+  "Software": {
+    "Name": "xclock",
+    "WebURL": "https://www.x.org/releases/X11R7.7/doc/man/man1/xclock.1.xhtml",
+    "Resources": {
+      "Documentation": [
+        {
+          "URL": "https://www.x.org/releases/X11R7.7/doc/man/man1/xclock.1.xhtml"
+        }
+      ],
+      "Tutorials": [
+        {
+          "URL": "http://www.linuxcertif.com/man/1/xclock/"
+        }
+      ]
+    }
+  }
+}

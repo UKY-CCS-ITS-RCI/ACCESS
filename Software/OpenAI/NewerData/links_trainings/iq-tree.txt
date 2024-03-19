@@ -1,0 +1,24 @@
+{
+    "softwareName": "IQ-TREE",
+    "softwareURL": "http://www.iqtree.org/",
+    "documentation": [
+      {
+        "name": "IQ-TREE Manual",
+        "URL": "http://www.iqtree.org/doc/IQ-TREE-Minimal-Manual"
+      },
+      {
+        "name": "IQ-TREE Comprehensive Tutorial",
+        "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5803309/"
+      }
+    ],
+    "trainingAndTutorials": [
+      {
+        "name": "IQ-TREE Video Tutorial on YouTube",
+        "URL": "https://www.youtube.com/watch?v=fl4KE4RriI4"
+      },
+      {
+        "name": "IQ-TREE Tutorial by CIPRES",
+        "URL": "https://www.phylo.org/index.php/tutorials/iq-tree-tutorials"
+      }
+    ]
+}

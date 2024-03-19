@@ -1,0 +1,12 @@
+{
+  "softwareName": "NetworkX",
+  "softwarePage": "https://networkx.org/",
+  "documentationURL": "https://networkx.org/documentation/stable/",
+  "trainingAndTutorialMaterials": [
+    {"Introduction_to_networkx": "https://networkx.org/documentation/stable/tutorial.html"},
+    {"UCL_networkx_tutorial": "https://www.ucl.ac.uk/~zcede8e/Networkx_tutorial.pdf"},
+    {"Getting_started_with_networkx": "https://www.python-course.eu/networkx.php"},
+    {"Introduction_to_graph_theory_and_networkx": "https://www.datacamp.com/community/tutorials/networkx-python-graph-tutorial"},
+    {"GeeksforGeeks_networkx_tutorial": "https://www.geeksforgeeks.org/networkx-python-software-package-study-complex-networks/"}
+  ]
+}

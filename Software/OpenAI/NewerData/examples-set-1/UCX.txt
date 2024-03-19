@@ -1,0 +1,25 @@
+Use Case: UCX (Unified Communication X) is used for enhancing the performance of Message Passing Interface (MPI) library, providing an optimized communication layer for Parallel Computing. It has advanced algorithms and architectures to facilitate high-throughput, low-latency communications for large scale high-performance computing (HPC) applications.
+
+Code details and examples: 
+
+Code: Using UCX with OpenMPI:
+
+In order to use UCX with a package like OpenMPI, it's important to set the correct environment variables. This can typically be done in your shell profile or in the script that launches your MPI application.
+
+For bash:
+```
+export OMPI_MCA_mtl=^mxm
+export OMPI_MCA_pml=ucx
+```
+For tcsh/csh:
+```
+setenv OMPI_MCA_mtl ^mxm
+setenv OMPI_MCA_pml ucx
+```
+Then you would specifically invoke your MPI application. For instance, assuming you had an application called 'myApp', typically you would use 'mpirun':
+```
+mpirun -np 16 myApp
+```
+Where '-np 16' specifies the number of processes will be used for parallel computing.
+
+Notably, UCX itself does not typically require specific input files, instead it optimizes the communication between nodes in a distributed computing system that's handled by MPI or other similar frameworks. The required data and formats will be application-specific.

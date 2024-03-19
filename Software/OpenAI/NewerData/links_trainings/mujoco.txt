@@ -1,0 +1,19 @@
+{
+  "software": "MuJoCo",
+  "link": "https://www.roboti.us/index.html",
+  "documentation": "https://www.roboti.us/doc/Reference.html",
+  " tutorials": [
+    {
+      "name": "OpenAI Mujoco documentation",
+      "url": "https://openai.com/research/mujoco/"
+    },
+    {
+      "name": "Getting started with the MuJoCo Tutorial",
+      "url": "https://course.fast.ai/videos/?lesson=10"
+    },
+    {
+      "name": "MuJoCo Tutorial from YouTube",
+      "url": "https://www.youtube.com/watch?v=xh5i2LEN0BA"
+    }
+  ]
+}

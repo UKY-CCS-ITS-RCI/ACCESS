@@ -1,0 +1,28 @@
+{
+  "software": "OpenBLAS",
+  "website": "https://www.openblas.net/",
+  "documentation": [
+    {
+      "title": "OpenBLAS User Manual",
+      "url": "https://github.com/xianyi/OpenBLAS/wiki/User-Manual"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Using OpenBLAS Library For Boosting PyTorch Performance",
+      "url": "https://analyticsindiamag.com/guide-to-openblas-library-for-boosting-pytorch-performance/"
+    },
+    {
+      "title": "Optimise Python calculation performance with OpenBLAS",
+      "url": "https://towardsdatascience.com/optimise-python-calculation-performance-with-openblas-c47da893f7d9"
+    },
+    {
+      "title": "NumPy and OpenBLAS",
+      "url": "https://mran.microsoft.com/tip/accelerate-r-with-openblas"
+    },
+    {
+      "title": "Using OpenBLAS for faster NumPy Operations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/using-openblas-for-faster-numpy-operations/"
+    }
+  ]
+}

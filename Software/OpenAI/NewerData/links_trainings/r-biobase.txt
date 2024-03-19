@@ -1,0 +1,17 @@
+{
+  "Software Name": "R-BioBase",
+  "Official Page": "https://bioconductor.org/packages/release/bioc/html/Biobase.html",
+  "Documentation Links": [
+    {
+      "Documentation": "https://bioconductor.org/packages/release/bioc/vignettes/Biobase/inst/doc/ExpressionSetIntroduction.pdf",
+      "User Guide": "https://bioconductor.org/packages/devel/bioc/vignettes/Biobase/inst/doc/AnIntroductionToBiobaseClasses.pdf"
+    }
+  ],
+  "Training and Tutorial Links": [
+    {
+      "R-Bioconductor Course Material": "https://www.bioconductor.org/help/course-materials/2017/BioC2017/Day1/Intro_To_Bioconductor/Intro_Bioconductor.html",
+      "Introduction to Biobase": "https://dummy.url.com/introduction_to_biobase_tutorial"
+    }
+  ], 
+  "conda Package": "https://anaconda.org/bioconda/bioconductor-biobase"
+}

@@ -1,0 +1,11 @@
+{
+  "software": "pydicom",
+  "website_link": "https://pydicom.github.io/pydicom/",
+  "additional_links": {
+    "documentation": "https://pydicom.github.io/pydicom/stable/getting_started.html",
+    "tutorial": "https://pydicom.github.io/pydicom/stable/auto_examples/index.html",
+    "conda_package": "https://anaconda.org/conda-forge/pydicom",
+    "github_repo": "https://github.com/pydicom/pydicom",
+    "python_library": "https://pypi.org/project/pydicom/"
+  }
+}

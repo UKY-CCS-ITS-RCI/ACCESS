@@ -1,0 +1,10 @@
+{
+  "Name": "Pandoc",
+  "SoftwareURL": "https://pandoc.org/",
+  "DocumentationURL": "https://pandoc.org/MANUAL.html",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown",
+    "Tutorial_2_URL": "https://pandoc.org/demos.html",
+    "Tutorial_3_URL": "https://rmarkdown.rstudio.com/authoring_pandoc_markdown.html"
+  }
+}

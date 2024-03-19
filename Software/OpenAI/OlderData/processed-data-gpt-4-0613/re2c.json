@@ -1,0 +1,17 @@
+{
+  "software_name": "re2c",
+  "software_URL": "https://re2c.org/",
+  "documentation": [
+    {
+      "URL": "https://re2c.org/manual/manual.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "URL_1": "https://re2c.org/manual/examples/examples.html"
+    },
+    {
+      "URL_2": "https://laurikari.net/tre/documentation/re2c-syntax/"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+Use Case: XPMEM is a Linux kernel module for cross-environment process-to-process memory sharing. It is commonly used in high-performance scientific computing for enhancing performance by minimizing copying data between processes.
+
+Code details and examples: Code. 
+
+Firstly, let's define an abstract use-case where a process needs to share some memory with another process. 
+
+In XPMEM, the process that shares its memory is the source process, and the process that takes the shared memory is a recipient process. 
+
+In the source process, suppose we have an existing memory buffer that we want to share:
+
+```cpp
+char* buffer = new char[256]; 
+strcpy(buffer, "Hello, XPMEM!");
+```
+
+To share this buffer, we need to get the XPMEM segment ID of the source process:
+
+```cpp
+xpmem_segid_t segid = xpmem_make(buffer, 256, XPMEM_PERMIT_MODE, (void*)0666);
+```
+
+In the recipient process, we need to receive the shared buffer. To do so, first, we need to get the XPMEM access permit ID:
+
+```cpp
+xpmem_apid_t apid = xpmem_get(segid, XPMEM_RDWR, XPMEM_PERMIT_MODE, NULL);
+```
+
+Then, we attach to the memory segment:
+
+```cpp
+void* attached = xpmem_attach(apid, 0, NULL);
+```
+
+Now, `attached` should contain "Hello, XPMEM!" from `buffer`. To detach, use:
+
+```cpp
+xpmem_detach(attached);
+```
+
+And to release the segment ID and access permit ID, use:
+
+```cpp
+xpmem_release(apid);
+xpmem_remove(segid);
+```
+
+Shared memory should be released (and thus, become inaccessible) automatically when the source process ends.

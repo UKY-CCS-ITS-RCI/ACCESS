@@ -1,0 +1,23 @@
+{
+"name": "Asciinema",
+"softwarePage": "https://asciinema.org/",
+"documentation": "https://asciinema.org/docs/how-it-works",
+"tutorialMaterials": [
+    {
+        "name": "Asciinema: How to share your terminal session",
+        "url": "https://opensource.com/article/20/5/asciinema-terminal"
+    },
+    {
+        "name": "How to use Asciinema - Linux Terminal Recorder",
+        "url": "https://www.youtube.com/watch?v=2IZ_eATmt0s"
+    },
+    {
+        "name": "How to Install and Use Asciinema",
+        "url": "https://www.tecmint.com/install-asciinema-in-linux/"
+    },
+    {
+        "name": "Recording Terminal Sessions with Asciinema",
+        "url": "https://www.digitalocean.com/community/tutorials/how-to-install-and-use-asciinema"
+    }
+  ]
+}

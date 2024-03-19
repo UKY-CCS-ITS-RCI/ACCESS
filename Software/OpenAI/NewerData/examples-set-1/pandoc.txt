@@ -1,0 +1,21 @@
+Use Case: Converting a Markdown file to a PDF
+
+Code Details and Examples: 
+
+Code: 
+
+You will use the terminal to run Pandoc. The input you will need is a document that is currently in Markdown format that you wish to convert to PDF.
+
+An example of a file in Markdown format would be:
+
+# Title
+
+This is an example of a markdown file.
+
+To create a PDF from this Markdown file, you would use the following command:
+
+```
+pandoc example.md -s -o example.pdf
+```
+
+In this command, `example.md` is the input Markdown file and `example.pdf` is the output PDF file. The `-s` flag is used to denote that the input file should be treated as a 'standalone' document (as opposed to part of a larger document). The `-o` flag is used to specify the output file.

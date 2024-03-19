@@ -1,0 +1,53 @@
+Use Case: FLAC is a software package that performs explicit, two-dimensional, dynamic simulations for computational solid earth geophysics. It is typically used for modeling large strains in geologic material, such as might occur during an earthquake.
+
+Code details and examples:
+
+Code:
+
+In FLAC, a typical input file (usually a .dat or .flac file) would contain the numerical parameters for the simulation, including grid size, time steps, and material properties. 
+
+Sample FLAC input file format:
+
+```
+;---------------------------------------------
+; FLAC GRID
+; --------------------------------------------
+GRID 100 100
+; TIME STEPPING
+DYNAMIC
+TIME INCREMENT 0.001
+; SET PROPERTIES
+ZONE PROPERTY density=2.5 xperm=1e-10 yperm=1e-10
+;---------------------------
+; BOUNDARY CONDITIONS
+; --------------------------
+FIX VELOCITY
+    ; set roller boundary at east and west
+    ZONE FACE X 100
+    VALUE VELOCITY-NORMAL 0
+    ZONE FACE X 1
+    VALUE VELOCITY-NORMAL 0
+
+;---------------------------
+; INITIAL CONDITIONS
+; --------------------------
+    ZONE INITIALIZE PRESSURE 101
+    ZONE INITIALIZE VELOCITY-NORMAL 0
+    ZONE INITIALIZE VELOCITY-SHEAR 0
+;---------------------------
+; MODEL CYCLE
+; --------------------------
+    CYCLE 50000
+    HISTORY 'time' 'vert. displacement at base'
+cancel last
+plot
+end
+```
+
+Command to run FLAC program (in a Bash shell):
+
+```bash
+/path/to/flac inputfile.dat
+```
+
+This would execute the FLAC program on the inputfile.dat. The path requires correct FLAC installation. The results of the simulation are usually written to a .his or .out file in the same directory as the input file.

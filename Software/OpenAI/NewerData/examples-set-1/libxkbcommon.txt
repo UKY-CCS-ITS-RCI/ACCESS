@@ -1,0 +1,41 @@
+Use Case: libxkbcommon is a package often used by developers to handle keyboard descriptions, including loading them from disk, parsing them, and handling their state. It's used in virtual keyboard systems like Wayland or in some cases X.Org 
+
+Code Details and Examples: Here is a simple example of how to use libxkbcommon to interpret raw keycodes into keysyms (the symbols your keyboard produces, like 'a' or 'Esc').
+
+Code:
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <xkbcommon/xkbcommon.h>
+
+int main()
+{
+    struct xkb_context *context = xkb_context_new(XKB_CONTEXT_NO_FLAGS);
+
+    struct xkb_keymap *keymap;
+    keymap = xkb_keymap_new_from_names(context, NULL, XKB_KEYMAP_COMPILE_NO_FLAGS);
+    
+    xkb_keysym_t keysym;
+    const char *keysym_name;
+
+    for (xkb_keycode_t i = 9; i < 255; i++) {
+        keysym = xkb_state_key_get_one_sym(state, i);
+        keysym_name = xkb_keysym_get_name(keysym);
+        printf("keysym %s produced by keycode %u\n", keysym_name, i);
+    }
+
+    xkb_context_unref(context);
+    return 0;
+}
+```
+To compile this code, it would be required to link against libxkbcommon. This can be done via gcc using the following command:
+
+`gcc -o test test.c $(pkg-config --libs --cflags xkbcommon)`
+
+And to run:
+
+`./test`
+
+This command will print the keysyms associated with each keycode on your current keyboard layout, from 9 to 254. The input is the keycodes provided in the loop, and the output is the key symbol name and the key code.

@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Gaussian": {
+      "MainPage": "https://gaussian.com/",
+      "Documentation": "https://gaussian.com/technicalliterature/",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=0QQOn2cAVg4",
+        "https://www.researchgate.net/post/How_do_I_use_Gaussian_09",
+        "https://sites.dartmouth.edu/grad-training-program/2021/01/25/gaussian-tutorial/"
+      ]
+    }
+  }
+}

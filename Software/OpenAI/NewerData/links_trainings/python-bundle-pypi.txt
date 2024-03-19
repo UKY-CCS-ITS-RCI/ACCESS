@@ -1,0 +1,14 @@
+{
+  "Software Name": "python-bundle-pypi",
+  "Software URL": "https://pypi.org/",
+  "Additional URLs": {
+    "Documentation": "https://packaging.python.org/tutorials/packaging-projects/",
+    "Tutorials": [
+      "https://realpython.com/tutorials/pipenv/",
+      "https://packaging.python.org/tutorials/packaging-projects/"
+    ],
+    "Training": [
+      "https://www.coursera.org/courses?query=python%20packaging"
+    ]
+  }
+}

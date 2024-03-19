@@ -1,0 +1,11 @@
+{
+  "Software Name": "Pysam",
+  "links": {
+    "software page": "https://pypi.org/project/pysam/",
+    "documentation": "https://pysam.readthedocs.io/en/latest/",
+    "tutorials": [
+      "https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/06_alignment_visualization_mqc.html",
+      "https://www.programmableweb.com/category/all/news"
+    ]
+  }
+}

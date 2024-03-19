@@ -1,0 +1,23 @@
+{
+  "softwareName": "alphafold",
+  "softwarePage": "https://deepmind.com/research/open-source/computational-predictions-of-protein-structures",
+  "documentation": "https://github.com/deepmind/alphafold",
+  "trainingMaterials": [
+    {
+      "label": "alphafold_guide",
+      "url": "https://github.com/deepmind/alphafold/blob/main/docs/alphafold_guide.md"
+    },
+    {
+      "label": "Google Colab for AlphaFold2",
+      "url": "https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb"
+    },
+    {
+      "label": "YouTube tutorial",
+      "url": "https://www.youtube.com/watch?v=VAxxF_6Dlj0"
+    },
+    {
+      "label": "Case Study: The creation of AlphaFold",
+      "url": "https://deepmind.com/blog/alphafold"
+    }
+  ]
+}

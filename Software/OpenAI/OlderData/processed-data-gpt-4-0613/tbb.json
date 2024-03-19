@@ -1,0 +1,19 @@
+{
+    "software": "Threading Building Blocks (TBB)",
+    "resources": {
+        "softwareHomepage": "https://www.threadingbuildingblocks.org/",
+        "documentation": "https://www.threadingbuildingblocks.org/documentation",
+        "tutorials": [
+            {
+                "title": "Get Started with Threading Building Blocks",
+                "url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb.html"
+            }
+        ],
+        "trainingMaterials": [
+            {
+                "title": "Intel Threading Building Blocks Tutorial",
+                "url": "https://www.threadingbuildingblocks.org/docs/help/tbb_tutorial.html"
+            }
+        ]
+    }
+}

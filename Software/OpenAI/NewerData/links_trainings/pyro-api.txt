@@ -1,0 +1,38 @@
+{
+  "software": "Pyro-Api",
+  "links": {
+    "software_page": "https://github.com/pyro-ppl/pyro-api",
+    "documentation": [
+      {
+        "title": "API documentation",
+        "url": "http://docs.pyro.ai/en/latest/"
+      },
+      {
+        "title": "Tutorials",
+        "url": "http://pyro.ai/examples/"
+      }
+    ],
+    "additional_resources": [
+      {
+        "title": "Pyro-PPL/Pyro-api GitHub",
+        "url": "https://github.com/pyro-ppl/pyro-api"
+      },
+      {
+        "title": "Pyro-ppl community forum",
+        "url": "https://forum.pyro.ai/"
+      },
+      {
+        "title": "Getting started with Pyro",
+        "url": "http://pyro.ai/examples/intro_part_i.html"
+      },
+      {
+        "title": "Other tutorials and exemples",
+        "url": "http://pyro.ai/examples/"
+      },
+      {
+        "title": "Conda package for Pyro-api",
+        "url": "https://anaconda.org/conda-forge/pyro-api"
+      }
+    ]
+  }
+}

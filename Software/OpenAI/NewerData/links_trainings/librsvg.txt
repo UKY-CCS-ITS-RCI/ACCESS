@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Name": "librsvg",
+    "Website": "https://wiki.gnome.org/Projects/LibRsvg",
+    "Documentation": "https://developer.gnome.org/rsvg/stable/",
+    "Tutorials": [
+      {
+        "Name": "How to Install librsvg on Ubuntu",
+        "Link": "https://zoomadmin.com/HowToInstall/UbuntuPackage/librsvg2-bin"
+      }
+    ]
+  }
+}

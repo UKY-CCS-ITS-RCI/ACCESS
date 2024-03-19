@@ -1,0 +1,10 @@
+{
+  "software_name": "parafold",
+  "software_page": "https://www.tbi.univie.ac.at/RNA/Parafold/",
+  "documentation_links": ["https://www.tbi.univie.ac.at/RNA/Parafold/manual.pdf"],
+  "tutorial_materials": [
+    "https://www.tbi.univie.ac.at/RNA/tutorial/",
+    "https://www.tbi.univie.ac.at/RNA/documentation.html"
+  ],
+  "related_links": []
+}

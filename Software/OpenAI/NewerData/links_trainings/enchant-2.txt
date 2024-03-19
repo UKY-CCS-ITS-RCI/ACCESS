@@ -1,0 +1,15 @@
+{
+  "Software-name": "enchant-2",
+  "Software-link": "https://abiword.github.io/enchant/",
+  "Documentations": [{
+    "name": "GitHub documentation",
+    "URL": "https://github.com/AbiWord/enchant#readme"
+  }, {
+    "name": "PyPi documentation",
+    "URL": "https://pypi.org/project/pyenchant/"
+  }],
+  "Tutorials": [{
+    "name": "Python PyEnchant Tutorial",
+    "URL": "https://pythonhosted.org/pyenchant/tutorial.html"
+  }]
+}

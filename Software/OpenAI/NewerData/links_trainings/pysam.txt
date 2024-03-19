@@ -1,0 +1,15 @@
+{
+  "software_name": "pysam",
+  "software_page": "https://github.com/pysam-developers/pysam",
+  "documentation": "http://pysam.readthedocs.io/en/latest/",
+  "tutorial_and_training_materials": [
+    {
+      "name": "Python for Bioinformatics",
+      "url": "https://pythonforbiologists.com/introduction-to-pysam"
+    },
+    {
+      "name": "Pysam Tutorial",
+      "url": "https://www.learnbymarketing.com/688/pysam-tutorial/"
+    }
+  ]
+}

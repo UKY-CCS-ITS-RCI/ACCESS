@@ -1,0 +1,20 @@
+{
+  "name": "FreeIPMI",
+  "software_page": "https://www.gnu.org/software/freeipmi/",
+  "documentation": [
+    {
+      "name": "Official Documentation",
+      "link": "https://www.gnu.org/software/freeipmi/documentation.html"
+    }
+  ],
+  "training_materials": [
+    {
+      "name": "FreeIPMI Man Pages",
+      "link": "https://www.mankier.com/package/freeipmi"
+    },
+    {
+      "name": "FreeIPMI Tutorial by Ganto",
+      "link": "https://ganto.eu/posts/freeipmi/"
+    }
+  ]
+}

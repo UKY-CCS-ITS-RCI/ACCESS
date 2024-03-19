@@ -1,0 +1,21 @@
+{
+  "software": "hdbscan",
+  "software_page": "https://github.com/scikit-learn-contrib/hdbscan",
+  "additional_links": {
+    "documentation": "http://hdbscan.readthedocs.io/en/latest/",
+    "training_materials": [
+      {
+        "name": "Example usage of HDBSCAN for clustering",
+        "link": "https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html"
+      },
+      {
+        "name": "Comparison of the performance of hdbscan and other clustering algorithms",
+        "link": "https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html"
+      },
+      {
+        "name": "hdbscan tutorial on github",
+        "link": "https://github.com/scikit-learn-contrib/hdbscan/tree/master/notebooks"
+      }
+    ]
+  }
+}

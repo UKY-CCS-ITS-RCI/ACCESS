@@ -1,0 +1,32 @@
+Use Case: FastANI is used for fast whole-genome alignment to estimate the genetic distance (Average Nucleotide Identity, ANI) between closely related genomes. This is commonly used in microbial genomics to classify bacteria.
+
+Code details and examples:
+
+Code:
+FastANI needs two input file lists which include paths for query and reference genomes respectively. These lists can be generated manually or using the 'find' command in Linux. Here is a sample command using FastANI:
+
+```shell
+# Generate file lists. For simplicity, we're assuming all genomes are in the same folder.
+# Replace '/path/to/genomes' with the actual path where your genomes are stored.
+find /path/to/genomes -name "*.fna" > genome_list.txt
+
+# Run FastANI
+fastANI -q genome_list.txt -r genome_list.txt -o output.txt
+```
+
+Input file:
+FastANI works with genomic sequences in FASTA format (.fna, .fasta). Here is an example of what a sequence might look like in .fna format:
+
+```
+>sequence1
+AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
+>sequence2
+TTTTTTTCTGAGAGGTTAAGTGTAGAGCTACTCTGGAGCTACCACATCTTGACGGTACCAGCACGATGTCCACGAGTGCTTGACAC
+...
+```
+
+Output file:
+The output.txt file will contain the ANI values for each pair of genomes in your input list. The output looks like:
+```
+Genome1 Genome2 ANI_value matches total_fragments
+```

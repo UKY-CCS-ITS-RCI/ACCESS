@@ -1,0 +1,10 @@
+{
+  "softwareName": "HTSlib",
+  "links": {
+    "softwarePage": "https://www.htslib.org/",
+    "documentation": "https://www.htslib.org/doc/",
+    "tutorial1": "https://github.com/samtools/htslib",
+    "tutorial2": "https://software.broadinstitute.org/software/igv/htslib",
+    "tutorial3": "https://www.biostars.org/p/218671/"
+  }
+}

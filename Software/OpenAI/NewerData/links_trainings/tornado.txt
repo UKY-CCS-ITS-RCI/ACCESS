@@ -1,0 +1,30 @@
+{
+  "tornado": {
+    "software_url": "https://www.tornadoweb.org/en/stable/",
+    "documentation_url": "https://www.tornadoweb.org/en/stable/documentation.html",
+    "tutorials": [
+      {
+        "tutorial_name": "Introduction to Tornado - Tutorialspoint",
+        "tutorial_url": "https://www.tutorialspoint.com/tornado/index.htm"
+      },
+      {
+        "tutorial_name": "Getting Started with Tornado by Michael DiBernardo",
+        "tutorial_url": "https://pythonhosted.org/tornado/tutorial.html"
+      },
+      {
+        "tutorial_name": "Tornado Web Server with Python 3 - Full Tutorial",
+        "tutorial_url": "https://www.tornadoweb.org/en/stable/guide.html"
+      }
+    ],
+    "training_materials": [
+      {
+        "training_name": "Learning Tornado eBook",
+        "training_url": "https://www.amazon.com/Learning-Tornado-OReilly-Media-ebook/dp/B009L8HVDS"
+      },
+      {
+        "training_name": "Introduction to Tornado",
+        "training_url": "https://learning.oreilly.com/library/view/introduction-to-tornado/9781449334482/"
+      }
+    ]
+  }
+}

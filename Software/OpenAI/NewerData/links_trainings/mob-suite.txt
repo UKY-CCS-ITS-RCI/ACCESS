@@ -1,0 +1,21 @@
+{
+  "Software": {
+    "Name": "mob-suite",
+    "Link": "https://github.com/phac-nml/mob-suite",
+    "Documentation": {
+      "Link": "https://mob-suite.readthedocs.io/en/latest/index.html"
+    },
+    "Tutorials": {
+      "Link": [
+        "https://mob-suite.readthedocs.io/en/latest/tutorial.html",
+        "https://www.youtube.com/watch?v=Vc_zled7zKs"
+      ]
+    },
+    "Additional_Resources": {
+      "Link": [
+        "https://phac-nml.github.io/mob-suite/",
+        "https://github.com/phac-nml/mob-suite/wiki"
+      ]
+    }
+  }
+}

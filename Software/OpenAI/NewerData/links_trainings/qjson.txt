@@ -1,0 +1,7 @@
+{
+  "qjson": {
+    "software_page": "https://qjson.sourceforge.io/",
+    "documentation_page": null,
+    "tutorial_materials": null
+  }
+}

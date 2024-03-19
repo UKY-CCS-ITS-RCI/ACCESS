@@ -1,0 +1,14 @@
+{
+    "software": "Q-Chem",
+    "resources": {
+        "softwareHomepage": "http://www.q-chem.com/",
+        "documentation": "http://www.q-chem.com/qchem-website/manual/index.html",
+        "tutorials": [
+            {
+                "title": "Q-Chem Tutorial",
+                "url": "https://sites.psu.edu/jiali/programs/q-chem-tutorial/"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

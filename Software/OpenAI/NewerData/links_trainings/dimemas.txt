@@ -1,0 +1,15 @@
+{
+  "software": "Dimemas",
+  "website": "https://tools.bsc.es/dimemas",
+  "documentation": [
+    {
+      "intro_doc": "https://tools.bsc.es/tools_manuals#Dimemas"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorial_first": "https://www.bsc.es/support/Dimemas%20Manual.pdf",
+      "unofficial_source": "https://insidehpc.com/2019/09/training-video-introduction-to-dimemas-performance-analysis-for-hpc/"
+    }
+  ]
+}

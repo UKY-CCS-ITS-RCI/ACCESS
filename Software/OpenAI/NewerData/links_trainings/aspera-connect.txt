@@ -1,0 +1,13 @@
+{
+  "Software": "Aspera Connect",
+  "Webpage": "https://www.ibm.com/products/aspera",
+  "Additional Links": 
+  {
+    "Documentation": "https://www.ibm.com/docs/en/aspera-connect/3.9.8",
+    "Training Materials":{
+      "Tutorial Link 1": "https://www.ibm.com/support/knowledgecenter/SSQDDM_3.9.8/Aspera_Connect/en/Client_Installation.html",
+      "Tutorial Link 2": "https://www.ibm.com/support/knowledgecenter/SSQDDM_3.9.8/Aspera_Connect/en/Using_the_Aspera_Connect_Progress_Bar.html",
+      "Tutorial Link 3": "https://www.ibm.com/docs/en/aspera-files/1.5.2?topic=users-using-aspera-connect"
+    }
+  }
+}

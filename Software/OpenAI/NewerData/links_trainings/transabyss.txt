@@ -1,0 +1,15 @@
+{
+    "software_name": "transabyss",
+    "software_URL": "https://www.bcgsc.ca/resources/software/transabyss",
+    "documentation_URL": "https://github.com/bcgsc/transabyss",
+    "tutorials_and_training_materials": [
+        {
+            "name": "transAByss User Guide",
+            "url": "http://www.bcgsc.ca/platform/bioinfo/software/transabyss/documentation"
+        },
+        {
+            "name": "transAByss Tutorial",
+            "url": "https://bioinformaticsonline.com/pages/view/105092/transabyss-de-novo-assembly-of-transcriptomes"
+        }
+    ]
+}

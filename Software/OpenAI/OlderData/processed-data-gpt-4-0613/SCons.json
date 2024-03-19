@@ -1,0 +1,12 @@
+{
+  "Software Name": "SCons",
+  "links": {
+    "software page": "https://www.scons.org/",
+    "documentation": "https://www.scons.org/doc/production/HTML/scons-user.html",
+    "tutorials": [
+      "https://www.scons.org/doc/production/HTML/scons-user/ch01s03",
+      "https://scons.org/tutorial.html",
+      "https://readthedocs.org/projects/ns-3-scons/"
+    ]
+  }
+}

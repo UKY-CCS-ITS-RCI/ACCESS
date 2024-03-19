@@ -1,0 +1,25 @@
+{
+  "software_name": "r-readr",
+  "software_url": "https://readr.tidyverse.org/",
+  "documentation_link": "https://readr.tidyverse.org/reference/readr-package.html",
+  "tutorial_links": [
+    {
+      "name": "Introduction to readr",
+      "url": "https://cran.r-project.org/web/packages/readr/vignettes/readr.html"
+    },
+    {
+      "name": "Data Import with readr Package in R",
+      "url": "https://rpubs.com/pjmurphy/293454"
+    }
+  ],
+  "related_links": [
+    {
+      "name": "Tidyverse Readr Package",
+      "url": "https://www.tidyverse.org/packages/"
+    },
+    {
+      "name": "Readr Package CRAN",
+      "url": "https://cran.r-project.org/package=readr"
+    }
+  ]
+}

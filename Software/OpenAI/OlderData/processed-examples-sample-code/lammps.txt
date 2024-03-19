@@ -1,0 +1,34 @@
+Use Case: Molecular dynamics simulation with LAMMPS
+
+Code details and examples:
+Sample input file (input.lammps):
+```
+# Sample LAMMPS input script for molecular dynamics simulation
+
+# Initialize simulation
+units metal
+dimension 3
+boundary p p p
+atom_style atomic
+
+# Create atoms
+lattice fcc 3.52
+region box block 0 10 0 10 0 10
+create_box 1 box
+create_atoms 1 box
+mass 1 12.01
+
+# Define interatomic potential
+pair_style eam/alloy
+pair_coeff * * Al99.eam.alloy Al
+
+# Run simulation
+velocity all create 300 123456
+fix 1 all nve
+run 1000
+```
+
+To run the simulation, use the following command:
+```
+lmp_serial -in input.lammps
+```

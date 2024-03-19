@@ -1,0 +1,22 @@
+{
+    "software": {
+        "name": "kmer-jellyfish",
+        "website": "http://www.genome.umd.edu/jellyfish.html",
+        "documentation": [
+            {
+                "type": "User Guide",
+                "url": "http://www.cbcb.umd.edu/software/jellyfish/README"
+            }
+        ],
+        "provided_tutorials_and_trainings": [
+            {
+                "type": "Tutorial",
+                "url": "http://bioinformaticsonline.com/book/content/jellyfish-k-mer-analysis-tutorial"
+            },
+            {
+                "type": "Paper",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2910970/"
+            }
+        ]
+    }
+}

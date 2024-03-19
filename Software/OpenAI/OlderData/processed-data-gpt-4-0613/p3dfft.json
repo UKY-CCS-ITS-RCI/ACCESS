@@ -1,0 +1,9 @@
+{
+  "Name": "P3DFFT",
+  "SoftwareURL": "http://www.p3dfft.net/",
+  "DocumentationURL": "http://www.p3dfft.net/doc.html",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://www.nics.tennessee.edu/files/workshop-files/p3dfft-Readme.txt",
+    "Tutorial_2_URL": "http://www.p3dfft.net/examples.html"
+  }
+}

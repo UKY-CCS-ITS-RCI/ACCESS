@@ -1,0 +1,19 @@
+{
+  "Software": "colossalai",
+  "Software_URL": "https://colossal-ai.readthedocs.io/en/latest/",
+  "Docs": [
+    {
+      "Doc_URL": "https://colossal-ai.readthedocs.io/en/latest/user_guide/"
+    }
+  ],
+  "Training": [
+    {
+      "Training_URL": "https://colossal-ai.readthedocs.io/en/latest/user_guide/training/"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Tutorial_URL": "https://colossal-ai.readthedocs.io/en/latest/tutorials/"
+    }
+  ]
+}

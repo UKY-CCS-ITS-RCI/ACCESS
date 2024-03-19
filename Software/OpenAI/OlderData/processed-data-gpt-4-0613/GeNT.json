@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GeNT": {
+      "MainPage": "https://www.keybyte.de/gent/",
+      "Documentation": "https://www.keybyte.de/gent/",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=ZifrYJzOj4k",
+        "https://www.keybyte.de/blog/how-to-use-gent-with-tornado/",
+        "https://www.npmjs.com/package/gent"
+      ]
+    }
+  }
+}

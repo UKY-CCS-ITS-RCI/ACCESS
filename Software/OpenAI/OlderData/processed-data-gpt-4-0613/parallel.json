@@ -1,0 +1,15 @@
+{
+  "Software": "Parallel",
+  "Website": "https://www.gnu.org/software/parallel/",
+  "Documentation": "https://www.gnu.org/software/parallel/manual/parallel.html",
+  "Tutorials": [
+    {
+      "Title": "Intro to Parallel Programming with GNU Parallel",
+      "Link": "https://joshpeak.net/posts/2019/intro-to-parallel-programming-with-gnu-parallel/"
+    },
+    {
+      "Title": "Using GNU Parallel For Quick, Scalable Shell Scripting",
+      "Link": "https://opensource.com/article/18/5/gnu-parallel"
+    }
+  ]
+}

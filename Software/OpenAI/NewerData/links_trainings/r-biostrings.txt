@@ -1,0 +1,15 @@
+{
+   "software":{
+      "name":"R-biostrings",
+      "website":"https://bioconductor.org/packages/release/bioc/html/Biostrings.html",
+      "documentation":"https://bioconductor.org/packages/release/bioc/manuals/Biostrings/man/Biostrings.pdf",
+      "tutorial_links":[
+         "http://178.62.224.73/Biostrings/Biostrings.html",
+         "https://www.bioconductor.org/help/course-materials/2005/BioC2005/Biostrings.pdf",
+         "https://bioconductor.statistik.tu-dortmund.de/packages/3.7/bioc/vignettes/Biostrings/inst/doc/Biostrings.pdf"
+      ],
+      "training_materials":[
+         "https://compgenomr.github.io/book/biostrings.html"
+      ]
+   }
+}

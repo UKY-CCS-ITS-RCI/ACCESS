@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Name": "snpgenie",
+    "Software_URL": "https://github.com/dportik/SNPgenie",
+    "Documentation_URL": "https://github.com/dportik/SNPgenie#detailed-user-guide",
+    "Training_And_Tutorial": [
+      {
+        "Name": "Usage Example",
+        "URL": "https://github.com/dportik/SNPgenie#usage-example"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ucx": {
+    "software_page": "https://www.openucx.org/",
+    "documentation": [
+      {
+        "url": "https://readthedocs.org/projects/ucx/"
+      }
+    ],
+    "training_materials": [
+      {
+        "url": "https://ucx-py.readthedocs.io/en/latest/"
+      },
+      {
+        "url": "https://github.com/hiroyuki-sato/ucx-examples"
+      }
+    ]
+  }
+}

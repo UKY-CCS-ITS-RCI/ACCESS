@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Highway": {
+      "MainPage": "https://github.com/google/highway",
+      "Documentation": "https://github.com/google/highway/blob/main/README.md",
+      "Tutorials": [
+        "https://github.com/google/highway",
+        "https://ai.googleblog.com/2020/10/introducing-highway-jpg-transcoding.html",
+        "https://www.youtube.com/watch?v=1kNG4quUyiY"
+      ]
+    }
+  }
+}

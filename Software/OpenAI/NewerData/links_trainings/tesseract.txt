@@ -1,0 +1,17 @@
+{
+  "software": "Tesseract",
+  "description": "An Optical Character Recognition (OCR) engine developed by Google",
+  "webURL": "https://github.com/tesseract-ocr/tesseract",
+  "resources": {
+    "documentation": {
+      "officialDocumentation": "https://tesseract-ocr.github.io/tessdoc/Home.html",
+      "wiki": "https://github.com/tesseract-ocr/tessdoc"
+    },
+    "tutorialsAndTraining": {
+      "tutorialsPoint": "https://www.tutorialspoint.com/tesseract-ocr/index.htm",
+      "pythonProgrammingTutorial": "https://pythonprogramming.net/ocr-tesseract-python/",
+      "pyImageSearch": "https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/",
+      "mediumTutorial": "https://medium.com/quantrium-tech/installing-and-using-tesseract-4-on-windows-10-4f7930313f82"
+    }
+  }
+}

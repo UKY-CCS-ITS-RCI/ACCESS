@@ -1,0 +1,19 @@
+{
+  "Software_name": "py-petsc4py",
+  "Details": [
+    {
+      "Software_page": "https://www.mcs.anl.gov/petsc/",
+      "Documentation": {
+        "User_manual": "https://petsc4py.readthedocs.io/en/stable/",
+        "API_reference": "https://petsc4py.readthedocs.io/en/latest/apiref/index.html"
+      },
+      "Training_and_Tutorials": [
+        {
+          "Tutorial_01": "https://www.mcs.anl.gov/petsc/tutorial/index.html",
+          "Tutorial_02": "https://jedbrown.org/files/20120223-PETSc.pdf",
+          "Online_Course": "https://www.coursera.org/lecture/hpc-python-introduction/petsc-for-python-petsc4py-vdUu1"
+        }
+      ]
+    }
+  ]
+}

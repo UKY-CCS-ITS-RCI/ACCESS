@@ -1,0 +1,19 @@
+{
+"name": "Abinit",
+"softwarePage": "https://www.abinit.org/",
+"documentation": "https://docs.abinit.org/",
+"tutorialMaterials": [
+    {
+        "name": "Abinit Tutorials",
+        "url": "https://docs.abinit.org/tutorial/"
+    },
+    {
+        "name": "Getting started with ABINIT",
+        "url": "https://docs.abinit.org/tutorial/base1/"
+    },
+    {
+        "name": "ABINIT Video Tutorials",
+        "url": "https://www.youtube.com/c/ABINIT/featured"
+    }
+  ]
+}

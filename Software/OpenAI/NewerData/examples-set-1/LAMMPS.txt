@@ -1,0 +1,46 @@
+Use Case: LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) is utilized for molecular dynamics simulations. It can model hard or soft, solid or fluid, single or multiple chemical species, particles that interact short or long range, particles with or without charge, etc.
+
+Code Details and Example:
+An example input script for LAMMPS might look something like these:
+
+Code:
+
+```
+# 3d Lennard-Jones melt
+
+units       lj
+atom_style  atomic
+
+lattice     fcc 0.8442
+region      box block 0 4 0 4 0 4
+create_box  1 box
+create_atoms 1 box
+mass        1 1.0
+
+velocity    all create 1.44 87287 loop geom
+
+pair_style  lj/cut 2.5
+pair_coeff  1 1 1.0 1.0 2.5
+
+neighbor    0.3 bin
+neigh_modify delay 0 every 20 check no
+
+fix         1 all nve
+
+dump        id all atom 50 dump.melt
+
+thermo      100
+thermo_modify temp all
+
+run         10000
+```
+
+This input creates a 3d Lennard-Jones melt, creates atoms, sets their velocity, define interactions, selects the molecular dynamics integrator and runs the simulation.
+
+Running Script:
+
+This input script is typically run using the command:
+```
+lmp_serial < in.melt
+```
+In this case, `lmp_serial` is the LAMMPS executable and `in.melt` is the script/ input file.

@@ -1,0 +1,12 @@
+{
+  "Software": {
+    "Name": "lerc",
+    "Link": "https://github.com/Esri/lerc",
+    "Documentation": "https://github.com/Esri/lerc/blob/master/Lerc/README.md",
+    "Tutorials": [
+      "https://developers.arcgis.com/cpp/sample-code/sample-tpk-lerc-read.htm",
+      "https://developers.arcgis.com/cpp/sample-code/sample-tpk-create.htm"
+    ],
+    "Training": "Not Found"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Software_Name": "util-linux",
+  "Software_page": "https://github.com/karelzak/util-linux",
+  "Sources": [
+    {
+      "Software_Documentation": "https://en.wikipedia.org/wiki/Util-linux",
+      "Tutorials_and_Training_Materials": [
+        "https://www.computerhope.com/unix/util-linux.htm",
+        "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/7.8_release_notes/bug_util-linux"
+      ]
+    }
+  ]
+}

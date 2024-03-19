@@ -1,0 +1,13 @@
+{
+    "name": "Miniconda3",
+    "software_page": "https://docs.conda.io/en/latest/miniconda.html",
+    "documentation": "https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html",
+    "tutorials": [
+        "https://conda.io/projects/conda/en/latest/user-guide/getting-started.html",
+        "https://www.youtube.com/watch?v=YJC6ldI3hWk"
+    ],
+    "additional_resources": [
+        "https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html",
+        "https://docs.anaconda.com/anaconda/user-guide/getting-started/"
+    ]
+}

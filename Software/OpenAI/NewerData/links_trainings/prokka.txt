@@ -1,0 +1,29 @@
+{
+  "name": "prokka",
+  "software_url": "https://www.vicbioinformatics.com/software.prokka.shtml",
+  "documentation": "https://github.com/tseemann/prokka",
+  "tutorials": [
+    {
+      "title": "Prokka: rapid prokaryotic genome annotation",
+      "url": "https://bioinformaticsworkbook.org/Appendix/Prokka/Prokka.html"
+    }, 
+    {
+      "title": "Prokka tutorial",
+      "url": "https://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/general-tutorial/tutorial.html"
+    },
+    {
+      "title": "Running Prokka",
+      "url": "https://metagenomics-workshop.readthedocs.io/en/latest/annotation/prokka.html"
+    }
+  ],
+  "training": [
+    {
+      "title": "Training on Running Prokka",
+      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/m metagenomics/tutorial.html"
+    },
+    {
+      "title": "Training on Bioinformatics with Prokka",
+      "url": "https://www.coursera.org/lecture/genome-sequencing/prokka-genome-annotation-J00qt"
+    }
+  ]
+}

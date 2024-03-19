@@ -1,0 +1,10 @@
+{
+  "Name": "OpenSYCL",
+  "SoftwareURL": "https://www.khronos.org/sycl/",
+  "DocumentationURL": "https://developer.codeplay.com/computecppce/latest/sycl-guide",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://developer.codeplay.com/computecppce/latest/overview",
+    "Tutorial_2_URL": "https://www.codeplay.com/portal/03-30-20-sycl-academy-a-free-learning-environment-for-iso-c-sycl",
+    "Tutorial_3_URL": "https://www.khronos.org/assets/uploads/developers/library/2019-china-tour/ComputeCpp-and-Sycl-in-Chinese_Sep19.pdf"
+  }
+}

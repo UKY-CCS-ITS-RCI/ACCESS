@@ -1,0 +1,23 @@
+{
+  "software_name": "torchvision",
+  "software_url": "https://pytorch.org/vision/",
+  "documentation_url": "https://pytorch.org/vision/stable/index.html",
+  "tutorial_materials": [
+    {
+      "tutorial_name": "PyTorch Tutorial: Deep Learning in Python",
+      "tutorial_url": "https://www.datacamp.com/community/tutorials/deep-learning-pytorch"
+    },
+    {
+      "tutorial_name": "Tutorial: Torchvision Object Detection Finetuning Tutorial",
+      "tutorial_url": "https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html"
+    },
+    {
+      "tutorial_name": "Introduction to PyTorch and using torchvision Transforms",
+      "tutorial_url": "https://medium.com/analytics-vidhya/introduction-to-pytorch-and-using-torchvision-transforms-12a2a285a6f6"
+    },
+    {
+      "tutorial_name": "Deep Learning with PyTorch: A 60 Minute Blitz",
+      "tutorial_url": "https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
+    }
+  ]
+}

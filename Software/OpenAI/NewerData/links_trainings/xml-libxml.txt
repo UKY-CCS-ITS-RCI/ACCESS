@@ -1,0 +1,19 @@
+{
+  "software": "XML-LibXML",
+  "software_url": "https://metacpan.org/pod/XML::LibXML",
+  "documentation_url": "https://metacpan.org/release/XML-LibXML",
+  "training_materials": [
+    {
+      "name": "XML-LibXML Tutorial",
+      "url": "http://grantm.github.io/perl-libxml-by-example/"
+    },
+    {
+      "name": "XML-LibXML by Example",
+      "url": "https://metacpan.org/pod/distribution/XML-LibXML/docs/libxml2-api.pod"
+    },
+    {
+      "name": "XML-LibXML Beginner's Guide",
+      "url": "http://www.kobesearch.com/perl/docs/XML-LibXML.html"
+    }
+  ]
+}

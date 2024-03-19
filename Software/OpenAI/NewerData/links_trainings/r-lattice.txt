@@ -1,0 +1,32 @@
+{
+  "Software Name": "r-lattice",
+  "Software Link": "https://cran.r-project.org/web/packages/lattice/index.html",
+  "Documentation": [
+    {
+      "Link": "https://cran.r-project.org/web/packages/lattice/lattice.pdf",
+      "Description": "R lattice Package PDF Manual"
+    },
+    {
+      "Link": "https://www.rdocumentation.org/packages/lattice/versions/0.20-44",
+      "Description": "R Documentation for lattice"
+    }
+  ],
+  "Tutorials And Training Materials": [
+    {
+      "Link": "https://www.guru99.com/r-lattice-package-tutorial.html",
+      "Description": "R Lattice Package Tutorial for Beginners"
+    },
+    {
+      "Link": "https://www.datacamp.com/community/tutorials/lattice-tutorial",
+      "Description": "DataCamp Tutorial on Lattice Package in R"
+    },
+    {
+      "Link": "https://www.statmethods.net/advgraphs/trellis.html",
+      "Description": "Introduction to Lattice Graphics"
+    },
+    {
+      "Link": "https://rpubs.com/rhuebner/HRPrec_lattice-intro",
+      "Description": "Rpubs Lattice: Multivariate Data"
+    }
+  ]
+}

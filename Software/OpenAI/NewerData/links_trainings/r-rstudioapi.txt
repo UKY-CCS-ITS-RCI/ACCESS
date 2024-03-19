@@ -1,0 +1,24 @@
+{
+  "softwareName": "r-rstudioapi",
+  "softwareURL": "https://cran.r-project.org/package=rstudioapi",
+  "documentationURL": [
+    {
+      "name": "Official Documentation",
+      "url": "https://rstudio.github.io/rstudioapi/"
+    },
+    {
+      "name": "CRAN Documentation",
+      "url": "https://cran.r-project.org/web/packages/rstudioapi/rstudioapi.pdf"
+    }
+  ],
+  "trainingAndTutorialURLs": [
+    {
+      "name": "Introduction to RStudioapi",
+      "url": "https://rsquaredacademy.com/blog/rstudio-api-an-introduction/"
+    },
+    {
+      "name": "Using the RStudio API",
+      "url": "https://www.rdocumentation.org/packages/rstudioapi/versions/0.11/topics/Using%20the%20RStudio%20API"
+    }
+  ]
+}

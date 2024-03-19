@@ -1,0 +1,15 @@
+{
+  "Software": "SURVIVOR",
+  "Software_URL": "https://github.com/fritzsedlazeck/SURVIVOR",
+  "Documentation": [
+    {
+      "URL": "https://github.com/fritzsedlazeck/SURVIVOR/wiki"
+    }
+  ],
+  "Training_Materials": [
+    {
+      "URL_1": "https://github.com/NCBI-Hackathons/SVcompare/wiki/3.-SURVIVOR",
+      "URL_2": "https://omictools.com/survivor-tool"
+    }
+  ]
+}

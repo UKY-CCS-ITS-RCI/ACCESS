@@ -1,0 +1,12 @@
+{
+  "software_name": "perftools-preload",
+  "software_page": "https://github.com/ARM-software/perf-tools",
+  "documentations": [
+    "https://github.com/ARM-software/perf-tools/blob/master/readme.md",
+    "https://man7.org/linux/man-pages/man1/perf.1.html"
+  ],
+  "training_materials": [
+    "https://www.arm.com/resources/software-enablement/heterogeneous-compute/developer-tools/for-server-and-hpc/perf-tools",
+    "https://www.youtube.com/watch?v=yS1sbHRfGzk"
+  ]
+}

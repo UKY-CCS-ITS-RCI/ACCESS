@@ -1,0 +1,28 @@
+{
+  "software": "libgeotiff",
+  "software_url": "http://geotiff.osgeo.org/",
+  "documentation": [
+    {
+      "name": "libgeotiff main documentation",
+      "url": "http://geotiff.osgeo.org/faq/"
+    },
+    {
+      "name": "libgeotiff API",
+      "url": "https://www.osgeo.org/projects/libgeotiff/"
+    }
+  ],
+  "tutorials_and_training": [
+    {
+      "name": "libgeotiff introduction",
+      "url": "https://www.youtube.com/watch?v=_zQvBvHtYE0"
+    },
+    {
+      "name": "libgeotiff tutorial by GISfile",
+      "url": "http://gisfile.com/blog/libgeotiff_en"
+    },
+    {
+      "name": "libgeotiff usage through QGIS",
+      "url": "https://docs.qgis.org/testing/en/docs/user_manual/working_with_raster/raster_data.html?highlight=libgeotiff"
+    }
+  ]
+}

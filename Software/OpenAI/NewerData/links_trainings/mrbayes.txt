@@ -1,0 +1,12 @@
+{
+    "Software": "mrbayes",
+    "Website": "http://mrbayes.sourceforge.net/",
+    "Documentation": "http://mrbayes.sourceforge.net/wiki/index.php/Manual",
+    "Training and tutorial materials": {
+        "Tutorial 1": "https://nbisweden.github.io/MrBayes/download.html",
+        "Tutorial 2": "http://mrbayes.sourceforge.net/wiki/index.php/Tutorials",
+        "Tutorial 3": "https://www.youtube.com/watch?v=J32OES92iFg",
+        "Tutorial 4": "https://bioinformatics-core-shared-training.github.io/mrbayes/notes/mrbayes_notes.html",
+        "Tutorial 5": "https://www.molecularecologist.com/2013/05/mrbayes-tutorial/"
+    }
+}

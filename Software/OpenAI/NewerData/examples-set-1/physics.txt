@@ -1,0 +1,33 @@
+Use Case: Computation of gravitational force between two bodies using the Scipy library in Python. 
+
+Code Details and Examples: 
+
+Required Libraries: `Scipy`
+
+Code:
+
+```Python
+import scipy.constants
+
+def compute_gravitational_force(m1, m2, r):
+    F = scipy.constants.G * (m1*m2)/(r**2)
+    return F
+
+# mass of earth in kg
+m1 = 5.972 * 10**24 
+# mass of moon in kg
+m2 = 7.348 * 10**22 
+# distance between the centers of the earth and the moon in meters
+r = 3.844 * 10**8 
+
+force = compute_gravitational_force(m1, m2, r)
+print('Gravitational force between the Earth and the Moon:', force, 'N')
+```
+
+To run this script, save it in a file named `gravitational_force.py`, open a terminal, navigate to the directory containing the script and run the command `python gravitational_force.py`.
+
+Input File: Not Required
+
+Input Format: Not Required
+
+Detailed Specifications: The values used in the script are the actual physical values representing the mass of the Earth, the mass of the Moon and the distance between the centers of the Earth and the Moon. The unit of the mass is in kilograms (kg) and the unit of distance is in meters (m).

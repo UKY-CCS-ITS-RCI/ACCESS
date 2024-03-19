@@ -1,0 +1,19 @@
+{
+  "Software": "Blender",
+  "Website": "https://www.blender.org/",
+  "Documentation": "https://docs.blender.org/manual/en/latest/",
+  "Tutorials and Training material": [
+    {
+      "Title": "Blender Guru Beginner Tutorial Series",
+      "Link": "https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLjEaoINr3zgHs8uzT3yqe4iHGfkCmMJ0P"
+    },
+    {
+      "Title": "Blender Fundamentals",
+      "Link": "https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qM9v3gE-"
+    },
+    {
+      "Title": "Blender 3D: Noob to Pro",
+      "Link": "https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ml-toolkit-cpu/keras": {
+    "softwarepage": "https://keras.io/",
+    "documentation": "https://keras.io/api/",
+    "tutorials": [
+      {
+        "name": "Keras Tutorial",
+        "URL": "https://keras.io/getting_started/intro_to_keras_for_engineers/"
+      },
+      {
+        "name": "TensorFlow and Keras Tutorial",
+        "URL": "https://www.tensorflow.org/tutorials/keras"
+      },
+      {
+        "name": "Keras Tutorial: Deep Learning in Python",
+        "URL": "https://www.datacamp.com/community/tutorials/deep-learning-python"
+      },
+      {
+        "name": "Keras Tutorial for Beginners: A Simple Example",
+        "URL": "https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/"
+      }
+    ],
+    "training": [
+      {
+        "name": "Intro to Deep Learning with Keras",
+        "URL": "https://www.udemy.com/course/deep-learning-with-keras/"
+      },
+      {
+        "name": "Deep Learning with Python and Keras",
+        "URL": "https://www.udemy.com/course/deeplearning/"
+      }
+    ]
+  }
+}

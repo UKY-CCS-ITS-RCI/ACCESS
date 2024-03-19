@@ -1,0 +1,11 @@
+{
+  "softwareName": "Hadoop",
+  "links": {
+    "softwarePage": "https://hadoop.apache.org/",
+    "documentation": "https://hadoop.apache.org/docs/current/",
+    "officialTutorial": "https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/SingleCluster.html",
+    "tutorial1": "https://www.tutorialspoint.com/hadoop",
+    "tutorial2": "https://www.guru99.com/bigdata-tutorial.html",
+    "tutorial3": "https://www.youtube.com/watch?v=1vbXmCrkz3Y"
+  }
+}

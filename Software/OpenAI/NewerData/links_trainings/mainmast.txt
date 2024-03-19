@@ -1,0 +1,15 @@
+{
+  "software_name": "mainmast",
+  "software_page": "https://pdbj.org/help/mast",
+  "documentation": "https://pdbj.org/help/mast-faq",
+  "tutorial_materials": [
+    {
+      "title": "MainMast Tutorials",
+      "URL": "https://pdbj.org/mine/summary?mode=reference&id=13c00ac688437b22e775d82b4e4eceed"
+    },
+    {
+      "title": "MainMast Documentation and User Guide",
+      "URL": "https://pdbj.org/help/mast-faq"
+    }
+  ]
+}

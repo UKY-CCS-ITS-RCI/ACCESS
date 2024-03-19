@@ -1,0 +1,13 @@
+{
+  "software_name": "ariba",
+  "software_url": "https://github.com/sanger-pathogens/ariba",
+  "documentation": [{
+      "url": "https://github.com/sanger-pathogens/ariba/wiki"  
+  }],
+  "tutorials": [{
+      "url": "https://github.com/sanger-pathogens/ariba/blob/master/README.md"
+  },{
+      "url": "https://www.sanger.ac.uk/tool/ariba/"
+  }],
+  "training_materials": [] 
+}

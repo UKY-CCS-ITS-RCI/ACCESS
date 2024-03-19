@@ -1,0 +1,21 @@
+{
+  "Scientific Software": {
+    "name": "Shapely",
+    "url": "https://pypi.org/project/Shapely/",
+    "documentation": "https://shapely.readthedocs.io/en/stable/manual.html",
+    "tutorials": [
+      {
+        "name": "Geospatial Data with Open Source Tools in Python - Introduction to Shapely",
+        "url": "https://automating-gis-processes.github.io/CSC18/lessons/L1/shapely.html"
+      },
+      {
+        "name": "Python GIS - Shapely",
+        "url": "http://kodu.ut.ee/~kmoch/geopython2020/L2/geometric-objects.html#Shapely---library-for-handling-geometries"
+      },
+      {
+        "name": "Geospatial processing with Shapely library",
+        "url": "https://www.earthdatascience.org/courses/use-data-open-source-python/intro-vectors-data-python/geospatial-python-geopandas/"
+      }
+    ]
+  }
+}

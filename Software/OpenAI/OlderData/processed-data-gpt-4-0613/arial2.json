@@ -1,0 +1,18 @@
+
+{
+  "aria2": {
+    "software_page": "https://aria2.github.io/",
+    "documentation": "https://aria2.github.io/manual/en/html/index.html",
+    "training_materials": [
+      {
+        "title": "aria2 - The ultra fast download utility",
+        "url": "https://www.tecmint.com/aria2-ultra-fast-commandline-download-utility-for-linux/"
+      },
+      {
+        "title": "aria2 download manager tutorial",
+        "url": "https://www.youtube.com/watch?v=IDkg3iOYm-E"
+      }
+    ]
+  }
+}
+

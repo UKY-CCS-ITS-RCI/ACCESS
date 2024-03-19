@@ -1,0 +1,10 @@
+{
+  "pdt": {
+    "software_page": "https://www.cs.uoregon.edu/research/pdt/",
+    "documentation": "https://www.cs.uoregon.edu/research/paracomp/pdtoolkit/doc/pdtoolkit-3.25/tau/pdt_users_guide/pdt_pages.html",
+    "tutorials_and_training": [
+      "https://www.researchgate.net/publication/220703199_The_program_database_toolkit_PDT",
+      "https://www.cs.uoregon.edu/research/tau/docs/newguide/"
+    ]
+  }
+}

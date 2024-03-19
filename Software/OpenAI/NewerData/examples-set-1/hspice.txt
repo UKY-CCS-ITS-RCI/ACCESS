@@ -1,0 +1,50 @@
+Use Case: 
+Use Hspice for simulating circuits and predicting the timing, power and area of the design. Hspice is a popular tool and often used to characterize digital cells like standard cells, memory bits, IOs etc., 
+
+Code details and examples: 
+
+Code:
+
+A simple example of an Hspice script for a Voltage Controlled Resistor is given below:
+
+```spice
+* Voltage Controlled Resistor example
+.subckt VCRplus input output control
+Gout input output control 0 1kOhm
+.ends VCRplus
+
+* Test circuit
+Vin1 input 0 DC 1V
+Vin2 control 0 DC 10V
+X1 input output control VCRplus
+Rout output 0 100kOhm
+
+.tran 0.01ms 25ms
+.end
+```
+
+This is a SPICE deck for Hspice, in which a user-defined voltage controlled resistor is described. A `G` element is a voltage controlled, dependent source. `X1` is a call to the VCR subcircuit with input and output nodes defined.
+
+The `.tran` line defines the transient analysis parameters, namely the printout interval (0.01 ms) and the stop time (25 ms).
+
+The `.end` command is required to indicates the end of the deck.
+
+Invoking Hspice on the command line using this spice deck (`vcr.sp`) as input will look like:
+
+```bash
+Based on your operating system, use one of these:
+$ hspice vcr.sp > vcr.out
+$ hspice64 vcr.sp > vcr.out
+```
+
+This passes the deck to Hspice and the output is piped into `vcr.out`.
+
+Once Hspice has been run, you can analyse the resulting waveforms using a tool like CosmosScope. You can tell Hspice to generate a `.tr0` file directly with the following command:
+
+```bash
+$ hspice vcr.sp -o vcr
+```
+
+This creates `vcr.tr0` which is a binary file readable by CosmosScope. It also creates `vcr.ic0` and `vcr.pa0` which are not typically used.
+
+Important note: This method assumes that the user has valid Hspice and CosmosScope licenses, and that these applications are correctly installed and configured on your computer.

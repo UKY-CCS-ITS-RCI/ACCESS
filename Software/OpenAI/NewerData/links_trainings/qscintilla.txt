@@ -1,0 +1,12 @@
+{
+  "software_name": "QScintilla",
+  "software_url": "https://www.riverbankcomputing.com/software/qscintilla/intro",
+  "documentation_urls": [
+    "https://www.riverbankcomputing.com/static/Docs/QScintilla/index.html"
+  ],
+  "tutorial_urls": [
+    "https://www.geekhideout.com/qscintilla.shtml",
+    "https://www.programmersought.com/article/82157956210/",
+    "https://github.com/baoboa/pyqt5/blob/master/examples/qscintilla/simple.py"
+  ]
+}

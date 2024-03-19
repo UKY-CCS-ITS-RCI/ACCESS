@@ -1,0 +1,13 @@
+{
+  "software": "ncl",
+  "software_page": "https://www.ncl.ucar.edu/",
+  "documentation": "https://www.ncl.ucar.edu/Document/",
+  "tutorials": [
+    {
+      "Introduction to NCL": "https://www.ncl.ucar.edu/Document/Manuals/NCL_User_Guide/Introduction.shtml",
+      "NCL Tutorials": "https://www.ncl.ucar.edu/Applications/tutorials.shtml",
+      "NCL Graphics Tutorials": "https://www.ncl.ucar.edu/Applications/graphics.shtml",
+      "NCL Data Manipulation Tutorials": "https://www.ncl.ucar.edu/Applications/datamanip.shtml"
+    }
+  ]
+}

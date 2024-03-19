@@ -1,0 +1,26 @@
+{
+  "SoftwareName": "eggnog-mapper",
+  "Details": [
+    {
+      "SoftwarePage": {
+        "URL": "http://eggnog-mapper.embl.de/"
+      },
+      "Documentation": {
+        "URL": "https://github.com/eggnogdb/eggnog-mapper/wiki"
+      },
+      "Tutorials": [
+        {
+          "URL": "https://eggnog-mapper.readthedocs.io/en/latest/overview.html"
+        },
+        {
+          "URL": "https://eggnog-mapper.readthedocs.io/en/latest/tutorial.html"
+        }
+      ],
+      "TrainingMaterials": [
+        {
+          "URL": "https://github.com/eggnogdb/eggnog-mapper/blob/master/TUTORIAL.md"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "software_list": [
+        {
+            "software_name": "Helpers",
+            "software_page": "https://github.com/helpers/handlebars-helpers",
+            "documentation": "https://github.com/helpers/handlebars-helpers#documentation",
+            "additional_resources": [
+                {
+                    "tutorial": "https://www.codeproject.com/Articles/1268523/Creating-Custom-Handlebars-js-Helpers",
+                    "training_material": "https://www.udemy.com/topic/handlebarsjs/"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "Software Name": "Intel IPP(Integrated Performance Primitives)",
+  "Software URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/ipp.html",
+  "Documentation": {
+    "Documentation URL": "https://software.intel.com/content/www/us/en/develop/documentation/ipp-dev-reference/top.html",
+    "Tutorials": [
+      {
+        "Tutorial Title": "Intel® Integrated Performance Primitives Developer Reference",
+        "Tutorial URL": "https://software.intel.com/content/www/us/en/develop/documentation/ipp-dev-reference/top.html"
+      },
+      {
+        "Tutorial Title": "Intel Integrated Performance Primitives (Intel IPP): Installation Guide",
+        "Tutorial URL": "https://software.intel.com/content/www/us/en/develop/articles/intel-integrated-performance-primitives-installation-guide.html"
+      }
+    ]
+    }
+}

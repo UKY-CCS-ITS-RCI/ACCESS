@@ -1,0 +1,12 @@
+{
+  "Software Name": "RstatsPackages",
+  "links": {
+    "software page": "https://cran.r-project.org/",
+    "documentation": "https://cran.r-project.org/manuals.html",
+    "tutorials": [
+      "https://www.datacamp.com/community/tutorials/r-packages-guide",
+      "https://www.r-project.org/doc/Rnews/Rnews_2002-3.pdf",
+      "https://cran.rstudio.com/"
+    ]
+  }
+}

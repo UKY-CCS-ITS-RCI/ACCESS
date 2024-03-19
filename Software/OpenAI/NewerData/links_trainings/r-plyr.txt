@@ -1,0 +1,22 @@
+{
+  "Software Name": "r-plyr",
+  "Software URL": "https://cran.r-project.org/web/packages/plyr/index.html",
+  "Documentation & Tutorials": [
+    {
+      "Tutorial Name": "Introduction to plyr",
+      "Tutorial URL": "http://plyr.had.co.nz/09-introduction.html"
+    },
+    {
+      "Tutorial Name": "Data Manipulation with R’s plyr Package",
+      "Tutorial URL": "https://www.datacamp.com/community/tutorials/dplyr-tutorial-data-manipulation-with-r"
+    },
+    {
+      "Tutorial Name": "R tutorial on the Apply family of Functions",
+      "Tutorial URL": "https://www.datacamp.com/community/tutorials/r-tutorial-apply-family"
+    },
+    {
+      "Documentation Name": "plyr documentation",
+      "Documentation URL": "https://www.rdocumentation.org/packages/plyr/versions/1.8.6"
+    }
+  ]
+}

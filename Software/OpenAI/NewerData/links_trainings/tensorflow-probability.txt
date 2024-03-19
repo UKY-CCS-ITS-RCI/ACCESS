@@ -1,0 +1,14 @@
+{
+  "tensorflow-probability": {
+    "software_page": "https://www.tensorflow.org/probability",
+    "documentation": "https://www.tensorflow.org/probability/api_docs",
+    "trainings_tutorials": [
+      {
+        "tutorial_1": "https://www.tensorflow.org/probability/examples",
+        "tutorial_2": "https://www.tensorflow.org/probability/overview",
+        "tutorial_3": "https://github.com/tensorflow/probability/blob/main/tensorflow_probability/examples/jupyter_notebooks/Understanding_TensorFlow_Distributions_Shapes.ipynb",
+        "youtube_tutorial": "https://www.youtube.com/watch?v=BrwKURU-wpk"
+      }
+    ]
+  }
+}

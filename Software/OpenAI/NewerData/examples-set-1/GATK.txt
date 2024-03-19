@@ -1,0 +1,39 @@
+Use Case: Genomic Analysis Toolkit
+
+GATK (Genome Analysis Toolkit) is a software package developed at the Broad Institute that allows researchers to analyze high-throughput genomic sequencing data. GATK includes several tools, for things like SNP calling, indel calling, and multiple types of analysis on genetic variation data surrounding the calls. 
+
+Code details and examples:
+
+Two primary input files for GATK are a reference genome file, usually a FASTA file, and a sequence mapping file, usually in BAM or SAM format. 
+
+1) Reference genome file (FASTA format)
+The reference genome file should contain the DNA sequences for chromosomes or any other large genomic regions. It typically looks like:
+
+```
+>chr1
+NNNNNNNNNNNNTAGCTATCGATCGNNNNNN...
+>chr2
+NNNNNNNNNNNNGTCAGCTCGATCGNNNNNN...
+```
+
+2) Sequence mapping file (BAM/SAM format)
+The sequence mapping files contain read sequences aligned to the reference genome. It typically looks like:
+
+```
+@SQ SN:chr1 LN:249250621
+@SQ SN:chr2 LN:243199373
+READ_1 163 chr1 10000 39 76M = 10076 -31 TTTTAAGGATATATTTAGGTTAGATAGGGTTTAGATAGAGTGAATTGGATTAATTTGGAGGA
+```
+
+Code example for a variant discovery in a single sample:
+
+```
+java -jar /path/to/gatk.jar HaplotypeCaller \
+    -R /path/to/reference/reference.fasta \
+    -I /path/to/sample/sample.bam \
+    -O /path/to/output/output.vcf
+```
+
+This command instructs GATK to run the HaplotypeCaller tool, taking the specified reference file '-R' and the input sample file '-I'. The output, a VCF file containing the predicted genomic variants, is specified with '-O'. Different tools within the GATK suite may require additional parameters or files to be specified. 
+
+Note: The path to java, gatk.jar, the reference genome, the bam file, and the output vcf all need to be specified correctly for the script to run. Java must be installed.

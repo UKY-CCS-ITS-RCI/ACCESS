@@ -1,0 +1,24 @@
+{
+  "Software_Name": "iompi",
+  "Software_page": "https://www.mpich.org/",
+  "Documentation": [
+    {
+      "name": "MPI (Message Passing Interface) Documentation",
+      "url": "https://www.mpich.org/static/docs/"
+    }
+  ],
+  "Tutorials": [
+    {
+      "name": "Message Passing with MPI",
+      "url": "https://www.cisl.ucar.edu/tutorials/message_passing_mpi.pdf"
+    },
+    {
+      "name": "MPI tutorial",
+      "url": "https://mpitutorial.com/tutorials/"
+    },
+    {
+      "name": "MPI Python tutorial",
+      "url": "https://nyu-cds.github.io/python-mpi/05-mpi4py/"
+    }
+  ]
+}

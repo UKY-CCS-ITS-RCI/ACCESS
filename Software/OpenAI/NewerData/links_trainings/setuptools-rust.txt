@@ -1,0 +1,29 @@
+{
+  "software": "setuptools-rust",
+  "software_url": "https://github.com/PyO3/setuptools-rust",
+  "documentation_url": "https://setuptools-rust.readthedocs.io/en/latest/",
+  "tutorial_materials": [
+    {
+        "name": "Python Rust FFI Guide",
+        "url": "https://bheisler.github.io/rust-python-ffi-guide/"
+    },
+    {
+      "name": "Tutorial: Extending Python 3 with Rust",
+      "url": "https://craig.is/writing/rust-ffi-omnibus/"
+    },
+    {
+      "name": "Embedding Rust in Python Tutorial",
+      "url": "https://www.lpalmieri.com/posts/2019-02-17-embedding-rust-in-python/"
+    }
+  ],
+  "additional_resources": [
+    {
+        "name": "Project Rust FFI examples",
+        "url": "https://github.com/novocaine/rust-cpython-example"
+    },
+    {
+      "name": "Python Rust Bridge Documentation",
+      "url": "https://pyo3.rs/v0.13.2/"
+    }
+  ]
+}

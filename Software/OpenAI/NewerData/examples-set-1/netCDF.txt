@@ -1,0 +1,39 @@
+Use Case: netCDF is a widely used set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. An example capitalizes on visualization of weather data.
+
+Code details and examples:
+
+Code: 
+
+```
+from netCDF4 import Dataset
+import numpy as np
+
+rootgrp = Dataset("test.nc", "w", format="NETCDF4")
+print(rootgrp.data_model)
+
+fcstgrp = rootgrp.createGroup("forecasts")
+fcstgrp1 = rootgrp.createGroup("/forecasts/model1")
+fcstgrp2 = rootgrp.createGroup("/forecasts/model2")
+
+print(rootgrp.groups)
+```
+
+Input File: test.nc (a NetCDF file)
+
+Specifications & Details:
+
+- An example of group hierarchy within the test.nc file
+
+Command to run: The pyhton file can be run from the terminal using `python filename.py` where filename is the name of the python file where the code is saved.
+
+This will print:
+
+```
+NETCDF4
+{'forecasts': <class 'netCDF4._netCDF4.Group'>
+group /forecasts:
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: model1, model2}
+```
+This output indicates that the "forecasts" group has two subgroups: "model1" and "model2". These groups can be used to organize related data within a netCDF file.

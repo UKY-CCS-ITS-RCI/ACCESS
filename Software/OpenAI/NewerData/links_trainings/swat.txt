@@ -1,0 +1,13 @@
+{
+  "swat": {
+    "softwarePage": "https://github.com/sassoftware/python-swat",
+    "documentation": [
+      "https://sassoftware.github.io/python-swat/"
+    ],
+    "tutorialMaterials": [
+      "https://sassoftware.github.io/python-swat/rst/getting-started.html",
+      "https://sassoftware.github.io/python-swat/notebooks/Data-Types-in-SWAT.html",
+      "https://sassoftware.github.io/python-swat/notebooks/CAS-Actions-in-SWAT.html"
+    ]
+  }
+}

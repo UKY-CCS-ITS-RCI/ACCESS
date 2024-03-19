@@ -1,0 +1,18 @@
+
+{
+  "Metis": {
+    "software_page": "http://glaros.dtc.umn.edu/gkhome/metis/metis/overview",
+    "documentation": "http://glaros.dtc.umn.edu/gkhome/fetch/sw/metis/manual.pdf",
+    "training_materials": [
+      {
+        "title": "Metis User’s Guide",
+        "url": "http://glaros.dtc.umn.edu/gkhome/fetch/sw/metis/manual.pdf"
+      },
+      {
+        "title": "Scotch and PT-Scotch Graph and Mesh/Hypergraph Partitioning Software",
+        "url": "http://glaros.dtc.umn.edu/gkhome/fetch/sw/scotch/manual121.pdf"
+      }
+    ]
+  }
+}
+

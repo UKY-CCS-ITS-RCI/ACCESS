@@ -1,0 +1,22 @@
+{
+    "software": {
+        "name": "Unison",
+        "software_URL": "https://www.cis.upenn.edu/~bcpierce/unison/",
+        "documentation": [
+            {
+                "title": "Unison Manual",
+                "URL": "https://www.cis.upenn.edu/~bcpierce/unison/download/releases/stable/unison-manual.html"
+            }
+        ],
+        "tutorials": [
+            {
+                "title": "Tutorial on Unison File Synchronizer",
+                "URL": "http://www.mikerubel.org/computers/unison/"
+            },
+            {
+                "title": "Unison Introduction",
+                "URL": "https://medium.com/@TomKeur/using-unison-for-syncing-data-7e56a9173ca8"
+            }
+        ]
+    }
+}

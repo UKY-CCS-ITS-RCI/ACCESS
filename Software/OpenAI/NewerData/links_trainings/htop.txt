@@ -1,0 +1,14 @@
+{
+  "software_name": "htop",
+  "website_link": "https://htop.dev/",
+  "additional_links": {
+    
+    "Documentation": "https://manpages.ubuntu.com/manpages/bionic/man1/htop.1.html",
+    "GitHub": "https://github.com/hishamhm/htop",
+    "Ubuntu Tutorial": "https://www.digitalocean.com/community/tutorials/how-to-use-top-netstat-du-other-tools-on-ubuntu-14-04",
+    "ArchLinux Tutorial": "https://wiki.archlinux.org/title/htop",
+    "Example usage": "https://linuxize.com/post/htop-command/",
+    "How to Install and Use htop": "https://tecadmin.net/install-htop-linux-process-monitoring-for-rhel-centos-fedora/",
+    "htop Explained": "https://peteris.rocks/blog/htop/"
+  }
+}

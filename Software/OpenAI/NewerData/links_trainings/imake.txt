@@ -1,0 +1,17 @@
+{
+  "Software_Name": "imake",
+  "Software_URL": "https://www.x.org/releases/X11R7.6/doc/man/man1/imake.1.xhtml",
+  "Documentation": [
+    {
+      "URL": "https://www.x.org/releases/X11R7.6/doc/man/man1/imake.1.xhtml"
+    },
+    {
+      "URL": "https://en.wikipedia.org/wiki/Imake"
+    }
+  ],
+  "Training_and_Tutorials": [
+    {
+      "URL": "https://www.youtube.com/watch?v=80andiScUkE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "nf-core": {
+    "Website": "https://nf-co.re/",
+    "Documentation": "https://nf-co.re/usage/documentation",
+    "Tutorials": [
+      "https://nf-co.re/usage/tutorials",
+      "https://nf-co.re/developers/adding_pipelines",
+      "https://nf-co.re/developers/sync"
+    ],
+    "Training": [
+      "https://nf-co.re/events/2021/phil-carpenter-webinar-videos-nf-core-modules-pipeline",
+      "https://nf-co.re/events/2021/nf-core-biohackathon-mar-2021"
+    ]
+  }
+}

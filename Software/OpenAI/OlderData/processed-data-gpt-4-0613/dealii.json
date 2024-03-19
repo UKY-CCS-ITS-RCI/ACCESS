@@ -1,0 +1,16 @@
+{
+  "software": {
+    "name": "dealii",
+    "softwareURL": "https://www.dealii.org/",
+    "documentationURL": "https://www.dealii.org/developer/doxygen/deal.II/index.html",
+    "tutorials": {
+      "step1": "https://www.dealii.org/developer/doxygen/deal.II/step_1.html",
+      "step2": "https://www.dealii.org/developer/doxygen/deal.II/step_2.html",
+      "tutoriallist": "https://www.dealii.org/9.0.0/doxygen/tutorial/tutorial.html"
+    },
+    "trainingMaterials": {
+      "trainingmaterial1": "https://www.math.colostate.edu/~bangerth/videos.html",
+      "trainingmaterial2": "https://www.math.colostate.edu/~bangerth/videos.676.22.5.html"
+    }
+  }
+}

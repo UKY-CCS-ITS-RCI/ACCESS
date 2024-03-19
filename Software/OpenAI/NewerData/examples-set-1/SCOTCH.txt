@@ -1,0 +1,67 @@
+Use Case: SCOTCH is a software package used in High-Performance Computing for implementing different computation decomposition methods and dynamics. It is used for creating partitions of graphs with high computational cost to improve the speed and effectiveness of computation.
+
+Code details and examples:
+
+The main inputs for SCOTCH are graph files. These are text files detailing the nodes and the edges of a graph.
+
+File format example:
+```
+0
+5 7 0 0 0
+0 2 1 3
+1 2 0 2
+2 3 0 1 3 4
+3 2 0 2
+4 1 2
+```
+
+In this file format, the first line is typically 0, the second line contains five stats about the graph: number of vertices, number of edges, ‘0’, ‘0’, and an optional fifth number that can be ‘0’ or ‘1’. From the third line on, each line gives the adjacency list of one vertex of the graph.
+
+Code:
+SCOTCH has various functions, but a basic function like SCOTCH_graphBuild can be used to create a graph. Below example represent sequential graph creation and viewing.
+
+```
+#include <stdio.h>
+#include <scotch.h>
+
+int main(void) {
+    SCOTCH_Graph graph;
+    SCOTCH_Num *vertTab, *edgeTab;
+    SCOTCH_Strat stradat;
+
+    SCOTCH_graphInit(&graph);
+
+    vertTab = new SCOTCH_Num[6]{0,2,4,7,9,10};
+    edgeTab = new SCOTCH_Num[10]{1,3,0,2,1,0,2,4,0,2};
+
+    SCOTCH_graphBuild(&graph, 
+                      0,      /* base value */
+                      5,      /* number of vertices */
+                      vertTab, 
+                      NULL,   /* vertendtab */
+                      NULL,   /* velotab */
+                      NULL,   /* blondtab */
+                      10,      /* number of edges */
+                      edgeTab,
+                      NULL);  /* edlotab */
+
+    SCOTCH_stratInit(&stradat);
+    SCOTCH_graphCheck(&graph);
+
+    printf("\nGraph data:\n");
+    SCOTCH_graphView(&graph, stdout);
+
+    SCOTCH_graphExit(&graph);
+    SCOTCH_stratExit(&stradat);
+
+    return 0;
+}
+```
+This program will output basic information about the graph.
+
+To build this code use below command:
+```gcc -I$SCOTCHDIR/include -L$SCOTCHDIR/lib -lscotch -lscotcherr main.c```
+Replace $SCOTCHDIR with the directory where SCOTCH is installed. 
+
+To run the compiled program use:
+```./a.out```

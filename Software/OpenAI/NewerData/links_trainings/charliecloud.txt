@@ -1,0 +1,24 @@
+{
+  "name": "Charliecloud",
+  "software_url": "https://hpc.github.io/charliecloud/",
+  "documentations": [
+    {
+      "name": "Documentation",
+      "url": "https://hpc.github.io/charliecloud/intro.html"
+    },
+    {
+      "name": "Github Repo",
+      "url": "https://github.com/hpc/charliecloud"
+    },
+  ],
+  "training_materials": [
+    {
+      "name": "Charliecloud Tutorial: Containers for HPC",
+      "url": "https://sea.ucar.edu/event/charliecloud-tutorial-containers-hpc"
+    },
+    {
+      "name": "Charliecloud User guide",
+      "url": "https://hpc.github.io/charliecloud/user-guide.html"
+    }
+  ]
+}

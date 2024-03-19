@@ -1,0 +1,12 @@
+{
+  "Software": "Attrdict",
+  "Website": "https://pypi.org/project/attrdict/",
+  "Documentation": "https://github.com/bcj/AttrDict",
+  "Tutorials_and_Training": [
+    {
+      "Official_Usage_Guide": "https://attrdict.readthedocs.io/en/stable/usage_guide.html",
+      "Python_Dictionary_Tutorial": "https://www.datacamp.com/community/tutorials/python-dictionary-tutorial",
+      "Python_Packages_Tutorial": "https://realpython.com/tutorials/packages-py/"
+    }
+  ]
+}

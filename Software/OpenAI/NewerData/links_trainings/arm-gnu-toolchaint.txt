@@ -1,0 +1,12 @@
+{
+  "arm-gnu-toolchain": {
+    "software_page": "https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain",
+    "documentation": "https://developer.arm.com/documentation/dui0742/latest",
+    "training_material": [
+      {
+        "title": "Using the GNU Compiler Collection",
+        "url": "https://developer.arm.com/documentation/dui0742/latest/Using-the-GNU-Compiler-Collection"
+      }
+    ]
+  }
+}

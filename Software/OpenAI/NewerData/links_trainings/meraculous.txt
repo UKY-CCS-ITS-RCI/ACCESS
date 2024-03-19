@@ -1,0 +1,12 @@
+{
+  "Software": "Meraculous",
+  "Link": "https://sourceforge.net/projects/meraculous20/",
+  "Documentation": [
+    "http://jgi.doe.gov/data-and-tools/meraculous/",
+    "https://jgi.doe.gov/wp-content/uploads/2014/03/Meraculous-User-Guide-v2.2.pdf"
+  ],
+  "Tutorials": [
+    "https://www.youtube.com/watch?v=kDOTdOHQ4QI",
+    "https://www.youtube.com/watch?v=3X2S2uJ0gUI"
+  ]
+}

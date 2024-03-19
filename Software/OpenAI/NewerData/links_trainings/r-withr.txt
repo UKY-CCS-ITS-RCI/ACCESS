@@ -1,0 +1,28 @@
+{
+  "software_name": "r-withr",
+  "software_page": "https://cran.r-project.org/web/packages/withr/index.html",
+  "documentation": [
+    {
+      "doc_name": "CRAN R",
+      "doc_link": "https://cran.r-project.org/web/packages/withr/withr.pdf"
+    },
+    {
+      "doc_name": "RDocumentation",
+      "doc_link": "https://www.rdocumentation.org/packages/withr/versions/2.4.2"
+    }
+  ],
+  "training_material": [
+    {
+      "training_name": "R - Beginners Guide To Web Scraping And Text Mining",
+      "training_link": "https://www.kdnuggets.com/2017/06/beginners-guide-web-scraping-text-mining-r.html"
+    },
+    {
+      "training_name": "An Introduction to R Graphics",
+      "training_link": "https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/00Index.html"
+    },
+    {
+      "training_name": "Introduction to dplyr for Faster Data Manipulation in R",
+      "training_link": "https://www.dataquest.io/blog/dplyr-tutorial/"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "ITK": {
+      "MainPage": "https://itk.org/",
+      "Documentation": "https://itk.org/Doxygen/html/index.html",
+      "Tutorials": [
+        "https://itk.org/ITKExamples/",
+        "https://www.youtube.com/watch?v=3Z27iZGgky0",
+        "https://itkpythonpackage.readthedocs.io/en/latest/Quick_start_guide.html"
+      ]
+    }
+  }
+}

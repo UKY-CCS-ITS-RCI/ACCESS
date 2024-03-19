@@ -1,0 +1,12 @@
+
+{
+  "NetCDF": {
+    "Software Page": "https://www.unidata.ucar.edu/software/netcdf/",
+    "Documentation": "https://www.unidata.ucar.edu/software/netcdf/documentation.html",
+    "Tutorials": [
+      "http://www.unidata.ucar.edu/software/netcdf/workshops/2012/tutorial.html",
+      "https://www.unidata.ucar.edu/software/netcdf/docs/netcdf_introduction.html"
+    ]
+  }
+}
+

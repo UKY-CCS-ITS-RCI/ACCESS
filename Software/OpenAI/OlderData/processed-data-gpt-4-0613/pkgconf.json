@@ -1,0 +1,14 @@
+{
+  "SoftwareName": "pkgconf",
+  "Homepage": "https://github.com/pkgconf/pkgconf",
+  "Resources": {
+    "Documentation": "https://github.com/pkgconf/pkgconf",
+    "Tutorials": [
+      "https://autotools.io/pkgconfig/",
+      "https://people.freedesktop.org/~dbn/pkg-config-guide.html"
+    ],
+    "TrainingMaterial": [
+      "https://autotools.io/pkgconfig/"
+    ]
+  }
+}

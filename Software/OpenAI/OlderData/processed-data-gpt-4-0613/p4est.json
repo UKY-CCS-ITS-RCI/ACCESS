@@ -1,0 +1,9 @@
+{
+  "Name": "P4EST",
+  "SoftwareURL": "http://www.p4est.org/",
+  "DocumentationURL": "http://www.p4est.org/api/",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://fenicsproject.org/olddocs/dolfin/1.3.0/python/demo/pde/advection-diffusion/python/documentation.html",
+    "Tutorial_2_URL": "https://scicomp.stackexchange.com/questions/17930/p4est-forest-refinement"
+  }
+}

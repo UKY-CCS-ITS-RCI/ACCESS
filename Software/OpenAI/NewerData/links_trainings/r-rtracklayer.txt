@@ -1,0 +1,15 @@
+{
+  "software": "r-rtracklayer",
+  "softwareURL": "https://bioconductor.org/packages/release/bioc/html/rtracklayer.html",
+  "documents": {
+    "documentationURL": "https://bioconductor.org/packages/release/bioc/vignettes/rtracklayer/inst/doc/rtracklayer.pdf",
+    "tutorialURLs": [
+        "http://www.bioconductor.org/help/course-materials/2017/BiocIntroNY/Practicals/annotation/GenomesAndGenomicRanges.html",
+        "https://www.bioconductor.org/help/course-materials/2008/SeattleOct08/labs/3-annotation/GenomeSpace.pdf"
+    ],
+    "trainingMaterials": [
+      "https://www.bioconductor.org/help/course-materials/2011/CSAMA2011/labs/2-Thursday/GenomicRanges/csama2011-rtracklayer-lab.pdf",
+      "https://bioconductor.org/packages/devel/bioc/vignettes/rtracklayer/inst/doc/rtracklayer.pdf"
+    ]
+  }
+}

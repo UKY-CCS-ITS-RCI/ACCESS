@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "Vim": 
+    { 
+      "URL": "https://www.vim.org/",
+      "Documentation": "https://vimhelp.org/",
+      "Tutorials": 
+      [
+        {
+          "Vim Tutorial": "https://www.tutorialspoint.com/vim/index.htm"
+        },
+        {
+          "Interactive Vim tutorial": "https://www.openvim.com/"
+        },
+        {
+          "Learn Vimscript the Hard Way": "http://learnvimscriptthehardway.stevelosh.com/"
+        },
+        {
+          "Vim Basics": "https://www.youtube.com/watch?v=ER5JYFKkYDg"
+        }
+      ]
+    }
+  }
+}

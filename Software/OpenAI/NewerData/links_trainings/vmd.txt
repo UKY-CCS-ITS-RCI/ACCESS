@@ -1,0 +1,24 @@
+{
+    "vmd": {
+        "software_page": "https://www.ks.uiuc.edu/Research/vmd/",
+        "documentation": [
+            {
+                "Installation Guide": "https://www.ks.uiuc.edu/Research/vmd/vmd-1.9.3/ug/node7.html"
+            },
+            {
+                "User's Guide": "https://www.ks.uiuc.edu/Research/vmd/vmd-1.9.3/ug/"
+            }
+        ],
+        "training_materials": [
+            {
+                "VMD Tutorial": "https://www.ks.uiuc.edu/Training/Tutorials/vmd-tutorial/tutorial-html/"
+            },
+            {
+                "VMD Quick Help": "https://www.ks.uiuc.edu/Development/MDTools/vmdminitut/"
+            },
+            {
+                "Advanced Scripting in VMD": "https://www.ks.uiuc.edu/Research/vmd/minitutorials/scripting/"
+            }
+        ]
+    }
+}

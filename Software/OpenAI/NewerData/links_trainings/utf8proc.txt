@@ -1,0 +1,16 @@
+{
+  "utf8proc": {
+    "softwarePage": "https://julialang.org/utf8proc/",
+    "documentationLink": "https://juliastrings.github.io/utf8proc.jl/stable/",
+    "additionalTrainingAndTutorialMaterials": [
+      {
+        "name": "Utf8Proc Tutorial",
+        "link": "https://youtu.be/z-MQl4DL_1E"
+      },
+      {
+        "name": "Utf8Proc GitHub Repository",
+        "link": "https://github.com/JuliaStrings/utf8proc"
+      }
+    ]
+  }
+}

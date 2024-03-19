@@ -1,0 +1,13 @@
+{
+  "software": "jupyterlab",
+  "url": "https://jupyterlab.readthedocs.io/en/stable/",
+  "documentation": [
+    "https://jupyterlab.readthedocs.io/en/stable/index.html"
+  ],
+  "tutorial": [
+    "https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html",
+    "https://www.dataquest.io/blog/jupyter-notebook-tutorial/",
+    "https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook",
+    "https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/"
+  ]
+}

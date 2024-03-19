@@ -1,0 +1,19 @@
+{
+    "name": "ParFlow",
+    "softwarePage": "https://parflow.org/",
+    "documentation": "https://parflow.org/documentation/",
+    "training_materials": [
+        {
+            "name": "ParFlow Basics Tutorial",
+            "link": "https://parflow.org/workshop-exercises/"
+        },
+        {
+            "name": "Tutorial on Running ParFlow",
+            "url": "https://github.com/parflow/parflow/blob/master/docs/Running.md"
+        },
+        {
+            "name": "GitHub Examples and Tutorial",
+            "url": "https://github.com/parflow/parflow/tree/master/examples"
+        }
+    ]
+}

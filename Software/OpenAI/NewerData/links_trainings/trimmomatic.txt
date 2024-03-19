@@ -1,0 +1,21 @@
+{
+   "trimmomatic":{
+      "software_name":"trimmomatic",
+      "software_link":"http://www.usadellab.org/cms/?page=trimmomatic",
+      "documentation_url":"http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf",
+      "tutorial_materials":[
+         {
+            "tutorial_name":"Trimmomatic tool: Tutorial",
+            "tutotial_url":"https://genomics.ed.ac.uk/services/trimmomatic-tutorial"
+         },
+         {
+            "tutorial_name":"Usage guide for Trimmomatic",
+            "tutorial_url":"https://informatics.fas.harvard.edu/usage-guide-for-trimmomatic.html"
+         },
+         {
+            "tutorial_name":"Advanced Tutorial for Trimmomatic",
+            "tutorial_url":"https://bioinformaticsworkbook.org/dataAnalysis/QualityControl/trimmingAdaptersWithTrimmomatic.html#gsc.tab=0"
+         }
+      ]
+   }
+}

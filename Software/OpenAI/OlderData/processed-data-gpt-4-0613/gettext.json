@@ -1,0 +1,10 @@
+{
+  "softwareName": "Gettext",
+  "links": {
+    "softwarePage": "https://www.gnu.org/software/gettext/",
+    "documentation": "https://www.gnu.org/software/gettext/manual/",
+    "tutorial1": "https://www.gnu.org/software/gettext/manual/gettext.html#Hello-World",
+    "tutorial2": "https://tutorialforlinux.com/docs/gettext-for-linux",
+    "tutorial3": "https://www.youtube.com/watch?v=INucnbJh6bI"
+  }
+}

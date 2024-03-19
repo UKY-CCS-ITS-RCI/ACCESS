@@ -1,0 +1,24 @@
+{
+  "software_name": "r-png",
+  "software_url": "https://cran.r-project.org/web/packages/png/index.html",
+  "documentation_links": [
+    {
+      "name": "CRAN r-png documentation",
+      "url": "https://cran.r-project.org/web/packages/png/png.pdf"
+    }
+  ],
+  "tutorials_and_training": [
+    {
+      "name": "How to use the r-png package",
+      "url": "https://www.rdocumentation.org/packages/png/versions/0.1-7/topics/png"
+    }, 
+    {
+      "name": "R Graphics Output - StackOverflow",
+      "url": "https://stackoverflow.com/questions/18406351/r-graphics-output-in-png-format"
+    },
+    {
+      "name": "R-mageddon: R png() Output — Roel Peters",
+      "url": "https://www.roelpeters.be/r-mageddon-r-png-output/"
+    }
+  ]
+}

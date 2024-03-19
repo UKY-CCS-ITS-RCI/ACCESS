@@ -1,0 +1,19 @@
+{
+  "software": "nsync",
+  "software_link": "https://github.com/google/nsync",
+  "documentation_link": "https://github.com/google/nsync/blob/master/README.md",
+  "tutorials_and_training": [
+    {
+      "tutorial_name": "Introduction to nsync",
+      "tutorial_link": "https://github.com/google/nsync/blob/master/README.md"
+    },
+    {
+      "tutorial_name": "nsync in-depth guide",
+      "tutorial_link": "https://github.com/google/nsync/tree/master/guide"
+    },
+    {
+      "tutorial_name": "Understanding nsync - YouTube",
+      "tutorial_link": "https://www.youtube.com/watch?v=s3Ilc5mzZiI"
+    }
+  ]
+}

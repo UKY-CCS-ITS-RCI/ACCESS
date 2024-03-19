@@ -1,0 +1,18 @@
+{
+  "Software Name": "r-quadprog",
+  "Software URL": "https://cran.r-project.org/web/packages/quadprog/index.html",
+  "Documentation": [
+    {
+      "URL": "https://cran.r-project.org/web/packages/quadprog/quadprog.pdf"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "https://stats.stackexchange.com/questions/354762/unconstrained-quadratic-programming-in-r-with-quadprog"
+    },
+    {
+      "URL": "https://data-flair.training/blogs/r-quadratic-programming/"
+    }
+  ],
+  "Additional Resources": []
+}

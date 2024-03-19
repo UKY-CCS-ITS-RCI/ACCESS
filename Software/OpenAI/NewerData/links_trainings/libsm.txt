@@ -1,0 +1,9 @@
+{
+  "SoftwareName": "libsm",
+  "SoftwareURL": "https://www.x.org/releases/current/doc/libSM/libSM.html",
+  "DocumentationURL": "https://www.x.org/releases/current/doc/libSM/libSM.html",
+  "TutorialLinks": [
+    "https://www.x.org/releases/current/doc/",
+    "https://www.x.org/wiki/guide/"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "software_name": "r-bumphunter",
+  "software_page": "https://www.bioconductor.org/packages/release/bioc/html/bumphunter.html",
+  "documentation_links": [
+    {
+      "link_name": "Bioconductor Documentation",
+      "url": "https://bioconductor.org/packages/release/bioc/html/bumphunter.html"
+    },
+    {
+      "link_name": "R Package Documentation",
+      "url": "https://rdrr.io/bioc/bumphunter/"
+    },
+    {
+      "link_name": "Package 'bumphunter' PDF Documentation",
+      "url": "https://www.bioconductor.org/packages/devel/bioc/manuals/bumphunter/man/bumphunter.pdf"
+    }
+  ],
+  "tutorial_materials": [
+    {
+      "link_name": "R Tutorial - Bumphunter for Beginners",
+      "url": "https://rpkgs.datanovia.com/bumphunter/"
+    },
+    {
+      "link_name": "Differential Methylation Analysis - Tutorial by Bioconductor",
+      "url": "https://bioconductor.org/packages/devel/bioc/vignettes/bumphunter/inst/doc/DiffMeth.pdf"
+    }
+  ]
+}

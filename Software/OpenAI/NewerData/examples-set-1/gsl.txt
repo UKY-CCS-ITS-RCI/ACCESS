@@ -1,0 +1,63 @@
+Use Case: Use GSL (GNU Scientific Library) for statistical analysis and mathematical computation.
+
+Code details and examples: Code
+
+The Harper Adams University provided a detailed guide on how to use GSL using an example in finding roots of non-linear equations. Here is a short modification of their code:
+
+```c
+#include <stdio.h>
+#include <gsl/gsl_errno.h>
+#include <gsl/gsl_math.h>
+#include <gsl/gsl_roots.h>
+
+struct quadratic_params
+{
+  double a, b, c;
+};
+
+double quadratic (double x, void *params)
+{
+  struct quadratic_params *p = 
+    (struct quadratic_params *) params;
+
+  double a = p->a;
+  double b = p->b;
+  double c = p->c;
+
+  return (a * x + b) * x + c;
+}
+
+int main (void)
+{
+  struct quadratic_params params = {1.0, -7.0,  12.0};
+
+  gsl_root_fsolver *s = gsl_root_fsolver_alloc (gsl_root_fsolver_brent);
+  gsl_function F = {&quadratic, &params};
+
+  double r = 9.0;
+  gsl_root_fsolver_set (s, &F, 2.0, 4.0);
+
+  printf ("using Brent's method: \n");
+
+  do
+    {
+      gsl_root_fsolver_iterate (s);
+      r = gsl_root_fsolver_root (s);
+      printf ("%5d x= %.7f \n", iter, r);
+    }
+  while (gsl_root_test_delta (r, 4.0,  0, 0.001) == GSL_CONTINUE);
+
+  printf ("Brent algorithm is successful");
+
+  gsl_root_fsolver_free (s);
+  return 0;
+}
+```
+This code tries to find the roots of the quadratic equation using the Brent method. Parameters are passed through the `quadratic_params` struct, and the `quadratic` function calculates the value accordingly. Results are iterated on the Brent's method until a root is found within the precision requirement. 
+
+Command to run it would be (given that 'gcc' is used to compile C files):
+```
+gcc -Wall -I/usr/local/include  -c -o root_finding.o root_finding.c
+gcc -L/usr/local/lib root_finding.o -lgsl -lgslcblas -lm
+```
+'root_finding' being a placeholder label for the name of the .c file containing your code.

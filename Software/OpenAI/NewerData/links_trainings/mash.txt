@@ -1,0 +1,15 @@
+{
+  "software": "mash",
+  "link": "https://mash.readthedocs.io/en/latest/",
+  "documentation": "https://mash.readthedocs.io/en/latest/tutorials.html",
+  "tutorials": [
+    {
+      "name": "Mash pairwise distance calculation tutorial",
+      "link": "https://www.youtube.com/watch?v=2OeIleTKJho"
+    },
+    {
+      "name": "Using Mash Screen for metagenomics analysis",
+      "link": "https://www.youtube.com/watch?v=NqqMjs-CbIc"
+    }
+  ]
+}

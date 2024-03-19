@@ -1,0 +1,36 @@
+{
+  "software_name": "R-SP",
+  "software_page_link": "https://cran.r-project.org/web/packages/Rcpp/index.html",
+  "documentation_links": [
+    {
+      "documentation_name": "Rcpp Documentation",
+      "documentation_link": "https://cran.r-project.org/web/packages/Rcpp/Rcpp.pdf"
+    }
+  ],
+  "training_materials": [
+    {
+      "tutorial_name": "Rcpp for Everyone",
+      "tutorial_link": "https://teuder.github.io/rcpp4everyone_en/"
+    },
+    {
+      "tutorial_name": "Rcpp Tutorial from R-bloggers",
+      "tutorial_link": "https://www.r-bloggers.com/2013/11/rcpp-tutorial/"
+    },
+    {
+      "tutorial_name": "Rcpp Tutorial from CRAN",
+      "tutorial_link": "https://cran.r-project.org/web/packages/Rcpp/vignettes/Rcpp-introduction.pdf"
+    },
+    {
+      "tutorial_name": "Rcpp Tutorial from DataCamp",
+      "tutorial_link": "https://www.datacamp.com/community/tutorials/tutorial-rcpp"
+    },
+    {
+      "tutorial_name": "Rcpp Quick Reference Guide",
+      "tutorial_link": "https://adv-r.hadley.nz/rcpp.html"
+    },
+    {
+      "tutorial_name": "Rcpp API Documentation",
+      "tutorial_link": "https://cran.r-project.org/web/packages/RcppAPI/index.html"
+    }
+  ]
+}

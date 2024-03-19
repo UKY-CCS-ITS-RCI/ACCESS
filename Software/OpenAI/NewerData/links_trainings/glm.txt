@@ -1,0 +1,20 @@
+{
+"Software": "glm",
+"URL": "https://cran.r-project.org/web/packages/glmnet/index.html",
+"Documentation": 
+[
+"https://www.jstatsoft.org/article/view/v033i01",
+"http://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html",
+"https://www.csie.ntu.edu.tw/~cjlin/liblinear/"
+],
+"Training":
+[
+"https://www.datacamp.com/community/tutorials/glm-r",
+"https://www.r-bloggers.com/2016/03/comprehensive-guide-to-logistic-regression-in-r/"
+],
+"Tutorials":
+[
+"https://www.datamentor.io/r-programming/logistic-regression/",
+"https://www.r-bloggers.com/2016/03/comprehensive-guide-to-logistic-regression-in-r/"
+]
+}

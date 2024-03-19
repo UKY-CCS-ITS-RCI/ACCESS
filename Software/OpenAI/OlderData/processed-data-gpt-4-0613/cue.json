@@ -1,0 +1,12 @@
+{
+    "cue": {
+        "Software Page": "https://cuelang.org/",
+        "Documentation": "https://cuelang.org/docs/",
+        "Training and Tutorial Materials": {
+            "Introduction to Cue": "https://cuelang.org/docs/integrations/kubernetes/",
+            "Cue Tour": "https://cuetour.glitch.me/",
+            "Cue GitHub": "https://github.com/cuelang/cue",
+            "Cue Language Guide": "https://cue.googlesource.com/cue/+/refs/heads/master/doc/tutorial/kubernetes/README.md"
+        }
+    }
+}

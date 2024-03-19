@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "x264",
+    "webpage": "https://www.videolan.org/developers/x264.html",
+    "documentation": "http://www.videolan.org/developers/x264.html#documentation",
+    "training_materials": [
+      {
+        "name": "x264 Encoding Guide",
+        "url": "https://trac.ffmpeg.org/wiki/Encode/H.264"
+      },
+      {
+        "name": "x264 Tutorial",
+        "url": "https://www.digital-digest.com/articles/x264_options_page1.html"
+      },
+      {
+        "name": "Basic guide to x264",
+        "url": "https://www.animemusicvideos.org/guides/avtech31/x264basic.html"
+      }
+    ]
+  }
+}

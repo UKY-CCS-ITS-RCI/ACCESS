@@ -1,0 +1,20 @@
+{
+  "software": {
+    "name": "Shorah",
+    "link": "https://github.com/cbg-ethz/shorah",
+    "documentation": {
+      "list": [
+        {
+          "link": "https://cbg-ethz.github.io/shorah/"
+        }
+      ],
+      "tutorials": {
+        "list": [
+          {
+            "link": "https://cbg-ethz.github.io/shorah/shorah.html"
+          }
+        ]
+      }
+    }
+  }
+}

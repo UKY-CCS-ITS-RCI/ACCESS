@@ -1,0 +1,15 @@
+{
+  "softwareName": "gcatools",
+  "softwareURL": "https://github.com/refresh-bio/gcatools",
+  "documentationURL": "https://github.com/refresh-bio/gcatools/blob/master/README.md",
+  "tutorials": [
+    {
+      "tutorialName": "Refresh Bio - Introduction to GCATools",
+      "tutorialURL": "https://refresh-bio.com/gcatools-introduction-video/"
+    },
+    {
+      "tutorialName": "GCATools User Guide",
+      "tutorialURL": "https://refresh-bio.com/gcatools-user-guide/"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "software": "rasterio",
+  "software_url": "https://rasterio.readthedocs.io/en/latest/",
+  "documentation_url": "https://rasterio.readthedocs.io/en/latest/",
+  "tutorial_materials": 
+    [
+      {
+        "tutorial_name": "Installation guide",
+        "tutorial_url": "https://rasterio.readthedocs.io/en/latest/installation.html"
+      },
+      {
+        "tutorial_name": "Rasterio user guide",
+        "tutorial_url": "https://rasterio.readthedocs.io/en/latest/quickstart.html"
+      },
+      {
+        "tutorial_name": "Tutorial on pythonhosted",
+        "tutorial_url": "https://pythonhosted.org/rasterio/"
+      },
+      {
+        "tutorial_name": "Python Rasterio tutorial by Automating GIS processes",
+        "tutorial_url": "https://automating-gis-processes.github.io/CSC18/lessons/L6/reading-raster.html"
+      },
+      {
+        "tutorial_name": "Examples & Tutorials in GIScience",
+        "tutorial_url": "https://gis.cri.fmach.it/rasterio/"
+      }
+    ]
+}

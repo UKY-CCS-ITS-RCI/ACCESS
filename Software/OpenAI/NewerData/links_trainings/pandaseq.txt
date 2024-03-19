@@ -1,0 +1,15 @@
+{
+  "Software Information": {
+    "Software Name": "PANDAseq",
+    "Software URL": "https://github.com/neufeld/pandaseq",
+    "Additional Resources": {
+      "Documentation": {
+        "URL Documentation": "https://github.com/neufeld/pandaseq/wiki"
+      },
+      "Training and Tutorial Materials": {
+        "PANDAseq Tutorial - Kansas State University": "https://web.mst.edu/~rhall/Mol_Ecology/Bold_Fontanella_Lab/BOLD_How_Tos_files/PANDAseq%20tutorial.pdf",
+      	"PANDAseq Installation and Usage": "https://scinet-course.github.io/hpc-intro-phage/01-pandaseq-usage/index.html"
+      }  
+    }
+  }
+}

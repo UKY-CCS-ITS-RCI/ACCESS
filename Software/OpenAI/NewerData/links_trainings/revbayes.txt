@@ -1,0 +1,14 @@
+{
+  "Software Name": "RevBayes",
+  "Software Type": "Scientific Software",
+  "Links": {
+    "Software Page": "https://revbayes.github.io/",
+    "Documentation": "https://revbayes.github.io/tutorials.html",
+    "Tutorials": {
+      "Tutorial 1": "https://revbayes.github.io/revbayes_site/tutorials",
+      "Tutorial 2": "https://revbayes.github.io/tutorial/",
+      "Tutorial 3": "https://www.youtube.com/watch?v=1Xl1rZZY22Q",
+      "Tutorial 4": "https://mrbayes.sourceforge.net/mb3.1_manual.pdf"
+    }
+  }
+}

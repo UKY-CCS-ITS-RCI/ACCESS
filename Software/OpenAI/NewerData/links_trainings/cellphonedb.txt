@@ -1,0 +1,25 @@
+{
+  "Software": "CellPhoneDB",
+  "Information": [
+    {
+      "name": "Main Site",
+      "url": "https://www.cellphonedb.org/"
+    },
+    {
+      "name": "GitHub Repository",
+      "url": "https://github.com/Teichlab/CellPhoneDB"
+    },
+    {
+      "name": "Documentation",
+      "url": "https://www.cellphonedb.org/documentation"
+    },
+    {
+      "name": "Tutorial",
+      "url": "https://github.com/Teichlab/SpatialTranscriptomics/blob/master/CellPhoneDB/CellPhoneDB.md"
+    },
+    {
+      "name": "Additional Tutorial",
+      "url": "https://lifebit.gitbook.io/cloudos/data-analysis-tutorials/available-tutorials/cellphone-db"
+    }
+  ]
+}

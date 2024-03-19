@@ -1,0 +1,20 @@
+{
+  "Software": "ffnvcodec",
+  "Software_URL": "https://github.com/FFmpeg/nv-codec-headers",
+  "Documentation": [
+    {
+      "URL": "https://developer.nvidia.com/nvidia-video-codec-sdk"
+    },
+    {
+      "URL": "https://docs.nvidia.com/video-technologies/video-codec-sdk/nvdec-video-decoder-api-prog-guide/"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "https://developer.nvidia.com/blog/nvidia-ffmpeg-transcoding-guide/"
+    },
+    {
+      "URL": "https://developer.nvidia.com/nvidia-video-codec-sdk#getting_started"
+    }
+  ]
+}

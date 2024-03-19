@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "PETSc",
+  "Homepage": "https://www.mcs.anl.gov/petsc/",
+  "Resources": {
+    "Documentation": "https://www.mcs.anl.gov/petsc/documentation/index.html",
+    "Tutorials": [
+      "https://www.mcs.anl.gov/petsc/documentation/tutorials/",
+      "https://www.mcs.anl.gov/petsc/documentation/faq.html"
+    ],
+    "TrainingMaterial": [
+      "https://www.mcs.anl.gov/petsc/documentation/installation.html",
+      "https://www.mcs.anl.gov/petsc/documentation/tutorial.html"
+    ]
+  }
+}

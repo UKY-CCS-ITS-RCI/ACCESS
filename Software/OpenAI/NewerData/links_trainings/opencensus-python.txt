@@ -1,0 +1,28 @@
+{
+  "software": "opencensus-python",
+  "main_url": "https://github.com/census-instrumentation/opencensus-python",
+  "documentation": "https://opencensus.io/docs/introduction/python/",
+  "tutorial_materials": 
+  [
+    {
+      "name": "Opencensus Python Tracing Documentation",
+      "url": "https://opencensus.io/tracing"
+    },
+    {
+      "name": "Opencensus Python Stats Documentation",
+      "url": "https://opencensus.io/stats"
+    },
+    {
+      "name": "Opencensus Getting Started",
+      "url": "https://opencensus.io/quickstart/python/tracing/"
+    },
+    {
+      "name": "Opencensus Python SDK Documentation on GitHub",
+      "url": "https://github.com/open-telemetry/opentelemetry-python"
+    },
+    {
+      "name": "Opencensus Python Tutorial on Google Cloud",
+      "url": "https://cloud.google.com/trace/docs/setup/python"
+    }
+  ]
+}

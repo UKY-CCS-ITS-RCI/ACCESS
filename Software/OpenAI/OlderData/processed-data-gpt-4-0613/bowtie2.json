@@ -1,0 +1,10 @@
+{
+    "Software": "Bowtie 2",
+    "Website": "http://bowtie-bio.sourceforge.net/bowtie2/index.shtml",
+    "Documentation": "http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml",
+    "Tutorial_and_Training": [
+        "https://bio.tools/tutorials/bowtie2/",
+        "https://www.youtube.com/watch?v=BdOdDLVgTXY",
+        "https://www.youtube.com/watch?v=Z3AXLWfLXdI"
+    ]
+}

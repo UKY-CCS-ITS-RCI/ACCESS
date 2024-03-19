@@ -1,0 +1,13 @@
+{
+  "r-scales": {
+    "softwarePage": "https://cran.r-project.org/web/packages/scales/index.html",
+    "documentation": [
+      "https://cran.r-project.org/web/packages/scales/scales.pdf"
+    ],
+    "trainingMaterials": [
+      "https://www.rdocumentation.org/packages/scales",
+      "https://r4ds.had.co.nz/scales.html",
+      "https://r-graphics.org/recipe-axes-change-scale"
+    ]
+  }
+}

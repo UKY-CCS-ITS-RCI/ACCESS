@@ -1,0 +1,11 @@
+{
+  "software_name": "r-illuminaio",
+  "software_page": "https://bioconductor.org/packages/release/bioc/html/illuminaio.html",
+  "additional_links": {
+    "documentation": "https://bioconductor.org/packages/release/bioc/manuals/illuminaio/man/illuminaio.pdf",
+    "tutorials": [
+      "https://www.bioconductor.org/help/course-materials/2017/CSAMA/labs/1-tuesday/lab-04-hts-intro/hts-intro.nb.html",
+      "https://bioconductor.org/packages/3.7/bioc/vignettes/illuminaio/inst/doc/ScanningFiles.pdf"
+    ]
+  }
+}

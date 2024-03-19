@@ -1,0 +1,17 @@
+{
+  "SoftwareName": "Trax",
+  "SoftwareURL": "https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/trax",
+  "Documentation": [{
+    "DocURL": "https://trax-ml.readthedocs.io/en/latest/"
+  }],
+  "TrainingMaterials": [
+    {
+      "MaterialName": "Intro_to_Trax_Colab",
+      "MaterialURL": "https://github.com/google/trax/blob/master/trax/intro.ipynb"
+    },
+    {
+      "MaterialName": "Trax_tutorials_on_Tensorflow",
+      "MaterialURL": "https://tensorflow.google.cn/tensor2tensor/tutorials/trax.html"
+    }
+  ]
+}

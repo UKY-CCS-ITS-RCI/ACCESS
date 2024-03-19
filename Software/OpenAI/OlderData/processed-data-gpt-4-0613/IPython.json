@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "IPython": {
+      "MainPage": "https://ipython.org/",
+      "Documentation": "https://ipython.readthedocs.io/en/stable/",
+      "Tutorials": [
+        "https://www.codecademy.com/articles/how-to-use-ipython",
+        "https://www.youtube.com/watch?v=2eCHD6f_phE",
+        "https://matplotlib.org/users/shell.html"
+      ]
+    }
+  }
+}

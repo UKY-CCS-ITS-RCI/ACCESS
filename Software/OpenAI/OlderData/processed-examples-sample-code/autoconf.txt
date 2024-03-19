@@ -1,0 +1,17 @@
+Use Case: Generate configure script for a software project
+
+Code details and examples:
+Input file: configure.ac
+```
+AC_INIT([hello], [1.0], [bug-hello@example.com])
+AM_INIT_AUTOMAKE
+AC_CONFIG_SRCDIR([src/main.c])
+AC_CONFIG_HEADERS([config.h])
+AC_PROG_CC
+AC_OUTPUT
+```
+
+Command to generate configure script:
+```
+autoconf
+```

@@ -1,0 +1,10 @@
+{
+  "software": "mamba",
+  "link": "https://github.com/mamba-org/mamba",
+  "documentation": "https://mamba.readthedocs.io/en/latest/",
+  "tutorials_and_training_materials": [
+    "https://mamba.readthedocs.io/en/latest/getting_started.html",
+    "https://www.youtube.com/watch?v=zjsJbFutAeE",
+    "https://github.com/mamba-org/mamba/blob/master/README.md"
+  ]
+}

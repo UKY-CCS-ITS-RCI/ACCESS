@@ -1,0 +1,54 @@
+{
+  "{ 'software_list': 
+    [
+      {
+        'name': 'ROOT',
+        'url': 'https://root.cern/',
+        'documentation': 'https://root.cern/manual/',
+        'tutorials': ['https://root.cern/tutorials/', 'https://www.youtube.com/watch?v=_93CXTt2K20']
+      },
+      {
+        'name': 'gcc',
+        'url': 'https://gcc.gnu.org/',
+        'documentation': 'https://gcc.gnu.org/onlinedocs/',
+        'tutorials': ['https://www.youtube.com/watch?v=3jdz_OYTqvM']
+      },
+      {
+        'name': 'NumPy',
+        'url': 'https://numpy.org/',
+        'documentation': 'https://numpy.org/doc/stable/',
+        'tutorials': ['https://numpy.org/learn/']
+      },
+      {
+        'name': 'Mesa',
+        'url': 'http://mesa.sourceforge.net/',
+        'documentation': 'http://mesa.sourceforge.net/docs.html',
+        'tutorials': ['https://en.wikibooks.org/wiki/Mesa_3D']
+      },
+      {
+        'name': 'Bioconductor',
+        'url': 'https://www.bioconductor.org/',
+        'documentation': 'https://www.bioconductor.org/help/documentation/',
+        'tutorials': ['https://www.bioconductor.org/help/course-materials/', 'https://master.bioconductor.org/help/workflows/']
+      },
+      {
+        'name': 'OpenMPI',
+        'url': 'https://www.open-mpi.org/',
+        'documentation': 'https://www.open-mpi.org/doc/',
+        'tutorials': ['https://www.open-mpi.org/faq/', 'https://www.mcs.anl.gov/research/projects/mpi/tutorial/mpiintro.html']
+      },
+      {
+        'name': 'MATLAB',
+        'url': 'https://www.mathworks.com/products/matlab.html',
+        'documentation': 'https://www.mathworks.com/help/matlab/',
+        'tutorials': ['https://www.mathworks.com/learn/tutorials/matlab-onramp.html', 'https://www.coursera.org/learn/matlab']
+      },
+      {
+        'name': 'conda',
+        'url': 'https://docs.conda.io/en/latest/',
+        'documentation': 'https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html',
+        'tutorials': ['https://conda.io/projects/conda/en/latest/user-guide/tutorials/index.html']
+      }
+    ]
+  }"
+}

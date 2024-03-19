@@ -1,0 +1,42 @@
+Use Case: Developing a graphical user interface for a desktop application.
+
+Code details and examples:
+
+Code: 
+
+```python
+import gi
+
+gi.require_version("Gtk", "4.0")
+
+from gi.repository import Gtk
+
+class MyWindow(Gtk.Window):
+    def __init__(self):
+        Gtk.Window.__init__(self, title = "Hello World")
+
+        self.button = Gtk.Button(label = "Click Here")
+        self.button.connect("clicked", self.on_button_clicked)
+
+        self.add(self.button)
+    
+    def on_button_clicked(self, widget):
+        print("Hello World")
+
+win = MyWindow()
+win.connect("destroy", Gtk.main_quit)
+win.show_all()
+
+Gtk.main()
+```
+
+This is a Python script that utilizes the GTK+ 4 toolkit to create a simple graphical user interface. 
+
+You can run the script with the following command in the terminal:
+```python
+python3 myfile.py
+```
+
+The example shown above is a script of a simple GUI having just a button with text "Click Here". When you click the button, it prints "Hello World" in the console.
+
+There are no input files required. The specifications of the application are defined within the script itself.

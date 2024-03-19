@@ -1,0 +1,13 @@
+{
+  "qchem": {
+    "software_page": "http://www.q-chem.com/",
+    "documentation_links": [
+      "http://www.q-chem.com/qchem-website/manual/qchem50_manual/overview.html"
+    ],
+    "training_and_tutorial_materials": [
+      "https://www.q-chem.com/qchem-website/resource/qchem_tutorials.html",
+      "https://sites.google.com/site/compchemwiki/other-software/q-chem",
+      "https://www.youtube.com/watch?v=A7gGeFEa9yE"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "Rising": {
+        "software_page": "https://pypi.org/project/rising/",
+        "documentation": "https://rising.readthedocs.io/",
+        "training_tutorials": [
+            "https://github.com/PhoenixDL/rising/blob/main/examples/README.md",
+            "https://github.com/PhoenixDL/rising/tree/main/examples",
+            "https://rising.readthedocs.io/en/latest/tutorial.html"
+        ]
+    }
+}

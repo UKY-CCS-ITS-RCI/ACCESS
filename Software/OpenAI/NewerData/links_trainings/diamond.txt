@@ -1,0 +1,12 @@
+{
+  "software": "diamond",
+  "home_page": "https://github.com/bbuchfink/diamond",
+  "doc_link": "http://www.diamondsearch.org/index.php",
+  "tutorial_links": [
+    {
+      "tutorial_1": "http://www.diamondsearch.org/index.php?include=tutorial",
+      "tutorial_2": "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/blast-2-0-tutorial/",
+      "tutorial_3": "https://informatics.fas.harvard.edu/blast-for-cluster-and-cloud.html"
+    }
+  ]
+}

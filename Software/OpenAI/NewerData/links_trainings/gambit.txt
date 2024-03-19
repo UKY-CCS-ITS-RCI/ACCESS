@@ -1,0 +1,15 @@
+{
+  "software_name": "Gambit",
+  "official_website": "http://www.gambit-project.org/",
+  "software_doc_url": "http://www.gambit-project.org/doc.html",
+  "training_materials": [
+    {
+      "title": "Gambit: Software for Game Theory",
+      "url": "https://www.youtube.com/watch?v=OgO1gpXSUzU"
+    },
+    {
+      "title": "Gambit tutorial",
+      "url": "http://econweb.ucsd.edu/~jsobel/172aw02/gambit.pdf"
+    }
+  ]
+}

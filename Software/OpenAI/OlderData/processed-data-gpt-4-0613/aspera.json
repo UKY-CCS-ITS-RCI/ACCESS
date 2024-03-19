@@ -1,0 +1,17 @@
+
+{
+  "Aspera": {
+    "software_page": "https://www.ibm.com/products/aspera",
+    "documentation": "https://www.ibm.com/support/knowledgecenter/SSBS6K/aspera/welcome.html",
+    "training_materials": [
+      {
+        "title": "IBM Aspera on Cloud Training",
+        "url": "https://www.globalknowledge.com/us-en/course/181922/ibm-aspera-on-cloud/"
+      },
+      {
+        "title": "IBM Aspera High-Speed Transfer Server (v3.9.6) Administration",
+        "url": "https://www.exitcertified.com/training/ibm/aspera/ibm-aspera-high-speed-transfer-server-v3-9-6-administration-60423-detail.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "remora": {
+    "softwarePage": "https://github.com/TACC/remora",
+    "documentation": "https://github.com/TACC/remora#quick-start",
+    "tutorials": [
+      "https://hpc.nih.gov/apps/remora.html",
+      "https://www.xsede.org/for-users/remora"
+    ],
+    "training": [
+      "https://proteusmaster.urcf.drexel.edu/urcfwiki/index.php/Remora_User_Guide",
+      "https://portal.tacc.utexas.edu/user-guides/stampede2#remora"
+    ]
+  }
+}

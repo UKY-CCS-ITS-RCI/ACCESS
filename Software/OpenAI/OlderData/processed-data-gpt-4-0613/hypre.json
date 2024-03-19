@@ -1,0 +1,22 @@
+{
+  "Software Name": "hypre",
+  "Software Page": "https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods",
+  "Documentation": {
+    "Name": "hypre Reference Manual",
+    "URL": "https://computation.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods/hypre-reference-manual"
+  },
+  "Tutorials": [
+    {
+      "Name": "hypre Tutorial on Read the Docs",
+      "URL": "https://hypre.readthedocs.io/en/latest/"
+    },
+    {
+      "Name": "HYPRE Basic Tutorial",
+      "URL": "https://www.youtube.com/watch?v=pzj8Hm_RnMY"
+    },
+    {
+      "Name": "Advanced Tutorial on HYPRE using PETSc",
+      "URL": "https://www.mcs.anl.gov/petsc/documentation/hypre.html"
+    }
+  ]
+}

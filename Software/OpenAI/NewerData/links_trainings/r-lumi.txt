@@ -1,0 +1,24 @@
+{
+    "software": "r-lumi",
+    "softwareURL": "https://bioconductor.org/packages/release/bioc/html/lumi.html",
+    "documents": [
+        {
+            "documentName": "PDF Reference Manual",
+            "documentURL": "https://bioconductor.riken.jp/packages/3.1/bioc/manuals/lumi/man/lumi.pdf"
+        },
+        {
+            "documentName": "lumi Package Vignette",
+            "documentURL": "https://www.bioconductor.org/packages/devel/bioc/vignettes/lumi/inst/doc/lumi.pdf"
+        }
+    ],
+    "tutorials": [
+        {
+            "tutorialName": "Getting started with lumi package",
+            "tutorialURL": "http://www.academia.edu/download/3635966/lumitutorial.pdf"
+        },
+        {
+            "tutorialName": "Illumina Microarray Data Analysis using the Lumi package",
+            "tutorialURL": "http://manuals.bioinformatics.ucr.edu/home/R_BioCondManuals/LumiTutorial_IlluMicroArrDataAna"
+        }
+    ]
+}

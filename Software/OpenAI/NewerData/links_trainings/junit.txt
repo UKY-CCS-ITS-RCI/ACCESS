@@ -1,0 +1,12 @@
+{
+ "junit": {
+    "software_page": "https://junit.org/junit5/",
+    "documentation": "https://junit.org/junit5/docs/current/user-guide/",
+    "tutorial_and_training_materials": [
+      "https://junit.org/junit5/docs/current/user-guide/#writing-tests",
+      "https://www.tutorialspoint.com/junit/index.htm",
+      "https://www.vogella.com/tutorials/JUnit/article.html",
+      "https://www.baeldung.com/junit-5"
+    ]
+  }
+}

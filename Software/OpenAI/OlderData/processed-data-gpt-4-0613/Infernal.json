@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Infernal": {
+      "MainPage": "http://eddylab.org/infernal/",
+      "Documentation": "http://infernal.janelia.org/infernal-manual-1.1rc4/infernal-manual.html",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=z0xH-BTCWuQ",
+        "https://bix.ucsd.edu/INFERNAL/1/Infernal.html",
+        "https://evosite3d.org/evoinference/wiki/doku.php?id=infernal"
+      ]
+    }
+  }
+}

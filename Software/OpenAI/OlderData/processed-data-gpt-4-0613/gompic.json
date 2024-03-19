@@ -1,0 +1,9 @@
+{
+  "softwareName": "gompiC",
+  "links": {
+    "softwarePage": "https://www.open-mpi.org/", // gompiC is not a software, but a toolchain used in HPC, with OpenMPI being one of its components
+    "documentation": "https://www.open-mpi.org/doc/current/",
+    "tutorial1": "https://www.open-mpi.org/faq/?category=running",
+    "tutorial2": "https://www.open-mpi.org/faq/?category=building"
+  }
+}

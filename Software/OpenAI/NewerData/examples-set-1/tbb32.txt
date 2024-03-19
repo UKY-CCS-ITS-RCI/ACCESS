@@ -1,0 +1,41 @@
+Use Case: TBB (Threading Building Blocks) is a widely used C++ library for shared-memory parallel programming and heterogeneous computing. It is frequently used for tasks that need to be executed concurrently, such as in image and video processing.
+
+Code details and examples:
+
+Code:
+```cpp
+#include "tbb/parallel_invoke.h"
+#include <cstdlib>
+#include <iostream>
+
+using namespace std;
+using namespace tbb;
+
+void fibonacci(int n, int& result) {
+  if (n < 2)
+    result = n;
+  else {
+    int x, y;
+    parallel_invoke([&]{fibonacci(n - 1, x);}, [&]{fibonacci(n - 2, y);});
+    result = x + y;
+  }
+}
+
+int main(int argc, char* argv[]) {
+  int n = 10;  // Compute the 10th fibonacci number
+  int result;
+  fibonacci(n, result);
+  cout << "Fibonacci number " << n << " is " << result << endl;
+  return EXIT_SUCCESS;
+}
+```
+
+This simple program computes the nth Fibonacci number using thread-based parallelism provided by the TBB library. The main function gets the value of n and output result. The fibonacci function uses divide-and-conquer to compute the nth Fibonacci number. When n is less than 2, the number itself is returned. When n is greater than or equal to 2, the function uses TBB’s `parallel_invoke` function to compute the (n-1)th and (n-2)th Fibonacci numbers in parallel.
+
+Command to compile and run:
+```cpp
+g++ -I/path/to/tbb/include -L/path/to/tbb/lib -ltbb -o Fib Fibonacci.cpp
+./Fib
+```
+
+In the compile command line, `-I/path/to/tbb/include` and `-L/path/to/tbb/lib` are used to include the TBB headers and link against the TBB library, respectively. The `-o Fib` option is used to name the output executable file. The `./Fib` command is used to run the output file.

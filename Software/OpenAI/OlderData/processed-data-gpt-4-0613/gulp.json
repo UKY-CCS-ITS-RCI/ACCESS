@@ -1,0 +1,11 @@
+{
+  "softwareName": "Gulp",
+  "links": {
+    "softwarePage": "https://gulpjs.com/",
+    "documentation": "https://gulpjs.com/docs/en/getting-started/quick-start",
+    "officialTutorial": "https://gulpjs.com/docs/en/getting-started/quick-start",
+    "tutorial1": "https://www.youtube.com/watch?v=1rw9MfIleEg",
+    "tutorial2": "https://www.tutorialsteacher.com/gulp/gulp-tutorials",
+    "tutorial3": "https://www.freecodecamp.org/news/automate-all-the-things-with-gulp-b21fb3d3ac92/"
+  }
+}

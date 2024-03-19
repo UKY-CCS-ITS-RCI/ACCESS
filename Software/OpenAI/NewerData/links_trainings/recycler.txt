@@ -1,0 +1,19 @@
+{
+  "Software": "Recycler",
+  "SoftwareURL": "https://github.com/Shamir-Lab/Recycler",
+  "Documentation": [
+    {
+      "DocumentationURL": "https://github.com/Shamir-Lab/Recycler/blob/master/README.md"
+    }
+  ],
+  "Tutorials": [
+    {
+      "TutorialName": "Recycler: bioinformatics tool for WGS read data",
+      "TutorialURL": "https://metagenomics-workshop.readthedocs.io/en/latest/recycler.html"
+    },
+    {
+      "TutorialName": "Finding plasmids - with PlasFlow and Recycler",
+      "TutorialURL": "https://plasmid.med.u-tokyo.ac.jp/PlasmidSeeker/documentation.html"
+    }
+  ]
+}

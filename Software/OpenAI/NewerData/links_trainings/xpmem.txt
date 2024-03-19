@@ -1,0 +1,10 @@
+{
+  "software": {
+    "xpmem": {
+      "description": "XPMEM is a Linux kernel module for cross-environment (Cross-PMEM) shared memory",
+      "webURL": "https://github.com/hjelmn/xpmem",
+      "documentation": "https://github.com/hjelmn/xpmem",
+      "tutorial_materials": "Currently, there are no specific tutorials or trainings available for xpmem. Most related resources are technical documentations and usage guides found on the same GitHub page."
+    }
+  }
+}

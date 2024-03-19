@@ -1,0 +1,12 @@
+{
+    "ccs": {
+        "software_page": "https://github.com/PacificBiosciences/ccs",
+        "documentation": "https://ccs.readthedocs.io/en/latest/",
+        "tutorial_material":
+        [
+            "https://github.com/PacificBiosciences/ccs#documentation",
+            "https://pacbiofileformats.readthedocs.io/en/9.0/CCS.html",
+            "https://www.youtube.com/watch?v=aYds1C-6Gxw"
+        ]
+    },
+}

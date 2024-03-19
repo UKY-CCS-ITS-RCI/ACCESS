@@ -1,0 +1,26 @@
+{
+  "software": "r-pkgconfig",
+  "links": {
+    "software_page": "https://cran.r-project.org/web/packages/pkgconfig/index.html",
+    "documentation": [
+      {
+        "description": "Official Documentation",
+        "url": "https://cran.r-project.org/web/packages/pkgconfig/pkgconfig.pdf"
+      },
+      {
+        "description": "R-Package Documentation",
+        "url": "https://www.rdocumentation.org/packages/pkgconfig/versions/2.0.3"
+      }
+    ],
+    "tutorials_and_training": [
+      {
+        "description": "GitHub Code Examples",
+        "url": "https://github.com/search?q=r-pkgconfig"
+      },
+      {
+        "description": "General R Tutorials relevant to Package Use",
+        "url": "https://www.datacamp.com/courses/free-introduction-to-r"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+"Software_Name": "py-slepc4py",
+"Software_URL": "https://slepc4py.readthedocs.io/en/stable/",
+"Documentation": [
+{
+"Documentation_URL1": "https://slepc4py.readthedocs.io/en/stable/tutorial.html",
+"Documentation_URL2": "https://slepc4py.readthedocs.io/en/stable/ref_manual.html"
+}
+],
+"Tutorials_and_Training_Material": [
+{
+"Tutorial_URL1": "https://slepc4py.readthedocs.io/en/stable/tutorial.html",
+"Tutorial_URL2": "https://slepc4py.readthedocs.io/en/stable/examples.html"
+}
+]
+}

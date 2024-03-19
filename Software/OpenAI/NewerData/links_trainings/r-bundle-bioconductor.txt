@@ -1,0 +1,15 @@
+{
+  "name": "r-bundle-bioconductor",
+  "software_page_link": "https://bioconductor.org/packages/release/bioc/html/RBGL.html",
+  "additional_resources": {
+    "documentation_links": [
+      "https://bioconductor.org/packages/release/bioc/vignettes/RBGL/inst/doc/RBGL.pdf",
+      "https://bioconductor.org/packages/release/bioc/manuals/RBGL/man/RBGL.pdf"
+    ],
+    "training_materials_links": [
+      "https://bioconductor.org/help/course-materials/2019/BiocIntroNov2019/lectures/Lecture6.html",
+      "https://bioconductor.org/help/course-materials/",
+      "https://bioconductor.org/packages/devel/bioc/vignettes/RBGL/inst/doc/RBGL.pdf"
+    ]
+  }
+}

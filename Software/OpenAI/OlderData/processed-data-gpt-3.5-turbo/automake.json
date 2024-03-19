@@ -1,0 +1,16 @@
+{
+  "software_name": "Automake",
+  "comprehensive_overview": "Automake is a build automation tool used as part of the GNU Build System for generating Makefiles. It simplifies the process of creating portable and consistent build systems for software projects by automatically generating Makefiles from Makefile.am input files.",
+  "core_features": [
+    "Makefile generation",
+    "Build automation",
+    "Project portability"
+  ],
+  "general_tags": ["Build Automation", "Makefile Generation", "GNU Build System"],
+  "additional_tags": {
+    "research_discipline": "Computer Science",
+    "research_area": "Build Systems",
+    "software_class": "Build Tool",
+    "software_type": "Utility"
+  }
+}

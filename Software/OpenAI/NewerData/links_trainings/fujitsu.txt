@@ -1,0 +1,14 @@
+{
+  "fujitsu": {
+    "software_page": "https://www.fujitsu.com/global/",
+    "documentation": "https://www.fujitsu.com/global/support/products/software/",
+    "training_materials": [
+      "https://www.flenov.info/courses/fujitsu/",
+      "https://www.automateshow.com/education/automate-forward/webinars/fujitsu-giken"
+    ],
+    "tutorial_materials": [
+      "http://www.fmmc.fujitsu.com/eng/product/index.html",
+      "https://www.fujitsu.com/global/theme/remote-work/tutorial/"
+    ]
+  }
+}

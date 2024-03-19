@@ -1,0 +1,22 @@
+
+{
+  "Intel Advisor": {
+    "software_page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/advisor.html",
+    "documentation": "https://software.intel.com/content/www/us/en/develop/documentation/advisor-user-guide/top.html",
+    "training_materials": [
+      {
+        "title": "Introduction To Intel Advisor - Video",
+        "url": "https://www.youtube.com/watch?v=qcJ9q1v8WQ0"
+      },
+      {
+        "title": "Efficient High Level Programming With Intel DevCloud And Intel Advisor - Webinar",
+        "url": "https://software.seek.intel.com/HighEfficiencyComputingSignUp"
+      },
+      {
+        "title": "Intel Advisor Vectorization Roofline Analysis",
+        "url": "https://software.intel.com/content/www/us/en/develop/articles/advisor-vectorization-roofline.html"
+      }
+    ]
+  }
+}
+

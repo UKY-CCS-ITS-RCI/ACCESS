@@ -1,0 +1,26 @@
+{
+  "Software": "suitesparse",
+  "Link": "https://people.engr.tamu.edu/davis/suitesparse.html",
+  "Documentation": [
+    {
+      "Name": "Suitesparse Documentation",
+      "URL": "https://people.engr.tamu.edu/davis/suitesparse/SuiteSparseUserGuide.pdf"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Name": "Using SuiteSparse for systems of linear equations",
+      "URL": "http://faculty.cse.tamu.edu/davis/Summer2008/GettingStarted.pdf"
+    },
+    {
+      "Name": "MATLAB Interface to SuiteSparse",
+      "URL": "http://faculty.cse.tamu.edu/davis/Summer2008/MATLAB_Interface_to_SuiteSparse.pdf"
+    }
+  ],
+  "Training Materials": [
+    {
+      "Name": "Using SuiteSparse in MATLAB Webinar",
+      "URL": "https://www.mathworks.com/videos/using-suitesparse-for-solving-large-scale-sparse-linear-systems-81962.html"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "softwareName": "arpack-ng",
+  "softwarePage": "https://github.com/opencollab/arpack-ng",
+  "documentation": "https://github.com/opencollab/arpack-ng/blob/master/DOCUMENTS/DOCUMENTS.md",
+  "trainingMaterials":
+  [
+    {
+      "trainingMaterial1":
+      {
+        "name": "arpack-ng Tutorials",
+        "url":"https://github.com/opencollab/arpack-ng/tree/master/EXAMPLES"
+      }
+    }
+  ]
+}

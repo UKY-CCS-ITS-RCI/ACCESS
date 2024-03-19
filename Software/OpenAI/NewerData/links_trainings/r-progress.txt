@@ -1,0 +1,13 @@
+{
+  "Name": "r-progress",
+  "Software_URL": "https://cran.r-project.org/web/packages/progress/index.html",
+  "Additional_links": {
+    "Documentation_URL": "https://www.rdocumentation.org/packages/progress/versions/1.2.2",
+    "Training_Tutorial": [
+      {
+        "Tutorial_1": "https://daattali.com/shiny/tutorial/#more-complex-user-interface",
+        "Tutorial_2": "https://www.gormanalysis.com/blog/r-tutorial-series-part-3-basic-r-commands/"
+      }
+    ]
+  }
+}

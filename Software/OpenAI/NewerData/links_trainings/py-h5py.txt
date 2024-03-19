@@ -1,0 +1,22 @@
+{
+  "SoftwareName": "py-h5py",
+  "SoftwareInfo": {
+    "SoftwarePage": "https://www.h5py.org/",
+    "Documentation": [
+      {
+        "DocLink": "https://docs.h5py.org/en/stable/"
+      }
+    ],
+    "Tutorials": [
+      {
+        "TutorialLink": "https://nbviewer.jupyter.org/github/h5py/h5py/blob/master/docs/notebooks/HDF5%20and%20Python.ipynb"
+      },
+      {
+        "TutorialLink": "https://www.python-course.eu/numpy_h5py.php"
+      },
+      {
+        "TutorialLink": "https://www.sherlock.stanford.edu/docs/software/using/hdf5"
+      }
+    ]
+  }
+}

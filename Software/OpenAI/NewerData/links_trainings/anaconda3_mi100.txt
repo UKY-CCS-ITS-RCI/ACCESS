@@ -1,0 +1,24 @@
+{
+  "softwareName": "anaconda3_mi100",
+  "softwareLink": "https://www.anaconda.com/",
+  "documentationLinks": [
+      {
+        "url": "https://docs.anaconda.com/anaconda/",
+        "description": "Anaconda Documentation"
+      },
+      {
+        "url": "https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html",
+        "description": "Manage Environments with Conda"
+      }
+    ],
+  "tutorialLinks": [
+      {
+        "url": "https://docs.anaconda.com/anaconda/user-guide/getting-started/",
+        "description": "Getting Started with Anaconda"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=YJC6ldI3hWk",
+        "description": "Anaconda Tutorial: Installation and basics"
+      }
+    ]
+}

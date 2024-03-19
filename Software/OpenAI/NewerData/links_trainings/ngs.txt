@@ -1,0 +1,20 @@
+{
+  "ngs": {
+    "SoftwareURL": "https://github.com/ngs-lang/ngs",
+    "DocumentationURL": "https://ngs-lang.org/",
+    "Tutorials": [
+      {
+        "title": "Intro to NGS",
+        "URL": "https://ngs-lang.org/wiki/intro/"
+      },
+      {
+        "title": "NGS Basic Usage",
+        "URL": "https://ngs-lang.org/manual/#_basic_usage"
+      },
+      {
+        "title": "NGS Script Writing",
+        "URL": "https://ngs-lang.org/manual/#_ngs_script_writing"
+      }
+    ]
+  }
+}

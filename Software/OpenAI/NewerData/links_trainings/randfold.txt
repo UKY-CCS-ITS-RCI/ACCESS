@@ -1,0 +1,17 @@
+{
+  "randfold": {
+    "softwareLink": "https://github.com/clandere/RiboPlot/tree/master/bin/randfold-2.0",
+    "documentation": [
+      {
+        "name": "README",
+        "link": "https://github.com/clandere/RiboPlot/blob/master/bin/randfold-2.0/README"
+      }
+    ],
+    "tutorials": [
+      {
+        "name": "Randfold tutorial by RiboGalaxy",
+        "link": "https://ribogalaxy.ucc.ie/tutorials/randfold/"
+      }
+    ]
+  }
+}

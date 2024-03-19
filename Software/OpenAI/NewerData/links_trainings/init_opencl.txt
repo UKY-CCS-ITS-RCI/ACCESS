@@ -1,0 +1,19 @@
+{
+  "software": {
+    "name": "init_opencl",
+    "software_url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpll.html",
+    "documentation": [
+      {
+        "documentation_url": "http://www.jocl.org/doc/OpenCL-1.2-API.pdf"
+      }
+    ],
+    "tutorials": [
+      {
+        "tutorial_url": "https://www.ibiblio.org/e-notes/webgl/gpu/mul/ocl.htm"
+      },
+      {
+        "tutorial_url": "https://www.eriksmistad.no/getting-started-with-opencl-and-gpu-computing/"
+      }
+    ]
+  }
+}

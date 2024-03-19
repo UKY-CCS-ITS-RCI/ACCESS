@@ -1,0 +1,19 @@
+{
+  "name": "GAMESS",
+  "software_url": "https://www.msg.chem.iastate.edu/gamess/",
+  "documentation_url": "http://www.msg.chem.iastate.edu/GAMESS/book.pdf",
+  "tutorial_materials": [
+    {
+      "name": "GAMESS Tutorial1",
+      "url": "http://iopenshell.usc.edu/downloads/gamess_tutorial.pdf"
+    },
+    {
+      "name": "GAMESS Tutorial2",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1387380615300550"
+    },
+    {
+      "name": "GAMESS Tutorial3",
+      "url": "https://comp.chem.umn.edu/web1/gamess.pdf"
+    }
+  ]
+}

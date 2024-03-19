@@ -1,0 +1,14 @@
+{
+    "software": "libbsd",
+    "resources": {
+        "softwareHomepage": "https://libbsd.freedesktop.org/wiki/",
+        "documentation": "https://manpages.debian.org/testing/libbsd-dev/index.html",
+        "tutorials": [
+            {
+                "title": "Libbsd – An interface library for BSD functions",
+                "url": "https://sites.google.com/site/unixnprogramming/home/bsd/libbsd"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

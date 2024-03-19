@@ -1,0 +1,27 @@
+{
+  "Software": "jupyterhub",
+  "Link": "https://jupyter.org/hub",
+  "Documentation": "https://jupyterhub.readthedocs.io/en/stable/",
+  "Training and Tutorials": [
+    {
+      "Link": "https://jupyter.org/hub#try-it-now",
+      "Description": "Try JupyterHub now"
+    },
+    {
+      "Link": "https://jupyterhub.readthedocs.io/en/stable/getting-started/index.html",
+      "Description": "JupyterHub Getting Started Guide"
+    },
+    {
+      "Link": "https://github.com/jupyterhub/jupyterhub-tutorial",
+      "Description": "JupyterHub Tutorial on GitHub"
+    },
+    {
+      "Link": "https://www.dataquest.io/blog/jupyter-notebook-tutorial/",
+      "Description": "Jupyter Notebook tutorial by Dataquest"
+    },
+    {
+      "Link": "https://www.coursera.org/lecture/python-data-visualization/jupyter-hub-quick-review-i26qP",
+      "Description": "Jupyter Hub Quick Review on Coursera"
+    }
+  ]
+}

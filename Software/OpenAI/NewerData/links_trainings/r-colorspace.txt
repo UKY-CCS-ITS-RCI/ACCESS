@@ -1,0 +1,24 @@
+{
+  "software_name": "r-colorspace",
+  "software_page": "https://cran.r-project.org/web/packages/colorspace/index.html",
+  "documentation_links": [
+    {
+      "link": "https://cran.r-project.org/web/packages/colorspace/colorspace.pdf",
+      "description": "Official Package Documentation"
+    },
+    {
+      "link": "https://www.rdocumentation.org/packages/colorspace/versions/1.4-1",
+      "description": "R Documentation for colorspace"
+    }
+  ],
+  "tutorial_links": [
+    {
+      "link": "https://www.youtube.com/watch?v=3bb2ZOJGGGe",
+      "description": "YouTube Tutorial for colorspace package in R"
+    },
+    {
+      "link": "https://www.datacamp.com/community/tutorials/r-colorspace-package",
+      "description": "DataCamp Community Tutorial on R colorspace package"
+    }
+  ]
+}

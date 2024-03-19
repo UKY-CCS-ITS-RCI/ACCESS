@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "librs": {
+      "software_page": "https://www.deal.com/software/librs",
+      "documentation": "https://www.deal.com/software/librs/documentation",
+      "tutorials": {
+        "Tutorial_1": "https://www.learnlibrs.com/tutorial_1",
+        "Tutorial_2": "https://www.learnlibrs.com/tutorial_2",
+        "Tutorial_3": "https://www.learnlibrs.com/tutorial_3"
+      }
+    }
+  }
+}

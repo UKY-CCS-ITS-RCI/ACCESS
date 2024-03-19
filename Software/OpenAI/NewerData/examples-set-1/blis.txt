@@ -1,0 +1,76 @@
+Use Case: BLIS (BLAS-like Library Instantiation Software) is a portable software framework for instantiating high-performance BLAS-like dense linear algebra libraries. It provides a framework for the development of fast matrix multiplication routines and it is applicable for both shared and distributed memory programming models. 
+
+Code details and examples: Code
+
+Input file: There are no input files for BLIS. It's a library to be used in code (e.g., C, Fortran, etc.). 
+
+Example: Using the gemm micro-kernel defined in BLIS for computing a matrix multiplication. Here's an example in C++:
+
+```C++
+#include "blis.h"
+
+void perform_blis_operation() {
+  // Initialize BLIS
+  bli_init();
+
+  // Create matrices
+  double* a = (double*)bli_malloc_user( 10 * 10 * sizeof( double ) ); // 10x10 matrix A
+  double* b = (double*)bli_malloc_user( 10 * 10 * sizeof( double ) ); // 10x10 matrix B
+  double* c = (double*)bli_malloc_user( 10 * 10 * sizeof( double ) ); // 10x10 matrix C
+
+  // Fill matrices A and B 
+  for ( int i = 0; i < 10*10; ++i ) {
+    a[ i ] = ( double )i;
+    b[ i ] = ( double )i;
+  }
+
+  // Enter the number of rows, columns, and the leading dimension 
+  dim_t m = 10;
+  dim_t n = 10;
+  dim_t k = 10;
+  dim_t rs = 1;
+  dim_t cs = 10;
+  
+  // Create an object without a buffer for matrix A
+  obj_t aa;
+  bli_obj_create_without_buffer( BLIS_DOUBLE, m, n, &aa );
+  bli_obj_attach_buffer( a, rs, cs, &aa );
+
+  // Create an object without a buffer for matrix B
+  obj_t bb;
+  bli_obj_create_without_buffer( BLIS_DOUBLE, m, n, &bb );
+  bli_obj_attach_buffer( b, rs, cs, &bb );
+
+  // Create an object without a buffer for matrix C
+  obj_t cc;
+  bli_obj_create_without_buffer( BLIS_DOUBLE, m, n, &cc );
+  bli_obj_attach_buffer( c, rs, cs, &cc );
+
+  // Set alpha and beta scalars 
+  double alpha = 1.0;
+  double beta = 0.0;
+
+  // Perform gemm operation
+  bli_gemm( &alpha, &aa, &bb, &beta, &cc );
+
+  bli_obj_free_without_buffer( &aa );
+  bli_obj_free_without_buffer( &bb );
+  bli_obj_free_without_buffer( &cc );
+
+  bli_finalize();
+}
+```
+
+To compile this code, you need to link the BLIS library:
+
+```shell
+g++ example.cpp -L/path/to/blis -lblis -o example -lm
+```
+
+Then you can run the program:
+
+```shell
+./example
+``` 
+
+Note: Replace "/path/to/blis" with the actual path to BLIS library.

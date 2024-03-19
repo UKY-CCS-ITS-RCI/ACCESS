@@ -1,0 +1,19 @@
+{
+  "software_name": "t-coffee",
+  "software_url": "http://www.tcoffee.org/Projects/tcoffee/index.html",
+  "documentation_url": "http://www.tcoffee.org/Projects/tcoffee/documentation/index.html",
+  "training_materials": [
+    {
+      "title": "T-Coffee Tutorials",
+      "url": "http://tcoffee.readthedocs.io/en/latest/tcoffee_tutorial/"
+    },
+    {
+      "title": "T-Coffee Wiki",
+      "url": "https://en.wikipedia.org/wiki/T-Coffee"
+    },
+    {
+      "title": "T-Coffee Documentation",
+      "url": "http://www.tcoffee.org/Projects/tcoffee/documentation/index.html"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+Use Case: ISA (Investigate-Standardize-Align) is utilized for normalizing, transforming, and aligning information for further analysis. 
+
+Code details and examples: Code
+
+For JavaScript, ISA is implemented using a module which can be imported and utilized in a project.
+
+Sample input:
+
+> const { Investigate, Standardize, Align } = require('isa');
+>
+> const data = [
+>   {datetime:'2019-01-01', value:100},
+>   {datetime:'2018-01-01', value:50},
+>   {datetime:'2017-01-01', value:75}
+> ];
+
+In this input, an array of JavaScript objects is provided where each object has a `datetime` and `value` property. `datetime` is a string that represents a date and the value is a numerical data value.
+
+Command to run: 
+
+> var result = new Investigate(data).result;
+> console.log(result);

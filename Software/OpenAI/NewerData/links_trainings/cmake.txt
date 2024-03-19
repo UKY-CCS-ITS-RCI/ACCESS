@@ -1,0 +1,28 @@
+{
+    "cmake": {
+        "software_page": "https://cmake.org/",
+        "documentation": "https://cmake.org/documentation/",
+        "tutorials_and_training": [
+            {
+                "name": "Introduction to CMake by Example",
+                "url": "https://cliutils.gitlab.io/modern-cmake/"
+            },
+            {
+                "name": "CMake Tutorial",
+                "url": "https://cmake.org/cmake/help/latest/guide/tutorial/index.html"
+            },
+            {
+                "name": "CMake step-by-step tutorial",
+                "url": "http://derekmolloy.ie/hello-world-introductions-to-cmake/"
+            },
+            {
+                "name": "Advanced CMake Training",
+                "url": "https://www.youtube.com/watch?v=bsXLMQ6WgIk"
+            },
+            {
+                "name": "CMake for Beginners - CodeProject",
+                "url": "https://www.codeproject.com/Articles/1181455/A-CMake-tutorial-for-Visual-Cplusplus-developers"
+            }
+        ]
+    }
+}

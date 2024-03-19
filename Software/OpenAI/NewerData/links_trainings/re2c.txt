@@ -1,0 +1,36 @@
+{
+  "software": "re2c",
+  "description": "re2c is a free and open-source lexer generator for C and C++. Its main goal is generating fast lexers: at least as fast as their reasonably optimized hand-coded counterparts.",
+  "homepage": "http://re2c.org/",
+  "documentation": "http://re2c.org/manual/manual.html",
+  "tutorials": [
+    {
+      "title": "A Re2c Tutorial",
+      "link": "https://re2c.org/examples/example_01.html"
+    },
+    {
+      "title": "Re2c Examples",
+      "link": "https://re2c.org/examples/examples.html"
+    },
+    {
+      "title": "Lexer and Parser Generators",
+      "link": "https://aquamentus.com/flex_bison.html"
+    }
+  ],
+  "training_materials": [
+    {
+      "title": "Re2c Basics",
+      "link": "https://www.google.com"
+    },
+    {
+      "title": "Advanced Re2c Usage",
+      "link": "https://www.google.com"
+    }
+  ],
+  "related_resources": [
+    {
+      "title": "Lexer Tools Comparison",
+      "link": "http://re2c.org/lexer_tools_comparison/lexer_tools_comparison.html"
+    }
+  ]
+}

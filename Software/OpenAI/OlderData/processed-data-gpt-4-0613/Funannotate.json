@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Funannotate": {
+      "MainPage": "https://funannotate.readthedocs.io/en/latest/",
+      "Documentation": "https://funannotate.readthedocs.io/en/latest/usage.html",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=bjkvzyMF2Ic",
+        "https://hackmd.io/@jorvis/funannotate_tutorial",
+        "http://sjcny.edu/~sjcngs/course_pages/intro_bioinformatics/laboratory/Funannotate_Tutorial/"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "software": {
+    "easybuild-aces": {
+      "software_page": "https://easybuild.readthedocs.io/en/latest/",
+      "documentation": {
+        "main": "https://easybuild.readthedocs.io/en/latest/",
+        "additional": [
+          "https://easybuild.readthedocs.io/en/latest/Introduction.html",
+          "https://easybuild.readthedocs.io/en/latest/Installing-EasyBuild.html",
+          "https://easybuild.readthedocs.io/en/latest/Using-EasyBuild.html"
+        ]
+      },
+      "trainings_and_tutorials": {
+        "main": "https://easybuild.readthedocs.io/en/latest/Tutorial.html",
+        "additional": [
+          "https://easybuild.readthedocs.io/en/latest/Overview.html",
+          "https://easybuild.readthedocs.io/en/latest/Advanced-topics.html",
+          "https://github.com/easybuilders/easybuild",
+          "https://www.youtube.com/watch?v=2xhDrbwNQhs"
+        ]
+      }
+    }
+  }
+}

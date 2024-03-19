@@ -1,0 +1,23 @@
+{
+  "software_name": "redis-py",
+  "software_url": "https://github.com/andymccurdy/redis-py",
+  "documentation_link": "https://redis-py.readthedocs.io/en/stable/",
+  "training_materials": [
+    {
+      "name": "Redis with Python Tutorial",
+      "url": "https://realpython.com/python-redis/"
+    },
+    {
+      "name": "Introduction to Redis in Python",
+      "url": "https://www.datacamp.com/community/tutorials/introduction-redis-python"
+    },
+    {
+      "name": "Python Redis Tutorial",
+      "url": "https://www.studytonight.com/post/python-redis-tutorial"
+    },
+    {
+      "name": "Python Redis Client - redis-py Tutorial",
+      "url": "https://www.tutorialdocs.com/article/python-redis.html"
+    }
+  ]
+}

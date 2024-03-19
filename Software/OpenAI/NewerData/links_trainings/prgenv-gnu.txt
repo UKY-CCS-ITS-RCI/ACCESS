@@ -1,0 +1,29 @@
+{
+  "prgenv-gnu": {
+    "software_page": "https://docs.nersc.gov/u/gnu-programming-environment/#:~:text=NERSC's%20GNU%20programming%20environment%20is%20based%20on%20the,...%20Intel%20MPI%20remain%20available%20made%20with%20NVIDIA%20GPUs.",
+    "documentation": [
+      {
+        "name": "gnu_programming_environment",
+        "link": "https://docs.nersc.gov/u/gnu-programming-environment/#:~:text=NERSC's%20GNU%20programming%20environment%20is%20based%20on%20the,...%20Intel%20MPI%20remain%20available%20made%20with%20NVIDIA%20GPUs."
+      },
+      {
+        "name": "gnu_compiler_collection",
+        "link": "https://gcc.gnu.org/onlinedocs/"
+      }
+    ],
+    "tutorials": [
+      {
+        "name": "gnu_compiler_collection_tutorial",
+        "link": "https://www.tutorialspoint.com/compiler_design/compiler_design_gnu_compiler.htm"
+      },
+      {
+        "name": "gnu_make_tutorial",
+        "link": "https://www.tutorialspoint.com/makefile/index.htm"
+      },
+      {
+        "name": "gnu_debugger_tutorial",
+        "link": "https://www.tutorialspoint.com/gnu_debugger/index.htm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+Use Case: Use GaussView to create, inspect, or modify molecular systems for quantum chemistry computations. One can also use it to submit these computations to Gaussian software for geometry optimizations, molecular properties, or vibrational analyses.
+
+Code details and examples: Code.
+
+GaussView doesn't really work in the traditional command-line sense, but rather through an interactive GUI. The input file format for GaussView is Gaussian's .com (command) files or .chk (checkpoint) files.
+
+Sample Input File (.com file):
+
+# B3LYP/6-31G(d) Opt Freq
+
+Water Opt and Freq Calculation
+
+0 1
+O 
+H 1 R 
+H 1 R 2 A
+
+R = 0.96
+A = 104.5
+
+This .com file runs an optimization and frequency calculation on a water molecule using the B3LYP/6-31G(d) method.
+
+Running a Calculation:
+
+Once an input file is generated, you would typically open GaussView route section and queue the job. However, if you're working on the terminal, you may also utilize the Gaussian program itself using g09 (or g16 depending on the version) command:
+
+g09 < input.com > output.log
+
+To interpret the output, one typically opens the output .log file through GaussView, which provides a visual representation of the molecular system and the calculated properties.

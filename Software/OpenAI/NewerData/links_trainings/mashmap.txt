@@ -1,0 +1,11 @@
+[
+  {
+    "name": "mashmap",
+    "softwarePage": "https://github.com/marbl/MashMap",
+    "additionalUrls": {
+      "documentation": "https://github.com/marbl/MashMap/wiki",
+      "tutorials": ["https://bioinformaticsworkbook.org/dataAnalysis/GenomeAssembly/NGS_mapping.html#gsc.tab=0", "https://www.biostars.org/p/393570/"],
+      "trainingMaterials": ["https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mapping/tutorial.html"]
+    }
+  }
+]

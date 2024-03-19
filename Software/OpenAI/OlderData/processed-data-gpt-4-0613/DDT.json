@@ -1,0 +1,27 @@
+{
+  "software": [
+    {
+      "name": "DDT",
+      "softwarePage": "https://www.arm.com/products/development-tools/server-and-hpc/forge/ddt",
+      "documentation": [
+        {
+          "link": "https://developer.arm.com/documentation/101136/1404"
+        }
+      ],
+      "trainingMaterials": [
+        {
+          "link": "https://developer.arm.com/tools-and-software/server-and-hpc/download-forge",
+          "description": "DDT Tutorial"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=oolEn-3LGes",
+          "description": "DDT debugging tutorial video"
+        },
+        {
+          "link": "https://events.prace-ri.eu/event/258/attachments/250/437/DDT_Training.pdf",
+          "description": "DDT Training PDF"
+        }
+      ]
+    }
+  ]
+}

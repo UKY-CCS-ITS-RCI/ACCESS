@@ -1,0 +1,33 @@
+{
+    "fastai": {
+        "software_page": "https://www.fast.ai/",
+        "documentation": [
+            {
+                "title": "Fastai Docs",
+                "url": "https://docs.fast.ai/"
+            }
+        ],
+        "tutorials_and_training": [
+            {
+                "title": "Practical Deep Learning for Coders",
+                "url": "https://course.fast.ai/"
+            },
+            {
+                "title": "Introduction to Machine Learning for Coders",
+                "url": "https://course18.fast.ai/ml"
+            },
+            {
+                "title": "Deep Learning From The Foundations",
+                "url": "https://course19.fast.ai/part2"
+            },
+            {
+                "title": "Data Ethics",
+                "url": "https://ethics.fast.ai/"
+            },
+            {
+                "title": "Fastai YouTube Channel",
+                "url": "https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "software_name": "arm-gnu-toolchain",
+  "software_page": "https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain",
+  "documentation_links": [
+    {
+      "link": "https://developer.arm.com/documentation/dui0472/k"
+    }
+  ],
+  "tutorial_materials": [
+    {
+      "link": "https://wiki.embeddedarm.com/wiki/Using_the_ARM_GNU_Toolchain"
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=Rpj2Ei3tTu8"
+    }
+  ]
+}

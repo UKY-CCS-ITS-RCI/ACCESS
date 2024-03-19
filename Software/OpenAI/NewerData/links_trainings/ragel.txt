@@ -1,0 +1,29 @@
+```json
+{
+  "name": "Ragel",
+  "softwarePage": "http://www.colm.net/open-source/ragel/",
+  "documentation": "http://www.colm.net/files/ragel/ragel-guide.pdf",
+  "tutorials": [
+    {
+      "title": "Ragel Tutorial",
+      "url": "http://www.complang.org/ragel/"
+    },
+    {
+      "title": "Ragel State Machine Compiler",
+      "url": "https://www.youtube.com/watch?v=kvtlATCZA98"
+    },
+    {
+      "title": "Introduction to Ragel",
+      "url": "https://howardhinnant.github.io/ragel/"
+    },
+    {
+      "title": "Ragel by Example",
+      "url": "https://www.zooxyt.com/2013/ragel-by-examples/"
+    },
+    {
+      "title": "Ragel Tutorial for Beginners",
+      "url": "https://www.thestrikemaster.com/ragel/"
+    }
+  ]
+}
+```

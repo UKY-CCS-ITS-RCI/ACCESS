@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Fluent": {
+      "MainPage": "https://www.ansys.com/products/fluids/ansys-fluent",
+      "Documentation": "https://www.ansys.com/services/training-center/cfd/ansys-fluent",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=eVVgUp_vT_A",
+        "https://courses.ansys.com/index.php/courses/cfd-for-beginner/",
+        "https://confluence.cornell.edu/display/SIMULATION/FLUENT+Learning+Modules"
+      ]
+    }
+  }
+}

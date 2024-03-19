@@ -1,0 +1,26 @@
+Use Case: AnnotSV is an integrated tool for structural variations (SV) annotation. It is used in bioinformatics for annotating and interpreting both simple and complex Structural Variations in VCF (variant call format) file.
+
+Code details and example: Code
+
+#### Input File
+
+**File format**: VCF (Variant Call Format)
+
+**File specifications**: The VCF file contains meta-information lines, file format line, a header line, and then data lines each containing information about a position in the genome and the genetic variants observed at that position. Read more details [here](https://en.wikipedia.org/wiki/Variant_Call_Format)
+
+**Sample input file**: 
+```
+##fileformat=VCFv4.2
+#CHROM POS    ID        REF ALT QUAL FILTER INFO
+2     149103024 my_var_1 A   T   .   .      .
+```
+
+**Command to run AnnotSV**: 
+
+On a terminal, you can run AnnotSV as:
+
+```
+AnnotSV -SVinputFile my_variants.vcf -outputFile my_annotated_variants.tsv
+```
+
+This command will annotate the SVs in `my_variants.vcf` and output the results to `my_annotated_variants.tsv`.

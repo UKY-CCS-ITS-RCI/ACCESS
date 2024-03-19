@@ -1,0 +1,17 @@
+{
+  "ferret": {
+    "software_page": "https://www.cgd.ucar.edu/software/ferret/",
+    "documentation": "https://ferret.pmel.noaa.gov/Ferret/documentation",
+    "tutorial": [
+      "https://ferret.pmel.noaa.gov/Ferret/documentation/users-guide",
+      "https://ferret.pmel.noaa.gov/Ferret/documentation/tutorial",
+      "https://ferret.pmel.noaa.gov/Ferret/documentation/faq",
+      "https://www.cgd.ucar.edu/software/ferret/faqs/"
+    ],
+    "training_materials": [
+      "https://news.illinois.edu/view/6367/317007",
+      "https://www.esrl.noaa.gov/psd/data/gridded/help/Images/Ferret_tutorial.ppt",
+      "https://www.youtube.com/watch?v=zvXAA9ELOP8"
+    ]
+  }
+}

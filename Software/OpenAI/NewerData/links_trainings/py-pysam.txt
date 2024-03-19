@@ -1,0 +1,16 @@
+{
+  "SoftwareName": "py-pysam",
+  "SoftwareURL": "https://github.com/pysam-developers/pysam",
+  "DocumentationURL": "https://pysam.readthedocs.io/en/latest/index.html",
+  "Tutorials": [
+    {
+      "TutorialsURL1": "https://biodataprog.github.io/2016-week-8-pysam/"
+    },
+    {
+      "TutorialsURL2": "https://informatics.fas.harvard.edu/bulk-rnaseq-workflow-using-pysam.html"
+    },
+    {
+      "TutorialsURL3": "https://lethalfang.github.io/2017/12/30/PySAM-tutorial/"
+    }
+  ]
+}

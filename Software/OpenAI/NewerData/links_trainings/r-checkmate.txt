@@ -1,0 +1,26 @@
+{
+    "software": "r-checkmate",
+    "software_link": "https://cran.r-project.org/web/packages/checkmate/index.html",
+    "documentation_links": 
+    [
+        {
+            "documentation_title": "CRAN - Package checkmate",
+            "link": "https://cran.r-project.org/web/packages/checkmate/checkmate.pdf"
+        },
+        {
+            "documentation_title": "R Documentation - checkmate package",
+            "link": "https://www.rdocumentation.org/packages/checkmate"
+        }
+    ],
+    "tutorial_and_training_materials": 
+    [
+        {
+            "material_title": "Fast and Versatile Argument Checks - Journal of Statistical Software",
+            "link": "https://www.jstatsoft.org/article/view/v097i10"
+        },
+        {
+            "material_title": "R package checkmate on GitHub",
+            "link": "https://github.com/mllg/checkmate"
+        }
+    ]
+}

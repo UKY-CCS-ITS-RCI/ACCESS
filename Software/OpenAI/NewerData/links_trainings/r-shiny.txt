@@ -1,0 +1,37 @@
+{
+  "Software_Name": "r-shiny",
+  "Website": "https://shiny.rstudio.com/",
+  "Documentation": "https://shiny.rstudio.com/tutorial/",
+  "Tutorial": [
+    {
+      "Tutorial_Name": "Shiny Tutorial - RStudio",
+      "URL": "https://shiny.rstudio.com/tutorial/"
+    },
+    {
+      "Tutorial_Name": "Shiny Tutorial - RStudio Videos",
+      "URL": "https://rstudio.com/resources/webinars/shiny-developer-series"
+    },
+    {
+      "Tutorial_Name": "Shiny Tutorial - Datacamp",
+      "URL": "https://www.datacamp.com/community/tutorials/shiny-tutorial-in-r"
+    },
+    {
+      "Tutorial_Name": "Shiny Tutorial - deeplearning.net",
+      "URL": "http://deeplearning.net/tutorial/"
+    },
+    {
+      "Tutorial_Name": "Shiny Tutorial - YouTube",
+      "URL": "https://www.youtube.com/watch?v=_V8eKsto3Ug"
+    }
+  ],
+  "Training": [
+    {
+      "Training_Name": "Building Web Applications in R with Shiny - RStudio",
+      "URL": "https://www.rstudio.com/certification/shiny/"
+    },
+    {
+      "Training_Name": "Shiny Training - Coursera",
+      "URL": "https://www.coursera.org/learn/data-science-course"
+    }
+  ]
+}

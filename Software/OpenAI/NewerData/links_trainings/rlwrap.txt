@@ -1,0 +1,11 @@
+{
+    "rlwrap": {
+        "Software_URL": "https://github.com/hanslub42/rlwrap",
+        "Documentation": {
+            "Man Page": "https://linux.die.net/man/1/rlwrap"
+        },
+        "Tutorials": {
+            "Basic Tutorial": "https://www.howtoforge.com/tutorial/rlwrap-linux-command-line-completion/"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "software_name": "eigen",
+    "main_page_url": "http://eigen.tuxfamily.org/index.php?title=Main_Page",
+    "resources": [
+        {
+            "resource_name": "documentation",
+            "resource_url": "http://eigen.tuxfamily.org/dox/"
+        },
+        {
+            "resource_name": "getting_started",
+            "resource_url": "http://eigen.tuxfamily.org/dox/GettingStarted.html"
+        },
+        {
+            "resource_name": "tutorial",
+            "resource_url": "https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt"
+        },
+        {
+            "resource_name": "Examples",
+            "resource_url": "https://gitlab.com/libeigen/eigen/-/tree/3.4/unsupported/Eigen/examples"
+        }
+    ]
+}

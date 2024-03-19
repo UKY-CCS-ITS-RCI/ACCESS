@@ -1,0 +1,29 @@
+{
+  "Software_Name": "GATK - Genome Analysis Toolkit",
+  "Software_URL": "https://software.broadinstitute.org/gatk/",
+  "Documentation_URL": "https://software.broadinstitute.org/gatk/documentation/",
+  "Tutorial_Materials": [
+    {
+      "Tutorial_Name": "GATK Tutorials",
+      "URL": "https://gatk.broadinstitute.org/hc/en-us/sections/360007226651-Tutorials"
+    },
+    {
+      "Tutorial_Name": "GATK Workshop Workbook",
+      "URL": "https://gatk.broadinstitute.org/hc/en-us/articles/360035531112--How-to-Workshop-Workbook"
+    },
+    {
+      "Tutorial_Name": "GATK User Guide",
+      "URL": "https://gatk.broadinstitute.org/hc/en-us/categories/360002310591-GATK4-User-Guide"
+    }
+  ],
+  "Training_Materials": [
+    {
+      "Training_Name": "GATK Best Practices",
+      "URL": "https://gatk.broadinstitute.org/hc/en-us/articles/360035535912-Getting-started-with-GATK4"
+    },
+    {
+      "Training_Name": "GATK Forum",
+      "URL": "https://gatk.broadinstitute.org/hc/en-us/community/posts"
+    }
+  ]
+}

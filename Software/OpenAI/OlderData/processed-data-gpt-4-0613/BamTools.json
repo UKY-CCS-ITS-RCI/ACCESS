@@ -1,0 +1,19 @@
+{
+  "Software": "BamTools",
+  "Website": "https://github.com/pezmaster31/bamtools",
+  "Documentation": "https://github.com/pezmaster31/bamtools/wiki",
+  "Tutorials and Training material": [
+    {
+      "Title": "BamTools Wiki",
+      "Link": "https://github.com/pezmaster31/bamtools/wiki"
+    },
+    {
+      "Title": "BamTools usage guide",
+      "Link": "https://genome.sph.umich.edu/wiki/BamUtil:_bam"
+    },
+    {
+      "Title": "BamTools API tutorial",
+      "Link": "https://genome.sph.umich.edu/wiki/BamUtil:_convert"
+    }
+  ]
+}

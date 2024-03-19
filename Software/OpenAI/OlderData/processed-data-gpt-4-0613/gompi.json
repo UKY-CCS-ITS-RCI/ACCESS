@@ -1,0 +1,9 @@
+{
+  "softwareName": "gompi",
+  "links": {
+    "softwarePage": "https://easybuild.readthedocs.io/en/latest/Common-toolchains.html#gompi-toolchain",
+    "documentation": "http://www.netlib.org/utk/people/JackDongarra/PAPERS/mvapich-sc-09-9.pdf",
+    "tutorial1": "https://www.rockefeller.edu/research/research-computing/tutorials-and-guidance/high-performance-computing-tutorials/parallel-computing-gompi-and-impi/",
+    "tutorial2": "https://www.advancedhpc.com/blogs/building-a-cluster-part-1.html"
+  }
+}

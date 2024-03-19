@@ -1,0 +1,23 @@
+{
+"name": "VisiData",
+"softwarePage": "https://www.visidata.org/",
+"documentation": "https://visidata.org/docs/",
+"tutorialMaterials": [
+    {
+        "name": "VisiData Basics",
+        "url": "https://jsvine.github.io/intro-to-visidata/basics/"
+     },
+    {
+        "name": "VisiData Tutorial on YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLxVkHa0Dya-NviXdXH2pXPtLS7WauLLYo"
+    },
+    {
+        "name": "Quick Intro to VisiData",
+        "url": "https://learn.visidata.org/en/latest/intro/"
+    },
+    {
+        "name": "Using Visidata - Tutorial",
+        "url": "https://www.spectator.co.uk/article/using-visidata"
+    }
+  ]
+}

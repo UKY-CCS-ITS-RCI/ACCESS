@@ -1,0 +1,11 @@
+{
+  "software_name": "kmc",
+  "software_page": "http://sun.aei.polsl.pl/REFRESH/kmc",
+  "documentation": "http://sun.aei.polsl.pl/REFRESH/kmc_man",
+  "training_and_tutorial_materials": {
+    "github_examples": "https://github.com/refresh-bio/KMC-examples",
+    "manual_pdf": "http://sun.aei.polsl.pl/REFRESH/includes/kmc2_and_kmc_tools_manual.pdf",
+    "bioinformatics_org": "http://seqanswers.com/forums/showthread.php?t=58221",
+    "KMC_user_group": "https://groups.google.com/forum/#!forum/kmc-user-group"
+  }
+}

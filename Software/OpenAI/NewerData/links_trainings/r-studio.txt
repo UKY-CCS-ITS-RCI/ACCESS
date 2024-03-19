@@ -1,0 +1,19 @@
+{
+  "software_name": "R-Studio",
+  "software_page": "https://www.rstudio.com/",
+  "additional_links" : {
+    "documentation": [
+      {"link_name": "RStudio Documentation", "url": "https://docs.rstudio.com/"},
+      {"link_name": "R-Studio Help", "url": "https://support.rstudio.com/hc/en-us"}
+    ],
+    "training_materials": [
+      {"link_name": "DataCamp's Introduction to R", "url": "https://www.datacamp.com/courses/free-introduction-to-r"},
+      {"link_name": "RStudio Education", "url": "https://education.rstudio.com/learn/beginner/"},
+      {"link_name": "Coursera's Data Science Course with R", "url": "https://www.coursera.org/specializations/jhu-data-science"}
+    ],
+    "tutorials": [
+      {"link_name": "RStudio YouTube Tutorials", "url": "https://www.youtube.com/user/TheRstudioInc/videos"},
+      {"link_name": "DataCamp's R Tutorials", "url": "https://www.datacamp.com/community/tutorials"}
+    ]
+  }
+}

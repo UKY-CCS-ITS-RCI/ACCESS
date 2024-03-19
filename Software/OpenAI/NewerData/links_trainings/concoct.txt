@@ -1,0 +1,9 @@
+{
+   "software_name":"concoct",
+   "software_url":"https://github.com/BinPro/CONCOCT",
+   "additional_links":{
+      "documentation":"https://concoct.readthedocs.io/en/latest/",
+      "tutorial_1":"https://github.com/BinPro/CONCOCT-testdata",
+      "tutorial_2":"https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-014-0047-0"
+   }
+}

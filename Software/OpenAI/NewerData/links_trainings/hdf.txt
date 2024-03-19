@@ -1,0 +1,15 @@
+{
+   "Software Name":"hdf",
+   "Type":"Scientific Software",
+   "Software Website":"https://www.hdfgroup.org/",
+   "Additional Resources":{
+      "Documentation":[
+         "https://portal.hdfgroup.org/display/HDF5/HDF5"
+      ],
+      "Tutorials and Training Materials":[
+         "https://www.hdfgroup.org/services/training/",
+         "https://portal.hdfgroup.org/display/HDF5/Tutorials",
+         "https://portal.hdfgroup.org/display/HDF5/Learning+The+Basics"
+      ]
+   }
+}

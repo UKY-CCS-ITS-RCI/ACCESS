@@ -1,0 +1,19 @@
+{
+  "Software": "AOCC",
+  "Website": "https://developer.amd.com/amd-aocc/",
+  "Documentation": "https://developer.amd.com/resources/developer-guides-manuals/",
+  "Tutorials and Training material": [
+    {
+      "Title": "AOCC User Guide",
+      "Link": "https://developer.amd.com/wp-content/resources/56343_3_1.pdf"
+    },
+    {
+      "Title": "Getting started with AOCC",
+      "Link": "https://developer.amd.com/amd-aocc/"
+    },
+    {
+      "Title": "AOCC Installation Guide",
+      "Link": "https://developer.amd.com/wp-content/resources/58773.PDF"
+    }
+  ]
+}

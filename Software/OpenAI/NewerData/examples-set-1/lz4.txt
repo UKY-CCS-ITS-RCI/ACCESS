@@ -1,0 +1,38 @@
+Use Case: lz4 is an extremely fast lossless compression algorithm, which provides compression speed > 500 MB/s per core. It's suited for applications such as fast backup and recovery, file and data archiving, real-time big data compression etc.
+
+Code details and examples: Code
+
+Input File: Any file that user wishes to compress/decompress. 
+
+Command to run:
+```
+lz4 [arg] [input] [output]
+```
+
+Arguments, `[arg]`, can be one of the following:
+- `-h` or `--help`: display help/usage message.
+- `-d` or `--decompress`: decompress.
+- `-z` or `--compress`: compress. Compression is the default behavior, so it's technically optional.
+
+Example:
+
+Let's say we want to compress a file named `input.txt`:
+
+```
+lz4 input.txt compressed.lz4
+```
+
+And then decompress it:
+
+```
+lz4 -d compressed.lz4 output.txt
+```
+
+Input Files specifications:
+- lz4 has no specific input file specification, it can compress any type of file.
+
+Format required: No specific format as it compresses the raw bytes.
+
+Code snippets: N/A
+
+Command to run them: Mentioned in the code example.

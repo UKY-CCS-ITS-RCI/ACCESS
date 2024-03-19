@@ -1,0 +1,14 @@
+{
+  "software": {
+    "name": "minipolish",
+    "software_url": "https://github.com/rrwick/Minipolish",
+    "related_links": {
+      "documentation": "https://github.com/rrwick/Minipolish#readme",
+      "tutorials_and_training": [
+        {
+          "url": "https://agnosticdev.com/content/how-use-minipolish-polish-genome-assembly-nanopore-data"
+        }
+      ]
+    }
+  }
+}

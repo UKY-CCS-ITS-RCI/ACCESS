@@ -1,0 +1,24 @@
+{
+  "software_name": "mccortex",
+  "software_page": "https://github.com/mcveanlab/mccortex",
+  "documentation": [
+    {
+      "doc_name": "Readme",
+      "doc_link": "https://github.com/mcveanlab/mccortex#compilation-and-installation"
+    }
+  ],
+  "training_materials": [
+    {
+      "training_name": "Usage Overview",
+      "training_link": "https://github.com/mcveanlab/mccortex#overview"
+    },
+    {
+      "training_name": "Commands",
+      "training_link": "https://github.com/mcveanlab/mccortex#commands"
+    },
+    {
+      "training_name": "Example Usages",
+      "training_link": "https://github.com/mcveanlab/mccortex#example-usages"
+    }
+  ]
+}

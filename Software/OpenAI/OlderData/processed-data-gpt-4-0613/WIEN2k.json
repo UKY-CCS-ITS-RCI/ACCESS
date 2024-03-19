@@ -1,0 +1,23 @@
+{
+"name": "WIEN2k",
+"softwarePage": "http://www.wien2k.at/",
+"documentation": "http://www.wien2k.at/reg_user/textbooks/",
+"tutorialMaterials": [
+    {
+        "name": "WIEN2k-FAQ",
+        "url": "http://www.wien2k.at/reg_user/faq/"
+    },
+    {
+        "name": "WIEN2k Hands-on tutorial",
+        "url": "https://www.mail-archive.com/wien@zeus.theochem.tuwien.ac.at/msg15823.html"
+    },
+    {
+        "name": "Introduction to WIEN2k",
+        "url": "https://nanohub.org/resources/8601/download/01-introduction.pdf"
+    },
+    {
+        "name": "WIEN2k Workshop",
+        "url": "http://susi.theochem.tuwien.ac.at/reg_user/programs/wien2k/"
+    }
+  ]
+}

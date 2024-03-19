@@ -1,0 +1,12 @@
+{
+    "Software Name": "Reciprocal Smallest Distance", 
+    "Software URL": "https://anaconda.org/bioconda/reciprocal-smallest-distance", 
+    "Documentation": [
+        {"Description": "GitHub", "URL": "https://github.com/johnomics/rsd"},
+        {"Description": "BioConda", "URL": "https://bioconda.github.io/recipes/reciprocal-smallest-distance/README.html"}
+    ], 
+    "Training/Tutorial Materials": [
+        {"Description": "Get started with RSD", "URL": "https://biodataprog.github.io/2016Program/Week2/day5.html"},
+        {"Description": "Python and R for bioinformatics", "URL": "https://www.datanovia.com/en/lessons/reciprocal-smallest-distance-rsd"}
+    ]
+}

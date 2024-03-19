@@ -1,0 +1,9 @@
+{
+  "lame": {
+    "Software_page": "http://lame.sourceforge.net/",
+    "Documentation":
+      "https://lame.sourceforge.io/documentation.php",
+    "Tutorial_Materials":
+      "https://wiki.hydrogenaud.io/index.php?title=LAME"
+  }
+}

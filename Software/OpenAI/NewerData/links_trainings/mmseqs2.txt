@@ -1,0 +1,17 @@
+{
+  "software_name": "mmseqs2",
+  "software_page": "https://github.com/soedinglab/MMseqs2",
+  "documentation": [
+    {
+      "name": "user guide",
+      "url": "https://github.com/soedinglab/MMseqs2/wiki"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "mmseqs2 tutorial",
+      "url": "https://github.com/soedinglab/MMseqs2/wiki/Tutorial"
+    }
+  ],
+  "training": []
+}

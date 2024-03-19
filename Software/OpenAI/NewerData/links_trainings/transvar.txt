@@ -1,0 +1,14 @@
+{
+"Software Name": "Transvar",
+"Link to the Software Page": "https://bioconda.github.io/recipes/transvar/README.html",
+"Documentation": [
+    {
+    "Link to the Documentation Page": "https://transvar.readthedocs.io/en/latest/"
+    }
+],
+"Tutorial and Training Materials": [
+    {
+    "Link to Tutorial Page#1": "https://www.biorxiv.org/content/10.1101/037762v2"
+    }
+]
+}

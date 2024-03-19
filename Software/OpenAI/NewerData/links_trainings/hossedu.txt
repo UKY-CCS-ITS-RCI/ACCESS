@@ -1,0 +1,15 @@
+{
+  "softwareName": "hossedu",
+  "softwareUrl": "https://hossedu.com/",
+  "documentation": [],
+  "tutorials": [
+    {
+      "url": "https://hossedu.com/courses",
+      "description": "Courses from hossedu"
+    },
+    {
+      "url": "https://hossedu.com/blog",
+      "description": "Blog from hossedu containing variety of tutorials"
+    }
+  ]
+}

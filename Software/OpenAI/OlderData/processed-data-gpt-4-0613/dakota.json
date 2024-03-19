@@ -1,0 +1,21 @@
+{
+   "scientific_software":[
+      {
+         "name":"Dakota",
+         "software_url":"https://dakota.sandia.gov/",
+         "documentation":[
+            {
+               "url":"https://dakota.sandia.gov/content/technical-references"
+            }
+         ],
+         "tutorials_and_trainings":[
+            {
+               "url":"https://dakota.sandia.gov/content/examples"
+            },
+            {
+               "url":"https://dakota.sandia.gov/content/tutorials"
+            }
+         ]
+      }
+   ]
+}

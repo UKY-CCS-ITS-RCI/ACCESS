@@ -1,0 +1,10 @@
+{
+  "software": "liftofftools",
+  "website": "https://github.com/agbiotec/liftoff",
+  "documentation": "https://liftoff.readthedocs.io/en/latest/",
+  "tutorials": [
+    "https://liftoff.readthedocs.io/en/latest/usage.html",
+    "https://www.youtube.com/watch?v=fPMXE0jzJSI",
+    "https://biostar.usegalaxy.org/p/44029/"
+  ]
+}

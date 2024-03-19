@@ -1,0 +1,14 @@
+{
+  "Software": "Nanopolish",
+  "Link": "https://github.com/jts/nanopolish",
+  "Documentation": [
+    "https://jts.github.io/nanopolish",
+    "https://github.com/jts/nanopolish/tree/master/scripts"
+  ],
+  "Tutorials and Training Materials": [
+    "https://nanopolish.readthedocs.io/en/latest/",
+    "https://github.com/jts/nanopolish/tree/master/scripts",
+    "https://nanoporetech.github.io/ont_tutorial_04/index.html",
+    "http://simpsonlab.github.io/2017/02/27/pomoxis/"
+  ]
+}

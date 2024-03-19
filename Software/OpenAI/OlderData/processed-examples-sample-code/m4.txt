@@ -1,0 +1,20 @@
+Use Case: Text preprocessing with m4
+
+Code details and examples:
+m4 is a powerful text preprocessing tool that can be used to create templates, macros, and automate text manipulation tasks. Below is an example of using m4 to process a template file with macros.
+
+Sample input file (template_file.m4):
+```
+define(`GREETING', `Hello, World!')
+GREETING
+```
+
+Command to run m4 and process the template file:
+```
+m4 template_file.m4
+```
+
+Output:
+```
+Hello, World!
+```

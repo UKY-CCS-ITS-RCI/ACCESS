@@ -1,0 +1,19 @@
+{
+  "Software Name": "cxxopts",
+  "Software URL": "https://github.com/jarro2783/cxxopts",
+  "Documentation": [
+    {
+      "Documentation Link": "https://github.com/jarro2783/cxxopts#readme"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Tutorial Link": "https://blog.symphonia.io/adopting-cxxopts-1c6ac785e6f4",
+      "Tutorial Name": "Adopting cxxopts - Symphonia Blog"
+    },
+    {
+      "Tutorial Link": "https://www.youtube.com/watch?v=_b7odUc7lg0",
+      "Tutorial Name": "Using cxxopts (C++ argument parser) in Visual Studio - Youtube tutorial"
+    }
+  ]
+}

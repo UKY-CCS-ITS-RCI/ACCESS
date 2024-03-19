@@ -1,0 +1,25 @@
+{
+  "DeepVariant": {
+    "software_page": "https://github.com/google/deepvariant",
+    "documentation": [
+      {
+        "title": "DeepVariant Documentation",
+        "link": "https://deepvariant.readthedocs.io/en/latest/"
+      }
+    ],
+    "tutorials_and_training": [
+      {
+        "title": "Introduction to DeepVariant",
+        "link": "https://google.github.io/deepvariant/posts/2018-09-17-deepvariant-docker-gcp/"
+      },
+      {
+        "title": "DeepVariant Case Study",
+        "link": "https://cloud.google.com/blog/products/ai-machine-learning/making-genome-sequencing-part-of-clinical-care-deepvariant-returns-home-genomics-advance"
+      },
+      {
+        "title": "DeepVariant Tutorial",
+        "link": "https://funwithcodingblog.wordpress.com/2019/01/10/deepvariant-tutorial-1-how-to-run-deepvariant/"
+      }
+    ]
+  }
+}

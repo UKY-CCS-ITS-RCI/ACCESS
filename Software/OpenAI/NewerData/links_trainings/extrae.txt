@@ -1,0 +1,13 @@
+{
+  "Software Name": "Extrae",
+  "Software URL": "https://www.bsc.es/research-and-development/software-and-apps/software-list/extrae/",
+  "Documentation": [
+    { 
+      "Documentation 1": "https://www.bsc.es/research-and-development/software-and-apps/software-list/extrae/extrae-user-guide/"
+    }],
+  "Training and Tutorial": [
+    { 
+      "Tutorial 1": "https://github.com/bsc-performance-tools/extrae",
+      "Tutorial 2": "https://www.youtube.com/watch?v=Qw2PNqxIn6Q"
+    }]
+}

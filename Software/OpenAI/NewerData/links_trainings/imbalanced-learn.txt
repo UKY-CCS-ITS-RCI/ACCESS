@@ -1,0 +1,30 @@
+{
+  "Software": "imbalanced-learn",
+  "Software URL": "https://imbalanced-learn.org/",
+  "Documentation": [
+    {
+      "Documentation URL": "https://imbalanced-learn.org/stable/user_guide.html"
+    }
+  ],
+  "Tutorial Links": [
+    {
+      "Basic Tutorial": "https://imbalanced-learn.org/stable/auto_examples/index.html",
+      "Advanced Tutorial": "https://imbalanced-learn.org/stable/auto_examples/applications/plot_multi_class_under_sampling.html",
+      "Video Tutorial": "https://www.youtube.com/watch?v=-Z1PaqYKC1w"
+    }
+  ],
+  "Training materials": [
+    {
+      "Name": "Under-sampling a Majority Class",
+      "Link": "https://imbalanced-learn.org/stable/auto_examples/under-sampling/plot_comparison_under_sampling.html"
+    },
+    {
+      "Name": "Over-sampling using SMOTE and ADASYN",
+      "Link": "https://imbalanced-learn.org/stable/auto_examples/over-sampling/plot_smote.html"
+    },
+    {
+      "Name": "Under-sampling Techniques Comparison",
+      "Link": "https://imbalanced-learn.org/stable/auto_examples/under-sampling/plot_comparison_under_sampling.html"
+    }
+  ]
+}

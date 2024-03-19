@@ -1,0 +1,11 @@
+{
+    "software_name": "cdsapi",
+    "software_page": "https://cds.climate.copernicus.eu/api-how-to",
+    "documentation": "https://pypi.org/project/cdsapi/",
+    "tutorials_and_training": [
+        "https://www.youtube.com/watch?v=efEXqY859T8",
+        "https://discourse.ubuntu.com/t/cdsapi-pip-package-for-downloading-copernicus-climate-data/19473",
+        "https://anaconda.org/conda-forge/cdsapi",
+        "https://discuss.python.org/t/provide-python-with-cdsapi-on-jhub/8361"
+    ]
+}

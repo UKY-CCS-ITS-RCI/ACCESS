@@ -1,0 +1,28 @@
+{
+    "hail": {
+        "softwarePageUrl": "https://hail.is/",
+        "documentationUrl": "https://hail.is/docs/0.2/index.html",
+        "tutorialMaterials": [
+            {
+                "name": "Hail 0.2 Tutorials",
+                "url": "https://hail.is/docs/0.2/tutorials-landing.html"
+            },
+            {
+                "name": "Getting Started with Hail",
+                "url": "https://hail.is/docs/0.2/getting_started.html"
+            },
+            {
+                "name": "Broad Institute Hail tutorial",
+                "url": "https://github.com/broadinstitute/hail/blob/main/hail/python/hail/docs/tutorials-landing.rst"
+            },
+            {
+                "name": "Setup Hail on Google Cloud",
+                "url": "https://hail.is/docs/0.2/cloud/google_cloud.html"
+            },
+            {
+                "name": "Hail 0.2 Workshop",
+                "url": "https://github.com/hail-is/hail/blob/main/hail/python/hail/docs/workshop/HailWorkshop_WashingtonUniversity_August2018.ipynb"
+            }
+        ]
+    }
+}

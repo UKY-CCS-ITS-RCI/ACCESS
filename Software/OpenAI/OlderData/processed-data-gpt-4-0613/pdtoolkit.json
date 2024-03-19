@@ -1,0 +1,17 @@
+{
+  "software": {
+    "name": "PDT - Program Database Toolkit",
+    "url": "http://www.cs.uoregon.edu/research/tau/pdt.html",
+    "documentation": "http://tau.uoregon.edu/pdt_manual.pdf",
+    "tutorials": [
+      {
+        "name": "PDT Introduction",
+        "url": "http://www.cs.uoregon.edu/research/tau/docs/manuals/pdt_introduction.pdf"
+      },
+      {
+        "name": "PDT Implementation",
+        "url": "http://www.cs.uoregon.edu/research/tau/pdt_presentation.pdf"
+      }
+    ]
+  }
+}

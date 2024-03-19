@@ -1,0 +1,19 @@
+{
+  "software": "gatk4",
+  "software_link": "https://software.broadinstitute.org/gatk/",
+  "documentation_link": "https://gatk.broadinstitute.org/hc/en-us",
+  "training_materials": [
+    {
+      "title": "GATK Tutorials",
+      "link": "https://gatk.broadinstitute.org/hc/en-us/categories/360002056592-GATK-Tutorials"
+    },
+    {
+      "title": "GATK Workshop Workbook",
+      "link": "https://workshop-gatk-2018.readthedocs.io/en/latest/"
+    },
+    {
+      "title": "GATK Community Forum",
+      "link": "https://gatk.broadinstitute.org/hc/en-us/community/topics"
+    }
+  ]
+}

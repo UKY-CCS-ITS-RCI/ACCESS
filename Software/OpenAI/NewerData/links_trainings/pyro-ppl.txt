@@ -1,0 +1,27 @@
+{
+  "software_name": "pyro-ppl",
+  "software_URL": "http://pyro.ai/",
+  "documentation": "http://docs.pyro.ai/",
+  "tutorials_and_training_materials": [
+    {
+      "name": "Introductory Tutorials",
+      "url": "http://pyro.ai/examples"
+    },
+    {
+      "name": "Advanced Tutorials",
+      "url": "http://pyro.ai/examples/#advanced-examples"
+    },
+    {
+      "name": "Contributed Tutorials",
+      "url": "http://pyro.ai/examples/#community-contributed-examples"
+    },
+    {
+      "name": "Inference with MCMC",
+      "url": "https://pyro.ai/examples/mcmc.html"
+    },
+    {
+      "name": "Introduction to Pyro with Gaussian Processes",
+      "url": "https://pyro.ai/examples/gp.html"
+    }
+  ]
+}

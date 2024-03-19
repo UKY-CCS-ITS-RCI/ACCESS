@@ -1,0 +1,16 @@
+{
+  "papi": {
+    "softwarePage": "https://icl.utk.edu/papi/index.html",
+    "documentationUrl": "https://icl.utk.edu/papi/docs/",
+    "tutorialMaterials": [
+      {
+        "tutorialName": "PAPI User's Guide",
+        "url": "https://icl.utk.edu/papi/docs/User.pdf"
+      },
+      {
+        "tutorialName": "Introduction to PAPI",
+        "url": "http://web.eece.maine.edu/~vweaver/pubs/sc13_llnl_tutorial/papi_intro.pdf"
+      }
+    ]
+  }
+}

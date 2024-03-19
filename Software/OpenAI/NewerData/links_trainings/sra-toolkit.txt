@@ -1,0 +1,20 @@
+{
+  "software": "sra-toolkit",
+  "pageLink": "https://github.com/ncbi/sra-tools",
+  "documentation": [
+    {
+      "name": "NCBI Documentation",
+      "link": "https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=toolkit_doc"
+    }
+  ],
+  "trainingMaterials": [
+    {
+      "name": "SRA Toolkit Tutorial",
+      "link": "https://www.youtube.com/watch?v=eEYtFJQX1Eo"
+    },
+    {
+      "name": "Getting Started with SRA Toolkit",
+      "link": "https://www.ncbi.nlm.nih.gov/books/NBK569829/"
+    }
+  ]
+}

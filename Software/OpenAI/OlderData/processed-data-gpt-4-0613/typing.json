@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "Typing": 
+    { 
+      "URL": "https://pypi.org/project/typing/",
+      "Documentation": "https://docs.python.org/3/library/typing.html",
+      "Tutorials": 
+      [
+        {
+          "Type hints in Python": "https://realpython.com/lessons/type-hints-python/"
+        },
+        {
+          "Python 3 Typing Tutorial": "https://docs.python.org/3/library/typing.html"
+        },
+        {
+          "Advanced uses of Python's typing module": "https://levelup.gitconnected.com/advanced-uses-python-typing-module-1edc4c5466dd"
+        },
+        {
+          "Getting Started with Python Type Hints": "https://vsupalov.com/python-type-hints/"
+        }
+      ]
+    }
+  }
+}

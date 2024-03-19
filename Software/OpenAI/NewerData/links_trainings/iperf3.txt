@@ -1,0 +1,11 @@
+{
+  "Software": "iperf3",
+  "Link": "https://iperf.fr/iperf-download.php",
+  "Documentation": "https://iperf.fr/iperf-doc.php",
+  "Tutorials and Training materials": [
+    "https://www.linode.com/docs/guides/how-to-use-iperf-for-network-speed-tests/",
+    "https://www.ubergizmo.com/how-to/test-network-speed/",
+    "https://learn.akamai.com/en-us/webhelp/netstorage/netstorage-user-guide/GUID-F68BD1F1-BF3B-41BA-BECF-5F309B7F5A78.html",
+    "https://www.youtube.com/watch?v=nWpZkhXnhds"
+  ]
+}

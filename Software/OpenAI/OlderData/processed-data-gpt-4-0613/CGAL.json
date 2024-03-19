@@ -1,0 +1,19 @@
+{
+  "Software": "CGAL",
+  "Website": "https://www.cgal.org/",
+  "Documentation": "https://doc.cgal.org/latest/Manual/",
+  "Tutorials and Training material": [
+    {
+      "Title": "CGAL Tutorials",
+      "Link": "https://doc.cgal.org/latest/Tutorials/index.html"
+    },
+    {
+      "Title": "CGAL Getting Started",
+      "Link": "https://doc.cgal.org/latest/Manual/preliminaries.html"
+    },
+    {
+      "Title": "CGAL User and Reference Manual",
+      "Link": "https://doc.cgal.org/latest/Manual/packages.html"
+    }
+  ]
+}

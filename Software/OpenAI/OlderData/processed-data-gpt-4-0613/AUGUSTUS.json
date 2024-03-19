@@ -1,0 +1,19 @@
+{
+  "Software": "AUGUSTUS",
+  "Website": "https://bioinf.uni-greifswald.de/augustus/",
+  "Documentation": "https://github.com/Gaius-Augustus/Augustus/blob/master/README.TXT",
+  "Tutorials and Training material": [
+    {
+      "Title": "AUGUSTUS Documentation",
+      "Link": "https://github.com/Gaius-Augustus/Augustus/blob/master/README.TXT"
+    },
+    {
+      "Title": "Running AUGUSTUS",
+      "Link": "https://bioinf.uni-greifswald.de/augustus/submission"
+    },
+    {
+      "Title": "AUGUSTUS Tutorial",
+      "Link": "https://vcru.wisc.edu/simonlab/bioinformatics/programs/augustus/docs/tutorial2015/training.html"
+    }
+  ]
+}

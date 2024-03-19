@@ -1,0 +1,12 @@
+{
+  "Software-Packages": [
+    {
+      "Software": "pangraph",
+      "Links": {
+        "Software Page": "https://github.com/danieldransfield/pangraph",
+        "Documentation": "https://github.com/danieldransfield/pangraph#readme",
+        "Tutorial": "N/A"
+      }
+    }
+  ]
+}

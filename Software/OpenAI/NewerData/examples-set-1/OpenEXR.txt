@@ -1,0 +1,42 @@
+Use Case: Use OpenEXR software to handle high dynamic-range (HDR) image data. OpenEXR is commonly used in the VFX industry to efficiently store multi-layer, multi-channel data in high dynamic range.
+
+Code details and examples:
+
+Code:
+
+The following python script demonstrates how to create an EXR file with three color channels (R, G, B).
+
+```python
+import OpenEXR
+import Imath
+import array
+
+# Create a header with image resolution 512x512 and 3 channels
+header = OpenEXR.Header(512, 512)
+header['channels'] = {
+    'R' : Imath.Channel(Imath.PixelType(OpenEXR.FLOAT)),
+    'G' : Imath.Channel(Imath.PixelType(OpenEXR.FLOAT)),
+    'B' : Imath.Channel(Imath.PixelType(OpenEXR.FLOAT))
+}
+
+# Create an output EXR file
+out = OpenEXR.OutputFile("myImage.exr", header)
+
+# Create some example image data
+R = array.array('f', [1.0]*512*512).tostring()
+G = array.array('f', [0.0]*512*512).tostring()
+B = array.array('f', [0.0]*512*512).tostring()
+
+# Write image data to the file
+out.writePixels({'R' : R, 'G' : G, 'B' : B})
+```
+
+To run the script:
+
+```shell
+python create_exr.py
+```
+
+This script creates a simple OpenEXR file with an image resolution of 512x512 pixels, where every pixel is red. Note that the OpenEXR library uses the Imath types to describe the pixel data in the image channels. 'R', 'G', 'B' are floats to allow for the HDR data. The image is written to the file "myImage.exr".
+
+The image data is a string of bytes, where each pixel is represented by a 32-bit float. In this case, an array is created for each color channel with 512x512 elements, and then each array is converted to a string of bytes using the `array.array` method `tostring()`. The image data is then written to the file using the `OutputFile.writePixels()` method.

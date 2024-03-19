@@ -1,0 +1,23 @@
+{
+  "Software": "libsoup",
+  "Website": "https://wiki.gnome.org/Projects/libsoup",
+  "Official Documentation": "https://developer.gnome.org/libsoup/stable/",
+  "Additional Resources": [
+    {
+      "name": "Getting Started with libsoup",
+      "url": "https://developer.gnome.org/platform-demos/stable/soup-demo.c.html"
+    },
+    {
+      "name": "libsoup Training and Tutorials on Stackoverflow",
+      "url": "https://stackoverflow.com/questions/tagged/libsoup"
+    },
+    {
+      "name": "libsoup on GNOME github",
+      "url": "https://github.com/GNOME/libsoup"
+    },
+    {
+      "name": "libsoup package on Ubuntu",
+      "url": "https://packages.ubuntu.com/search?keywords=libsoup"
+    }
+  ]
+}

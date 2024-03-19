@@ -1,0 +1,7 @@
+{
+  "ldjump": {
+    "Software URL": "https://github.com/lukejharmon/ldjump",
+    "Documentation URL": "https://github.com/lukejharmon/ldjump/blob/master/README.md",
+    "Tutorial URLs": ["https://github.com/lukejharmon/ldjump/wiki"]
+  }
+}

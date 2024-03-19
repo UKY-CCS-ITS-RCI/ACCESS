@@ -1,0 +1,12 @@
+{
+  "glimmerhmm": {
+    "software_page": "http://ccb.jhu.edu/software/glimmerhmm/",
+    "documentation": [
+      "http://ccb.jhu.edu/software/glimmerhmm/manual.pdf"
+    ],
+    "training_and_tutorial": [
+      "https://www.gurubox.site/2021/09/glimmerhmmtool-identifying-coding.html",
+      "http://bioweb.cbm.uam.es/software/GlimmerHMM/tutorial/"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "Software": {
+        "Name": "RepeatMasker",
+        "URL": "http://www.repeatmasker.org/",
+        "Description": "RepeatMasker is a program that screens DNA sequences for interspersed repeats and low complexity DNA sequences."
+    },
+    "Documentation": {
+        "URL": "http://www.repeatmasker.org/webrepeatmaskerhelp.html"
+    },
+    "Tutorials": [
+        {
+            "Name": "Tutorial on RepeatMasker",
+            "URL": "https://training.glycopedia.eu/modules/pdf/Repeats_identification_repeatmasker.pdf"
+        },
+        {
+            "Name": "RepeatMasker Tutorial",
+            "URL": "http://genomewiki.ucsc.edu/index.php/RepeatMasker"
+        },
+        {
+            "Name": "RepeatMasker Learning Portal",
+            "URL": "https://sites.google.com/site/wiki4metagenomics/tools/repeat-databases/repeatmasker"
+        }
+    ]
+}

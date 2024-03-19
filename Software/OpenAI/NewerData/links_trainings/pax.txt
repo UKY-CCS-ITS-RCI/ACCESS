@@ -1,0 +1,21 @@
+{
+  "Software": [
+    {
+      "SoftwareName": "Pax",
+      "SoftwareURL": "https://www.gnu.org/software/pax/",
+      "Documentation": [
+        {
+          "DocLink": "https://www.gnu.org/software/pax/manual/"
+        }
+      ],
+      "Tutorials": [
+        {
+          "TutorialLink": "https://www.linux.org/threads/pax-tutorial.4475/"
+        },
+        {
+          "TutorialLink": "https://wiki.debian.org/PaX"
+        }
+      ]
+    }
+  ]
+}

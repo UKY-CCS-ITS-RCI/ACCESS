@@ -1,0 +1,68 @@
+Use Case: Utilizing Intel's FPGA SDK for OpenCL, the oclFPGA can be used for accelerating the computation of complex tasks by exploiting parallelism and deploying on FPGA. It is targeted towards high-performace computing (HPC), artificial intelligence, and data center applications.
+
+Code details and examples: Code
+
+Input: The OpenCL kernel code (*.cl files) and host C/C++ code files are the input for this process.
+
+The format for inputs is C/C++ for host code and OpenCL C for kernel code. 
+
+A simple OpenCL host code example (main.c):
+
+```C
+#include <CL/cl.h>
+#include "AOCLUtils/aocl_utils.h"
+
+using namespace aocl_utils;
+
+#define N 100
+
+int main() {
+    cl_int status;
+  
+    /* Setup OpenCL platform and device */
+    cl_platform_id platform;
+    status = clGetPlatformIDs(1, &platform, NULL);
+
+    cl_device_id device;
+    status = clGetDeviceIDs(platform, CL_DEVICE_TYPE_ALL, 1, &device, NULL);
+      
+    /* Create context and command queue */
+    cl_context context = clCreateContext(NULL, 1, &device, NULL, NULL, &status);
+    
+    cl_command_queue queue = clCreateCommandQueue(context, device, CL_QUEUE_PROFILING_ENABLE, &status);
+
+    /* Read kernel code */
+    const char *source = readFromFile("vector_add.cl");
+
+    /* Create program object */
+    cl_program program = clCreateProgramWithSource(context, 1, (const char **) &source, NULL, &status);
+
+    // kernel source code (vector_add.cl)
+    __kernel void vector_add(__global int *A, __global int *B, __global int *C) {
+        int gid = get_global_id(0);
+        C[gid] = A[gid] + B[gid];
+    }
+
+    return 0;
+}
+```
+
+To compile the host program and generate the FPGA binary, follow these commands hereinbelow:
+
+```Bash
+# compile host program
+i++ -fopencl -o vector_add_host vector_add_host.cpp
+
+# offline compile the OpenCL kernel to FPGA binary
+aoc device/vector_add.cl -o binary/vector_add.aocx
+```
+
+To execute the program on FPGA:
+
+```Bash
+# create emulator configuration file for vector_add.aocx
+emulator_setup.sh --board p385_hpc_d5 -t vector_add.aocx
+
+# execute host program with FPGA emulation 
+CL_CONTEXT_EMULATOR_DEVICE_INTELFPGA=1 ./vector_add_host
+```

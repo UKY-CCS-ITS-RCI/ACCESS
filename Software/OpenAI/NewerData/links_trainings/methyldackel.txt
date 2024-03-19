@@ -1,0 +1,10 @@
+{
+  "name": "MethylDackel",
+  "description": "A (mostly) universal methylation extractor for BS-seq experiments.",
+  "software_url": "https://github.com/dpryan79/MethylDackel",
+  "links": {
+    "documentation": "https://github.com/dpryan79/MethylDackel",
+    "tutorial_1": "https://howto.basemount.basespace.illumina.com/articles/tutorials/DNA-Methylation_profiling-using-MethylDackel/",
+    "tutorial_2": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/methylation-seq/tutorial.html#methylated-dna-immunoprecipitation-seq"
+  }
+}

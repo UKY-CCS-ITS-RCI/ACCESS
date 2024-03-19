@@ -1,0 +1,32 @@
+{
+  "Software": "MFEM",
+  "Software_URL": "https://mfem.org/",
+  "Documentation": [
+    {
+      "URL": "https://mfem.org/doxygen/",
+      "Title": "MFEM Documentation"
+    },
+    {
+      "URL": "https://mfem.org/examples/",
+      "Title": "Examples in MFEM"
+    },
+    {
+      "URL": "https://mfem.org/pub/",
+      "Title": "MFEM Publications"
+    }
+  ],
+  "Training_and_Tutorial": [
+    {
+      "URL": "https://mfem.org/workshop/2019/",
+      "Title": "2019 MFEM Workshop"
+    },
+    {
+      "URL": "https://mfem.org/news/#the-mfem-team-at-ceesd",
+      "Title": "MFEM at CEESD"
+    },
+    {
+      "URL": "https://www.youtube.com/watch?v=pUjriXZ6DcM",
+      "Title": "MFEM: Scalable Parallel Computing with High-Order Finite Elements - YouTube Tutorial"
+    }
+  ]
+}

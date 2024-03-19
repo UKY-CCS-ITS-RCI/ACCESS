@@ -1,0 +1,18 @@
+{
+  "Software": "py-pyscf",
+  "Official URL": "https://pyscf.org/",
+  "Documentation": {
+    "User Guide": "https://pyscf.org/user/",
+    "API Reference": "https://pyscf.org/pyscf/index.html"
+  },
+  "Tutorials": [
+    {
+      "Name": "Basic tutorial for PySCF",
+      "URL": "https://pyscf.org/user/quickstart.html"
+    },
+    {
+      "Name": "Advanced tutorial for PySCF",
+      "URL": "https://sunqm.github.io/pyscf/tutorial.html"
+    }
+  ]
+}

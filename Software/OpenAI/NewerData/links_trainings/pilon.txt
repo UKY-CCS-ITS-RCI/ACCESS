@@ -1,0 +1,17 @@
+{
+   "software":{
+      "name":"Pilon",
+      "url":"https://github.com/broadinstitute/pilon",
+      "documentation":"https://github.com/broadinstitute/pilon/wiki",
+      "tutorials":[
+         {
+            "name":"Pilon: Tutorial 1",
+            "url":"https://sfg.stanford.edu/tutorial/pilon"
+         },
+         {
+            "name":"Pilon: Tutorial 2",
+            "url":"https://bioinformaticshome.com/tools/desk/usage/Pilon.html"
+         }
+      ]
+   }
+}

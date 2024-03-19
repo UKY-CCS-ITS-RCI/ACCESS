@@ -1,0 +1,10 @@
+{
+  "Name": "OpenSees",
+  "SoftwareURL": "https://opensees.berkeley.edu/",
+  "DocumentationURL": "https://opensees.berkeley.edu/OpenSees/manuals/usermanual/",
+  "TrainingMaterials": {
+    "Tutorial_1_URL": "https://opensees.berkeley.edu/wiki/index.php/Tcl_Coding_for_OpenSees",
+    "Tutorial_2_URL": "https://opensees.berkeley.edu/wiki/index.php/Basic_Examples",
+    "Tutorial_3_URL": "https://www.youtube.com/playlist?list=PL5XUzSZmvdD9RSIR5bOawlidiGM0Id8AV"
+  }
+}

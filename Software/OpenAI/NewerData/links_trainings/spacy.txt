@@ -1,0 +1,15 @@
+{
+  "spacy": {
+    "software_page": "https://spacy.io/",
+    "documentation": "https://spacy.io/usage/spacy-101",
+    "training_and_tutorial_materials": {
+      "Spacy Overview": "https://course.spacy.io/",
+      "Spacy API documentation": "https://spacy.io/api",
+      "Spacy GitHub repository": "https://github.com/explosion/spaCy",
+      "Tutorial on Medium": "https://towardsdatascience.com/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1-3d5b6e2167eb",
+      "Natural Language Processing with Spacy in Python": "https://realpython.com/natural-language-processing-spacy-python/",
+      "Spacy Tutorial – Text Classification with Spacy": "https://data-flair.training/blogs/spacy-tutorial/",
+      "Spacy YouTube tutorial by Python Engineer": "https://www.youtube.com/watch?v=WnGPv6HnBok"
+    }
+  }
+}

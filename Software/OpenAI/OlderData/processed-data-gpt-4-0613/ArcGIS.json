@@ -1,0 +1,19 @@
+{
+  "Software": "ArcGIS",
+  "Website": "https://www.esri.com/en-us/arcgis/about-arcgis/overview",
+  "Documentation": "https://developers.arcgis.com/documentation/",
+  "Tutorials and Training material": [
+    {
+      "Title": "Learn ArcGIS Tutorials",
+      "Link": "https://learn.arcgis.com/en/projects/get-started-with-arcgis-pro/"
+    },
+    {
+      "Title": "ArcGIS Lessons",
+      "Link": "https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources/lessons"
+    },
+    {
+      "Title": "ArcGIS Training",
+      "Link": "https://www.esri.com/en-us/training/arcgis-path/c4680"
+    }
+  ]
+}

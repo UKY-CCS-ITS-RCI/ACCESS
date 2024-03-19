@@ -1,0 +1,22 @@
+{
+  "Software": 
+  { 
+    "XALT": 
+    { 
+      "URL": "https://github.com/XALT-NGA/XALT",
+      "Documentation": "https://xalt.readthedocs.io/en/latest/",
+      "Tutorials": 
+      [
+        {
+          "Installing XALT": "https://xalt.readthedocs.io/en/latest/050_install_and_test.html"
+        },
+        {
+          "User Guide": "https://xalt.readthedocs.io/en/latest/020_user_guide.html"
+        },
+        {
+          "Debugging with XALT": "https://xalt.readthedocs.io/en/latest/055_debugging.html"
+        }
+      ]
+    }
+  }
+}

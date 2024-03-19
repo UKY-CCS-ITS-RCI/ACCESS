@@ -1,0 +1,18 @@
+{
+  "Software": "jasmine",
+  "Details": {
+    "Software Link": "https://jasmine.github.io/",
+    "Documentation": "https://jasmine.github.io/pages/docs_home.html",
+    "Tutorials": [
+      {
+        "Tutorial Link": "https://www.tutorialsteacher.com/jasmine/jasmine-tutorial"
+      },
+      {
+        "Tutorial Link": "https://www.javatpoint.com/jasmine-testing-tutorial"
+      },
+      {
+        "Tutorial Link": "https://www.guru99.com/jasmine-testing.html"
+      }
+    ]
+  }
+}

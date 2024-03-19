@@ -1,0 +1,30 @@
+{
+  "software": {
+    "name": "Intel OneAPI MKL",
+    "webURL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html",
+    "documentation": [
+      {
+        "name": "Intel OneAPI MKL Documentation",
+        "URL": "https://software.intel.com/content/www/us/en/develop/documentation/onemkl-linux-developer-guide/top.html"
+      },
+      {
+        "name": "Intel OneAPI MKL Reference Manual",
+        "URL": "https://software.intel.com/content/www/us/en/develop/documentation/mkl-linux/top.html"
+      }
+    ],
+    "training_materials": [
+      {
+        "name": "Intel OneAPI Training",
+        "URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/training.html"
+      },
+      {
+        "name": "Intel Developer Zone Training",
+        "URL": "https://software.intel.com/content/www/us/en/develop/tools/devcloud/training.html"
+      },
+      {
+        "name": "Intel Software Development Tools Tutorials",
+        "URL": "https://software.intel.com/content/www/us/en/develop/tools/onemkl-vector-math.html"
+      }
+    ]
+  }
+}

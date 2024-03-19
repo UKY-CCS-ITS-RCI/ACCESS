@@ -1,0 +1,11 @@
+{
+  "software_name": "pycoqc",
+  "software_page_link": "https://github.com/a-slide/pycoQC",
+  "documentation_link": "https://a-slide.github.io/pycoQC/",
+  "tutorial_and_training_materials": [
+    {
+      "material_name": "pycoQC usage tutorial",
+      "material_link": "https://github.com/a-slide/pycoQC/blob/master/jupyter_demo/Example_usage.ipynb"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "Imlib2": {
+      "MainPage": "https://docs.enlightenment.org/api/imlib2/html/",
+      "Documentation": "https://docs.enlightenment.org/api/imlib2/html/",
+      "Tutorials": [
+        "https://www.linuxtopia.org/online_books/linux_programming_books/debian_linux_guides/debian_linux_programming_guide/libImlib2.html",
+        "https://www.linuxjournal.com/article/5483",
+        "https://www.enlightenment.org/about-imlib2"
+      ]
+    }
+  }
+}

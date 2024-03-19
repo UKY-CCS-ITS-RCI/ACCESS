@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "FLAC": {
+      "MainPage": "https://xiph.org/flac/",
+      "Documentation": "https://xiph.org/flac/documentation.html",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=ZMK2A_vreaI",
+        "https://hydrogenaud.io/index.php?topic=67345.0",
+        "https://wiki.hydrogenaud.io/index.php?title=FLAC"
+      ]
+    }
+  }
+}

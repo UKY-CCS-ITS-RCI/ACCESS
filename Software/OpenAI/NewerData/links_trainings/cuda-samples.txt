@@ -1,0 +1,27 @@
+{
+  "software": "cuda-samples",
+  "software_page": "https://developer.nvidia.com/cuda-downloads",
+  "documentation": "https://docs.nvidia.com/cuda/",
+  "training_materials": [
+    {
+      "training_name": "CUDA programming guide",
+      "training_link": "https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html"
+    },
+    {
+      "training_name": "CUDA getting started guide for linux",
+      "training_link": "https://docs.nvidia.com/cuda/cuda-getting-started-guide-for-linux/index.html"
+    },
+    {
+      "training_name": "CUDA getting started guide for Microsoft Windows",
+      "training_link": "https://docs.nvidia.com/cuda/cuda-getting-started-guide-for-microsoft-windows/index.html"
+    },
+    {
+      "training_name": "CUDA samples",
+      "training_link": "https://docs.nvidia.com/cuda/cuda-samples/index.html"
+    },
+    {
+      "training_name": "CUDA Youtube tutorials",
+      "training_link": "https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jLh3chnWP3npUI-"
+    }
+  ]
+}

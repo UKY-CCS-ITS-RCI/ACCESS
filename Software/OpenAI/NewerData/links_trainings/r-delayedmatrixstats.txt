@@ -1,0 +1,11 @@
+{
+  "software": "r-delayedmatrixstats",
+  "software_url": "https://bioconductor.org/packages/release/bioc/html/DelayedMatrixStats.html",
+  "documentation_url": "https://bioconductor.org/packages/release/bioc/vignettes/DelayedMatrixStats/inst/doc/DelayedMatrixStats.html",
+  "tutorial_materials": [
+    {
+      "tutorial_name": "Bioconductor - DelayedMatrixStats",
+      "tutorial_url": "https://bioconductor.github.io/BiocWorkshops/delayed-operations-on-large-datasets-with-delayedarray-and-friends.html"
+    }
+  ]
+}

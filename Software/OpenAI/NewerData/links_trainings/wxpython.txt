@@ -1,0 +1,29 @@
+{
+  "Software": "wxpython",
+  "Link": "https://www.wxpython.org",
+  "Documentation": "https://docs.wxpython.org",
+  "Tutorials": [
+    {
+      "Tutorial Link": "https://zetcode.com/wxpython",
+      "Description": "ZetCode's tutorial on wxPython GUI programming"
+    },
+    {
+      "Tutorial Link": "https://pythonspot.com/wxpython-tutorial",
+      "Description": "Pythonspot's Interactive Python GUI programming tutorial"
+    },
+    {
+      "Tutorial Link": "https://www.tutorialspoint.com/wxpython",
+      "Description": "TutorialsPoint's comprehensive wxPython tutorial"
+    },
+    {
+      "Tutorial Link": "https://www.viaboxx.de/wxpython-tutorial-basics",
+      "Description": "Viaboxx's simple wxPython tutorial for basics"
+    }
+  ],
+  "Training Material": [
+    {
+      "Training Link": "https://www.udemy.com/topic/wxpython",
+      "Description": "Udemy's courses about wxPython"
+    }
+  ]
+}

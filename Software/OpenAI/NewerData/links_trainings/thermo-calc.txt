@@ -1,0 +1,17 @@
+{
+  "Name": "Thermo-Calc",
+  "Software_URL": "https://www.thermocalc.com/",
+  "Documentation": [
+    {
+      "Documentation URL": "https://www.thermocalc.com/support/technical-information/"
+    }
+  ],
+  "Training_Materials": [
+    {
+      "Training Material URL": "https://www.thermocalc.com/support/training-courses/"
+    },
+    {
+      "Training Material URL": "https://www.thermocalc.com/wp-content/uploads/2019/03/webinar_intro_tcc_190225.pdf"
+    }
+  ]
+}

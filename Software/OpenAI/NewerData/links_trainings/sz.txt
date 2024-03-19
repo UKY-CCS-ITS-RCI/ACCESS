@@ -1,0 +1,15 @@
+{
+    "name": "sz",
+    "softwarePage": "https://szcompressor.org/",
+    "documentation": [
+        {
+            "url": "https://szcompressor.org/documentation/"
+        }
+    ],
+    "tutorials": [],
+    "trainingMaterials": [
+        {
+            "url": "https://szcompressor.org/tutorial/"
+        }
+    ]
+}

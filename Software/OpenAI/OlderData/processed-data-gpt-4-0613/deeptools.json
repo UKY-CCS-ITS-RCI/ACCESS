@@ -1,0 +1,10 @@
+{
+  "softwareName": "deeptools",
+  "links": {
+    "softwarePage": "https://deeptools.readthedocs.io/en/develop/",
+    "documentation": "https://deeptools.readthedocs.io/en/develop/content/list_of_tools.html",
+    "officialTutorial": "https://deeptools.readthedocs.io/en/develop/content/example_usage.html",
+    "tutorial1": "https://galaxyproject.github.io/training-material/topics/introduction/tutorials/galaxy-intro-101/tutorial.html",
+    "tutorial2": "https://www.ebi.ac.uk/training/online/course/chip-seq-analysis-2-visualizing-results/visualising-chip-seq-data-using-deeptools"
+  }
+}

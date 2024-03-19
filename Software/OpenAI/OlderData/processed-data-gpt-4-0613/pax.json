@@ -1,0 +1,11 @@
+{
+    "pax": {
+        "software_page": "https://www.gnu.org/software/pax/manual/pax.html",
+        "documentation": "https://pubs.opengroup.org/onlinepubs/9699919799/utilities/pax.html",
+        "training_materials": {
+            "tutorial_1": "https://bbs.archlinux.org/viewtopic.php?id=53734",
+            "tutorial_2": "https://unix.stackexchange.com/questions/62518/what-are-the-equivalent-media-commands-for-tar-compression-utilities",
+            "tutorial_3": "https://www.youtube.com/watch?v=6vMSJ0Yprzk"
+        }
+    }
+}

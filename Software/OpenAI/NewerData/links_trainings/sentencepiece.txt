@@ -1,0 +1,13 @@
+{
+  "SoftwareName": "sentencepiece",
+  "SoftwareInfo": {
+    "HomePage": "https://github.com/google/sentencepiece",
+    "Documentation": [
+      "https://github.com/google/sentencepiece#usage"
+    ],
+    "TutorialsAndTrainings": [
+      "https://www.kaggle.com/xhlulu/sentencepiece-experiment-with-jigsaw-global-data",
+      "https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb"
+    ]
+  }
+}

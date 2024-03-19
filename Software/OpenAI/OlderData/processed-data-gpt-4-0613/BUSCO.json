@@ -1,0 +1,19 @@
+{
+  "Software": "BUSCO",
+  "Website": "https://busco.ezlab.org/",
+  "Documentation": "https://busco.readthedocs.io/en/latest/",
+  "Tutorials and Training material": [
+    {
+      "Title": "BUSCO User Guide",
+      "Link": "https://busco.readthedocs.io/en/latest/userguide.html"
+    },
+    {
+      "Title": "BUSCO Tutorials",
+      "Link": "https://busco.readthedocs.io/en/latest/tuto/index.html"
+    },
+    {
+      "Title": "Training Material for BUSCO",
+      "Link": "https://training.h3abionet.org/Functional_and_Structural_Genome_Annotation/?page=a4125bdf2a07a867d5b5d17c00b181fd"
+    }
+  ]
+}

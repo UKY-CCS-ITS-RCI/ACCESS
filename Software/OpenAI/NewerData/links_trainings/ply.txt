@@ -1,0 +1,12 @@
+{
+  "Software Name": "PLY (Python Lex-Yacc)",
+  "Software URL": "https://www.dabeaz.com/ply/",
+  "Documentation Link": "https://www.dabeaz.com/ply/ply.html",
+  "Training and Tutorial Materials": [
+    {
+      "Tutorial 1": "https://www.dabeaz.com/ply/example.html",
+      "Tutorial 2": "https://www.drdobbs.com/open-source/constructing-a-python-based-parser/240169131",
+      "Tutorial 3": "https://www.slideshare.net/DabeazGuy/ply-by-example"
+    }
+  ]
+}

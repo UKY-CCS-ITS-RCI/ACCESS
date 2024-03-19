@@ -1,0 +1,15 @@
+{
+  "Software": {
+    "flac": {
+      "Software Page": "https://xiph.org/flac/",
+      "Documentation": "https://xiph.org/flac/documentation.html",
+      "Tutorials": [
+        {
+          "Basic flac tutorial": "https://xiph.org/flac/documentation_tools_flac.html",
+          "Flac tutorial on Youtube": "https://www.youtube.com/watch?v=YXRUEhT4VDE",
+          "Converting and burning flac files tutorial": "https://www.afterdawn.com/guides/archive/how_to_convert_flac_files.cfm"
+        }
+      ]
+    }
+  }
+}

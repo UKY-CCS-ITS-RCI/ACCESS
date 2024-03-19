@@ -1,0 +1,28 @@
+{
+"amber": {
+	"name": "Amber",
+	"main_page": "http://ambermd.org/",
+	"documentation": "http://ambermd.org/doc12/",
+	"tutorial": [{
+		"name": "Amber Tutorials by the Case Group",
+		"url": "http://ambermd.org/tutorials/"
+	}, {
+		"name": "Tutorial Video on Youtube: Introduction to Molecular Dynamics Simulations using AMBER",
+		"url": "https://www.youtube.com/watch?v=0YxadbDu6Rw"
+	}],
+	"conda_package": {
+		"name": "ambermdorg/label/main",
+		"url": "https://anaconda.org/ambermdorg/label/main"
+	},
+	"additional_resources": [{
+		"name": "Amber Tools on GitHub",
+		"url": "https://github.com/Amber-MD"
+	}, {
+		"name": "Amber Google Group",
+		"url": "https://groups.google.com/forum/#!forum/amber"
+	}, {
+		"name": "Amber Mailing List",
+		"url": "http://archive.ambermd.org/"
+	}]
+}
+}

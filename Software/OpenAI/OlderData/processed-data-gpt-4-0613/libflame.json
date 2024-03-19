@@ -1,0 +1,14 @@
+{
+    "software": "libflame",
+    "resources": {
+        "softwareHomepage": "https://www.cs.utexas.edu/~flame/web/libFLAME.html",
+        "documentation": "https://www.cs.utexas.edu/~flame/web/libFLAME.html#documentation",
+        "tutorials": [
+            {
+                "title": "libflame: The Complete Reference",
+                "url": "https://www.cs.utexas.edu/users/flame/web/libFLAME_docs/libflame-0.1-12.pdf"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

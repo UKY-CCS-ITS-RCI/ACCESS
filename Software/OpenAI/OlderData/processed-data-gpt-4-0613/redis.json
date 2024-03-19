@@ -1,0 +1,25 @@
+{
+  "Software": "Redis",
+  "Link": "https://redis.io/",
+  "Resources": [
+    {
+      "Documentation": {
+        "Link": "https://redis.io/documentation"
+      },
+      "Tutorials": [
+        {
+          "Name": "Redis tutorial",
+          "Link": "https://www.tutorialspoint.com/redis/index.htm"
+        },
+        {
+          "Name": "Redis crash course tutorial",
+          "Link": "https://www.youtube.com/watch?v=Hbt56gFj998"
+        },
+        {
+          "Name": "An introduction to Redis data types and abstractions",
+          "Link": "https://redis.io/topics/data-types-intro"
+        }
+      ]
+    }
+  ]
+}

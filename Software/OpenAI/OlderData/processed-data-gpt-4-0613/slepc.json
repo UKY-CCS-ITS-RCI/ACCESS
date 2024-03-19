@@ -1,0 +1,14 @@
+{
+    "software": "SLEPc",
+    "resources": {
+        "softwareHomepage": "https://slepc.upv.es/",
+        "documentation": "https://slepc.upv.es/documentation/",
+        "tutorials": [
+            {
+                "title": "SLEPc Tutorials",
+                "url": "https://slepc.upv.es/documentation/tutorials/"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "software": "jags",
+  "webURL": "https://mcmc-jags.sourceforge.io/",
+  "documents": {
+    "documentation_link": "https://sourceforge.net/projects/mcmc-jags/files/Manuals/4.x/",
+    "tutorials": [
+      {
+        "name": "Getting Started with JAGS",
+        "link": "https://www.uio.no/studier/emner/matnat/bio/INF-BIO5121/h18/tutorial-jags.pdf"
+      },
+      {
+        "name": "A Practical Introduction to JAGS",
+        "link": "https://fhshan.github.io/posts/pro_jags.html"
+      },
+      {
+        "name": "Intro to BUGS/JAGS",
+        "link": "https://rpsychologist.com/introBUGSjags"
+      }
+    ]
+  }
+}

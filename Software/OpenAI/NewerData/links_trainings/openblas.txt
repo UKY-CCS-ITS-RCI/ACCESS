@@ -1,0 +1,14 @@
+{
+  "Software_Name": "OpenBLAS",
+  "Software_URL": "https://www.openblas.net/",
+  "Documentation": {
+    "OpenBLAS User Manual": "https://github.com/xianyi/OpenBLAS/wiki/User-Manual",
+    "OpenBLAS API Reference": "https://www.openblas.net/#documentation"
+  },
+  "Training_Materials": {
+    "OpenBLAS Installation Guide": "https://medium.com/@prateekvishnu/simple-guide-to-install-openblas-and-lapack-in-mac-os-x-e1d9a63ef015",
+    "OpenBLAS Tutorials & Resources": "https://mran.microsoft.com/snapshot/2017-12-07/web/packages/openblas/index.html",
+    "Building and Installing OpenBLAS": "https://ahay.org/wiki/Compiling_OpenBLAS",
+    "How to use OpenBLAS": "https://markus-beuckelmann.de/blog/boosting-numpy-blas.html"
+  }
+}

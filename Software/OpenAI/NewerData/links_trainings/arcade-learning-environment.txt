@@ -1,0 +1,9 @@
+{
+  "Software Name":"Arcade Learning Environment",
+  "Software URL": "http://www.arcadelearningenvironment.org/",
+  "Documentation URL": "https://arcadelearningenvironment.org/documentation/",
+  "Tutorial URL": [
+    "https://towardsdatascience.com/using-the-arcade-learning-environment-abe1724b2e94",
+    "https://pytorch.org/tutorials/intermediate/ale_tutorial.html"
+  ]
+}

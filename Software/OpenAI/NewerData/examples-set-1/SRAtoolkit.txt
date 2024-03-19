@@ -1,0 +1,31 @@
+Use Case: Use SRAtoolkit for downloading and converting Sequence Read Archive (SRA) data sets to other formats for further analysis.
+
+Code details and examples: Code
+
+Command: prefetch 
+
+Input file: SRA accession ID
+
+```shell
+prefetch SRR390728
+```
+Description: This command downloads the SRA file "SRR390728.sra" into the current directory.
+
+Command: fastq-dump 
+
+Input file format: .sra files.
+
+```shell
+fastq-dump  --split-files SRR390728
+```
+
+Description: Above command will create two files, SRR390728_1.fastq and SRR390728_2.fastq, containing the forward and reverse reads, respectively.
+
+Command: vdb-validate 
+
+Input file format: .sra files.
+
+```shell
+vdb-validate SRR390728
+```
+Description: This command verifies the integrity of the downloaded SRA file. It's used to make sure the download completed correctly and did not result in a corrupted file.

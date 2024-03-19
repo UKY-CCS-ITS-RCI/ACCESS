@@ -1,0 +1,12 @@
+{
+  "Software Name": "Tcl",
+  "links": {
+    "software page": "https://www.tcl.tk/",
+    "documentation": "https://www.tcl.tk/man/tcl8.6/contents.htm",
+    "tutorials": [
+      "https://www.tutorialspoint.com/tcl-tk/index.htm",
+      "https://www.tcl-lang.org/man/",
+      "https://wiki.tcl-lang.org/page/TclTutor"
+    ]
+  }
+}

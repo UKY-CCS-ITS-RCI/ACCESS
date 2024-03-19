@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "GTK4": {
+      "MainPage": "https://www.gtk.org/",
+      "Documentation": "https://developer.gnome.org/gtk4/stable/",
+      "Tutorials": [
+        "https://www.youtube.com/watch?v=7i4PzvlOFNI",
+        "https://developer.gnome.org/gtk4/4.0/gtk-getting-started.html",
+        "https://codexpump.com/tutorial-gtk4.html"
+      ]
+    }
+  }
+}

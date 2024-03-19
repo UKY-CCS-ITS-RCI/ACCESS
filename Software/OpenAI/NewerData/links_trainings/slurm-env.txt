@@ -1,0 +1,31 @@
+{
+  "software_name": "Slurm-env",
+  "software_page": "https://slurm.schedmd.com/",
+  "Documentation": [
+    {
+      "link": "https://slurm.schedmd.com/documentation.html"
+    }
+  ],
+  "Training": [
+    {
+      "link": "https://hpcc.usc.edu/support/documentation/slurm/"
+    },
+    {
+      "link": "https://slurm.schedmd.com/tutorials.html"
+    },
+    {
+      "link": "https://www.olcf.ornl.gov/training-event/scheduler-slurm/"
+    }
+  ],
+  "Tutorial": [
+    {
+      "link": "https://cyberhelp.sesync.org/cyberhelp-slurm-tutorial/"
+    },
+    {
+      "link": "https://help.rc.ufl.edu/doc/SLURM_Tutorial"
+    },
+    {
+      "link": "https://slurm.schedmd.com/quickstart_admin.html"
+    }
+  ]
+}

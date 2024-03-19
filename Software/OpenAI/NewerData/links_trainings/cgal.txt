@@ -1,0 +1,27 @@
+{
+  "Software Name": "CGAL",
+  "Link": "https://www.cgal.org/",
+  "Documentation": "https://doc.cgal.org/",
+  "Tutorials, Training Materials": [
+    {
+      "Link": "https://www.cgal.org/tutorials.html",
+      "Title": "CGAL Tutorials"
+    },
+    {
+      "Link": "https://doc.cgal.org/latest/Manual/introduction.html",
+      "Title": "CGAL User and Reference Manual"
+    },
+    {
+      "Link": "https://www.cgal.org/faq.html",
+      "Title": "FAQ"
+    },
+    {
+      "Link": "https://www.cgal.org/examples.html",
+      "Title": "Examples"
+    },
+    {
+      "Link": "https://www.cgal.org/download.html",
+      "Title": "Download and Installation"
+    }
+  ]
+}

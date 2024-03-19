@@ -1,0 +1,28 @@
+{
+  "software": "littlecms",
+  "software_URL": "https://www.littlecms.com/",
+  "documentation": [
+    {
+      "title": "Official Documentation",
+      "URL": "https://www.littlecms.com/documentation.html"
+    },
+    {
+      "title": "API Documentation",
+      "URL": "https://www.littlecms.com/apidoc.html"
+    }
+  ],
+  "training_and_tutorials": [
+    {
+      "title": "LittleCMS Tutorial by 'The Never Before Told Story'",
+      "URL": "https://neveragainsoftware.wordpress.com/category/lcms-tutorial/"
+    },
+    {
+      "title": "Working with the Little CMS in OpenCV",
+      "URL": "https://docs.opencv.org/master/db/d8e/tutorial_ximgproc_littlecnpyramid.html"
+    },
+    {
+      "title": "LittleCMS Mailing list",
+      "URL": "https://groups.google.com/g/littlecms"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+Use Case: libnotify is used to send desktop notifications to the user from a program running in the background, informing them of important events. 
+
+Code details and examples:
+
+Code:
+Here is an example in Python using the pynotifier package, which uses libnotify internally.
+
+```python
+from pynotifier import Notification
+
+Notification(
+	title='Notification Title',
+	description='Notification Description',
+	icon_path='/path/to/image/file/icon.png', 
+	duration=5,                              # Duration in seconds
+	urgency=Notification.URGENCY_CRITICAL
+).send()
+```
+In this sample code, you get to specify the title of the notification, a description, the path to an optional icon that shows in the notification, the duration the notification is displayed in seconds, and the urgency level. The path to the icon must be absolute. 
+
+There is no strict input file required for libnotify because the notification details are set within the program code.
+
+To run this code, save it in a file and then run that file using Python 3.
+
+Command to run:
+
+```
+python3 notification.py
+```

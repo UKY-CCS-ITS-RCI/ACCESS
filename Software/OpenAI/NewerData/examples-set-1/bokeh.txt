@@ -1,0 +1,43 @@
+Use Case: Bokeh is used for creating interactive visualizations for modern web browsers. It provides elegant, concise construction of versatile graphics, and affords high-performance interactivity over large or streaming datasets.
+
+Code Details and Examples: Code 
+
+In Bokeh, data is provided for plotting using Python lists, arrays, or pandas objects. Consider a simple excel data file ("data.xlsx") containing 2 columns- 'Fruits' and 'Quantity'. 
+
+Sample input file format:
+ 
+     Fruits   Quantity
+ 0   Apples   25
+ 1   Oranges  18
+ 2   Bananas  22 
+
+Here is a simple example of using Bokeh to display this data as a plot:
+
+```python
+from bokeh.plotting import figure, show
+from bokeh.io import output_file
+import pandas as pd
+
+# Load data
+df = pd.read_excel("data.xlsx")
+
+f = figure(x_range=df['Fruits'], plot_width=400, plot_height=400)
+
+f.vbar(x=df['Fruits'], width=0.5, bottom=0, top=df['Quantity'], color="firebrick")
+
+output_file("barchart.html")
+
+show(f)
+```
+
+Command to run: 
+
+You can run the Python code above through a Python interpreter or Jupyter notebook. To run the python script from command line, navigate to the directory where the script is saved and use the command:
+
+```bash
+python filename.py
+```
+
+In the mentioned code, `'Fruits'` is on X-axis and `'Quantity'` is on Y-axis. A vertical bar (vbar) chart is used to represent the given data. The output is saved as an HTML file "barchart.html" and can be viewed in web browser.
+
+Please ensure Bokeh is properly imported and data file is present in your working directory for successful execution.

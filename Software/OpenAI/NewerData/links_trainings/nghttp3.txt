@@ -1,0 +1,17 @@
+{
+  "Software Package Name": "nghttp3",
+  "Links": {
+    "Software Page": "https://github.com/ngtcp2/nghttp3",
+    "Documentation": "https://nghttp3.org/",
+    "Training and Tutorial Materials": [
+      {
+        "Title": "nghttp3 tutorial",
+        "URL": "https://github.com/ngtcp2/nghttp3"
+      },
+      {
+        "Title": "HTTP/3 explained guide",
+        "URL": "https://github.com/bagder/http3-explained"
+      }
+    ]
+  }
+}

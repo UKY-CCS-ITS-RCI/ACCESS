@@ -1,0 +1,16 @@
+{
+  "Software": "lz4",
+  "details": 
+  {
+    "Software URL": "https://lz4.github.io/lz4/",
+    "Additional URLs": [
+      {
+        "Documentation": "http://lz4.github.io/lz4/#documentation",
+        "Tutorials and Training Materials": [
+          "https://github.com/lz4/lz4/wiki",
+          "https://fastcompression.blogspot.com/2011/05/lz4-explained.html"
+        ]
+      }
+    ]
+  }
+}

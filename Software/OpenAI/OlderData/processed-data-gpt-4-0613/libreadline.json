@@ -1,0 +1,24 @@
+{
+  "Software": "libreadline",
+  "Software_page": "https://tiswww.case.edu/php/chet/readline/rltop.html",
+  "Documentation": [
+    {
+      "description": "Intro to the Readline Library",
+      "URL": "https://thoughtbot.com/blog/tab-completion-in-gnu-readline"
+    },
+    {
+      "description": "Library Functions for libreadline",
+      "URL": "https://www.gnu.org.software.libc.manual.html#Library-Functions"
+    }
+  ],
+  "Tutorials": [
+    {
+      "description": "Tutorial in Readline",
+      "URL": "https://www.bigsmoke.us/readline/shortcuts"
+    },
+    {
+      "description": "Readline Key Bindings" ,
+      "URL": "https://cnswww.cns.cwru.edu/php/chet/readline/rluserman.html#SEC5"
+    }
+  ]
+}

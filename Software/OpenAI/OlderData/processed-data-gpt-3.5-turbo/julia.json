@@ -1,0 +1,20 @@
+{
+    "software name": "Julia",
+    "comprehensive overview": "Julia is a high-level, high-performance programming language specifically designed for numerical and scientific computing. It combines the flexibility of dynamic scripting languages with the speed and performance of compiled languages, making it well-suited for data science, machine learning, and numerical simulations.",
+    "core features": [
+        "High-performance computing for numerical and scientific applications",
+        "Dynamic language features with type stability",
+        "Extensive library ecosystem for mathematical operations and data analysis"
+    ],
+    "general tags": [
+        "Programming Language",
+        "Numerical Computing",
+        "Data Science"
+    ],
+    "additional tags": {
+        "research discipline": "Computer Science",
+        "research area": "Numerical Computing",
+        "software class": "Programming Language",
+        "software type": "Numerical Computing Tool"
+    }
+}

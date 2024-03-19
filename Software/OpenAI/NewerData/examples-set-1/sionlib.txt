@@ -1,0 +1,58 @@
+Use Case: sionlib is a highly scalable, portable and efficient parallel I/O library to read and write binary data with support for single and multiple file(s). It is widely used for storing and retrieving large datasets in high performance computing environments. 
+
+Code Details and Examples:
+
+Code:
+
+Let's consider a simple example where we want to save an array of integers to a SIONlib file and read it back:
+
+```C++
+#include <sionlib>
+
+int main(int argc, char* argv[])
+{
+    MPI_Init(&argc, &argv);
+
+    int myrank;
+    MPI_Comm_rank(MPI_COMM_WORLD, &myrank);
+
+    // Writing to SIONlib
+    int* data_to_write = new int[100];
+    for(int i=0; i<100; i++)
+    {
+        data_to_write[i] = myrank*100 + i;
+    }
+
+    int fd = sion_paropen_mpi("mydata.sion", "wb", &numfiles, MPI_COMM_WORLD, &blksize, &fsblksize, NULL);
+
+    sion_int64 chunksize = 100;
+    sion_seek(fd, myrank*chunksize, SION_CURRENT_BLK, SION_CURRENT_POS);
+
+    sion_fwrite(data_to_write, sizeof(int), chunksize, fd);
+    sion_parclose_mpi(fd);
+
+    // Reading from SIONlib
+    int* data_to_read = new int[100];
+    fd = sion_paropen_mpi("mydata.sion", "rb", &numfiles, MPI_COMM_WORLD, &blksize, &fsblksize, NULL);
+
+    sion_seek(fd, myrank*chunksize, SION_CURRENT_BLK, SION_CURRENT_POS);
+
+    sion_fread(data_to_read, sizeof(int), chunksize, fd);
+    sion_parclose_mpi(fd);
+
+    MPI_Finalize();
+
+    return 0;
+}
+```
+
+To compile and run this code:
+
+```
+mpicxx -o sion_example sion_example.cpp -lsionlib
+mpirun -np 4 ./sion_example
+```
+
+In this example, we are initializing MPI and getting the rank of the current process. Each process writes its rank times 100 plus the index to a shared SIONlib file. Then it reads the same chunk back from the file. The SIONlib file is opened in parallel using 'sion_paropen_mpi' function and closed using 'sion_parclose_mpi'. The reading and writing is done using 'sion_fwrite' and 'sion_fread' respectively. To move the file pointer we use the 'sion_seek' function where we specify the block and position. Please note that you should have the necessary permissions to read and write in the specified directory. Also, file handling errors are omitted in this simplified example for clarity.
+
+Note: This is a simple use case and the actual usage of SIONlib may vary according to the specific requirements of a project.

@@ -1,0 +1,24 @@
+{
+  "Software": "makedepend",
+  "Website": "https://en.wikipedia.org/wiki/Makedepend",
+  "Documentation": [
+    {
+      "Title": "Makedepend - linux man page",
+      "Link": "https://www.unix.com/man-page/linux/1/makedepend/"
+    },
+    {
+      "Title": "The `makedepend' program",
+      "Link": "https://www.gnu.org/software/make/manual/html_node/makedepend.html"
+    }
+  ],
+  "Tutorial": [
+    {
+      "Title": "How to use makedepend? - Stack Overflow",
+      "Link": "https://stackoverflow.com/questions/3870966/how-to-use-makedepend"
+    },
+    {
+      "Title": "An Introduction to GCC",
+      "Link": "http://www.network-theory.co.uk/docs/gccintro/gccintro_35.html"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Software": "kmergenie",
+  "Software_URL": "http://kmergenie.bx.psu.edu/",
+  "Documentation": [
+    {
+      "Doc_URL": "http://kmergenie.bx.psu.edu/manual.html"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Tutorial1_URL": "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/kmergenie-tutorial/"
+    },
+    {
+      "Tutorial2_URL": "https://galaxyproject.github.io/training-material/topics/assembly/tutorials/general-introduction/tutorial.html"
+    }
+  ]
+}

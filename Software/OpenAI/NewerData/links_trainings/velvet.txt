@@ -1,0 +1,19 @@
+{
+  "software_name": "Velvet",
+  "software_page": "https://www.ebi.ac.uk/~zerbino/velvet/",
+  "documentation": "https://www.ebi.ac.uk/~zerbino/velvet/Manual.pdf",
+  "training": [
+    {
+      "title": "A tutorial for using Velvet",
+      "link": "https://www.youtube.com/watch?v=1N2-C3cx5Qk"
+    },
+    {
+      "title": "Velvet Tutorial - MyBioinfo",
+      "link": "https://mybioinf.com/2018/01/01/velvet-tutorial/"
+    },
+    {
+      "title": "Introduction to Velvet - Slides from an old tutorial",
+      "link": "https://prezi.com/afp_rc_vyowu/introduction-to-velvet/"
+    }
+  ]
+}

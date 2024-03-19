@@ -1,0 +1,25 @@
+{
+   "software":{
+      "name":"pytest",
+      "software_url":"https://docs.pytest.org/en/latest/",
+      "documentation_url":"https://docs.pytest.org/en/latest/contents.html",
+      "tutorial_materials":[
+         {
+            "name":"Pytest Tutorial for Beginners",
+            "url":"https://www.guru99.com/pytest-tutorial.html"
+         },
+         {
+            "name":"Python Testing with Pytest",
+            "url":"https://www.fullstackpython.com/pytest.html"
+         },
+         {
+            "name":"Pytest Tutorial: What is, Install, Fixture, Assertions",
+            "url":"https://www.javatpoint.com/pytest-tutorial"
+         },
+         {
+            "name":"An introduction to pytest",
+            "url":"https://realpython.com/pytest-python-testing/"
+         }
+      ]
+   }
+}

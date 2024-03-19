@@ -1,0 +1,27 @@
+Use Case: Jasper is an open-source initiative to provide a free software-based reference implementation of the codec specified in the JPEG-2000 Part-1 standard. This includes compression and decompression of images and can be useful in several fields like multimedia applications or scientific visualizations.
+
+Code details and examples: 
+
+Code:
+
+The command-line interface to the library of functions for manipulating JPEG-2000 files is 'jasper'. Here is an example of how you can encode and decode an image using the jpeg-2000 format:
+
+1. For converting a bmp image to jp2, using jasper:
+
+   ```
+   jasper --input input_image.bmp --output output_image.jp2 
+   ```
+
+2. For converting a jp2 to bmp image, using jasper:
+
+   ```
+   jasper --input input_image.jp2 --output output_image.bmp
+   ```
+   
+Format Required: Jasper supports multiple input and output formats for images, including BMP and PNM.
+
+Specifications and Details in Input Files: The input files for the above code example are image files in either Bitmap (BMP) or JPEG-2000 (JP2) format.
+The BMP is a format that stores bitmap images, including both monochrome and color, that are uncompressed or compressed with lossless compression.
+The JP2 is a format that is a bitmap image type used by JPEG 2000, an image encoding system. It uses wavelet compression to code the image to achieve high compression ratios.
+
+Command to Run: The commands to run the given examples are provided in the code examples section.

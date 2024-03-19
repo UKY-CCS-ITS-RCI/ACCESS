@@ -1,0 +1,18 @@
+{
+  "software": "rocm-cmake",
+  "details": [
+    {
+      "web_link": "https://github.com/RadeonOpenCompute/rocm-cmake",
+      "additional_links": [
+        {
+          "doc_link": "https://rocmdocs.amd.com/en/latest/",
+          "tutorials_and_training_links": [
+            "https://rocm-documentation.readthedocs.io/en/latest/",
+            "https://www.khronos.org/registry/OpenCL/sdk/2.2/docs/man/",
+            "https://www.amd.com/en/technologies/rocm"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+Use Case: Using NiBabel for reading imaging data from formats such as Nifti1, Nifti2, Analyze and many more. 
+
+Code details and examples:
+
+Code:
+
+```python
+import nibabel as nib
+
+image = nib.load("example_image.nii")
+image_header = image.header
+image_data = image.get_fdata()
+```
+
+This code will load an image file named "example_image.nii" with nibabel, and then pull out the header and data. The header contains metadata about the image, such as the dimensions and pixel spacing, whereas the data contains the pixel values for the image. 
+
+Command:
+
+Since this is a python library, commands are executed in a python environment. Ensure you have installed nibabel using pip:
+
+``` 
+pip install nibabel
+```
+
+Then run your python script using:
+
+``` 
+python your_script.py
+```
+
+Requirements:
+
+The input file format needs to be an imaging format such as Nifti1, Nifti2, or Analyze. The image file in the example code is called "example_image.nii" but you would replace this with your specific image file. For example, if your image file was called "brain_scan.nii", the line of code would be `image = nib.load('brain_scan.nii')`.
+
+Importantly, whichever image file you use must be stored in the same directory as your python script, or else you must provide the relative path to the file.

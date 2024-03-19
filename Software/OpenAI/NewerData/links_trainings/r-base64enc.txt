@@ -1,0 +1,11 @@
+{
+  "Software": "r-base64enc",
+  "Software Information": {
+    "Link": "https://cran.r-project.org/web/packages/base64enc/index.html",
+    "Documentation Link": "https://cran.r-project.org/web/packages/base64enc/base64enc.pdf"
+  },
+  "Tutorial & Training Materials": {
+    "Tutorial 1": "https://www.rdocumentation.org/packages/base64enc/versions/0.1-3",
+    "Tutorial 2": "https://www.youtube.com/watch?v=8bT5pdUQArA"
+  }
+}

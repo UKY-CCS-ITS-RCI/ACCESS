@@ -1,0 +1,11 @@
+{
+  "software": {
+      "name": "amdfftw",
+      "description": "AMD FFTW is a software library for computing discrete Fourier transforms in one or more dimensions.",
+      "software_link": "https://developer.amd.com/amd-aocl/fftw/",
+      "additional_resources": {
+        "documentation": "https://developer.amd.com/amd-aocl/fftw/",
+        "tutorial": "https://developer.amd.com/amd-acml/amd-fftw/"
+      }
+  }
+}

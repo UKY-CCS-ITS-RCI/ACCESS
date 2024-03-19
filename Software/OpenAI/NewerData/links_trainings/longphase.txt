@@ -1,0 +1,8 @@
+{
+  "longphase": {
+    "software_page": "https://www.sanger.ac.uk/tool/longphase/",
+    "documentation": "https://github.com/MyersGroup/longphase/blob/master/README.md",
+    "training_materials": [],
+    "tutorials": ["https://github.com/MyersGroup/longphase/blob/master/README.md"]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "beast2",
+  "software_page": "https://www.beast2.org/",
+  "documentation": "https://www.beast2.org/wiki/index.php/Main_Page",
+  "tutorial_materials": [
+    { 
+      "title" : "BEAST 2 Tutorials", 
+      "link" : "https://www.beast2.org/tutorials/"
+    },
+    {
+      "title" : "BEAST 2 Tutorial on YouTube",
+      "link" : "https://www.youtube.com/playlist?list=PLiZ1EVz-gMz_UoEED8pxb7JDKU6AvgasJ"
+    },
+    {
+      "title" : "BEAST 2 Wiki Documentation on GitHub",
+      "link" : "https://github.com/CompEvol/beast2/wiki"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Software": {
+    "Name": "libssh",
+    "Website": "https://www.libssh.org/",
+    "Details": {
+      "Documentation": "https://api.libssh.org/",
+      "Tutorials": [
+        {"Tutorial1": "https://www.libssh.org/tutorial-1/"},
+        {"Tutorial2": "https://www.libssh.org/tutorial-2/"},
+        {"Tutorial3": "https://www.libssh.org/tutorial-3/"},
+        {"Tutorial4": "https://www.libssh.org/tutorial-4/"},
+        {"Tutorial5": "https://www.libssh.org/tutorial-5/"}
+      ]
+    }
+  }
+}

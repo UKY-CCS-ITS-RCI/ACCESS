@@ -1,0 +1,15 @@
+{
+    "Software Name": "NTL",
+    "Website": "https://libntl.org/",
+    "Documentation": "https://libntl.org/doc/tour-tour.html",
+    "Tutorials": [
+        {
+            "Title": "NTL Installation Tutorial",
+            "Link": "http://www.shoup.net/ntl/doc/tour-install.html"
+        },
+        {
+            "Title": "Introduction to NTL",
+            "Link": "https://libntl.org/doc/tour-intro.html"
+        }
+    ]
+}

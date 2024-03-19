@@ -1,0 +1,13 @@
+{
+  "Software": "amask",
+  "Software_URL": "https://github.com/ajkxyz/amask",
+  "Documentation": {
+    "Doc1_URL": "https://www.researchgate.net/publication/347654582_amask_A_Python_package_for_automatically_binarising_images_of_leaves",
+    "Doc2_URL": "https://github.com/ajkxyz/amask#amask"
+  },
+  "Tutorials_Training": {
+    "Tut1_URL": "https://www.youtube.com/watch?v=e_Ji25YTIkQ",
+    "Tut2_URL": "https://www.researchgate.net/publication/347654582_amask_A_Python_package_for_automatically_binarising_images_of_leaves",
+    "Tut3_URL": "https://github.com/ajkxyz/amask#example-usage"
+  }
+}

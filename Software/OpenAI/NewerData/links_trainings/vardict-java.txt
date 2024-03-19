@@ -1,0 +1,13 @@
+{
+  "Software": "VarDictJava",
+  "Details": {
+    "Software_URL": "https://github.com/AstraZeneca-NGS/VarDictJava",
+    "Documentation_URL": "https://github.com/AstraZeneca-NGS/VarDictJava/blob/master/README.md",
+    "Tutorials_and_Training": [
+      {
+        "1_Tutorial_URL": "https://vardict.readthedocs.io/en/latest/",
+        "2_Tutorial_URL": "https://github.com/AstraZeneca-NGS/VarDictJava/blob/master/VarDictJava%20User%20Guide.pdf"
+      }
+    ]
+  }
+}

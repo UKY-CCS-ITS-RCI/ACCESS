@@ -1,0 +1,31 @@
+{
+  "Software Name": "Hadoop",
+  "Software Link": "https://hadoop.apache.org/",
+  "Documentation Link": "https://hadoop.apache.org/docs/current/",
+  "Tutorials and Training Materials": [
+    {
+      "Link": "https://www.tutorialspoint.com/hadoop/index.htm",
+      "Description": "Tutorialspoint Hadoop Tutorial"
+    },
+    {
+      "Link": "https://www.javatpoint.com/hadoop-tutorial",
+      "Description": "JavatPoint Hadoop Tutorial"
+    },
+    {
+      "Link": "https://www.guru99.com/bigdata-tutorials.html",
+      "Description": "Guru99 Hadoop & Big Data Tutorials"
+    },
+    {
+      "Link": "https://www.edureka.co/blog/hadoop-tutorial/",
+      "Description": "Edureka Hadoop Tutorial"
+    },
+    {
+      "Link": "https://www.udemy.com/topic/hadoop/",
+      "Description": "Udemy Hadoop Courses"
+    },
+    {
+      "Link": "https://www.coursera.org/courses?query=hadoop",
+      "Description": "Coursera Hadoop Courses"
+    }
+  ]
+}

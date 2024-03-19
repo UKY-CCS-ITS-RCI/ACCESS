@@ -1,0 +1,16 @@
+{
+    "name": "Magma",
+    "software_page": "http://icl.cs.utk.edu/magma/",
+    "links": {
+        "documentation": "http://icl.cs.utk.edu/magma/software/view.html?id=281",
+        "tutorials": [
+            "http://icl.cs.utk.edu/magma/software/view.html?id=398",
+            "https://cvw.cac.cornell.edu/gpu/magma",
+            "https://developer.nvidia.com/gpu-accelerated-libraries/magma"
+        ],
+        "training": [
+            "http://icl.cs.utk.edu/magma/forum/",
+            "http://icl.cs.utk.edu/magma/troubleshooting-getting-started.html"
+        ]
+    }
+}

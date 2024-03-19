@@ -1,0 +1,17 @@
+{
+  "software": "ngmlr",
+  "details": {
+    "official_page": "https://github.com/philres/ngmlr",
+    "documentation": "https://github.com/philres/ngmlr",
+    "tutorials_and_training": [
+      {
+        "name": "Github page",
+        "link": "https://github.com/philres/ngmlr"
+      },
+      {
+        "name": "Bioconda page",
+        "link": "https://bioconda.github.io/recipes/ngmlr/README.html"
+      }
+    ]
+  }
+}

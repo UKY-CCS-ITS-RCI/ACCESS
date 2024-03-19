@@ -1,0 +1,31 @@
+{
+  "softwareName": "Segmentation-Models",
+  "softwareUrl": "https://github.com/qubvel/segmentation_models",
+  "documentation": {
+    "url": "https://segmentation-models.readthedocs.io/en/latest/"
+  },
+  "tutorials": [
+    {
+      "url": "https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47",
+      "title": "Understanding Semantic Segmentation with UNet"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8ju4WE4tXTw",
+      "title": "Semantic Image Segmentation in Keras (Video Tutorial)"
+    },
+    {
+      "url": "https://medium.com/@msmapark2/u-net-convolutional-networks-for-biomedical-image-segmentation-4566f70037b",
+      "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+    }
+  ],
+  "trainingMaterials": [
+    {
+      "url": "https://towardsdatascience.com/review-dilated-convolution-semantic-segmentation-9d5a5bd768f5",
+      "title": "Review Dilated Convolution, Semantic Segmentation"
+    },
+    {
+      "url": "https://www.coursera.org/lecture/convolutional-neural-networks/semantic-segmentation-lAYoz",
+      "title": "Semantic Segmentation (Coursera)"
+    }
+  ]
+}

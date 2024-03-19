@@ -1,0 +1,25 @@
+Use Case: Sequence Read Archive (SRA) is a database for the storage of sequencing data. Biologists and computational biologists use it to store raw sequence data as well as aligned data. It is a critical database for the fields of genomics, metagenomics, transcriptomics, among other -omics sciences.
+
+Code details and examples: 
+
+Code:
+
+```
+# Fetch SRA data
+prefetch SRR390728
+
+# Convert SRA data to FASTQ format
+fastq-dump SRR390728
+```
+
+Input Files: 
+
+The only input for the code is the accession number of the data (e.g., SRR390728). No other file is required.
+
+Specifications and Details in Input Files:
+
+No additional specifications are required for the input file. The input is quite simple: just the data accession number. The range of acceptable values for accession numbers can be found at NCBI's website. No other input format is accepted except this.
+
+Command to Run:
+
+The command to run the SRA toolkit is 'prefetch' to download data and 'fastq-dump' to convert the SRA data to .fastq format acceptable for most downstream analyses. This assumes that the SRA toolkit is installed and the $PATH environment variable is appropriately set to include the toolkit's binary. If the $PATH variable is not set correctly, then you will need to provide the full path to the binary while calling the prefetch and fastq-dump commands.

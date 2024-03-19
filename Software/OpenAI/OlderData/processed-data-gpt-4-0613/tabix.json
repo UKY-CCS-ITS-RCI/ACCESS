@@ -1,0 +1,9 @@
+{
+    "software": "Tabix",
+    "resources": {
+        "softwareHomepage": "http://www.htslib.org/doc/tabix.html",
+        "documentation": "http://www.htslib.org/doc/tabix.html",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

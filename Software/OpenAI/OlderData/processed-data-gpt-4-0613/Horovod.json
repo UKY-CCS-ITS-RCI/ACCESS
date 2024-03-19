@@ -1,0 +1,22 @@
+
+{
+  "Horovod": {
+    "software_page": "https://horovod.ai/",
+    "documentation": "https://horovod.readthedocs.io/en/stable/",
+    "training_materials": [
+      {
+        "title": "Scaling TensorFlow and PyTorch with Horovod",
+        "url": "https://developer.nvidia.com/horovod"
+      },
+      {
+        "title": "Introducing HorovodRunner for distributed deep learning",
+        "url": "https://databricks.com/blog/2019/01/14/introducing-horovodrunner-for-distributed-deep-learning.html"
+      },
+      {
+        "title": "Training Models at Scale with Horovod Estimator",
+        "url": "https://aws.amazon.com/blogs/machine-learning/training-models-at-scale-with-horovod-estimator/"
+      }
+    ]
+  }
+}
+

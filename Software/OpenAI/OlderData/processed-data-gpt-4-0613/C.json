@@ -1,0 +1,19 @@
+{
+  "Software": "C",
+  "Website": "https://en.wikipedia.org/wiki/C_(programming_language)",
+  "Documentation": "http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1548.pdf",
+  "Tutorials and Training material": [
+    {
+      "Title": "C Programming Tutorial",
+      "Link": "https://www.learn-c.org/"
+    },
+    {
+      "Title": "C Langauge - Spoken Tutorial",
+      "Link": "https://spoken-tutorial.org/tutorial-search/?search_foss=C+%28Spoken+Tutorial%29&search_language=English"
+    },
+    {
+      "Title": "C Language Playlist",
+      "Link": "https://www.youtube.com/watch?v=KJgsSFOSQv0&list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "Software_Name": "libXinerama",
+  "Link": "https://www.x.org/wiki/",
+  "Additional_Resources": {
+    "Documentation": "https://www.x.org/releases/X11R7.6/doc/man/man3/Xinerama.3.xhtml",
+    "Training_Materials": [],
+    "Tutorial_Materials": []
+  }
+}

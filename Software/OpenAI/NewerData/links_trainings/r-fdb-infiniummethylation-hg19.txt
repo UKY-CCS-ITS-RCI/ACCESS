@@ -1,0 +1,24 @@
+{
+  "Software Name": "r-fdb-infiniummethylation-hg19",
+  "Software URL": "https://bioconductor.org/packages/release/data/annotation/html/FDb.InfiniumMethylation.hg19.html",
+  "Documentation": [
+    {
+      "URL": "https://bioconductor.org/packages/release/bioc/vignettes/FDb.InfiniumMethylation.hg19/inst/doc/FDb.InfiniumMethylation.hg19.pdf",
+      "Title": "FDb.InfiniumMethylation.hg19 User Guide"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "https://shianjun.net/2016/05/30/tutorial-use-bioconductor-package-minfi-to-analyse-illumina-450k-beadhip/",
+      "Title": "Tutorial: Use Bioconductor package minfi to analyse Illumina 450k beadchip"
+    },
+    {
+      "URL": "https://www.bioconductor.org/help/workflows/methylationArrayAnalysis/",
+      "Title": "DNA methylation array analysis workflow tutorial"
+    },
+    {
+      "URL": "https://www.bioconductor.org/help/course-materials/2012/BioC2012/Practicals/Arrays/Minfi/MethylationPractical.html",
+      "Title": "DNA methylation arrays practical tutorial"
+    }
+  ]
+}

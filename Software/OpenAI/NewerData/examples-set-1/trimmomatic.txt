@@ -1,0 +1,19 @@
+Use Case: Trimmomatic is a tool for Illumina sequence data. It designed to perform a variety of quality control checks on raw sequences and improve the quality of the sequence data.
+
+Code details and examples:
+
+Code:
+
+Input file formats: Trimmomatic accepts FastQ files, which are files that contain both sequences and their corresponding quality scores.
+
+The following is a minimal typical command of trimmomatic:
+
+```
+trimmomatic PE input_forward.fq.gz input_reverse.fq.gz output_forward_paired.fq.gz output_forward_unpaired.fq.gz output_reverse_paired.fq.gz output_reverse_unpaired.fq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+```
+
+The FastQ input files are `input_forward.fq.gz` and `input_reverse.fq.gz`. The FastQ output files are `output_forward_paired.fq.gz`, `output_forward_unpaired.fq.gz`, `output_reverse_paired.fq.gz` and `output_reverse_unpaired.fq.gz`. 
+
+The strings `ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36` are options for trimmomatic. This string defines that the application will use the adapter sequences defined in TruSeq3-PE.fa, that it should remove leading low quality or N bases (below quality 3), trailing low quality or N bases (below quality 3), scan the read with a 4-base wide sliding window and cutoff when the average quality in the 4 bases falls below 15 and drop the read if it is below a specified length (36). 
+
+This command specifies paired-end mode (PE) for a dual-end sequencing machine. If you are using a single-end sequencing machine, you should specify SE mode instead.

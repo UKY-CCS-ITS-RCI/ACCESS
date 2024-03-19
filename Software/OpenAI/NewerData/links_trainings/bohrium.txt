@@ -1,0 +1,19 @@
+{
+  "software": "Bohrium",
+  "website": "https://bh107.org/",
+  "documentation": "https://bohrium.readthedocs.io/en/latest/",
+  "tutorials": [
+    {
+      "description": "Bohrium array programming - Black Scholes tutorial",
+      "url": "https://nbviewer.jupyter.org/github/bh107/bohrium/blob/master/tutorial/black_scholes/Black%20Scholes.ipynb"
+    },
+    {
+      "description": "Bohrium array programming - N-body tutorial",
+      "url": "https://nbviewer.jupyter.org/github/bh107/bohrium/blob/master/tutorial/nbody/N-body.ipynb"
+    },
+    {
+      "description": "Bohrium array programming - Pi tutorial",
+      "url": "https://nbviewer.jupyter.org/github/bh107/bohrium/blob/master/tutorial/pi/Pi.ipynb"
+    }
+  ]
+}

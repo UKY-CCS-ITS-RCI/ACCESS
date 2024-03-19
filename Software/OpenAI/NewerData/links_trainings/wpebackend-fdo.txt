@@ -1,0 +1,7 @@
+{
+  "software_name": "wpebackend-fdo",
+  "software_url": "https://wpewebkit.org/doc/wpebackend-fdo-1.8.0/",
+  "documentation_url": "https://wpewebkit.org/doc/wpebackend-fdo-1.8.0/wpe_fdo_intro.html",
+  "tutorial_url": [],
+  "additional_info_url": []
+}

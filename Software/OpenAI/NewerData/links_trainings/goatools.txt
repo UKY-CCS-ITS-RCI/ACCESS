@@ -1,0 +1,13 @@
+{
+   "softwareName":"goatools",
+   "URL":"https://github.com/tanghaibao/goatools",
+   "softwarePage":"https://goatools.readthedocs.io/en/latest/",
+   "additionalLinks":{
+      "documentation":"https://readthedocs.org/projects/goatools/downloads/pdf/latest/",
+      "tutorials":[
+         "https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/0471250953.bi1411s48",
+         "https://www.youtube.com/watch?v=M3M0kHtE_3k",
+         "https://genomicsclass.github.io/book/pages/goatools.html"
+      ]
+   }
+}

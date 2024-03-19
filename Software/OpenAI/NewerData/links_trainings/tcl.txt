@@ -1,0 +1,34 @@
+{
+  "software_name": "tcl",
+  "software_URL": "https://www.tcl.tk/",
+  "documentation": [
+    {
+      "description": "TCL Manual",
+      "URL": "https://www.tcl.tk/man/tcl8.6/TclCmd/contents.htm"
+    },
+    {
+      "description": "TCL Developer Guide",
+      "URL": "https://www.tcl.tk/doc/howto/tcl.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "description": "TutorialsPoint TCL Tutorial",
+      "URL": "https://www.tutorialspoint.com/tcl-tk/index.htm"
+    },
+    {
+      "description": "TCL Wiki Book",
+      "URL": "https://en.wikibooks.org/wiki/Tcl_Programming"
+    }
+  ],
+  "training": [
+    {
+      "description": "Learn TCL - Full course for Beginners",
+      "URL": "https://www.youtube.com/watch?v=uPZ_2DlWPQ8"
+    },
+    {
+      "description": "Wellspring Interactive TCL Training Course",
+      "URL": "https://wellspringinteractive.com/training/tcl-tk-training.html"
+    }
+  ]
+}

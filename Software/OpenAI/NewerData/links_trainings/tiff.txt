@@ -1,0 +1,14 @@
+{
+  "software": {
+    "name": "Tiff",
+    "description": "A library that supports the manipulation of TIFF image files.",
+    "links": {
+      "software": "http://simplesystems.org/libtiff/",
+      "documentation": "http://www.libtiff.org/libtiff.html",
+      "tutorials": [
+        "https://www.fileformat.info/format/tiff/egff.htm",
+        "https://moderateenthused.wordpress.com/2012/11/25/working-with-tiff-tagged-image-file-format-images-in-java-using-the-libtiff-library/"
+      ]
+    }
+  }
+}

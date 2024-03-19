@@ -1,0 +1,21 @@
+{
+  "software": "r-htmlwidgets",
+  "software_url": "https://www.htmlwidgets.org/",
+  "documentation_url": "https://www.htmlwidgets.org/develop_intro.html",
+  "tutorials":[
+    {
+      "tutorial1":{
+        "title":"HTML Widgets Tutorial",
+        "url": "https://rstudio.github.io/htmlwidgets/"
+      },
+      "tutorial2":{
+        "title":"Building HTML widgets - an introduction",
+        "url": "https://shiny.rstudio.com/tutorial/written-tutorial/lesson6/"
+      },
+      "tutorial3":{
+        "title":"Creating custom htmlwidgets",
+        "url": "https://ashgrimm.github.io/vue_widgets/"
+      }
+    }
+  ]
+}

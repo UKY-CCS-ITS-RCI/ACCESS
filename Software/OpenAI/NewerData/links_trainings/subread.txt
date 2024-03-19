@@ -1,0 +1,25 @@
+{
+"Subread": {
+"Software URL": "http://subread.sourceforge.net/",
+"Documentation": [
+{
+"URL": "http://bioinf.wehi.edu.au/subread-package/SubreadUsersGuide.pdf",
+"Type": "UserGuide"
+},
+{
+"URL": "http://subread.sourceforge.net/",
+"Type": "Online Documentation"
+}
+],
+"Tutorials and Training Materials": [
+{
+"URL": "https://www.youtube.com/watch?v=6I1nRPYIluY",
+"Type": "YouTube Tutorial Video"
+},
+{
+"URL": "https://bioinformatics-core-shared-training.github.io/cruk-bioinf-sschool/Day2/Sequence_alignment_2018.pdf",
+"Type": "Training PDF"
+}
+]
+}
+}

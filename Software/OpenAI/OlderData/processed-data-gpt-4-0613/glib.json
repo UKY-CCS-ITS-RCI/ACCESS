@@ -1,0 +1,10 @@
+{
+  "softwareName": "GLib",
+  "links": {
+    "softwarePage": "https://developer.gnome.org/glib/",
+    "documentation": "https://developer.gnome.org/glib/stable/",
+    "tutorial1": "https://developer.gnome.org/glib-tutorial/stable/",
+    "tutorial2": "https://developer.gnome.org/glib-tutorial/stable/c339.html",
+    "tutorial3": "https://wiki.gnome.org/Projects/GLib/GDateTime?action=show&redirect=GDateTime"
+  }
+}

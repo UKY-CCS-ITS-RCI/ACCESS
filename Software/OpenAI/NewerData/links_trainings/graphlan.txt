@@ -1,0 +1,16 @@
+{
+  "graphlan": {
+    "software_link": "https://bitbucket.org/nsegata/graphlan/wiki/Home",
+    "documentation_link": "https://s3-us-west-1.amazonaws.com/seqanight_lecture_notes/graphlan/graphlan_guide.pdf",
+    "training_materials": [
+      {
+        "name": "Tutorial for beginners",
+        "url": "https://www.youtube.com/watch?v=KHAF9b_BREAK"
+      },
+      {
+        "name": "Advanced Tutorial",
+        "url": "https://www.youtube.com/watch?v=DcKD4B_JTjk"
+      }
+    ]
+  }
+}

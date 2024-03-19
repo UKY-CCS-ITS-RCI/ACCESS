@@ -1,0 +1,22 @@
+{
+  "software": "pygobject",
+  "software_page": "https://pygobject.readthedocs.io/",
+  "documentation": [
+    {
+      "documentation_page": "https://pygobject.readthedocs.io/en/latest/index.html",
+      "tutorials": [
+        {
+          "tutorial_1": "https://pygobject.readthedocs.io/en/latest/guide/tutorial.html"
+        },
+        {
+          "tutorial_2": "https://developer.gnome.org/pygobject/stable/"
+        }
+      ],
+      "training_materials": [
+        {
+          "training_1": "https://wiki.gnome.org/Projects/PyGObject"
+        }
+      ]
+    }
+  ]
+}

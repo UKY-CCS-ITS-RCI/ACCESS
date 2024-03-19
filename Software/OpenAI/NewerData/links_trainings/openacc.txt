@@ -1,0 +1,28 @@
+{
+    "software": {
+        "name": "OpenACC",
+        "link": "https://www.openacc.org/",
+        "documentation": "https://www.openacc.org/resources/developers",
+        "training_materials": [{
+                "name": "Getting Started With OpenACC",
+                "url": "https://developer.nvidia.com/getting-started-openacc"
+            },
+            {
+                "name": "Introduction to OpenACC",
+                "url": "https://www.pgroup.com/lit/articles/insider/v3n3a1.htm"
+            },
+            {
+                "name": "GPU Programming with OpenACC Online Course",
+                "url": "https://www.udacity.com/course/intro-to-parallel-programming--cs344"
+            },
+            {
+                "name": "Using OpenACC with Fortran, C and C++",
+                "url": "http://www.nersc.gov/users/computational-systems/cori/running-jobs/openacc/"
+            },
+            {
+                "name": "OpenACC API Guide",
+                "url": "https://docs.nvidia.com/openacc/"
+            }
+        ]
+    }
+}

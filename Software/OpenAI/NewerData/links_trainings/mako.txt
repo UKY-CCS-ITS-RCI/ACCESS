@@ -1,0 +1,9 @@
+{
+  "softwareName": "Mako",
+  "softwareURL": "https://www.makotemplates.org/",
+  "documentationURL": "https://docs.makotemplates.org/en/latest/",
+  "tutorialURLs":[
+    "https://www.tutorialspoint.com/mako/index.htm",
+    "https://pythonhosted.org/Mako/tutorial.html"
+  ]
+}

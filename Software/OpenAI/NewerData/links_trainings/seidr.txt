@@ -1,0 +1,9 @@
+{
+  "SoftwareName": "seidr",
+  "SoftwarePage": "https://github.com/SystemsGenetics/seidr",
+  "Documentation": "https://bioconductor.org/packages/release/bioc/html/seidr.html",
+  "TrainingMaterial": {
+    "Tutorial1": "https://systems-genetics.github.io/seidr/",
+    "Tutorial2": "https://github.com/SystemsGenetics/seidr/blob/devel/docs/tutorial.md"
+  }
+}

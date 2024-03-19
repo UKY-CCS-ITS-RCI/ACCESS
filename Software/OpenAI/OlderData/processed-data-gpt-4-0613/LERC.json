@@ -1,0 +1,13 @@
+
+{
+    "name": "LERC",
+    "software_page": "https://github.com/Esri/lerc",
+    "documentation": "https://github.com/Esri/lerc/blob/master/LercOpenSource/doc/pdf/Lerc1FileFormat.pdf",
+    "tutorials": [
+        "https://www.youtube.com/watch?v=JjK1KKOec60"
+    ],
+    "additional_resources": [
+        "https://pro.arcgis.com/en/pro-app/latest/help/analysis/lerc/what-is-lerc-.htm",
+        "https://pro.arcgis.com/en/pro-app/latest/help/analysis/lerc/lerc-compression.htm"
+    ]
+}

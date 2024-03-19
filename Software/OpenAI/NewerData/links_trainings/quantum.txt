@@ -1,0 +1,60 @@
+{
+  "Quantum Software": [
+    {
+      "name": "Quantum Espresso",
+      "website_url": "https://www.quantum-espresso.org/",
+      "documentation_url": "https://www.quantum-espresso.org/resources/users-manual/",
+      "tutorial_materials": [
+        {
+          "name": "Quantum Espresso Tutorials",
+          "url": "https://www.quantum-espresso.org/resources/tutorials/"
+        }
+      ]
+    },
+    {
+      "name": "Qiskit",
+      "website_url": "https://qiskit.org/",
+      "documentation_url": "https://qiskit.org/documentation/",
+      "tutorial_materials": [
+        {
+          "name": "Qiskit Tutorials",
+          "url": "https://community.qiskit.org/textbook/"
+        },
+        {
+          "name": "Qiskit Youtube Tutorials",
+          "url": "https://www.youtube.com/qiskit"
+        }
+      ]
+    },
+    {
+      "name": "Q#",
+      "website_url": "https://docs.microsoft.com/en-us/quantum/user-guide/",
+      "documentation_url": "https://docs.microsoft.com/quantum/user-guide/",
+      "tutorial_materials": [
+        {
+          "name": "Microsoft Q# Tutorials",
+          "url": "https://docs.microsoft.com/en-us/quantum/quickstarts/"
+        },
+        {
+          "name": "Microsoft Quantum Development Kit: Learn Page",
+          "url": "https://docs.microsoft.com/en-us/learn/paths/quantum-computing/"
+        }
+      ]
+    },
+    {
+      "name": "Quantum Development Kit (Microsoft)",
+      "website_url": "https://www.microsoft.com/en-us/quantum/development-kit",
+      "documentation_url": "https://docs.microsoft.com/quantum/",
+      "tutorial_materials": [
+        {
+          "name": "Quantum Katas Tutorials",
+          "url": "https://docs.microsoft.com/quantum/katas/"
+        },
+        {
+          "name": "Q# Coding Contest Tutorials",
+          "url": "https://codeforces.com/blog/entry/72484"
+        }
+      ]
+    }
+  ]
+}

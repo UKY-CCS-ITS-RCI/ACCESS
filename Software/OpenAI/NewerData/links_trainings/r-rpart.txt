@@ -1,0 +1,33 @@
+{
+  "name": "r-rpart",
+  "description": "R-Rpart is a set of routines for building classification, regression, or survival trees in R. The rpart procedures are built on routines for classifying observations using nominal or numerical responses.",
+  "website": "https://cran.r-project.org/web/packages/rpart/index.html",
+  "documentation": [
+    {
+      "name": "R Documentation",
+      "url": "https://cran.r-project.org/web/packages/rpart/rpart.pdf"
+    },
+    {
+      "name": "Rpart User’s Guide",
+      "url": "https://cran.r-project.org/web/packages/rpart/vignettes/usercode.pdf"
+    },
+    {
+      "name": "Rpart Script Examples",
+      "url": "https://rdrr.io/cran/rpart/f/inst/scripts"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "DataCamp Tutorial",
+      "url": "https://www.datacamp.com/community/tutorials/r-rpart-classification"
+    },
+    {
+      "name": "Decision Trees in R using rpart",
+      "url": "https://www.listendata.com/2014/11/r-decision-tree-rpart.html"
+    },
+    {
+      "name": "Rpart Tutorial",
+      "url": "https://rpubs.com/ryankelly/dtrees"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "software": "isa-l",
+  "link_to_software": "https://github.com/intel/isa-l",
+  "additional_links": {
+    "documentation": "https://intel.github.io/isa-l/",
+    "tutorials": [],
+    "training_materials": []
+  }
+}

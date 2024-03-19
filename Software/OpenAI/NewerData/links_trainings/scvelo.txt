@@ -1,0 +1,27 @@
+{
+  "softwareName": "scvelo",
+  "softwareURL": "https://scvelo.readthedocs.io/",
+  "documentationLink": "https://scvelo.readthedocs.io/UserGuide.html",
+  "tutorialAndTrainingMaterials": [
+    {
+      "URL": "https://scvelo.readthedocs.io/tutorials.html",
+      "description": "Scvelo Tutorials"
+    },
+    {
+      "URL": "https://github.com/theislab/scvelo_notebooks",
+      "description": "GitHub - Scvelo Notebooks"
+    },
+    {
+      "URL": "https://scanpy-tutorials.readthedocs.io/en/latest/velocity-analysis.html",
+      "description": "Scvelo velocity analysis tutorial"
+    },
+    {
+      "URL": "https://singlecelltools.com/2020/04/06/how-to-use-scvelo-to-analyze-rna-velocity/",
+      "description": "Singlecelltools - How to use Scvelo"
+    },
+    {
+      "URL": "https://github.com/r-tensorflow/community-2021/issues/15",
+      "description": "Issue on R-Tensorflow Community-2021 oriented about Scvelo"
+    }
+  ]
+}

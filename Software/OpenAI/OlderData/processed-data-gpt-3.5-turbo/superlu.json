@@ -1,0 +1,20 @@
+{
+  "software": "SuperLU",
+  "comprehensive_overview": "SuperLU is a high-performance library for solving large, sparse linear systems of equations using direct methods. It provides efficient implementations of direct solvers for various classes of sparse matrices, making it valuable for scientific simulations, engineering applications, and numerical computations.",
+  "core_features": [
+    "Sparse matrix solvers",
+    "Direct methods",
+    "High-performance computing"
+  ],
+  "general_tags": [
+    "linear system solvers",
+    "sparse matrices",
+    "numerical computations"
+  ],
+  "additional_tags": {
+    "research_discipline": "Computational Science",
+    "research_area": "Sparse Linear Algebra",
+    "software_class": "Library",
+    "software_type": "Linear Solver"
+  }
+}

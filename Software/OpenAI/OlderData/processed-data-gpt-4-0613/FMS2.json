@@ -1,0 +1,13 @@
+{
+  "Software": {
+    "FMS2": {
+      "MainPage": "https://github.com/NOAA-GFDL/FMS",
+      "Documentation": "https://noaa-gfdl.github.io/FMS/",
+      "Tutorials": [
+        "https://noaa-gfdl.github.io/FMS/userdocs/",
+        "https://www.gfdl.noaa.gov/research_highlights/flexible-modeling-system-fms/",
+        "http://www.ncep.noaa.gov/mmb/mmbpll/fmsdoc/HTML/"
+      ]
+    }
+  }
+}

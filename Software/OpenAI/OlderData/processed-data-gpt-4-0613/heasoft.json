@@ -1,0 +1,11 @@
+{
+  "softwareName": "HEASoft",
+  "links": {
+    "softwarePage": "https://heasarc.gsfc.nasa.gov/lheasoft/",
+    "documentation": "https://heasarc.gsfc.nasa.gov/lheasoft/documents.html",
+    "officialTutorial": "https://heasarc.gsfc.nasa.gov/lheasoft/documents/usersguide.html",
+    "tutorial1": "https://heasarc.gsfc.nasa.gov/lheasoft/ftools/ftools_menu.html",
+    "tutorial2": "https://heasarc.gsfc.nasa.gov/docs/software/lheasoft/quick_start.html",
+    "tutorial3": "https://heasarc.gsfc.nasa.gov/lheasoft/ftools/headas/"
+  }
+}

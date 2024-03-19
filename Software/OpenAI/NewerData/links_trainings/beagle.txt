@@ -1,0 +1,16 @@
+{
+  "software":
+    [
+      {
+        "name": "Beagle",
+        "software_link": "https://faculty.washington.edu/browning/beagle/beagle.html",
+        "documentation_links": [
+          "https://faculty.washington.edu/browning/beagle/documentation.html"
+        ],
+        "tutorials_and_training_materials": [
+          "https://faculty.washington.edu/browning/beagle/crashCourse.html",
+          "http://popgen.dk/software/index.php/Beagle"
+        ]
+      }
+    ]
+}

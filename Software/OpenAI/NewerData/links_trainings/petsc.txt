@@ -1,0 +1,17 @@
+{
+  "software": "PETSc",
+  "main_page": "https://www.mcs.anl.gov/petsc/",
+  "additional_links": {
+    "documentation": "https://www.mcs.anl.gov/petsc/documentation/index.html",
+    "tutorials": [
+      "https://www.mcs.anl.gov/petsc/tutorial/index.html",
+      "https://www.mcs.anl.gov/petsc/tutorials/",
+      "https://www.dealii.org/current/doxygen/deal.II/step_31.html"
+    ],
+    "training_materials": [
+      "https://se.ethz.ch/~schoeberl/wiki/teaching/petsc_tutorial.pdf",
+      "https://www.youtube.com/watch?v=8Z_2NpL2F2s",
+      "https://www.youtube.com/watch?v=A7JCLEbRRMA"
+    ]
+  }
+}

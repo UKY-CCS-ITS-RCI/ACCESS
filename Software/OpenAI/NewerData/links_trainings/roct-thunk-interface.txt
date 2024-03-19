@@ -1,0 +1,7 @@
+{
+  "name": "roct-thunk-interface",
+  "software_url": "https://github.com/RadeonOpenCompute/ROCT-Thunk-Interface",
+  "documentation_url": "https://rocmdocs.amd.com/en/latest/",
+  "tutorials": [],
+  "additional_resources": []
+}

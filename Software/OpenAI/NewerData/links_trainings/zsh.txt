@@ -1,0 +1,23 @@
+{
+  "Software": "zsh",
+  "Web-URL": "https://www.zsh.org",
+  "Software Documentation": "https://zsh.sourceforge.io/Doc/Introduction.html",
+  "Training and Tutorials": [
+    {
+      "Title": "Zsh tutorial - basics",
+      "Url": "https://learnxinyminutes.com/docs/zsh/"
+    },
+    {
+      "Title": "Zsh Quickstart Install and Learn to use in minutes",
+      "Url": "https://scriptingosx.com/2019/06/moving-to-zsh-part-2/"
+    },
+    {
+      "Title": "ZSH (Z Shell) - tutorial by example",
+      "Url": "https://gist.github.com/derhuerst/12a1558a4b408b3b2b6e"
+    },
+    {
+      "Title": "Zsh - Detailed Introduction",
+      "Url": "https://itnext.io/upgrade-your-terminal-equipment-1d217501dac3"
+    }
+  ]
+}

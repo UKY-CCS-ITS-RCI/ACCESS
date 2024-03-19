@@ -1,0 +1,44 @@
+Use Case: GL2PS is a C library providing high quality vector output for any OpenGL application. The main difference between GL2PS and other similar libraries is the use of sorting algorithms capable of handling intersecting and stretched polygons, as well as non manifold objects. It's perfect for exporting screenshots of scientific graphics and also creating high quality typesetting.
+
+Code Details and Examples: GL2PS is most often used within a larger application code, but as a standalone, it could be used as:
+```C
+#include "gl2ps.h"
+
+int main()
+{
+  FILE * fp;
+  int state = GL2PS_OVERFLOW, buffsize = 0;
+  GLint viewport[4];
+
+  fp = fopen("out.eps", "wb");
+
+  glGetIntegerv(GL_VIEWPORT, viewport);
+
+  while( state == GL2PS_OVERFLOW )
+  {
+    buffsize += 1024*1024;
+    gl2psBeginPage("Title", "Creator", viewport,
+                   GL2PS_EPS, GL2PS_BSP_SORT, GL2PS_SILENT |
+                   GL2PS_SIMPLE_LINE_OFFSET | GL2PS_NO_BLENDING |
+                   GL2PS_OCCLUSION_CULL | GL2PS_BEST_ROOT,
+                   GL_RGBA, 0, NULL, 0, 0, 0, buffsize,
+                   fp, "out.eps");
+    // Here goes rendering code. 
+    // This is an example where rendering is done using SDL & hello triangle.
+    SDL_GL_SwapBuffers ();
+    state = gl2psEndPage();
+  }
+
+  fclose(fp);
+    
+  return EXIT_SUCCESS;
+}
+```
+In this example, GL2PS is used to generate an EPS file ("out.eps") from the current OpenGL context. Note that the actual rendering code would replace the comment `// Here goes rendering code`.
+
+To compile this sample code, you would use a command like this:
+```bash
+gcc -o gl2psexample gl2psexample.c -lGL -lgl2ps
+``` 
+
+This command compiles the code in 'gl2psexample.c' to the output file 'gl2psexample', linking with the OpenGL and GL2PS libraries.

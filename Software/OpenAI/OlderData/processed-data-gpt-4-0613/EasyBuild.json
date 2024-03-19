@@ -1,0 +1,21 @@
+{
+  "software": "EasyBuild",
+  "link": "https://easybuild.io/",
+  "additional_links": {
+    "documentation": "https://easybuild.readthedocs.io/en/latest/",
+    "tutorial_materials": [
+      {
+        "name": "Getting started with EasyBuild",
+        "url": "https://easybuild.readthedocs.io/en/latest/Getting_started.html"
+      },
+      {
+        "name": "EasyBuild tutorial (FOSDEM'20)",
+        "url": "https://easybuild.readthedocs.io/en/latest/Tutorial.html"
+      },
+      {
+        "name": "How to use EasyBuild",
+        "url": "https://www.youtube.com/watch?v=rmaid7yxAoA"
+      }
+    ]
+  }
+}

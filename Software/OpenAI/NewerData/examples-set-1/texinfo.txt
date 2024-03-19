@@ -1,0 +1,43 @@
+Use Case: Texinfo is the official documentation format of the GNU project. It was invented by Richard Stallman and Bob Chassell, many years ago, loosely based on Brian Reid's Scribe and other formatting languages of the time. It is used by many non-GNU projects as well.
+
+Code details and Examples: Code
+
+Command to run Texinfo: 
+The Texinfo command is 'makeinfo'. This is used to generate a DVI file from a texinfo source file. The input file extension should be .texi.
+
+```bash
+  makeinfo filename.texi
+```
+Example of a very simple texinfo file:
+
+Format Required: '.texi' format
+
+Sample code:
+```texinfo
+\input texinfo @c 
+@setfilename example_tutorial.info @c 
+@settitle Example Tutorial @c 
+  
+@titlepage 
+@title Example Tutorial
+@end titlepage 
+
+@node Top
+@top Example Tutorial
+
+This is an example of a simple texinfo file.
+
+@node section1
+@section Section 1 
+
+Content for section 1.
+
+@bye
+```
+In this example, the document starts with `\input texinfo`, which is the standard beginning of a Texinfo file. Then the @setfilename command defines the name of the output file and the @settitle command specifies the title of the document. 
+
+The @titlepage and @end titlepage commands wrap around the title of the document, and then the @top command sets the top node of the file, which is usually the title of the whole document. 
+
+The @node command creates a new node in the document and the @section command starts a new section. After the content of the section 1, the file ends with the @bye command. 
+
+The generated .info file can be viewed in Emacs using the Info mode, or with the stand-alone GNU Info, or it can be converted to HTML using makeinfo --html. Doubling the '@' character will produce a single '@' in the output.

@@ -1,0 +1,18 @@
+
+{
+  "Megalodon": {
+    "software_page": "https://nanoporetech.github.io/megalodon/",
+    "documentation": "https://nanoporetech.github.io/megalodon/",
+    "training_materials": [
+      {
+        "title": "Megalodon: Species Identification",
+        "url": "https://github.com/nanoporetech/megalodon/tree/master/examples/species_identification"
+      },
+      {
+        "title": "Modifications and Megalodon",
+        "url": "https://community.nanoporetech.com/posts/modifications-and-megalodon"
+      }
+    ]
+  }
+}
+

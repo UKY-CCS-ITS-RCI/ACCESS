@@ -1,0 +1,15 @@
+{
+   "software":"deepsignal2",
+   "software_url":"https://github.com/bioinfo-cnb/deepsignal2",
+   "documentation_url":"https://deepsignal2.readthedocs.io/en/latest/",
+   "tutorials_and_training_materials":[
+      {
+         "url":"https://github.com/bioinfo-cnb/deepsignal2/blob/main/docs/USAGE.md",
+         "title":"Usage Documentation on GitHub"
+      },
+      {
+         "url":"https://github.com/bioinfo-cnb/deepsignal2/blob/main/docs/EXAMPLES.md",
+         "title":"Examples on GitHub"
+      }
+   ]
+}

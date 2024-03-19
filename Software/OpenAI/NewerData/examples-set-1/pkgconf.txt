@@ -1,0 +1,26 @@
+Use Case: pkgconf is a program which helps to configure compiler and linker flags for development frameworks. It is generally used for compiling and linking against one or more libraries or frameworks.
+
+Code details and examples: Code
+
+1. Sample Configuration File: `libfoo.pc`
+```
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libfoo
+Description: Foo library
+Version: 1.0.0
+Libs: -L${libdir} -lfoo
+Cflags: -I${includedir}/foo
+```
+In this example, `libfoo.pc` is a package config file needed as an input by pkgconf. It provides metadata about a library. The metadata can contain the version of the library, compiler and linker flags required to use it, and dependency information.
+
+2. Using The pkg-config File
+```sh
+gcc -o outputfile `pkgconf --cflags --libs libfoo` inputfile.c
+```
+In this command, pkgconf is used to get the compiler and linker flags required to compile and link against libfoo. `--cflags` returns the compiler flags needed and `--libs` returns the linker flags needed. The back-ticks(`) run the command before the compile process.
+
+This is a shorthand way to specify the total compile command without the developer having manually list where the compiler and linking has to be performed.

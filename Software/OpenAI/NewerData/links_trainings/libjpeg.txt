@@ -1,0 +1,11 @@
+{
+  "Software": "libjpeg",
+  "Links": {
+    "Software_Page": "https://www.ijg.org/",
+    "Documentation": "https://www.ijg.org/files/libjpeg.pdf",
+    "Tutorials_and_Training": [
+      "https://www.hpc.mil/advanced-technology/software-catalogue/libjpeg",
+      "https://www.programmersought.com/article/48071182640/"
+    ]
+  }
+}

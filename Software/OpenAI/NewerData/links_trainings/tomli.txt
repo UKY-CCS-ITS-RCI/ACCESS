@@ -1,0 +1,15 @@
+{
+  "software_name": "Tomli",
+  "software_link": "https://github.com/hukkin/tomli",
+  "documentation": "https://tomli.readthedocs.io/en/latest/",
+  "tutorial_materials": [
+    {
+      "title": "Python JSON and Tomli tutorial",
+      "link": "https://tdhopper.com/blog/python-json-and-tomli-tutorial/"
+    },
+    {
+      "title": "Python Tutorial: How to Parse and Write JSON files",
+      "link": "https://www.geekhideout.com/python-parse-write-json-files/"
+    }
+  ]
+}

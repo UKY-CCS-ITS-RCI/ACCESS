@@ -1,0 +1,41 @@
+Use Case: ITK (Insight Toolkit) is widely used for research in image analysis, particularly for the registration and segmentation of multi-dimensional, multi-modality images. It is an open-source software system that aids developers to write efficient and reliable programs especially related to Image Processing and Computer Vision. A common use case is medical image analysis.
+
+Code details and examples: 
+
+In Python, for a common use case with ITK, like reading, smoothing, and writing an image, here the format required is .png, .jpg, nii.gz or .mhd etc. formats. 
+
+Code:
+
+```
+import itk
+
+# Specifying image type
+PixelType = itk.ctype('float')
+Dimension = 3
+ImageType = itk.Image[PixelType, Dimension]
+
+# Reading image
+reader = itk.ImageFileReader[ImageType].New()
+reader.SetFileName("inputImage.png")
+reader.Update()
+
+# Smoothing image
+smoothingFilter = itk.CurvatureFlowImageFilter.New()
+smoothingFilter.SetInput(reader.GetOutput())
+smoothingFilter.SetNumberOfIterations(5)
+smoothingFilter.SetTimeStep(0.125)
+smoothingFilter.Update()
+
+# Writing image
+writer = itk.ImageFileWriter[ImageType].New()
+writer.SetFileName("outputImage.png")
+writer.SetInput(smoothingFilter.GetOutput())
+writer.Update()
+```
+In this code, there are two input files specified, one for the input image "inputImage.png" and another for the output image "outputImage.png". Images in ITK are represented with the class `itk::Image`. In the above code, we have used a `CurvatureFlowImageFilter` to smooth the image.
+
+Command to run: 
+`python image_processing.py` (assuming the code snippet is saved as image_processing.py)
+
+In ITK, image files can be read from and written to disk with the classes `itk::ImageFileReader` and `itk::ImageFileWriter`, respectively. These two classes are designed to facilitate this process in a way that is independent of the file format. The GetOutput() method of the reader class is connected to the SetInput() method of the CurvatureFlowImageFilter class. Connections between filters is a general mechanism in ITK to form processing pipelines.
+

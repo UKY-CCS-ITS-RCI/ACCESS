@@ -1,0 +1,11 @@
+{
+  "software_name": "vadr",
+  "software_link": "https://github.com/nawrockie/vadr",
+  "additional_links": {
+    "documentation": "https://github.com/nawrockie/vadr/wiki",
+    "tutorial": {
+      "vadr_installation": "https://github.com/nawrockie/vadr/wiki/vadr%3A-Installation",
+      "vadr_run": "https://github.com/nawrockie/vadr/wiki/vadr%3A-Basic-Usage"
+    }
+  }
+}

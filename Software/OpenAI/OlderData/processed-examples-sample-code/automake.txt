@@ -1,0 +1,29 @@
+Use Case: Build and manage the configuration of a software project.
+
+Code details and examples:
+Automake is a tool for automatically generating Makefile.in files from Makefile.am files. Below is an example of how to use automake:
+
+**Sample input files:**
+Makefile.am
+```
+bin_PROGRAMS = hello
+hello_SOURCES = hello.c
+```
+
+hello.c
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
+**Code:**
+To generate the Makefile.in file using automake, you can run the following command in the directory where your Makefile.am is located:
+```
+$ automake --add-missing
+```
+
+This will generate the Makefile.in file based on the instructions in Makefile.am.

@@ -1,0 +1,16 @@
+{
+  "software_name": "bam-readcount",
+  "software_page": "https://github.com/genome/bam-readcount",
+  "documentation": [
+    {
+      "description": "Readme",
+      "URL": "https://github.com/genome/bam-readcount/blob/master/README.md"
+    }
+  ],
+  "tutorials_and_trainings": [
+    {
+      "description": "Usage Examples",
+      "URL": "https://github.com/genome/bam-readcount#usage"
+    }
+  ]
+}

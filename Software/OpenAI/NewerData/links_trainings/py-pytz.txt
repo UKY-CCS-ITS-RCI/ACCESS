@@ -1,0 +1,19 @@
+{
+  "Software": "py-pytz",
+  "Link": "https://pypi.org/project/pytz/",
+  "Documentation": "http://pythonhosted.org/pytz/",
+  "Tutorials": [
+    {
+      "Title": "Python pytz module tutorial",
+      "Link": "https://www.journaldev.com/23365/python-pytz"
+    },
+    {
+      "Title": "Using pytz library in Python",
+      "Link": "https://www.geeksforgeeks.org/python-using-pytz-library/"
+    },
+    {
+      "Title": "Handle Timezone in Python with pytz",
+      "Link": "https://medium.com/analytics-vidhya/handle-timezone-in-python-with-pytz-3091434ec05b"
+    }
+  ]
+}

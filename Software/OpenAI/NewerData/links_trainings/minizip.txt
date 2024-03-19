@@ -1,0 +1,11 @@
+{
+  "software_name": "minizip",
+  "software_URL": "https://www.winimage.com/zLibDll/minizip.html",
+  "documentation_link": "https://www.winimage.com/zLibDll/minizip.html",
+  "training_and_tutorial": [
+    {
+      "tutorial1": "https://zlib.net/manual.html",
+      "tutorial2": "https://www.includehelp.com/c-programs/include-zip-h-in-c.aspx"
+    }
+  ]
+}

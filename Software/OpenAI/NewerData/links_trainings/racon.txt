@@ -1,0 +1,23 @@
+{
+  "software_name": "Racon",
+  "software_link": "https://github.com/isovic/racon",
+  "documentation_link": "https://github.com/isovic/racon/blob/master/README.md",
+  "tutorial_and_training_materials": [
+    {
+      "type": "tutorial",
+      "link": "https://nanoporetech.github.io/ont_tutorial_racon/index.html"
+    },
+    {
+      "type": "usecase",
+      "link": "https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/nanoporetech/racon/racon/1.4.3"
+    },
+    {
+      "type": "tutorial",
+      "link": "https://bioinformatics.uconn.edu/2018/02/20/tutorial_mapping_reads_and_assembly_correction_with_minimap_and_racon/"
+    },
+    {
+      "type": "research_paper",
+      "link": "https://academic.oup.com/bioinformatics/article/34/13/i709/5045799"
+    }
+  ]
+}

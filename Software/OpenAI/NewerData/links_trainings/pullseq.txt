@@ -1,0 +1,9 @@
+{
+  "Software Name": "Pullseq",
+  "Software URL": "https://github.com/bcthomas/pullseq",
+  "Documentation URL": "https://github.com/bcthomas/pullseq",
+  "Tutorial Materials": [
+    "https://www.biostars.org/p/100243/",
+    "https://seqanswers.com/forums/showthread.php?t=58221"
+  ]
+}

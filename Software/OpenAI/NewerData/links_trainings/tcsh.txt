@@ -1,0 +1,23 @@
+{
+  "Software": "tcsh",
+  "Software URL": "https://www.tcsh.org/",
+  "Documentation": [
+    {
+      "URL": "https://www.tcsh.org/tcsh.html/"
+    },
+    {
+      "URL": "http://manpages.ubuntu.com/manpages/bionic/man1/tcsh.1.html"
+    }
+  ],
+  "Training material": [
+    {
+      "URL": "https://www.tutorialspoint.com/unix/unix-shell.htm"
+    },
+    {
+      "URL": "https://www.tutorialspoint.com/unix/unix-tcsh-shell.htm"
+    },
+    {
+      "URL": "http://www.sweet.ua.pt/tos/software/Unix_Shell_Csh_Tcsh_Quick_Reference.pdf"
+    }
+  ]
+}

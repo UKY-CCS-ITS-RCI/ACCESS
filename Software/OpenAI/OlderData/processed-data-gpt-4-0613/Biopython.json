@@ -1,0 +1,19 @@
+{
+  "Software": "Biopython",
+  "Website": "https://biopython.org/",
+  "Documentation": "https://biopython.org/docs/1.75/api/Bio.html",
+  "Tutorials and Training material": [
+    {
+      "Title": "Biopython Tutorial and Cookbook",
+      "Link": "http://biopython.org/DIST/docs/tutorial/Tutorial.html"
+    },
+    {
+      "Title": "Working with sequences in Biopython",
+      "Link": "https://www.python-course.eu/biopython.php"
+    },
+    {
+      "Title": "Bioinformatics with Python Cookbook",
+      "Link": "https://www.packtpub.com/product/bioinformatics-with-python-cookbook/9781789344691"
+    }
+  ]
+}

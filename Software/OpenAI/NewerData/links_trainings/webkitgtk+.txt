@@ -1,0 +1,21 @@
+{
+  "webkitgtk+": {
+    "software_page": "https://webkitgtk.org/",
+    "documentation": [
+      {
+        "URL": "https://webkitgtk.org/reference/webkitgtk/stable/"
+      }
+    ],
+    "training_and_tutorial": [
+      {
+        "URL": "https://wiki.archlinux.org/title/WebKit#With_WebKitGTK"
+      },
+      {
+        "URL": "https://webkitgtk.org/2017/08/16/webkitgtk2-removal.html"
+      },
+      {
+        "URL": "https://gist.github.com/kwk/4171e37f4bcdf7705329"
+      }
+    ]
+  }
+}

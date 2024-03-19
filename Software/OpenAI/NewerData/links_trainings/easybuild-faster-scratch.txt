@@ -1,0 +1,12 @@
+{
+  "Software": "EasyBuild",
+  "URL": "https://easybuild.io/",
+  "Documentation": {
+    "EasyBuild Documentation": "https://easybuild.readthedocs.io/en/latest/",
+    "EasyBuild GitHub": "https://github.com/easybuilders/easybuild"
+  },
+  "Tutorials": {
+    "EasyBuild Tutorial": "https://easybuild.readthedocs.io/en/latest/Tutorial.html",
+    "EasyBuild Tutorial on GitHub": "https://github.com/easybuilders/easybuild-tutorial"
+  }
+}

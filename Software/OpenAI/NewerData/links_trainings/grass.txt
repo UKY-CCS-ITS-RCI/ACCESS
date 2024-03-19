@@ -1,0 +1,14 @@
+{
+  "Software Name": "GRASS",
+  "Software URL": "https://grass.osgeo.org/",
+  "Documentation": {
+    "Official Documentation": "https://grass.osgeo.org/documentation/",
+    "Quickstart": "https://grass.osgeo.org/grass-stable/manuals/",
+    "GRASS-Wiki": "https://grasswiki.osgeo.org/wiki/Main_Page"
+  },
+  "Tutorials": {
+    "Tutorials Homepage": "https://grasswiki.osgeo.org/wiki/GRASS_Tutorials",
+    "Intro To GRASS GIS": "https://ncsu-geoforall-lab.github.io/geospatial-modeling-course/grass/",
+    "GRASS GIS Courses": "https://grass.osgeo.org/learn/"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "upcxx": {
+    "Software_url": "https://upcxx.lbl.gov/",
+    "Documentation": {
+      "User_Guide_url": "https://upcxx-spec-public.lbl.gov/_/downloads/en/latest/pdf/",
+      "API_Reference_url": "https://upcxx-spec-public.lbl.gov/latest/api/index.html"
+    },
+    "Tutorials_and_Training_Materials": {
+      "Installation_Tutorial": "https://upcxx.lbl.gov/install/",
+      "Introduction_to_upcxx": "https://www.youtube.com/watch?v=O4_Wrjvhqvo",
+      "Tutorial_on_Github": "https://github.com/HPCTools/upcxx-tutorial",
+      "Webinar_on_HPC_Consortium": "https://hpcuniversity.org/directory/Webinar_UPC_and_UPC++:_Partitioned_Global_Address_Space_(PGAS)_Languages_for_Big_Data_and_HPC"
+    }
+  }
+}

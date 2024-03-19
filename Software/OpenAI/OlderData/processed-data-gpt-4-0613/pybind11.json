@@ -1,0 +1,19 @@
+{
+  "software": "pybind11",
+  "software_page": "https://github.com/pybind/pybind11",
+  "documentation": "https://pybind11.readthedocs.io/en/stable/",
+  "tutorial_materials": [
+    {
+      "name": "A Guide to Pybind11",
+      "url": "https://pybind11.readthedocs.io/en/stable/guide.html"
+    },
+    {
+      "name": "Pybind11 - Python C++ Bindings",
+      "url": "https://indico.cern.ch/event/694818/contributions/2850843/attachments/1603125/2501375/Pybind11Talk.pdf"
+    },
+    {
+      "name": "Getting Started with Pybind11",
+      "url": "https://levelup.gitconnected.com/getting-started-with-pybind11-664ca68934bc"
+    }
+  ]
+}

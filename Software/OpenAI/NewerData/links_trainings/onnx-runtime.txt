@@ -1,0 +1,15 @@
+{
+    "Software": "onnx-runtime",
+    "Links": [{
+            "Software_Main_Page": "https://github.com/microsoft/onnxruntime",
+            "Documentation": "https://www.onnxruntime.ai/docs/",
+            "Training_Material_and_Tutorial": [{
+                    "Tutorials": "https://github.com/microsoft/onnxruntime/tree/master/docs/tutorials",
+                    "Python_API_Tutorial": "https://microsoft.github.io/onnxruntime/python/api_summary.html",
+                    "C_API_Tutorial": "https://microsoft.github.io/onnxruntime/c/api_summary.html",
+                    "Python_API_Samples": "https://github.com/microsoft/onnxruntime/tree/master/samples/python"
+                }
+            ]
+        }
+    ]
+}

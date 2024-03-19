@@ -1,0 +1,31 @@
+Use Case: Use gcc (GNU Compiler Collection) to compile a simple C program and run it on a Linux machine.
+
+Code details and examples: Code:
+
+**File : hello_world.c**
+
+```
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
+**Command to compile the code:**
+```
+gcc -o hello_world hello_world.c
+```
+The command above uses gcc to compile the code in file hello_world.c, and the `-o` option instructs it to output the executable to a file named hello_world.
+
+**Command to run the code:**
+```
+./hello_world
+```
+This command runs the compiled code, and it will print "Hello, World!" to the console.
+
+The input file should be a correctly-written program in C language, as gcc is a very popular compiler for C and its derivatives. There is really no restriction on the filename, but standard programming convention is to use .c as the extension of a C program.
+
+In the example above, the code uses stdio.h, the Standard Input-Output header file in C, to access the printf function, which is used to print to the console or the standard output device. The command return 0; is the "exit status" of the program. In C language, returning a 0 means the program has run successfully.

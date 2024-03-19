@@ -1,0 +1,70 @@
+{
+  "scientificSoftware": [
+    {
+      "name": "NumPy",
+      "softwarePage": "https://numpy.org/",
+      "documentation": "https://numpy.org/doc/",
+      "tutorial": "https://numpy.org/learn/"
+    },
+    {
+      "name": "Pandas",
+      "softwarePage": "https://pandas.pydata.org/",
+      "documentation": "https://pandas.pydata.org/docs/",
+      "tutorial": "https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html"
+    }
+  ],
+  "compilers": [
+    {
+      "name": "GCC",
+      "softwarePage": "https://gcc.gnu.org/",
+      "documentation": "https://gcc.gnu.org/onlinedocs/",
+      "tutorial": "https://www.tutorialspoint.com/gcc/index.htm"
+    }
+  ],
+  "pythonLibraries": [
+    {
+      "name": "Matplotlib",
+      "softwarePage": "https://matplotlib.org/",
+      "documentation": "https://matplotlib.org/stable/contents.html",
+      "tutorial": "https://matplotlib.org/tutorials/index.html"
+    },
+    {
+      "name": "Scikit-learn",
+      "softwarePage": "https://scikit-learn.org/stable/",
+      "documentation": "https://scikit-learn.org/stable/user_guide.html",
+      "tutorial": "https://scikit-learn.org/stable/tutorial/index.html"
+    }
+  ],
+  "computationalSoftware": [
+    {
+      "name": "MATLAB",
+      "softwarePage": "https://www.mathworks.com/products/matlab.html",
+      "documentation": "https://www.mathworks.com/help/matlab/",
+      "tutorial": "https://www.mathworks.com/learn/tutorials.html?product=ML"
+    }
+  ],
+  "condaPackages": [
+    {
+      "name": "Bioconda",
+      "softwarePage": "https://bioconda.github.io/",
+      "documentation": "https://bioconda.github.io/contributor/index.html",
+      "tutorial": "https://bioconda.github.io/contributor/tutorials/index.html"
+    }
+  ],
+  "bioinformaticsTools": [
+    {
+      "name": "BLAST",
+      "softwarePage": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
+      "documentation": "https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs",
+      "tutorial": "https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp"
+    }
+  ],
+  "hpcTools": [
+    {
+      "name": "OpenMP",
+      "softwarePage": "https://www.openmp.org/",
+      "documentation": "https://www.openmp.org/specifications/",
+      "tutorial": "https://www.ompss.upc.edu/sites/default/files/OpenMP-tutorial.pdf"
+    }
+  ]
+}

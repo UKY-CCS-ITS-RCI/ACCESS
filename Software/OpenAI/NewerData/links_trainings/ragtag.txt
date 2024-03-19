@@ -1,0 +1,19 @@
+{
+   "Software":{
+      "Name":"RagTag",
+      "Link":"https://github.com/malonge/RagTag",
+      "Documentation":{
+         "Link":"https://github.com/malonge/RagTag/blob/master/README.md"
+      },
+      "Tutorials_Training_Materials":[
+         {
+            "Link":"https://academic.oup.com/bioinformatics/article/36/6/1862/5641730",
+            "Name":"RagTag: reference-guided genome assembly correction and scaffolding"
+         },
+         {
+            "Link":"https://www.protocols.io/private/38766C5A16DFDC0D3C5C065165F49F39",
+            "Name":"RagTag Quick Guide"
+         }
+      ]
+   }
+}

@@ -1,0 +1,23 @@
+{
+  "softwareName": "r-jsonlite",
+  "softwarePage": "https://cran.r-project.org/web/packages/jsonlite/index.html",
+  "documentation": [
+    {
+      "docsLink": "https://cran.r-project.org/web/packages/jsonlite/jsonlite.pdf"
+    },
+    {
+      "docsLink": "https://www.rdocumentation.org/packages/jsonlite/versions/1.7.2"
+    }
+  ],
+  "trainingAndTutorials": [
+    {
+      "tutorialLink": "https://www.datacamp.com/community/tutorials/r-jsonlite-package-tutorial"
+    },
+    {
+      "tutorialLink": "https://courses.had.co.nz/10-packages/01-packages.html#json"
+    },
+    {
+      "tutorialLink": "https://rstudio-pubs-static.s3.amazonaws.com/120883_c2acef5a7f184aab89cdb25b9a6e3a9e.html"
+    }
+  ]
+}

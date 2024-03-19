@@ -1,0 +1,11 @@
+{
+  "Software": "nextalign",
+  "Official_Software_page": "https://github.com/nextstrain/nextclade/tree/master/packages/nextalign",
+  "Documentation": [],
+  "Training": [],
+  "Tutorials": [],
+  "Additional_links": [
+    "https://docs.nextstrain.org/projects/nextclade/en/stable/user/nextalign-cli.html",
+    "https://nextstrain.github.io/ncov/docs/nextclade-alignment.html"
+  ]
+}

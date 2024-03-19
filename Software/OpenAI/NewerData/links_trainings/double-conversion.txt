@@ -1,0 +1,16 @@
+{
+  "double-conversion": {
+    "software_url": "https://github.com/google/double-conversion",
+    "software_documentation": "https://github.com/google/double-conversion/blob/master/double-conversion/double-conversion.h",
+    "software_tutorials": [
+      {
+        "tutorial_name": "C++ library double-conversion installation in Ubuntu 16.04",
+        "tutorial_url": "https://www.youtube.com/watch?v=ycxUYqKKgHY"
+      },
+      {
+        "tutorial_name": "C++ tutorial on Double Conversion Library",
+        "tutorial_url": "https://www.codeproject.com/Tips/669824/Double-to-string-conversion-with-Cplusplus-style" 
+      }
+    ]
+  }
+}

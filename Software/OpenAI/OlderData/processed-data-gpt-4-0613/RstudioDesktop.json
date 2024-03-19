@@ -1,0 +1,12 @@
+{
+  "Software Name": "RstudioDesktop",
+  "links": {
+    "software page": "https://rstudio.com/products/rstudio/download/",
+    "documentation": "https://docs.rstudio.com/ide/desktop-pro/",
+    "tutorials": [
+      "https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1",
+      "https://rstudio.com/resources/webinars/",
+      "https://github.com/rstudio/rstudio-wiki/wiki/Getting-Started"
+    ]
+  }
+}

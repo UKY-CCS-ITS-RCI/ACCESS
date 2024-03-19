@@ -1,0 +1,14 @@
+{
+  "netcdff": {
+    "software_page": "https://www.unidata.ucar.edu/software/netcdf/docs/netcdf-fortran/",
+    "documentation": "https://www.unidata.ucar.edu/software/netcdf/docs/netcdf-fortran/"
+  },
+  "Training_Materials": {
+    "User_Guide": "https://www.unidata.ucar.edu/software/netcdf/docs/netcdf-fortran/netcdf_fortran.html",
+    "Fortran_90_Support": "https://www.unidata.ucar.edu/software/netcdf/docs/netcdf-fortran/netcdf_nf_interfaces.html#nf90-intro"
+  },
+  "Tutorials": {
+    "Tutorial_1": "https://www.unidata.ucar.edu/software/netcdf/workshops/2011/tutorial.html",
+    "Tutorial_2": "https://www.ceda.ac.uk/static/media/uploads/ncas-reading-2015/03_ncas-reading-2015_netcdf_data_formats.pdf"
+  }
+}

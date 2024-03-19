@@ -1,0 +1,11 @@
+{
+  "bioconvert": {
+    "software_page": "https://bioconvert.readthedocs.io/en/latest/",
+    "documentation": "https://bioconvert.readthedocs.io/en/latest/",
+    "tutorials_and_training": [
+      "https://bioconvert.readthedocs.io/en/latest/introduction.html",
+      "https://bioconvert.readthedocs.io/en/latest/conversion.html",
+      "https://bioconvert.readthedocs.io/en/latest/contributing.html"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{ 
+"Aesara": {
+    "Software Page": "https://github.com/aesara-devs/aesara",
+    "Documentation": "https://aesara.readthedocs.io/en/latest/",
+    "Tutorials and Training Materials": [
+        "https://www.datacamp.com/community/tutorials/deep-learning-python?utm_source=aesara-docs", 
+        "https://pythonprogramming.net/predictions-aesara-theano-pymc-neural-network-p3/?utm_source=aesara-docs",
+        "https://pythonprogramming.net/introduction-deep-learning-neural-network-pytorch/?utm_source=aesara-docs",
+        "https://aesara.readthedocs.io/en/latest/extending/index.html"
+    ]
+}
+}

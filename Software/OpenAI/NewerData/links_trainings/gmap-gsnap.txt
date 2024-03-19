@@ -1,0 +1,20 @@
+{
+  "software_name": "gmap-gsnap",
+  "software_url": "http://research-pub.gene.com/gmap/",
+  "documentation": [
+    {
+      "url": "http://research-pub.gene.com/gmap/src/README"
+    }
+  ],
+  "tutorials": [
+    {
+      "url": "https://github.com/julienlag/McGill/blob/master/gmap_gsnap.md"
+    },
+    {
+      "url": "https://bioi-core.gitbook.io/ngs-analysis-cookbook-v1/short-read-rna-seq/rna-seq-full-length/single-end-1/mapping-gsnap-single-end"
+    },
+    {
+      "url": "https://gatk.broadinstitute.org/hc/en-us/community/posts/360061401171-Gmap-Gsnap-with-MEI-annotations"
+    }
+  ]
+}

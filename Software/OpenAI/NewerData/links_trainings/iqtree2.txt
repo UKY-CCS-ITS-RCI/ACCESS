@@ -1,0 +1,27 @@
+{
+  "software_name": "iqtree2",
+  "website_link": "http://www.iqtree.org/",
+  "documentation_link": "http://www.iqtree.org/doc/",
+  "tutorial_and_training": [
+    {
+      "name": "IQ-TREE tutorial",
+      "URL": "http://www.iqtree.org/doc/Tutorial"
+    },
+    {
+      "name": "IQ-TREE workshop materials",
+      "URL": "https://github.com/Cibiv/IQ-TREE/tree/master/tutorial"
+    },
+    {
+      "name": "ModelFinder – fast model selection",
+      "URL": "http://www.iqtree.org/doc/ModelFinder"
+    },
+    {
+      "name": "Ultrafast bootstrap",
+      "URL": "http://www.iqtree.org/doc/Ultrafast-Bootstrap"
+    },
+    {
+      "name": "IQ-TREE on BioStars",
+      "URL": "https://www.biostars.org/p/325010/"
+    }
+  ]
+}

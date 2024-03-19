@@ -1,0 +1,23 @@
+{
+  "software_name": "leveldb",
+  "main_link": "https://leveldb.org/",
+  "documentation_link": "https://leveldb.org/docs/",
+  "tutorials_and_training_materials": [
+    {
+      "title": "Introduction to LevelDB",
+      "link": "https://aerospike.com/docs/client/java/usage/kvs/leveldb.html"
+    },
+    {
+      "title": "LevelDB Tutorial",
+      "link": "https://riptutorial.com/leveldb"
+    },
+    {
+      "title": "LevelDB Documentation",
+      "link": "https://hyperdex.org/doc/latest/Layer.LevelDB.html"
+    },
+    {
+      "title": "GitHub - LevelDB Docs",
+      "link": "https://github.com/dphans/leveldb-handbook"
+    }
+  ]
+}

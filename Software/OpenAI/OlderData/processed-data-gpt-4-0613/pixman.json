@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "pixman",
+  "Homepage": "http://www.pixman.org/",
+  "Resources": {
+    "Documentation": "https://www.cairographics.org/releases/",
+    "Tutorials": [
+      "https://www.cairographics.org/tutorial/",
+      "https://cairographics.org/samples/"
+    ],
+    "TrainingMaterial": [
+      "https://cairographics.org/FAQ/",
+      "https://cairographics.org/documentation/"
+    ]
+  }
+}

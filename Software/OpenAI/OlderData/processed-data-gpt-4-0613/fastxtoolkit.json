@@ -1,0 +1,12 @@
+{
+	"software": "fastx_toolkit",
+	"library_info": {
+		"official_page": "http://hannonlab.cshl.edu/fastx_toolkit/",
+		"documentation": "http://hannonlab.cshl.edu/fastx_toolkit/commandline.html",
+		"conda_package": "https://anaconda.org/bioconda/fastx_toolkit",
+		"tutorial_materials": {
+			"Tutorial 1": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003456#sec021",
+			"Tutorial 2": "https://www.ibm.com/support/knowledgecenter/en/SS5SF7_1.4.0/navigation/pbio_fastx_toolkit.html"
+		}
+	}
+}

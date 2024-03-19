@@ -1,0 +1,37 @@
+Use Case: Use AOCL for compiling high performance scientific computing codes written in C/C++ or Fortran. AOCL includes the GNU Compiler Collection (GCC), Gnu Project Debugger (GDB), and mathematical libraries. Compiled codes can run faster on AMD CPUs.
+
+Code details and examples: Code
+
+Input Files: A C++ source code file (.cpp extension)
+
+Format Required: Text file with C++ code
+
+Code Snippet:
+
+```c++
+#include<iostream>
+using namespace std;
+
+int main() {
+    cout<<"Hello, World!";
+    return 0;
+}
+```
+
+Save the code in a file called hello.cpp.
+
+Command to compile the C++ code using AOCL:
+
+```bash
+g++ hello.cpp -o hello
+```
+
+Specifications and Details: The hello.cpp file contains the source code that prints "Hello, World!" to the console. The `g++` command compiles the C++ source code. The `-o` option specifies the output file name.
+
+Command to run the compiled code:
+
+```bash
+./hello
+```
+
+The `./hello` command runs the compiled code. The output will print "Hello, World!" to the console.

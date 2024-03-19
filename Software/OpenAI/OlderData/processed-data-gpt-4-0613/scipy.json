@@ -1,0 +1,31 @@
+{
+  "name": "scipy",
+  "software_url": "https://www.scipy.org/",
+  "documentation_url": "https://docs.scipy.org/doc/",
+  "tutorials": [
+    {
+      "title": "Getting Started with SciPy",
+      "url": "https://scipy-lectures.org/intro/index.html"
+    },
+    {
+      "title": "Python Scientific lecture notes",
+      "url": "https://scipy-lectures.org/index.html"
+    },
+    {
+      "title": "SciPy Beginner's Guide for Python Developers",
+      "url": "https://www.tutorialsteacher.com/python/scipy-tutorial"
+    },
+    {
+      "title": "SciPy Tutorial",
+      "url": "https://www.tutorialspoint.com/scipy/index.htm"
+    },
+    {
+      "title": "Getting started with Python for science",
+      "url": "https://scipy-lectures.org/intro/index.html"
+    },
+    {
+      "title": "Scipy : high level scientific computing",
+      "url": "https://www.scipy-lectures.org/intro/scipy.html"
+    }
+  ]
+}

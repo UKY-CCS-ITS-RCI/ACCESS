@@ -1,0 +1,7 @@
+{
+  "pytensor": {
+    "software_page": "https://pypi.org/project/pytensor/",
+    "documentation": [],
+    "tutorial": []
+  }
+}

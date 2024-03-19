@@ -1,0 +1,22 @@
+{
+  "software_name": "r-affyio",
+  "links": {
+    "software_page": "https://bioconductor.org/packages/release/bioc/html/affyio.html",
+    "documentation": [
+      {
+        "name": "Bioconductor documentation",
+        "url": "https://bioconductor.org/packages/release/bioc/vignettes/affyio/inst/doc/affyio.pdf"
+      }
+    ],
+    "training_and_tutorial": [
+      {
+        "name": "Bioconductor tutorial",
+        "url": "https://bioconductor.org/packages/release/bioc/vignettes/affy/inst/doc/usersguide.pdf"
+      },
+      {
+        "name": "R and Bioconductor Manual",
+        "url": "http://manuals.bioinformatics.ucr.edu/home/programming-in-r/bioconductor"
+      }
+    ]
+  }
+}

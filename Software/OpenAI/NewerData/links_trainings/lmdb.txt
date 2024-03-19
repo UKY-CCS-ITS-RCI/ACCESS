@@ -1,0 +1,42 @@
+{
+  "software": "lmdb",
+  "software_url": "http://www.lmdb.tech/",
+  "documentation": [
+    {
+      "title": "LMDB API",
+      "url": "http://www.lmdb.tech/doc/index.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "LMDB tutorial in plain C",
+      "url": "https://gist.github.com/hij1nx/8214495"
+    },
+    {
+      "title": "LMDB usage with Python - Tutorial",
+      "url": "https://www.youtube.com/watch?v=FDseyVxHh1E"
+    },
+    {
+      "title": "GoLang Tutorial - lmdb GoLang binding",
+      "url": "https://pkg.go.dev/github.com/lestrrat/lmdb"
+    }
+  ],
+  "related_links": [
+    {
+      "title": "Python lmdb package",
+      "url": "https://pypi.org/project/lmdb/"
+    },
+    {
+      "title": "LMDB Github Repository",
+      "url": "https://github.com/LMDB/lmdb"
+    },
+    {
+      "title": "Wikipedia LMDB",
+      "url": "https://en.wikipedia.org/wiki/Lightning_Memory-Mapped_Database"
+    },
+    {
+      "title": "LMDB Java tutorial",
+      "url": "https://dzone.com/articles/lmdb-lightning-fast-database"
+    }
+  ]
+}

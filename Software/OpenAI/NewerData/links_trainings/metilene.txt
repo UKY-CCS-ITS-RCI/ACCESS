@@ -1,0 +1,13 @@
+{
+  "Software_Name": "metilene",
+  "Software_URL": "http://www.bioinf.uni-leipzig.de/Software/metilene/",
+  "Documentation": {
+    "User_Guide_URL": "http://www.bioinf.uni-leipzig.de/Software/metilene/METman.pdf"
+  },
+  "Tutorials": [
+    {
+      "Tutorial_1_Name": "Metilene Manual",
+      "Tutorial_1_URL": "http://www.bioinf.uni-leipzig.de/Software/metilene/METman.pdf"
+    }
+  ]
+}

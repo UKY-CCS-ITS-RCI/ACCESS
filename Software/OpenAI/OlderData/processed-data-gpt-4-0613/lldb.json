@@ -1,0 +1,14 @@
+{
+    "software": "LLDB",
+    "resources": {
+        "softwareHomepage": "https://lldb.llvm.org/",
+        "documentation": "https://lldb.llvm.org/use/tutorial.html",
+        "tutorials": [
+            {
+                "title": "LLDB Primer",
+                "url": "https://apple.github.io/swift-lldb/lldb-primer.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

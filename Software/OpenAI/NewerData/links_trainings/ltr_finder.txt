@@ -1,0 +1,20 @@
+{
+  "ltr_finder": {
+    "software_page": "http://tlife.fudan.edu.cn/ltr_finder/",
+    "documentation": "http://tlife.fudan.edu.cn/ltr_finder/user_guide.html",
+    "tutorials": [
+      {
+        "link": "http://tlife.fudan.edu.cn/ltr_finder/sample.html",
+        "name": "Sample Run"
+      },
+      {
+        "link": "https://bioinformatics-core-shared-training.github.io/cruk-bioinf-sschool/Day3/Session6/ltr_finder-tutorial-2017.html",
+        "name": "LTR_FINDER tutorial 2017"
+      },
+      {
+        "link": "https://github.com/xzhub/LTR_FINDER_parallel",
+        "name": "LTR_FINDER_parallel"
+      }
+    ]
+  }
+}

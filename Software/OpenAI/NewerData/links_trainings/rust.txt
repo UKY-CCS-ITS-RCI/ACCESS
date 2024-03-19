@@ -1,0 +1,32 @@
+{
+  "rust": {
+    "software_page": "https://www.rust-lang.org/",
+    "documentation": "https://doc.rust-lang.org/",
+    "training_materials": [
+      {
+        "name": "The Rust Programming Language",
+        "link": "https://doc.rust-lang.org/book/"
+      },
+      {
+        "name": "Rust By Example",
+        "link": "https://doc.rust-lang.org/stable/rust-by-example/"
+      },
+      {
+        "name": "Rustlings",
+        "link": "https://github.com/rust-lang/rustlings"
+      },
+      {
+        "name": "Learn Rust",
+        "link": "https://www.learnrust.org/"
+      },
+      {
+        "name": "Rust for Beginners",
+        "link": "https://www.udemy.com/course/rust-fundamentals/"
+      },
+      {
+        "name": "Rust Crash Course",
+        "link": "https://www.youtube.com/watch?v=zF34dRivLOw"
+      }
+    ]
+  }
+}

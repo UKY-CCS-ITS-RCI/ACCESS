@@ -1,0 +1,17 @@
+{
+  "name": "ngsutils",
+  "software_page": "https://github.com/ngsutils/ngsutils",
+  "documentation": "https://ngsutils.readthedocs.io/en/latest/",
+  "tutorials": [
+    {
+      "title": "NGS Data Analysis Workshop",
+      "url": "https://www.biostars.org/p/213306/"
+    },
+    {
+      "title": "NGSutils tutorial",
+      "url": "https://www.biostarhandbook.com/ngs/expression.html#ngsutils-tutorial"
+    }
+  ],
+  "bioinformatics_tools": "yes",
+  "HPC_tools": "no"
+}

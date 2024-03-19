@@ -1,0 +1,40 @@
+Use Case: QuantumEspresso is a powerful suite of software for performing analysis and predictions in quantum mechanics, primarily for material sciences and solid-state physics. It is used to simulate the electronic structure of materials using density functional theory (DFT), non-equilibrium Green's functions (NEGF), and many other advanced techniques.
+
+Code details and examples: Code
+
+The input file for QuantumEspresso's pw.x executable (performing DFT calculations) could look as such:
+
+```
+&CONTROL
+ calculation = 'scf'
+ prefix = 'platinum'
+ pseudo_dir = './'
+ outdir = './'
+/
+&SYSTEM
+ ibrav = 2
+ celldm(1) = 7.44
+ nat = 1
+ ntyp = 1
+ ecutwfc = 30.0
+/
+&ELECTRONS
+ diagonalization = 'david'
+ mixing_beta = 0.7
+/
+ATOMIC_SPECIES
+ Pt  195.08  Pt.pz-d-rrkjus.UPF
+ATOMIC_POSITIONS (alat)
+ Pt 0.0 0.0 0.0
+K_POINTS (automatic)
+ 10 10 10 1 1 1
+```
+Above codes nanoparticle's platinum molecular structure. `ATOMIC_POSITIONS` specify where each atom is located. `K_POINTS` is for setting the k-point grid for Brillouin Zone sampling.
+
+To run the input file `platinum.in` using QuantumEspresso package `pw.x`:
+
+```bash
+pw.x < platinum.in > platinum.out
+```
+
+It reads the input from `platinum.in`, executes the calculations and outputs the results to `platinum.out`. Note that `pw.x` needs to be in your system's PATH for command to work.

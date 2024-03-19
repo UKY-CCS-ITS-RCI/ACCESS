@@ -1,0 +1,16 @@
+{
+  "software_name": "RepeatModeler",
+  "software_URL": "http://www.repeatmasker.org/RepeatModeler/",
+  "documentation_links": [
+    {
+      "documentation_URL": "http://www.repeatmasker.org/RepeatModeler/#docs"
+    }
+  ],
+  "tutorials_and_training_materials_links": [
+    {
+      "tutorial_URL": "https://www.polyploidgenomics.com/repeatmodeler",
+      "tutorial_URL_1": "https://training.galaxyproject.org/training-material/topics/admin/tutorials/cm-repeatmodelers/readme.html",
+      "tutorial_URL_2": "https://docs.google.com/document/d/1U_0Q8I5bQRZ9Qx4YsI6B8_-gmQfNL3OTUciR9XMRZ50/edit"
+    }
+  ]
+}

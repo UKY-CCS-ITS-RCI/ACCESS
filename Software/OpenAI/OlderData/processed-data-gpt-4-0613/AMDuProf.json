@@ -1,0 +1,19 @@
+{
+  "Software": "AMDuProf",
+  "Website": "https://developer.amd.com/amd-uprof/",
+  "Documentation": "https://developer.amd.com/amd-uprof-user-guide/",
+  "Tutorials and Training material": [
+    {
+      "Title": "AMDuProf User Guide",
+      "Link": "https://developer.amd.com/wp-content/resources/56375_3.3.pdf"
+    },
+    {
+      "Title": "AMDuProf CLI User Guide",
+      "Link": "https://developer.amd.com/wp-content/resources/56378_3.3.pdf"
+    },
+    {
+      "Title": "AMDuProf Tutorial",
+      "Link": "https://www.softraid-support.com/hc/en-us/articles/1500011298622-AMDuProf-Tutorial"
+    }
+  ]
+}

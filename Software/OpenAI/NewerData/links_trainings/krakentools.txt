@@ -1,0 +1,14 @@
+{
+  "krakentools": {
+    "software_page": "https://github.com/jenniferlu717/KrakenTools",
+    "documentation": [
+      "https://github.com/jenniferlu717/KrakenTools#usage"
+    ],
+    "tutorial": [
+      "N/A"
+    ],
+    "training_materials": [
+      "N/A"
+    ]
+  }
+}

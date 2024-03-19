@@ -1,0 +1,19 @@
+{
+    "software": "libsigsegv",
+    "software_url": "https://www.gnu.org/software/libsigsegv/",
+    "documentation_url": "https://www.gnu.org/software/libsigsegv/manual/",
+    "tutorial_materials": [
+        {
+            "tutorial_name": "GNU libsigsegv (segv)",
+            "tutorial_url": "https://www.delorie.com/gnu/docs/libsigsegv/libsigsegv_toc.html"
+        },
+        {
+            "tutorial_name": "GNU libsigsegv Installation",
+            "tutorial_url": "https://www.gnu.org/software/libsigsegv/manual/libsigsegv.html#Installation"
+        },
+        {
+            "tutorial_name": "Stack overflow handler",
+            "tutorial_url": "https://www.gnu.org/software/libsigsegv/manual/libsigsegv.html#Stack-overflow-handler"
+        }
+    ]
+}

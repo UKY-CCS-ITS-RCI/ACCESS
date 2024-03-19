@@ -1,0 +1,8 @@
+{
+  "abismal": {
+    "softwarePage": "http://www.bork.embl.de/Docu/Abiword",
+    "documentation": "http://www.bork.embl.de/Docu/Abiword",
+    "trainingMaterial": [
+    ]
+  }
+}

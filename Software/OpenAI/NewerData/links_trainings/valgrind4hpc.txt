@@ -1,0 +1,8 @@
+{
+  "valgrind4hpc": {
+    "software_page": "https://github.com/atosorigin/valgrind4hpc",
+    "documentation": ["https://valgrind.org/docs/manual/index.html"],
+    "training_materials": ["https://valgrind.org/docs/manual/quick-start.html"],
+    "tutorial_materials": ["https://www.cprogramming.com/debugging/valgrind.html", "https://www.ibm.com/developerworks/library/l-valgrind/index.html"]
+  }
+}

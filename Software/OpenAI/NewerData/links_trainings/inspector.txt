@@ -1,0 +1,16 @@
+{
+  "inspector": {
+    "software_page": "https://pypi.org/project/inspector/",
+    "documentation_web_url": "https://www.regular-expressions.info/refinspect.html",
+    "tutorial_materials": [
+      {
+        "tutorial_name": "Data Inspector",
+        "tutorial_web_url": "https://chrisalbon.com/programming/python/data_inspector/"
+      },
+      {
+        "tutorial_name": "Python Data Visualization - How to use Dvlib",
+        "tutorial_web_url": "https://kanoki.org/2019/07/11/python-script-data-visualization-data-inspector/"
+      }
+    ]
+  }
+}

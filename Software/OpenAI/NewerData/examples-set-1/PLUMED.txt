@@ -1,0 +1,29 @@
+Use Case: PLUMED is a plugin used for free-energy calculations and molecular dynamics simulations. It can be incorporated into several different molecular dynamics software packages. 
+
+Code details and examples:
+
+## Code:
+
+Here is an example of an input file for PLUMED, which is used to specify the free-energy calculation that it performs. This file is called 'plumed.dat':
+
+```
+# make sure PLUMED is working
+PRINT STRIDE=100 ARG=* FILE=COLVAR 
+
+# define collective variable as distance between atoms 1 and 2
+d1: DISTANCE ATOMS=1,2
+# define another collective variable as distance between atoms 1 and 3
+d2: DISTANCE ATOMS=1,3 
+
+# specify metadynamics biasing using collective variables d1 and d2
+METAD ARG=d1,d2 SIGMA=0.2,0.2 HEIGHT=1.2 PACE=500 FILE=HILLS 
+
+# print out collective variables and metadynamics bias every 100 steps
+PRINT STRIDE=100 ARG=d1,d2,metad.bias FILE=COLVAR 
+```
+## Command:
+The command to run PLUMED depends on the molecular dynamics software package it's plugged into. For instance, if it's plugged into the GROMACS package, the command might be:
+
+`gmx mdrun -plumed plumed.dat -s input.tpr -o output.xtc -e output.edr -g output.log`
+
+In terms of input files, PLUMED requires an input file (in this scenario 'plumed.dat') with detailed instructions for its calculations and based on these details the software decides how to interact with the data gathered from simulation over the course of the dynamics.

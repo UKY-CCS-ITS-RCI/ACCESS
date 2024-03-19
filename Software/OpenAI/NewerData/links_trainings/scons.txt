@@ -1,0 +1,38 @@
+{
+    "software": "scons",
+    "software_link": "https://scons.org",
+    "documentation": [
+        {
+            "name": "SCons User Guide",
+            "url": "https://scons.org/doc/production/HTML/scons-user.html"
+        },
+        {
+            "name": "SCons man page",
+            "url": "https://scons.org/doc/production/HTML/scons-man.html"
+        },
+        {
+            "name": "SCons Wiki",
+            "url": "https://scons.org/wiki"
+        }
+    ],
+    "tutorials": [
+        {
+            "name": "Intro to SCons",
+            "url": "https://python.g-node.org/python-summerschool-2011/_media/materials/scons/scons.pdf"
+        },
+        {
+            "name": "Building With SCons",
+            "url": "https://raw.githubusercontent.com/ashander/scons/master/doc/owen-building-with-scons/original-building-with-scons.html"
+        },
+        {
+            "name": "SCons Tutorials Blog",
+            "url": "https://stevedower.id.au/blog/building-software-scons/"
+        }
+    ],
+    "training_materials": [
+        {
+            "name": "Introduction to SCons",
+            "url": "https://www.youtube.com/watch?v=OClGn_F0ZSQ"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+   "software":{
+      "name":"Mykrobe",
+      "software_url":"https://www.mykrobe.com/",
+      "documentation_url":"https://github.com/Mykrobe-tools/mykrobe",
+      "tutorial_url":[
+         {
+            "name":"Github README",
+            "url":"https://github.com/Mykrobe-tools/mykrobe"
+         },
+         {
+            "name":"Tutorial - GitHub",
+            "url":"https://github.com/Mykrobe-tools/mykrobe/wiki"
+         }
+      ]
+   }
+}

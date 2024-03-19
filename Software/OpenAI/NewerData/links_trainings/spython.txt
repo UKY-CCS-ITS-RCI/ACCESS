@@ -1,0 +1,17 @@
+{
+  "Software": "spython",
+  "Website": "https://singularityhub.github.io/singularity-cli/",
+  "Documentation": "https://singularityhub.github.io/singularity-cli/",
+  "Tutorials": [
+    "https://singularity.lbl.gov/docs-build-container",
+    "https://singularity-tutorial.github.io/01-introduction/",
+    "https://sylabs.io/guides/latest/user-guide/quick_start.html#quick-installation-steps",
+    "https://www.youtube.com/watch?v=DA87Ba2dpNM"
+  ],
+  "Training materials": [
+    "https://github.com/singularityware/singularity/blob/master/INSTALL.md",
+    "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007005",
+    "https://www.youtube.com/watch?v=-F6h43DRpcU",
+    "https://www.youtube.com/watch?v=KoHtBFsbpFI"
+  ]
+}

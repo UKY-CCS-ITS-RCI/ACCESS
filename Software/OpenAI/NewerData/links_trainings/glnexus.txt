@@ -1,0 +1,19 @@
+{
+  "software": "glnexus",
+  "software_url": "https://github.com/dnanexus-rnd/GLnexus",
+  "documentation_url": "https://github.com/dnanexus-rnd/GLnexus/wiki",
+  "tutorial_materials": [
+    {
+      "description": "GLnexus usage tutorial",
+      "url": "https://github.com/dnanexus-rnd/GLnexus/wiki/Command-Line-Usage"
+    },
+    {
+      "description": "GLnexus API documentation",
+      "url": "https://github.com/dnanexus-rnd/GLnexus/tree/master/src/include"
+    },
+    {
+      "description": "GLnexus wiki page",
+      "url": "https://github.com/dnanexus-rnd/GLnexus/wiki"
+    }
+  ]
+}

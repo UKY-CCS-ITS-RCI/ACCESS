@@ -1,0 +1,12 @@
+
+{
+  "ncdf4": {
+    "Software Page": "https://cran.r-project.org/web/packages/ncdf4/index.html",
+    "Documentation": "https://cran.r-project.org/web/packages/ncdf4/ncdf4.pdf",
+    "Tutorials": [
+      "https://www.example.com/ncdf4/tutorial1",
+      "https://www.example.com/ncdf4/tutorial2"
+    ]
+  }
+}
+

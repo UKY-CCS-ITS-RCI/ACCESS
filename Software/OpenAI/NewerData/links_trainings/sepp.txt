@@ -1,0 +1,16 @@
+{
+  "Software Name": "SEPP",
+  "Software Page": "https://github.com/smirarab/sepp",
+  "Additional Web URLs": 
+  [
+    {
+      "Documentation": "https://github.com/smirarab/sepp/blob/master/README.md",
+      "Tutorials and Training Materials": [
+        {
+          "Tutorial 1": "http://sepp.readthedocs.io/en/latest/",
+          "Tutorial 2": "https://sepp.readthedocs.io/en/latest/tutorials.html"
+        }
+      ]
+    }
+  ]
+}

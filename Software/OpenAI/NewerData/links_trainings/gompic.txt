@@ -1,0 +1,13 @@
+{
+  "Software": "gompic",
+  "Description": "Combines the OpenMPI library and the GNU Compiler Collection (GCC)",
+  "Link": "https://www.oinstalled.com/en/doc/67/index.html",
+  "Additional Resources": {
+    "Documentation": "https://gcc.gnu.org/onlinedocs/",
+    "Tutorials": [
+      "https://www.open-mpi.org/doc/current/",
+      "https://www.tacc.utexas.edu/documents/13601/0/openMPI-tutorial.pdf",
+      "https://www.tutorialspoint.com/compiler_design/index.htm"
+    ]
+  }
+}

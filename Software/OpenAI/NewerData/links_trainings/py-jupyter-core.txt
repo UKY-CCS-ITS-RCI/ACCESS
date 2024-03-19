@@ -1,0 +1,24 @@
+{
+  "software_name": "py-jupyter-core",
+  "software_website_link": "https://jupyter-core.readthedocs.io/",
+  "documentation": [
+    {
+      "documentation_name": "Official Documentation",
+      "documentation_link": "https://jupyter-core.readthedocs.io/en/latest/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "tutorial_name": "Jupyter Project Documentation",
+      "tutorial_link": "https://jupyter.readthedocs.io/en/latest/"
+    },
+    {
+      "tutorial_name": "Jupyter Notebook Tutorial on DataCamp",
+      "tutorial_link": "https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook"
+    },
+    {
+      "tutorial_name": "Intro to Jupyter Notebooks on GitHub",
+      "tutorial_link": "https://github.com/jupyter/notebook/blob/master/docs/source/examples/Notebook/Running%20Code.ipynb"
+    }
+  ]
+}

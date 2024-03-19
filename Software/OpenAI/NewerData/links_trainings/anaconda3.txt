@@ -1,0 +1,14 @@
+{
+    "Scientific Software": {
+        "anaconda3": {
+            "software_page": "https://www.anaconda.com/products/distribution",
+            "documentation": "https://docs.anaconda.com/anaconda/",
+            "tutorials_and_training_materials": [
+                "https://docs.anaconda.com/anaconda/user-guide/tutorials/",
+                "https://www.youtube.com/watch?v=23aQdrS58e0",
+                "https://www.datacamp.com/courses/conda-essentials",
+                "https://www.tutorialspoint.com/anaconda/index.htm"
+            ]
+        }
+    }
+}

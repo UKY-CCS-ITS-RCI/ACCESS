@@ -1,0 +1,10 @@
+{
+  "software_name": "sprng",
+  "about": "SPRNG stands for Scalable Parallel Random Number Generators library, which is a comprehensive set of multi-stream and long-period parametric random number generators in parallel and distributed computation.",
+  "software_link": "https://sprng.fsu.edu/index.html",
+  "documentation_link": "https://sprng.fsu.edu/Version2.0/manual.pdf",
+  "tutorial_links": [
+    "https://sprng.fsu.edu/Version2.0/use.html",
+    "https://youtu.be/0JVbXlb8vq4"
+  ]
+}

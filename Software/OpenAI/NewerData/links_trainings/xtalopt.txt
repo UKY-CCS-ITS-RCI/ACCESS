@@ -1,0 +1,15 @@
+{
+  "software_name": "XtalOpt",
+  "software_url": "http://xtalopt.github.io/xtalopt/",
+  "documentation_url": "http://xtalopt.github.io/xtalopt/tutorial/index.html",
+  "training_materials": [
+    {
+      "title": "XtalOpt: An open-source evolutionary algorithm for crystal structure prediction",
+      "url": "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.87.184104"
+    },
+    {
+      "title": "Materials Project Workshop - XtalOpt Session",
+      "url": "https://materialsproject.org/workshops/#mpw2016-XtalOpt-session"
+    }
+  ]
+}

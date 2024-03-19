@@ -1,0 +1,22 @@
+{
+  "SoftwareName": "ViennaRNA",
+  "OfficialPage": "https://www.tbi.univie.ac.at/RNA/index.html",
+  "Documentation": [ 
+    "https://www.tbi.univie.ac.at/RNA/documentation.html", 
+    "https://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html/index.html"
+  ],
+  "TrainingMaterial": [
+    { 
+      "Name": "RNAfold Manual part1", 
+      "URL": "https://www.youtube.com/watch?v=688onhmOeyM" 
+    },
+    {
+      "Name": "RNAfold Manual part2",
+      "URL": "https://www.youtube.com/watch?v=MPdbvxlYGT0" 
+    },
+    {
+      "Name": "Presentation about ViennaRNA",
+      "URL": "https://prezi.com/m/yocmylucevg6/viennarna-package/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Software": "Anaconda3_x86_64",
+  "Info": {
+    "Home Page": "https://www.anaconda.com/",
+    "Documentation": "https://docs.anaconda.com/",
+    "Tutorials": [
+        {
+          "URL": "https://docs.anaconda.com/anaconda/navigator/tutorials/",
+          "Title": "Anaconda Navigator Tutorials"
+        },
+        {
+          "URL": "https://docs.anaconda.com/anaconda/user-guide/getting-started/",
+          "Title": "Getting Started with Anaconda"
+        },
+        {
+          "URL": "https://www.youtube.com/watch?v=5mDYijMfSzs",
+          "Title": "YouTube Tutorial: Anaconda Navigator | Getting started with Anaconda navigator for Python"
+        }
+    ]
+  }
+}

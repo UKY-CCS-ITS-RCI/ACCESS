@@ -1,0 +1,22 @@
+Use Case: BLAST (Basic Local Alignment Search Tool) is a popular tool in bioinformatics, widely used for similarity search in sequence databases. It's used for comparing primary biological sequence information, like the amino-acid sequences of proteins or the letters of DNA and/or RNA chains. A typical use case for BLAST is to infer functional and evolutionary relationships between sequences as well as nullifying chance matches.
+
+Code details and examples: 
+
+The input file for BLAST should be in FASTA format. A simple FASTA file looks like this:
+
+```
+>seq0
+ATGCATGCATGC
+>seq1
+ATGCATGCAAAA
+```
+
+This file contains two sequences: seq0 and seq1. The BLAST command line tool can then be used to find all similar sequences in a given database using the following command:
+
+```
+blastp -query input.fasta -db database.fasta -out output.txt
+```
+
+Here, `blastp` is used for protein sequence alignments, `-query input.fasta` specifies the input file, `-db database.fasta` specifies the database file to align the query to, and `-out output.txt` specifies the output file.
+
+It should be noted that BLAST command line tool needs to be installed and properly set up for the above command to work. It also presumes that `database.fasta`, the database against which we are blasting, has been properly formatted using the `makeblastdb` tool.

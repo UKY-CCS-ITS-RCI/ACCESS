@@ -1,0 +1,20 @@
+{
+  "name": "perl",
+  "description": "High-level, general-purpose, interpreted, dynamic programming language.",
+  "url": "https://www.perl.org/",
+  "documentation": "https://perldoc.perl.org/",
+  "training_materials": [
+    {
+      "name": "Perl Tutorial",
+      "url": "https://www.perl.org/learn.html"
+    },
+    {
+      "name": "Learning Perl",
+      "url": "https://learn.perl.org/"
+    },
+    {
+      "name": "Perl Programming Tutorial",
+      "url": "https://www.youtube.com/watch?v=WEghIXs8F6c"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "SoftwareName": "R-Zeallot",
+  "SoftwarePage": "https://cran.r-project.org/web/packages/zeallot/index.html",
+  "Documentation": [
+    {
+      "description": "General",
+      "URL": "https://cran.r-project.org/web/packages/zeallot/zeallot.pdf"
+    },
+    {
+      "description": "Zeallot on rdocumentation.org",
+      "URL": "https://www.rdocumentation.org/packages/zeallot"
+    }
+  ],
+  "Training": [
+    {
+      "description": "Zeallot for fast R code",
+      "URL": "https://adv-r.hadley.nz/names-values.html#how-assignment-works"
+    }
+  ],
+  "TutorialMaterials": [
+    {
+      "description": "Multiple and Expressive Assignment with zeallot",
+      "URL": "https://cran.r-project.org/web/packages/zeallot/vignettes/zeeassignment.html"
+    },
+    {
+      "description": "Package ‘zeallot’",
+      "URL": "https://cran.r-project.org/web/packages/zeallot/zeallot.pdf"
+    }
+  ]
+}

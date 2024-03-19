@@ -1,0 +1,10 @@
+{
+  "software_name": "gklib",
+  "software_url": "https://github.com/KarypisLab/GKlib",
+  "documentation_url": [
+    "https://joss.theoj.org/papers/10.21105/joss.00878"
+  ],
+  "training_materials": [
+    "https://joss.theoj.org/papers/10.21105/joss.00878"
+  ]
+}

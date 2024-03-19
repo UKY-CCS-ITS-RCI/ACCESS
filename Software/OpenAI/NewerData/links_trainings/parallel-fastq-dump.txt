@@ -1,0 +1,15 @@
+{
+  "name": "parallel-fastq-dump",
+  "software_url": "https://github.com/rvalieris/parallel-fastq-dump",
+  "documentation_url": "https://github.com/rvalieris/parallel-fastq-dump#readme",
+  "training_materials": [
+    {
+      "name": "Using parallel-fastq-dump to download SRA data",
+      "url": "https://www.biostars.org/p/213927/"
+    },
+    {
+      "name": "Converting SRA files to FASTQ using parallel-fastq-dump",
+      "url": "https://www.biostars.org/p/328193/"
+    }
+  ]
+}

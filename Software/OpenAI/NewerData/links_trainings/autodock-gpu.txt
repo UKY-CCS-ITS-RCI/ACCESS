@@ -1,0 +1,13 @@
+{
+  "autodock-gpu": {
+    "software_page": "https://github.com/ccsb-scripps/AutoDock-GPU",
+    "documentation": "https://ccsb.scripps.edu/autodock/",
+    "training_materials": [
+      {
+        "tutorial_1": "http://autodock.scripps.edu/faqs-help/tutorial/using-autodock-4-with-autodocktools",
+        "tutorial_2": "https://pdc-www.hpc.nrel.gov/compilers/docs/autodock_vina/",
+        "tutorial_3": "https://www.macinchem.org/reviews/screening/screening.php"
+      }
+    ]
+  }
+}

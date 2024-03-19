@@ -1,0 +1,20 @@
+{
+ "software_name": "BANNER",
+ "software_URL": "http://banner.sourceforge.net/",
+ "documentation": [
+     {
+         "doc_URL": "http://banner.sourceforge.net/Banner_2_1/BANNERMANUAL.pdf",
+         "doc_name": "User Manual"
+     }
+ ],
+ "training_materials": [
+     {
+         "training_URL": "https://www.youtube.com/watch?v=KLWxDy0vkG4",
+         "training_name": "BANNER Tutorial on Youtube"
+     },
+     {
+         "training_URL": "https://www.slideshare.net/SaurabhSharma233/banner-introduction",
+         "training_name": "BANNER Introduction on Slideshare"
+     }
+ ]
+}

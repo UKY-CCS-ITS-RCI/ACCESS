@@ -1,0 +1,23 @@
+Use Case: Quality filtering of fastq files  
+Code details and examples:  
+```
+fastq_quality_filter -i input_file.fastq -o output_file.fastq -q 20 -p 50
+```
+
+Use Case: FASTQ to FASTA conversion  
+Code details and examples:  
+```
+fastq_to_fasta -i input_file.fastq -o output_file.fasta
+```
+
+Use Case: FASTQ statistics  
+Code details and examples:  
+```
+fastq_quality_stats -i input_file.fastq -o output_file.txt
+```
+
+Use Case: FASTQ length distribution  
+Code details and examples:  
+```
+fastq_length_dist -i input_file.fastq -o output_file.txt
+```

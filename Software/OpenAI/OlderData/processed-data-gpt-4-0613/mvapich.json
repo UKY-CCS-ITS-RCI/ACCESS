@@ -1,0 +1,19 @@
+{
+  "Software": "MVAPICH",
+  "Page": "http://mvapich.cse.ohio-state.edu/",
+  "Documentation": [
+    {
+      "MVAPICH User Guide": "http://mvapich.cse.ohio-state.edu/userguide/"
+    },
+    {
+      "MVAPICH Installation Guide": "http://mvapich.cse.ohio-state.edu/static/media/mvapich/mvapich2-2.3.1-userguide.html#installation"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Introduction to MPI with MVAPICH": "https://www.osc.edu/supercomputing/computing/mvapich2",
+      "Advanced MPI Programming with MVAPICH": "https://events.prace-ri.eu/event/867/attachments/864/1236/MPI_Advanced-PRACE.pdf",
+      "A hands-on Introduction to MPI": "https://cvw.cac.cornell.edu/MPIP2P/"
+    }
+  ]
+}

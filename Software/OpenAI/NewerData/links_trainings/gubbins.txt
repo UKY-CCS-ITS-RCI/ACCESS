@@ -1,0 +1,12 @@
+{
+"Gubbins": {
+"Software Page Url": "https://github.com/sanger-pathogens/gubbins",
+"Documentation Url": "https://sanger-pathogens.github.io/gubbins/",
+"Tutorial Links": [
+"https://bioinformatics-core-shared-training.github.io/cruk-bioinf-sschool/Day3/Sequence_recombination_detection.html",
+"https://bioconda.github.io/recipes/gubbins/README.html",
+"http://www.microbesng.uk/gubbins-guide/",
+"https://sanger-pathogens.github.io/gubbins/#example",
+"https://omics.bjcancer.org/index.php/Gubbins:_detect_recombination_in_bacterial_genomes"]
+}
+}

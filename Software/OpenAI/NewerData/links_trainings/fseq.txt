@@ -1,0 +1,12 @@
+{
+  "software_name": "fseq",
+  "software_url": "http://fureylab.web.unc.edu/software/fseq/",
+  "documentation_url": "",
+  "training_materials": [
+    {
+      "title": "Fseq - biotools",
+      "url": "https://biotools.france-bioinformatique.fr/tool/fseq"
+    }
+  ],
+  "tutorial_materials": []
+}

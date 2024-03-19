@@ -1,0 +1,24 @@
+{
+  "Software": "Panoply",
+  "Software URL": "https://www.giss.nasa.gov/tools/panoply/",
+  "Documentation": [
+    {
+      "Documentation URL": "https://www.giss.nasa.gov/tools/panoply/documentation.html",
+      "Documentation Title": "Panoply Documentation"
+    }
+  ],
+  "Training Materials": [
+    {
+      "Training Material URL": "https://www.giss.nasa.gov/tools/panoply/tutorial/",
+      "Training Material Title": "Panoply Tutorial"
+    },
+    {
+      "Training Material URL": "https://www.youtube.com/watch?v=PDWmvasR6gA",
+      "Training Material Title": "Panoply Data Visualization - YouTube Tutorial"
+    },
+    {
+      "Training Material URL": "https://courses.lib.odu.edu/c.php?g=503103&p=3440958",
+      "Training Material Title": "Tutorial: Displaying NetCDF files in Panoply"
+    }
+  ]
+}

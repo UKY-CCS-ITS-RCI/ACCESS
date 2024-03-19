@@ -1,0 +1,24 @@
+{
+  "Software": "libxml2",
+  "Website": "http://xmlsoft.org/",
+  "Documentation": [
+    {
+      "URL": "http://xmlsoft.org/html/libxml-xmlreader.html",
+      "Title": "Libxml2 API Documentation"
+    }, 
+    {
+      "URL": "http://xmlsoft.org/guides.html",
+      "Title": "Libxml2 programming guides"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "http://xmlsoft.org/examples/index.html",
+      "Title": "Libxml2 example codes"
+    }, 
+    {
+      "URL": "https://www.tutorialspoint.com/c_standard_library/libxml2/index.htm",
+      "Title": "Libxml2 tutorial from Tutorials Point"
+    }
+  ]
+}

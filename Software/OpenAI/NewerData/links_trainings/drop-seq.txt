@@ -1,0 +1,15 @@
+{
+  "Software": "Drop-Seq",
+  "Link": "http://mccarrolllab.com/dropseq/",
+  "RelatedLinks": {
+    "Documentation": "https://github.com/broadinstitute/Drop-seq",
+    "Tutorials": {
+      "Tutorial1": "https://teichlab.github.io/scg_lib_structs/methods_html/10XChromium.html", 
+      "Tutorial2": "https://satijalab.org/seurat/v3.0/pbmc3k_tutorial.html"
+    },
+    "Trainings": {
+      "Training1": "https://hbctraining.github.io/scRNA-seq/lessons/05_SC_quality_control.html",
+      "Training2": "https://broadinstitute.github.io/2019_scWorkshop/drop-seqAlignmentCookbook.html"
+    }
+  }
+}

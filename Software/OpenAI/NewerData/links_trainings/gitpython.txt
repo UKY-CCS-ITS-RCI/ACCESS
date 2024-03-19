@@ -1,0 +1,24 @@
+{
+    "Software Name": "GitPython",
+    "Software URL": "https://gitpython.readthedocs.io/en/stable/",
+    "Documentation": [
+        {
+            "Doc Name": "GitPython’s documentation",
+            "Doc URL": "https://gitpython.readthedocs.io/en/stable/tutorial.html"
+        }
+    ],
+    "Training Material": [
+        {
+            "Training Name": "GitPython Tutorial",
+            "Training URL": "https://www.devdungeon.com/content/gitpython-tutorial"
+        },
+        {
+            "Training Name": "GitPython Tutorial - Using GitPython module for python",
+            "Training URL": "https://pythonrepo.com/repo/gitpython-developer-gitpython"
+        },
+        {
+            "Training Name": "GitPython Tutorial - Pip",
+            "Training URL": "https://pypi.org/project/GitPython/"
+        }
+    ]
+}

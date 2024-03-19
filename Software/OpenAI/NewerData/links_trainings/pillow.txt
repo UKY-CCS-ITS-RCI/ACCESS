@@ -1,0 +1,32 @@
+{
+  "software": "pillow",
+  "link": "https://pillow.readthedocs.io/en/stable/",
+  "documentation": [
+    {
+      "name": "Pillow official documentation",
+      "url": "https://pillow.readthedocs.io/en/stable/"
+    },
+    {
+      "name": "Python Imaging Library (Fork) Pillow",
+      "url": "https://python-pillow.org/"
+    },
+    {
+      "name": "Pillow documentation on PyPi",
+      "url": "https://pypi.org/project/Pillow/"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "Python Imaging Library (PIL) and Pillow - Tutorial on DataCamp",
+      "url": "https://www.datacamp.com/community/tutorials/pillow-python"
+    },
+    {
+      "name": "Image Manipulation with Pillow Python Tutorial",
+      "url": "https://www.tutorialspoint.com/Image-Manipulation-with-Pillow-in-Python"
+    },
+    {
+      "name": "Python Pillow - How To Work With Images In Python - Tutorial on Code Wall",
+      "url": "https://www.codewall.co.uk/python-pillow-how-to-work-with-images-in-python/"
+    }
+  ]
+}

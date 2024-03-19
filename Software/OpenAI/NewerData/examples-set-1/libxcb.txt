@@ -1,0 +1,73 @@
+Use Case: libxcb is an interface to the X Window System protocol, which allows client programs to communicate with an X server. It is mainly used in graphic applications, window managers, and system monitors.
+
+Code details and examples: Code: 
+
+In libxcb, you usually send requests via functions and receive responses via events. Here is an example to open a window:
+
+```c
+#include <stdio.h>
+#include <xcb/xcb.h>
+
+int
+main ()
+{
+  /* Open the connection to the X server. Use the DISPLAY environment variable */
+
+  int screenNum;
+  xcb_connection_t *connection = xcb_connect (NULL, &screenNum);
+
+  /* Get the screen whose number is screenNum */
+
+  const xcb_setup_t *setup = xcb_get_setup (connection);
+  xcb_screen_iterator_t iter = xcb_setup_roots_iterator (setup);
+
+  for (int i = 0; i < screenNum; ++i) {
+    xcb_screen_next (&iter);
+  }
+
+  xcb_screen_t *screen = iter.data;
+
+  /* Create the window */
+
+  xcb_window_t window;
+  window = screen->root;
+
+  xcb_create_window (connection,                  // Connection
+                     XCB_COPY_FROM_PARENT,        // depth (same as root)
+                     window,                      // window Id
+                     screen->root,                // parent window
+                     0, 0,                        // x, y
+                     150, 150,                    // width, height
+                     10,                          // border_width
+                     XCB_WINDOW_CLASS_INPUT_OUTPUT, // class
+                     screen->root_visual,         // visual
+                     0, NULL);                    // masks, not used yet
+
+  /* Map the window on the screen */
+
+  xcb_map_window (connection, window);
+
+  /* Ensure commands are sent before we pause so that the window gets shown */
+
+  xcb_flush (connection);
+
+  pause ();    /* hold client until Ctrl-C */
+
+  return 0;
+}
+```   
+To compile this code, you need to include the libxcb library:
+
+```bash
+gcc -lxcb -o program program.c
+```
+
+And to run:
+
+```bash
+./program
+```
+
+This will open a new window. There are no input files or specifications required for this. However, please ensure that your computer is equipped with an X server, e.g., by running a Linux desktop or using XQuartz on a Mac.
+
+Also, the source code file "program.c" needs to be there in the same directory where the gcc command will be run.

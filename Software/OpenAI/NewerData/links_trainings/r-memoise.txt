@@ -1,0 +1,23 @@
+{
+  "Software Name": "r-memoise",
+  "Website": "https://cran.r-project.org/web/packages/memoise/index.html",
+  "Documentation": [
+    {
+      "URL": "https://cran.r-project.org/web/packages/memoise/memoise.pdf"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "https://blog.rstudio.com/2020/08/05/building-r-packages-safely/",
+      "Description": "Building R Packages Safely"
+    },
+    {
+      "URL": "https://www.rdocumentation.org/packages/memoise/versions/1.1.0",
+      "Description": "R Documentation for memoise"
+    },
+    {
+      "URL": "https://shiring.shinyapps.io/describedistro/",
+      "Description": "Shiny App for R memoise"
+    }
+  ]
+}

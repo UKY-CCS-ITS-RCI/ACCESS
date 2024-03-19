@@ -1,0 +1,20 @@
+{
+  "softwareName":"ltrpred(ict)",
+  "softwareURL": "https://cran.r-project.org/web/packages/LTRpred/index.html",
+  "documentation": [
+      {
+        "name":"LTRpred Documentation",
+        "URL": "https://cran.r-project.org/web/packages/LTRpred/LTRpred.pdf"
+      }
+  ],
+  "trainingMaterials": [
+      {
+        "name":"LTRpred: An R package for de novo LTR retrotransposon annotation",
+        "URL": "https://www.biorxiv.org/content/10.1101/2020.05.30.125583v1"
+      },
+      {
+        "name":"LTRpred - Github examples",
+        "URL": "https://github.com/HajkD/LTRpred"
+      }
+  ]
+}

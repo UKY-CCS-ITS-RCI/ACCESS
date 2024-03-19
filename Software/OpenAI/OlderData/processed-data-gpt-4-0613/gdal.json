@@ -1,0 +1,24 @@
+{
+  "gdal": {
+    "software_url": "https://gdal.org/",
+    "documentation_url": "https://gdal.org/user/index.html",
+    "training_materials":[
+      {
+        "title": "GDAL Course Material - by GeoScript",
+        "url": "https://geoscript.org/lectures/gdal/"
+      },
+      {
+        "title": "Python GDAL/OGR Cookbook!",
+        "url": "https://pcjericks.github.io/py-gdalogr-cookbook/"
+      },
+      {
+        "title": "GDAL Tutorial - by Boston University",
+        "url": "https://www.bu.edu/tech/support/research/software-and-programming/common-languages/gdal/"
+      },
+      {
+        "title": "Introduction to GDAL - by kvh",
+        "url": "https://kokoalberti.com/articles/geospatial-python-gdal/"
+      }
+    ]
+  }
+}

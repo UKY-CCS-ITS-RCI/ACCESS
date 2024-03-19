@@ -1,0 +1,22 @@
+{
+  "software": {
+    "name": "Cicero",
+    "link": "https://cole-trapnell-lab.github.io/cicero-release/",
+    "documentation": [
+      {
+        "name": "Online Documentation",
+        "link": "https://cole-trapnell-lab.github.io/cicero-release/docs/"
+      }
+    ],
+    "tutorials": [
+      {
+        "name": "Computational Course: Network Analysis",
+        "link": "https://training.h3abionet.org/network_analysis/hands-on/cicero/"
+      },
+      {
+        "name": "Cicero Tutorial for Single-cell Data",
+        "link": "https://bioconductor.org/packages/release/bioc/vignettes/cicero/inst/doc/website.html"
+      }
+    ]
+  }
+}

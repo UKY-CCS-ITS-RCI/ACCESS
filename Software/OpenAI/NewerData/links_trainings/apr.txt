@@ -1,0 +1,18 @@
+{
+  "apr": {
+    "softwarePage": "https://apr.apache.org/",
+    "documentationLinks": [
+      {
+        "url": "https://apr.apache.org/docs/apr/2.0/"
+      }
+    ],
+    "tutorialLinks": [
+      {
+        "url": "https://www.devside.net/wamp-server/apache-portable-runtime-apr-library-on-windows"
+      },
+      {
+        "url": "https://www.eit.lth.se/fileadmin/eit/courses/eitn50/Lectures/EITN50-5-Apache-Portable-Runtime.pdf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "software": "libaec",
+    "resources": {
+        "softwareHomepage": "https://www.dkrz.de/up/journaleseiten/journal_41_NEU/tec41/tec41",
+        "documentation": "https://gitlab.dkrz.de/k202009/libaec/-/blob/master/doc/README.md",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

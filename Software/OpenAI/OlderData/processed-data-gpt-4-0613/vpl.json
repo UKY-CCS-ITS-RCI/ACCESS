@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "VPL": 
+    { 
+      "URL": "https://www.vp-asp.com/",
+      "Documentation": "https://www.vp-asp.com/helpnotes/default.htm",
+      "Tutorials": 
+      [
+        {
+          "Getting Started with VP-ASP/VPCart": "https://www.vpasp.com/sales/addons600desc.asp?id=178"
+        },
+        {
+          "VP-ASP Tutorials": "https://www.vpasp.com/sales/shophelptutorials.asp"
+        },
+        {
+          "Designing your layout in VPASP": "https://www.vpasp.com/sales/epowertutorials/tutorial-design.asp"
+        },
+        {
+          "Adding products manually in VPASP": "https://www.vpasp.com/sales/epowertutorials/tutorial-addproducts.asp"
+        }
+      ]
+    }
+  }
+}

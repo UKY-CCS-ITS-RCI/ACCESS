@@ -1,0 +1,10 @@
+{
+  "softwareName": "dnnl",
+  "softwareURL": "https://01.org/dnnl",
+  "documentationURL": "https://oneapi-src.github.io/oneDNN/",
+  "tutorialsURLs": [
+    "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onednn.html#gs.q4e7zc",
+    "https://oneapi-src.github.io/oneDNN/ex_introduction_to_dnnl.html",
+    "https://www.youtube.com/watch?v=L-s0vhz7s70"
+  ]
+}

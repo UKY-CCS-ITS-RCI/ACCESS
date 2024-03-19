@@ -1,0 +1,12 @@
+{
+    "software_name": "Matplotlib",
+    "software_URL": "https://matplotlib.org/",
+    "related_links": 
+        {
+         "documentation": "https://matplotlib.org/stable/contents.html",
+         "tutorial1": "https://matplotlib.org/stable/tutorials/index.html",
+         "tutorial2": "https://realpython.com/python-matplotlib-guide/",
+         "training1": "https://www.w3schools.com/python/matplotlib_intro.asp",
+         "training2": "https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python"
+        }
+}

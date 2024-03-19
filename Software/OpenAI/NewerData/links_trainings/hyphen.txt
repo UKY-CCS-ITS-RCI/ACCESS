@@ -1,0 +1,21 @@
+{
+   "software":{
+      "name":"hyphen",
+      "software_url":"https://github.com/Kozea/Pyphen",
+      "documentation_url":"https://pyphen.org/",
+      "tutorials_and_training":[
+         {
+            "name":"Pyphen documentation",
+            "url":"http://pyphen.org/Publication_Doc"
+         },
+         {
+            "name":"Python modules - Pyphen",
+            "url":"https://python-modules.alioth.debian.org/py-modindex.html"
+         },
+         {
+            "name":"Getting started with Pyphen",
+            "url":"https://pyphen-tutorial.readthedocs.io/"
+         }
+      ]
+   }
+}

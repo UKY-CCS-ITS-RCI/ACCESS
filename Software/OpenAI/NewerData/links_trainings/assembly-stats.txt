@@ -1,0 +1,14 @@
+{
+  "software_name": "assembly-stats",
+  "software_info": {
+    "software_url": "https://github.com/sanger-pathogens/assembly-stats",
+    "documentation": {
+      "doc_1": "https://sanger-pathogens.github.io/assembly-stats/",
+      "doc_2": "https://github.com/sanger-pathogens/assembly-stats/blob/master/README.md"
+    },
+    "training_materials": {
+      "tutorial_1": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html",
+      "tutorial_2": "https://bioinformatics-core-shared-training.github.io/cruk-bioinf-sschool/Day1/Session3/Practicals/Assemblypractical.html"
+    }
+  }
+}

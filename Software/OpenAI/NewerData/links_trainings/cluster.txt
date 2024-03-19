@@ -1,0 +1,19 @@
+{
+  "name": "Cluster 3.0",
+  "software_page": "http://bonsai.hgc.jp/~mdehoon/software/cluster/software.htm",
+  "documentation": "http://bonsai.hgc.jp/~mdehoon/software/cluster/cluster3.pdf",
+  "tutorials": [
+    {
+      "title": "Cluster 3.0 User Tutorial",
+      "url": "http://bonsai.hgc.jp/~mdehoon/software/cluster/Manual/Cluster30Manual.html"
+    },
+    {
+      "title": "Cluster 3.0 User Guide",
+      "url": "http://bonsai.hgc.jp/~mdehoon/software/cluster/Manual/Cluster30Manual.pdf"
+    },
+    {
+      "title": "Introduction to Cluster Analysis",
+      "url": "https://www.stat.berkeley.edu/~spector/s133/Cluster1.html"
+    }
+  ]
+}

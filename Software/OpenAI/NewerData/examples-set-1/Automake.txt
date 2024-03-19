@@ -1,0 +1,56 @@
+Use Case: Automake is a programming tool that is part of the GNU Build System for generating Makefile.in files from files called Makefile.am.
+
+Code details and examples: 
+
+Code: 
+
+1. Create a "Makefile.am" with the following content.
+
+```
+bin_PROGRAMS = hello
+hello_SOURCES = hello.c
+```
+
+This file specifies that we have a single program (hello), and its source file is hello.c. 
+
+2. Create a "configure.ac" - Automake’s main input, the configure script, is generated from this file which might look as follows:
+
+```
+AC_INIT([Hello], [1.0])
+AM_INIT_AUTOMAKE
+AC_PROG_CC
+AC_CONFIG_FILES([Makefile])
+AC_OUTPUT
+```
+
+3. Now, generate configuration script using Automake and autoconf:
+
+```
+aclocal
+automake --add-missing
+autoconf
+```
+
+4. Configure and build your program:
+
+```
+./configure 
+make
+```
+
+Remember, your program hello.c should be present in the same directory.
+
+Input file: hello.c
+
+Format: C Language Source Code.
+
+Sample Input file:
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```

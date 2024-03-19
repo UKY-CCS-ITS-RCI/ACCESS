@@ -1,0 +1,19 @@
+{
+  "software_name": "ARM",
+  "software_page": "https://www.arm.com/products/silicon-ip-cpu",
+  "documentation_link": "https://developer.arm.com/documentation",
+  "tutorial_materials": [
+    { 
+      "name": "Arm Developer Tutorials",
+      "link" : "https://developer.arm.com/solutions/machine-learning-on-arm/developer-material/how-to-guides"
+    },
+    {
+      "name": "Arm Developer YouTube",
+      "link" : "https://www.youtube.com/channel/UC3YPWUoBXqP5l3zYR6x9Qgw"
+    },
+    {
+      "name": "Arm Training and Education",
+      "link" : "https://www.arm.com/support/training"
+    }
+  ]
+}

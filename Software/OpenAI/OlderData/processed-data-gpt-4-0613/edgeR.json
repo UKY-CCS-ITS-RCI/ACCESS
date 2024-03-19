@@ -1,0 +1,10 @@
+{
+  "softwareName": "edgeR",
+  "links": {
+    "softwarePage": "https://bioconductor.org/packages/release/bioc/html/edgeR.html",
+    "documentation": "https://bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf",
+    "officialTutorial": "https://bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf",
+    "tutorial1": "https://www.huber.embl.de/users/klaus/Teaching/fullVersion.pdf",
+    "tutorial2": "https://hbctraining.github.io/DGE_workshop_salmon/lessons/05_DGE_DESeq2_analysis.html"
+  }
+}

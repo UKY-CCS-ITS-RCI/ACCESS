@@ -1,0 +1,17 @@
+{
+"Score-P": {
+    "software_page": "https://www.score-p.org/",
+    "documentation": [
+        {
+        "user_guide": "https://scorep.readthedocs.io/en/latest/",
+        "installation_guide": "https://periscope.readthedocs.io/en/latest/Score-P_Users_Guide.pdf"
+        }
+    ],
+    "tutorials": [
+        {
+        "scorep_tutorial-5.0_pdf": "http://apps.fz-juelich.de/jsc/events/scorep_tutorial/tutorial_material/scorep_tutorial-5.0.pdf",
+        "class_tutorial": "https://github.com/Score-P/scorep_uoa_2020_tutorial"
+        }
+    ]
+}
+}

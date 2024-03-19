@@ -1,0 +1,63 @@
+Use Case: Parsing XML documents, creating XML documents, manipulating and navigating through XML documents.
+
+Code details and examples: 
+
+There are 3 main parts of an XML – elements, attributes, and text. Xerces, being a full-fledged XML parser, provides parsing, validation and manipulation capabilities for all these parts. Here is an example:
+
+Required Input File Format: XML
+
+Example of XML Input file ("sample.xml"):
+```
+<note>
+    <to>Tove</to>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <body>Don't forget me this weekend!</body>
+</note>
+```
+
+Code Snippet:
+
+In C++:
+```
+#include <xercesc/parsers/XercesDOMParser.hpp>
+#include <xercesc/sax/HandlerBase.hpp>
+#include <xercesc/util/XMLUni.hpp>
+
+int main (int argc, char* argv[]){
+    try {
+        XMLPlatformUtils::Initialize(); // Initialize the XML4C2 system
+    }
+    catch (const XMLException& toCatch) {
+        // Do your failure processing here
+        return 1;
+    }
+
+    XercesDOMParser* parser = new XercesDOMParser;
+    
+    parser->setValidationScheme(XercesDOMParser::Val_Always);    // optional.
+    parser->setDoNamespaces(true);  // optional
+
+    ErrorHandler* errHandler = (ErrorHandler*) new HandlerBase;
+    parser->setErrorHandler(errHandler);
+
+    try {
+        parser->parse("sample.xml"); // This will parse the XML file
+    }
+    catch (const XMLException& toCatch) {
+        char* message = XMLString::transcode(toCatch.getMessage());
+        // Do your exception handling here
+        delete parser;
+        return -1;
+    }
+    
+    delete parser;
+    delete errHandler;
+    return 0;
+}
+```
+Command to run: 
+```
+g++ main.cpp -lxerces-c -o main
+./main
+```

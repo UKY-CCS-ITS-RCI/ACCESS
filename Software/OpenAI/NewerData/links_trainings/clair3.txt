@@ -1,0 +1,15 @@
+{
+  "name": "clair3",
+  "softwarePage": "https://github.com/HKU-BAL/Clair3",
+  "documentation": [
+    {
+      "link": "https://www.biorxiv.org/content/10.1101/2021.02.25.432969v1.full"
+    }
+  ],
+  "trainingMaterial": [
+    {
+      "tutorial": "https://github.com/HKU-BAL/Clair3/blob/main/docs/manual.md",
+      "description": "Clair3 manual for installation, data preparation, model selection, large variant and small variant calling."
+    }
+  ]
+}

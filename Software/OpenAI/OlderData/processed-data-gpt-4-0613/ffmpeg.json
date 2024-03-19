@@ -1,0 +1,10 @@
+{
+  "softwareName": "FFmpeg",
+  "links": {
+    "softwarePage": "https://ffmpeg.org/",
+    "documentation": "https://ffmpeg.org/documentation.html",
+    "officialTutorial": "https://trac.ffmpeg.org/wiki/Encode/H.264",
+    "tutorial1": "https://www.youtube.com/watch?v=6Nq1Id45bws",
+    "tutorial2": "https://www.freecodecamp.org/news/learn-how-to-use-the-ffmpeg-command-line-in-15-minutes/"
+  }
+}

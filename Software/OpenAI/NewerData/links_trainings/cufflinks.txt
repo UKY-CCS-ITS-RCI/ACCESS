@@ -1,0 +1,21 @@
+{
+  "software_name": "Cufflinks",
+  "software_page": "http://cole-trapnell-lab.github.io/cufflinks/",
+  "additional_links": {
+    "documentation": "http://cole-trapnell-lab.github.io/cufflinks/manual/",
+    "training_materials": [
+      {
+        "title": "Introduction to cufflinks",
+        "url": "https://informatics.fas.harvard.edu/introduction-to-cufflinks.html"
+      },
+      {
+        "title": "Cufflinks Tutorial",
+        "url": "http://cufflinks.cbcb.umd.edu/tutorial.html"
+      },
+      {
+        "title": "Cufflinks Manual",
+        "url": "http://cole-trapnell-lab.github.io/cufflinks/manual/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "software_name": "py-numba",
+  "software_page": "https://numba.pydata.org/",
+  "documentation_url": "https://numba.readthedocs.io/en/latest/",
+  "training_materials": [
+    {
+      "name": "Numba tutorial on the official site",
+      "link": "https://numba.pydata.org/numba-doc/latest/user/5minguide.html"
+    },
+    {
+      "name": "Numba's Walkthrough",
+      "link": "https://numba.pydata.org/numba-doc/latest/user/jit.html"
+    },
+    {
+      "name": "Numba tutorial on SciPy 2019",
+      "link": "https://github.com/numba/numba-examples/tree/master/notebooks/Numba_SciPy2019"
+    },
+    {
+      "name": "Numba course at EuroSciPy 2018",
+      "link": "https://github.com/esc/scipy2018-numba-course"
+    },
+    {
+      "name": "Accelerating Python with the Numba JIT Compiler - PyData 2016 by Stanley Seibert",
+      "link": "https://www.youtube.com/watch?v=1AwG0T4gaO0"
+    },
+    {
+      "name": "Accelerating Scientific Python with Numba - PyData 2018 by Stanley Seibert",
+      "link": "https://www.youtube.com/watch?v=UaFSnaYh2b8"
+    }
+  ],
+  "conda_package": "https://anaconda.org/conda-forge/numba"
+}

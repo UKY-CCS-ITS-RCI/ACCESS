@@ -1,0 +1,32 @@
+{
+    "Software": "Maven",
+    "Link": "https://maven.apache.org/",
+    "Documentation": [
+        {
+            "Name": "Maven User Guide",
+            "URL": "https://maven.apache.org/guides/index.html"
+        },
+        {
+            "Name": "Maven Reference",
+            "URL": "https://maven.apache.org/ref/3.6.3/"
+        },
+        {
+            "Name": "Getting Started with Apache Maven",
+            "URL": "https://maven.apache.org/guides/getting-started/index.html"
+        }
+    ],
+    "Training and Tutorial Materials": [
+        {
+            "Name": "Maven Tutorials by Baeldung",
+            "URL": "https://www.baeldung.com/maven"
+        },
+        {
+            "Name": "Maven Tutorial by Tutorialspoint",
+            "URL": "https://www.tutorialspoint.com/maven/index.htm"
+        },
+        {
+            "Name": "FreeCodeCamp's Maven Tutorial",
+            "URL": "https://www.freecodecamp.org/news/maven-tutorial-for-beginners-2/"
+        }
+    ]
+}

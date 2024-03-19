@@ -1,0 +1,24 @@
+{
+  "software": "qt5webkit",
+  "software_url": "https://www.qt.io",
+  "documentation": [
+    {
+      "doc_name": "Qt Documentation",
+      "doc_url": "https://doc.qt.io"
+    }
+  ],
+  "tutorial": [
+    {
+      "tutorial_name": "Qt5 Tutorial",
+      "tutorial_url": "https://www.bogotobogo.com/Qt/Qt5_Tutorial.php"
+    },
+    {
+      "tutorial_name": "Qt5 C++ GUI Programming Cookbook",
+      "tutorial_url": "https://www.packtpub.com/product/qt5-c-gui-programming-cookbook-second-edition/9781789803822"
+    },
+    {
+      "tutorial_name": "Learn Qt & QML by Coding",
+      "tutorial_url": "https://www.udemy.com/course/learn-qt-and-qml-by-example/"
+    }
+  ]
+}

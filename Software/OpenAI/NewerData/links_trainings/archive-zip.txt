@@ -1,0 +1,13 @@
+{
+  "software": "archive-zip",
+  "web_page_url": "https://metacpan.org/pod/distribution/Archive-Zip/lib/Archive/Zip.pm",
+  "documentation_urls": [
+    "https://metacpan.org/pod/distribution/Archive-Zip/lib/Archive/Zip.pm",
+    "https://search.cpan.org/~smylers/Archive-Zip-1.30/lib/Archive/Zip/FAQ.pod"
+  ],
+  "tutorial_materials_urls": [
+    "https://www.perlmonks.org/?node_id=26985",
+    "https://www.tutorialspoint.com/perl/perl_archives_files.htm",
+    "https://learn.perl.org/faq/perlfaq9.html#How-do-I-read-a-``%7B-zip-,gz,-compressed,-etc.%7D''-file%3F"
+  ]
+}

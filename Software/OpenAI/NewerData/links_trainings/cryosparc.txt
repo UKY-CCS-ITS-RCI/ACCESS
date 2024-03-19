@@ -1,0 +1,12 @@
+{
+  "Software Name": "cryosparc",
+  "Software Page": "https://cryosparc.com/",
+  "Documentation": "https://guide.cryosparc.com/",
+  "Tutorial Materials": [
+    {
+      "Tutorial Material1": "https://cryosparc.com/docs/tutorials/",
+      "Tutorial Material2": "https://cryosparc.com/docs/reference/commands/",
+      "Tutorial Material3": "https://www.youtube.com/watch?v=OX3CSIyYL60"
+    }
+  ]
+}

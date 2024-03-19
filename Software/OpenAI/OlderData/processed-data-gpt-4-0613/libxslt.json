@@ -1,0 +1,14 @@
+{
+    "software": "libxslt",
+    "resources": {
+        "softwareHomepage": "http://xmlsoft.org/XSLT/",
+        "documentation": "http://xmlsoft.org/XSLT/",
+        "tutorials": [
+            {
+                "title": "The XSLT C library for GNOME",
+                "url": "http://xmlsoft.org/XSLT/tutorial/libxslttutorial.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

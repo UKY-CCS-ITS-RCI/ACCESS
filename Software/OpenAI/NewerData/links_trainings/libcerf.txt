@@ -1,0 +1,9 @@
+{
+  "software": "libcerf",
+  "main_page": "http://apps.jcns.fz-juelich.de/doku/sc/libcerf",
+  "resources": {
+      "documentation": "http://apps.jcns.fz-juelich.de/doku/sc/libcerf",
+      "tutorials_and_training": [],
+      "other_resources": []
+  }
+}

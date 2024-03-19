@@ -1,0 +1,21 @@
+Use Case: FFmpeg is a commonly used software tool for handling multimedia data by decoding, encoding, transcribing, streaming, filtering, and playing. It provides a command-line interface and is well known for its powerful and extensive functionalities. An example of its use would be to convert a video file from one format to another.
+
+Code Details and Examples:
+
+Command to convert a .mkv file to .mp4:
+```
+ffmpeg -i input.mkv output.mp4
+```
+In this command, 'input.mkv' is the input file and 'output.mp4' is the output file.
+
+Command to extract audio from a video file:
+```
+ffmpeg -i input_video.mp4 -vn -ab 256 audio.mp3
+```
+In this command, 'input_video.mp4' is the input file and 'audio.mp3' is the output file. The '-vn' option is used to disable video recording and the '-ab 256' option sets the audio bitrate to 256k.
+
+Command to convert an image sequence to a video:
+```
+ffmpeg -f image2 -i image%d.jpg video.mp4
+```
+In this command, 'image%d.jpg' is the input image sequence and 'video.mp4' is the output video file. The '%d' in the input file name is replaced by the image number for each frame. The '-f image2' option tells ffmpeg that the input is an image sequence.

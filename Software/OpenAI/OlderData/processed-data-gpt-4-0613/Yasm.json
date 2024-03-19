@@ -1,0 +1,15 @@
+{
+"name": "Yasm",
+"softwarePage": "https://yasm.tortall.net/",
+"documentation": "https://www.tortall.net/projects/yasm/manual/html/manual.html",
+"tutorialMaterials": [
+    {
+        "name": "Getting Started with Yasm",
+        "url": "https://www.tortall.net/projects/yasm/wiki/YasmUsageWindows"
+    },
+    {
+        "name": "How to Assemble & Link x86 Assembly Programs With Yasm",
+        "url": "https://www.youtube.com/watch?v=dpnxbwu2ReU"
+    }
+  ]
+}

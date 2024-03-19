@@ -1,0 +1,28 @@
+{
+  "Software": "gdk-pixbuf",
+  "Software_URL": "https://developer.gnome.org/gdk-pixbuf/stable",
+  "Documentation": [
+    {
+      "URL": "https://docs.gtk.org/gdk-pixbuf/",
+      "Type": "Official Documentation"
+    },
+    {
+      "URL": "https://help.gnome.org/users/gimp-help/2.8/gimp-images-out-gdk-pixbuf.html",
+      "Type": "GIMP User Documentation"
+    }
+  ],
+  "Tutorials_Training": [
+    {
+      "URL": "https://developer.gnome.org/gdk-pixbuf/stable/gdk-pixbuf-getting-started.html",
+      "Type": "Getting Started with gdk-pixbuf"
+    },
+    {
+      "URL": "https://www.youtube.com/watch?v=neqU2V5ph9w",
+      "Type": "Youtube Tutorial on Gdk-pixbuf"
+    },
+    {
+      "URL": "https://stackoverflow.com/questions/tagged/gdk-pixbuf",
+      "Type": "Stackoverflow Discussion"
+    }
+  ]
+}

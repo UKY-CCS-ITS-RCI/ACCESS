@@ -1,0 +1,20 @@
+{
+  "Software": "Abseil",
+  "Homepage": "https://abseil.io",
+  "Documentation": "https://abseil.io/docs",
+  "Tutorials": [
+    {
+      "name": "Abseil C++ Guideline",
+      "link": "https://abseil.io/docs/cpp/guides/"
+    },
+    {
+      "name": "C++ Tips of the Week",
+      "link": "https://abseil.io/tips/"
+    },
+    {
+      "name": "Abseil Python Guide",
+      "link": "https://abseil.io/docs/python/guides/"
+    }
+  ],
+  "Additional Resources": []
+}

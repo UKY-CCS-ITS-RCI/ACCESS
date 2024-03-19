@@ -1,0 +1,11 @@
+{
+  "Software_Name": "OpenMX",
+  "Website_Link": "http://www.openmx-square.org/",
+  "Documentation": {
+    "Link1": "http://www.openmx-square.org/openmx_man3.9/"
+  },
+  "Tutorials_Training": {
+    "Link1": "http://www.openmx-square.org/openmx_man3.9/tutorial.html",
+    "Link2": "https://github.com/tsuchinoko-run/TranSIESTA-tutorial"
+  }
+}

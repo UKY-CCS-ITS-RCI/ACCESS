@@ -1,0 +1,20 @@
+{
+  "r-nnet": {
+    "Software page": "https://www.rdocumentation.org/packages/nnet/versions/7.3-17",
+    "Documentation": [
+      {
+        "RDocumentation": "https://www.rdocumentation.org/packages/nnet/versions/7.3-17",
+        "CRAN": "https://cran.r-project.org/package=nnet"
+      }
+    ],
+    "Training and tutorial materials": [
+      {
+        "Professor Geoff Vining Tutorial": "https://www.youtube.com/watch?v=quURgY6G31w", 
+        "R-bloggers on Neural Networks": "https://www.r-bloggers.com/predictive-analytics-using-neural-networks-in-r/",
+        "DataCamp Tutorial": "https://www.datacamp.com/community/tutorials/neural-network-model-r",
+        "KDnuggets Tutorial on Neural Networks": "https://www.kdnuggets.com/2017/09/neural-networks-r-tutorial.html",
+        "RPubs Tutorial": "https://rpubs.com/cjgersh/407441"
+      }
+    ]
+  }
+}

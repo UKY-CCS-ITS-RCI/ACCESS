@@ -1,0 +1,17 @@
+{
+  "software": "perftools-lite",
+  "details": [
+    {
+      "link": "https://docs.nersc.gov/performance/perftools/",
+      "description": "Perftools is a performance profiling tool for HPC applications. The 'lite' version is a simplified interface for the more comprehensive version."
+    },
+    {
+      "documentationLink": "https://docs.nersc.gov/performance/perftools-lite/",
+      "description": "Official documentation for perftools-lite."
+    },
+    {
+      "tutorialLink": "https://peardrop-prd.s3.amazonaws.com/public/perftools-tutorial/Hoppe-Chapman-CUG2011.pdf",
+      "description": "A tutorial on using perftools-lite for application performance profiling."
+    }
+  ]
+}

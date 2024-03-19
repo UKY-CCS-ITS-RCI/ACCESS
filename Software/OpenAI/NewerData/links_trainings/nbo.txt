@@ -1,0 +1,10 @@
+{
+  "software": "nbo",
+  "official_page": "http://nbo.chem.wisc.edu/",
+  "documentation": "http://nbo.chem.wisc.edu/nbo6/doc/Def_Ref.pdf",
+  "tutorial_links": [
+    "http://nbo.chem.wisc.edu/grad_g09.html",
+    "https://orcaforum.cec.mpg.de/ucp.php?i=wiki&mode=article&article_id=51",
+    "https://www.basement-scientist.com/2018/10/a-quick-guide-to-natural-bond-orbital.html"
+  ]
+}

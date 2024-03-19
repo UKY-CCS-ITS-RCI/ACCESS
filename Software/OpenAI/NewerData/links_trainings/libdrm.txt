@@ -1,0 +1,25 @@
+{
+  "Software": "libdrm",
+  "Description": "A userspace library for managing graphics, primarily for direct rendering infrastructure",
+  "Link": "https://dri.freedesktop.org/libdrm/",
+  "Documentation": [
+    {
+      "Link": "https://dri.freedesktop.org/docs/drm/",
+      "Description": "Official DRI Documentation"
+    },
+    {
+      "Link": "https://en.wikipedia.org/wiki/Direct_Rendering_Manager",
+      "Description": "Wikipedia Article: Direct Rendering Manager"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Link": "https://wiki.archlinux.org/title/Kernel_mode_setting",
+      "Description": "Tutorial: Kernel mode setting"
+    },
+    {
+      "Link": "https://01.org/linuxgraphics/gfx-docs/drm/gpu/drm-mm.html",
+      "Description": "Guide: DRM/KMS Core"
+    }
+  ]
+}

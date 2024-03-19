@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "LAMMPS",
+    "software_link": "https://lammps.sandia.gov/",
+    "additional_links": {
+      "documentation": "https://docs.lammps.org/",
+      "tutorials": [
+        "https://icme.hpc.msstate.edu/mediawiki/index.php/LAMMPS_tutorial",
+        "https://cmse.msu.edu/lammps-workshop-tutorials/",
+        "https://gidrias.com/lammps-lessons"
+      ],
+      "training": [
+        "https://www.csc.fi/web/training/-/lammps",
+        "https://www.nsc.liu.se/support/documents/lammps/lammps.html"
+      ],
+      "conda_packages": [
+        "https://anaconda.org/conda-forge/lammps"
+      ]
+    }
+  }
+}

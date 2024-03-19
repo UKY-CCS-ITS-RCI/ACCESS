@@ -1,0 +1,35 @@
+Use Case: PyCairo is a set of Python bindings for cairo which can be used to create vector graphics. An example use-case is to create a simple drawing consisting of a few geometric shapes.
+
+Code details and examples:
+
+Code:
+
+```python
+import cairo
+
+# Create the cairo context using the surface object
+surf = cairo.ImageSurface(cairo.FORMAT_ARGB32, 200, 200)
+ctx = cairo.Context(surf)
+
+# Now we can draw things on the surface and they will appear in the image
+ctx.set_source_rgb(1, 1, 1)  # white
+ctx.move_to(20, 30)
+ctx.line_to(160, 150)
+ctx.stroke()
+
+ctx.set_source_rgb(0, 0, 0)  # black
+ctx.rectangle(50, 30, 60, 60)  # rectangle
+ctx.fill()  
+
+# write to png
+surf.write_to_png('output.png')
+```
+
+This code creates a 200x200 white surface, and a black rectangle of dimensions 60x60 from the point (50,30). Then a white line is drawn from (20,30) to (160,150). Finally, the image is saved in PNG format.
+
+In this case, no input files are needed. The output will be a PNG image file. 
+
+You can run this Python script by using the following command:
+```
+python3 script_name.py
+```

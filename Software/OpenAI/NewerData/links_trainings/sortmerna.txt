@@ -1,0 +1,21 @@
+{
+  "Software Name": "SortMeRNA",
+  "Software Page": "https://github.com/biocore/sortmerna",
+  "Additional links": {
+    "Documentation": "http://bioinfo.lifl.fr/RNA/sortmerna/code/SortMeRNA-user_manual-v2.1.pdf",
+    "Tutorial Materials": [
+      {
+        "Title": "SortMeRNA: fast and accurate filtering of ribosomal RNAs in metatranscriptomic data",
+        "Link": "https://bioinformatics.oxfordjournals.org/content/early/2012/10/25/bioinformatics.bts611.full.pdf"
+      },
+      {
+        "Title": "SortMeRNA: filtering ribosomal RNAs in metatranscriptomic data",
+        "Link": "https://bioinformatics.oxfordjournals.org/content/28/24/3211.long"
+      },
+      {
+        "Title": "SortMeRNA Usage Example",
+        "Link": "https://bioinfo.lifl.fr/RNA/sortmerna/code/README"
+      }
+    ]
+  }
+}

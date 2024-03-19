@@ -1,0 +1,23 @@
+{
+    "softwareName": "VirtualGL",
+    "softwarePage": "https://virtualgl.org/",
+    "documentationLink": "https://virtualgl.org/vgldoc/2_2_1/",
+    "tutorialMaterials": [
+        {
+            "name": "VirtualGL User's Guide",
+            "URL": "https://virtualgl.org/vgldoc/2_2_1/"
+        },
+        {
+            "name": "VirtualGL 3D Plugin Tutorial",
+            "URL": "https://www.youtube.com/watch?v=jjQ3D1Lz_oM"
+        },
+        {
+            "name": "VirtualGL project on Github ",
+            "URL": "https://github.com/VirtualGL/virtualgl"
+        },
+        {
+            "name": "SourceForge VirtualGL discussion",
+            "URL": "https://sourceforge.net/p/virtualgl/discussion/"
+        }
+    ]
+}

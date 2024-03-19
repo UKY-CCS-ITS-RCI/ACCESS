@@ -1,0 +1,12 @@
+{
+    "software": "cuTensor",
+    "links": {
+        "software_page": "https://developer.nvidia.com/cutensor",
+        "documentation": "https://docs.nvidia.com/cuda/cutensor/index.html",
+        "tutorials_and_trainings": {
+            "Getting Started Guide": "https://docs.nvidia.com/cuda/cutensor/cutensorGS.html",
+            "API Reference": "https://docs.nvidia.com/cuda/cutensor/api/index.html",
+            "Developer Blog - Introduction to cuTensor": "https://developer.nvidia.com/blog/introducing-cutensor/"
+        }
+    }
+}

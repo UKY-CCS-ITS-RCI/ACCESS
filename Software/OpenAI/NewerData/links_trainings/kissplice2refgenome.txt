@@ -1,0 +1,10 @@
+{
+  "Software_Name": "kissplice2refgenome",
+  "Software_URL": "http://kissplice.prabi.fr/tools/k2rg/",
+  "Documentation_URL": "http://kissplice.prabi.fr/help",
+  "Tutorial_and_Training_Materials": {
+    "Kissplice_Tutorial_1": "http://kissplice.prabi.fr/tutorials/kissplice/",
+    "Kissplice_Tutorial_2": "http://kissplice.prabi.fr/tutorials/k2rg/",
+    "Kissplice_Tutorial_3": "http://kissplice.prabi.fr/tutorials/kissDE/"
+  }
+}

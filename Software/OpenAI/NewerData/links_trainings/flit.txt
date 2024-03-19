@@ -1,0 +1,14 @@
+{
+  "Software": "Flit",
+  "Details": {
+    "Software page": "https://pypi.org/project/flit/",
+    "Documentation": "https://flit.readthedocs.io/en/latest/",
+    "Tutorial materials": {
+      "Overview of packaging for Python": "https://flit.readthedocs.io/en/latest/intro.html",
+      "Using flit to package Python code": "https://flit.readthedocs.io/en/latest/user_guide.html",
+      "Python Packaging User Guide": "https://packaging.python.org/en/latest/",
+      "Tutorial by Python Land": "https://python.land/python-packaging-tutorial/flit",
+      "Tutorial by Ionel Cristian": "https://blog.ionelmc.ro/2014/05/25/python-packaging/"
+    }
+  }
+}

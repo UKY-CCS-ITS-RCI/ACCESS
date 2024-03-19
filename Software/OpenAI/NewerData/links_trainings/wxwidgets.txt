@@ -1,0 +1,23 @@
+{
+  "software": "wxwidgets",
+  "official_website": "https://www.wxwidgets.org/",
+  "documentation": "https://docs.wxwidgets.org/3.1.0/",
+  "tutorials_and_training_materials": [
+    {
+      "title": "Zetcode wxWidgets tutorial",
+      "url":"http://zetcode.com/gui/wxwidgets/"
+    }, 
+    {
+      "title": "TutorialsPoint wxWidgets tutorial",
+      "url": "https://www.tutorialspoint.com/wxwidgets/index.htm"
+    }, 
+    {
+      "title": "Jan Bodnar's wxWidgets tutorial",
+      "url": "http://wiki.codeblocks.org/index.php/WxSmith_tutorials:_Jan_Bodnar's_WxWidgets_tutorial"
+    },
+    {
+      "title": "wxwidgets samples and tutorials Github Repository",
+      "url": "https://github.com/wxWidgets/wxWidgets/tree/master/samples"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "SoftwareName": "NWChem",
+  "Link": "http://www.nwchem-sw.org/index.php/Main_Page",
+  "Documentation": [
+    {
+      "Name": "User Documentation",
+      "Links": [
+        {
+          "Name": "NWChem Documentation",
+          "Urls": [
+            "http://www.nwchem-sw.org/index.php/Release66:Top5000",
+            "http://www.nwchem-sw.org/index.php/NWChem_Documentation"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Developer Documentation",
+      "Links": [
+        {
+          "Name": "Developer_Manual",
+          "Urls": [
+            "http://www.nwchem-sw.org/index.php/Developer_Manual"
+          ]
+        },
+        {
+          "Name": "Programmer’s Guide",
+          "Urls": [
+            "http://www.nwchem-sw.org/index.php/Programmer%27s_guide"
+          ]
+        }
+      ]
+    }
+  ],
+  "Tutorial": [
+    {
+      "Name": "Tutorial",
+      "Links": [
+        {
+          "Names": "Nwchem Tutorial",
+          "Urls": [
+            "http://www.nwchem-sw.org/index.php/NWChem_Tutorials"
+          ]
+        },
+        {
+          "Names": "Tutorial Slides",
+          "Urls": [
+            "http://www.nwchem-sw.org/images/Nwchem6_ptask.ppt"
+          ]
+        }
+      ]
+    }
+  ]
+}

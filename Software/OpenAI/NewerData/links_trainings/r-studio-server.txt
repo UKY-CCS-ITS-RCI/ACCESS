@@ -1,0 +1,14 @@
+{
+  "software": "R-Studio Server",
+  "categories": ["scientific software", "compilers", "computational software", "HPC tools"],
+  "links": {
+    "software": "https://rstudio.com/products/rstudio/",
+    "documentation": "https://docs.rstudio.com/ide/server-pro/",
+    "tutorials": {
+      "R-Studio-Server Basics": "https://www.youtube.com/watch?v=s3FozVfd7q4",
+      "Data Analysis in R, The Data Science Course 2021 (R-Studio, ggplot, R Programming, Statistics)": "https://www.udemy.com/course/data-science-course-with-r/",
+      "Interactive R Programming with RStudio Server": "https://www.edx.org/professional-certificate/rstudio-interactive-r-programming",
+      "Learn RStudio-IDE Online Tutorials": "https://www.w3schools.com/r/"
+    }
+  }
+}

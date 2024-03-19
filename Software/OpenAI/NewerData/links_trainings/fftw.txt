@@ -1,0 +1,18 @@
+{
+  "Software": "fftw",
+  "Details":[
+    {
+      "SoftwarePage": "http://www.fftw.org/",
+      "Documentation": "http://www.fftw.org/fftw3_doc/",
+      "TrainingMaterials": [
+        {
+          "FFTW Tutorial 1": "http://www2.ph.ed.ac.uk/~dmarendu/MPIcourse/other/FFTwTutorial.pdf",
+          "FFTW Tutorial_C": "https://www.dursi.ca/post/simple-fftw-example.html",
+          "FFTW Tutorial_CPP": "https://scipy-cookbook.readthedocs.io/items/IFFT.html",
+          "Example_FFTW_in_C": "https://www.dsprelated.com/showcode/278.php",
+          "FFTW_StackOverflow": "https://stackoverflow.com/questions/tagged/fftw"
+        }
+      ]
+    }
+  ]
+}

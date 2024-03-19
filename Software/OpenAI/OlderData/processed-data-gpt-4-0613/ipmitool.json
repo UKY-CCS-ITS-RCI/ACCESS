@@ -1,0 +1,18 @@
+{
+  "Software": "ipmitool",
+  "Details": {
+    "Software Link": "https://github.com/ipmitool/ipmitool",
+    "Documentation": "https://www.mankier.com/1/ipmitool",
+    "Tutorials": [
+      {
+        "Tutorial Link": "https://www.bewholme.com/ipmitool-examples-cisco-ucs/"
+      },
+      {
+        "Tutorial Link": "https://www.thomas-krenn.com/en/wiki/Operating_IPMItool_Commands"
+      },
+      {
+        "Tutorial Link": "https://info.crunchtools.com/docs/ipmitool.html"
+      }
+    ]
+  }
+}

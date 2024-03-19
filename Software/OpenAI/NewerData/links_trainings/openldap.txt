@@ -1,0 +1,31 @@
+{
+  "software_name": "OpenLDAP",
+  "software_url": "https://www.openldap.org/",
+  "documentation": {
+    "official_documentation": "https://www.openldap.org/doc/",
+    "other_resources": [
+      {
+        "name": "LDAP for Rocket Scientists",
+        "url": "http://www.zytrax.com/books/ldap/"
+      },
+      {
+        "name": "OpenLDAP Software 2.4 Administrator's Guide",
+        "url": "https://www.openldap.org/doc/admin24/"
+      }
+    ]
+  },
+  "tutorials": [
+    {
+      "name": "Introduction to OpenLDAP Directory Services",
+      "url": "https://www.digitalocean.com/community/tutorials/introduction-to-openldap-directory-services"
+    },
+    {
+      "name": "OpenLDAP Server Tutorial",
+      "url": "https://ubuntu.com/server/docs/service-openldap"
+    },
+    {
+      "name": "OpenLDAP Tutorial: A simple and practical guide",
+      "url": "https://www.varonis.com/blog/openldap-tutorial/"
+    }
+  ]
+}

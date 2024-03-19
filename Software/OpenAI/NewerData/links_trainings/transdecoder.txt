@@ -1,0 +1,11 @@
+{
+  "Software": "TransDecoder",
+  "Links": {
+    "Software Page": "https://github.com/TransDecoder/",
+    "Documentation": "https://github.com/TransDecoder/TransDecoder/wiki",
+    "Tutorials": [
+      "https://gist.github.com/drtconway/5109954",
+      "https://darmoutramugdha.medium.com/performing-transcriptome-assembly-and-differential-gene-expression-analysis-4-part-2-2803f0b905d0"
+    ]
+  }
+}

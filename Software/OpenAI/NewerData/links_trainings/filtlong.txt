@@ -1,0 +1,9 @@
+{
+  "software_name": "filtlong",
+  "software_url": "https://github.com/rrwick/Filtlong",
+  "additional_links": {
+    "documentation_url": "https://github.com/rrwick/Filtlong",
+    "tutorial_links": [],
+    "training_materials": []
+  }
+}

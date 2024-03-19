@@ -1,0 +1,12 @@
+{
+  "Software": "cm-pmix3",
+  "Software URL": "https://github.com/pmodels/pmix",
+  "Documentation": {
+    "PMIx Standard": "https://github.com/pmix/pmix-standard",
+    "PMIx v3.1 User Guide": "https://pmix.org/doc-drafts/pmix-v3.pdf"
+  },
+  "Tutorials and Training Materials": {
+    "PMIx overview and tutorial": "https://www.open-mpi.org/papers/workshop-2006/pmix.ppt",
+    "PMIx Training Session": "https://www.youtube.com/watch?v=qhiO3emOQOc"
+  }
+}

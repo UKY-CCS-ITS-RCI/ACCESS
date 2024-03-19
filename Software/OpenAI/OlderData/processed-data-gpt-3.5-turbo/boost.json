@@ -1,0 +1,23 @@
+{
+    "software": "boost",
+    "overview": "Boost is a popular collection of C++ libraries that provide support for various tasks and domains, ranging from data structures and algorithms to concurrency and multithreading. It enhances C++ programming capabilities.",
+    "core_features": [
+        "Wide range of libraries for different tasks",
+        "Portable and well-tested codebase",
+        "Compatibility with C++ standard libraries",
+        "Boost.Python for Python-C++ integration",
+        "Boost.Asio for network programming"
+    ],
+    "general_tags": [
+        "C++ libraries",
+        "software development",
+        "data structures",
+        "concurrency"
+    ],
+    "additional_tags": {
+        "research_discipline": "Computer Science",
+        "research_area": "Software Development",
+        "software_class": "C++ Libraries",
+        "software_type": "Open Source"
+    }
+}

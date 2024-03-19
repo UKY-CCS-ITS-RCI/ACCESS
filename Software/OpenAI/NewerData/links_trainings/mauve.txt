@@ -1,0 +1,20 @@
+{
+  "name": "Mauve",
+  "software_url": "http://darlinglab.org/mauve/mauve.html",
+  "docs": [
+    {
+      "title": "User Guide",
+      "url": "http://darlinglab.org/mauve/user-guide/manual.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Mauve Tutorial",
+      "url": "https://www.mbio.ncsu.edu/bioedit/mbio440/mb440s17dir/problems/hw12/mauve-tutorial.html"
+    },
+    {
+      "title": "Mauve Alignment Tutorial",
+      "url": "https://asap.genetics.wisc.edu/tutorial.html"
+    }
+  ]
+}

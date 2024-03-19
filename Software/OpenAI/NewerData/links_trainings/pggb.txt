@@ -1,0 +1,10 @@
+{
+  "Software_name": "pggb",
+  "Software_link": "https://github.com/pangenome/pggb",
+  "Documentation_link": "https://github.com/pangenome/pggb",
+  "Tutorial_links": {
+    "PGGB-Tutorial by phelimb": "https://github.com/phelimb/PGGB",
+    "PGGB Wiki page": "https://github.com/pangenome/pggb/wiki",
+    "VCFLIB Wiki (Used in PGGB)": "https://github.com/vcflib/vcflib/wiki"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "software_name": "Armadillo",
+  "software_url": "http://arma.sourceforge.net/",
+  "documentation_url": "http://arma.sourceforge.net/docs.html",
+  "tutorials_and_training": [
+    {
+      "tutorial_name": "Armadillo tutorial on GitHub",
+      "tutorial_url": "https://github.com/conradsnicta/armadillo-code#user-content-tutorial"
+    },
+    {
+      "tutorial_name": "C++ Linear Algebra Library (Armadillo) tutorial",
+      "tutorial_url": "https://www.geekhideout.com/arma.shtml"
+    },
+    {
+      "tutorial_name": "Armadillo for beginners",
+      "tutorial_url": "https://nipunbatra.github.io/blog/2016/armadillo-cpp.html"
+    }
+  ]
+}

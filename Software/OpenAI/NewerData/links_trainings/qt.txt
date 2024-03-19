@@ -1,0 +1,25 @@
+{
+  "Software": {
+    "Name": "Qt",
+    "Official Website": "https://www.qt.io/",
+    "Documentation": "https://doc.qt.io/",
+    "Training and Tutorial Materials": [
+      {
+        "Title": "Getting Started Programming with Qt",
+        "URL": "https://doc.qt.io/qt-5/gettingstarted.html"
+      },
+      {
+        "Title": "Qt for Beginners",
+        "URL": "https://wiki.qt.io/Qt_for_Beginners"
+      },
+      {
+        "Title": "Qt Tutorials for Beginners - Learn Qt Online",
+        "URL": "https://www.learnpyqt.com/tutorials/"
+      },
+      {
+        "Title": "Qt Tutorial - Tutorialspoint",
+        "URL": "https://www.tutorialspoint.com/qt/index.htm"
+      }
+    ]
+  }
+}

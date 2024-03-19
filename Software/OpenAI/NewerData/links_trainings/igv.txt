@@ -1,0 +1,27 @@
+{
+  "software": "igv",
+  "softwareURL": "https://software.broadinstitute.org/software/igv/",
+  "docURL": "https://software.broadinstitute.org/software/igv/UserGuide",
+  "tutorials": [
+    {
+      "name": "Getting Started with IGV",
+      "url": "https://software.broadinstitute.org/software/igv/GettingStarted"
+    },
+    {
+      "name": "IGV User Guide",
+      "url": "https://software.broadinstitute.org/software/igv/UserGuide"
+    },
+    {
+      "name": "IGV Tutorial - YouTube",
+      "url": "https://www.youtube.com/watch?v=RNnfS1nGShY"
+    },
+    {
+      "name": "Loading Data - IGViewer",
+      "url": "https://software.broadinstitute.org/software/igv/LoadingData"
+    },
+    {
+      "name": "Navigating the IGV Genome Viewer",
+      "url": "https://www.youtube.com/watch?v=0udEhz1bK3M"
+    }
+  ]
+}

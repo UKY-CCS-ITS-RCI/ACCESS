@@ -1,0 +1,11 @@
+{
+  "Software": "namd-multicore-cuda",
+  "SoftwarePage": "https://www.ks.uiuc.edu/Research/namd/",
+  "Documentation": "https://www.ks.uiuc.edu/Research/namd/2.9/ug/ug.html",
+  "TrainingMaterial": [
+    {
+      "Tutorial1": "http://www.ks.uiuc.edu/Training/Tutorials/",
+      "Tutorial2": "http://www.ks.uiuc.edu/Research/namd/tutorial/NCSACourse/"
+    }
+  ]
+}

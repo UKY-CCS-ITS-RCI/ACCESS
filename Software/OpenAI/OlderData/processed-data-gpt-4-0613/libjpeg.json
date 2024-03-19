@@ -1,0 +1,14 @@
+{
+    "software": "libjpeg",
+    "resources": {
+        "softwareHomepage": "http://libjpeg.sourceforge.net/",
+        "documentation": "https://www.ijg.org/files/libjpeg.README",
+        "tutorials": [
+            {
+                "title": "Working with JPEG Images in C/C++",
+                "url": "https://shrekfour.github.io/2018/02/14/libjpeg-examples.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

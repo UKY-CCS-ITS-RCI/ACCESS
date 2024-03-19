@@ -1,0 +1,19 @@
+{
+   "softwareName":"cactus",
+   "softwareLink":"https://github.com/ComparativeGenomicsToolkit/cactus",
+   "documentation":"https://cactus.readthedocs.io/en/latest/",
+   "tutorials":[
+      {
+         "name":"Cactus Tutorial on Snakemake",
+         "url":"https://snakemake.readthedocs.io/en/stable/tutorial/catch_the_bus.html"
+      },
+      {
+         "name":"Personal Genome Project Cactus Tutorial",
+         "url":"https://personalgenomes.github.io/hgvm/cactusTutorial.html"
+      },
+      {
+         "name":"Cactus Quick Start Guide",
+         "url":"https://github.com/ComparativeGenomicsToolkit/cactus#quick-start"
+      }
+   ]
+}

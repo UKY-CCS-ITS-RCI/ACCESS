@@ -1,0 +1,12 @@
+{
+  "weblogo": {
+    "software_page": "http://weblogo.threeplusone.com/",
+    "documentation": [
+      "http://weblogo.threeplusone.com/manual.html"
+    ],
+    "tutorials_and_trainings": [
+      "https://www.youtube.com/watch?v=vF7B7OEW1C8",
+      "http://statgen.ncsu.edu/sta101/weblogo/tutorial.html"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "Mathematica",
+    "software_page": "https://www.wolfram.com/mathematica/",
+    "documentation": "https://reference.wolfram.com/language/",
+    "tutorials": [
+        "https://www.wolfram.com/language/fast-introduction-for-programmers/",
+        "https://www.wolfram.com/mathematica/tutorials.html",
+        "https://www.wolfram.com/broadcast/screencasts/handsonstart/"
+    ],
+    "additional_resources": [
+        "https://community.wolfram.com/",
+        "https://mathematica.stackexchange.com/"
+    ]
+}

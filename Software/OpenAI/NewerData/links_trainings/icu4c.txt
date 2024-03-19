@@ -1,0 +1,23 @@
+{
+  "name": "icu4c",
+  "softwareLink": "https://site.icu-project.org/",
+  "documentation": [
+    {
+      "url": "https://icu.unicode.org/userguide/icu4c/"
+    }
+  ],
+  "tutorialMaterials": [
+    {
+      "name": "Basic Usage of ICU",
+      "url": "http://userguide.icu-project.org/icudata"
+    },
+    {
+      "name": "ICU Design",
+      "url": "http://userguide.icu-project.org/design"
+    },
+    {
+      "name": "ICU User Guide",
+      "url": "http://userguide.icu-project.org/"
+    }
+  ]
+}

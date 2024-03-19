@@ -1,0 +1,28 @@
+{
+  "software": "OpenBLAS",
+  "website": "https://www.openblas.net/",
+  "documentation": [
+    {
+      "title": "OpenBLAS User Guide",
+      "url": "https://github.com/xianyi/OpenBLAS/wiki/User-Manual"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "OpenBLAS Installation Guide",
+      "url": "https://www.openblas.net/"
+    },
+    {
+      "title": "OpenBLAS Tutorial",
+      "url": "https://mran.microsoft.com/tip/accelerate-r-with-openblas"
+    },
+    {
+      "title": "Installing and Using OpenBLAS - python-for-multivariate-analysis",
+      "url": "https://sebastianraschka.com/Articles/2014_multiprocessing.html"
+    },
+    {
+      "title": "Optimize NumPy Performance Using OpenBLAS on Linux",
+      "url": "https://medium.com/@nehckl0/import-and-optimize-numpy-performance-under-singularity-container-with-python-3-6-on-linux-135105f34b68"
+    }
+  ]
+}

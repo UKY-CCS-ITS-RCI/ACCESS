@@ -1,0 +1,12 @@
+{
+  "software": "HUMAnN",
+  "website": "https://huttenhower.sph.harvard.edu/humann/",
+  "additional_links": [
+    {
+      "documentation": "https://github.com/biobakery/humann#getting-started",
+      "tutorial": "https://huttenhower.sph.harvard.edu/humann/tutorials/",
+      "training_material": "https://bioconda.github.io/recipes/humann/README.html",
+      "conda_package": "https://anaconda.org/bioconda/humann"
+    }
+  ]
+}

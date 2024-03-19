@@ -1,0 +1,27 @@
+Use Case: Analyzing and manipulating variant call format (VCF) files such as filtering, comparing, summarizing.
+
+Code details and examples:
+
+Code:
+
+Let's say we have a VCF file named `example.vcf` and we want to calculate the depth of coverage for each individual in our VCF file. The input file is `example.vcf` and there are no additional specifications required for this particular tool and use case. 
+
+Command-line interface: 
+
+```
+vcftools --vcf example.vcf --depth
+```
+
+With this command, the software will create a output file (`out.depth`) with the mean depth per individual present in the VCF file. Each row in the output file represents an individual, the first column is the individual ID, and the second column is the mean depth.
+
+Note: Vcftools can also handle compressed VCF or BCF files. In these cases, file extensions should be either `.vcf.gz` or `.bcf`.
+
+Let's consider another use case. Let's say we want to filter the SNPs with a minor allele frequency less than 0.05. 
+
+Command-line interface: 
+
+```
+vcftools --vcf example.vcf --maf 0.05 --recode --out filtered
+```
+
+This command will generate a new VCF file named `filtered.recode.vcf`, which includes only the SNPs that have MAF greater than 0.05. The `--recode` flag tells the software to generate a new vcf file. `--out` specifies the prefix of your output file. If you want to change the output format to BCF instead of VCF, you can replace `--recode` with `--recode-bcf`.

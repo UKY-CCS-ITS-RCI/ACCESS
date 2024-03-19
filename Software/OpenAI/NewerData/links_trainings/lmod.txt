@@ -1,0 +1,19 @@
+{
+  "Software": "Lmod",
+  "Link": "https://www.tacc.utexas.edu/research-development/tacc-projects/lmod",
+  "Documentation": "http://lmod.readthedocs.io/en/latest/",
+  "Training_Material": [
+    {
+      "title": "Training material 1",
+      "link": "https://hpc.nih.gov/apps/lmod.html"
+    },
+    {
+      "title": "Training material 2",
+      "link": "https://training.hpc.nih.gov/assets/module_lmod_slides.pdf"
+    },
+    {
+      "title": "Tutorial",
+      "link": "https://www.youtube.com/watch?v=a1rmJZi1D2E"
+    }
+  ]
+}

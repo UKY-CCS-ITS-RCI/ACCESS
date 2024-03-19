@@ -1,0 +1,10 @@
+{
+  "softwareName": "Cufflinks",
+  "links": {
+    "softwarePage": "https://github.com/santosjorge/cufflinks",
+    "documentation": "https://plotly.com/python/cufflinks/",
+    "tutorial1": "https://plotly.com/python/v3/ipython-notebooks/cufflinks/",
+    "tutorial2": "https://www.tutorialspoint.com/plotly/plotly_cufflinks.htm",
+    "tutorial3": "https://towardsdatascience.com/visualization-with-plotly-express-comprehensive-guide-eb5ee4b50b57"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Software": [
+    {
+      "Name": "iRODS",
+      "Website": "https://irods.org",
+      "Documentation": [
+        "https://docs.irods.org",
+        "https://irods.org/documentation"
+      ],
+      "Tutorials and Training Materials": [
+        "https://learning.hub.irods.org",
+        "https://training.irods.org",
+        "https://www.youtube.com/playlist?list=PLH6kIFIWs7lFrodaBLSQw0yWZGUMu1hXp"
+      ]
+    }
+  ]
+}

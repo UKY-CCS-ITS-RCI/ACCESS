@@ -1,0 +1,15 @@
+{
+  "software_name": "libglu",
+  "software_page": "https://www.linuxfromscratch.org/blfs/view/svn/x/libglu.html",
+  "documentation": "https://www.khronos.org/opengl/wiki/GLU",
+  "training_materials": [
+    {
+      "name": "OpenGL tutorials",
+      "url": "https://www.opengl-tutorial.org/"
+    },
+    {
+      "name": "GLUT tutorial",
+      "url": "http://www.lighthouse3d.com/tutorials/glut-tutorial/"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "software": "cuda-dcgm",
+  "software_url": "https://developer.nvidia.com/dcgm",
+  "documentation": [
+    {
+      "name": "Official Documentation",
+      "url": "https://docs.nvidia.com/datacenter/dcgm/dcgm-user-guide.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "DCGM Python Bindings",
+      "url": "https://nvidia.github.io/pydcgm/tutorial.html"
+    }
+  ]
+}

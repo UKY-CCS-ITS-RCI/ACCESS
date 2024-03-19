@@ -1,0 +1,9 @@
+{
+  "softwareName": "GDBM",
+  "links": {
+    "softwarePage": "https://www.gnu.org.ua/software/gdbm/",
+    "documentation": "https://www.gnu.org.ua/software/gdbm/gdbm.html",
+    "tutorial1": "https://www.gnu.org.ua/software/gdbm/tutorial.html",
+    "tutorial2": "https://www.gnu.org.ua/software/gdbm/manual/"
+  }
+}

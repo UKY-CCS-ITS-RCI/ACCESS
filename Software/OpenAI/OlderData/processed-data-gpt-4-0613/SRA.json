@@ -1,0 +1,12 @@
+{
+  "Software Name": "SRA",
+  "links": {
+    "software page": "https://www.ncbi.nlm.nih.gov/sra",
+    "documentation": "https://ncbi.github.io/sra-tools/",
+    "tutorials": [
+      "https://www.youtube.com/watch?v=TNk3ZpTHIa4",
+      "https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=toolkit_doc",
+      "https://galaxyproject.org/tutorials/sra/"
+    ]
+  }
+}

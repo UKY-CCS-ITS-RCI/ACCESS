@@ -1,0 +1,15 @@
+{
+    "Software": "amdlibm",
+    "Software_URL": "https://developer.amd.com/amd-aocl/amd-math-library-libm/",
+    "Documentation": [
+        {
+            "Documentation_URL": "https://developer.amd.com/amd-aocl/libm-documentation/"
+        }
+    ],
+    "Training_and_Tutorial": [
+        {
+            "Tutorial_URL": "https://developer.amd.com/amd-aocl/amd-math-library-libm/",
+            "Training_URL": "https://developer.amd.com/resources/tools-software-and-drivers/"
+        }
+    ]
+}

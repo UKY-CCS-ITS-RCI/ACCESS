@@ -1,0 +1,12 @@
+{
+  "Software": "gdb4hpc",
+  "SoftwarePage": "https://github.com/lanl/gdb-7.6-views",
+  "Documentation": {
+    "GDB Documentation": "https://www.gnu.org/software/gdb/documentation/"
+  },
+  "TrainingMaterials": {
+    "Debugging with GDB": "https://sourceware.org/gdb/current/onlinedocs/gdb/",
+    "Using GDB - A Guide to the GNU Source-Level Debugger": "https://www.tutorialspoint.com/gnu_debugger/index.htm",
+    "GDB Quick Reference": "https://ftp.gnu.org/old-gnu/Manuals/gdb/html_chapter/gdb_toc.html"
+  }
+}

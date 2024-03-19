@@ -1,0 +1,24 @@
+{
+   "ansys": {
+      "softwarePage": "https://www.ansys.com/",
+      "documentation": "https://www.ansys.com/academic/free-student-products/help",
+      "tutorial": [
+         {
+            "name": "Youtube Tutorial",
+            "url": "https://www.youtube.com/watch?v=9Qfh5Z4Hg5s&list=PLOBnu3jDP4UKlRFU8U-MyQ0SPa1yDf95s"
+         },
+         {
+            "name": "ANSYS Learning Hub",
+            "url": "https://www.ansys.com/services/learning-hub"
+         },
+         {
+            "name": "CFD Online ANSYS Tutorial",
+            "url": "https://www.cfd-online.com/Wiki/Ansys_FAQ"
+         },
+         {
+            "name": "ANSYS Student Community",
+            "url": "https://studentcommunity.ansys.com/tutorial/"
+         }
+      ]
+   }
+}

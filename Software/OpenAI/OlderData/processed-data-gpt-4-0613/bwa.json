@@ -1,0 +1,10 @@
+{
+    "Software": "BWA",
+    "Website": "http://bio-bwa.sourceforge.net/",
+    "Documentation": "http://bio-bwa.sourceforge.net/bwa.shtml",
+    "Tutorial_and_Training": [
+        "https://bioinformatics-core-shared-training.github.io/cruk-bioinf-sschool/Day1/Sequence_alignment_handout.pdf",
+        "https://www.biostars.org/p/80734/",
+        "https://www.youtube.com/watch?v=MIF0SofYXz8"
+    ]
+}

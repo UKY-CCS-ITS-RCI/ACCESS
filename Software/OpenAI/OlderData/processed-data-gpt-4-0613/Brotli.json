@@ -1,0 +1,19 @@
+{
+  "Software": "Brotli",
+  "Website": "https://github.com/google/brotli",
+  "Documentation": "https://github.com/google/brotli",
+  "Tutorials and Training material": [
+    {
+      "Title": "Brotli GitHub Repository",
+      "Link": "https://github.com/google/brotli"
+    },
+    {
+      "Title": "Brotli Compression Format",
+      "Link": "https://www.ietf.org/rfc/rfc7932.txt"
+    },
+    {
+      "Title": "Introduction to Brotli compression",
+      "Link": "https://www.keycdn.com/support/brotli"
+    }
+  ]
+}

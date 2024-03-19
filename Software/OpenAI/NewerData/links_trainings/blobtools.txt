@@ -1,0 +1,19 @@
+{
+  "Software_name": "blobtools",
+  "Software_URL": "https://blobtoolkit.genomehubs.org/blobtools2/",
+  "Documentation": "https://blobtoolkit.genomehubs.org/blobtools2/blobtools2-tutorial/",
+  "Additional_Resources": [
+    {
+      "Title": "GitHub page",
+      "URL": "https://github.com/blobtoolkit/blobtools2"
+    },
+    {
+      "Title": "Training materials",
+      "URL": "https://blobtoolkit.genomehubs.org/learning-materials/"
+    },
+    {
+      "Title": "Tutorial video",
+      "URL": "https://www.youtube.com/watch?v=bSk6G3V5_3c"
+    }
+  ]
+}

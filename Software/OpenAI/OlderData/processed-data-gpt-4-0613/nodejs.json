@@ -1,0 +1,32 @@
+{
+  "software": "nodejs",
+  "website": "https://nodejs.org/",
+  "documentation": [
+    {
+      "title": "Node.js v16.3.0 Documentation",
+      "url": "https://nodejs.org/api/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "Nodejs.org - About",
+      "url": "https://nodejs.org/en/about/"
+    },
+    {
+      "title": "W3Schools - Node.js Tutorial",
+      "url": "https://www.w3schools.com/nodejs/"
+    },
+    {
+      "title": "MDN Web Docs - Server-side Development with NodeJS",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs"
+    },
+    {
+      "title": "freeCodeCamp - Learn Node.js Full Course",
+      "url": "https://www.freecodecamp.org/news/have-node-js-installed-now-what-learn-node-js-basic-concepts-in-this-node-js-tutorial/"
+    },
+    {
+      "title": "YouTube - Node.js Course for Beginners",
+      "url": "https://www.youtube.com/watch?v=TlB_eWDSMt4"
+    }
+  ]
+}

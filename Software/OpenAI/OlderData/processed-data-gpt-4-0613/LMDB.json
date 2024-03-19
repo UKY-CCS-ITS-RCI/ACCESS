@@ -1,0 +1,14 @@
+
+{
+    "name": "LMDB",
+    "software_page": "http://www.lmdb.tech/doc/",
+    "documentation": "http://www.lmdb.tech/doc/group__internal.html",
+    "tutorials": [
+        "https://symas.com/lmdb/technical/",
+        "https://www.openldap.org/lists/openldap-technical/201303/msg00187.html"
+    ],
+    "additional_resources": [
+        "https://en.wikipedia.org/wiki/Lightning_Memory-Mapped_Database",
+        "https://medium.com/@tysonmaly/why-i-miss-mdb-lmdb-d50a3b94890d"
+    ]
+}

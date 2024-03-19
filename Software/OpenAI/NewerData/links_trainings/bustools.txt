@@ -1,0 +1,20 @@
+{
+  "SoftwareName": "bustools",
+  "SoftwareURL": "https://github.com/BUStools/bustools",
+  "Documentation": [
+    {
+      "DocName": "GitHub README",
+      "DocURL": "https://github.com/BUStools/bustools"
+    },
+    {
+      "DocName": "bustools Manual",
+      "DocURL": "https://bustools.github.io/manual/"
+    }
+  ],
+  "TrainingMaterials": [
+    {
+      "TrainingName": "Single-cell RNA-seq analysis tutorial",
+      "TrainingURL": "https://www.kallistobus.tools/tutorials.html"
+    }
+  ]
+}

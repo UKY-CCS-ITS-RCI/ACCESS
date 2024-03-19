@@ -1,0 +1,39 @@
+Use Case: The FASTX-Toolkit is a collection of command-line tools for Short-Reads FASTA/FASTQ files preprocessing. 
+
+Code details and examples: 
+
+**Software**: FASTX-Toolkit
+**Input file format**: .fasta/.fastaq
+**Sample input file name**: example.fastq
+
+fastq_quality_filter tool: It filters the input FASTQ file based on a quality threshold.
+
+Code:
+```
+fastq_quality_filter -Q33 -q 20 -p 80 -i example.fastq -o example_filtered.fastq
+```
+The above command filters out reads with less than 80% of the bases with a Phred score less than 20.
+
+fastx_trimmer tool: It trims the input FASTA/FASTQ file into a specified range.
+
+Code:
+```
+fastx_trimmer -f 1 -l 50 -i example.fastq -o example_trimmed.fastq
+```
+The above command trims the reads from the first base to the 50th base.
+
+fastx_collapser tool: It collapses identical sequences into a single sequence.
+
+Code:
+```
+fastx_collapser -i example.fastq -o example_collapsed.fasta
+```
+The above command collapses identical reads together.
+
+Fastx_reverse_complement tool: It provides the reverse complement of the input FASTA/FASTQ file.
+
+Code:
+```
+fastx_reverse_complement -i example.fastq -o example_rc.fastq
+```
+The above command provides the reverse complement of the reads.

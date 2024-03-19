@@ -1,0 +1,12 @@
+{
+  "software_name": "Intel",
+  "comprehensive_overview": "Intel is a multinational corporation and technology company that produces hardware and software products for a wide range of applications. Intel is known for its processors, network interface controllers, and other integrated circuits.",
+  "core_features": "1. High-performance processors for various applications. 2. Network interface controllers for Ethernet connectivity. 3. Solid-state drives for data storage. 4. Software tools for developers, such as compilers, libraries, and performance optimization tools.",
+  "general_tags": ["hardware", "software", "processors", "networking", "development"],
+  "additional_tags": {
+    "research_discipline": [],
+    "research_area": [],
+    "software_class": "Integrated hardware and software solutions",
+    "software_type": "Hardware and software products"
+  }
+}

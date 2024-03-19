@@ -1,0 +1,8 @@
+{
+  "biobambam": {
+    "softwarePage": "https://github.com/gt1/biobambam",
+    "documentation": "https://github.com/gt1/biobambam",
+    "tutorials": [],
+    "trainingMaterials": []
+  }
+}

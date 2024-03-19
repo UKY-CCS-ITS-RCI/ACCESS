@@ -1,0 +1,14 @@
+{
+  "Software": "ANTLR",
+  "Info": [
+    {
+      "Link": "https://www.antlr.org/",
+      "Documentation": "https://www.antlr.org/api/index.html",
+      "Tutorials": [
+        "https://www.javacodegeeks.com/2016/11/antlr-tutorial-beginners.html",
+        "https://www.tutorialspoint.com/antlr/index.htm",
+        "https://tomassetti.me/antlr-mega-tutorial/"
+      ]
+    }
+  ]
+}

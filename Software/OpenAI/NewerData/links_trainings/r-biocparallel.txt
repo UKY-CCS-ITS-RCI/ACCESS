@@ -1,0 +1,12 @@
+{
+  "software": "r-biocparallel",
+  "software_url": "https://bioconductor.org/packages/release/bioc/html/BiocParallel.html",
+  "doc_urls" : {
+    "bioconductor": "https://bioconductor.org/packages/release/bioc/vignettes/BiocParallel/inst/doc/BiocParallel.html",
+    "cran": "https://cran.r-project.org/web/packages/BiocParallel/BiocParallel.pdf"
+  },
+  "tutorial_urls" : {
+    "general_overview": "https://www.bioconductor.org/help/course-materials/2017/BiocConductor2017/Day1/Day1_5_Parallel.pdf",
+    "stackoverflow_explanation": "https://stackoverflow.com/questions/57707229/running-multiple-cpus-in-sequential-mode-in-r-on-linux-with-biocparallel"
+  }
+}

@@ -1,0 +1,10 @@
+{
+"gc Software": {
+    "Software Page": "https://www.hboehm.info/gc/",
+    "Documentation": "https://www.hboehm.info/gc/gc_interface.html",
+    "Tutorials and Training Materials": [
+        "https://www.hboehm.info/gc/simple_example.html",
+        "https://docs.oracle.com/javase/7/docs/technotes/guides/vm/performance-enhancements-7.html#boehm"
+        ]
+    }
+}

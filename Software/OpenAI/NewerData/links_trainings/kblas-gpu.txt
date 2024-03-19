@@ -1,0 +1,20 @@
+{
+  "software": [
+    {
+      "name": "kblas-gpu",
+      "software_url": "https://github.com/ecrc/kblas-gpu",
+      "documentation": [
+        {
+          "title": "GitHub Documentation",
+          "url": "https://github.com/ecrc/kblas-gpu"
+        }
+      ],
+      "tutorials": [
+        {
+          "title": "Basic Usage",
+          "url": "https://github.com/ecrc/kblas-gpu#basic-usage"
+        }
+      ]
+    }
+  ]
+}

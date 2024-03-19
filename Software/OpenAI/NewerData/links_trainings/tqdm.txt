@@ -1,0 +1,28 @@
+{
+  "tqdm": {
+    "software_page": "https://github.com/tqdm/tqdm",
+    "documentation": "https://tqdm.github.io/docs/tqdm/",
+    "tutorial_and_training_materials": [
+      {
+        "title": "Tqdm tutorial on GitHub",
+        "url": "https://github.com/tqdm/tqdm#usage"
+      },
+      {
+        "title": "Tqdm tutorial on Python ContentProgressBar",
+        "url": "https://python-course.eu/content-progress-bar-python-tqdm/"
+      },
+      {
+        "title": "Tqdm tutorial on Real Python",
+        "url": "https://realpython.com/python-tqdm/"
+      },
+      {
+        "title": "Tqdm tutorial on DataCamp",
+        "url": "https://www.datacamp.com/community/tutorials/progress-bars-python"
+      },
+      {
+        "title": "Tqdm tutorial on YouTube",
+        "url": "https://www.youtube.com/watch?v=4t2F1rTV9Ss"
+      }
+    ]
+  }
+}

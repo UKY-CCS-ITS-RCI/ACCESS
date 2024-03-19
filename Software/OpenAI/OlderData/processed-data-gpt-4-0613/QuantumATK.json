@@ -1,0 +1,12 @@
+{
+  "Software Name": "QuantumATK",
+  "links": {
+    "software page": "https://www.synopsys.com/silicon/quantumatk.html",
+    "documentation": "https://docs.quantumatk.com/",
+    "tutorials": [
+      "https://docs.quantumatk.com/tutorials/tutorials.html",
+      "https://nanohub.org/resources/13592",
+      "https://www.researchgate.net/post/How_do_I_learn_QuantumATK"
+    ]
+  }
+}

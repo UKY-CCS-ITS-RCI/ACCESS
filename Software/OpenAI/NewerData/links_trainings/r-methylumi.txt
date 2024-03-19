@@ -1,0 +1,22 @@
+{
+  "Software": {
+    "r-methylumi": {
+      "SoftwareLink": "https://bioconductor.org/packages/release/bioc/html/methylumi.html",
+      "Documentation": "https://bioconductor.org/packages/release/bioc/vignettes/methylumi/inst/doc/MethyLumi.pdf",
+      "Tutorials": [
+        {
+          "Title": "MethyLumi User's Guide",
+          "URL": "https://bioconductor.org/packages/release/bioc/vignettes/methylumi/inst/doc/Introduction.html"
+        },
+        {
+          "Title": "methylumi: Handle Illumina methylation data",
+          "URL": "https://rdrr.io/bioc/methylumi/"
+        },
+        {
+          "Title": "methylumi: an R package for Illumina's methylation datasets",
+          "URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028315"
+        }
+      ]
+    }
+  }
+}

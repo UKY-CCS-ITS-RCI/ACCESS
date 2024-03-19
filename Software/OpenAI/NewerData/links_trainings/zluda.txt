@@ -1,0 +1,11 @@
+{
+  "software": "zluda",
+  "link": "https://github.com/vosen/ZLUDA",
+  "documentation": "Not Available",
+  "tutorials": [
+    {
+      "name": "ZLUDA: CUDA on Intel GPUs Tutorial",
+      "link": "https://www.youtube.com/watch?v=lkrnKI4PShE"
+    }
+  ]
+}

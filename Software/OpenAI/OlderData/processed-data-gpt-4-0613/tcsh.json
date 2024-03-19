@@ -1,0 +1,14 @@
+{
+    "software": "tcsh",
+    "resources": {
+        "softwareHomepage": "http://www.tcsh.org/Home",
+        "documentation": "http://www.tcsh.org/tcsh.html",
+        "tutorials": [
+            {
+                "title": "tcsh Tutorial",
+                "url": "http://www.grymoire.com/Unix/Tcsh.html"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

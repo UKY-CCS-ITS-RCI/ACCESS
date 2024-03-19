@@ -1,0 +1,19 @@
+{
+  "name": "BLACS",
+  "software_url": "https://www.netlib.org/blacs/",
+  "documentation_url": "https://www.netlib.org/blacs/BLACS/Doc.html",
+  "tutorial_materials": [
+    {
+      "name": "Introduction to BLACS",
+      "url": "http://www.training.prace-ri.eu/uploads/tx_pracetmo/intro_to_blacs.pdf"
+    },
+    {
+      "name": "BLACS user guide",
+      "url": "http://www.netlib.org/blacs/BLACS/Doc.html"
+    },
+    {
+      "name": "BLACS quick reference guide",
+      "url": "http://www.netlib.org/blacs/quickref.html"
+    }
+  ]
+}

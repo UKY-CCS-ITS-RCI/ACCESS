@@ -1,0 +1,23 @@
+{
+    "software": "Cython",
+    "overview": "Cython is a programming language that makes it easy to write C extensions for Python. It allows for compiling Python-like code to highly efficient C or C++ code, providing performance improvements for Python applications.",
+    "core_features": [
+        "Python-like syntax with C-level performance",
+        "Seamless integration with existing Python code",
+        "Ability to call C functions directly from Python",
+        "Efficient memory management",
+        "Support for parallel computing"
+    ],
+    "general_tags": [
+        "Python extension",
+        "performance optimization",
+        "C and C++ compilation",
+        "parallel computing"
+    ],
+    "additional_tags": {
+        "research_discipline": "Computer Science",
+        "research_area": "Python Optimization",
+        "software_class": "Programming Language",
+        "software_type": "Open Source"
+    }
+}

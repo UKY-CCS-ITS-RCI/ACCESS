@@ -1,0 +1,19 @@
+{
+    "name": "panacota",
+    "software_url": "https://github.com/gem-pasteur/PanACoTA",
+    "documentation_url": "https://panacota.readthedocs.io/en/latest/",
+    "training_materials": [
+        {
+            "title": "Getting Started with PanACoTA",
+            "url": "https://panacota.readthedocs.io/en/latest/usage.html"
+        },
+        {
+            "title": "PanACoTA FAQ",
+            "url": "https://panacota.readthedocs.io/en/latest/tutorial.html"
+        },
+        {
+            "title": "PanACoTA: An End-to-End Bacterial Pan-Genome Analysis Pipeline",
+            "url": "https://www.biorxiv.org/content/10.1101/2020.04.06.028712v1.abstract"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "software": {
+    "name": "intltool",
+    "main_page": "https://launchpad.net/intltool",
+    "documentation": [
+      {
+        "url": "https://www.freedesktop.org/wiki/Software/intltool/"
+      },
+      {
+        "url": "https://wiki.gnome.org/TranslationProject/DevGuidelines/Intltool"
+      }
+    ],
+    "tutorials": [
+      {
+        "url": "https://www.gnu.org/software/gettext/manual/html_node/intltool.html"
+      }
+    ]
+  }
+}

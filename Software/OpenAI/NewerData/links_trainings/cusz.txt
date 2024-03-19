@@ -1,0 +1,10 @@
+{
+  "software": "cuSZ",
+  "links": {
+    "software page": "https://cusz.io/",
+    "documentation": "https://cusz-io.github.io/cuSZ/",
+    "tutorial": "https://github.com/cusz-io/cuSZ/wiki",
+    "additional learning materials": "https://developer.nvidia.com/blog/green-compression-from-nasa-to-real-world-apps-with-gpus/",
+    "conda package": "https://anaconda.org/conda-forge/cusz"
+  }
+}

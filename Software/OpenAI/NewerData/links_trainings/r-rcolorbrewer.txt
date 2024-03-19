@@ -1,0 +1,15 @@
+{
+  "software": "r-rcolorbrewer",
+  "links": {
+    "software_page": "https://cran.r-project.org/web/packages/RColorBrewer/index.html",
+    "documentation": [
+      "https://cran.r-project.org/web/packages/RColorBrewer/RColorBrewer.pdf",
+      "https://r-graphics.org/recipe-color-palettes-with-rcolorbrewer"
+    ],
+    "tutorials_and_training_materials": [
+      "https://www.datanovia.com/en/lessons/install-and-load-rcolorbrewer/",
+      "http://www.sthda.com/english/wiki/beautiful-color-palettes-in-r-rcolorbrewer-package",
+      "https://www.youtube.com/watch?v=e5PPIgFDFjA"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "software": "SIESTA",
+    "resources": {
+        "softwareHomepage": "https://departments.icmab.es/leem/siesta",
+        "documentation": "https://departments.icmab.es/leem/siesta/Distribution/Doc/README.html",
+        "tutorials": [
+            {
+                "title": "SIESTA Training Courses",
+                "url": "https://departments.icmab.es/leem/siesta/Courses.html"
+            },
+            {
+                "title": "SIESTA Tutorial",
+                "url": "https://stefanosemeraro.eu/teaching/siesta-tutorial/"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

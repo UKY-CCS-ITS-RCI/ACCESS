@@ -1,0 +1,54 @@
+Use Case: Graphene is a python library that provides tools to build a schema for GraphQL that allows developers to easily and quickly create APIs; 
+
+Code details and examples: Code 
+
+To use Graphene, the Python script needs an input file which is basically your models or data in the form of Python objects that the GraphQL schema will be based on. Here is an example of a Python model for a simple Blog app:
+
+```python
+from mongoengine import Document
+from mongoengine.fields import StringField
+
+class BlogPost(Document):
+    title = StringField(required=True)
+    content = StringField(required=True)
+```
+
+In this case, the file `BlogPost.py` contains a model for a blog post with two fields: title and content.
+
+To use Graphene, we first need to install it with the command `pip install "graphene-mongoengine"`. Then, we define a schema for the blog post:
+
+```python
+import graphene
+from graphene_mongo import MongoengineObjectType
+from models import BlogPost as BlogPostModel
+
+class BlogPost(MongoengineObjectType):
+    class Meta:
+        model = BlogPostModel
+
+class Query(graphene.ObjectType):
+    blog_posts = graphene.List(BlogPost)
+
+    def resolve_blog_posts(self, info):
+        return list(BlogPostModel.objects.all())
+
+schema = graphene.Schema(query=Query)
+```
+
+Now, we can run queries against this schema. Here is an example query:
+
+```python
+query = '''
+    query {
+        blogPosts {
+            title
+            content
+        }
+    }
+'''
+
+result = schema.execute(query)
+print(result.data['blogPosts'])
+```
+
+This query will return all blog posts' title and content from the database.

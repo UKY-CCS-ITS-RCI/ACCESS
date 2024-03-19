@@ -1,0 +1,19 @@
+{
+  "Software": "BerkeleyGW",
+  "Website": "https://www.berkeleygw.org/",
+  "Documentation": "https://docs.berkeleygw.org/en/latest/",
+  "Tutorials and Training material": [
+    {
+      "Title": "BerkeleyGW Documentation",
+      "Link": "https://docs.berkeleygw.org/en/latest/"
+    },
+    {
+      "Title": "BerkeleyGW Tutorials",
+      "Link": "https://www.berkeleygw.org/tutorial/"
+    },
+    {
+      "Title": "Presentation on using BerkeleyGW",
+      "Link": "https://www.nersc.gov/assets/Uploads/BGW-tutorial-nersc-April2012.pdf"
+    }
+  ]
+}

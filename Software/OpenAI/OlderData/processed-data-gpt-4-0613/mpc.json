@@ -1,0 +1,12 @@
+
+{
+  "MPC": {
+    "Software Page": "https://www.musicpd.org/clients/mpc/",
+    "Documentation": "https://www.musicpd.org/doc/mpc/html/",
+    "Tutorials": [
+      "https://example.com/tutorial1",
+      "https://example.com/tutorial2"
+    ]
+  }
+}
+

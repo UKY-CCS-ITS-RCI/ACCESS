@@ -1,0 +1,9 @@
+{
+    "software": "libnotify",
+    "resources": {
+        "softwareHomepage": "https://developer.gnome.org/libnotify/",
+        "documentation": "https://developer.gnome.org/libnotify/0.7/",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

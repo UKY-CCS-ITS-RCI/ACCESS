@@ -1,0 +1,43 @@
+Use Case: Molecular dynamics simulation with GROMACS
+
+Code details and examples:
+GROMACS is a widely used software for molecular dynamics simulations in the field of computational chemistry.
+
+Input files:
+1. GROMACS input file (typically named as 'mdp file') containing simulation parameters.
+2. Protein structure file in PDB format.
+3. Trajectory file in XTC or TRR format.
+
+Sample input files:
+1. Example mdp file (example.mdp):
+```
+integrator = md
+nsteps = 10000
+dt = 0.002
+```
+
+2. Protein structure file (protein.pdb):
+```
+ATOM      1  N   SER     1       0.000   0.000   0.000
+ATOM      2  CA  SER     1       1.460   0.000   0.000
+ATOM      3  C   SER     1       2.051   1.289   0.000
+...
+```
+
+Command to run GROMACS simulation:
+```
+gmx grompp -f example.mdp -c protein.pdb -p topol.top -o md.tpr
+gmx mdrun -v -deffnm md
+```
+
+In the above commands:
+- `gmx grompp` prepares the input files for molecular dynamics simulation.
+- `-f example.mdp` specifies the input parameter file.
+- `-c protein.pdb` specifies the input structure file.
+- `-p topol.top` specifies the topology file.
+- `-o md.tpr` specifies the output file with the prepared simulation.
+- `gmx mdrun` runs the molecular dynamics simulation.
+- `-v` enables verbose output.
+- `-deffnm md` specifies the prefix for output files.
+
+Please note that the actual input files and commands may vary based on the specific simulation setup and requirements.

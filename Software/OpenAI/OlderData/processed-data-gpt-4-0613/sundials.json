@@ -1,0 +1,9 @@
+{
+    "software": "SUNDIALS",
+    "resources": {
+        "softwareHomepage": "https://computing.llnl.gov/projects/sundials",
+        "documentation": "https://computing.llnl.gov/projects/sundials/documentation",
+        "tutorials": [],
+        "trainingMaterials": []
+    }
+}

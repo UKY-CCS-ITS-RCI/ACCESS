@@ -1,0 +1,27 @@
+Use Case: JDFTx is an open-source software for joint density-functional theory (JDFT) computations, which are quantum mechanical methods applicable to condensed matter systems, especially those involving solvents and interfaces. JDFTx is typically used to compute ground state properties such as total energies, forces and stresses, electronic density and electrostatic potential, as well as electronic excited states via time-dependent DFT.
+
+Code details and examples:
+
+JDFTx reads input commands from a file named with the extension ".in" or from standard input. Each input file specifies one or more calculations.
+
+Code:
+
+```
+lattice   a1  1 0 0  a2  0 1 0  a3  0 0 1  
+ion-species  GBRV/$ID_pbe.uspp
+ion         $ID 0.0 0.0 0.0  
+
+elec-cutoff  10  
+electron-sc-fn  Kerker  0.2
+elec-ex-corr  GGA_PBEsol
+```
+
+This input file defines a simple unit cell (a cubic box, with unit vectors on x, y and z axis), uses pseudopotentials from the GBRV library for ion-species, places an ion in the origin, sets energy cutoff for planewave basis, and sets exchange-correlation functional as GGA PBEsol, and uses Kerker preconditioner.
+
+Command to run this code:
+
+```
+jdftx -i filename.in > filename.out
+```
+
+Here the "filename.in" should be substituted by your input file, and "filename.out" is the name of the output file.

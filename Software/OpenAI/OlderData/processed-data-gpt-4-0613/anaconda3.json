@@ -1,0 +1,22 @@
+
+{
+  "Anaconda3": {
+    "software_page": "https://www.anaconda.com/products/distribution",
+    "documentation": "https://docs.anaconda.com/anaconda/",
+    "training_materials": [
+      {
+        "title": "Anaconda Tutorial",
+        "url": "https://www.tutorialspoint.com/anaconda/index.htm"
+      },
+      {
+        "title": "Anaconda Python Tutorial",
+        "url": "https://www.datacamp.com/community/tutorials/installing-anaconda-windows"
+      },
+      {
+        "title": "Getting started with Anaconda",
+        "url": "https://docs.anaconda.com/anaconda/user-guide/getting-started/"
+      }
+    ]
+  }
+}
+

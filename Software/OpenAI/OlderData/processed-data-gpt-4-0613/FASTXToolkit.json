@@ -1,0 +1,16 @@
+{
+  "FASTXToolkit": {
+    "SoftwarePage": "http://hannonlab.cshl.edu/fastx_toolkit/",
+    "Documentation": "http://hannonlab.cshl.edu/fastx_toolkit/commandline.html",
+    "Tutorials": [
+      {
+        "Title": "FASTX Toolkit Tutorial",
+        "URL": "http://genomicscore.biol.rug.nl/index.php?title=Fastx_toolkit_Tutorial"
+      },
+      {
+        "Title": "FASTX Toolkit User Guide",
+        "URL": "https://wikis.utexas.edu/display/bioiteam/FASTX+Toolkit+User+Guide"
+      }
+    ]
+  }
+}

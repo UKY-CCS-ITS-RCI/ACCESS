@@ -1,0 +1,27 @@
+{
+  "pcre": {
+    "software_page": "https://www.pcre.org/",
+    "documentation": {
+      "user_guide": "https://www.pcre.org/original/doc.txt",
+      "api_reference": "https://www.cs.rutgers.edu/~pxk/336/notes/pcre.html"
+    },
+    "tutorials": [
+      {
+        "title": "Regular Expressions with PCRE",
+        "link": "https://www.tutorialspoint.com/regular-expressions-with-pcre-in-c"
+      },
+      {
+        "title": "PCRE - Perl Compatible Regular Expressions",
+        "link": "https://www.php.net/manual/en/book.pcre.php"
+      },
+      {
+        "title": "How to Use PCRE in C Language",
+        "link": "https://www.tutorialspoint.com/c_standard_library/c_function_regcomp.htm"
+      },
+      {
+        "title": "Using PCRE in Python",
+        "link": "https://docs.python.org/3/howto/regex.html"
+      }
+    ]
+  }
+}

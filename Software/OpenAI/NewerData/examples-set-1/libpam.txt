@@ -1,0 +1,48 @@
+Use Case: Use of libpam to authenticate users in a Linux/Unix system.
+
+Code details and examples: 
+
+Code:
+
+Firstly, configuration file for PAM will be created. Let's say we are creating this for "myapp".
+
+/etc/pam.d/myapp
+
+This is a file which needs to be created and below are the details that will be inside the file. 
+
+```
+#%PAM-1.0
+auth       required     pam_unix.so
+account    required     pam_unix.so
+password   required     pam_unix.so
+session    required     pam_unix.so
+```
+
+In a C program, PAM can be used for authentication. Create a file "myapp.c"
+
+```C
+#define PAM_SM_PASSWORD
+#include <security/pam_modules.h>
+
+PAM_EXTERN int
+pam_sm_chauthtok(pam_handle_t *pamh, int flags, int argc, const char **argv)
+{
+    return PAM_SUCCESS;
+}
+```
+
+To compile this code gcc compiler is used.
+
+Command to compile and create an object file:
+```
+gcc -fPIC -c myapp.c
+```
+
+Command to create a shared library:
+```
+ld -x --shared -o myapp.so myapp.o
+```
+
+This will create myapp.so file which needs to be in the /lib/security directory.
+
+After moving the file to /lib/security, you can use the "myapp" with any application that uses PAM for authentication.

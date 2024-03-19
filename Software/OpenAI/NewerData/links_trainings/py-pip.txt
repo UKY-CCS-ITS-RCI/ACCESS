@@ -1,0 +1,10 @@
+{
+    "Software": "py-pip",
+    "Link": "https://pip.pypa.io/en/stable/",
+    "Documentation": "https://pip.pypa.io/en/stable/user_guide/",
+    "Tutorials": {
+                      "Tutorial 1": "https://www.w3schools.com/python/python_pip.asp",
+                      "Tutorial 2": "https://www.python.org/dev/peps/pep-0373/",
+                      "Tutorial 3": "https://pip.pypa.io/en/stable/tutorial/"
+                   }
+}

@@ -1,0 +1,24 @@
+{
+  "software": "molden",
+  "url": "http://www.cmbi.ru.nl/molden/molden.html",
+  "documentation": [
+    {
+      "name": "Molden Manual",
+      "link": "http://www.cmbi.ru.nl/molden/molden_manual.html"
+    }
+  ],
+  "training_materials": [
+    {
+      "name": "Molden beginner's guide",
+      "link": "https://www.theochem.uni-stuttgart.de/~helmi/Molden_Beginners_Guide.pdf"
+    },
+    {
+      "name": "Molden installation & usage",
+      "link": "http://sites.psu.edu/cssri/2013/06/05/molden-installation-demonstration/"
+    },
+    {
+      "name": "Molden user group",
+      "link": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=molden-list"
+    }
+  ]
+}

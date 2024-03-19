@@ -1,0 +1,42 @@
+Use Case: SuperLU is used for solving large, sparse, nonsymmetric linear systems of equations. It is especially good for 3D physical simulations, such as fluid dynamics.
+
+Code details and examples:
+
+Code:
+
+SuperLU has a main program `dgssvx_ABglobal.c` that takes specific inputs. A sample code snippet of the main program is as below:
+
+```C
+#include "slu_ddefs.h"
+..
+/* Set up input options */
+options.Fact = DOFACT;
+options.Equil = YES;
+options.ColPerm = MMD_AT_PLUS_A;
+options.Trans = NOTRANS;
+options.IterRefine = NOREFINE;
+..
+dgssvx_ABglobal(&options, &A, perm_c, perm_r, &C, &B, &X, &mem_usage, &stat, &info);
+```
+In this sample main function code, `options` holds various solver parameters such as fill-reducing ordering, iterative refinement, etc. `A` is the sparse matrix to factor and solve. `perm_c` and `perm_r` are output permutation vectors. `B` is the right hand side matrix. `X` is the calculated solution matrix.
+
+Data, format required and specifications: For SuperLU, you need to create matrix files. The files should use Harwell-Boeing format (a standard sparse matrix format). The Harwell-Boeing format has a header section and a value section. The header section contains information about the size of the matrix and the value section contains the actual values of matrix elements. Below is a skeleton of such file.
+
+```
+36           1           9          36          25  R  A  C
+SuperLUtest        1E-13       1.0000E+02
+1       1       0   
+1.5     2       1 
+2       3       2   
+-4      4       3   
+...
+```
+In this skeleton, the number "1" is a pointer to the start of each column in the value section, and "1.5", "2", "-4" etc are the actual values of the elements in the matrix.
+
+Command to run if available:
+
+You'll need to compile the SuperLU program via a C compiler, which will generate an executable. Run the executable like this:
+
+```sh
+./superlu_exe < matrix_file
+```

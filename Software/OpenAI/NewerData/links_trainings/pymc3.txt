@@ -1,0 +1,32 @@
+{
+  "software_name": "pymc3",
+  "software_page": "https://docs.pymc.io/",
+  "documentation": [
+    {
+      "doc_name": "PyMC3 User Guide",
+      "doc_link": "https://docs.pymc.io/pymc-examples/"
+    },
+    {
+      "doc_name": "API Reference",
+      "doc_link": "https://docs.pymc.io/api.html"
+    }
+  ],
+  "tutorials_and_trainings": [
+    {
+      "tutorial_name": "Introduction to PyMC3",
+      "tutorial_link": "https://docs.pymc.io/notebooks/getting_started"
+    },
+    {
+      "tutorial_name": "Bayesian Modelling in PyMC3",
+      "tutorial_link": "https://docs.pymc.io/notebooks/bayesian_neural_network_advi"
+    },
+    {
+      "tutorial_name": "Getting Started With PyMC3",
+      "tutorial_link": "https://www.youtube.com/watch?v=5TyvJ6jXHYE"
+    },
+    {
+      "tutorial_name": "Model Comparison in PyMC3",
+      "tutorial_link": "https://docs.pymc.io/notebooks/model_comparison"
+    }
+  ]
+}

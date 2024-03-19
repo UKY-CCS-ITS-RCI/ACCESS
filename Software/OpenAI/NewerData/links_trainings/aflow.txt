@@ -1,0 +1,27 @@
+{
+   "software":[
+      {
+         "name":"aflow",
+         "softwarePage":{
+            "url":"http://www.aflowlib.org/"
+         },
+         "documentation":{
+            "url":"http://aflowlib.org/doc_intro.html"
+         },
+         "trainingMaterials":[
+            {
+               "url":"http://www.aflowlib.org/tutorial/",
+               "name":"AFLOW Tutorial"
+            },
+            {
+               "url":"https://nanohub.org/resources/23926",
+               "name":"NanoHub Resources for AFLOW"
+            },
+            {
+               "url":"https://www.youtube.com/watch?v=_xaLm7HIiDQ",
+               "name":"Youtube Tutorial for AFLOW"
+            }
+         ]
+      }
+   ]
+}

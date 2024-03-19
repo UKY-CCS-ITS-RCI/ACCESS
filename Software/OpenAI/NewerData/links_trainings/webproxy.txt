@@ -1,0 +1,10 @@
+{
+  "webproxy": {
+    "software page": "https://pypi.org/project/webproxy/",
+    "documentation": "https://webproxy.readthedocs.io/en/latest/",
+    "tutorials": [
+      "https://www.youtube.com/watch?v=7Y8X2b_YhQ0",
+      "https://www.tutorialspoint.com/python_web_scraping/python_web_scraping_using_proxies.htm"
+    ]
+  }
+}

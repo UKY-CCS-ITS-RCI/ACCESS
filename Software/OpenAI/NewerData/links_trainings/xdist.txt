@@ -1,0 +1,11 @@
+{
+  "Software_name": "xdist",
+  "Software_URL": "https://pypi.org/project/pytest-xdist/",
+  "Documentation_Link": "https://docs.pytest.org/en/6.2.x/xdist.html",
+  "Tutorials_and_Training": [
+    {
+      "Tutorial_Link1": "https://www.youtube.com/watch?v=4l5y-CrxKxw",
+      "Tutorial_Link2": "https://www.tutorialspoint.com/pytest/pytest_run_tests_in_parallel.htm"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Software Name": "PyTorch",
+  "links": {
+    "software page": "https://pytorch.org/",
+    "documentation": "https://pytorch.org/docs/stable/index.html",
+    "tutorials": [
+      "https://pytorch.org/tutorials/",
+      "https://www.tutorialspoint.com/pytorch/index.htm",
+      "https://www.udemy.com/topic/pytorch/"
+    ]
+  }
+}

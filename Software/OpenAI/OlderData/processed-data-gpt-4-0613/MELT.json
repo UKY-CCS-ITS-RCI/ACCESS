@@ -1,0 +1,12 @@
+
+{
+  "MELT": {
+    "Software Page": "https://www.mltframework.org/",
+    "Documentation": "https://www.mltframework.org/docs/",
+    "Tutorials": [
+      "https://www.mltframework.org/docs/tutorial1",
+      "https://www.mltframework.org/docs/tutorial2"
+    ]
+  }
+}
+

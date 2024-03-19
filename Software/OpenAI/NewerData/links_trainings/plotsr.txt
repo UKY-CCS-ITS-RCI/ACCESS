@@ -1,0 +1,8 @@
+{
+  "Software Name": "Plotsr",
+  "Website": "https://github.com/bquast/plotsr",
+  "Documentation": "https://www.rdocumentation.org/packages/plotsr/versions/0.1.1",
+  "Tutorial Links": [
+    "https://www.rdocs.io/languages/r/"
+  ]
+}

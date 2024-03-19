@@ -1,0 +1,23 @@
+{
+  "softwareName": "nlohmann_json",
+  "softwarePage": "https://github.com/nlohmann/json",
+  "documentation": [
+    {
+      "url": "https://nlohmann.github.io/json/"
+    }
+  ],
+  "tutorialMaterials": [
+    {
+      "url": "https://github.com/nlohmann/json#examples"
+    },
+    {
+      "url": "https://www.programiz.com/cpp-programming/examples/nlohmann-json"
+    },
+    {
+      "url": "https://www.journaldev.com/36024/serialization-and-deserialization-using-nlohmann-json-cplusplus-library"
+    },
+    {
+      "url": "https://www.codeproject.com/Articles/5277553/A-primer-on-using-nlohmann-json-library-in-Cplusplus"
+    }
+  ]
+}

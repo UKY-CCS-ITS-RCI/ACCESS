@@ -1,0 +1,15 @@
+{
+  "Title": "r-knitr",
+  "Software_URL": "https://yihui.org/knitr/",
+  "Documentation_URLs": {
+    "Main_Documentation": "https://yihui.org/knitr/options/",
+    "CRAN Documentation": "https://cran.r-project.org/web/packages/knitr/knitr.pdf"
+  },
+  "Training_Tutorials_URLs": {
+    "RStudio knitr Tutorial": "https://rmarkdown.rstudio.com/lesson-1.html",
+    "Knitr Tutorial Part1": "https://www.youtube.com/watch?v=3kY3NTvD5Gs",
+    "Knitr Tutorial Part2": "https://www.youtube.com/watch?v=KBf6jXs2U1w",
+    "Knitr - Quick Guide": "https://www.tutorialspoint.com/knitr/knitr_quick_guide.htm",
+    "DataCamp knitr tutorial": "https://www.datacamp.com/community/tutorials/r-markdown-knitr"
+  }
+}

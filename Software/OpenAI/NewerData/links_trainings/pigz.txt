@@ -1,0 +1,15 @@
+{
+    "software_name": "pigz",
+    "software_URL": "https://zlib.net/pigz/",
+    "documentation_link": "https://zlib.net/pigz/pigz.pdf",
+    "tutorial_links": [
+        {
+            "tutorial_name": "Pigz Usage Examples",
+            "URL": "https://www.tecmint.com/pigz-compress-and-decompress-files-in-parallel-in-linux/"
+        },
+        {
+            "tutorial_name": "Using pigz to speed up compression and decompression",
+            "URL": "https://www.thegeekdiary.com/using-pigz-to-speed-up-compression-decompression/"
+        }
+    ]
+}

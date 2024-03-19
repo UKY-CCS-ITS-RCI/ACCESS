@@ -1,0 +1,12 @@
+{
+  "Software": "gtk4",
+  "Links": {
+    "Software Page": "https://www.gtk.org/",
+    "Documentation": "https://developer.gnome.org/gtk4/stable/",
+    "Tutorials": {
+      "GTK4 tutorial": "https://www.gtk.org/docs/tutorials/",
+      "GTK training": "https://zetcode.com/gui/gtk2/",
+      "GTK wiki tutorial": "https://wiki.gnome.org/Projects/GTK/Tutorial"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "software": "Hunspell",
+  "website": "https://hunspell.github.io/",
+  "documentation": "https://hunspell.github.io/",
+  "tutorials": [
+    {
+      "title": "Hunspell Tutorial on SourceForge",
+      "link": "https://sourceforge.net/p/hunspell/wiki/Home/"
+    },
+    {
+      "title": "Spell Checking with Hunspell Tutorial",
+      "link": "https://www.sitepoint.com/tutorials/spell-checking-with-hunspell/"
+    }
+  ]
+}

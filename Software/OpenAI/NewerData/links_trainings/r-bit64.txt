@@ -1,0 +1,12 @@
+{
+  "software_information": {
+    "software_name": "r-bit64",
+    "url_main" :"https://cran.r-project.org/web/packages/bit64/index.html",
+
+    "additional_links": {
+      "documentation":"https://www.rdocumentation.org/packages/bit64/versions/4.0.5",
+      "tutorial1":"https://www.johnmyleswhite.com/notebook/2012/04/21/working-with-large-data-frames-in-r-using-the-ff-package/",
+      "tutorial2":"https://www.datacamp.com/community/blog/r-package-bit64#gs.y8wqpd"
+    }
+  }
+}

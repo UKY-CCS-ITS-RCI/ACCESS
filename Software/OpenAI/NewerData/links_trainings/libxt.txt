@@ -1,0 +1,21 @@
+{
+  "software": "libxt",
+  "web_link": "https://www.x.org/releases/X11R7.7/doc/libXt/",
+  "documentation": "https://www.x.org/releases/X11R7.7/doc/libXt/libXt.pdf",
+  "tutorial_videos": [
+      {
+        "name": "X11 programming",
+        "url": "https://www.youtube.com/watch?v=3CZnDh1mimQ"
+      }
+  ],
+  "courses_and_tutorials": [
+    {
+      "name": "X Window System and Motif Programming",
+      "url": "https://cs.gmu.edu/~sean/stuff/nvn/"
+    },
+    {
+      "name": "The X Window Programming Course",
+      "url": "https://www.ferzkopp.net/Software/XWindowAbout/XWindowAbout.html"
+    }
+  ]
+}

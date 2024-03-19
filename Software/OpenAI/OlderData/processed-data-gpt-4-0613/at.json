@@ -1,0 +1,19 @@
+{
+"name": "at",
+"softwarePage": "https://developer.ibm.com/articles/l-lpic1-103-6/",
+"documentation": "https://linux.die.net/man/1/at",
+"tutorialMaterials": [
+    {
+        "name": "How to schedule tasks using at command in Linux",
+        "url": "https://www.fosstechnix.com/how-to-use-at-command-in-linux/"
+    },
+    {
+        "name": "Linux at, atq, atrm, batch, atd command help and examples",
+        "url": "https://www.computerhope.com/unix/uatq.htm"
+    },
+    {
+        "name": "How to Schedule One Time Commands Using linux 'at' tool",
+        "url": "https://www.youtube.com/watch?v=cg_jGPn_iDQ"
+    }
+  ]
+}

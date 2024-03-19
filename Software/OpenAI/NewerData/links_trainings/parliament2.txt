@@ -1,0 +1,10 @@
+{
+  "Parliament2": {
+    "software_page": "https://github.com/Illumina/parliament2",
+    "documentation": "https://github.com/Illumina/parliament2#readme",
+    "additional_links": {
+      "training_material_1": "https://www.youtube.com/watch?v=48k-7igpGi4",
+      "tutorial_material_1": "https://www.youtube.com/watch?v=48k-7igpGi4"
+    }
+  }
+}

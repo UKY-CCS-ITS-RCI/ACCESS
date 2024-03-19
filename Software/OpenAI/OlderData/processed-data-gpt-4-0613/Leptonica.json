@@ -1,0 +1,14 @@
+
+{
+    "name": "Leptonica",
+    "software_page": "http://www.leptonica.org/",
+    "documentation": "http://www.leptonica.org/leptonica-books.html",
+    "tutorials": [
+        "https://tpgit.github.io/UnOfficialLeptDocs/leptonica/tutorial_8cpp-example.html",
+        "https://www.tldp.org/HOWTO/html_single/OcrWithLeptonica/"
+    ],
+    "additional_resources": [
+        "https://github.com/DanBloomberg/leptonica",
+        "https://en.wikipedia.org/wiki/Leptonica"
+    ]
+}

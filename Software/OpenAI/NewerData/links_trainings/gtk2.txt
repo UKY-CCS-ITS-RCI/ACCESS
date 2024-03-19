@@ -1,0 +1,19 @@
+{
+  "software": "gtk2",
+  "website": "https://www.gtk.org/",
+  "documentation": "https://developer.gnome.org/gtk2/stable/",
+  "tutorials": [
+    {
+      "title": "GTK 2.0 Tutorial",
+      "url": "http://www.bravegnu.org/gtk-tut/"
+    },
+    {
+      "title": "GTK2 Perl Tutorial",
+      "url": "https://www.tutorialspoint.com/perl_gui/perl_gui_gtk.htm"
+    },
+    {
+      "title": "GTK2 Python Tutorial",
+      "url": "https://python-gtk-3-tutorial.readthedocs.io/en/latest/"
+    }
+  ]
+}

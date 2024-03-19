@@ -1,0 +1,14 @@
+{
+  "Software": {
+    "Name": "Fiona",
+    "Software_URL": "https://pypi.org/project/Fiona/",
+    "Documentation_URLs": [
+      "https://fiona.readthedocs.io/en/latest/"
+    ],
+    "Training_Tutorial_Materials_URLs": [
+      "https://automating-gis-processes.github.io/CSC18/lessons/L6/reading-geopackage-with-fiona.html",
+      "https://www.twilio.com/blog/2017/08/geospatial-analysis-python-geojson-geopandas.html",
+      "https://www.earthdatascience.org/courses/earth-analytics-python/lidar-remote-sensing-uncertainty/extract-data-from-raster/"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "genomescope2",
+  "softwarePage": "http://qb.cshl.edu/genomescope/",
+  "documentationURL": "http://qb.cshl.edu/genomescope/faq",
+  "tutorialLinks": [
+    { "name": "GenomeScope 2.0 Tutorial", "link": "https://omictools.com/genomescope-tool#tutorial" },
+    { "name": "How to Use GenomeScope - Genomic Size Estimation", "link": "https://www.youtube.com/watch?v=9Ex2Vv_fAtY" }
+  ]
+}

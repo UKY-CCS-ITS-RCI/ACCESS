@@ -1,0 +1,42 @@
+Use Case: Simulating and optimizing the performance of nanophotonic components, circuits and systems. 
+
+Code Details and Examples:
+
+Code:
+
+Lumerical includes several products such as DEVICE Suite, SYSTEM Suite and INTERCONNECT. Each product uses its own input format but mostly they use Lumerical’s proprietary scripting language which is similar to Python. Here is an example of a simple Lumerical DEVICE code that simulates a pn junction diode:
+
+```
+# Create new project
+newproject;
+anisotropicmaterial("Si");
+set("index", 3.5);
+set("index:z", 0);
+set("conductivity", 0.3676);
+set("Semiconductor", "N");
+set("Donor Concentration", 1e16);
+set("preferred mesh step x", 2e-7);
+
+addrect;
+set("name", "N-type");
+set("x", 0);
+set("x span", 5e-05);
+set("y span", 2e-05);
+set("z span", 2e-05);
+set("material", "Si");
+
+setnamed('N-type','x',-0.25e-3);
+setnamed('N-type','x span',0.5e-3);
+`copy(0,0.5e-3);
+
+setnamed('N-type_1','doping type','P');
+setnamed('N-type_1','Doping Concentration',1e18);
+```
+
+This script is dividing a P-N junction diode into two regions (N-doped and P-doped) with different donor and acceptor concentrations, and then we run the simulation.
+
+Command to Run:
+
+Run this script from the Lumerical DEVICE command line interface (CLI) with:
+
+`lumerical-device-script my_script.lsf`

@@ -1,0 +1,38 @@
+{
+  "software": "easybuild-faster",
+  "software_url": "https://easybuilders.github.io/easybuild/",
+  "documentation": [
+    {
+      "documentation_url": "https://docs.easybuild.io/en/latest/",
+      "description": "Official Documentation"
+    },
+    {
+      "documentation_url": "https://easybuild.readthedocs.io/en/latest/",
+      "description": "Read The Docs Documentation"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorial_url": "https://www.youtube.com/watch?v=2htW7aLbr1w",
+      "description": "EasyBuild Tutorial - YouTube"
+    },
+    {
+      "tutorial_url": "https://easybuild.readthedocs.io/en/latest/Tutorial.html",
+      "description": "EasyBuild Tutorial - Read The Docs"
+    },
+    {
+      "tutorial_url": "https://easybuilders.github.io/easybuild-tutorial/",
+      "description": "EasyBuild Tutorial - GitHub Pages"
+    }
+  ],
+  "training": [
+    {
+      "training_url": "https://easybuilders.github.io/easybuild-tutorial/Introductory.html",
+      "description": "EasyBuild Introductory Training"
+    },
+    {
+      "training_url": "https://easybuilders.github.io/easybuild-tutorial/Advanced.html",
+      "description": "EasyBuild Advanced Training"
+    }
+  ]
+}

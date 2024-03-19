@@ -1,0 +1,8 @@
+{
+  "moe": {
+    "softwarePage": "https://www.bell-labs.com/usr/dmr/www/moe.html", 
+    "documentation": "", 
+    "tutorial": "", 
+    "trainingMaterial": "" 
+  }
+}

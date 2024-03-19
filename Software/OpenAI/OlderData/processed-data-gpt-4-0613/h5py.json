@@ -1,0 +1,19 @@
+{
+  "software": "h5py",
+  "software_url": "https://www.h5py.org/",
+  "documentation_url": "https://docs.h5py.org/en/stable/",
+  "tutorial_and_training_materials": [
+    {
+      "tutorial_name": "h5py Quick Start Guide",
+      "tutorial_url": "https://docs.h5py.org/en/stable/quick.html"
+    },
+    {
+      "tutorial_name": "h5py High Level Intro",
+      "tutorial_url": "https://docs.h5py.org/en/stable/high/intro.html"
+    },
+    {
+      "tutorial_name": "h5py Examples",
+      "tutorial_url": "https://github.com/h5py/h5py"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Software": "PRRTE",
+  "Link_to_software": "https://github.com/open-mpi/prrte",
+  "Additional_resources": {
+    "Documentation": "https://open-mpi.github.io/prrte/",
+    "Training_materials": [
+      {
+        "Resource_name": "Open MPI Documentation",
+        "URL": "https://docs.open-mpi.org/"
+      },
+      {
+        "Resource_name": "YouTube Open MPI Tutorial",
+        "URL": "https://www.youtube.com/watch?v=Fj2zJ8qvY1Y"
+      },
+      {
+        "Resource_name": "Open MPI Training Session",
+        "URL": "https://www.open-mpi.org/training/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "software": "Lmod",
+    "resources": {
+        "softwareHomepage": "https://lmod.readthedocs.io/en/latest/",
+        "documentation": "https://lmod.readthedocs.io/en/latest/010_user.html",
+        "tutorials": [
+            {
+                "title": "Environment modules and You (TACC)",
+                "url": "https://portal.tacc.utexas.edu/user-guides/stampede2#environment-modules-and-you"
+            }
+        ],
+        "trainingMaterials": [
+            {
+                "title": "Introduction to Using Lmod",
+                "url": "https://hpc.nih.gov/apps/lmod.html"
+            }
+        ]
+    }
+}

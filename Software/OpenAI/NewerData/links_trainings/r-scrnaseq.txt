@@ -1,0 +1,15 @@
+{
+  "Software": [
+    {
+      "Name": "r-scrnaseq",
+      "Software_URL": "https://bioconductor.org/packages/release/workflows/html/simpleSingleCell.html",
+      "Documentation_URL": "https://bioconductor.org/packages/release/bioc/vignettes/SingleCellExperiment/inst/doc/intro.html",
+      "Tutorial_URLs": [
+        "https://osca.bioconductor.org/",
+        "https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2021-scRNAseq/01-introduction-to-single-cell-rnaseq.html",
+        "https://hbctraining.github.io/scRNA-seq/lessons/SCRNA-seq_Introduction.html",
+        "https://combine-lab.github.io/scrnaseq_course/"
+      ]
+    }
+  ]
+}

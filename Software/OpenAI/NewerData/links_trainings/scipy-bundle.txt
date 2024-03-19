@@ -1,0 +1,15 @@
+```json
+{
+  "Software": "scipy-bundle",
+  "Official Website": "https://anaconda.org/anaconda/scipy",
+  "Documentation": "https://docs.scipy.org/doc/",
+  "Training Material":
+  [
+    {
+     "Introduction to SciPy": "https://cs231n.github.io/python-numpy-tutorial/#scipy",
+     "SciPy Tutorial": "https://www.tutorialspoint.com/scipy/index.htm",
+     "SciPy Lecture Notes": "https://scipy-lectures.org/"
+    }
+  ]
+}
+```

@@ -1,0 +1,28 @@
+{
+  "software": "cudf",
+  "website": "https://rapids.ai/start.html",
+  "documentation": [
+    {
+      "name": "Official Documentation",
+      "link": "https://docs.rapids.ai/api/cudf/stable/"
+    },
+    {
+      "name": "Github Repo",
+      "link": "https://github.com/rapidsai/cudf"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "Data Manipulation using dask-cudf",
+      "link": "https://rapids.ai/resources.html"
+    },
+    {
+      "name": "Getting started with rapids",
+      "link": "https://www.youtube.com/watch?v=lV7rtDW94do"
+    },
+    {
+      "name": "Intro to rapids: a GPU DataFrame library for Pandas users",
+      "link": "https://www.youtube.com/watch?v=hw2zmOHkK2I"
+    }
+  ]
+}

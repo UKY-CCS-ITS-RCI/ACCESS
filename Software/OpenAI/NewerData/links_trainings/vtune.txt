@@ -1,0 +1,11 @@
+{
+ "Software Name": "vtune",
+ "Software Page Link": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/download.html?operatingsystem=window&distributions=webdownload&options=online",
+ "Documentation Link": "https://software.intel.com/content/www/us/en/develop/documentation/vtune-help/top.html",
+ "Training and Tutorial Materials": [
+   "https://software.intel.com/content/www/us/en/develop/articles/vtune-tutorial.html",
+   "https://techdecoded.intel.io/resources/vtune-2017-profiling-for-beginners/",
+   "https://www.youtube.com/watch?v=QpPmf-pxx4Q",
+   "https://www.youtube.com/watch?v=lDRVUjyRoKk"
+ ]
+}

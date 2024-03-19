@@ -1,0 +1,11 @@
+{
+  "software": {
+    "name": "syri",
+    "software_website": "https://github.com/schneebergerlab/syri",
+    "documentation": "https://bio.tools/syri",
+    "tutorials_and_training_materials": [
+      {"link": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1568-2"},
+      {"link": "https://www.frontiersin.org/articles/10.3389/fgene.2020.561856/full"}
+    ]
+  }
+}

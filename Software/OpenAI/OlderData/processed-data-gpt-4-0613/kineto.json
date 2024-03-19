@@ -1,0 +1,19 @@
+{
+  "Software": "Kineto",
+  "WebPage": "https://github.com/pytorch/kineto",
+  "Documentation": "https://github.com/pytorch/kineto/blob/main/README.md",
+  "Tutorials_and_Training_Materials": [
+    {
+      "Title": "PyTorchProfiler With Kineto",
+      "Link": "https://pytorch.org/tutorials/recipes/recipes/profiler_with_kineto.html"
+    },
+    {
+      "Title": "Get Started with PyTorch Profiler",
+      "Link": "https://towardsdatascience.com/how-to-use-pytorch-profiler-the-right-way-84e0b1c80b0c"
+    },
+    {
+      "Title": "Kineto User Guide on GitHub",
+      "Link": "https://github.com/pytorch/kineto/blob/main/tools/tb_plugin/docs/usage.md"
+    }
+  ]
+}

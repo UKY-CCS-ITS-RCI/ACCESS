@@ -1,0 +1,13 @@
+{
+  "bamtools": {
+    "software_page": "https://github.com/pezmaster31/bamtools",
+    "documentation": {
+      "link_1": "https://github.com/pezmaster31/bamtools/wiki"
+    },
+    "training_materials": {
+      "tutorial_1": "https://www.youtube.com/watch?v=HRwRhKZAWPc",
+      "tutorial_2": "https://github.com/pezmaster31/bamtools/wiki/Building-and-installing",
+      "tutorial_3": "https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/bamtools/"
+    }
+  }
+}

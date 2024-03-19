@@ -1,0 +1,17 @@
+{
+  "Software": "Judy",
+  "URL": "http://judy.sourceforge.net/",
+  "Documentation": [
+    {
+      "URL": "http://judy.sourceforge.net/doc/Judy_3x.htm"
+    }
+  ],
+  "Tutorials": [
+    {
+      "URL": "https://en.wikipedia.org/wiki/Judy_array"
+    },
+    {
+      "URL": "https://oss.oracle.com/pipermail/el-errata/2016-August/006395.html"
+    }
+  ]
+}

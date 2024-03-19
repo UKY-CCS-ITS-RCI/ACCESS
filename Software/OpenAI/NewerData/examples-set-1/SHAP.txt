@@ -1,0 +1,30 @@
+Use Case: SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model. It relies on the collaboration of Shapley values which come from game theory and connects optimal credit allocation with local explanations using the classic attribution values from cooperative game theory.
+
+Code details and examples: Code
+
+For example consider the use case where SHAP is used for explaining a gradient boosting model trained on the Boston Housing dataset.
+
+```python
+# import necessary libraries
+import shap
+import xgboost
+
+# load boston housing dataset
+X,y = shap.datasets.boston()
+X_train,X_test,Y_train,Y_test = train_test_split(X, y, test_size=.2, random_state=0)  # splitting train and test data
+
+# train XGBoost model
+model = xgboost.train({"learning_rate": 0.01}, xgboost.DMatrix(X_train, label=Y_train), 100)
+
+# explain the model's predictions using SHAP
+# compute SHAP values
+explainer = shap.Explainer(model)
+shap_values = explainer.shap_values(X_test)
+
+# visualize the first prediction's explanation
+shap.force_plot(explainer.expected_value, shap_values[0,:], X_test.iloc[0,:])
+```
+
+You can run this script using the following command: python SHAP_script.py
+
+The input files required are built-in datasets available with `shap.datasets.boston()` command. No specific format is required. The `shap_values` that are computed are a measure of the importance of each feature in making predictions. If all the `shap_values` are close to zero for a feature, then that feature is not contributing much to the model's predictions.

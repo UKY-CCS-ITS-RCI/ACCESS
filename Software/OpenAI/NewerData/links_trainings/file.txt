@@ -1,0 +1,7 @@
+{
+    "File software": {
+        "software_page": "https://file.org/free-download/file",
+        "documentation": "https://file.org/how-to-open-file-extension/",
+        "tutorial": ["https://www.youtube.com/watch?v=ZxV6IcNvbek"]
+    }
+}

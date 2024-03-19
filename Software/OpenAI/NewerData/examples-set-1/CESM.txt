@@ -1,0 +1,23 @@
+Use Case: CESM (Community Earth System Model) is a modular climate model that simulates the interactions between the atmosphere, oceans, land surface, and sea ice. It is commonly used for studies of climate change and climate variability.
+
+Code details and examples: CESM works with a number of different input files, each one representing different components of the Earth's climate system. These could be in the form of text files, binary files or NetCDF files depending upon the component.
+
+Key input files include:
+
+- land use data
+- ocean data
+- atmosphere data
+- sea ice data
+- land and atmosphere initial conditions data
+
+All these files need to be prepared in a specific format according to the CESM user's guide.
+
+The format of the input files is specific to each component. For instance, ocean data may be represented as a grid of temperature values, which is typically stored as a binary file.
+
+Code to execute the model is typically written in Fortran and executed from the command line. Here's an example of the command to run the CESM:
+
+```bash
+cd $HOME/CESM/cases/ExampleCase
+./case.submit
+```
+Here the `case.submit` file is a script that handles the job submission. It contains settings specific to the system on which CESM is run. The `$HOME/CESM/cases/ExampleCase` is just a representative directory and should be replaced with the actual directory of the case to be executed.

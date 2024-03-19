@@ -1,0 +1,20 @@
+{
+  "software": "pyTorch",
+  "comprehensive_overview": "PyTorch is an open-source machine learning framework widely used for building and training neural network models. It offers dynamic computational graphs, tensor computations, and efficient deep learning algorithms for various tasks, including image and text processing, computer vision, and natural language processing.",
+  "core_features": [
+    "Neural network modeling",
+    "Deep learning framework",
+    "Tensor computations"
+  ],
+  "general_tags": [
+    "machine learning",
+    "deep learning",
+    "neural networks"
+  ],
+  "additional_tags": {
+    "research_discipline": "Computer Science",
+    "research_area": "Artificial Intelligence",
+    "software_class": "Framework",
+    "software_type": "Machine Learning"
+  }
+}

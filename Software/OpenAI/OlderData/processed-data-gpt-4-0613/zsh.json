@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "Zsh": 
+    { 
+      "URL": "https://www.zsh.org/",
+      "Documentation": "http://zsh.sourceforge.net/Doc/Release/index.html",
+      "Tutorials": 
+      [
+        {
+          "Zsh command line tutorial": "https://blog.jayway.com/2013/01/08/getting-started-with-zsh/"
+        },
+        {
+          "Zsh scripting tutorial": "http://zsh.sourceforge.net/Guide/zshguide.html"
+        },
+        {
+          "Learning the Z shell": "https://www.linux.com/training-tutorials/learning-z-shell/"
+        },
+        {
+          "Zsh Shell: How To": "https://likegeeks.com/zsh-shell-guide/"
+        }
+      ]
+    }
+  }
+}

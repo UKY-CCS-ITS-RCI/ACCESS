@@ -1,0 +1,30 @@
+{
+    "gmt": {
+        "software_page": "https://www.generic-mapping-tools.org/",
+        "documentation": "https://docs.generic-mapping-tools.org/latest/",
+        "tutorials": [
+            {
+                "name": "GMT Tutorial - Japenese Society for Planetary Sciences",
+                "url": "http://www.gps-caltech.edu/~kj/miyazaki09/"
+            },
+            {
+                "name": "GMT Tutorials - University of Hawaii",
+                "url": "https://www.soest.hawaii.edu/gmt/gmt/doc/gmt_tut.html"
+            },
+            {
+                "name": "GMT Tutorial - The University of Texas at Austin",
+                "url": "https://www.ig.utexas.edu/outreach/geoscientific-software/gmt-tutorials/"
+            }
+        ],
+        "training_materials": [
+            {
+                "name": "GMT Workshop Material",
+                "url": "https://github.com/GenericMappingTools/2019-unavco-course"
+            },
+            {
+                "name": "GMT Training Material - Geodesy Tools",
+                "url": "http://www.geosc.psu.edu/~dbecker/gmt.html"
+            }
+        ]
+    }
+}

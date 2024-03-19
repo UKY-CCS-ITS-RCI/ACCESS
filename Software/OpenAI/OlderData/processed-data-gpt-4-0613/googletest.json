@@ -1,0 +1,10 @@
+{
+  "softwareName": "GoogleTest",
+  "links": {
+    "softwarePage": "https://github.com/google/googletest",
+    "documentation": "https://google.github.io/googletest/",
+    "officialTutorial": "https://google.github.io/googletest/primer.html",
+    "tutorial1": "https://www.youtube.com/watch?v=x5_UlhEkZOk",
+    "tutorial2": "https://www.linkedin.com/pulse/quick-how-start-guide-google-test-gtest-tdd-c-wilfred-mulenga"
+  }
+}

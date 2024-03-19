@@ -1,0 +1,9 @@
+{
+  "software_name": "impi",
+  "software_page_link": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/mpi-library.html",
+  "documentation_link": "https://software.intel.com/content/www/us/en/develop/documentation/mpi-developer-guide-linux/top.html",
+  "additional_links": {
+    "training_material": "https://software.intel.com/content/www/us/en/develop/events/modern-code.html",
+    "tutorial_materials": ["https://www.youtube.com/watch?v=FT-6JYr65P8", "https://mpi-tutorials.com/tutorials/", "https://www.cac.cornell.edu/education/Training/IntelMPI.aspx"]
+  }
+}

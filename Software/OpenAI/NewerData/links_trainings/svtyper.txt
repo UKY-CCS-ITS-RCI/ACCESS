@@ -1,0 +1,18 @@
+{
+  "svtyper": {
+    "software_page": "https://github.com/hall-lab/svtyper",
+    "documentation": [
+      {
+        "page": "https://github.com/hall-lab/svtyper/blob/master/README.md"
+      }
+    ],
+    "training_and_tutorial": [
+      {
+        "page": "https://github.com/hall-lab/svtyper/blob/master/EXAMPLES.md"
+      },
+      {
+        "page": "https://github.com/hall-lab/svtyper/issues"
+      }
+    ]
+  }
+}

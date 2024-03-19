@@ -1,0 +1,11 @@
+{
+  "software1": {
+    "name": "Megadepth",
+    "software_url": "https://github.com/ChristopherWilks/megadepth",
+    "documentation_url": "https://github.com/ChristopherWilks/megadepth/blob/master/README.md",
+    "tutorial_urls": [
+      "https://github.com/ChristopherWilks/megadepth/blob/master/README.md#usage",
+      "https://github.com/ChristopherWilks/megadepth/issues"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+Use Case: Parse JSON data from a file or a string.
+
+Code details and examples:
+
+Code: 
+
+``` c++
+
+// include the library
+#include <nlohmann/json.hpp>
+// for convenience
+using json = nlohmann::json;
+
+// input JSON as a string
+std::string input = R"(
+    {
+        "name": "John Doe",
+        "age": 30,
+        "isStudent": false,
+        "subjects": ["Math", "English"],
+        "address": {
+            "street": "1234 Peachtree Street",
+            "city": "Atlanta",
+            "state": "GA"
+        }
+    }
+)";
+
+// parse the JSON string
+json j = json::parse(input);
+
+// print the parsed JSON
+std::cout << j;
+
+// another way to create a JSON object
+json j2 = {
+    {"name", "John Doe"},
+    {"age", 30},
+    {"isStudent", false},
+    {"subjects", {"Math", "English"}}
+}; 
+
+std::cout << j2;
+
+```
+
+This program will create a JSON object from a string and then print it. It also demonstrates how to create a JSON object manually. This code should be compiled with a C++ compiler. 
+
+Command to run: 
+
+``` bash
+g++ main.cpp -o main
+./main
+```

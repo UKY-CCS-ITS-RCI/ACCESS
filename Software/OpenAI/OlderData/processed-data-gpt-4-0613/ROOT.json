@@ -1,0 +1,12 @@
+{
+  "Software Name": "ROOT",
+  "links": {
+    "software page": "https://root.cern/",
+    "documentation": "https://root.cern/manual/",
+    "tutorials": [
+      "https://root.cern/primer/",
+      "https://root.cern/doc/master/group__Tutorials.html",
+      "https://www.nikhef.nl/~johannes/root/guides/ROOT%20Users%20Guide%203.01.pdf"
+    ]
+  }
+}

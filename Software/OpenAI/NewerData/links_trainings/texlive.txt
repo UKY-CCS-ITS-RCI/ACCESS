@@ -1,0 +1,23 @@
+{
+  "software": "texlive",
+  "website": "https://www.tug.org/texlive/",
+  "documentation": "https://www.tug.org/texlive/doc.html",
+  "training_materials": [
+    {
+      "name": "TeX Live Guide",
+      "url": "https://www.tug.org/texlive/doc/texlive-en/texlive-en.html"
+    },
+    {
+      "name": "TeX Tutorials",
+      "url": "https://www.tug.org/begin.html"
+    },
+    {
+      "name": "LaTeX Tutorials on Overleaf",
+      "url": "https://www.overleaf.com/learn/latex/Tutorials"
+    },
+    {
+      "name": "TeX StackExchange",
+      "url": "https://tex.stackexchange.com/"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "software_name": "hypre",
+  "software_page_link": "https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods",
+  "documentation_links": [
+    "https://hypre.readthedocs.io/en/latest/"
+  ],
+  "training_materials": [
+    "https://hypre.readthedocs.io/en/latest/ch-intro.html"
+  ]
+}

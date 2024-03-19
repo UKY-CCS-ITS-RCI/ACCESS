@@ -1,0 +1,13 @@
+Use Case: Souporcell is a tool for clustering scRNA-seq reads from multiple diploid individuals. It also determines the genotype of each cluster and assigns reads based on that genotype, providing a fast and accurate method for multiplexing and demultiplexing cells from different individuals. This can be especially useful in cases where multiplexing is necessary due to a limited number of cells from each individual, such as in the case of rare cell types or in studies involving time series or dose response curves.
+
+Code details and examples: 
+
+Code:
+
+`souporcell_pipeline.py -i input.bam -b barcodes.tsv -f ref.fasta -t 4 -o output_dir --common_variants common_variants.vcf`
+
+The input for Souporcell consists of a BAM file sorted by the query name (`input.bam`), a TSV file containing the cell barcodes (`barcodes.tsv`), and a reference file in FASTA format (`ref.fasta`). If known, common variants can also be supplied in a VCF file (`common_variants.vcf`), which can help in identifying the individual origin of each cell.
+
+The `-t` option specifies the number of threads to use, while `-o` specifies the output directory. By default, the output will be written to the current directory.
+
+The output includes files such as `clusters.tsv`, which contains the cluster assignments for each cell, and `genotypes.vcf`, which contains the genotype information for each cluster.

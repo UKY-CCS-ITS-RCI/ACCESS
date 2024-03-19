@@ -1,0 +1,17 @@
+{
+   "software_name":"Control-FREEC",
+   "software_URL":"https://bioinfo-out.curie.fr/projects/freec/index.html",
+   "documentation":[
+      {
+         "Documentation_URL":"https://github.com/BoevaLab/FREEC/blob/master/doc/ControlFREEC_Manual.pdf"
+      }
+   ],
+   "tutorials_and_training_materials":[
+      {
+         "Tutorials_Name":"Tutorial on Bioinformatics Stack Exchange",
+         "Tutorials_URL":"https://bioinformatics.stackexchange.com/questions/1064/control-freec-parameters-interpretation",
+         "Training_Name":"GitHub guide",
+         "Training_URL":"https://github.com/IARCbioinfo/FREEC_tuto"
+      }
+   ]
+}

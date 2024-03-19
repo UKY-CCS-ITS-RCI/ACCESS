@@ -1,0 +1,20 @@
+{
+"software_name": "shapeit4",
+"software_link": "https://odelaneau.github.io/shapeit4/",
+"documentation": [
+{
+"link": "https://odelaneau.github.io/shapeit4/manual.html",
+"title": "Shapeit4 Manual"
+}
+],
+"tutorials_and_training_materials": [
+{
+"link": "https://odelaneau.github.io/shapeit4/manual.html",
+"title": "Shapeit4 Manual"
+},
+{
+"link": "https://www.youtube.com/watch?v=ShAe0lV9uG8",
+"title": "SHAPEIT4 tutorial [Video]"
+}
+]
+}

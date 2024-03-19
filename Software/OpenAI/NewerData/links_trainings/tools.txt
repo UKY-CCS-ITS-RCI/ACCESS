@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Anaconda",
+    "software_url": "https://www.anaconda.com/",
+    "documentation_url": "https://docs.anaconda.com/",
+    "tutorial_urls": ["https://docs.anaconda.com/anaconda/user-guide/getting-started/", "https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x"]
+  },
+  {
+    "name": "BioPython",
+    "software_url": "https://biopython.org/",
+    "documentation_url": "https://biopython.org/wiki/Documentation",
+    "tutorial_urls": ["https://biopython.org/DIST/docs/tutorial/Tutorial.html"]
+  },
+  {
+    "name": "OpenMPI",
+    "software_url": "https://www.open-mpi.org/",
+    "documentation_url": "https://www.open-mpi.org/doc/current/",
+    "tutorial_urls": ["https://www.open-mpi.org/faq/?category=running", "https://www.open-mpi.org/faq/?category=building"]
+  },
+  {
+    "name": "Matplotlib",
+    "software_url": "https://matplotlib.org/",
+    "documentation_url": "https://matplotlib.org/stable/contents.html",
+    "tutorial_urls": ["https://matplotlib.org/stable/tutorials/index.html"]
+  },
+  {
+    "name": "Numpy",
+    "software_url": "https://numpy.org/",
+    "documentation_url": "https://numpy.org/doc/stable/",
+    "tutorial_urls": ["https://numpy.org/doc/stable/user/quickstart.html"]
+  },
+  {
+    "name": "GCC",
+    "software_url": "https://gcc.gnu.org/",
+    "documentation_url": "https://gcc.gnu.org/onlinedocs/",
+    "tutorial_urls": ["https://developer.ibm.com/languages/c/articles/l-gcc"]
+  },
+  {
+    "name": "DESeq2",
+    "software_url": "https://bioconductor.org/packages/release/bioc/html/DESeq2.html",
+    "documentation_url": "https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html",
+    "tutorial_urls": ["https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/03_DESeq2_analysis.nb.html"]
+  }
+]

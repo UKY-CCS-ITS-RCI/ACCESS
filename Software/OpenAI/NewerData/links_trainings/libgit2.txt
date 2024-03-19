@@ -1,0 +1,19 @@
+{
+  "Software Name": "libgit2",
+  "Software URL": "https://libgit2.org/",
+  "Documentation Link": "https://libgit2.org/docs/",
+  "Tutorial and Training Materials": [
+    {
+      "Tutorial Name": "Using libgit2 for Git operations",
+      "Tutorial URL": "https://thoughtbot.com/blog/git-libgit2-rugged"
+    },
+    {
+      "Tutorial Name": "libgit2 - the plumbing behind Git",
+      "Tutorial URL": "https://www.fullstackpython.com/libgit2-python-git-library.html"
+    },
+    {
+      "Tutorial Name": "(Video) libgit2 Basics: What, Why and How?",
+      "Tutorial URL": "https://www.youtube.com/watch?v=sgz-9T2-NAo"
+    }
+  ]
+}

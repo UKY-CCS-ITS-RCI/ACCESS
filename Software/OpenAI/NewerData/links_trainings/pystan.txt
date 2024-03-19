@@ -1,0 +1,12 @@
+{
+  "pystan": {
+    "software_page": "https://pystan.readthedocs.io/en/latest/",
+    "documentation": "https://pystan.readthedocs.io/en/latest/manual.html",
+    "tutorial_materials": [
+      "https://mc-stan.org/users/documentation/case-studies/pystan_workflow.html",
+      "https://pystan.readthedocs.io/en/latest/getting_started.html",
+      "https://www.kdnuggets.com/2018/05/stan-numbers-web-scraping-statistics.html",
+      "https://towardsdatascience.com/an-introduction-to-bayesian-inference-in-pystan-c27078e58d53"
+    ]
+  }
+}

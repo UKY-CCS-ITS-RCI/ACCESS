@@ -1,0 +1,25 @@
+{
+  "Software": 
+  { 
+    "wxWidgets": 
+    { 
+      "URL": "https://www.wxwidgets.org/",
+      "Documentation": "https://docs.wxwidgets.org/3.0/",
+      "Tutorials": 
+      [
+        {
+          "Getting Started": "https://wiki.wxwidgets.org/Getting_Started"
+        },
+        {
+          "A First Application": "https://docs.wxwidgets.org/trunk/overview_firstprograms.html"
+        },
+        {
+          "wxWidgets tutorial": "https://zetcode.com/gui/wxwidgets/"
+        },
+        {
+          "wxWidgets Overview": "https://docs.wxwidgets.org/3.1/overview_intro.html"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Software": "cyvcf2",
+  "Details": {
+    "Software URL": "https://github.com/brentp/cyvcf2",
+    "Documentation": "https://cyvcf2.readthedocs.io/en/stable/",
+    "Training Materials": [
+      {
+        "Name": "Tutorial on Read the Docs",
+        "URL": "https://cyvcf2.readthedocs.io/en/stable/"
+      },
+      {
+        "Name": "GitHub Examples",
+        "URL": "https://github.com/brentp/cyvcf2/tree/master/examples"
+      },
+      {
+        "Name": "BioStars Forum - Potential Discussions on cyvcf2",
+        "URL": "https://www.biostars.org/"
+      },
+      {
+        "Name": "StackOverflow - Potential Discussions on cyvcf2",
+        "URL": "https://stackoverflow.com/questions/tagged/cyvcf2"
+      }
+    ]
+  }
+}

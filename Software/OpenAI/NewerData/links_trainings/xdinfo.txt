@@ -1,0 +1,9 @@
+{
+  "xdinfo": 
+  {
+    "softwarePage": "http://www.climber.org/Software/xdinfo/",
+    "documentation": "http://www.climber.org/Software/xdinfo/docs/",
+    "tutorials": [],
+    "trainingMaterials": []
+  }
+}

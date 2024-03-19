@@ -1,0 +1,14 @@
+{
+  "software": "Trycycler",
+  "details": [
+    {
+      "softwarePage": "https://github.com/rrwick/Trycycler",
+      "documentation": "https://github.com/rrwick/Trycycler#readme",
+      "tutorialsAndTrainingMaterials": [
+        "https://github.com/taylorreiter/MAGear/blob/main/05_quast_trycycler.ipynb",
+        "https://www.protocols.io/view/trycycler-tutorial-5e9731b1-a23e-4e1f-9249-90601118a482",
+        "https://www.youtube.com/watch?v=wKtzCVHfrrI"
+      ]
+    }
+  ]
+}

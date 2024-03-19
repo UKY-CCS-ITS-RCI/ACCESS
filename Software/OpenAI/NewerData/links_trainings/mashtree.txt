@@ -1,0 +1,12 @@
+{
+  "SoftwareName": "mashtree",
+  "SoftwareURL": "https://github.com/lskatz/mashtree",
+  "DocumentationLinks": [
+    "https://github.com/lskatz/mashtree"
+  ],
+  "TutorialAndTrainingLinks": [
+    "https://metacpan.org/release/Bio-Minimizer",
+    "https://mashtree.readthedocs.io/",
+    "https://lskatz.github.io/mashtree"
+  ]
+}

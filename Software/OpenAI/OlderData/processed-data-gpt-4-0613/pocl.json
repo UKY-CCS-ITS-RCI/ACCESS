@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "pocl",
+  "Homepage": "http://portablecl.org/",
+  "Resources": {
+    "Documentation": "http://portablecl.org/docs/html/",
+    "Tutorials": [
+      "http://portablecl.org/development.html",
+      "https://streamhpc.com/blog/2013-12-28/pocl-opencl-clusters/"
+    ],
+    "TrainingMaterial": [
+      "https://github.com/pocl/pocl",
+      "http://portablecl.org/development.html"
+    ]
+  }
+}

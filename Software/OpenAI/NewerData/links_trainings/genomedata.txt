@@ -1,0 +1,16 @@
+{
+  "software": "genomedata",
+  "software_url": "https://github.com/byee4/genomedata",
+  "documentation": [
+    {
+      "documentation_url": "https://doc.genomedata.org/",
+      "description": "Official genomedata Documentation"
+    }
+  ],
+  "tutorials_and_trainings": [
+    {
+      "url": "https://doc.genomedata.org/tutorial.html",
+      "description": "Genomedata Tutorial"
+    }
+  ]
+}

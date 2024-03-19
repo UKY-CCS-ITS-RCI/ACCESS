@@ -1,0 +1,21 @@
+{
+  "Software": "libsndfile",
+  "Details": {
+    "Software Page": "http://www.mega-nerd.com/libsndfile/",
+    "Documentation": "http://www.mega-nerd.com/libsndfile/api.html",
+    "Training and Tutorials": [
+      {
+        "Name": "libsndfile API Overview",
+        "URL": "http://www.mega-nerd.com/libsndfile/api.html"
+      },
+      {
+        "Name": "Working with Audio data in C++ (libsndfile)",
+        "URL": "https://stackoverflow.com/questions/39783057/working-with-audio-data-in-c-with-libsndfile"
+      },
+      {
+        "Name": "GitHub- libsndfile Examples",
+        "URL": "https://github.com/erikd/libsndfile/tree/main/examples"
+      }
+    ]
+  }
+}

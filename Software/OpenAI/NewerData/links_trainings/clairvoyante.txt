@@ -1,0 +1,12 @@
+{
+  "Software": "clairvoyante",
+  "Link": "https://github.com/aquaskyline/Clairvoyante",
+  "Documentation": "https://github.com/aquaskyline/Clairvoyante",
+  "Tutorials_and_Training": 
+    { 
+      "1": "https://github.com/aquaskyline/Clairvoyante/blob/master/demo/run_demo.sh",
+      "2": "https://github.com/aquaskyline/Clairvoyante/wiki",
+      "3": "https://bioinformatics.stackexchange.com/questions/7194/how-to-create-tensor-input-for-variant-calling-with-clair",
+      "4": "https://www.biostars.org/p/372724/"
+    }
+}

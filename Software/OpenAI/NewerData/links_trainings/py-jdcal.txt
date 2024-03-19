@@ -1,0 +1,17 @@
+{
+  "Software Name": "py-jdcal",
+  "Software URL": "https://pypi.org/project/jdcal/",
+  "Additional Links": {
+    "Documentation": "https://jdcal.readthedocs.io/en/latest/",
+    "Tutorials": [
+      {
+        "Tutorial1": "https://www.w3schools.com/python/module_requests.asp",
+        "Tutorial2": "https://www.programcreek.com/python/example/106512/jdcal.jd2gcal"
+      },
+      {
+        "Training1": "https://realpython.com/python-api/",
+        "Training2": "https://python.readthedocs.io/en/stable/library/http.client.html"
+      }
+    ]
+  }
+}

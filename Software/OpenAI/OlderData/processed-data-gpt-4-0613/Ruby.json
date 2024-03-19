@@ -1,0 +1,12 @@
+{
+  "Software Name": "Ruby",
+  "links": {
+    "software page": "https://www.ruby-lang.org/en/",
+    "documentation": "https://www.ruby-lang.org/en/documentation/",
+    "tutorials": [
+      "https://www.codecademy.com/learn/learn-ruby",
+      "https://www.tutorialspoint.com/ruby/index.htm",
+      "https://www.rubyguides.com/"
+    ]
+  }
+}

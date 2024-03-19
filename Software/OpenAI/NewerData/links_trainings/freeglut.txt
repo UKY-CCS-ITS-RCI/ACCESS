@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "freeglut",
+    "website": "http://freeglut.sourceforge.net/",
+    "documentation": "http://freeglut.sourceforge.net/docs/api.php",
+    "training_material": {
+      "01": {
+        "name": "Introduction to freeglut",
+        "url": "https://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_Introduction.html"
+      },
+      "02": {
+        "name": "Freeglut window management tutorial",
+        "url": "https://learnopengl.com/Getting-started/Creating-a-window"
+      },
+      "03": {
+        "name": "Using freeglut with code::blocks guide",
+        "url": "https://www.wikihow.com/Set-Up-FreeGLUT-in-Code::Blocks"
+      }
+    }
+  }
+}

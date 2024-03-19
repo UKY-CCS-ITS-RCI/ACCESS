@@ -1,0 +1,8 @@
+{
+  "Software Name": "torchsampler",
+  "Software Page": "https://github.com/baldassarreFe/torchsampler",
+  "Documentation": "No separate documentation page",
+  "Tutorial 1": "https://www.kaggle.com/ferbass/tackling-class-imbalance-pytorch-undersampling",
+  "Tutorial 2": "https://www.baeldung.com/cs/ai/balance-network-training-sets-pytorch",
+  "Other Resources": "Tutorial and usage examples might be available directly in the Readme file on the software’s GitHub page"
+}

@@ -1,0 +1,15 @@
+{
+  "Software": "Lua",
+  "Website": "https://www.lua.org/",
+  "Documentation": {
+    "Main Documentation": "https://www.lua.org/docs.html",
+    "API source code documentation": "https://www.lua.org/manual/5.1/",
+    "Programming in Lua (first edition)": "https://www.lua.org/manual/5.1/"
+  },
+  "Training and Tutorials": {
+    "Lua-Users Tutorials": "http://lua-users.org/wiki/TutorialDirectory",
+    "Zerobrane Tutorial": "https://studio.zerobrane.com/doc-lua-introduction",
+    "LuaShortReference": "http://lua-users.org/wiki/LuaShortReference",
+    "Programming in Lua (first edition)": "https://www.lua.org/pil/"
+  }
+}

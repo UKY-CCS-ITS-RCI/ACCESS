@@ -1,0 +1,31 @@
+As an AI model, I can't provide real-time web URL or browse the internet, but I can generate a JSON string format for your request. Below is a set of examples for 3 hypothetical software/tools:
+
+```
+{
+  "Scientific_Software": [
+    {
+      "Name": "Software1",
+      "Software_url": "www.software1.com",
+      "Documentation_url": "www.software1.com/documentation",
+      "Training_Materials_url": "www.software1.com/training",
+      "Tutorial_Materials_url": "www.software1.com/tutorial"
+    },
+    {
+      "Name": "Software2",
+      "Software_url": "www.software2.com",
+      "Documentation_url": "www.software2.com/documentation",
+      "Training_Materials_url": "www.software2.com/training",
+      "Tutorial_Materials_url": "www.software2.com/tutorial"
+    },
+    {
+      "Name": "Software3",
+      "Software_url": "www.software3.com",
+      "Documentation_url": "www.software3.com/documentation",
+      "Training_Materials_url": "www.software3.com/training",
+      "Tutorial_Materials_url": "www.software3.com/tutorial"
+    }
+  ]
+}
+```
+
+Please replace the "Software1", "www.software1.com", etc., with your required references.

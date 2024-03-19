@@ -1,0 +1,80 @@
+Use Case: MUMPS is a software package providing direct methods for solving large-scale sparse systems of linear equations. 
+
+Code details and examples: 
+
+Code:
+
+Suppose we have a sparse matrix described in Matrix Market format (.mtx). It can be used as input for MUMPS.
+
+Example of a .mtx file:
+
+```
+%%MatrixMarket matrix coordinate real general
+5 5 8
+1 1  4.000000e+00
+1 2  1.000000e+00
+2 1  1.000000e+00
+2 2  -4.000000e+00
+2 3  1.000000e+00
+3 2  1.000000e+00
+3 3  4.000000e+00
+4 4  2.500000e-01
+```
+
+This represents the sparse matrix:
+
+```
+4 1 0 0
+1 -4 1 0
+0 1 4 0
+0 0 0 0.25
+```
+
+To solve a linear system with MUMPS, you write a driver calling MUMPS. Below is an example in Fortran:
+
+```f90
+PROGRAM test
+USE dmumps_struc_def
+USE mpi
+IMPLICIT NONE
+INTEGER :: myid, ierr
+TYPE(DMUMPS_STRUC) :: id
+
+CALL MPI_INIT(ierr)
+CALL MPI_COMM_RANK(MPI_COMM_WORLD, myid, ierr)
+
+id%COMM = MPI_COMM_WORLD
+id%SYM = 0
+id%PAR = 1
+id%JOB = -1
+CALL DMUMPS(id) ! Initialize a MUMPS instance. Use a distributed version.
+
+READ(*,*) id%N, id%NZ ! Read the number of equations and number of non-zero entries of the matrix
+ALLOCATE(id%IRN(id%NZ), id%JCN(id%NZ))
+READ(*,*) id%IRN, id%JCN ! Read the entries id%NZ in the coordinate format
+READ(*,*) id%RHS(id%N) ! Read the right-hand side of the system equation
+
+id%JOB = 6
+CALL DMUMPS(id) ! Call MUMPS to solve the system. 
+
+IF (myid .EQ. 0) THEN
+    PRINT*, 'Solution is :'
+    PRINT*, id%RHS
+ENDIF
+
+id%JOB = -2
+CALL DMUMPS(id) ! Terminate instance
+
+CALL MPI_FINALIZE(ierr)
+END PROGRAM test
+```
+
+Run this Fortran program with: 
+
+```
+mpirun -np 4 a.out < input.dat
+```
+
+Where `input.dat` is a plain text file containing the values for `N`, `NZ`, `IRN`, `JCN`, and `RHS` in that order. The values should be space-separated. 
+
+Note: Always ensure MUMPS libraries and the MPI libraries are both correctly linked while compiling. The number "4" in the `mpirun` command is the number of CPUs to be used by the program – replace with your preference.

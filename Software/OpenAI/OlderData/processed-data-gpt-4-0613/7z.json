@@ -1,0 +1,19 @@
+{
+  "Software": "7z",
+  "Website": "https://www.7-zip.org/",
+  "Documentation": "https://www.7-zip.org/docs.html",
+  "Tutorials and Training material": [
+    {
+      "Title": "7 zip tutorial",
+      "Link": "https://www.youtube.com/watch?v=ZDX8nPk1o64"
+    },
+    {
+      "Title": "How To Use 7 Zip Tutorial",
+      "Link": "https://www.youtube.com/watch?v=gtNFn3_vhYw"
+    },
+    {
+      "Title": "7-Zip How to",
+      "Link": "https://www.geekhideout.com/7zip-howto.shtml"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "r-bioc",
+  "description": "Bioconductor provides tools for the analysis and comprehension of high-throughput genomic data. Bioconductor uses the R statistical programming language.",
+  "link": "https://bioconductor.org/",
+  "documentation": [
+    {
+      "url": "https://bioconductor.org/developers/how-to/biocCheck/",
+      "title": "BioConductor Package Guidelines"
+    },
+    {
+      "url": "https://bioconductor.org/packages/release/bioc/vignettes/BiocManager/inst/doc/BiocManager.html",
+      "title": "BiocManager installation steps"
+    },
+    {
+      "url": "https://compgenomr.github.io/book/bioconductor.html",
+      "title": "Compgenomr BioConductor Description"
+    }
+  ],
+  "tutorials": [
+    {
+      "url": "https://www.bioconductor.org/help/course-materials/2017/BioC2017/",
+      "title": "BioConductor 2017 Course Materials"
+    },
+    {
+      "url": "https://www.bioconductor.org/help/course-materials/2015/BioC2015/",
+      "title": "BioConductor 2015 Course Materials"
+    },
+    {
+      "url": "https://www.bioconductor.org/help/workflows/",
+      "title": "BioConductor Workflows"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+Use Case: Use SRA Toolkit for retrieving and processing next-generation sequencing data from NCBI's Sequence Read Archive (SRA). It also facilitates the conversion of SRA data into other formats for ease of analysis.
+
+Code details and examples:
+
+Code:
+
+Input file format: .sra
+Command to run:
+```
+fastq-dump <SRA file>
+```
+This will convert the .sra file to a .fastq file. For example, if your SRA file is named SRR390728.sra, the command will be
+```
+fastq-dump SRR390728.sra
+```
+Important specification: The input file (.sra) is typically obtained from the Sequence Read Archive database.
+
+NCBI recommends using prefetch to download SRA files, for example:
+```
+prefetch SRR390728
+``` 
+This will download SRA file SRR390728.sra into your current directory. The file can then be converted to .fastq format using fastq-dump as mentioned above.

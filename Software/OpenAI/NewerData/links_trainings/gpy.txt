@@ -1,0 +1,13 @@
+{
+"GPy": {
+"Software URL":"https://sheffieldml.github.io/GPy/",
+"Documentation":"https://gpy.readthedocs.io/en/deploy/",
+"Tutorials":[
+"https://nbviewer.jupyter.org/github/SheffieldML/notebook/blob/master/GPy/index.ipynb",
+"https://sheffieldml.github.io/GPy/examples/index.html",
+"https://sheffieldml.github.io/GPy/tutorial/index.html"],
+"Training Material":[
+"https://www.youtube.com/watch?v=ewJ3AxKclOg",
+"https://github.com/SheffieldML/GPy/blob/devel/TUTORIAL.md"]
+}
+}

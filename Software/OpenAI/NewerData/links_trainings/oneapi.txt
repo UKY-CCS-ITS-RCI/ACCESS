@@ -1,0 +1,9 @@
+{
+  "Software": "oneAPI",
+  "Link": "https://software.intel.com/content/www/us/en/develop/tools/oneapi.html",
+  "Documentation": "https://www.oneapi.com/documentation/",
+  "Tutorials": [
+    {"Name": "Get Started on HPC & AI Convergence", "Link": "https://software.intel.com/content/www/us/en/develop/training/course-oneapi-for-hpc-training.html"},
+    {"Name": "oneAPI Essentials Training", "Link": "https://software.intel.com/content/www/us/en/develop/training/course-oneapi-essentials.html"}
+  ]
+}

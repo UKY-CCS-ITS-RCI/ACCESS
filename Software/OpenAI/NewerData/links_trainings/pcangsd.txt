@@ -1,0 +1,12 @@
+{
+"PCAngsd": {
+  "Software_page": "http://www.popgen.dk/software/index.php/PCAngsd",
+  "Documentation": [
+    "http://www.popgen.dk/software/index.php/PCAngsd_Manual"
+  ],
+  "Tutorials_and_Training": [
+    "https://www.youtube.com/watch?v=JuUsw1OeiRk",
+    "http://www.popgen.dk/software/index.php/PCAngsd:_A_Tutorial"
+  ]
+ }
+}

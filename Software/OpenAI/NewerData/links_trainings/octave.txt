@@ -1,0 +1,16 @@
+{
+  "software_name": "Octave",
+  "software_page": "https://www.gnu.org/software/octave/",
+  "documentation": {
+    "Documentation_page": "https://www.gnu.org/software/octave/doc/interpreter/",
+    "Documentation_PDF": "https://www.gnu.org/software/octave/pdfdoc/octave.pdf"
+  },
+  "tutorial_and_training_materials": [
+    {
+      "Octave_Tutorial_Coursera": "https://www.coursera.org/learn/machine-learning/resources/0MOoc",
+      "Introduction_to_Octave": "https://en.wikibooks.org/wiki/Octave_Programming_Tutorial",
+      "GNU_Octave_Beginner's_Guide": "https://www.amazon.com/GNU-Octave-Beginners-Jesper-Schmidt/dp/1849513325",
+      "Octave_Tutorial_GNU": "https://www.gnu.org/software/octave/tutorial/index.html"
+    }
+  ]
+}

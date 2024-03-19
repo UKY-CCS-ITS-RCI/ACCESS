@@ -1,0 +1,21 @@
+{
+  "software": {
+    "name": "LyveSET",
+    "software-url": "https://github.com/lskatz/Lyve-SET",
+    "documentation": "https://github.com/lskatz/lyveset/blob/master/manual/manual.md",
+    "tutorials-and-training": [
+      {
+        "name": "Quick start guide",
+        "url": "https://github.com/lskatz/lyveset#quick-start"
+      },
+      {
+        "name": "Manual",
+        "url": "https://lskatz.github.io/lyveset/manual/manual.html"
+      },
+      {
+        "name": "Installation guide",
+        "url": "https://github.com/lskatz/lyveset#installation"
+      }
+    ]
+  }
+}

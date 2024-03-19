@@ -1,0 +1,24 @@
+{
+  "Software": "cellranger-arc",
+  "Details": [
+    {
+      "Software_Package": "cellranger-arc",
+      "Software_URL": "https://support.10xgenomics.com/single-cell-gene-expression/software/overview/welcome",
+      "Documentation_URL": "https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/arc",
+      "Training_Materials": [
+        {
+          "Tutorial_URL": "https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/guides/arc-pipe",
+          "Tutorial_Title": "Cell Ranger Arc Pipeline Guide"
+        },
+        {
+          "Tutorial_URL": "https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/guides/multi",
+          "Tutorial_Title": "Multiplexing with Cell Ranger Arc"
+        },
+        {
+          "Tutorial_URL": "https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial_cs",
+          "Tutorial_Title": "Single Cell Gene Expression Tutorial"
+        }
+      ]
+    }
+  ]
+}

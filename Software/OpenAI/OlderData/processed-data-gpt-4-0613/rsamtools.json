@@ -1,0 +1,14 @@
+{
+  "Software Name": "rsamtools",
+  "Software HomePage": "https://bioconductor.org/packages/release/bioc/html/Rsamtools.html",
+
+  "AdditionalLinks": {
+    "Documentation": "https://bioconductor.org/packages/release/bioc/vignettes/Rsamtools/inst/doc/Rsamtools.html",
+    "Tutorial": "https://bioconductor.org/packages/devel/bioc/vignettes/Rsamtools/inst/doc/Rsamtools.pdf",
+    "Training Materials": [
+      "https://bioconductor.org/help/course-materials/2011/CSAMA/lab-3-rsamtools/rsamtools-vignette.pdf",
+      "https://master.bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html",
+      "https://www.bioconductor.org/help/course-materials/2009/BioC2009/labs/short-moscow/Rsamtools-lab.pdf"
+    ]
+  }
+}

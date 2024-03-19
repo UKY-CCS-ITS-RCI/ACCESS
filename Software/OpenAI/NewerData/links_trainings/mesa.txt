@@ -1,0 +1,20 @@
+{
+  "Mesa": {
+    "softwarePage": "http://mesa.sourceforge.net/",
+    "documentation": "https://downloads.mesastar.org/install_mesa.html",
+    "trainingMaterials": [
+      {
+        "title": "Getting started with Mesa",
+        "url": "https://www.ascl.net/ manuscripts/vol8/volk/p015/ascl-1104.020.pdf"
+      },
+      {
+        "title": "Mesa User Manual",
+        "url": "https://www.mesa.org.uk/mesa-manual.pdf"
+      },
+      {
+        "title": "Mesa Tutorial",
+        "url": "http://www-pat.llnl.gov/content/assets/docs/MesaQuickStartGuide.pdf"
+      }
+    ]
+  }
+}

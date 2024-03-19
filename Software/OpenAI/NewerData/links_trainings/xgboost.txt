@@ -1,0 +1,46 @@
+{
+    "Software": "xgboost",
+    "web_url": "https://xgboost.readthedocs.io/en/latest/",
+    "Elements": [
+        {
+            "Source_page": "https://xgboost.readthedocs.io/en/latest/",
+            "Description": "Home Page"
+        },
+        {
+            "Source_page": "https://github.com/dmlc/xgboost",
+            "Description": "GitHub Repository"
+        },
+        {
+            "Source_page": "https://xgboost.readthedocs.io/en/latest/tutorials/model.html",
+            "Description": "Model Training Tutorial"
+        },
+        {
+            "Source_page": "https://xgboost.readthedocs.io/en/latest/tutorials/param_tuning.html",
+            "Description": "Parameters Tuning Tutorial"
+        },
+        {
+            "Source_page": "https://www.kaggle.com/c/bike-sharing-demand/discussion/19618",
+            "Description": "Kaggle Discussion for use cases of XGBoost"
+        },
+        {
+            "Source_page": "https://xgboost.readthedocs.io/en/latest/python/python_intro.html",
+            "Description": "Python Package Introduction"
+        },
+        {
+            "Source_page": "https://xgboost.readthedocs.io/en/latest/get_started.html",
+            "Description": "Getting Started Guide"
+        },
+        {
+            "Source_page": "https://xgboost.readthedocs.io/en/latest/jvm/index.html",
+            "Description": "JVM Interface Guide"
+        },
+        {
+            "Source_page": "https://xgboost.readthedocs.io/en/latest/r/index.html",
+            "Description": "R Interface Guide"
+        },
+        {
+            "Source_page": "https://xgboost.readthedocs.io/en/latest/build.html",
+            "Description": "Developer Guide"
+        }
+    ]
+}

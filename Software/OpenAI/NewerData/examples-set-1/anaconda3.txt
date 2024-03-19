@@ -1,0 +1,40 @@
+Use Case: Anaconda is a package manager, an environment manager, and a distribution of scientific computing and data science related Python and R packages. It simplifies package management and deployment, and is used by millions of developers around the world for machine learning, data analysis etc.
+
+Code Details and Examples:
+
+Code:
+
+Firstly, create a new environment in Anaconda using the command:
+
+```
+conda create -n myenv python=3.6
+```
+
+Then, activate the environment:
+
+```
+conda activate myenv
+```
+
+Once the environment is created and activated, you can now move on to using Python in Anaconda. Here is a simple Python code that uses the Pandas library to read a csv file and implement some data analysis tools:
+
+```python
+import pandas as pd
+
+#The csv file input and the format should be as per pandas.read_csv specification
+# https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+
+df = pd.read_csv('your_directory/your_file.csv')
+
+#Describe gives the central tendency, dispersion and shape of dataset’s distribution
+print(df.describe())
+
+#Check for any null values in the dataset
+print(df.isnull().sum())
+```
+
+To run this code, save it into a .py file, say, 'data_analysis.py', then you can run this python file using below command in the Anaconda terminal:
+
+```
+python data_analysis.py
+```

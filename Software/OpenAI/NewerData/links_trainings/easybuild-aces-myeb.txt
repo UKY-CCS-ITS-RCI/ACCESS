@@ -1,0 +1,19 @@
+{
+  "easybuild-aces-myeb": {
+    "SoftwarePage": "https://github.com/aces/easybuild-easyconfigs",
+    "Documentation": "https://easybuild.readthedocs.io/en/latest/",
+    "Tutorials": {
+      "1": "https://easybuildtutorial.readthedocs.io/en/latest/",
+      "2": "https://easybuild.readthedocs.io/en/latest/Getting_started.html",
+      "3": "https://www.youtube.com/watch?v=2M6Ezvk-fLc",
+      "4": "https://docs.easybuild.io/en/latest/Developer_tutorial.html",
+      "5": "https://www.tchpc.tcd.ie/node/1071",
+      "Training": {
+        "1": "https://easybuild.readthedocs.io/en/latest/Getting_started.html",
+        "2": "https://www.youtube.com/watch?v=2M6Ezvk-fLc",
+        "3": "https://docs.easybuild.io/en/latest/Developer_tutorial.html",
+        "4": "https://easybuildtutorial.readthedocs.io/en/latest/"
+      }
+    }
+  }
+}

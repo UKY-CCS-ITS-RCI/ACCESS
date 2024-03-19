@@ -1,0 +1,11 @@
+{
+  "software": "Tensorflow",
+  "link": "https://www.tensorflow.org/",
+  "documentation": "https://www.tensorflow.org/guide",
+  "tutorial": ["https://www.tensorflow.org/tutorials", 
+               "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187",
+               "https://www.coursera.org/learn/introduction-tensorflow"],
+  "training": ["https://www.tensorflow.org/resources/learn-ml",
+               "https://developers.google.com/machine-learning/crash-course/",
+               "https://www.datacamp.com/courses/deep-learning-in-python"]
+}

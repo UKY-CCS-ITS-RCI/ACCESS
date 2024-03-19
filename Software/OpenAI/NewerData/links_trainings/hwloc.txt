@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "hwloc",
+  "Website": "https://www.open-mpi.org/projects/hwloc/",
+  "Documentation": "https://www.open-mpi.org/projects/hwloc/doc/",
+  "TutorialsAndTrainingMaterials": [
+    {
+      "title": "Hwloc tutorial at the 2014 EuroMPI conference",
+      "url": "https://hal.inria.fr/hal-01077944"
+    },
+    {
+      "title": "Lstopo tutorial/hwloc in doxygen",
+      "url": "https://www.open-mpi.org/projects/hwloc/doc/v1.11.5/a00307.php"
+    }
+  ]
+}

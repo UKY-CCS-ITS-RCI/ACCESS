@@ -1,0 +1,20 @@
+{
+  "Software": "libedit",
+  "Software_URL": "https://www.thrysoee.dk/editline/",
+  "Documentation": [
+    {
+      "URL": "http://manpages.ubuntu.com/manpages/precise/man3/history.3.html"
+    },
+    {
+      "URL": "https://netbsd.gw.com/cgi-bin/man-cgi?editline++NetBSD-5.0"
+    }
+  ],
+  "Tutorial": [
+    {
+      "URL": "https://brewinstall.org/Install-libedit-on-Mac-with-Brew/"
+    },
+    {
+      "URL": "https://gist.github.com/maxvt/bb49a6c7243163b8120625fc8ae3f3cd"
+    }
+  ]
+}

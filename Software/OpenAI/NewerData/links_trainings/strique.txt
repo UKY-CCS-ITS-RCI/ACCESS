@@ -1,0 +1,12 @@
+{
+  "Strique": {
+    "software_page": "https://github.com/ksin/strique",
+    "documentation": "https://github.com/ksin/strique",
+    "training_materials": [
+      "https://github.com/ksin/strique"
+    ],
+    "tutorial_materials": [
+      "https://github.com/ksin/strique"
+    ]
+  }
+}

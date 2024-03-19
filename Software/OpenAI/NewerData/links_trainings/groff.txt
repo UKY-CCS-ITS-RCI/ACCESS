@@ -1,0 +1,17 @@
+{
+  "Software": "groff",
+  "Details": [
+    {
+      "Software_Page": "https://www.gnu.org/software/groff/",
+      "Documentation": [
+        "http://groff.ffii.org/groff-site/proj-html/groff.html",
+        "https://www.gnu.org/software/groff/manual/"
+      ],
+      "Tutorials_Training": [
+        "https://www.linuxtopia.org/online_books/linux_tool_guides/the_groff_handbook/groff_tutorial3104.html",
+        "https://wiki.archlinux.org/title/groff",
+        "https://www.tutorialspoint.com/unix_commands/groff.htm"
+      ]
+    }
+  ]
+}

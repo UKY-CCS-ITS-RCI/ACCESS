@@ -1,0 +1,16 @@
+{
+  "Software": {
+    "Name": "gthumb",
+    "WebURL": "https://wiki.gnome.org/Apps/Gthumb",
+    "Resources": [
+      {
+        "ResourceType": "Documentation",
+        "ResourceLink": "https://wiki.gnome.org/Apps/Gthumb/Doku"
+      },
+      {
+        "ResourceType": "Tutorial",
+        "ResourceLink": "https://debian-handbook.info/browse/stable/sect.image-viewer.html"
+      }
+    ]
+  }
+}

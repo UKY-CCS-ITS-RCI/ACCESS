@@ -1,0 +1,23 @@
+{
+  "Software": {
+    "Name": "parasail",
+    "Link": "https://github.com/jeffdaily/parasail",
+    "Documentation": "https://parasail-programming.readthedocs.io/en/latest/",
+    "Tutorials": {
+      "Tutorial1": "https://pubmed.ncbi.nlm.nih.gov/26713226/",
+      "Tutorial2": "https://joss.theoj.org/papers/10.21105/joss.00007"
+    }
+  },
+  "Python Libraries": {
+    "Library1": "https://pypi.org/project/parasail/",
+    "Library2": "https://anaconda.org/bioconda/parasail-python"
+  },
+  "Computataional Software": {},
+  "Conda Packages": {
+    "Package1": "https://anaconda.org/bioconda/parasail"
+  },
+  "Bioinformatics": {
+    "Tutorial1": "https://ismb-2012.p.asnevents.com.au/days/2012-07-15/abstract/1823"
+  },
+  "HPC Tools": {}
+}

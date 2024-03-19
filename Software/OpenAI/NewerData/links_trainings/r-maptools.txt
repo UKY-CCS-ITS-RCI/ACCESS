@@ -1,0 +1,23 @@
+{
+  "software": "r-maptools",
+  "details": [
+    {
+      "softwarePage": "https://cran.r-project.org/web/packages/maptools/index.html",
+      "documentation": "https://cran.r-project.org/web/packages/maptools/maptools.pdf",
+      "tutorialsAndTraining": [
+        {
+          "title": "Working with Spatial Data and maptools package",
+          "link": "https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/OverviewCoordinateReferenceSystems.pdf"
+        },
+        {
+          "title": "Spatial Data in R: Using R as a GIS",
+          "link": "https://www.jstatsoft.org/article/view/v063i18"
+        },
+        {
+          "title": "Spatial Data Manipulation with maptools",
+          "link": "https://www.youtube.com/watch?v=VvH8tQa1nGw"
+        }
+      ]
+    }
+  ]
+}

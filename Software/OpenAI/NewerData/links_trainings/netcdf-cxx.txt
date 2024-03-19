@@ -1,0 +1,13 @@
+{
+  "software": "netcdf-cxx",
+  "details": [
+    {
+      "link_to_software": "https://www.unidata.ucar.edu/software/netcdf/docs/getting_and_building_netcdf.html",
+      "documentation": "https://www.unidata.ucar.edu/software/netcdf/docs/user_guide.html",
+      "tutorial": "https://www.unidata.ucar.edu/software/netcdf/docs/netcdf-tutorials.html",
+      "training_materials": [
+        "https://www.unidata.ucar.edu/software/netcdf/education_and_training.html"
+      ]
+    }
+  ]
+}

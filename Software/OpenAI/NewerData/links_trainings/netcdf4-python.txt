@@ -1,0 +1,13 @@
+{
+  "Software": "netcdf4-python",
+  "Website": "https://unidata.github.io/netcdf4-python/netCDF4/index.html",
+  "Links": {
+    "Documentation": "https://unidata.github.io/netcdf4-python/netCDF4/index.html",
+    "Tutorials": [
+      "https://gist.github.com/obreitwi/c77c04711eec5d58c392f4452879ffa8",
+      "https://www.earthdatascience.org/courses/use-data-open-source-python/multidimensional-arrays-netcdf/interactive-time-series-data-netcdf-python/",
+      "https://www.unidata.ucar.edu/software/netcdf/workshops/2011/python/",
+      "https://pyhogs.github.io/intro_netcdf4.html"
+    ]
+  }
+}

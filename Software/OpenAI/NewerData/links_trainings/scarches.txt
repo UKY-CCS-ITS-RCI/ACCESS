@@ -1,0 +1,13 @@
+{
+  "Software Name": "scarches",
+  "Software Page": "https://github.com/SCArchES-framework/SCArchES",
+  "Documentation": 
+  [
+    "https://github.com/SCArchES-framework/SCArchES/tree/main/documentation"
+  ],
+  "Training and Tutorial Materials": 
+  [
+    "https://github.com/SCArchES-framework/SCArchES/tree/main/examples",
+    "https://nbviewer.jupyter.org/github/SCArchES-framework/SCArchES/tree/main/examples/"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "software_name": "typing-extensions",
+  "software_url": "https://pypi.org/project/typing-extensions/",
+  "documentation_links": [
+    "https://docs.python.org/3/library/typing.html"
+  ],
+  "training_materials": [
+    {
+      "name": "Python Typing Tutorial",
+      "url": "https://realpython.com/python-type-checking/"
+    },
+    {
+      "name": "Python Type Checking (Guide)",
+      "url": "https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html"
+    },
+    {
+      "name": "Python Typing (Video Tutorial)",
+      "url": "https://www.youtube.com/watch?v=2xWhaALHTvU"
+    }
+  ]
+}

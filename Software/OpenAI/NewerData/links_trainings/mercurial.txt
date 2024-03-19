@@ -1,0 +1,36 @@
+{
+  "software": "mercurial",
+  "main_page": "https://www.mercurial-scm.org/",
+  "documentation": [
+    {
+      "name": "Mercurial Documentation",
+      "link": "https://www.mercurial-scm.org/guide"
+    },
+    {
+      "name": "Mercurial Wiki",
+      "link": "https://www.mercurial-scm.org/wiki/"
+    },
+    {
+      "name": "Mercurial FAQ",
+      "link": "https://www.mercurial-scm.org/wiki/FAQ"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "Learn Mercurial",
+      "link": "https://www.mercurial-scm.org/learn"
+    },
+    {
+      "name": "Mercurial Tutorial",
+      "link": "https://www.tutorialspoint.com/mercurial/index.htm"
+    },
+    {
+      "name": "Hg Init: a Mercurial tutorial",
+      "link": "https://hginit.com/"
+    },
+    {
+      "name": "Mercurial for Git Users",
+      "link": "https://www.mercurial-scm.org/wiki/GitConcepts"
+    }
+  ]
+}

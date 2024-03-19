@@ -1,0 +1,10 @@
+{
+  "r-annotate": {
+    "SoftwarePage": "https://bioconductor.org/packages/release/bioc/html/annotate.html",
+    "Documentation": [
+      "https://bioconductor.org/packages/release/bioc/vignettes/annotate/inst/doc/Intro-to-annotate.pdf",
+      "https://www.bioconductor.org/packages/devel/bioc/manuals/annotate/man/annotate.pdf"
+    ],
+    "TrainingMaterials": []
+  }
+}

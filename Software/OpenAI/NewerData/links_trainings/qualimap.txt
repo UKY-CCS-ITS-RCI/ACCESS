@@ -1,0 +1,19 @@
+{
+  "software": "Qualimap",
+  "website": "http://qualimap.conesalab.org/",
+  "documentation": "http://qualimap.conesalab.org/docs/",
+  "tutorials": [
+    {
+      "url": "https://bioinformatics-core-shared-training.github.io/cruk-bioinf-sschool/Day1/Qualimap.html",
+      "title": "Introduction to Qualimap"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Sf3xo4dZ26g",
+      "title": "Qualimap Tutorial on Youtube"
+    },
+    {
+      "url": "https://bioinformatics.uconn.edu/qualimap-tutorial/",
+      "title": "Qualimap Tutorial by UCONN"
+    }
+  ]
+}

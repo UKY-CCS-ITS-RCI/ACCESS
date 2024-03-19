@@ -1,0 +1,43 @@
+Use Case: JsonCpp is a C++ library for reading and writing JSON files. This can be used in the creation of configuration files, web data exchange, data serialization and deserialization, and more. 
+
+Code details and examples: 
+
+Code example:
+
+```cpp
+#include "json/json.h"
+#include <iostream>
+
+int main() {
+    Json::Value data;
+    data["name"] = "John Doe";
+    data["age"] = 30;
+    data["isDeveloper"] = true;
+    data["skills"].append("C++");
+    data["skills"].append("Python");
+
+    Json::StreamWriterBuilder writer;
+    std::cout << Json::writeString(writer, data) << std::endl;
+
+    return 0;
+}
+```
+
+This CPP file creates a JSON object with some data and outputs it. The output will be:
+
+```json
+{
+    "name" : "John Doe",
+    "age" : 30,
+    "isDeveloper" : true,
+    "skills" : [ "C++", "Python" ]
+}
+```
+
+Run the cpp file with g++:
+```
+g++ main.cpp -ljsoncpp -std=c++11 -o main
+./main
+```
+
+This method uses autolinking to the JsonCpp library `-ljsoncpp` and uses the C++11 standard `-std=c++11`.

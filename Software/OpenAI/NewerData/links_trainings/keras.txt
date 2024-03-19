@@ -1,0 +1,14 @@
+{
+  "Software Name": "Keras",
+  "Software Link": "https://keras.io/",
+  "Documentation": {
+    "Documentation Link 1": "https://keras.io/api/",
+    "Documentation Link 2": "https://keras.io/guides/"
+  },
+  "Training & Tutorials": {
+    "Tutorial Link 1": "https://keras.io/examples/",
+    "Tutorial Link 2": "https://www.tutorialspoint.com/keras/index.htm",
+    "Tutorial Link 3": "https://www.datacamp.com/community/tutorials/deep-learning-python",
+    "Tutorial Link 4": "https://machinelearningmastery.com/start-here/#deep_learning"
+  }
+}

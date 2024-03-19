@@ -1,0 +1,12 @@
+{
+  "software_name": "perftools-base",
+  "software_URL": "https://docs.nersc.gov/performance/perftools/",
+  "documentation_links": [
+    "https://docs.nersc.gov/performance/perftools/base/",
+    "https://www.nersc.gov/users/computational-systems/edison/running-jobs/performance-and-debugging-tools/"
+  ],
+  "tutorial_links": [
+    "https://www.nersc.gov/users/training/events/performance-tools-workshop/",
+    "https://www.nersc.gov/users/computational-systems/cori/training/performance-tuning-tutorial/perftools/"
+  ]
+}

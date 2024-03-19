@@ -1,0 +1,23 @@
+{
+  "software": "libtiff",
+  "software_url": "http://www.libtiff.org/",
+  "documentation": [
+    {
+      "documentation_url": "http://www.libtiff.org/libtiff.html"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorials_topic": "Using LibTiff in C",
+      "tutorials_url": "http://www.asmail.be/msg0055496708.html"
+    },
+    {
+      "tutorials_topic": "Working with Tiff images in C",
+      "tutorials_url": "https://www.jianshu.com/p/86e7f5b9cdcb"
+    },
+    {
+      "tutorials_topic": "Coding Compiling Linking and Using libtiff Library Tutorial",
+      "tutorials_url": "https://www.youtube.com/watch?v=SA2lmAdz0E4"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+Use Case: Libtiff is a library for reading and writing Tagged Image File Format (TIFF) images. This is most commonly used in scientific applications to handle large images and microscopy data.
+
+Code details and examples: 
+
+Code:
+
+# Include necessary files
+#include "tiffio.h"
+void main()
+
+{
+TIFF* image;
+uint32 width, height;
+uint32* raster;
+
+// Open an existing TIFF file
+image = TIFFOpen("image.tiff", "r");
+if (image != NULL) 
+{
+    // Fetch width and height of the image
+    TIFFGetField(image, TIFFTAG_IMAGEWIDTH, &width);
+    TIFFGetField(image, TIFFTAG_IMAGELENGTH, &height);
+    raster = (uint32*) _TIFFmalloc(width * height * sizeof (uint32));
+    if(raster!=NULL)
+    {
+        // Fetch the content of the image
+        if (TIFFReadRGBAImage(image, width, height, raster, 0)) 
+        {
+            // Process the image code here
+        }
+        // Remember to free the raster memory
+        _TIFFfree(raster);
+    }
+TIFFClose(image);
+}
+
+}
+
+Input file:
+
+The input file is in TIFF format, such as "image.tiff". There is no specific format required for this file as the library is capable of handling any TIFF image.
+
+Command to run:
+
+Compile and run the C program that uses the libtiff library. It may look something like this:
+
+gcc readtiff.c -l tiff -o readtiff
+./readtiff

@@ -1,0 +1,14 @@
+{
+  "exabayes": {
+    "software_page": "https://sco.h-its.org/exelixis/web/software/exabayes/",
+    "documentation": [
+      "https://sco.h-its.org/exelixis/resource/download/NewbiesGuide.pdf",
+      "https://cme.h-its.org/exelixis/resource/download/exabayes/manual.pdf"
+    ],
+    "tutorials_and_trainings": [
+      "https://www.youtube.com/watch?v=lDf9pFUsWDI",
+      "https://bioinformaticsworkbook.org/Appendix/Phylogenetics/ExaBayes/ExaBayes.html#gsc.tab=0",
+      "https://www.protocol.io/view/phylogenetic-analysis-using-exabayes-i5je7wn"
+    ]
+  }
+}

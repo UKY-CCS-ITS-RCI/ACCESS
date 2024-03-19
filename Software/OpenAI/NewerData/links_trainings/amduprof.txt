@@ -1,0 +1,10 @@
+```json
+{
+  "amduprof": {
+    "softwarePage": "https://developer.amd.com/amd-uprof/",
+    "documentation": "https://developer.amd.com/amd-uprof-user-guide/",
+    "tutorials": [],
+    "training": []
+  }
+}
+```

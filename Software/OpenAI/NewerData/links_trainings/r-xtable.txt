@@ -1,0 +1,21 @@
+{
+  "r-xtable": {
+    "software_page": "https://cran.r-project.org/web/packages/xtable/index.html",
+    "documentation": [
+      {
+        "title": "xtable: Export Tables to LaTeX or HTML",
+        "url": "https://cran.r-project.org/web/packages/xtable/xtable.pdf"
+      }
+    ],
+    "tutorial_materials": [
+      {
+        "title": "R: xtable package",
+        "url": "https://www.stat.berkeley.edu/~s133/xtable.html"
+      },
+      {
+        "title": "xtable tutorial",
+        "url": "http://www.cookbook-r.com/Manipulating_data/Creating_tables/"
+      }
+    ]
+  }
+}

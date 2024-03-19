@@ -1,0 +1,28 @@
+{
+  "Software": "googletest",
+  "Link": "https://github.com/google/googletest",
+  "Documentation": [
+    {
+      "Link": "https://google.github.io/googletest/",
+      "Description": "Official Documentation"
+    },
+    {
+      "Link": "https://github.com/google/googletest/blob/master/googletest/docs/primer.md",
+      "Description": "Primer Documentation"
+    }
+  ],
+  "Tutorials": [
+    {
+      "Link": "https://medium.com/@vladgriguta/a-guide-to-google-test-for-beginners-482a324f70f2",
+      "Description": "Googletest Guide for Beginners"
+    },
+    {
+      "Link": "https://www.youtube.com/watch?v=NBpHlEleZa8",
+      "Description": "Youtube Tutorial"
+    },
+    {
+      "Link": "https://code.visualstudio.com/docs/cpp/unit-testing",
+      "Description": "Unit Tests in Visual Studio"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "mkl": {
+    "softwarePage": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html",
+    "documentation": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html#documentation",
+    "tutorialsAndTrainingMaterials": {
+      "Intel Developer Zone": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html#sample-code",
+      "Intel Software Documentation": "https://software.intel.com/content/www/us/en/develop/documentation/onemkl-windows-developer-guide/top.html",
+      "Intel MKL Support Forum": "https://community.intel.com/t5/Intel-oneAPI-Math-Kernel-Library/bd-p/oneapi-math-kernel-library"
+    }
+  }
+}

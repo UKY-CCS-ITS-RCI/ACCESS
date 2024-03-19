@@ -1,0 +1,10 @@
+{
+  "softwareName": "GTS",
+  "links": {
+    "softwarePage": "http://gts.sourceforge.net/",
+    "documentation": "http://gts.sourceforge.net/reference/gts-docs-standalone.html",
+    "tutorial1": "http://gts.sourceforge.net/tutorial.html",
+    "tutorial2": "https://www.youtube.com/watch?v=h1-L6ltSlCU",
+    "tutorial3": "https://docs.blender.org/manual/en/latest/modeling/meshes/editing/edge/bevel.html"
+  }
+}

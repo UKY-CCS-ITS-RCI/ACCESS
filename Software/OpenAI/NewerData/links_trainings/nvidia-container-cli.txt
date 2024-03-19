@@ -1,0 +1,20 @@
+{
+  "name": "nvidia-container-cli",
+  "description": "Library and tools for running an application on Nvidia GPUs with the help of Containerization",
+  "software_url": "https://github.com/NVIDIA/libnvidia-container",
+  "documentation_url": "https://docs.nvidia.com/ngc/ngc-container-runtime-upstream-guide/index.html",
+  "training_materials": [
+    {
+      "title": "Getting Started with Nvidia Container Toolkit",
+      "url": "https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/user-guide.html"
+    },
+    {
+      "title": "Nvidia Docker Github issue board",
+      "url": "https://github.com/NVIDIA/nvidia-docker/issues"
+    },
+    {
+      "title": "Nvidia Deep Learning Containers User Guide",
+      "url": "https://docs.nvidia.com/deeplearning/dgx/containers-user-guide/index.html"
+    }
+  ]
+}

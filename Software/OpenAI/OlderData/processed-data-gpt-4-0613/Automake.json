@@ -1,0 +1,19 @@
+{
+  "Software": "Automake",
+  "Website": "https://www.gnu.org/software/automake/",
+  "Documentation": "https://www.gnu.org/software/automake/manual/",
+  "Tutorials and Training material": [
+    {
+      "Title": "Automake tutorial",
+      "Link": "https://www.lrde.epita.fr/~adl/autotools.html"
+    },
+    {
+      "Title": "Automake Documentation",
+      "Link": "https://www.gnu.org/software/automake/manual/"
+    },
+    {
+      "Title": "Autotools Tutorial",
+      "Link": "https://www.lrde.epita.fr/~adl/dl/autotools-tutorial.pdf"
+    }
+  ]
+}

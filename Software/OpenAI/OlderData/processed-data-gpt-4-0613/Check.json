@@ -1,0 +1,26 @@
+{
+  "Software": {
+    "Name": "Check",
+    "Link": "http://www.check-software-link.com",
+    "Documentation": [
+      {
+        "Name": "User Guide",
+        "Link": "http://www.documentation-link.com/user-guide"
+      },
+      {
+        "Name": "Developer Guide",
+        "Link": "http://www.documentation-link.com/developer-guide"
+      }
+    ],
+    "Training": [
+      {
+        "Name": "Getting Started",
+        "Link": "http://www.tutorial-link.com/getting-started"
+      },
+      {
+        "Name": "Advanced Usage",
+        "Link": "http://www.tutorial-link.com/advanced-usage"
+      }
+    ]
+  }
+}

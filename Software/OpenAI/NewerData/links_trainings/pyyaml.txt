@@ -1,0 +1,12 @@
+{
+    "Software": "PyYAML",
+    "Software URL": "https://pypi.org/project/PyYAML/",
+    "Documentation": {
+        "URL1": "https://pyyaml.org/wiki/PyYAMLDocumentation"
+    },
+    "Tutorials and Training Materials":{
+        "URL1": "https://learn.getgrav.org/16/advanced/yaml",
+        "URL2": "https://www.fullstackpython.com/yaml.html",
+        "URL3": "https://devopedia.org/yaml"
+    }
+}

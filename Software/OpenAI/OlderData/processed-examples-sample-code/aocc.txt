@@ -1,0 +1,21 @@
+Use Case: Intel Architecture Compiler
+Code details and examples:
+- Sample input files: 
+    - Input C code file: test.c
+    ```c
+    #include <stdio.h>
+
+    int main() {
+        printf("Hello, World!\n");
+        return 0;
+    }
+    ```
+- Code snippet:
+  - To compile the code using AOCC:
+    ```bash
+    aocc test.c -o test
+    ```
+  - To run the compiled executable:
+    ```bash
+    ./test
+    ```

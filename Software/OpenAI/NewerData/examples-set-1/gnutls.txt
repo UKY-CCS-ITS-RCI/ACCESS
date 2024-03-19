@@ -1,0 +1,59 @@
+Use Case: Use GNUTLS for creating secure client-server connections and for implementing Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols for applications.
+
+Code details and examples: Code
+
+Sample Input File:
+
+A sample input for GNUTLS can be a text file containing a private key in PEM (Privacy Enhanced Mail) format. Here is an example:
+
+```
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCplYgleLzQf7Eq
+6WepP7UgX5B/aYhfB5gQfH05h3p/+ijVRPBtFAh+Q/rJxGsM5Rj273VPxprmbNgU
+j8NQ5R74v25Ne5jLYIl+dZfKvlScgbo2fL4ZBmLyd3e0F2VppjTnAGMzAVGlzlgZ
+HzvpUI8FLLMwdoOuRnz+R0HYPG0UIHwN17e4hNX6LfK6BsmdFjPIlexL3nT66Nge
+. . .
+-----END PRIVATE KEY-----
+```
+
+This is a private key file in the PEM format.
+
+Code Snippet:
+
+Here is a simple GNUTLS client code snippet written in C:
+
+```c
+#include <gnutls/gnutls.h>
+
+int main() {
+    gnutls_global_init();
+    gnutls_certificate_credentials_t xcred;
+    gnutls_init(&session, GNUTLS_CLIENT);
+    gnutls_server_name_set(session, GNUTLS_NAME_DNS, "www.example.com",
+                           strlen("www.example.com"));
+    gnutls_certificate_allocate_credentials(&xcred);
+    gnutls_certificate_set_x509_trust_file(xcred, "ca.pem", GNUTLS_X509_FMT_PEM);
+    gnutls_credentials_set(session, GNUTLS_CRD_CERTIFICATE, xcred);
+    gnutls_priority_set_direct(session, "NORMAL", NULL);
+    gnutls_transport_set_int(session, sockfd);
+    do {
+     ret = gnutls_handshake(session);
+    } while (ret < 0 && gnutls_error_is_fatal(ret) == 0);
+    gnutls_global_deinit();
+    return 0;
+}
+```
+
+Command to Run:
+
+Compile the C code with:
+
+```
+$ gcc -o client client.c -lgnutls
+```
+
+To execute the compiled program, run:
+
+```
+$ ./client
+```

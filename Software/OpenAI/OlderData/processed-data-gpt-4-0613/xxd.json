@@ -1,0 +1,19 @@
+{
+  "Software": 
+  { 
+    "xxd": 
+    { 
+      "URL": "https://linux.die.net/man/1/xxd",
+      "Documentation": "https://www.linuxjournal.com/article/7313",
+      "Tutorials": 
+      [
+        {
+          "Converting binary to text using xxd": "https://www.youtube.com/watch?v=g9nvUeOvTI0"
+        },
+        {
+          "An Introduction to xxd": "https://medium.com/@nishan_chathuranga/an-introduction-to-xxd-6e2ac88f52bd"
+        }
+      ]
+    }
+  }
+}

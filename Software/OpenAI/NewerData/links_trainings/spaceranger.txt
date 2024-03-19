@@ -1,0 +1,18 @@
+{
+  "Software": "spaceranger",
+  "Website": "https://support.10xgenomics.com/spatial-gene-expression/software/overview/welcome",
+  "Documentation": {
+    "Overview": "https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/using/tutorial",
+    "Guides": "https://support.10xgenomics.com/single-cell-gene-expression/software/overview/system-requirements",
+    "API References": "https://support.10xgenomics.com/spatial-gene-expression/software/downloads/latest"
+  },
+  "Tutorials": {
+    "Overview": "https://chanzuckerberg.github.io/spatial-omics/#space-ranger",
+    "Examples": "https://support.10xgenomics.com/spatial-gene-expression/datasets"
+  },
+  "Training": {
+    "Online Courses": "N/A",
+    "Webinar": "https://www.10xgenomics.com/resources/webinars/",
+    "Workshops": "N/A"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Software Name": "awscli",
+  "Software URL": "https://aws.amazon.com/cli/",
+  "Documentation URL": "https://awscli.amazonaws.com/v2/documentation/api/latest/index.html",
+  "Training & Tutorial URLs": [
+    "https://aws.amazon.com/getting-started/hands-on/run-serverless-code/",
+    "https://docs.aws.amazon.com/cli/latest/userguide/tutorial-ec2-ubuntu.html",
+    "https://www.youtube.com/watch?v=TPyyfmQte0U",
+    "https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS_certified_devops_engineer_professional_exam_guide_v1.4.pdf"
+  ]
+}

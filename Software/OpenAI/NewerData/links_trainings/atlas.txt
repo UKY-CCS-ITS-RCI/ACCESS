@@ -1,0 +1,19 @@
+{
+  "software": "ATLAS",
+  "softwareURL": "https://math-atlas.sourceforge.net/",
+  "documentation": "https://math-atlas.sourceforge.net/atlas_install/index.html",
+  "tutorials": [
+    {
+      "tutorialName": "ATLAS Installation Guide",
+      "tutorialURL": "https://math-atlas.sourceforge.net/atlas_install/index.html"
+    },
+    {
+      "tutorialName": "ATLAS tutorial by Example",
+      "tutorialURL": "https://icl.cs.utk.edu/lapack-forum/viewtopic.php?f=2&t=4735"
+    },
+    {
+      "tutorialName": "ATLAS Tuning Guide",
+      "tutorialURL": "https://math-atlas.sourceforge.net/tuning_guide.html"
+    }
+  ]
+}

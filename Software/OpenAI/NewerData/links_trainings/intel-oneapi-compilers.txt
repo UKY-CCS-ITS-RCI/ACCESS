@@ -1,0 +1,21 @@
+{
+  "software": "intel-oneapi-compilers",
+  "links": [
+    {
+      "type": "software_page",
+      "url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler.html"
+    },
+    {
+      "type": "documentation",
+      "url": "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-cpp-compiler/top.html"
+    },
+    {
+      "type": "tutorial_material",
+      "url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/training.html"
+    },
+    {
+      "type": "training",
+      "url": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/training/dpcpp.html"
+    }
+  ]
+}

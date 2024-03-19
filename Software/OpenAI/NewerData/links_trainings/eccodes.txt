@@ -1,0 +1,19 @@
+{
+  "software": "eccodes",
+  "software_url": "https://confluence.ecmwf.int/display/ECC/ecCodes+Home",
+  "documentation_url": "https://confluence.ecmwf.int/display/ECC/ecCodes+documentation",
+  "training_materials": [
+    {
+      "tutorial_name": "How to use eccodes python interface",
+      "tutorial_url": "https://confluence.ecmwf.int/display/ECC/Python+interface"
+    },
+    {
+      "tutorial_name": "ecCodes tutorials",
+      "tutorial_url": "https://confluence.ecmwf.int/display/ECC/ecCodes+tutorial"
+    },
+    {
+      "tutorial_name": "ecCodes examples",
+      "tutorial_url": "https://confluence.ecmwf.int/display/ECC/Examples"
+    }
+  ]
+}

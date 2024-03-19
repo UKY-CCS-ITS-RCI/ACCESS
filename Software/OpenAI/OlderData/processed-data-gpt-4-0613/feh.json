@@ -1,0 +1,9 @@
+{
+  "softwareName": "feh",
+  "links": {
+    "softwarePage": "https://feh.finalrewind.org/",
+    "documentation": "https://feh.finalrewind.org/feh.1.html",
+    "tutorial1": "https://wiki.archlinux.org/index.php/feh",
+    "tutorial2": "https://www.tecmint.com/feh-a-fast-command-line-image-viewer-for-linux/"
+  }
+}

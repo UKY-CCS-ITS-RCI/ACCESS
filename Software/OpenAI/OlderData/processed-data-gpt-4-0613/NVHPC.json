@@ -1,0 +1,28 @@
+{
+  "software": "NVHPC",
+  "website": "https://developer.nvidia.com/hpc-sdk",
+  "documentation": [
+    {
+      "title": "NVHPC Documentation",
+      "url": "https://docs.nvidia.com/hpc-sdk/"
+    }
+  ],
+  "training_tutorials": [
+    {
+      "title": "NVHPC: Introduction and Overview",
+      "url": "https://devblogs.nvidia.com/nvidia-hpc-sdk-available-free-charge/"
+    },
+    {
+      "title": "Introduction to Performance Tuning with the NVIDIA HPC SDK",
+      "url": "https://developer.nvidia.com/blog/introduction-to-cuda-2021/"
+    },
+    {
+      "title": "Getting Started with the NVIDIA HPC SDK",
+      "url": "https://developer.nvidia.com/hpc-sdk/getting-started"
+    },
+    {
+      "title": "GPU-Accelerated Libraries with NVIDIA HPC SDK",
+      "url": "https://developer.nvidia.com/gpu-accelerated-libraries"
+    }
+  ]
+}

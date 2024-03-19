@@ -1,0 +1,12 @@
+
+{
+  "MUMPS": {
+    "Software Page": "http://mumps.enseeiht.fr/",
+    "Documentation":"http://mumps.enseeiht.fr/index.php?page=dwnld",
+    "Tutorials": [
+      "http://mumps.enseeiht.fr/index.php?page=tutorial1",
+      "http://mumps.enseeiht.fr/index.php?page=tutorial2"
+    ]
+  }
+}
+

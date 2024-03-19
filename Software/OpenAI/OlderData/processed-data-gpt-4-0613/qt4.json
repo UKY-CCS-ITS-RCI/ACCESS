@@ -1,0 +1,15 @@
+{
+  "SoftwareName": "Qt4",
+  "Homepage": "https://www.qt.io/",
+  "Resources": {
+    "Documentation": "https://doc.qt.io/",
+    "Tutorials": [
+      "https://doc.qt.io/qt-4.8/tutorials.html",
+      "https://zetcode.com/gui/qt4/"
+    ],
+    "TrainingMaterial": [
+      "https://www.udemy.com/topic/qt/",
+      "https://www.youtube.com/watch?v=6KtOzh0StTc"
+    ]
+  }
+}

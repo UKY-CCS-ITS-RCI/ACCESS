@@ -1,0 +1,35 @@
+Use Case: ncurses is a programming library providing an API, allowing the programmer to write text-based user interfaces in a terminal-independent manner. It's primarily used for developing GUI-like interfaces on a text based console.
+
+Code details and examples: 
+
+A sample code snippet using ncurses library in C++ can be as shown below:
+
+```C++
+#include <ncurses.h>
+
+int main() {
+    initscr();           // Initialize the window
+    printw("Hello World");  // Print Hello World
+    refresh();           // Print it on to the real screen
+    getch();             // Wait for user input
+    endwin();            // End the window
+
+    return 0;
+}
+```
+
+The file required is a C++ file with .cpp extension, which includes the ncurses library.
+This would just print "Hello World" to the console.
+
+To compile and run this C++ ncurses program:
+
+Compile:
+```bash
+g++ -o hello_world hello_world.cpp -lncurses
+```
+Here, `hello_world.cpp` is the input file.
+
+Run:
+```bash
+./hello_world
+```

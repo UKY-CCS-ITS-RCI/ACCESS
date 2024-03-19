@@ -1,0 +1,13 @@
+{
+  "Name": "r-backports",
+  "Software Page": "https://cran.r-project.org/web/packages/backports/index.html",
+  "Additional Links": {
+    "Documentation": [
+      "https://cran.r-project.org/web/packages/backports/backports.pdf"
+    ],
+    "Training": [],
+    "Tutorial Materials": [
+      "https://www.tutorialspoint.com/r_programming/index.htm"
+    ]
+  }
+}

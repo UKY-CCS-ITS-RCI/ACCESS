@@ -1,0 +1,14 @@
+{
+    "software": {
+        "name": "crispresso2",
+        "information": {
+            "link": "https://github.com/pinellolab/CRISPResso2",
+            "documents": [
+                "https://pinellolab.github.io/CRISPResso2/"
+            ],
+            "tutorials": [
+                "https://edwardslab.bmcb.georgetown.edu/CBG/userguide/pages/crispresso2.html"
+            ]
+        }
+    }
+}

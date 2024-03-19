@@ -1,0 +1,10 @@
+{
+  "softwareName": "Merqury",
+  "softwarePage": "https://github.com/marbl/merqury",
+  "documentation": "https://github.com/marbl/merqury/wiki",
+  "trainingMaterials": {
+    "tutorial1": "https://github.com/marbl/merqury/wiki/Example",
+    "tutorial2": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007981",
+    "tutorial3": "https://genomeinformatics.github.io/merqury/"
+  }
+}

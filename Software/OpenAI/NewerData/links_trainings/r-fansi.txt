@@ -1,0 +1,13 @@
+{
+  "Software Name": "r-fansi",
+  "Software Link": "https://cran.r-project.org/web/packages/fansi/index.html",
+  "Documentation": {
+    "1. R Documentation": "https://www.rdocumentation.org/packages/fansi/versions/0.4.1",
+    "2. R Package Documentation": "https://rdrr.io/cran/fansi/"
+  },
+  "Training and Tutorial Materials": {
+    "1. https://www.youtube.com/watch?v=O2onA4s-EGM",
+    "2. http://rfunction.com/archives/646",
+    "3. https://swcarpentry.github.io/r-novice-inflammation/06-func-R/"
+  }
+}

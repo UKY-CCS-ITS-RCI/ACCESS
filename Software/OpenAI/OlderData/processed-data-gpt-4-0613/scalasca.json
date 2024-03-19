@@ -1,0 +1,18 @@
+{
+    "software": "Scalasca",
+    "resources": {
+        "softwareHomepage": "https://www.scalasca.org/",
+        "documentation": "https://www.scalasca.org/scalasca/2.x/documentation.html",
+        "tutorials": [
+            {
+                "title": "Scalasca tutorials - LRZ",
+                "url": "https://www.lrz.de/services/compute/courses/2014-10-21_scal1w13/"
+            },
+            {
+                "title": "Scalasca 2.0 Tutorial - The Ohio Supercomputer Center",
+                "url": "https://www.osc.edu/research/scalasca/files/ScalascaTutorial/ScalascaTutorial.pdf"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

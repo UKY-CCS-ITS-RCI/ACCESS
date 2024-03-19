@@ -1,0 +1,15 @@
+{
+  "Software": "gfatools",
+  "Link": "https://github.com/lh3/gfatools",
+  "Documentation": "https://github.com/lh3/gfatools#readme",
+  "Tutorials": [
+    {
+      "Title": "GitHub - lh3/gfatools: Tools for manipulating graphical fragment assembly (GFA) format",
+      "Link": "https://github.com/lh3/gfatools"
+    },
+    {
+      "Title": "GitHub - lh3/miniasm",
+      "Link": "https://github.com/lh3/miniasm"
+    }
+  ]
+}

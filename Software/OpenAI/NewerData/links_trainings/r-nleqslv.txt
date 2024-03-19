@@ -1,0 +1,21 @@
+{
+  "software_name": "R-nleqslv",
+  "software_page": "https://cran.r-project.org/web/packages/nleqslv/index.html",
+  "documentation": {
+    "link": "https://cran.r-project.org/web/packages/nleqslv/nleqslv.pdf"
+  },
+  "training_materials": [
+    {
+      "title": "nleqslv in R",
+      "link": "https://rdrr.io/cran/nleqslv/"
+    },
+    {
+      "title": "R package nleqslv examples",
+      "link": "https://stat.ethz.ch/R-manual/R-devel/library/stats/html/nls.html"
+    },
+    {
+      "title": "Community discussion and answers",
+      "link": "https://stackoverflow.com/questions/tagged/nleqslv"
+    }
+  ]
+}

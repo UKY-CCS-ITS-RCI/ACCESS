@@ -1,0 +1,10 @@
+{
+  "easybuild-aces-scratch": {
+    "Software_page": "https://easybuild.readthedocs.io/en/latest/",
+    "Documentation": "https://easybuild.readthedocs.io/en/latest/",
+    "Tutorial_materials": [
+      "https://easybuild.readthedocs.io/en/latest/Tutorial.html",
+      "https://www.youtube.com/watch?v=2aT-T8kTJ-I"
+    ]
+  }
+}

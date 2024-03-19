@@ -1,0 +1,54 @@
+Use Case: Gengetopt is a tool to write command line option parsing code for C programs. It assists in creating a skeleton main.c containing code for parsing and validating command line options, which can then be filled in by the developer. 
+
+Code details and examples: 
+
+Code: 
+ cmd-line.ggo file:
+
+```
+version "1.0"
+package "demonstration"
+
+option "help" h "Display this help and exit" flag off
+option "output" o "Output to this file" string required
+option "verbosity" v "Verbosity level" int default="0"
+option "name" n "Insert a name" string default="Gengetopt"
+option "include" I "Additional include directory" string array
+```
+
+Command to generate C files:
+
+```
+gengetopt < cmd-line.ggo
+```
+
+This will create cmdline.c and cmdline.h, which can be included in your C project.
+
+Then, in your C code:
+
+```
+#include <stdio.h>
+#include "cmdline.h"
+
+int main (int argc, char **argv) {
+  struct gengetopt_args_info args_info;
+
+  if (cmdline_parser (argc, argv, &args_info) != 0)
+    exit(1) ;
+
+  printf ("Provide name is %s\n", args_info.name_arg);
+  printf ("Verbosity level is %d\n", args_info.verbosity_arg);
+
+  for (int i = 0; i < args_info.include_given; ++i)
+    printf ("Include path %d is %s\n", i, args_info.include_arg[i]);
+
+  cmdline_parser_free (&args_info);
+}
+```
+
+To compile and run the program:
+
+```
+gcc main.c cmdline.c -o main
+./main --name "Gengetopt" --verbosity 5
+```

@@ -1,0 +1,23 @@
+{
+  "software": "GROMACS",
+  "link": "http://www.gromacs.org/",
+  "documentation": "http://manual.gromacs.org/documentation/",
+  "training_materials": [
+    {
+      "name": "GROMACS Tutorials - University of Chicago, Justin Lemkul",
+      "link": "http://www.mdtutorials.com/gmx/index.html"
+    },
+    {
+      "name": "GROMACS Tutorial - Harvard School of Engineering",
+      "link": "https://projects.iq.harvard.edu/hms-rc_user_training/gromacs-tutorials"
+    },
+    {
+      "name": "GROMACS Tutorials - Bioinformatics Tutorials",
+      "link": "https://www.bevanlab.biochem.vt.edu/Pages/Personal/justin/gmx-tutorials/"
+    },
+    {
+      "name": "How to use GROMACS YouTube Tutorial - Computational Biochemistry Blog",
+      "link": "https://www.youtube.com/watch?v=zFAcQBBJStI"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "ismapper": {
+    "software_page": "https://github.com/jhawkey/IS_mapper",
+    "documentation": "https://github.com/jhawkey/IS_mapper/blob/master/README.rst",
+    "tutorials_and_training": [
+      {
+        "tutorial1": "https://staphb.github.io/toolkit/typing-tools/ismapper.html",
+        "tutorial2": "https://ismapper.readthedocs.io/en/latest/"
+      }
+    ]
+  }
+}

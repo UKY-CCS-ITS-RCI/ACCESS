@@ -1,0 +1,35 @@
+{
+  "software": {
+    "name": "Anaconda",
+    "url": "https://www.anaconda.com/",
+    "documentation": [
+      {
+        "url": "https://docs.anaconda.com/"
+      }
+    ],
+    "training": [
+      {
+        "url": "https://anaconda.cloud/learning-center",
+        "name": "Anaconda Learning Center"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=YJC6ldI3hWk",
+        "name": "Anaconda Tutorial"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/conda-essentials",
+        "name": "DataCamp Conda Essentials"
+      }
+    ],
+    "tutorials": [
+      {
+        "url": "https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/",
+        "name": "Manage environments"
+      },
+      {
+        "url": "https://docs.anaconda.com/anaconda/navigator/tutorials/manage-packages/",
+        "name": "Manage packages"
+      }
+    ]
+  }
+}

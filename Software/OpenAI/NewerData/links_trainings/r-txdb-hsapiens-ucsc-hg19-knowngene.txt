@@ -1,0 +1,24 @@
+{
+  "software": "r-txdb-hsapiens-ucsc-hg19-knowngene",
+  "softwareUrl": "https://bioconductor.org/packages/release/data/annotation/html/TxDb.Hsapiens.UCSC.hg19.knownGene.html",
+  "documentation": [
+    {
+      "docLink": "https://bioconductor.org/packages/release/bioc/vignettes/GenomicFeatures/inst/doc/GenomicFeatures.html",
+      "title": "Genomic Features User Guide"
+    },
+    {
+      "docLink": "https://www.bioconductor.org/packages/release/bioc/html/TxDb.Hsapiens.UCSC.hg19.knownGene.html",
+      "title": "Bioconductor TxDb.Hsapiens.UCSC.hg19.knownGene"
+    }
+  ],
+  "tutorials": [
+    {
+      "tutorialLink": "https://www.bioconductor.org/packages/devel/bioc/vignettes/GenomicFeatures/inst/doc/GenomicFeatures.pdf",
+      "title": "Generating and using TxDb Objects (PDF)"
+    },
+    {
+      "tutorialLink": "https://www.youtube.com/watch?v=tod5vB1K5_Q",
+      "title": "Genomic Features in R (Youtube)"
+    }
+  ]
+}

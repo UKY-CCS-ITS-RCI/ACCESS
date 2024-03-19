@@ -1,0 +1,16 @@
+{
+    "tk": {
+        "software_page": "https://developer.tcl-lang.org/doc/trunk/embedded/www/tcltk/software/tcltk/index.html",
+        "documentation": "https://www.tcl.tk/doc/",
+        "tutorial_materials": [
+            {
+                "title": "Tcl Tutorials",
+                "link": "https://www.tutorialspoint.com/tcl-tk/index.htm"
+            },
+            {
+                "title": "Tk Tutorials",
+                "link": "https://www.tutorialspoint.com/tk/index.htm"
+            }
+        ]
+    }
+}

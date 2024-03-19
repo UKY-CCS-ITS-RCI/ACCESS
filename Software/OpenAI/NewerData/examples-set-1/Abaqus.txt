@@ -1,0 +1,35 @@
+Use Case: Abaqus is used for finite element analysis and computer-aided engineering. It’s a software suited for general purpose analyses as well as advanced problems, such as those involving nonlinear behavior and large transformations. 
+
+Code Details and Examples:
+
+Code:
+
+Step 1: Create an Input File for Abaqus.
+
+Typically, Abaqus input files follow a.INP filename extension. A simple format of an input file containing two nodes and one element might look like following:
+
+```
+** NODE
+*NODENode number, Degrees of freedom, X coordinate, Y coordinate
+1, 0, 0,
+2, 10, 10
+** ELEMENTS
+*ELEMENT, TYPE=B21, ELSET=BEAM
+1, 1, 2
+```
+
+Step 2: Running Abaqus
+
+To run Abaqus using the created input file, execute the following command in the terminal, where 'inputfile' is replaced with the name of your file:
+
+```
+abaqus job=inputfile
+```
+
+Please do not provide the ".inp" extension when specifying the job name. For example, if your input file is "beam.inp", you should run:
+
+```
+abaqus job=beam
+```
+
+Remember that both these steps need to be followed in the same directory where you have your Abaqus input files. Furthermore, for a detailed usage of Abaqus and its different modules, users are suggested to refer to its software documentation.

@@ -1,0 +1,20 @@
+{
+  "Name": "JsonCpp",
+  "Software_Url": "https://github.com/open-source-parsers/jsoncpp",
+  "Documentation": "https://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html",
+  "Tutorials_Training_Materials": 
+  [
+    {
+      "Name": "JsonCpp Tutorial",
+      "Url": "https://jsoncpp.sourceforge.io/"
+    },
+    {
+      "Name": "StackOverflow",
+      "Url": "https://stackoverflow.com/questions/tagged/jsoncpp"
+    },
+    {
+      "Name": "Github issue tracker",
+      "Url": "https://github.com/open-source-parsers/jsoncpp/issues"
+    }
+  ]
+}

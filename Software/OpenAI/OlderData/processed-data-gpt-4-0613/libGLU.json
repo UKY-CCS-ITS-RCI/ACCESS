@@ -1,0 +1,14 @@
+{
+    "software": "libGLU",
+    "resources": {
+        "softwareHomepage": "https://www.opengl.org/resources/libraries/",
+        "documentation": "https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluLookAt.xml",
+        "tutorials": [
+            {
+                "title": "OpenGL Programming Guide",
+                "url": "https://www.glprogramming.com/red/"
+            }
+        ],
+        "trainingMaterials": []
+    }
+}

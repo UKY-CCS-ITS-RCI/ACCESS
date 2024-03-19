@@ -1,0 +1,29 @@
+{
+  "software": "pytorch-geometric",
+  "web_links": [
+    {
+      "title": "Software Homepage",
+      "url": "https://github.com/rusty1s/pytorch_geometric"
+    },
+    {
+      "title": "Documentation",
+      "url": "https://pytorch-geometric.readthedocs.io/"
+    },
+    {
+      "title": "Introduction to PyTorch Geometric",
+      "url": "https://towardsdatascience.com/understanding-graphs-in-pytorch-geometric-529ec720dba"
+    },
+    {
+      "title": "PyTorch Geometric Tutorial",
+      "url": "https://colab.research.google.com/drive/1h3-vJGRVloF5zStxL5I0rSy4ZUPNsjy8?usp=sharing"
+    },
+    {
+      "title": "PyTorch Geometric - Training a Graph Neural Network",
+      "url": "https://colab.research.google.com/drive/1fLJbFPz0yMCQg81DdCP5I8xMjvEtdZ2U?usp=sharing"
+    },
+    {
+      "title": "PyTorch Geometric (PyG) Tutorial for Graph Neural Networks",
+      "url": "https://www.youtube.com/watch?v=yOgNDYCx5XQ"
+    }
+  ]
+}

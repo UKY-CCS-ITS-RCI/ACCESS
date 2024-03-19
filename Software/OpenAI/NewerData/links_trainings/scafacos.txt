@@ -1,0 +1,13 @@
+{
+  "Software": "Scafacos",
+  "Website": "https://www.scafacos.de",
+  "Links": {
+    "Documentation": "https://www.scafacos.de/dokuwiki/doku.php",
+    "Tutorials": [],
+    "Additional Materials": {
+      "GitHub": "https://github.com/scafacos/scafacos",
+      "Scafacos Paper": "https://www.sciencedirect.com/science/article/pii/S0010465512002651",
+      "WikiPage": "https://en.wikipedia.org/wiki/Scalable_Fast_and_Accurate_Coulomb_Solver"
+    }
+  }
+}

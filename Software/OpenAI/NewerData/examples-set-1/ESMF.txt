@@ -1,0 +1,40 @@
+Use Case: ESMF (Earth System Modeling Framework) is a software with large set of capabilities related to geospatial gridding, more specifically regridding and interpolation of data onto different grids, in addition to many other capabilities related to modeling and managing geospatial data, like:
+
+- Creating Grid objects and arrays on them
+- Creating and manipulating fields
+- Interpolating data from one grid to another (regridding)
+- Reading data from and writing data to various types of file formats
+
+Code details and examples:
+
+Code to create a grid, a field on the grid, and then write this field out to a file:
+
+```python
+# import ESMF library
+import ESMF
+import numpy as np
+
+# Create a global latlon grid with shape (10, 20)
+latlon = ESMF.Grid(np.array([10, 20]))
+
+# create a field on the centers of the grid
+field = ESMF.Field(latlon, "centerfield")
+
+# Initialize the field data to a constant value
+field.data[:] = 42
+
+# create a field_scriber object to write the field data
+fs = ESMF.FieldScriber("output.nc")
+
+# write the field data
+fs.write(field, "centerfield")
+
+# close the field_scriber object
+fs.close()
+```
+
+Command to run this python script (assuming script name is script.py): `python script.py` 
+
+Input file is not necessary in this example as we're creating a field from scratch, and the output file is an ordinary NetCDF file, which will contain a single variable "centerfield", defined on the centers of a lat-lon grid with shape (10, 20), filled with the value 42. 
+
+This is a very basic example of what can be done with ESMF, and many other complex and sophisticated operations can be achieved using this powerful library.

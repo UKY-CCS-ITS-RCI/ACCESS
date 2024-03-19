@@ -1,0 +1,16 @@
+{
+  "gdb": {
+    "softwarePage": "https://www.gnu.org/software/gdb/",
+    "documentation": "https://sourceware.org/gdb/current/onlinedocs/gdb/",
+    "tutorials": [
+      {
+        "name": "A quick guide to GDB",
+        "url": "https://www.cs.cmu.edu/~gilpin/tutorial/"
+      },
+      {
+        "name": "Introduction to GDB",
+        "url": "https://www.tutorialspoint.com/gnu_debugger/index.htm"
+      }
+    ]
+  }
+}

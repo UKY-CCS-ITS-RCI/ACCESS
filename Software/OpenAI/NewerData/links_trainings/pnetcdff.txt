@@ -1,0 +1,10 @@
+{
+"pnetcdff": {
+"software_page": "https://parallel-netcdf.github.io/",
+"documentation": "https://parallel-netcdf.github.io/reading-writing.html",
+"tutorials_and_training": [
+{ "tutorial1": "https://www.youtube.com/watch?v=zm06YedJauM", 
+"tutorial2": "https://www.hpc2n.umu.se/documentation/packages/netcdf"
+]
+}
+}

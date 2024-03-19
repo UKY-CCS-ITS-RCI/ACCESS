@@ -1,0 +1,34 @@
+{
+  "name": "ncbi-datasets",
+  "software_page": "https://www.ncbi.nlm.nih.gov/datasets/",
+  "documentation": [
+    {
+      "title": "NCBI Datasets Documentation",
+      "url": "https://www.ncbi.nlm.nih.gov/datasets/docs/"
+    }
+  ],
+  "tutorials_and_training": [
+    {
+      "title": "NCBI Datasets Tutorial",
+      "url": "https://www.ncbi.nlm.nih.gov/datasets/docs/quickstarts/"
+    },
+    {
+      "title": "Introduction to the NCBI Datasets API",
+      "url": "https://www.ncbi.nlm.nih.gov/datasets/docs/datasets-api-101/"
+    },
+    {
+      "title": "How to Guide for NCBI Datasets - Download Genome",
+      "url": "https://www.ncbi.nlm.nih.gov/datasets/docs/how-to-guide-download-genome"
+    }
+  ],
+  "related_resources": [
+    {
+      "title": "NCBI Datasets GitHub Page",
+      "url": "https://github.com/ncbi/datasets"
+    },
+    {
+      "title": "NCBI Datasets Python Client",
+      "url": "https://github.com/ncbi/datasets/tree/main/client/python"
+    }
+  ]
+}

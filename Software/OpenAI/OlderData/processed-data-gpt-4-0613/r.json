@@ -1,0 +1,28 @@
+{
+  "r": {
+    "software_page": "https://www.r-project.org/",
+    "documentation": "https://cran.r-project.org/manuals.html",
+    "training_materials": [
+      {
+        "name": "DataCamp",
+        "url": "https://www.datacamp.com/courses/free-introduction-to-r"
+      },
+      {
+        "name": "Coursera",
+        "url": "https://www.coursera.org/courses?query=r%20programming"
+      },
+      {
+        "name": "RStudio Education",
+        "url": "https://education.rstudio.com/learn/beginner/"
+      },
+      {
+        "name": "TutorialsPoint",
+        "url": "https://www.tutorialspoint.com/r/index.htm"
+      },
+      {
+        "name": "R for Data Science Book",
+        "url": "https://r4ds.had.co.nz/"
+      }
+    ]
+  }
+}

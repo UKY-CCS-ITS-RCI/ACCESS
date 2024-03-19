@@ -1,0 +1,16 @@
+{
+	"macrel": {
+		"software_site": "https://github.com/BigDataBiology/macrel",
+		"documentation": [
+			{
+				"link": "https://macrel.readthedocs.io/en/latest/"
+			}
+		],
+		"training_materials": [
+			{
+				"tutorial": "https://macrel.readthedocs.io/en/latest/usage.html",
+				"usage_examples": "https://macrel.readthedocs.io/en/latest/examples.html"
+			}
+		]
+	}
+}

@@ -1,0 +1,50 @@
+Use Case: spdlog is a header-only C++ logging library that is fast, straightforward, and feature rich.
+
+Code details and examples:
+
+Code:
+
+```cpp
+#include "spdlog/spdlog.h"
+#include "spdlog/sinks/basic_file_sink.h" 
+
+int main()
+{
+    try
+    {
+        auto console = spdlog::stdout_color_mt("console");
+        auto err_logger = spdlog::stderr_color_mt("stderr");
+        spdlog::get("console")->info("spdlog example - info");
+        spdlog::get("stderr")->error("spdlog example - error");
+
+        std::vector<spdlog::sink_ptr> sinks;
+        sinks.push_back(std::make_shared<spdlog::sinks::stdout_sink_mt>());
+        sinks.push_back(std::make_shared<spdlog::sinks::basic_file_sink_mt>("log.txt", true));
+
+        auto combined_logger = std::make_shared<spdlog::logger>("name", begin(sinks), end(sinks));
+        //register it if you need to access it globally
+        spdlog::register_logger(combined_logger);
+
+        // globally register the logger as the default one
+        spdlog::set_default_logger(combined_logger);
+
+        // set the level globally
+        spdlog::set_level(spdlog::level::info); // Set global log level to info
+    }
+    catch (const spdlog::spdlog_ex &ex)
+    {
+        std::cout << "Log initialization failed: " << ex.what() << std::endl;
+    }
+    return 0;
+}
+```
+
+The above example initializes spdlog's console and file sinks, and hooks them into a logger which logs to both a console and a file.
+
+To compile and run, use the following command :
+
+```cpp
+$ g++ main.cpp -o main -lspdlog && ./main
+```
+
+No input files or formats are required for this use case as the logging messages are programmed directly in the source code file.

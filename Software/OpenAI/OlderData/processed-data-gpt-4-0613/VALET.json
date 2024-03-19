@@ -1,0 +1,12 @@
+{
+  "Software Name": "VALET",
+  "links": {
+    "software page": "https://github.com/jglamine/valet",
+    "documentation": "https://github.com/jglamine/valet/blob/master/README.md",
+    "tutorials": [
+      "https://www.youtube.com/watch?v=e6085Prz-q8",
+      "https://laravel.com/docs/8.x/valet",
+      "https://www.youtube.com/watch?v=M0X1O8aXH64"
+    ]
+  }
+}

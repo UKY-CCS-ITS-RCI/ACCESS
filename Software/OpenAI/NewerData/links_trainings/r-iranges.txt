@@ -1,0 +1,24 @@
+{
+  "softwareName": "r-iranges",
+  "softwarePage": "https://bioconductor.org/packages/release/bioc/html/IRanges.html",
+  "documentation": [
+    {
+      "name": "Reference Manual",
+      "url": "https://bioconductor.org/packages/release/bioc/manuals/IRanges/man/IRanges.pdf"
+    },
+    {
+      "name": "Bioconductor Docs",
+      "url": "https://www.bioconductor.org/help/course-materials/2016/BiocIntro/labs/IRanges.pdf"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "IRanges Tutorial",
+      "url": "https://bioconductor.org/packages/devel/bioc/vignettes/IRanges/inst/doc/IRangesOverview.pdf"
+    },
+    {
+      "name": "Introduction to IRanges",
+      "url": "https://www.bioconductor.org/help/course-materials/2016/BiocIntro/labs/IRanges.pdf"
+    }
+  ]
+}

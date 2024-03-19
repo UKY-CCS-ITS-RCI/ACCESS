@@ -1,0 +1,26 @@
+{
+  "Software": {
+    "Name": "ldhat",
+    "Software_URL": "https://github.com/auton1/LDhat",
+    "Documentation": [
+      {
+        "Title": "LDhat Manual",
+        "URL": "https://github.com/auton1/LDhat/blob/master/Manual.pdf"
+      }
+    ],
+    "Training_Tutorials": [
+      {
+        "Title": "Tutorial-1",
+        "URL": "http://www.stats.ox.ac.uk/~mcvean/LDhat/index.html"
+      },
+      {
+        "Title": "Tutorial-2",
+        "URL": "http://www.cog-genomics.org/software/statgen"
+      },
+      {
+        "Title": "Tutorial-3",
+        "URL": "https://github.com/popgenomics/popgenInfo/tree/master/vignettes/Estimating%20Recombination%20Rates%20using%20LDHat"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "easybuild-faster-tmp": {
+    "SoftwarePage": "https://easybuild.readthedocs.io/en/latest/Installation.html#temporary-directories",
+    "Documentation": "https://easybuild.readthedocs.io/",
+    "Tutorial": {
+      "Tutorial1": "https://easybuildtutorial.readthedocs.io/",
+      "Tutorial2":"https://iscbruges.gitbooks.io/2015-10-27-isc-brugge/"
+    },
+    "TrainingMaterials": {
+      "TrainingMaterial1": "https://github.com/easybuilders/easybuild",
+      "TrainingMaterial2": "https://easybuild.readthedocs.io/en/latest/Implementing-an-easyblock.html",
+      "TrainingMaterial3": "https://www.youtube.com/watch?v=d4RiUy23e9s"
+    }
+  }
+}

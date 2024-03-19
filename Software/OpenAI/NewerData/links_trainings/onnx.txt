@@ -1,0 +1,26 @@
+{
+  "software": "ONNX",
+  "homePage": "https://onnx.ai/",
+  "resources": {
+    "documentation": {
+      "url": "https://onnx.ai/getting-started/",
+      "secondaryUrl": "https://github.com/onnx/tutorials"
+    },
+    "tutorialMaterials": [
+      {
+        "name": "Getting Started with PyTorch and ONNX",
+        "url": "https://pytorch.org/tutorials/advanced/super_resolution_with_onnxruntime.html"
+      },
+      {
+        "name": "ONNX tutorials on GitHub",
+        "url": "https://github.com/onnx/tutorials"
+      }
+    ],
+    "condaPackages": [
+      {
+        "name": "onnx",
+        "url": "https://anaconda.org/conda-forge/onnx"
+      }
+    ]
+  }
+}

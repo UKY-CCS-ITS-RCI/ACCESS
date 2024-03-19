@@ -1,0 +1,15 @@
+{
+  "software": "py-cached-property",
+  "software_url": "https://pypi.org/project/cached-property/",
+  "documentation": "https://cached-property.readthedocs.io/en/stable/",
+  "training_materials": [
+    {
+      "name": "Introduction to Python's @property",
+      "url": "https://www.python-course.eu/python3_properties.php"
+    },
+    {
+      "name": "Python @property Explained with Code Examples",
+      "url": "https://training.talkpython.fm/courses/details/python's-_-property-decorator-explained-with-examples"
+    }
+  ]
+}
