@@ -1,0 +1,97 @@
+Natural Sciences                                    10000
+Mathematics                                         10100
+Pure Mathematics                                    10101
+Applied Mathematics                                 10102
+Statistics and Probability                          10103
+Other Mathematics                                   10199
+Computer and Information Sciences                   10200
+Computer Science                                    10201
+Applied Computer Science                            10202
+Software Engineering, Systems, and Development      10203
+Artificial Intelligence and Intelligent Systems     10204
+Visualization and Human-Computer Systems            10205
+Informatics, Analytics and Information Science      10206
+Other Computer and Information Sciences             10299
+Physical Sciences                                   10300
+Astronomy and Planetary Sciences                    10301
+Condensed Matter Physics                            10302
+Gravitational Physics                               10303
+Atomic, Molecular, and Optical Physics              10304
+Nuclear Physics                                     10305
+Particle and High-Energy Physics                    10306
+Fluid and Plasma Physics                            10307
+Other Physical Sciences                             10399
+Chemical Sciences                                   10400
+Physical Chemistry                                  10401
+Organic Chemistry                                   10402
+Inorganic and Nuclear Chemistry                     10403
+Analytical and Materials Chemistry                  10404
+Other Chemical Sciences                             10499
+Earth and Environmental Sciences                    10500
+Atmospheric Sciences                                10501
+Climate and Global Dynamics                         10502
+Magnetospheric and Upper Atmospheric Physics        10503
+Geophysics and Geochemistry                         10504
+Geology and Solid Earth Sciences                    10505
+Oceanography and Ocean Sciences                     10506
+Hydrology and Water Resources                       10507
+Other Earth and Environmental Sciences              10599
+Biological Sciences                                 10600
+Biophysics                                          10601
+Biochemistry and Molecular Biology                  10602
+Cell Biology                                        10603
+Genetics                                            10604
+Developmental Biology                               10605
+Systematics and Population Biology                  10606
+Ecology                                             10607
+Environmental Biology                               10608
+Behavioral Sciences Biology                         10609
+Other Biological Sciences                           10699
+Other Natural Sciences                              19900
+Engineering and Technology                          20000
+Civil Engineering                                   20100
+Electrical, Electronic, and Information Engineering 20200
+Mechanical Engineering                              20300
+Chemical Engineering                                20400
+Materials Engineering                               20500
+Medical Engineering                                 20600
+Environmental Engineering                           20700
+Environmental Biotechnology                         20800
+Industrial Biotechnology                            20900
+Nanotechnology                                      21000
+Other Engineering and Technologies                  29900
+Medical and Health Sciences                         30000
+Basic Medicine                                      30100
+Clinical Medicine                                   30200
+Health Sciences                                     30300
+Medical Biotechnology                               30400
+Other Medical Sciences                              39900
+Agricultural Sciences                               40000
+Agriculture, Forestry, and Fisheries                40100
+Animal and Dairy Science                            40200
+Veterinary Science                                  40300
+Agriculural Biotechnology                           40400
+Other Agricultural Sciences                         49900
+Social Sciences                                     50000
+Psychology                                          50100
+Economics and Business                              50200
+Educational Sciences                                50300
+Sociology                                           50400
+Law                                                 50500
+Political Science                                   50600
+Social and Economic Geography                       50700
+Media and communications                            50800
+Other social sciences                               59900
+Humanities                                          60000
+History and Archaeology                             60100
+Languages and Literature                            60200
+Philosophy, Ethics, and Religion                    60300
+Arts                                                60400
+Other humanities                                    69900
+Other                                               90000
+Training                                            90100
+Staff Activities (ACCESS or SP)                     90200
+Performance Evaluation and Benchmarking             90300
+Infrastructure and Instrumentation                  90400
+Science and Engineering Education                   90500
+Other                                               99900

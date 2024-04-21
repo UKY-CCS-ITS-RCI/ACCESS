@@ -1,0 +1,2262 @@
+Software                            Resource Provider        
+-----------------------------------------------------------------
+--looponfail                        aces, faster             
+abacas                              anvil                    
+abaqus                              expanse                  
+abinit                              bridges2, faster, expanse
+abismal                             anvil                    
+abpoa                               anvil                    
+abricate                            anvil                    
+abseil                              aces, faster             
+abyss                               anvil, bridges2, faster  
+accessusage                         expanse                  
+actc                                anvil, aces, faster      
+adapterremoval                      anvil, faster            
+adios2                              expanse                  
+adol-c                              expanse                  
+advisor                             kyric, stampede3         
+advntr                              anvil                    
+aesara                              faster                   
+aflow                               faster                   
+afplot                              anvil                    
+afterqc                             anvil                    
+agat                                anvil                    
+agfusion                            anvil                    
+ai                                  bridges2                 
+aiohttp                             aces, faster             
+alfred                              anvil                    
+alien-hunter                        anvil                    
+alignstats                          anvil                    
+aliview                             faster                   
+all                                 ookami                   
+allocations                         bridges2                 
+allpathslg                          anvil                    
+alphafold                           anvil, darwin, aces, faster
+alphapickle                         aces, faster             
+alsa-lib                            faster                   
+amask                               stampede3                
+amber                               anvil, faster, expanse   
+ambertools                          aces, faster             
+amd-rocm                            darwin                   
+amd-uprof                           darwin                   
+amdblis                             anvil, expanse           
+amdfftw                             anvil, expanse           
+amdlibflame                         anvil, expanse           
+amdlibm                             anvil, expanse           
+amdscalapack                        anvil, expanse           
+amduprof                            delta, expanse           
+amos                                faster                   
+amphora2                            faster                   
+amptk                               anvil                    
+anaconda                            anvil, darwin, ookami, jetstream
+anaconda2                           bridges2                 
+anaconda3                           bridges2, aces, faster, expanse
+anaconda3_cpu                       delta                    
+anaconda3_gpu                       delta                    
+anaconda3_mi100                     delta                    
+anaconda3_rcpu                      delta                    
+anaconda3_x86_64                    delta                    
+ananse                              anvil                    
+anchorwave                          anvil                    
+angsd                               anvil, faster            
+annogesic                           anvil                    
+annovar                             anvil                    
+ansys                               bridges2, faster, stampede3
+ant                                 aces, faster, expanse    
+antismash                           anvil                    
+antlr                               aces, faster             
+anvio                               anvil, bridges2          
+any2fasta                           anvil, faster            
+aocc                                anvil, bridges2, aces, faster, delta, expanse, ookami
+aocc compiler                       jetstream                
+aocl                                bridges2, darwin         
+aocl-sparse                         expanse                  
+apptainer                           jetstream                
+apr                                 aces, faster             
+apr-util                            aces, faster             
+arcade-learning-environment         faster                   
+architectures                       ookami                   
+archive-zip                         faster                   
+archspec                            aces, faster             
+arcs                                anvil                    
+aria2                               faster, expanse          
+aria2-1.15.1                        faster                   
+ariba                               anvil                    
+arm                                 ookami                   
+arm-forge                           expanse                  
+arm-gnu-toolchain                   aces                     
+arm-gnu-toolchaint                  aces                     
+armadillo                           aces, faster, delta, expanse
+arpack                              darwin, stampede3        
+arpack-ng                           anvil, aces, faster, expanse
+arrayfire                           expanse                  
+arriba                              bridges2                 
+arrow                               aces, faster             
+arrow-r                             faster                   
+arviz                               faster                   
+ascatngs                            anvil                    
+asciinema                           bridges2                 
+ase                                 aces, faster             
+asgal                               anvil                    
+aspera-connect                      anvil, bridges2          
+assembly-stats                      anvil                    
+assimp                              aces                     
+astropy                             faster                   
+at-spi2-atk                         aces, faster             
+at-spi2-core                        aces, faster             
+atac-seq-pipeline                   anvil                    
+ataqv                               anvil                    
+atk                                 aces, faster             
+atlas                               darwin                   
+atop                                delta                    
+atp                                 delta                    
+atram                               anvil                    
+atropos                             anvil                    
+attrdict3                           aces, faster             
+augur                               anvil                    
+augustus                            anvil, bridges2          
+autoconf                            darwin, kyric, aces, faster
+autoconf-archive                    kyric                    
+autodock-gpu                        faster                   
+autodock-vina                       faster                   
+automake                            kyric, aces, faster      
+autotools                           kyric, aces, faster, stampede3
+aws-cli                             anvil, delta             
+awscli                              faster                   
+axl                                 faster                   
+bactopia                            anvil                    
+bali-phy                            anvil, faster            
+bam-readcount                       anvil                    
+bamgineer                           anvil                    
+bamkit                              faster                   
+bamliquidator                       anvil                    
+bamsurgeon                          anvil                    
+bamtools                            anvil, bridges2, aces, faster, expanse
+bamutil                             anvil                    
+banner                              delta                    
+barrnap                             anvil                    
+basenji                             anvil                    
+bat                                 bridges2                 
+bayescan                            anvil                    
+bazam                               anvil                    
+bazel                               bridges2, aces, faster   
+bbmap                               anvil, bridges2, aces, faster
+bbtools                             anvil                    
+bcftools                            anvil, bridges2, faster, expanse
+bcl2fastq                           anvil                    
+beagle                              anvil                    
+beagle-lib                          faster                   
+beast                               faster                   
+beast1                              expanse                  
+beast2                              anvil, expanse           
+beautifulsoup                       aces, faster             
+bedops                              anvil, bridges2          
+bedtools                            anvil, bridges2, aces, faster
+bedtools2                           expanse                  
+berkeley-db                         kyric, expanse           
+berkeley-upc                        faster                   
+binutils                            darwin, aces, faster     
+bio-db-hts                          faster                   
+bioawk                              anvil, faster            
+biobambam                           anvil                    
+biocontainers                       anvil, stampede3         
+bioconvert                          anvil                    
+bioformats                          bridges2                 
+biom-format                         faster                   
+bioperl                             aces, faster             
+biopython                           anvil, aces, faster      
+bismark                             anvil, bridges2, expanse 
+bison                               aces, faster, ookami     
+blacs                               darwin                   
+blasr                               anvil                    
+blast                               anvil, bridges2, faster, ookami
+blast+                              aces, faster             
+blast-plus                          anvil, expanse           
+blat                                bridges2, expanse        
+blender                             aces, faster             
+blis                                anvil, darwin, aces, faster, ookami
+blobtools                           anvil                    
+blosc2                              aces, faster             
+bmge                                anvil                    
+bohrium                             faster                   
+bokeh                               aces, faster             
+boost                               anvil, bridges2, darwin, kyric, aces, faster, delta, expanse, ookami, stampede3
+boost.mpi                           aces                     
+boost.python                        aces, faster             
+botorch                             faster                   
+bottleneck                          faster                   
+bowtie                              anvil, faster            
+bowtie2                             anvil, bridges2, faster, expanse
+bpp                                 faster                   
+bracken                             anvil                    
+braker2                             anvil                    
+brass                               anvil                    
+breseq                              anvil                    
+brotli                              aces, faster             
+brotli-python                       aces                     
+brunsli                             aces, faster             
+build                               faster                   
+busco                               anvil, bridges2          
+bustools                            anvil                    
+bwa                                 anvil, bridges2, aces, faster, expanse
+bwameth                             anvil                    
+byacc                               expanse                  
+byo                                 ookami                   
+bzip2                               kyric, aces, faster, expanse
+c-ares                              aces, faster             
+cactus                              anvil                    
+cafe                                anvil                    
+cairo                               aces, faster             
+canu                                anvil, faster            
+capstone                            aces, faster             
+captum                              aces                     
+cartopy                             aces, faster             
+catch2                              aces, faster             
+ccache                              aces, faster             
+cce                                 delta                    
+cce-mixed                           delta                    
+ccl                                 kyric                    
+ccs                                 anvil                    
+cd-hit                              anvil, aces, faster      
+cdat                                faster                   
+cdbtools                            anvil                    
+cdo                                 anvil, aces, faster, delta, stampede3
+cdsapi                              aces                     
+cdtools                             stampede3                
+cegma                               anvil                    
+cellbender                          anvil                    
+cellchat                            anvil                    
+cellphonedb                         anvil                    
+cellranger                          anvil                    
+cellranger-arc                      anvil                    
+cellranger-atac                     anvil                    
+cellranger-dna                      anvil                    
+cellrank                            anvil                    
+cellrank-krylov                     anvil                    
+cellsnp-lite                        anvil                    
+celltypist                          anvil                    
+centrifuge                          anvil                    
+cereal                              expanse                  
+cesm                                faster                   
+cesm-deps                           aces, faster             
+cffi                                aces, faster             
+cfitsio                             aces, faster             
+cfsan-snp-pipeline                  anvil                    
+cgal                                aces, faster, expanse    
+cgns                                aces                     
+chameleon                           aces                     
+chapel                              faster, ookami           
+charliecloud                        aces, faster, stampede3  
+charm                               darwin                   
+charmpp                             expanse                  
+check                               aces, faster             
+checkm                              bridges2                 
+checkm-genome                       anvil                    
+chemprop                            aces                     
+chewbbaca                           anvil                    
+chimerax                            aces, faster             
+chopper                             anvil                    
+chromap                             anvil                    
+cicero                              anvil                    
+cimfomfa                            aces                     
+circexplorer2                       anvil                    
+circlator                           anvil                    
+circompara2                         anvil                    
+circos                              anvil, bridges2          
+ciri2                               anvil                    
+ciriquant                           anvil                    
+cistem                              aces, faster             
+ckdmip                              aces                     
+clair3                              anvil                    
+clairvoyante                        anvil                    
+clang                               aces, faster             
+clang-aomp                          faster                   
+clck                                kyric                    
+clearcnv                            anvil                    
+clever-toolkit                      anvil                    
+clhep                               aces, faster             
+climetlab                           aces                     
+clip                                aces                     
+clonalframeml                       anvil                    
+clp                                 faster                   
+clust                               anvil                    
+clustalw                            anvil                    
+clustalw2                           faster                   
+cluster                             ookami                   
+cm                                  ookami                   
+cm-pmix3                            expanse                  
+cmake                               anvil, darwin, kyric, kyric, aces, faster, delta, expanse, ookami, stampede3
+cmd                                 ookami                   
+cmjob                               expanse, ookami          
+cnvkit                              anvil                    
+cnvnator                            anvil, faster            
+cobaya                              faster                   
+code-server                         faster                   
+coinfinder                          anvil                    
+coinutils                           faster                   
+colabfold                           aces, faster             
+colossal-ai                         faster                   
+colossalai                          faster                   
+compiler                            kyric, ookami            
+compiler-rt                         kyric                    
+compiler-rt32                       kyric                    
+compiler32                          kyric                    
+compress-raw-zlib                   faster                   
+comsol                              bridges2                 
+concoct                             anvil                    
+conda-env                           delta                    
+control-freec                       anvil                    
+cooler                              anvil                    
+coordgenlibs                        aces, faster             
+coverm                              anvil                    
+covgen                              anvil                    
+cp2k                                anvil, bridges2, aces, faster, expanse, stampede3
+cpe                                 delta, ookami            
+cpe-cuda                            delta                    
+cppunit                             faster                   
+cppy                                aces, faster             
+cpu                                 expanse                  
+cramino                             anvil                    
+cray                                ookami                   
+cray-ccdb                           delta                    
+cray-cti                            delta                    
+cray-dsmml                          delta                    
+cray-dyninst                        delta                    
+cray-fftw                           delta                    
+cray-hdf5                           delta                    
+cray-libpals                        delta                    
+cray-libsci                         delta                    
+cray-mrnet                          delta                    
+cray-netcdf                         delta                    
+cray-openshmemx                     delta                    
+cray-pals                           delta                    
+cray-pmi                            delta                    
+cray-python                         delta                    
+cray-r                              delta                    
+cray-stat                           delta                    
+craype                              delta                    
+craype-accel-amd-gfx908             delta                    
+craype-accel-amd-gfx90a             delta                    
+craype-accel-amd-gfx940             delta                    
+craype-accel-host                   delta                    
+craype-accel-intel-max              delta                    
+craype-accel-ncsa                   delta                    
+craype-accel-nvidia70               delta                    
+craype-accel-nvidia80               delta                    
+craype-arm-grace                    delta                    
+craype-hugepages128m                delta                    
+craype-hugepages16m                 delta                    
+craype-hugepages1g                  delta                    
+craype-hugepages256m                delta                    
+craype-hugepages2g                  delta                    
+craype-hugepages2m                  delta                    
+craype-hugepages32m                 delta                    
+craype-hugepages4m                  delta                    
+craype-hugepages512m                delta                    
+craype-hugepages64m                 delta                    
+craype-hugepages8m                  delta                    
+craype-network-none                 delta                    
+craype-network-ofi                  delta                    
+craype-network-ucx                  delta                    
+craype-x86-genoa                    delta                    
+craype-x86-milan                    delta                    
+craype-x86-milan-x                  delta                    
+craype-x86-rome                     delta                    
+craype-x86-spr                      delta                    
+craype-x86-spr-hbm                  delta                    
+craype-x86-trento                   delta                    
+craypkg-gen                         delta                    
+crisprcasfinder                     anvil                    
+crispresso2                         anvil                    
+crispritz                           anvil                    
+cross                               ookami                   
+cross_match                         anvil                    
+crossmap                            anvil                    
+cryosparc                           darwin, aces             
+cryptography                        aces, faster             
+cryptsetup                          kyric                    
+csvkit                              anvil                    
+csvtk                               anvil                    
+cubegui                             aces                     
+cubelib                             aces                     
+cubewriter                          aces                     
+cuda                                bridges2, darwin, aces, faster, delta, expanse, ookami, jetstream
+cuda-dcgm                           expanse                  
+cuda-samples                        aces, faster             
+cudacore                            aces, faster             
+cudf                                aces, faster             
+cudnn                               bridges2, darwin, aces, faster, delta, expanse
+cue-login-env                       anvil, delta, expanse    
+cufflinks                           anvil, expanse           
+cunit                               aces, faster             
+cupy                                aces, faster             
+curl                                anvil, kyric, aces, faster, expanse, ookami
+cusparselt                          aces, faster             
+cusz                                faster                   
+cutadapt                            anvil, bridges2, aces, faster
+cutensor                            aces, faster, delta      
+cuttlefish                          anvil                    
+cxxopts                             stampede3                
+cython                              aces, faster             
+cython-blis                         aces                     
+cytoolz                             faster                   
+cyvcf2                              anvil                    
+dace                                faster                   
+dal                                 kyric                    
+dalton                              faster                   
+darshan-runtime                     expanse                  
+darshan-util                        expanse                  
+das_tool                            anvil                    
+dask                                aces, faster             
+datasets                            anvil                    
+db                                  aces, faster             
+db_file                             faster                   
+dbcsr                               aces, faster             
+dbd-mysql                           faster                   
+dbg2olc                             anvil                    
+dbus                                aces, faster             
+dbus-glib                           aces, faster             
+dcmtk                               aces, faster             
+ddt                                 bridges2, stampede3      
+dealii                              bridges2                 
+debreak                             anvil                    
+debugger                            kyric                    
+decona                              faster                   
+deconseq                            anvil                    
+deepbgc                             anvil                    
+deepconsensus                       anvil                    
+deepdiff                            aces                     
+deepsignal2                         anvil                    
+deeptools                           anvil                    
+deepvariant                         anvil                    
+default                             delta, ookami            
+default-environment                 expanse                  
+default-s11                         delta                    
+defaultmodules                      expanse                  
+delly                               anvil                    
+dendropy                            anvil, faster            
+desmond                             bridges2, faster         
+dev-utilities                       kyric                    
+devel                               ookami                   
+devito                              faster                   
+dft-d3                              faster                   
+dftbplus                            expanse                  
+diamond                             anvil, faster, expanse   
+diffutils                           kyric                    
+dill                                aces, faster             
+dimemas                             kyric                    
+dlib                                faster                   
+dm-reverb                           faster                   
+dm-tree                             aces, faster             
+dnaapler                            anvil                    
+dnaio                               anvil                    
+dnnl                                kyric                    
+dnnl-cpu-gomp                       kyric                    
+dnnl-cpu-iomp                       kyric                    
+dnnl-cpu-tbb                        kyric                    
+docker                              expanse                  
+docker-user                         aces                     
+dorado                              bridges2, aces           
+dos2unix                            delta                    
+dot                                 ookami                   
+double-conversion                   aces, faster             
+doxygen                             aces, faster, expanse, ookami
+dpct                                kyric                    
+dpl                                 kyric                    
+draco                               aces, faster             
+dragonflye                          anvil                    
+drep                                anvil                    
+drop-seq                            anvil                    
+dropest                             anvil                    
+dsuite                              anvil                    
+dualsphysics                        faster                   
+easybuild                           kyric, aces, faster      
+easybuild-aces                      aces                     
+easybuild-aces-myeb                 aces                     
+easybuild-aces-scratch              aces                     
+easybuild-aces-tmp                  aces                     
+easybuild-faster                    faster                   
+easybuild-faster-myeb               faster                   
+easybuild-faster-scratch            faster                   
+easybuild-faster-tmp                faster                   
+easysfs                             anvil                    
+ecbuild                             aces, faster             
+eccodes                             aces, faster             
+edlib                               faster                   
+edta                                anvil                    
+eggnog-mapper                       anvil                    
+eigen                               anvil, darwin, aces, faster, expanse, stampede3
+einops                              aces, faster             
+elfutils                            aces, faster             
+elpa                                aces, faster, expanse, ookami
+emacs                               anvil, darwin, aces      
+emboss                              anvil, faster, expanse   
+enchant-2                           aces, faster             
+energyplus                          faster                   
+ensembl-vep                         anvil                    
+entrezdirect                        expanse                  
+epic2                               anvil                    
+esm                                 faster                   
+esmf                                aces, faster, expanse    
+espresso                            ookami                   
+evidencemodeler                     anvil                    
+exabayes                            expanse                  
+exiv2                               aces, faster             
+exo                                 faster                   
+exonerate                           anvil, faster            
+expansionhunter                     anvil                    
+expat                               kyric, aces, faster      
+expecttest                          aces, faster             
+extrae                              kyric                    
+eztrace                             aces                     
+fasta3                              anvil                    
+fastai                              aces                     
+fastani                             anvil, bridges2          
+fastcore                            faster                   
+fastp                               anvil, expanse           
+fastq-scan                          anvil                    
+fastq-tools                         bridges2                 
+fastq_pair                          anvil                    
+fastqc                              anvil, bridges2, aces, faster, expanse
+fastspar                            anvil                    
+faststructure                       anvil                    
+fasttree                            anvil, aces, faster, expanse
+fastx-toolkit                       anvil, bridges2, expanse 
+fastx_toolkit                       anvil                    
+fdasrsf                             faster                   
+femzip-l                            faster                   
+ffmpeg                              anvil, bridges2, aces, faster, expanse, ookami
+ffnvcodec                           aces, faster             
+fftw                                anvil, bridges2, darwin, kyric, aces, faster, delta, expanse
+fftw.mpi                            aces, faster             
+fftw2                               stampede3                
+fftw3                               stampede3                
+fiji                                faster                   
+file                                aces, faster             
+filtlong                            anvil                    
+fiona                               aces, faster             
+firefox                             aces, faster             
+firestarter                         faster                   
+flac                                aces, faster             
+flash                               bridges2, faster         
+flask                               aces, faster             
+flatbuffers                         aces, faster             
+flatbuffers-python                  aces, faster             
+flex                                aces, faster, ookami     
+flexiblas                           aces, faster, delta      
+flit                                aces, faster             
+fltk                                aces, faster             
+flye                                anvil                    
+foldseek                            faster                   
+fontconfig                          aces, faster             
+forge                               ookami                   
+formats                             aces, faster             
+foss                                aces, faster             
+fosscuda                            aces, faster             
+fq                                  anvil                    
+fraggenescan                        anvil                    
+fraggenescanrs                      anvil                    
+freebayes                           anvil, faster            
+freeglut                            aces, faster             
+freeimage                           faster                   
+freeipmi                            ookami                   
+freesurfer                          expanse                  
+freetype                            aces, faster             
+freexl                              aces, faster             
+freyja                              anvil                    
+fribidi                             aces, faster, ookami     
+fsa                                 faster                   
+fseq                                anvil                    
+fsl                                 faster                   
+ftp                                 anvil                    
+fujitsu                             ookami, ookami           
+funannotate                         anvil, bridges2          
+futhark                             faster                   
+fwdpy11                             anvil                    
+g2clib                              aces, faster             
+g2lib                               aces                     
+gadma                               anvil                    
+gambit                              anvil                    
+gamess                              bridges2, expanse        
+gamma                               anvil                    
+gangstr                             anvil                    
+gapfiller                           anvil                    
+gapit                               anvil                    
+garcon                              faster                   
+gatk                                anvil, bridges2, aces, faster, expanse
+gatk4                               anvil                    
+gaussian                            bridges2, darwin, faster, expanse, stampede3
+gaussian09                          expanse                  
+gawk                                kyric, faster            
+gc                                  aces, faster             
+gcatools                            faster                   
+gcc                                 anvil, bridges2, darwin, kyric, aces, faster, delta, expanse, ookami, stampede3
+gcc-native                          delta                    
+gcc-native-mixed                    delta                    
+gcc-nvptx                           expanse                  
+gcc-runtime                         delta                    
+gcccore                             aces, faster             
+gcccuda                             aces, faster             
+gconf                               aces, faster             
+gdal                                anvil, darwin, aces, faster, expanse
+gdb                                 anvil, darwin, aces, faster, expanse, ookami
+gdb4hpc                             delta                    
+gdbm                                kyric, faster            
+gdk-pixbuf                          aces, faster             
+gdrcopy                             aces, faster, delta      
+geant4                              aces                     
+geant4-data                         aces                     
+gemma                               anvil                    
+gemoma                              anvil                    
+genemark                            anvil                    
+genemark-es                         bridges2                 
+genemarks-2                         anvil                    
+generativemodels                    aces                     
+genmap                              anvil                    
+genomedata                          anvil                    
+genomepy                            anvil                    
+genomescope2                        anvil                    
+genomicconsensus                    anvil                    
+genrich                             anvil                    
+gent                                bridges2                 
+geocube                             faster                   
+geomview                            darwin                   
+geopandas                           aces, faster             
+geos                                anvil, darwin, aces, faster, expanse, ookami
+getdist                             faster                   
+gethost                             ookami                   
+getorganelle                        anvil                    
+gettext                             bridges2, kyric, aces, faster
+gfaffix                             anvil                    
+gfastats                            anvil                    
+gfatools                            anvil                    
+gfbf                                aces, faster             
+gffcompare                          anvil                    
+gffread                             anvil                    
+gffutils                            anvil                    
+gh                                  delta, expanse           
+ghostscript                         anvil, aces, faster      
+giflib                              aces, faster             
+gimmemotifs                         anvil                    
+git                                 darwin, kyric, aces, faster, delta, expanse, ookami
+git-lfs                             darwin, aces, faster, delta, expanse
+gitpython                           faster                   
+gklib                               aces, stampede3          
+gl2ps                               aces, faster             
+glew                                aces, faster             
+glfw                                aces, faster             
+glib                                aces, faster             
+glib-networking                     aces, faster             
+glibc                               ookami                   
+glimmer                             anvil                    
+glimmerhmm                          anvil                    
+glm                                 aces, delta              
+glnexus                             anvil                    
+globalarrays                        aces, faster             
+globus-cli                          aces, faster             
+glpk                                darwin, aces, faster, expanse
+gmap                                anvil                    
+gmap-gsnap                          expanse                  
+gmp                                 anvil, darwin, kyric, aces, faster, expanse, ookami
+gmpy2                               aces, faster             
+gmt                                 anvil                    
+gnu                                 ookami                   
+gnu9                                kyric                    
+gnuplot                             anvil, darwin, aces, faster, delta, expanse, ookami
+gnutls                              aces, faster             
+go                                  darwin, kyric, aces, faster, expanse, ookami
+go-bootstrap                        kyric                    
+goatools                            anvil                    
+gobff                               faster                   
+gobject-introspection               aces, faster             
+golang                              darwin                   
+gompi                               aces, faster             
+gompic                              aces, faster             
+googletest                          aces, faster             
+gpaw                                anvil                    
+gperf                               aces, faster, ookami     
+gperftools                          aces, faster, ookami     
+gpflow                              aces, faster             
+gpu                                 expanse, ookami          
+gpustat                             aces, faster             
+gpy                                 faster                   
+gpytorch                            faster                   
+graalvm                             faster                   
+grace                               expanse                  
+gradle                              faster                   
+grads                               anvil                    
+graphblas                           aces                     
+graphene                            aces, faster             
+graphicsmagick                      aces, faster             
+graphite2                           aces, faster             
+graphlan                            anvil                    
+graphmap                            anvil                    
+graphviz                            aces, faster, expanse    
+graphviz-python                     aces                     
+grass                               aces, faster             
+greenlet                            aces                     
+gridss                              anvil                    
+groff                               aces, faster             
+gromacs                             anvil, bridges2, darwin, kyric, aces, faster, delta, expanse, ookami, stampede3
+grpc                                faster                   
+gsd-vmd                             faster                   
+gseapy                              anvil                    
+gsl                                 anvil, darwin, aces, faster, delta, expanse, stampede3
+gslib                               aces, faster             
+gst-plugins-bad                     aces, faster             
+gst-plugins-base                    aces, faster             
+gstreamer                           anvil, aces, faster      
+gtdbtk                              anvil                    
+gthumb                              delta                    
+gtk+                                faster                   
+gtk2                                aces, faster             
+gtk3                                aces, faster             
+gtk4                                aces, faster             
+gts                                 aces, faster             
+gubbins                             anvil                    
+guile                               aces, faster             
+guppy                               anvil, bridges2          
+guppy-gpu                           bridges2                 
+gurobi                              anvil, bridges2, delta   
+gurobi-dev                          delta                    
+gymnasium                           faster                   
+gzip                                aces, faster             
+h5py                                aces, faster             
+hadoop                              anvil, expanse           
+hail                                anvil                    
+hap.py                              anvil                    
+harfbuzz                            aces, faster, ookami     
+hashdeep                            bridges2                 
+hatchling                           aces, faster             
+hdbscan                             faster                   
+hdf                                 anvil, aces, faster, expanse
+hdf-eos                             aces                     
+hdf-eos5                            aces                     
+hdf4                                darwin                   
+hdf5                                anvil, bridges2, darwin, aces, faster, delta, expanse, stampede3
+helen                               anvil                    
+help2man                            aces, faster             
+hh-suite                            aces, faster             
+hic-pro                             anvil                    
+hicexplorer                         anvil                    
+hifiasm                             anvil, faster            
+highway                             aces, faster             
+hipify-clang                        faster                   
+hipsycl                             faster                   
+hiredis                             aces, faster             
+hisat2                              anvil, bridges2, aces, faster, expanse
+hmmer                               anvil, bridges2, aces, faster
+homer                               anvil, bridges2          
+homopolish                          anvil                    
+horovod                             aces, faster             
+hossedu                             faster                   
+how_are_we_stranded_here            anvil                    
+hpc toolkit                         jetstream                
+hpc-x                               aces                     
+hpctoolkit                          anvil                    
+hpcx                                darwin, ookami           
+hpl                                 faster, expanse          
+hprc_utils                          aces                     
+htop                                faster, delta, ookami    
+htseq                               anvil, aces, faster      
+htslib                              anvil, bridges2, aces, faster, expanse
+htstream                            anvil                    
+https                               aces, faster             
+humann                              anvil, aces              
+hunspell                            aces, faster             
+hwloc                               anvil, darwin, kyric, kyric, aces, faster, delta, expanse, ookami
+hyper-shell                         anvil                    
+hyperopt                            aces                     
+hyphen                              faster                   
+hyphy                               anvil                    
+hypo                                anvil                    
+hypothesis                          aces, faster             
+hypre                               aces, faster, expanse, stampede3
+iccifort                            faster                   
+iccifortcuda                        faster                   
+icu                                 aces, faster             
+icu4c                               darwin, kyric            
+idba                                anvil                    
+idev                                stampede3                
+idl                                 darwin, expanse, stampede3
+igenomes/agpv3                      anvil                    
+igenomes/bdgp6                      anvil                    
+igenomes/bostau8                    anvil                    
+igenomes/canfam3                    anvil                    
+igenomes/canfam3.1                  anvil                    
+igenomes/ce10                       anvil                    
+igenomes/chimp2.1.4                 anvil                    
+igenomes/danrer10                   anvil                    
+igenomes/dm6                        anvil                    
+igenomes/eb1                        anvil                    
+igenomes/eb2                        anvil                    
+igenomes/ef2                        anvil                    
+igenomes/equcab2                    anvil                    
+igenomes/galgal4                    anvil                    
+igenomes/gm01                       anvil                    
+igenomes/grch37                     anvil                    
+igenomes/grch38                     anvil                    
+igenomes/grcm38                     anvil                    
+igenomes/grcz10                     anvil                    
+igenomes/hg19                       anvil                    
+igenomes/hg38                       anvil                    
+igenomes/irgsp-1.0                  anvil                    
+igenomes/mm10                       anvil                    
+igenomes/mmul_1                     anvil                    
+igenomes/pantro4                    anvil                    
+igenomes/r64-1-1                    anvil                    
+igenomes/rn6                        anvil                    
+igenomes/rnor_5.0                   anvil                    
+igenomes/rnor_6.0                   anvil                    
+igenomes/saccer3                    anvil                    
+igenomes/sbi1                       anvil                    
+igenomes/sscrofa10.2                anvil                    
+igenomes/susscr3                    anvil                    
+igenomes/tair10                     anvil                    
+igenomes/umd3.1                     anvil                    
+igenomes/wbcel235                   anvil                    
+igprof                              aces, faster             
+igv                                 anvil, faster            
+iimkl                               faster                   
+iimpi                               aces, faster             
+iimpic                              faster                   
+imageio                             aces, faster             
+imagej                              aces, faster             
+imagemagick                         aces, faster, delta, expanse, ookami
+imake                               aces                     
+imath                               aces, faster             
+imb                                 kyric                    
+imbalanced-learn                    aces                     
+imkl                                aces, faster             
+imkl-fftw                           aces, faster             
+iml                                 aces                     
+impi                                anvil, aces, faster, stampede3
+impute2                             anvil                    
+including                           aces, faster             
+infernal                            anvil, bridges2          
+info                                ookami                   
+init_opencl                         kyric                    
+inputproto                          delta                    
+inq                                 faster                   
+inspector                           kyric                    
+instrain                            anvil                    
+intarna                             anvil                    
+intel                               anvil, bridges2, darwin, kyric, aces, faster, delta, expanse, ookami, stampede3
+intel compiler                      jetstream                
+intel-advisor                       bridges2                 
+intel-ccl                           bridges2                 
+intel-compiler                      bridges2                 
+intel-compiler-rt                   bridges2                 
+intel-compiler-rt32                 bridges2                 
+intel-compiler32                    bridges2                 
+intel-compilers                     aces, faster             
+intel-dal                           bridges2                 
+intel-debugger                      bridges2                 
+intel-dev-utilities                 bridges2                 
+intel-dnnl                          bridges2                 
+intel-dnnl-cpu-gomp                 bridges2                 
+intel-dnnl-cpu-iomp                 bridges2                 
+intel-dnnl-cpu-tbb                  bridges2                 
+intel-dpct                          bridges2                 
+intel-dpl                           bridges2                 
+intel-icc                           bridges2                 
+intel-icc32                         bridges2                 
+intel-inspector                     bridges2                 
+intel-ipp-ia32                      bridges2                 
+intel-ipp-intel64                   bridges2                 
+intel-ippcp-ia32                    bridges2                 
+intel-ippcp-intel64                 bridges2                 
+intel-itac                          bridges2                 
+intel-mkl                           anvil, bridges2, darwin, expanse
+intel-mkl32                         bridges2                 
+intel-mpi                           bridges2, expanse        
+intel-oclfpga                       bridges2                 
+intel-oneapi                        bridges2, darwin         
+intel-oneapi-advisor                delta                    
+intel-oneapi-compilers              delta                    
+intel-oneapi-mkl                    darwin, delta            
+intel-oneapi-mpi                    delta                    
+intel-python                        darwin, faster           
+intel-tbb                           bridges2, delta, expanse 
+intel-tbb32                         bridges2                 
+intel-vtune                         bridges2                 
+intel_ai_toolkit                    delta                    
+intel_ipp_ia32                      kyric                    
+intel_ipp_intel64                   kyric                    
+intel_ippcp_ia32                    kyric                    
+intel_ippcp_intel64                 kyric                    
+intelcuda                           faster                   
+intelmpi                            bridges2                 
+intelpython                         aces                     
+interproscan                        anvil, faster            
+intltool                            aces, faster             
+iomkl                               faster                   
+iompi                               faster                   
+ior                                 delta, expanse           
+iperf3                              delta                    
+ipmitool                            ookami                   
+ipython                             aces, faster             
+iq-tree                             expanse                  
+iqtree                              anvil                    
+iqtree2                             anvil                    
+irods-icommands                     bridges2                 
+isa-l                               aces, faster             
+isl                                 aces, faster             
+ismapper                            anvil                    
+isoquant                            anvil                    
+isoseq3                             anvil                    
+itac                                kyric, stampede3         
+itk                                 aces, faster             
+ivar                                anvil                    
+jags                                faster, expanse          
+jansson                             aces, faster             
+jasper                              aces, faster, expanse    
+java                                aces, faster             
+jax                                 aces, faster             
+jbigkit                             aces, faster             
+jcvi                                anvil                    
+jdftx                               faster                   
+jdk                                 darwin                   
+jellyfish                           expanse                  
+jemalloc                            aces, faster             
+jmol                                aces                     
+json-c                              kyric, aces, faster      
+jsoncpp                             aces, faster             
+judy                                faster                   
+julia                               anvil, bridges2, darwin, aces, faster, delta, expanse, ookami
+junit                               faster                   
+jupyter                             anvil, ookami, jetstream 
+jupyter-server                      aces                     
+jupyterhub                          jetstream                
+jupyterlab                          aces, jetstream          
+jupyterlmod                         aces                     
+jupyternotebook                     aces                     
+kahip                               aces, faster             
+kaiju                               anvil                    
+kakscalculator2                     anvil                    
+kalign                              aces, faster             
+kallisto                            anvil, expanse           
+kblas-gpu                           aces                     
+kbproto                             delta                    
+kcachegrind                         darwin                   
+kentutils                           anvil                    
+keras                               aces, faster             
+khmer                               anvil                    
+kim-api                             aces, faster             
+kineto                              aces                     
+kissde                              anvil                    
+kissplice                           anvil                    
+kissplice2refgenome                 anvil                    
+kma                                 anvil                    
+kmc                                 anvil                    
+kmer-jellyfish                      anvil                    
+kmergenie                           anvil                    
+kneaddata                           anvil                    
+knime                               bridges2                 
+knitro                              faster                   
+kokkos                              delta, expanse, ookami, stampede3
+kover                               anvil                    
+kraken                              faster                   
+kraken2                             anvil, bridges2, aces    
+krakentools                         anvil                    
+kyric/containers/r                  kyric                    
+kyric/miniconda3                    kyric                    
+kyric/spack                         kyric                    
+lambda                              anvil                    
+lame                                aces, faster             
+lammps                              anvil, bridges2, darwin, aces, faster, delta, expanse, ookami, stampede3
+lapack                              darwin, ookami           
+lasso-python                        aces                     
+last                                anvil                    
+lastz                               anvil                    
+latest                              ookami                   
+latex                               faster                   
+launcher                            anvil                    
+lazygit                             bridges2                 
+lddt                                faster                   
+ldhat                               anvil                    
+ldjump                              anvil                    
+ldsc                                anvil                    
+learning                            anvil                    
+leptonica                           aces, faster             
+lerc                                aces, faster             
+leveldb                             aces                     
+lhsmdu                              faster                   
+libaec                              aces, faster             
+libaio                              kyric, faster, delta     
+libarchive                          aces, faster             
+libatomic_ops                       aces, faster             
+libbeagle                           expanse                  
+libbsd                              kyric, delta             
+libcap                              ookami                   
+libcdms                             faster                   
+libcerf                             aces, faster             
+libcifpp                            faster                   
+libdap                              aces, faster             
+libdeflate                          aces, faster             
+libdrm                              aces, faster             
+libdrs                              faster                   
+libedit                             kyric                    
+libepoxy                            aces, faster             
+libev                               aces, faster             
+libevent                            kyric, aces, faster      
+libfabric                           anvil, darwin, kyric, aces, faster, delta, ookami
+libffi                              kyric, aces, faster, delta, ookami
+libflame                            anvil, faster            
+libgcrypt                           aces, faster             
+libgd                               aces, faster, ookami     
+libgeotiff                          aces, faster             
+libgit2                             aces, faster             
+libglu                              aces, faster             
+libglvnd                            aces, faster             
+libgpg-error                        kyric, aces, faster      
+libgpuarray                         aces, faster             
+libharu                             faster                   
+libice                              delta                    
+libiconv                            anvil, kyric, aces, faster, expanse
+libidn                              aces, faster             
+libidn2                             kyric, aces, faster      
+libint                              aces, faster             
+libjpeg                             delta                    
+libjpeg-turbo                       aces, faster, expanse    
+libmatheval                         faster, expanse          
+libmd                               delta                    
+libmesh                             anvil                    
+libnotify                           ookami                   
+libnsl                              faster, delta            
+libogg                              aces, faster             
+libopus                             aces, faster             
+libpciaccess                        kyric, aces, faster, expanse
+libpng                              anvil, aces, faster, expanse, ookami
+libpsl                              aces, faster             
+libreadline                         aces, faster             
+librom                              aces, faster             
+librs                               darwin                   
+librsvg                             aces, faster             
+librttopo                           aces, faster             
+libseccomp                          kyric                    
+libsigsegv                          kyric, faster            
+libsm                               delta                    
+libsndfile                          aces, faster, delta      
+libsodium                           aces, faster             
+libsoup                             aces, faster             
+libspatialindex                     aces, faster             
+libspatialite                       aces, faster             
+libssh                              faster                   
+libszip                             anvil                    
+libtasn1                            aces, faster             
+libtiff                             anvil, aces, faster      
+libtirpc                            aces, faster, delta, expanse
+libtool                             kyric, aces, faster      
+libunistring                        kyric, aces, faster, expanse
+libunwind                           aces, faster, expanse, ookami
+libv8                               anvil                    
+libvorbis                           aces, faster             
+libvori                             aces, faster             
+libwebp                             aces, faster             
+libwnck                             faster                   
+libwpe                              aces, faster             
+libx11                              anvil, delta             
+libxau                              delta                    
+libxc                               aces, faster, expanse, ookami
+libxcb                              delta                    
+libxdmcp                            delta                    
+libxfce4ui                          faster                   
+libxfce4util                        faster                   
+libxml2                             anvil, kyric, aces, faster
+libxscrnsaver                       anvil                    
+libxslt                             anvil, aces, faster      
+libxsmm                             aces, faster             
+libxt                               delta                    
+libyaml                             aces, faster             
+libzip                              aces, faster             
+lifelines                           aces                     
+liftoff                             anvil                    
+liftofftools                        anvil                    
+likwid                              kyric, faster, ookami    
+lima                                anvil                    
+linaro                              ookami                   
+links                               anvil                    
+linux                               ookami                   
+lis                                 faster                   
+littlecms                           aces, faster             
+lldb                                ookami                   
+llvm                                darwin, aces, faster, delta, ookami
+lmdb                                aces, faster             
+lmod                                bridges2, bridges2, aces, faster, delta, delta, stampede3
+local                               ookami                   
+lofreq                              anvil                    
+longphase                           anvil                    
+longqc                              anvil                    
+loopy                               faster                   
+lowcharts                           bridges2                 
+lra                                 anvil                    
+lsd2                                faster                   
+ltr_finder                          anvil                    
+ltrpred                             anvil                    
+ltrpred(ict)                        anvil                    
+lua                                 aces, faster, expanse, ookami
+lumpy                               faster                   
+lumpy-sv                            anvil                    
+lustre                              ookami                   
+lvm2                                kyric                    
+lxml                                aces, faster             
+lyveset                             anvil                    
+lz4                                 aces, faster             
+lzip                                darwin                   
+lzma                                delta                    
+lzo                                 faster                   
+m4                                  kyric, aces, faster      
+macrel                              anvil                    
+macs2                               anvil                    
+macs3                               anvil                    
+maeparser                           aces, faster             
+mafft                               anvil, aces, faster, expanse
+mageck                              anvil, faster            
+magicblast                          anvil                    
+magics                              aces                     
+magma                               aces, faster, delta, expanse
+mainmast                            faster                   
+make                                kyric, aces, faster      
+makedepend                          aces, faster             
+makeinfo                            aces, faster             
+maker                               anvil                    
+mako                                aces, faster             
+mamba                               aces, faster             
+manta                               anvil                    
+map                                 stampede3                
+mapcaller                           anvil                    
+mapdamage2                          anvil                    
+marginpolish                        anvil                    
+mariadb                             faster                   
+mash                                anvil                    
+mashmap                             anvil                    
+mashtree                            anvil                    
+masurca                             anvil, faster            
+mathematica                         darwin, faster, stampede3
+matio                               aces                     
+matlab                              anvil, bridges2, darwin, aces, faster, expanse, ookami, stampede3, jetstream
+matlab-engine                       faster                   
+matlab_unlicensed                   delta                    
+matplotlib                          aces, faster             
+maturin                             aces                     
+mauve                               anvil, faster            
+maven                               aces, faster             
+maxbin2                             anvil                    
+maxquant                            anvil                    
+mbuffer                             faster                   
+mc                                  bridges2                 
+mccortex                            faster                   
+mcl                                 anvil, faster            
+mcoutbryk                           faster                   
+mcr                                 darwin                   
+mcscanx                             anvil                    
+mdspan                              stampede3                
+mdtest                              delta                    
+medaka                              anvil, faster            
+meep                                anvil, stampede3         
+megadepth                           anvil                    
+megahit                             anvil, faster            
+megan                               anvil                    
+meme                                anvil                    
+meme-suite                          bridges2                 
+memes                               anvil                    
+memoryviewer                        aces                     
+mentorgraphics                      bridges2                 
+meraculous                          anvil                    
+mercurial                           aces, expanse, ookami    
+merqury                             anvil                    
+meryl                               anvil                    
+mesa                                aces, faster             
+mesa-glu                            anvil                    
+meson                               darwin, aces, faster, expanse
+meson-python                        aces, faster             
+metabat                             anvil                    
+metachip                            anvil                    
+metaphlan                           anvil                    
+metaseq                             anvil                    
+methyldackel                        anvil                    
+methylpy                            bridges2                 
+metilene                            anvil                    
+metis                               aces, faster, delta, expanse, stampede3
+mfem                                aces, faster             
+mhm2                                anvil                    
+microbedmm                          anvil                    
+minialign                           anvil, bridges2          
+miniasm                             anvil                    
+miniconda3                          aces, faster             
+minimap2                            anvil, faster            
+minipolish                          anvil                    
+miniprot                            anvil                    
+minizip                             aces, faster             
+mirdeep2                            anvil, expanse           
+mirtop                              anvil                    
+mitofinder                          anvil                    
+mkl                                 bridges2, kyric, ookami, stampede3
+mkl-service                         faster                   
+mkl32                               kyric                    
+mkmod                               stampede3                
+ml-toolkit-cpu/keras                anvil                    
+ml-toolkit-cpu/nltk                 anvil                    
+ml-toolkit-cpu/onnx                 anvil                    
+ml-toolkit-cpu/opencv               anvil                    
+ml-toolkit-cpu/pytorch              anvil                    
+ml-toolkit-cpu/tensorflow           anvil                    
+mlflow                              bridges2                 
+mlnx                                ookami                   
+mlst                                anvil                    
+mmseqs2                             anvil                    
+mob-suite                           anvil                    
+mob_suite                           anvil                    
+modbam2bed                          anvil                    
+modeltest-ng                        anvil                    
+modtree                             anvil                    
+module                              ookami                   
+modulefiles                         ookami                   
+modules                             ookami                   
+moe                                 faster                   
+mold                                aces, faster             
+molden                              faster, expanse          
+molmod                              faster                   
+momi                                anvil                    
+monai                               aces                     
+monitor                             anvil                    
+moose                               faster                   
+mothur                              anvil, faster            
+motif                               aces                     
+motus                               anvil                    
+mpc                                 anvil, kyric, aces, faster
+mpfr                                anvil, darwin, kyric, aces, faster, expanse, ookami
+mpi                                 kyric, ookami            
+mpi4py                              aces, faster             
+mpich                               kyric, ookami            
+mpip                                expanse                  
+mpl                                 stampede3                
+mrbayes                             anvil, expanse           
+mujoco                              faster                   
+mujoco-py                           faster                   
+multichoose                         faster                   
+multiqc                             anvil, faster            
+mummer                              faster                   
+mummer4                             anvil                    
+mumps                               aces, faster, expanse    
+muparser                            delta                    
+muscle                              anvil, faster            
+musl                                aces                     
+must                                bridges2                 
+mutmap                              anvil                    
+mvapich                             delta, stampede3         
+mvapich-3.0rc_s11                   delta                    
+mvapich2                            anvil, bridges2, kyric, expanse
+mvapich2-gdr                        aces                     
+mykrobe                             anvil                    
+n50                                 anvil                    
+namd                                anvil, bridges2, darwin, aces, faster, delta, expanse, ookami, stampede3
+namd-multicore-cuda                 aces                     
+namd-netlrts-smp-cuda               aces                     
+namd-verbs-smp-cuda                 aces                     
+namd3                               delta                    
+nanofilt                            anvil, faster            
+nanolyse                            anvil                    
+nanoplot                            anvil, bridges2          
+nanopolish                          anvil                    
+nasm                                aces, faster             
+nbo                                 expanse                  
+ncbi-amrfinderplus                  anvil                    
+ncbi-datasets                       anvil                    
+ncbi-genome-download                anvil                    
+ncbi-table2asn                      anvil                    
+ncbi-vdb                            aces, faster             
+nccl                                aces, faster, delta, expanse
+nccl-tests                          faster                   
+ncdu                                bridges2, ookami         
+ncftp                               delta                    
+ncl                                 anvil, aces, expanse     
+nco                                 anvil, aces, faster, expanse, stampede3
+ncurses                             kyric, aces, faster, delta, expanse, ookami
+ncview                              anvil, bridges2, darwin, expanse, stampede3
+ndiff                               delta                    
+nedit                               aces                     
+netcdf                              darwin, aces, faster, ookami, stampede3
+netcdf-c                            anvil, delta, expanse    
+netcdf-c++4                         aces, faster             
+netcdf-combined                     faster                   
+netcdf-cxx                          expanse                  
+netcdf-cxx4                         anvil, darwin, expanse   
+netcdf-fortran                      anvil, darwin, aces, faster, delta, expanse
+netcdf4-python                      aces, faster             
+netlib-lapack                       anvil, delta, expanse    
+netlib-scalapack                    delta, expanse           
+nettle                              aces, faster             
+networkx                            aces, faster             
+neuron                              expanse                  
+neusomatic                          anvil                    
+newick_utils                        faster                   
+nextalign                           anvil                    
+nextclade                           anvil                    
+nextdenovo                          anvil, faster            
+nextflow                            anvil, bridges2, faster  
+nextpolish                          anvil, faster            
+nf-core                             anvil                    
+nghttp2                             aces, faster             
+nghttp3                             aces, faster             
+ngs                                 faster                   
+ngs-bits                            anvil                    
+ngsadmix                            faster                   
+ngsld                               anvil                    
+ngsutils                            anvil                    
+ngtcp2                              aces, faster             
+nibabel                             aces                     
+ninja                               darwin, aces, faster, expanse, ookami
+nlohmann_json                       aces, faster             
+nlopt                               aces, faster             
+nltk                                faster                   
+nmad                                aces                     
+node                                delta                    
+nodejs                              aces, faster             
+nompi                               ookami                   
+nostack                             expanse                  
+nosve                               ookami                   
+notebook                            ookami                   
+nspr                                aces, faster             
+nss                                 aces, faster             
+nsync                               aces, faster             
+ntl                                 darwin                   
+nuitka                              faster                   
+null                                ookami                   
+numactl                             anvil, kyric, aces, faster, expanse
+numba                               aces, faster             
+numexpr                             faster                   
+numpy                               bridges2, aces           
+nv-codec-headers                    faster                   
+nvbio                               faster                   
+nvcomp                              faster                   
+nvhpc                               bridges2, aces, faster, delta, expanse, ookami
+nvhpc_latest                        delta                    
+nvidia                              ookami                   
+nvidia-container-cli                aces, faster             
+nvidia-hpc-sdk                      darwin                   
+nvshmem                             aces, faster             
+nvtop                               aces, faster, delta      
+nwchem                              anvil, bridges2, delta, expanse, stampede3
+obitools3                           faster                   
+oclfpga                             kyric                    
+octave                              anvil, bridges2, faster, expanse, ookami
+odgi                                anvil                    
+ogdf                                faster                   
+ohpc                                kyric                    
+omb                                 kyric                    
+oneapi                              faster, ookami           
+onnx                                aces, faster             
+onnx-runtime                        aces, faster             
+opari2                              aces                     
+open-data-cube-core                 faster                   
+openacc                             ookami                   
+openai-gym                          faster                   
+openbabel                           aces, faster, expanse    
+openblas                            anvil, bridges2, darwin, kyric, aces, faster, delta, expanse, ookami
+opencensus-python                   faster                   
+opencv                              bridges2, darwin, aces, faster, delta
+openexr                             aces, faster             
+openfoam                            anvil, bridges2, aces, faster, expanse, ookami
+openfold                            aces, faster             
+openimageio                         aces                     
+openjdk                             anvil, kyric, delta, expanse
+openjpeg                            aces, faster             
+openldap                            ookami                   
+openmm                              aces, faster             
+openmpi                             anvil, bridges2, darwin, kyric, kyric, aces, faster, delta, expanse, ookami
+openmpi+cuda                        delta                    
+openmpi-5.0_beta                    delta                    
+openmpi4                            kyric                    
+openmx                              faster                   
+openpgm                             aces, faster             
+openpmix                            ookami                   
+openscenegraph                      aces                     
+opensees                            stampede3                
+openssh                             kyric                    
+openssl                             kyric, aces, faster, ookami
+opensubdiv                          aces                     
+opensycl                            ookami                   
+optix                               faster                   
+optuna                              aces, faster             
+orca                                bridges2, faster, expanse
+orthofinder                         anvil                    
+os                                  kyric                    
+osi                                 faster                   
+osu-micro-benchmarks                aces, faster, delta, expanse
+otf2                                aces                     
+p11-kit                             aces, faster             
+p4est                               stampede3                
+p7zip                               expanse                  
+padicotm                            aces                     
+paml                                anvil, faster            
+panacota                            anvil                    
+panaroo                             anvil                    
+pandas                              faster                   
+pandaseq                            anvil                    
+pandora                             anvil                    
+pango                               aces, faster             
+pangolin                            anvil                    
+pangraph                            anvil                    
+panphlan                            anvil                    
+papi                                anvil, darwin, kyric, aces, faster, delta, expanse, ookami, stampede3
+parabricks                          anvil, aces, faster      
+parafly                             anvil                    
+parafold                            aces                     
+parallel                            anvil, faster, delta, expanse, ookami
+parallel-fastq-dump                 anvil                    
+parallel-netcdf                     anvil, bridges2, delta, expanse, stampede3
+parallelfold                        faster                   
+parasail                            faster                   
+paraview                            anvil, darwin, aces, faster, delta, expanse
+parliament2                         anvil                    
+parmetis                            aces, faster, delta, expanse, stampede3
+parpack                             stampede3                
+parsnp                              anvil                    
+pasapipeline                        anvil                    
+pasta                               anvil                    
+patchelf                            aces, faster, ookami     
+pax                                 ookami                   
+pblat                               anvil                    
+pbmm2                               anvil                    
+pbptyper                            anvil                    
+pcangsd                             anvil, faster            
+pciutils                            expanse                  
+pcre                                aces, faster             
+pcre2                               kyric, aces, faster, stampede3
+pdal                                aces, faster             
+pdt                                 darwin, aces             
+pdtoolkit                           kyric                    
+peakranger                          anvil                    
+pepper_deepvariant                  anvil                    
+perftools                           delta                    
+perftools-base                      delta                    
+perftools-lite                      delta                    
+perftools-lite-events               delta                    
+perftools-lite-gpu                  delta                    
+perftools-lite-hbm                  delta                    
+perftools-lite-loops                delta                    
+perftools-preload                   delta                    
+perl                                kyric, aces, faster, expanse
+perl-bioperl                        anvil, expanse           
+perl-bundle-cpan                    aces, faster             
+perl-bundle1-cpan                   aces, faster             
+perl-bundle2-cpan                   aces                     
+petsc                               anvil, aces, faster, delta, expanse, ookami, stampede3
+pftoolsv3                           faster                   
+pggb                                anvil                    
+pgi                                 darwin, expanse          
+phast                               anvil                    
+phd2fasta                           anvil                    
+phdf5                               bridges2, stampede3      
+phg                                 anvil                    
+phipack                             anvil                    
+php                                 faster                   
+phrap                               anvil                    
+phred                               anvil                    
+phylip-suite                        bridges2                 
+phylofisher                         anvil                    
+phylosuite                          anvil                    
+phyml                               faster                   
+physics-tenpy                       aces, faster             
+picard                              anvil, bridges2, faster, expanse
+picrust2                            anvil                    
+pigz                                aces, faster, expanse    
+pillow                              aces, faster             
+pillow-simd                         aces, faster             
+pilon                               anvil, bridges2, faster  
+pindel                              anvil                    
+pioman                              aces                     
+pirate                              anvil                    
+piscem                              anvil                    
+pixman                              aces, faster             
+pixy                                anvil                    
+pkg-config                          aces, faster             
+pkgconf                             kyric, aces, faster      
+pkgconfig                           aces, faster             
+plasmidfinder                       anvil                    
+platon                              anvil                    
+platypus                            anvil, faster            
+plink                               anvil, faster, expanse   
+plink2                              anvil                    
+plotly.py                           aces, faster             
+plotsr                              anvil                    
+plumed                              bridges2, aces, faster, expanse
+ply                                 faster                   
+pmi                                 faster                   
+pmix                                darwin, kyric, aces, faster
+pnetcdf                             darwin, aces, faster, stampede3
+pocl                                aces, faster             
+poetry                              aces, faster             
+pomoxis                             anvil                    
+poppler                             aces, faster             
+poppunk                             anvil                    
+popscle                             anvil                    
+popt                                kyric, faster            
+porechop                            bridges2                 
+posix2ime                           delta                    
+postgresql                          aces, faster             
+pov-ray                             aces, faster             
+pplacer                             anvil                    
+prank                               aces, faster             
+pre                                 ookami                   
+prgenv-cray                         delta                    
+prgenv-gnu                          delta                    
+prgenv-nvhpc                        delta                    
+prgenv-nvidia                       delta                    
+prinseq                             anvil                    
+probtorch                           faster                   
+prodigal                            anvil, bridges2          
+proj                                anvil, darwin, aces, faster, delta, ookami
+prokka                              anvil, bridges2          
+proteinortho                        anvil                    
+prothint                            anvil                    
+protobuf                            anvil, aces, faster      
+protobuf-python                     aces, faster             
+prrte                               aces                     
+prun                                kyric                    
+psc.allocations.user                bridges2                 
+pscom                               faster                   
+psycopg2                            aces, faster             
+ptex                                aces                     
+pugixml                             aces, faster             
+puk                                 aces                     
+pukabi                              aces                     
+pullseq                             anvil                    
+purge_dups                          anvil                    
+pv                                  faster                   
+pvactools                           anvil                    
+pwanalyzer                          ookami                   
+py-ase                              expanse                  
+py-cached-property                  expanse                  
+py-cftime                           expanse                  
+py-cpuinfo                          aces                     
+py-cutadapt                         expanse                  
+py-cycler                           expanse                  
+py-cython                           kyric, expanse           
+py-dask                             expanse                  
+py-dendropy                         expanse                  
+py-et-xmlfile                       expanse                  
+py-gsd                              expanse                  
+py-h5py                             expanse                  
+py-htseq                            expanse                  
+py-jdcal                            expanse                  
+py-jupyter-core                     expanse                  
+py-jupyterlab                       expanse                  
+py-kiwisolver                       expanse                  
+py-matplotlib                       expanse                  
+py-mpi4py                           anvil, expanse           
+py-netcdf4                          expanse                  
+py-numba                            expanse                  
+py-numexpr                          expanse                  
+py-numpy                            expanse                  
+py-openpyxl                         expanse                  
+py-pandas                           expanse                  
+py-petsc4py                         expanse                  
+py-phonopy                          expanse                  
+py-pillow-simd                      expanse                  
+py-pip                              expanse                  
+py-pybind11                         expanse                  
+py-pycuda                           expanse                  
+py-pyparsing                        expanse                  
+py-pysam                            expanse                  
+py-pyscf                            expanse                  
+py-python-dateutil                  expanse                  
+py-pytz                             expanse                  
+py-pyyaml                           expanse                  
+py-scikit-learn                     expanse                  
+py-scikit-optimize                  expanse                  
+py-scipy                            expanse                  
+py-seaborn                          expanse                  
+py-setuptools                       kyric, expanse           
+py-setuptools-scm                   expanse                  
+py-six                              expanse                  
+py-slepc4py                         expanse                  
+py-statsmodels                      expanse                  
+py-sympy                            expanse                  
+py-tables                           expanse                  
+py-virtualenv                       expanse                  
+py-xlrd                             expanse                  
+py3dmol                             aces                     
+pyani                               anvil                    
+pybedtools                          anvil                    
+pybigwig                            anvil, faster            
+pybind11                            aces, faster             
+pycairo                             aces, faster             
+pycharm                             faster                   
+pychopper                           anvil                    
+pycoqc                              anvil                    
+pycuda                              aces, faster             
+pydantic                            aces, faster             
+pydicom                             aces                     
+pyensembl                           anvil                    
+pyfaidx                             anvil, faster            
+pyfr                                aces                     
+pygenometracks                      anvil                    
+pygenomeviz                         anvil                    
+pygobject                           aces, faster             
+pylauncher                          stampede3                
+pymc3                               faster                   
+pyomo                               faster                   
+pyopencl                            faster                   
+pyopengl                            aces, faster             
+pyproj                              aces, faster             
+pypy                                faster, ookami           
+pyqt5                               aces, faster             
+pyranges                            anvil                    
+pyro-api                            faster                   
+pyro-ppl                            faster                   
+pysam                               anvil, aces, faster      
+pyspoa                              faster                   
+pystan                              faster                   
+pytensor                            aces                     
+pytesseract                         aces                     
+pytest                              aces, faster             
+pytest-flakefinder                  aces, faster             
+pytest-rerunfailures                aces, faster             
+pytest-shard                        aces, faster             
+pytest-xdist                        aces, faster             
+pythia                              aces                     
+python                              anvil, bridges2, darwin, kyric, kyric, aces, faster, delta, expanse, ookami, stampede3
+python-bundle-pypi                  aces, faster             
+python-isal                         aces, faster             
+python-parasail                     faster                   
+python_cacher                       stampede3                
+pytorch                             aces, faster, ookami     
+pytorch-geometric                   aces, faster             
+pytorch-lightning                   aces, faster             
+pytorch3d                           faster                   
+pyvcf3                              anvil                    
+pyyaml                              aces, faster             
+pyzmq                               aces                     
+qca                                 aces, faster             
+qcat                                faster                   
+qchem                               faster, expanse, stampede3
+qd                                  ookami                   
+qe                                  stampede3                
+qemu                                anvil                    
+qgis                                aces, faster             
+qhull                               aces, faster, expanse    
+qiime2                              anvil, aces, faster      
+qjson                               aces                     
+qrupdate                            faster, expanse          
+qscintilla                          aces, faster             
+qt                                  anvil, expanse           
+qt5                                 aces, faster             
+qt5webkit                           aces, faster             
+qtkeychain                          aces, faster             
+qtlseq                              anvil                    
+qualimap                            anvil                    
+quantum                             ookami                   
+quantum-espresso                    anvil, expanse           
+quantum_espresso                    anvil                    
+quantumespresso                     bridges2, aces, faster, ookami
+quast                               anvil                    
+quickmirseq                         anvil                    
+qwt                                 aces, faster             
+r                                   anvil, darwin, kyric, aces, faster, delta, expanse, ookami, jetstream
+r-acepack                           expanse                  
+r-affy                              expanse                  
+r-affyio                            expanse                  
+r-annotate                          expanse                  
+r-annotationdbi                     expanse                  
+r-askpass                           expanse                  
+r-assertthat                        expanse                  
+r-backports                         expanse                  
+r-base64                            expanse                  
+r-base64enc                         expanse                  
+r-beanplot                          expanse                  
+r-bh                                expanse                  
+r-bibtex                            expanse                  
+r-biobase                           expanse                  
+r-bioc                              darwin                   
+r-biocgenerics                      expanse                  
+r-biocmanager                       expanse                  
+r-biocparallel                      expanse                  
+r-biomart                           expanse                  
+r-biostrings                        expanse                  
+r-bit                               expanse                  
+r-bit64                             expanse                  
+r-bitops                            expanse                  
+r-blob                              expanse                  
+r-bumphunter                        expanse                  
+r-bundle-bioconductor               faster                   
+r-cellchat                          anvil                    
+r-checkmate                         expanse                  
+r-cli                               expanse                  
+r-clipr                             expanse                  
+r-cluster                           expanse                  
+r-codetools                         expanse                  
+r-colorspace                        expanse                  
+r-cran                              darwin                   
+r-crayon                            expanse                  
+r-curl                              expanse                  
+r-data-table                        expanse                  
+r-dbi                               expanse                  
+r-delayedarray                      expanse                  
+r-delayedmatrixstats                expanse                  
+r-deseq2                            expanse                  
+r-digest                            expanse                  
+r-doparallel                        expanse                  
+r-dorng                             expanse                  
+r-dplyr                             expanse                  
+r-ellipsis                          expanse                  
+r-evaluate                          expanse                  
+r-fansi                             expanse                  
+r-fdb-infiniummethylation-hg19      expanse                  
+r-foreach                           expanse                  
+r-foreign                           expanse                  
+r-formatr                           expanse                  
+r-formula                           expanse                  
+r-futile-logger                     expanse                  
+r-futile-options                    expanse                  
+r-genefilter                        expanse                  
+r-geneplotter                       expanse                  
+r-genomeinfodb                      expanse                  
+r-genomeinfodbdata                  expanse                  
+r-genomicalignments                 expanse                  
+r-genomicfeatures                   expanse                  
+r-genomicranges                     expanse                  
+r-geoquery                          expanse                  
+r-ggplot2                           expanse                  
+r-glue                              expanse                  
+r-gridbase                          expanse                  
+r-gridextra                         expanse                  
+r-gtable                            expanse                  
+r-hdf5array                         expanse                  
+r-highr                             expanse                  
+r-hmisc                             expanse                  
+r-hms                               expanse                  
+r-htmltable                         expanse                  
+r-htmltools                         expanse                  
+r-htmlwidgets                       expanse                  
+r-httpuv                            expanse                  
+r-httr                              expanse                  
+r-illuminaio                        expanse                  
+r-iranges                           expanse                  
+r-iterators                         expanse                  
+r-jpeg                              expanse                  
+r-jsonlite                          expanse                  
+r-kernsmooth                        expanse                  
+r-knitr                             expanse                  
+r-labeling                          expanse                  
+r-lambda-r                          expanse                  
+r-later                             expanse                  
+r-lattice                           expanse                  
+r-latticeextra                      expanse                  
+r-lazyeval                          expanse                  
+r-limma                             expanse                  
+r-locfit                            expanse                  
+r-lumi                              expanse                  
+r-magrittr                          expanse                  
+r-maptools                          expanse                  
+r-markdown                          expanse                  
+r-mass                              expanse                  
+r-matrix                            expanse                  
+r-matrixstats                       expanse                  
+r-mclust                            expanse                  
+r-memoise                           expanse                  
+r-methylumi                         expanse                  
+r-mgcv                              expanse                  
+r-mime                              expanse                  
+r-minfi                             expanse                  
+r-misc3d                            expanse                  
+r-multtest                          expanse                  
+r-munsell                           expanse                  
+r-nleqslv                           expanse                  
+r-nlme                              expanse                  
+r-nmf                               expanse                  
+r-nnet                              expanse                  
+r-nor1mix                           expanse                  
+r-openssl                           expanse                  
+r-org-hs-eg-db                      expanse                  
+r-pillar                            expanse                  
+r-pkgconfig                         expanse                  
+r-pkgmaker                          expanse                  
+r-plogr                             expanse                  
+r-plyr                              expanse                  
+r-png                               expanse                  
+r-preprocesscore                    expanse                  
+r-prettyunits                       expanse                  
+r-progress                          expanse                  
+r-promises                          expanse                  
+r-purrr                             expanse                  
+r-quadprog                          expanse                  
+r-r6                                expanse                  
+r-rcolorbrewer                      expanse                  
+r-rcpp                              expanse                  
+r-rcpparmadillo                     expanse                  
+r-rcurl                             expanse                  
+r-readr                             expanse                  
+r-registry                          expanse                  
+r-reshape                           expanse                  
+r-reshape2                          expanse                  
+r-rhdf5                             expanse                  
+r-rhdf5lib                          expanse                  
+r-rhtslib                           expanse                  
+r-rlang                             expanse                  
+r-rnaseq                            anvil                    
+r-rngtools                          expanse                  
+r-rpart                             expanse                  
+r-rsamtools                         expanse                  
+r-rsqlite                           expanse                  
+r-rstudio                           anvil                    
+r-rstudioapi                        expanse                  
+r-rtracklayer                       expanse                  
+r-s4vectors                         expanse                  
+r-scales                            expanse                  
+r-scrime                            expanse                  
+r-scrnaseq                          anvil                    
+r-shiny                             expanse                  
+r-siggenes                          expanse                  
+r-snow                              expanse                  
+r-sourcetools                       expanse                  
+r-sp                                expanse                  
+r-stringi                           expanse                  
+r-stringr                           expanse                  
+r-studio                            jetstream                
+r-studio-server                     darwin                   
+r-summarizedexperiment              expanse                  
+r-survival                          expanse                  
+r-sys                               expanse                  
+r-tibble                            expanse                  
+r-tidyr                             expanse                  
+r-tidyselect                        expanse                  
+r-txdb-hsapiens-ucsc-hg19-knowngene expanse                  
+r-utf8                              expanse                  
+r-vctrs                             expanse                  
+r-viridis                           expanse                  
+r-viridislite                       expanse                  
+r-withr                             expanse                  
+r-xfun                              expanse                  
+r-xml                               expanse                  
+r-xml2                              expanse                  
+r-xtable                            expanse                  
+r-xvector                           expanse                  
+r-yaml                              expanse                  
+r-zeallot                           expanse                  
+r-zlibbioc                          expanse                  
+r_flexiblas                         delta                    
+r_tamu                              aces, faster             
+racon                               anvil, faster            
+ragel                               faster                   
+ragout                              anvil                    
+ragtag                              anvil                    
+randfold                            expanse                  
+rapidjson                           aces, faster             
+rapids                              aces                     
+rapmap                              anvil                    
+rasterio                            faster                   
+rasusa                              anvil                    
+raven-assembler                     anvil                    
+raxml                               anvil, bridges2, faster, expanse
+raxml-ng                            anvil, faster, expanse   
+ray-project                         aces, faster             
+rclone                              bridges2, darwin, faster, expanse, ookami
+rdflib                              aces, faster             
+rdkit                               aces                     
+re2                                 aces, faster             
+re2c                                aces, faster             
+readline                            kyric, delta, expanse, ookami
+reapr                               anvil                    
+rebaler                             anvil                    
+reciprocal_smallest_distance        anvil                    
+recycler                            anvil                    
+redis                               aces, faster             
+redis-py                            aces, faster             
+reframe                             aces                     
+regtools                            anvil                    
+relion                              expanse                  
+remora                              stampede3                
+repeatmasker                        anvil                    
+repeatmodeler                       anvil                    
+repeatscout                         anvil                    
+resfinder                           anvil                    
+revbayes                            anvil, faster            
+rich                                bridges2                 
+rioxarray                           faster                   
+rising                              aces                     
+rlwrap                              faster                   
+rmats                               anvil                    
+rmats2sashimiplot                   anvil                    
+rnaindel                            anvil                    
+rnalysis                            faster                   
+rnapeg                              anvil                    
+rnaquast                            anvil                    
+rnaview                             bridges2                 
+roary                               anvil, faster            
+rocm-cmake                          faster                   
+rocm-compilersupport                faster                   
+rocm-smi                            faster                   
+rocr-runtime                        faster                   
+roct-thunk-interface                faster                   
+root                                aces, faster             
+rsem                                anvil, faster            
+rseqc                               anvil                    
+rstudio                             anvil, expanse, ookami   
+ruamel.yaml                         faster                   
+ruby                                aces, faster             
+run_dbcan                           anvil                    
+rush                                anvil                    
+rust                                darwin, aces, faster, delta, ookami
+sage                                anvil                    
+salmon                              anvil, faster, expanse   
+sambamba                            anvil, faster            
+samblaster                          anvil, faster, expanse   
+samclip                             anvil                    
+samplot                             anvil                    
+samtools                            anvil, bridges2, aces, faster, expanse
+sanitizers4hpc                      delta                    
+sanitytool                          stampede3                
+scafacos                            aces, faster             
+scalapack                           bridges2, darwin, aces, faster, ookami
+scalasca                            kyric, aces, ookami      
+scanpy                              anvil                    
+scarches                            anvil                    
+scgen                               anvil                    
+schrodinger                         faster                   
+scikit-bio                          faster                   
+scikit-build                        aces, faster             
+scikit-cuda                         aces                     
+scikit-fda                          faster                   
+scikit-image                        aces, faster             
+scikit-learn                        aces, faster             
+scipy                               faster                   
+scipy-bundle                        aces, faster             
+scipy_tamu                          faster                   
+scirpy                              anvil                    
+scnic                               faster                   
+scons                               darwin, aces, faster     
+score-p                             aces                     
+scorep                              kyric                    
+scotch                              aces, faster, expanse    
+scvelo                              anvil                    
+scvi-tools                          anvil                    
+sdl                                 aces, faster             
+sdl2                                aces, faster             
+sdsc                                expanse                  
+seaborn                             faster                   
+seaview                             faster                   
+segalign                            anvil                    
+segmentation-models                 faster                   
+seidr                               anvil                    
+sentencepiece                       aces                     
+sepp                                anvil, faster            
+seqcode                             anvil                    
+seqkit                              anvil                    
+seqyclean                           anvil                    
+serf                                aces, faster             
+settarg                             bridges2, aces, faster, delta, stampede3
+setuptools                          aces                     
+setuptools-rust                     aces, faster             
+shadow                              kyric                    
+shap                                aces                     
+shapeit4                            anvil                    
+shapeit5                            anvil                    
+shapely                             aces, faster             
+shared                              expanse, ookami          
+shasta                              anvil                    
+shigeifinder                        anvil                    
+shorah                              anvil                    
+shortstack                          anvil                    
+shovill                             anvil                    
+sicer                               anvil                    
+sicer2                              anvil                    
+siesta                              expanse, ookami          
+signalp4                            anvil                    
+signalp6                            anvil                    
+simug                               anvil                    
+singlem                             anvil                    
+singularity                         darwin, kyric, ookami, jetstream
+singularitypro                      expanse                  
+sionlib                             kyric, aces              
+sip                                 faster                   
+ska                                 anvil                    
+skewer                              anvil                    
+sklearn                             ookami                   
+slamdunk                            anvil                    
+slepc                               aces, faster, expanse    
+slurm                               expanse, ookami          
+slurm-env                           delta                    
+smoove                              anvil                    
+smrt-link                           faster                   
+snakemake                           anvil, faster            
+snap                                anvil                    
+snap-aligner                        anvil                    
+snappy                              aces, faster             
+snaptools                           anvil                    
+snippy                              anvil                    
+snp-dists                           anvil                    
+snp-sites                           anvil                    
+snpeff                              anvil                    
+snpgenie                            anvil                    
+snphylo                             anvil                    
+snpsift                             anvil                    
+soapdenovo2                         anvil, expanse           
+sortmerna                           anvil                    
+souporcell                          anvil                    
+sourmash                            anvil                    
+spaceranger                         anvil                    
+spack                               faster, ookami           
+spacy                               aces                     
+spades                              anvil, bridges2, aces, faster, expanse
+spark                               anvil, bridges2, faster, expanse
+sparsehash                          faster                   
+spdlog                              ookami                   
+speedseq                            faster                   
+spglib                              aces, faster             
+spglib-python                       aces, faster             
+spice-server                        anvil                    
+spoa                                faster                   
+sprng                               expanse                  
+sprod                               anvil                    
+spython                             aces, faster             
+sqlite                              kyric, aces, faster, delta, expanse
+squashfs                            kyric                    
+squashfs-tools                      darwin                   
+squeezemeta                         anvil                    
+squid                               anvil                    
+sra-toolkit                         bridges2, aces, faster   
+sra-tools                           anvil                    
+sratoolkit                          anvil, expanse           
+srst2                               anvil                    
+stacks                              anvil, faster, expanse   
+star                                anvil, bridges2, aces, faster, expanse
+star-fusion                         bridges2                 
+staramr                             anvil                    
+starfusion                          anvil                    
+starpu                              aces                     
+stata                               darwin                   
+statsmodels                         aces, faster             
+strace                              faster                   
+stream                              anvil                    
+stringdecomposer                    anvil                    
+stringtie                           anvil, expanse           
+strique                             anvil                    
+structure                           anvil, faster            
+strumpack                           faster                   
+subread                             anvil                    
+subversion                          aces, faster, delta, expanse
+suite-sparse                        expanse                  
+suitesparse                         aces, faster             
+sundials                            aces, faster             
+superlu                             expanse                  
+superlu-dist                        expanse                  
+superlu_dist                        aces, faster             
+survivor                            anvil                    
+svaba                               anvil                    
+sve                                 ookami                   
+svtools                             anvil                    
+svtyper                             anvil, faster            
+swat                                anvil                    
+swig                                anvil, aces, faster, stampede3
+sympy                               aces, faster             
+synthcity                           aces                     
+syri                                anvil                    
+sz                                  faster                   
+sz3                                 faster                   
+szip                                darwin, aces, faster     
+t-coffee                            anvil                    
+tabix                               expanse                  
+tacc                                stampede3                
+tacc-apptainer                      stampede3                
+taichi                              faster                   
+talon                               anvil                    
+tar                                 kyric                    
+targetp                             anvil                    
+tassel                              anvil                    
+tau                                 darwin, kyric, expanse, ookami
+taxonkit                            anvil                    
+tbb                                 kyric, aces, faster, ookami
+tbb32                               kyric                    
+tcl                                 anvil, aces, faster, delta, expanse
+tclap                               faster                   
+tcltk                               darwin                   
+tcsh                                aces, faster             
+template                            ookami                   
+tensorboard                         aces, faster             
+tensorboardx                        aces, faster             
+tensorflow                          darwin, aces, faster     
+tensorflow-probability              aces, faster             
+tensorrt                            aces, faster             
+tesseract                           aces                     
+test                                ookami                   
+tetranscripts                       anvil                    
+texlive                             anvil, darwin, aces, ookami
+tfold                               darwin                   
+theano                              aces, faster             
+thermo-calc                         faster                   
+tiara                               anvil                    
+tiff                                aces, faster             
+tiger                               bridges2                 
+tigmint                             anvil                    
+time                                aces, faster, delta      
+tinker-hp                           delta                    
+tk                                  anvil, aces, faster, delta
+tkinter                             aces, faster             
+tmux                                aces                     
+tobias                              anvil                    
+tombo                               anvil                    
+tomli                               faster                   
+toolkit                             ookami                   
+tools                               ookami                   
+tophat                              anvil                    
+torchinfo                           faster                   
+torchsampler                        aces                     
+torchtext                           aces                     
+torchvision                         aces, faster             
+tornado                             aces                     
+totalview                           anvil                    
+tpmcalculator                       anvil                    
+tqdm                                aces, faster             
+transabyss                          anvil                    
+transdecoder                        anvil                    
+transformers                        faster                   
+transrate                           anvil                    
+transvar                            anvil                    
+trax                                anvil                    
+treetime                            anvil                    
+trilinos                            aces, stampede3          
+trim-galore                         anvil                    
+trim_galore                         aces, faster             
+trimal                              anvil, faster            
+trimmomatic                         anvil, bridges2, expanse 
+trinity                             anvil, bridges2, expanse 
+trinotate                           anvil                    
+trnascan-se                         anvil, bridges2          
+trtools                             anvil                    
+trust4                              anvil                    
+trycycler                           anvil                    
+twisted                             aces, faster             
+typing-extensions                   aces, faster             
+ucc                                 aces, faster             
+ucc-cuda                            aces, faster             
+ucsc_genome_toolkit                 anvil                    
+ucsctest                            faster                   
+ucsctools                           faster                   
+ucx                                 bridges2, darwin, kyric, aces, faster, expanse, ookami
+ucx-cuda                            aces, faster             
+udbuild                             darwin                   
+udunits                             darwin, aces, faster, stampede3
+umi_tools                           anvil                    
+unicycler                           anvil                    
+unison                              faster                   
+unzip                               aces, faster             
+upcxx                               faster                   
+usefulaf                            anvil                    
+utf8proc                            aces, faster             
+util                                ookami                   
+util-linux                          kyric, aces, faster      
+util-linux-uuid                     anvil, kyric             
+util-macros                         kyric                    
+utils                               ookami                   
+vadr                                anvil                    
+valgrind                            anvil, darwin, kyric, aces, expanse, ookami
+valgrind4hpc                        delta                    
+vardict-java                        anvil                    
+varlociraptor                       anvil                    
+varscan                             anvil                    
+vartrix                             anvil                    
+vasp                                anvil, bridges2, aces, faster, expanse, stampede3
+vasp6                               expanse                  
+vatools                             anvil                    
+vawk                                faster                   
+vcf-kit                             anvil                    
+vcf2maf                             anvil, bridges2          
+vcf2phylip                          anvil                    
+vcf2tsvpy                           anvil                    
+vcftools                            anvil, bridges2, faster, expanse
+velocyto.py                         anvil                    
+velvet                              anvil                    
+vep                                 faster                   
+veryfasttree                        anvil                    
+vesta                               aces                     
+vg                                  anvil                    
+viennarna                           anvil                    
+virtualenv                          aces, faster             
+virtualgl                           faster                   
+visidata                            bridges2                 
+visit                               anvil, bridges2, darwin, faster, delta, ookami
+vlc                                 anvil                    
+vmd                                 anvil, darwin, aces, faster, expanse, stampede3
+voro++                              aces, faster             
+vpl                                 kyric                    
+vscode                              anvil, aces              
+vsearch                             anvil                    
+vtk                                 anvil, aces, faster      
+vtune                               darwin, kyric, aces, faster, stampede3
+vulkansdk                           aces, faster             
+wannier90                           anvil, faster, expanse   
+wayland                             aces, faster             
+waylandpp                           aces, faster             
+webkitgtk+                          aces, faster             
+weblogo                             anvil                    
+webproxy                            aces, faster             
+westpa                              delta                    
+wget                                aces, faster             
+wgss                                darwin                   
+whatshap                            anvil                    
+wiggletools                         anvil                    
+winnowmap                           anvil                    
+wpebackend-fdo                      aces, faster             
+wps                                 faster, expanse          
+wrf                                 darwin, aces, faster, expanse
+wtdbg                               anvil                    
+wxpython                            aces, faster             
+wxwidgets                           aces, faster             
+x11                                 aces, faster             
+x264                                aces, faster             
+x265                                aces, faster             
+xalt                                anvil, stampede3         
+xarray                              aces, faster             
+xcb-util-image                      anvil                    
+xcb-util-keysyms                    anvil                    
+xcb-util-renderutil                 anvil                    
+xcb-util-wm                         anvil                    
+xclock                              delta                    
+xdinfo                              bridges2, darwin         
+xdist                               aces, faster             
+xdresourceid                        bridges2, darwin         
+xdusage                             bridges2, darwin         
+xerces-c                            delta                    
+xerces-c++                          aces, faster             
+xextproto                           delta                    
+xfce4                               faster                   
+xfce4-appfinder                     faster                   
+xfce4-dev-tools                     faster                   
+xfce4-panel                         faster                   
+xfce4-settings                      faster                   
+xfconf                              faster                   
+xfdesktop                           faster                   
+xfwm4                               faster                   
+xgboost                             aces                     
+xit                                 bridges2                 
+xml-libxml                          aces, faster             
+xorg-macros                         aces, faster             
+xpmem                               aces, faster, ookami     
+xprop                               aces, faster             
+xproto                              aces, faster, delta      
+xtalopt                             faster                   
+xtrans                              delta                    
+xvfb                                aces, faster             
+xxd                                 aces, faster             
+xz                                  kyric, aces, faster, delta, expanse
+yacs                                aces, faster             
+yaff                                faster                   
+yaml                                ookami                   
+yasm                                aces, faster             
+yaxt                                faster                   
+z3                                  aces, faster             
+zarr                                aces, faster             
+zebulon                             faster                   
+zeromq                              aces, faster             
+zfp                                 faster                   
+zip                                 aces, faster             
+zlib                                anvil, kyric, aces, faster, expanse
+zluda                               darwin                   
+zoltan                              bridges2                 
+zsh                                 ookami                   
+zstd                                kyric, aces, faster, expanse
+
+Total unique software across all RPs :  2258

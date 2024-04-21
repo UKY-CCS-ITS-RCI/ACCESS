@@ -1,0 +1,14 @@
+Number of software in anvil system :  769
+Number of software in bridges2 system :  171
+Number of software in darwin system :  109
+Number of software in kyric system :  133
+Number of software in aces system :  670
+Number of software in faster system :  868
+Number of software in delta system :  203
+Number of software in expanse system :  456
+Number of software in ookami system :  154
+Number of software in stampede3 system :  74
+Number of software in jetstream system :  13
+
+Total software across all RPs : 3620
+Total unique software across all RPs :  2258
