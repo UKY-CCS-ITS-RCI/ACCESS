@@ -1,0 +1,61 @@
+Use Case:
+Intel Compiler is a versatile set of software development tools that includes compilers, libraries, and more for boosting the performance of software applications. Designed by Intel Corporation, this compiler is primarily used with high-performance computing (HPC) environments to streamline software development by optimizing code, reducing bugs, and providing quicker coding capabilities.
+
+Code details and examples:
+
+Code:
+```
+#include<stdio.h>//header file 
+
+int main() { //main function
+    printf("Hello world\n"); 
+    return 0; 
+}
+```
+
+When using Intel Compiler, you typically save this code in a .c file and then utilize the icc or icpc command to compile the code. Here's how to do it:
+
+```
+$ icc hello.c -o hello
+$ ./hello
+```
+
+Output:
+```
+Hello world
+```
+
+JSON string output:
+
+```
+{
+"softwareName": "Intel Compiler",
+"overview": "A set of software development tools, Intel Compiler is designed to boost the performance of software applications. It includes compilers, libraries, and more to optimize code, debug quicker, and provide higher coding capabilities.",
+"coreFeatures": [
+    "Parallel programming",
+    "Vectorization report",
+    "Code coverage",
+    "Heap growth analysis",
+    "Interprocedural optimization"
+],
+"generalTags": ["compiler", "software development", "HPC", "Intel"],
+"softwarePage": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler.html",
+"additionalLinks": {
+    "documentation": "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-cpp-compiler-dev-guide-and-reference/top.html",
+    "tutorial": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/choose-download.html#tutorial",
+    "training": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/training.html"
+}
+}
+``` 
+
+Additional JSON with tags:
+
+```
+{
+"researchDiscipline": "Computer Science",
+"researchArea": "High Performance Computing",
+"softwareClass": "Compilers",
+"softwareType": "Desktop",
+"fieldOfScience": "Computer and Information Sciences"
+}
+```

@@ -1,0 +1,42 @@
+{
+"Software": "methylpy",
+"Overview": "Methylpy is a python package specifically designed for analyzing bisulfite sequencing data (BS-seq, RRBS, NOMe-seq etc.) at both global and locus-specific levels. It supports parallel computation and is capable of dealing with the large data inherent in methylation research.",
+"Core Features": [
+"Perform end-to-end methylation analyses.",
+"Differential methylation analysis.",
+"Methylation calls for individual loci.",
+"Support for various methylation sequencing techniques.",
+"Support for parallel computation.",
+"Integration with data visualization tools."
+],
+"Tags": ["Bioinformatics", "Methylation Analysis", "Sequencing", "Python package"]
+}
+
+{
+"Documentation Link": "https://methylpy.readthedocs.io/",
+"Software Homepage": "https://github.com/yupenghe/methylpy",
+"Tutorial Links": ["https://methylpy.readthedocs.io/en/latest/tutorial.html", "https://bitesizebio.com/35303/what-is-methylpy/"]
+}
+
+{
+"Use Case: "; 
+"Code Details and Examples: Code"; 
+"1. Differential Methylation Analysis:";
+"Input: Two sets of methylation data for comparison.";
+"Format: .fastq or .fastq.gz files from sequencing data.";
+"Specifics: The input files should contain bisulfite sequencing data.";
+"Command: methylpy DMRfind --allc-files sample1.tsv sample2.tsv --samples sample1 sample2 --mc-type CGN --num-procs 8 --output-prefix diffMeth";
+"2. Methylation calls for individual loci:";
+"Input: Methylation data for analysis.";
+"Format: .fastq or .fastq.gz files from sequencing data.";
+"Specifics: The input files should contain bisulfite sequencing data.";
+"Command: methylpy call-methylation-state --paired-end --input-file sample.fastq.gz --sample sampleName --ref-fasta ref.fa"
+}
+
+{
+"Tags for Research Discipline": "Bioinformatics",
+"Research Area": "Epigenetics, Genomics",
+"Software Class": "Biological Analysis",
+"Software Type": "Package",
+"Field of Science": "Biological Sciences"
+}

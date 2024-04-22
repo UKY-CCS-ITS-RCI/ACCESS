@@ -1,0 +1,43 @@
+Software Name: Intel IPP (Integrated Performance Primitives) 
+
+Comprehensive Overview: Intel IPP is an extensive library of high-performance multi-threaded software functions for image processing, signal processing, video decoding and encoding, cryptography, computer vision, and more. This software package provides researchers and developers with a whole array of vibrant tools to maximize the performance of software applications and to take advantage of Intel's latest processors and architectures, elongating across Core, Atom, Xeon, Pentium, and other compatible processors.
+
+Core Features: 
+1. Rich functionality for media, scientific, and high-performance computing applications. 
+2. Highly optimized and scalable.
+3. Highly-threaded software multi-threaded library.
+4. High-Level API for easy integration.
+
+General Tags: Intel IPP, Integrated Performance Primitives, Software Library, High-Performance Computing, Multithread, Image Processing, Signal Processing, Cryptography.
+
+Software Page: https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/ipp.html
+
+Documentation URL links: https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/ipp.html#gs.5nb42k
+Training and Tutorial materials: https://software.intel.com/content/www/us/en/develop/articles/intel-ipp-understanding-image-processing-primtives-api-and-usage-models.html
+
+Use Case: Intel IPP can be used in various scientific and high-performance computing applications. Media applications such as image and video processing as well as signal processing applications can significantly enhance their efficiency and performance by utilizing Intel IPP's highly optimized and scalable library functions. Also, features like cryptography for securing data can benefit from Intel IPP's software primitives. 
+
+Code details and examples: 
+
+Code:
+```
+#include 'ipp.h'
+main()
+{ 
+    Ipp64f pSrc[3] = {1000, 2000, 3000};
+    Ipp64f pDst[3];
+    ippsLn_64f_A53 (pSrc, pDst, 3);
+}
+```
+Command to run: g++ filename.cpp; then by running the resultant executable.
+
+Here, Intel IPP's natural logarithm function 'ippsLn_64f_A53' is being used to calculate the natural logarithm of the values in the array 'pSrc' and store the result in the array 'pDst'. The function 'ippsLn_64f_A53' is a part of the Mathematics functions provided by Intel IPP.
+
+Input File Specifications: The code example provided does not require an input file. It operates on an array of double 'pSrc' that is initialized in the code. Intel IPP functions can process data from various sources and formats - from direct memory arrays like in this example to data from files or images depending on the particular function and use case in question.
+
+Tags:
+Research Discipline: Computer and Information Sciences
+Research Area: Software Engineering, Systems, and Development
+Software Class: Libraries
+Software Type: Multi-threaded Software Library
+Field of science: Computer and Information Sciences, Applied Computer Science, Software Engineering, Systems, and Development, Artificial Intelligence and Intelligent Systems, Visualization and Human-Computer Systems, Informatics, Analytics and Information Science

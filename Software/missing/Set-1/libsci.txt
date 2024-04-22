@@ -1,0 +1,74 @@
+{
+    "Software Name": "LibSci",
+    "Software Page": "https://www.olcf.ornl.gov/center-projects/libsci/",
+    "Comprehensive Overview": "LibSci is a collection of numerical libraries maintained and developed by Cray. These libraries have been optimized for every Cray platform and also interoperate well with other Cray Programming Environment tools, such as the Cray compilers.",
+    "Core Features": [
+        "Basic Linear Algebra Subprograms (BLAS)",
+        "LAPACK routines",
+        "Sparse BLAS operations",
+        "Fast Fourier transforms",
+        "Auto-tuned (AT) versions of automatically tuned Cray LibSci libraries",
+        "Highly optimized for Cray platforms"
+    ],
+    "Documentation and Tutorial Links": [
+        "http://www.nersc.gov/users/software/programming-libraries/math-libraries/libsci/",
+    	"http://docs.cray.com/books/S-9408-1412/html-S-9408-1412/pref.html"
+    ],
+    "Tags": [
+        "HPC",
+        "Numerical libraries",
+        "Linear algebra",
+        "Fast Fourier transforms"
+    ],
+    "Research Discipline": [
+    	"Computer Science",
+    	"Applied Computer Science"
+    ],
+    "Research Area": [
+    	"High Performance Computing",
+    	"Scientific Computing"
+    ],
+    "Software Class": [
+    	"Numerical Libraries"
+    ],
+    "Software Type": [
+    	"Libraries"
+    ],
+    "Field of Science": [
+    	"Computer and Information Sciences",
+    	"Software Engineering, Systems, and Development"
+    ]
+}
+
+Use Case: Use LibSci for performing various numerical computations such as Basic Linear Algebra Subprograms (BLAS), LAPACK routines, Sparse BLAS operations, and Fast Fourier transforms in a High Performance Computing context.
+
+Code details and examples:
+
+Input file: None required
+
+Command to run:
+Assuming a Cray environment with the PrgEnv-cray programming environment loaded, you can compile a Fortran source file myfile.F with LibSci as follows:
+```Bash
+ftn -o myexe myfile.F -lsci
+```
+In this command, `-o myexe` specifies the output file, `myfile.F` is the Fortran source file, and `-lsci` links the LibSci library.
+
+Code snippet:
+Here is a minimal Fortran code snippet that uses the  LIBSCI BLAS routine SGEMM to perform a matrix multiply operation:
+```Fortran
+PROGRAM MAIN
+   REAL A(5,5), B(5,5), C(5,5)
+   INTEGER I, J
+   DO I=1,5
+       DO J=1,5
+           A(I,J) = I - J
+           B(I,J) = I + J
+           C(I,J) = 0.0
+       ENDDO
+   ENDDO
+   CALL SGEMM('N','N',5,5,5,1.0,A,5,B,5,0.0,C,5)
+END PROGRAM MAIN
+```
+In this code, `SGEMM` is a LIBSCI subroutine for multiplying matrices. The arguments `'N','N'` specify no operation, `5,5,5` are the dimensions of the matrices, and `1.0` is the scalar factor. The `-lsci` flag specifies linking with the LIBSCI library.
+
+Remember to compile with `-lsci` flag to use LIBSCI routines.

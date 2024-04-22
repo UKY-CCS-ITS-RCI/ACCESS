@@ -1,0 +1,51 @@
+{
+  "software": "Intel VTune Profiler",
+  "overview": "Intel VTune Profiler is a performance analysis tool for users developing serial and multithreaded applications. It helps identify and analyze performance hotspots, concurrency, and latency.",
+  "core features": {
+    "Hotspots analysis": "Helps in identifying the functions that consume the most time.",
+    "Threading analysis": "Identify how well an application uses available hardware resources.",
+    "Microarchitecture analysis": "Uncovers how an application interacts with the system architecture.",
+    "GPU analysis": "Profiles general computations offloaded to GPU and includes the OpenCL™ applications."
+  },
+  "tags": ["performance analysis", "multithreaded applications", "CPU", "GPU", "concurrency"]
+}
+
+{
+  "software page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/download.html?operatingsystem=window&distributions=webdownload&options=online",
+  "documentation": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/vtune-profiler.html",
+  "tutorials": {
+    "Tutorial 1": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/vtune-profiler/tutorials/openmp-profiling.html",
+    "Tutorial 2": "https://software.intel.com/content/www/us/en/develop/documentation/vtune-help/top/analyze-performance/openmp-regions-analysis.html"
+  }
+}
+
+Use Case: Use VTune Profiler to identify the high computation function in a multthreaded application
+
+Code details and examples:
+Code:
+```python
+def compute_high(arg1, arg2):
+    # High computation function
+    pass
+
+def main():
+    # multithreaded function call
+    # Use VTune Profiler here to identify performance of function
+    pass
+
+if __name__ == "__main__":
+    main()
+```
+Command to run: 
+```bash
+vtune -collect hotspots -knob sampling-mode=hw -app-working-dir /path/to/project -- python3 /path/to/project/main.py
+```
+requires the application to be profiled to be run with VTune Profiler command line tool.
+
+{
+  "research_discipline": ["Applied Computer Science","Software Engineering, Systems, and Development"],
+  "research_area": ["Performance Analysis", "Multithreaded Applications"],
+  "software_class": ["Profiler tool"],
+  "software_type": ["Performance Analysis Tool"],
+  "field_of_science": ["Computer and Information Sciences"]
+}

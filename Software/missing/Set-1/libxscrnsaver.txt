@@ -1,0 +1,59 @@
+{
+"Software": "libxscrnsaver",
+"Overview": "libxscrnsaver is a utility library for the X Window System that extends xscreensaver functionality by adding features to manipulate the screensaver. This library uses an idle timer to start the screensaver and locks the screen when necessary.",
+"Core Features": [
+    "Provides support for XScreenSaver extension of X11",
+    "Permits querying and manipulating of screensaver behavior of X11",
+    "Enables programs to check idle time, turn off the screensaver, or force it to turn on "
+],
+"General Tags": ["libxscrnsaver", "API", "library", "X11", "display server"]
+
+}
+
+{
+"Software Links": {
+    "SoftwareURL": "https://www.x.org/releases/X11R7.7/doc/man/man3/XScreenSaver.3.html",
+    "Documentation": "https://manpages.debian.org/stretch/x11proto-scrnsaver-dev/libXss.3.en.html",
+    "TrainingMaterial": "https://www.x.org/releases/current/doc/index.html"
+    }
+}
+
+Code details and examples:
+
+Use Case: Use libxscrnsaver to check for idle time of the screen.
+
+Code:
+```c
+#include <X11/extensions/scrnsaver.h>
+
+int main() {
+    Display *dpy = XOpenDisplay(NULL);
+    XScreenSaverInfo *info = XScreenSaverAllocInfo();
+    XScreenSaverQueryInfo(dpy, DefaultRootWindow(dpy), info);
+    
+    /* printing idle time */
+    printf("%u", info->idle);
+    
+    XFree(info);
+    XCloseDisplay(dpy);
+}
+```
+To compile this code, use the following command:
+```shell
+gcc file.c -lX11 -lXss -o output
+```
+To run the compiled code, use:
+```shell
+./output
+```
+Where 'file.c' is the file where above code is written, 'output' is the executable file name you want to give.
+
+{
+"DisciplineTags": {
+    "Research Discipline": "Computer and Information Sciences",
+    "Research Area": "Software Engineering, Systems, and Development",
+    "Software Class": "Utility Library",
+    "Software Type": "Library",
+    "Field of Science": "Applied Computer Science"
+  }
+}

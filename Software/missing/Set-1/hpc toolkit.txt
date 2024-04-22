@@ -1,0 +1,51 @@
+Software:
+{
+    "name": "HPC Toolkit",
+    "overview": "HPC Toolkit is a software for collection of tools that programmers can utilize to analyze the overall performance of applications, identify the areas in which the software spends majority of its time and collect various measures of performance, thereby offering detailed insights.",
+    "core_features": [
+        "Binary analysis",
+        "Performance monitoring",
+        "Tracing and measurement",
+        "Source code analysis"
+    ]
+}
+
+Additional software link: 
+{
+    "software_page": "http://hpctoolkit.org/",
+    "documentation": "http://hpctoolkit.org/manual/HPCToolkit-users-manual.html",
+    "training_materials": [
+        "http://hpctoolkit.org/tutorials/sc10/hpctoolkit-tutorial.pdf",
+        "http://hpctoolkit.org/tutorials/sc11/hpctoolkit-tutorial.pdf"
+    ]
+}
+
+Code details and examples: 
+{
+  "Code": [
+    {
+      "Description": "This example demonstrates how to compile and run a simple C++ program using HPC Toolkit's hpcrun and hpcstruct utilities.",
+      "example_1": {
+        "Input_files": "Your C++ .cpp files",
+        "Command_to_run": "hpcrun ./my_program",
+        "Prerequisite": "The program 'my_program' should be compiled with -g flag to include debugging information which is needed by HPC Toolkit."
+      },
+      "example_2": {
+        "Input_files": "Your C++ binary files",
+        "Command_to_run": "hpcstruct ./my_program",
+        "Prerequisite": "The binary 'my_program' should be compiled with -g flag to include debugging information which is needed by HPC Toolkit."
+      }
+    }
+  ]
+}
+
+Tags: 
+{
+  "research_discipline": "Computer Science",
+  "research_area": "HPC, Software Development, Debugging, Performance Analysis",
+  "software_class": "Performance analysis",
+  "software_type": "Analytical Software",
+  "field_of_science": "Computer Science"
+}
+
+HPC Toolkit is popularly used in the field of Engineering as well as in Natural Sciences - Computer and Information Sciences where High Performance Computing (HPC) is imperative. It is particularly helpful in the specific research area of performance analysis of software running in high compute distributed systems.

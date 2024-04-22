@@ -1,0 +1,40 @@
+{
+  "Software": "Intel-icc",
+  "Overview": "The Intel C++ Compiler (Intel-icc) is a group of C and C++ compilers from Intel available for Windows, macOS, Linux, and Intel-based Android devices. It generates code that leverages the capabilities of the latest Intel processors and architectures, including AVX-512 instructions. The package is a part of Intel Parallel Studio XE.",
+  "Core Features": [
+    "Generates optimized code for modern Intel CPUs",
+    "Supports C++14 and OpenMP 5.0",
+    "Includes Interprocedural optimization (IPO), Threaded building blocks, and Integrated performance primitives",
+    "Supports offload to Intel processors and Intel Graphics Technology"
+  ],
+  "Tags": [
+    "C/C++ compiler",
+    "High-performance computing",
+    "Parallel computing",
+    "Software development"
+  ], 
+  "URLs": {
+    "Software page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler.html",
+    "Documentation": "https://software.intel.com/content/www/us/en/develop/articles/intel-c-compiler-180-user-and-reference-guide.html",
+    "Tutorials": [
+      "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-cpp-compiler-dev-guide-and-reference/top.html",
+      "https://www.intel.com/content/www/us/en/develop/articles/get-started-with-intel-c-compiler.html"
+    ]
+  },
+  "Use Case: Use": [
+    "Programs that heavily exploit parallel computing techniques",
+    "Performance-critical applications",
+    "Developing software for Intel-based devices"
+  ],
+  "Code Details and Examples: Code": {
+    "Example input files": "Any C/C++ source (*.c, *.cpp) and header files (*.h, *.hpp)",
+    "Code snippet": "`#include <stdio.h>\n int main() { printf('Hello, world!\\n'); return 0; }`",
+    "Command to run": "`icc hello.c -o hello; ./hello`",
+    "Input file specifications": "Standard C/C++ syntax"
+  },
+  "Research Discipline": "Computer and Information Sciences",
+  "Research Area": "Software Engineering, Systems, and Development",
+  "Software Class": "Compilers",
+  "Software Type": "High Performance Computing",
+  "Field of Science": "Computer Science"
+}

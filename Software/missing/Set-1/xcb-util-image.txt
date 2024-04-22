@@ -1,0 +1,50 @@
+{
+    "Software Name": "xcb-util-image",
+    "Comprehensive Overview": "Xcb-util-image is a tool that provides functions for manipulating images used in the X window system. It also allows you to handle and manage the X clipboard or cut buffers. Xcb-util-image is part of the XCB protocol bindings for X Window System protocol in C language. It is essential in providing interoperability between the Xlib and XCB libraries, thereby facilitating a gradual transition from Xlib to XCB.",
+    "Core Features": [
+        "Provides high-level XKB API",
+        "Allows for colorization of cursors from images",
+        "Offers icccm helpers in operating window manager",
+        "Provides utility functions for EWMH handling",
+        "Aids in the computation of maximum request length"
+    ],
+    "General Tags": ["X window system", "Image manipulation", "Cut buffers", "XCB", "Xlib"]
+}
+
+{
+    "Link to Software Page": "https://xcb.freedesktop.org/",
+    "Documentation Links": [
+        "https://xcb.freedesktop.org/tutorial/",
+        "https://www.x.org/releases/current/doc/libxcb/libxcb.html",
+        "https://www.x.org/wiki/guide/xcb/"
+    ],
+    "Training and Tutorial Materials": [
+        "https://xcb.freedesktop.org/tutorial/",
+        "https://www.x.org/releases/current/doc/libxcb/tutorial/index.html"
+    ]
+}
+
+Use Case: Using xcb-util-image, you can manipulate X Window System images and manage the X clipboard. The tool is essential when developing X Window System applications.
+
+Code Details and Examples: 
+
+Code to load an image from an XCB drawable:
+
+```
+#include <xcb/xcb_image.h>
+...
+xcb_connection_t *conn;
+xcb_drawable_t drawable;
+...
+xcb_image_t *image = xcb_image_get(conn, drawable, 0, 0, 100, 100, ~0, XCB_IMAGE_FORMAT_Z_PIXMAP);
+```
+Command to run:
+`gcc -lxcb -lxcb-image -o image image.c`
+
+{
+    "Tags for Research Discipline": ["Applied Computer Science"],
+    "Research Area": ["Software Engineering, Systems, and Development"],
+    "Software Class": ["Protocol Bindings"],
+    "Software Type": ["Library"],
+    "Field of Science": ["Computer and Information Sciences"]
+}

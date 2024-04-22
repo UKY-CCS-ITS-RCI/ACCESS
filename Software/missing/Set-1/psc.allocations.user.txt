@@ -1,0 +1,30 @@
+{
+    "Software": {
+        "Name": "psc.allocations.user",
+        "Overview": "The psc.allocations.user is a system utility software that is used in high-performance computing (HPC) environments. This software tool is specifically used for user allocation management within a computational resource environment such as a supercomputer or an HPC cluster.",
+        "Core Features": {
+            "User Allocation Management": "Allows administrators to manage the distribution of computational resources to different users.",
+            "User Tracking": "Keeps track of user activity and resource usage over time.",
+            "Reporting": "Generates reports on user allocation and resource utilization."
+        },
+        "Tags": ["HPC", "Resource Allocation", "User Management"]
+    },
+    "Links": {
+        "Software Page": "Not Available",
+        "Documentation": "Not Available",
+        "Training Material": "Not Available"
+    },
+    "Code Details and Examples": {
+        "Sample Input": "Not Available",
+        "Specific Format": "Not Available",
+        "Code Snippets": "Not Available",
+        "Command": "Not Available"
+    },
+    "Research Discipline Tags": {
+        "Research Discipline": "Computer and Information Sciences",
+        "Research Area": "Software Engineering, Systems, and Development",
+        "Software Class": "Management Software",
+        "Software Type": "System Utility",
+        "Field of Science": "Computer and Information Sciences"
+    }
+}

@@ -1,0 +1,85 @@
+{
+"Software Name": "Quantum ESPRESSO",
+"Overview": "Quantum ESPRESSO is an integrated suite of Open-Source computer codes for electronic-structure calculations and materials modeling at the nanoscale. It is based on density-functional theory, plane waves, and pseudopotentials.",
+"Core Features": [
+  {
+    "Feature": "Carrying out electronic structure calculations",
+    "Description": "It allows ground-state calculations, structural optimization, response functions and other associated calculations."
+  },
+  {
+    "Feature": "Facilitates a wide range of calculations",
+    "Description": "The software supports calculations like high temperature superconductivity, dielectric responses and other similar physical phenomena."
+  },
+  {
+    "Feature": "Density Functional Theory application",
+    "Description": "Quantum Espresso has extensive capabilities for all aspects of DFT simulation."
+  },
+  {
+    "Feature": "Wide pseudopotential library",
+    "Description": "It maintains and provides an extensive library of pseudopotentials."
+  }
+],
+"General Tags": ["Physics", "Chemistry", "Nanoscale", "Electronic-structure calculations", "Materials modelling", "Density-Functional Theory", "Plane Waves", "Pseudopotentials"]
+}
+
+Link JSON:
+{
+"Software Page": "https://www.quantum-espresso.org/",
+"Documentation": [
+  "https://www.quantum-espresso.org/Doc/",
+  "https://www.quantum-espresso.org/resources/users-manual"
+],
+"Tutorials": [
+  "https://www.quantum-espresso.org/resources/tutorials"
+],
+"Training Materials": [
+  "https://www.quantum-espresso.org/resources/training"
+]
+}
+
+Use Case: User wants to carry out electronic structure calculations.
+Code details and examples: 
+Code:
+```
+(terminal)$ pw.x < inputfile
+```
+Example Input file:
+```
+&CONTROL 
+calculation = 'scf'
+outdir='./'
+prefix='diamond',
+/
+&SYSTEM  
+ibrav= 2, 
+celldm(1) =5.43,
+nat= 2, 
+ntyp= 1,
+ecutwfc =15.0,
+/
+&ELECTRONS 
+conv_thr =  1.0d-8
+/
+ATOMIC_SPECIES
+Si  28.086  Si.pz-vbc.UPF
+ATOMIC_POSITIONS
+Si 0.125 0.125 0.125
+Si -0.125 -0.125 -0.125
+K_POINTS 
+ 6
+ 0.125 0.125 0.125 1.0
+-0.125 0.125 0.125 1.0
+-0.125 -0.125 0.125 1.0
+-0.125 -0.125 -0.125 1.0
+ 0.125 -0.125 -0.125 1.0
+ 0.125 0.125 -0.125 1.0
+```
+This input file is for a self-consistent field calculation (`scf`), for a system with 2 atoms of type `Si`. The integration grid for the wavefunctions has 6 k-points, as shown in the next section of the file.
+
+Additional JSON tags:
+
+{"Field of Science": ["Physics", "Chemistry"]}
+{"Software Class": ["ESPRESSO"]}
+{"Software Type": ["Electronic-structure calculations and materials modeling software"]}
+{"Research Discipline": ["Physical Sciences", "Condensed Matter Physics", "Atomic, Molecular, and Optical Physics", "Chemical Sciences", "Physical Chemistry", "Materials Chemistry"]}
+{"Research Area": ["Nanoscale", "Materials Modelling"]}

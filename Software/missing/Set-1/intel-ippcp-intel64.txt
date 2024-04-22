@@ -1,0 +1,51 @@
+Use Case: The Intel Integrated Performance Primitive for Cryptography Primitives (intel-ippcp-intel64) library is a software package that allows developers to build software applications involving cryptographic operations on Intel-supported platforms, particularly ed64-based systems. 
+
+Code details and examples:
+
+```c
+#include "ippcp.h"
+
+void main() {
+    IppsBigNumState* aBN;
+    const int aLen = 256;
+
+    // Memory allocation for the big number
+    Ipp8u* pA = (Ipp8u*) malloc(aLen * sizeof(Ipp8u));
+
+    // Creating the big number
+    ippsBigNumInit(aLen, &aBN);
+
+    // Setting value for the big number
+    ippsSetOctString_BN(pA, aLen, aBN);
+}
+```
+In this example, a BigNum value is created and initialized. 
+
+Command: The command to run heavily depends on the specific use case and environment setup, but generally involves linking `ippcp.h` in your C program and compiling with the Intel Compiler or GCC.
+
+JSON string output:
+```json
+{
+    "name": "intel-ippcp-intel64",
+    "overview": "A cryptography library for Intel-supported platforms with 64-bit architecture.",
+    "core_features": [
+        "High-level operations for Cryptography",
+        "Supports Intel specific optimisations",
+        "Applicable to 64-bit systems"
+    ],
+    "general_tags": ["Library", "Cryptography", "High Performance Computing", "Intel"],
+    "Research Discipline": ["Computer and Information Sciences"],
+    "Research Area": ["Security and Privacy"],
+    "Software Class": ["Library"],
+    "Software Type": ["Cryptography"],
+    "Field of Science": ["Computer and Information Sciences"],
+    "web_links" : {
+        "Software Page": "https://software.intel.com/content/www/us/en/develop/documentation/ipp-crypto-reference/top.html",
+        "Documentation" : "https://software.intel.com/content/www/us/en/develop/documentation/ipp-crypto-reference/top.html",
+        "Tutorials": "https://software.intel.com/content/www/us/en/develop/documentation/ipp-crypto-reference/top/functions/elliptic-curve-operations.html"
+    }
+}
+```
+The links provided lead to the Intel IPPCP documentation and the tutorial on understanding the process of Elliptic Curve operation on given BigNum values.
+
+Please note: Input files and formats depend on the specific use case and application. For instance, if developing an application for secure data transmission, input might be in the form of raw data files requiring encryption.

@@ -1,0 +1,25 @@
+{
+"Software Name": "All-Architectures",
+"Overview": "The All-Architectures tool is a reusable software in various information technologies. This tool in computer programming is highly efficient, as it can operate and execute different types of compiler architecture. Hence, it is ideal for designing and developing a broad range of systems.",
+"Core Features": [
+	{
+		"Efficiency": "It is capable of running various computer processor systems.",
+		"Diverse compatibility": "It is compatible with different types of processor architecture.",
+		"Versatility": "It is used for various purposes, including designing, coding, compiling and developing systems." 
+	}
+],
+"General Tags": ["programming", "compiling", "design", "development", "system"],
+"Software Page": "Not Available",
+"Docs & Tutorial": [],
+"Use Case": "All-Architectures can be used in designing and developing a broad range of systems that need a compiler to execute properly; it is ideal for systems needing to run in different platforms without the requirement of modifying its algorithm as the tool is designed to adapt to various architectures.",
+"Code details and examples": "Not available", 
+"Command": "Not Available"
+}
+
+{
+"Research Discipline Tags": "Computer and Information Sciences",
+"Research Area Tags": "Software Engineering, Systems, and Development",
+"Software Class Tags": "Programming Tools",
+"Software Type Tags": "Compilers",
+"Field of Science Tags": "Computer and Information Sciences"
+}

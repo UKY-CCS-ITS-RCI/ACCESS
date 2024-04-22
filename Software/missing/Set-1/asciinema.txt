@@ -1,0 +1,36 @@
+{
+"Software": "asciinema",
+"Overview": "asciinema is a command-line based software program that lets users record terminal sessions and share them on the web with others. The program is great for training purposes, troubleshooting, or presenting step-by-step guides to colleagues or developers. The recordings can be replayed in a web browser, allowing others to follow along at their own pace.",
+"Core Features": [
+{"Feature": "Record Terminal Sessions", "Description": "Users can easily record activities performed in the terminal."},
+{"Feature": "Share Terminals", "Description": "Recordings can be shared via links, embed codes or saved locally for use."},
+{"Feature": "Replay Recordings", "Description": "The records can be replayed in any standard web browser."},
+],
+"Tags": ["Command Line", "Terminal Recording", "Web Sharing", "Open Source"]
+}
+
+{
+"Software Links": {
+"Software Page": "https://asciinema.org/",
+"Documentation": "https://asciinema.org/docs/",
+"Training Material": "https://asciinema.org/docs/usage"
+}
+}
+
+Use Case: Use asciinema for creating a step-by-step tutorial on how to install and configure a software program on a Linux system. Code: 
+1. Start a new recording session with the command 'asciinema rec'.
+2. Perform the steps required to install and configure the software.
+3. Stop the recording session using the 'exit' command.
+4. Share the link provided by asciinema for others to follow the tutorial.
+
+The input for asciinema is the terminal commands performed by the user. There are no specific file types or formats required.
+
+{
+  "Additional Tags": {
+    "Research Discipline": "Computer and Information Sciences",
+    "Research Area": "Software Engineering, Systems, and Development",
+    "Software Class": "Productivity Tools",
+    "Software Type": "Terminal Recording",
+    "Field of Science": "Computer and Information Sciences"
+  }
+}

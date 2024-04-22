@@ -1,0 +1,65 @@
+{
+  "Software Name": "Coverage",
+  "Overview": "Coverage.py is a Python library that allows users to measure their code’s coverage. Running your script while wrapped in coverage.py will create a detailed report of what parts of the program were executed.",
+  "Core Features": [
+    {
+      "Command line interface": "Coverage.py provides an easy-to-use command line interface, allowing users to quickly generate comprehensive coverage reports.",
+      "Continuous Integration": "The library can be used to continually monitor code coverage and automatically detect and report on any changes.",
+      "In-depth reports": "Coverage.py creates detailed reports, highlighting what parts of the code are covered and which are not, helping developers improve their test suite coverage."
+    }
+  ],
+  "Tags": ["Python library", "Code coverage", "Test Coverage", "Test suite", "Testing"]
+}
+
+{
+  "Software web link": [
+    {
+      "Software Page": "https://coverage.readthedocs.io/",
+      "Documentation": "https://coverage.readthedocs.io/en/coverage-5.3/",
+      "Tutorials":
+        [
+           "https://coverage.readthedocs.io/en/coverage-5.3/excluding.html", 
+           "https://coverage.readthedocs.io/en/coverage-5.3/config.html", 
+           "https://coverage.readthedocs.io/en/coverage-5.3/cmd.html"
+        ]
+    }
+  ]
+}
+
+Use Case: Use Coverage.py for measuring how much of your Python code is actually covered by your test cases.
+
+Code Details and Examples: Code 
+
+```python
+# suppose your test.py file contains your application 
+import coverage
+
+cov = coverage.Coverage()
+cov.start()
+
+# your code goes here. For example,
+for i in range(10):
+    print(i)
+    
+cov.stop()
+cov.save()
+
+# generate the report
+cov.html_report(directory='covhtml')
+```
+
+In this example, the coverage.py starts before the application code and stops after it. The data is then saved and an HTML report is generated.
+
+Command: 
+
+```
+python your_coverage_script.py
+```
+
+{
+  "Tags for Research Discipline": ["Software Engineering", "Systems", "Development"],
+  "Research Area": ["Software Testing", "Code Quality Assurance"],
+  "Software Class": ["Library"],
+  "Software Type": ["Testing"],
+  "Field of Science": ["Computer and Information Sciences", "Software Engineering, Systems, and Development"]
+}

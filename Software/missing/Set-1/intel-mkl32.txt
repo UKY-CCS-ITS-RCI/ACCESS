@@ -1,0 +1,64 @@
+{
+  "Software": "intel-mkl32",
+  "Overview": "Intel Math Kernel Library (Intel MKL) is a computing math library of highly optimized, extensively threaded routines. The library supports Intel and compatible processors and is available for Windows, Linux and macOS operating systems.",
+  "Core Features": [
+    {
+      "Blas and Sparse Blas Routines": "Provides routines for solving systems of linear equations, least squares problems, eigenvalue problems, and singular value problems. Supports sparse matrix storage schemes and iterative sparse solvers."
+    },
+    {
+      "Lapack Routines": "Routines for matrix factorization, orthogonal factorizations, linear equation solving, least squares solving, eigenproblems, and singular value problems."
+    },
+    {
+      "FFT Routines": "Implementations of complex and real 1D, 2D, 3D transforms, and complex-to-complex, real-to-complex, and complex-to-real transforms of arbitrary lengths."
+    },
+    {
+      "Vector Math & Statistical Functions": "Includes operations for arithmetic, exponential, complex numbers, trigonometric and hyperbolic routines, random number generators, and probability distributions."
+    }
+  ],
+  "Tags": ["Linear Algebra", "FFT", "Math Library", "Intel", "High Performance Computing"]
+}
+
+{
+  "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/math-kernel-library.html",
+  "Documentation": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html",
+  "Tutorials": [
+    "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl/training.html",
+    "https://www.youtube.com/watch?v=QEjSeNe_A1A"
+  ]
+}
+
+Use Case: Use Intel MKL to perform complex matrix computations and transformations in high performance computing environment.
+Code details and examples: Code 
+
+```c
+#include "mkl.h"
+
+int main()
+{
+    double a[6] = {1.0, 2.0, 1.0, -3.0, 4.0, -1.0}; // Matrix A
+    double b[6] = {1.0, 2.0, 1.0, -3.0, 4.0, -1.0}; // Matrix B
+    double c[9] = {.5, .5, .5, .5, .5, .5, .5, .5, .5}; // Matrix C
+    cblas_dgemm(CblasRowMajor, CblasNoTrans, CblasNoTrans,
+                3, 3, 2, 1, a, 3, b, 2, 0, c, 3);
+    for(int i=0; i<9; i++)
+      printf("%lf ", c[i]);  // print resultant C
+    return 0;
+}
+```
+This program multiplies two matrices A and B using Intel MKL's cblas_dgemm function and stores result in matrix C. Here, matrices A and B have dimensions 3x2, and resultant matrix C is of dimension 3x3.
+
+To compile and execute: 
+```bash
+icc -mkl example.c -o example
+./example
+```
+
+JSON string for tags:
+
+{
+  "Research Discipline": ["High Performance Computing"],
+  "Research Area": ["Matrix Computations"],
+  "Software Class": ["Library"],
+  "Software Type": ["Computational"],
+  "Field of Science": ["Computer and Information Sciences"]
+}

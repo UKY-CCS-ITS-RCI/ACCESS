@@ -1,0 +1,59 @@
+{
+  "Software Name": "Intel DPC++ Compatibility Tool (Intel DPCT)",
+  "Overview": "Intel DPCT is a tool developed by Intel Corporation as part of Intel oneAPI product suite that aims to help migrate CUDA code to Data Parallel C++ (DPC++). It fosters cross-architecture programming enabling efficient work on Intel processors including CPUs, GPUs, FPGAs and other accelerators.",
+  "Core Features": [
+    "Conversion of CUDA code to a more standard form of C++ using DPC++.",
+    "Recommendations generation for developers to help improve the performance of the converted code.",
+    "Support for automatic replacement of CUDA API calls with equivalent DPC++ code.",
+    "Support for command line interface for easy migration process."
+  ],
+  "Tags": ["Data Parallel C++", "Intel", "CUDA", "Code Migration", "Cross-architecture programming"]
+}
+
+{
+  "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpcpp-ct.html",
+  "Additional URLs": {
+    "Documentation": "https://software.intel.com/content/www/us/en/develop/documentation/get-started-dpct/top.html",
+    "Tutorials": [
+      "https://software.intel.com/content/www/us/en/develop/articles/get-started-migrate-cuda-to-dpcpp.html"
+    ]
+  }
+}
+
+Use Case: Use Intel DPCT when there is a need to convert CUDA codebase to a more standard form of C++ using DPC++. This tool is most frequently used to maximize code performance across different kind of processors including CPUs, GPUs, FPGAs and other accelerators.
+   
+Code details and examples: Code
+
+Consider a CUDA kernel code:
+```c++
+__global__ void addKernel(int* c, const int* a, const int* b)
+{
+    int i = threadIdx.x;
+    c[i] = a[i] + b[i];
+}
+```
+
+You can convert this code to DPC++ using intel-dpct, the conversion would look like:
+```c++
+void addKernel(queue &q, buffer<int, 1> &d_c, buffer<int, 1> &d_a, buffer<int, 1> &d_b, int n) {
+    range<1> gws (n);
+    q.submit([&] (handler &cgh) {
+    auto a = d_a.get_access<sycl_read>(cgh);
+    auto b = d_b.get_access<sycl_read>(cgh);
+    auto c = d_c.get_access<sycl_write>(cgh);
+    cgh.parallel_for<class addKernel>(gws, [=] (id<1> item) {
+        int i = item[0];
+        c[i] = a[i] + b[i];
+    });
+  });
+}
+```
+
+Command line to run the code: `dpct <filename>.cu`
+
+Additional JSON tags:
+"Research Discipline": "Applied Computer Science"
+"Research Area": "High performance computing"
+"Software class": "Parallel Programming Tool"
+"Software type": "Code migration tool"
+"Field of Science": "Computer and Information Sciences"

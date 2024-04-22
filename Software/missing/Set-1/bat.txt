@@ -1,0 +1,32 @@
+{
+  "Software": "bat",
+  "Overview": "bat is a command line file viewer alternative to the popular 'cat' command. It comes with syntax highlighting for multiple programming languages, automatic paging, and git integration.",
+  "Core Features": {
+    "Syntax Highlighting": "Supports syntax highlighting for a large number of programming and markup languages.",
+    "Automatic Paging": "Can pipe its own output to 'less' if the output is too large for one screen.",
+    "Shows Git Status": "It communicates with 'git' to show modifications with respect to the index (added/deleted/modified).",
+    "Full Unicode support": "bat correctly displays non-ascii characters."
+  },
+  "Tags": ["CLI", "Tool", "Utility", "Syntax Highlighting"]
+}
+
+{
+  "Software Page": "https://github.com/sharkdp/bat",
+  "Documentation": "https://github.com/sharkdp/bat#readme",
+  "Tutorials and Training": [
+    "https://ostechnix.com/bat-a-cat-clone-with-syntax-highlighting-and-git-integration/",
+    "https://dev.to/iggredible/how-to-use-bat-on-linux-a-better-cat-5hnl"
+  ]
+}
+
+Use Case: Use bat to view the contents of a Python file with syntax highlighting; Input File: A python (.py) file; Command: bat myfile.py
+
+Use Case: Use bat to show the contents of a large log file page-by-page; Input File: A large text (.txt or .log) file; Command: bat log.txt 
+
+{
+  "Research Discipline": "Computer and Information Sciences",
+  "Research Area": "Applied Computer Science",
+  "Software Class": "Utility",
+  "Software Type": "Command Line",
+  "Field of Science": "Computer Science"
+}

@@ -1,0 +1,69 @@
+{
+  "software_name": "Intel CCL",
+  "overview": "Intel Collective Communications Library (CCL) is a library for machine learning frameworks, providing optimized communication patterns to speed up machine learning workloads. It helps in scaling deep learning techniques across multiple nodes of High Performance Computing clusters. It enables efficient intercommunication across nodes, maximizing hardware utilization and parallelism in deep learning training and execution.",
+  "core_features": [
+    {
+      "feature": "High Performance: ",
+      "description": "Supports efficient and high-performance inter-node communication, designed for deep learning workloads on HPC systems."
+    },
+    {
+      "feature": "Scalability: ",
+      "description": "Provides scalability to deep learning models across multiple nodes in a HPC cluster, maximizing hardware utilization and parallelism."
+    },
+    {
+      "feature": "Integration: ",
+      "description": "Easily integrates with popular deep learning frameworks."
+    }
+  ],
+  "tags": ["HPC", "Deep Learning", "Communications", "Inter-node", "Parallelism"]
+}
+
+{
+  "web_resources": {
+    "software_page": "https://github.com/intel/Intel-CCL",
+    "documentation": "https://intel.github.io/Intel-CCL/",
+    "tutorials": ["https://www.intel.ai/intel-ccl-support-bf16-new-release/"],
+    "training_materials": ["https://github.com/intel/Intel-CCL/tree/master/examples"]
+  }
+}
+
+Use Case:
+Use Intel CCL for efficient parallel processing in deep learning by enabling efficient inter-node communication in High Performance Computing clusters to deliver better scalability and performance.
+
+Code details and examples:
+Code:
+```python
+# Imports
+from mpi4py import MPI
+
+import numpy as np
+import ccl
+
+# Initialize MPI and CCL
+comm = MPI.COMM_WORLD
+rank = comm.Get_rank()
+size = comm.Get_size()
+
+ccl_comm = ccl.Comm()
+
+msg = np.ones(10, dtype=np.float32) * rank
+recv_buf = np.zeros(10, dtype=np.float32)
+
+req = ccl.allreduce(msg, recv_buf, ccl_comm)
+req.wait()
+
+print('rank', rank, 'buf', recv_buf)
+```
+
+Command:
+```
+mpirun -n <number of nodes> python <script.py>
+```
+
+{
+  "tags_research_discipline": ["Computer Science", "Software Engineering, Systems, and Development"],
+  "tags_research_area": ["High Performance Computing", "Parallel Computing"],
+  "tags_software_class": ["Libraries"],
+  "tags_software_type": ["Parallel Processing"],
+  "tags_field_of_science": ["Computer and Information Sciences"]
+}

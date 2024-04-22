@@ -1,0 +1,73 @@
+{
+  "Software Name": "cuda10.2",
+  "Overview": "CUDA 10.2 is a parallel computing platform and application programming interface (API) model created by NVIDIA. It allows software developers to use a CUDA-enabled graphics processing unit (GPU) for general purpose processing – an approach known as GPGPU (General-Purpose computing on Graphics Processing Units).",
+  "Core Features": 
+    {
+      "Feature 1": "Multi-threaded parallel programming model",
+      "Feature 2": "Access to NVIDIA hardware features including texture mapping and multi-threaded instruction fetch",
+      "Feature 3": "Library of mathematical functions and data parallel primitives",
+      "Feature 4": "CUDA Memory Checker",
+      "Feature 5": "Nsight Eclipse Edition for debugging and analyzing performance"
+    },
+  "Tags": ["Parallel Computing", "CUDA", "NVIDIA", "GPGPU"]
+}
+
+{
+  "Software Page Links": 
+    {
+      "Software Official Page": "https://developer.nvidia.com/cuda-toolkit",
+      "Documentation": "https://docs.nvidia.com/cuda/",
+      "Training Material 1": "https://developer.nvidia.com/cuda-education-training",
+      "Training Material 2": "https://www.udemy.com/topic/cuda/",
+    }
+}
+
+Use Case: The CUDA platform is primarily used in the areas of video and image processing, computational biology, and supercomputing.
+
+Code Details and Examples: Here is a simple CUDA code example that calculates the square of an array of numbers:
+
+```C++
+// Kernel definition
+__global__ void square(float* d_out, float* d_in) {
+  int idx = threadIdx.x;
+  float f = d_in[idx];
+  d_out[idx] = f * f;
+}
+
+// Code in host
+int size = N * sizeof(float);
+float h_in[N], h_out[N];
+float *d_in, *d_out;
+
+// Initialize host arrays
+for(int i = 0; i < N; i++) {
+  h_in[i] = 0.5f*i;
+}
+
+// Allocate device memory
+cudaMalloc((void**) &d_in, size);
+cudaMalloc((void**) &d_out, size);
+
+// Copy inputs to device
+cudaMemcpy(d_in, h_in, size, cudaMemcpyHostToDevice);
+
+// Launch the kernel
+square <<<1, N>>>(d_out, d_in);
+
+// Copy device result back to host
+cudaMemcpy(h_out, d_out, size, cudaMemcpyDeviceToHost);
+```
+
+Command to compile and run: 
+```
+nvcc square.cu -o square
+./square
+```
+
+{
+  "Research Discipline": "Computer and Information Sciences",
+  "Research Area": "Software Engineering, Systems, and Development",
+  "Software Class": "Computational Software",
+  "Software Type": "Parallel Computing Platform",
+  "Field of Science": "Computer and Information Sciences"
+}

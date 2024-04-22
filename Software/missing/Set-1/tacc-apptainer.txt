@@ -1,0 +1,25 @@
+{
+"Software": "tacc-apptainer",
+"Overview": "TACC(Apptainer) previously known as Singularity is a powerful platform for high-performance computing (HPC) and machine learning (ML) workloads. It provides support for reproducible environments at TACC via container-based approach.",
+"Core Features": {
+  "1": "Portable: Apptainer containers can be built once and run anywhere.",
+  "2": "Container Runtime: Provides both container runtime and image format support.",
+  "3": "Format Agnostic: Work with any container format",
+  "4": "Scalable: Allowing increase the number of nodes as demand grows",
+  "5": "Security and Isolation: Container isolates the host system from harmful exploitations",
+  "6": "Workload Supporting: Support for various workloads including AI, machine learning, deep learning, and big data analytics",
+},
+"General Tags": ["HPC", "containers", "reproducible environments", "runtime"],
+"Links": {
+  "Software Page": "https://portal.tacc.utexas.edu/software/singularity",
+  "Documentation": "https://sylabs.io/guides/3.7/user-guide/index.html",
+  "Tutorials and Training": ["http://singularity.lbl.gov/tutorial", "https://sylabs.io/guides/3.7/user-guide/quick_start.html"]
+},
+"Use Case: Use": "It can be used in large scale research simulations, running complex machine learning algorithms, and loading large datasets.",
+"Code details and examples: Code": "This is the basic structure of a file (called a Singularity definition file):\n```\nBootstrap: docker\nFrom: ubuntu:16.04\n%post\n    apt-get -y update\n    apt-get -y install fortune cow say```\nYou can build a Singularity container using the command:\n```singularity build /tmp/debian.sif docker://debian:stretch-slim```",
+"Tags for research discipline": [],
+"Tags for research area": [],
+"Software class": "computational",
+"Software type": "High-performance computing platform",
+"Field of science": "Computer and Information Sciences"
+}

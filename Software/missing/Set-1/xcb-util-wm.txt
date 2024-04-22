@@ -1,0 +1,31 @@
+{
+  "Software": "xcb-util-wm",
+  "Overview": "xcb-util-wm is a module of the XCB (X protocol C-language Binding) project that is built upon the X protocol C-language Binding (XCB) library. It provides utility functions for EWMH and ICCCM. EWMH (Extended Window Manager Hints) is a standard protocol for modern X Window System desktops. ICCCM (Inter-Client Communications Conventions Manual) is a protocol that maintains standards for applications interactions on the X Window System.",
+  "Core Features": ["EWMH and ICCCM functionality support", "Utility functions for EWMH and ICCCM", "Standalone function set for X Window System interaction", "Low-level library designed for interoperability with Xlib and other XCB-util libraries"],
+  "Tags": ["XCB", "EWMH", "ICCCM", "X Window System", "C-language"]
+}
+
+{
+  "Links": {
+    "Software Page": "https://xcb.freedesktop.org/",
+    "Documentation": "https://xcb.freedesktop.org/tutorial/",
+    "Tutorials and Training Materials": ["http://www.x.org/archive/X11R7.6/doc/man/man3/xcb-util.3.xhtml", "https://xcb.freedesktop.org/tutorial/", "https://www.x.org/releases/X11R7.5/doc/"]
+  }
+}
+
+Use Case: Use;
+For developers creating X Window System applications that need to interact with window manager standards EWMH and ICCCM. The utility provides a programming interface that facilitates these interactions.
+
+Code details and examples: Code;
+Sample code snippets are not readily available for xcb-util-wm and being a low level utility, it’s mainly used implicitly by other higher level libraries like QT, GTK or other windowing systems.
+
+Command to run them:
+Being a utility library, xcb-util-wm does not have a standalone command to run. It is implicitly used by higher-level libraries in their commands.
+
+{
+  "Tags for Research Discipline": ["Applied Computer Science", "Software Engineering, Systems, and Development"],
+  "Tags for Research Area": ["Window Management Interaction"],
+  "Tags for Software Class": ["Utility Library"],
+  "Tags for Software Type": ["Command-line Utility"],
+  "Tags for Field of Science": ["Computer and Information Sciences"],
+}

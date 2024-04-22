@@ -1,0 +1,41 @@
+{
+  "software_name": "TIGER",
+  "overview": "TIGER (Topologically Integrated Geographic Encoding and Referencing system) is a mapping, geo-coded database software developed by the United States Census Bureau. It is used to identify the precise location of dwellings and commercial establishments within a municipality or larger geographical site.",
+  "core_features": [
+    {
+      "feature_name": "Geospatial Data Representation",
+      "description": "It captures geography visually, using points, lines, and complex polygons to represent geographical components such as roads, buildings, and land use patterns."
+    },
+    {
+      "feature_name": "Topology",
+      "description": "The software uses topology, an aspect of the mathematical field of geometry, to define spatial relationships between various physical entities like roads and buildings."
+    },
+    {
+      "feature_name": "Data Integration",
+      "description": "TIGER software integrates data from various sources, allowing it to create comprehensive maps and conduct in-depth geographical analysis."
+    }],
+  "tags": ["Geo-spatial", "Topology", "Mapping"]
+}
+
+{
+  "software_page_link": "[TIGER](https://www.census.gov/programs-surveys/geography/technical-documentation/complete-technical-documentation/tiger-geo-line.html)",
+  "additional_URL_links": {
+    "documentation": "[TIGER Documentation](https://www.census.gov/programs-surveys/geography/technical-documentation/complete-technical-documentation/tiger-geo-line.html)",
+    "tutorials": [{"tutorial1": "[Basics of TIGER](https://www.census.gov/programs-surveys/geography/guidance/tiger-data-products-guidance.html)"}]
+  }
+}
+
+Use Case:
+Use: TIGER is prominently used in Geographical Information Systems (GIS) for tasks like urban planning, traffic management, and asset tracking.
+
+Code details and examples:
+Code:
+Unfortunately, TIGER isn't a programmable software or does not offer any command-line usage. It only provides data files in shapefile (.shp, .shx, .dbf) and Geodatabase formats which can be used with different GIS software like ArcGIS, Quantum GIS etc.
+
+{
+  "tags_for_research_discipline": ["Geography", "Urban Planning"],
+  "research_area": ["GeoInformatics", "Spatial Analysis"],
+  "software_class": ["Geospatial Analysis"],
+  "software_type": ["GIS software"],
+  "field_of_science": ["Earth and Environmental Sciences"]
+}

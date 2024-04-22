@@ -1,0 +1,49 @@
+{
+   "Software Name": "IgProf",
+   "Overview": "IgProf is a powerful tool used for creating memory and performance profiling for your applications. It is a lightweight, platform-independent tool that works across multiple environments enabling robust functionalities.",
+   "Core Features": {
+       "Performance Profiling": "Aggregated and detailed real-time profiling for applications.",
+       "Memory Profiling": "Assists in identifying leaks and consumption patterns.",
+       "Interactive Browser": "Browse results with an interactive browser interface.",
+       "Compatibility": "Supports multiple platforms and profiles applications written in a variety of programming languages."
+   },
+   "General Tags": ["IgProf", "Performance Profiling", "Memory Profiling", "Software Development", "Programming"]
+}
+
+{
+   "Software Links": {
+       "Software Page": "https://igprof.org",
+       "Documentation": "https://igprof.org/igprof-doc.pdf",
+       "Tutorials": "https://igprof.org/tutorial.html",
+       "Training Materials": "https://github.com/igprof/igprof/tree/master/doc"
+   }
+}
+
+Use Case: Use IgProf to keep track of application performance and memory consumption.
+
+Code details and examples: 
+Code:
+
+# Run the profiler with your application
+igprof -pp -o myapp.prof ./myapp
+
+# Then analyze the output
+igprof-analyse -v -d -g myapp.prof
+
+# For memory profiling,
+igprof -mp -z -o myapp.memprof ./myapp
+
+# Analyze the memory output
+igprof-analyse -v -b -d -g myapp.memprof
+
+Note: Replace `myapp` with your actual application.
+
+Tags:
+
+{
+   "Research Discipline": ["Computer and Information Sciences"],
+   "Research Area": ["Software Engineering, Systems, and Development"],
+   "Software Class": ["Development Tools"],
+   "Software Type": ["Performance Profiler"],
+   "Field of Science": ["Computer Science"]
+}

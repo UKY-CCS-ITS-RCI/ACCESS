@@ -1,0 +1,41 @@
+{
+  "Software": {
+    "software_name": "Cray",
+    "overview": "Cray is a brand of supercomputers that include powerful, high-speed computing systems. These supercomputers are used for complex simulations, data analysis, and predictive modeling.",
+    "core_features": {
+        "High speed computing": "Cray's supercomputers offer fast and reliable computing capabilities to handle complex computations.",
+        "Large-scale data analysis": "Cray systems are ideal for handling large scale data analysis, providing insights from massive data sets.",
+        "Predictive modeling": "Cray supercomputers allow for advanced predictive modeling, simulating future events based on current data."
+    },
+    "tags": ["supercomputing", "HPC", "data analysis", "predictive modeling"]
+  },
+  "Software_links": {
+    "software_url": "https://www.hpe.com/us/en/servers/high-performance-computing.html",
+    "documentation": "https://www.hpe.com/us/en/servers/hpc-resources.html"
+  },
+  "Code_examples": {
+    "example1": {
+      "sample_input": "As a supercomputing system, Cray typically relies on custom or specialized software and does not operate with traditional input files or commands.",
+      "code": "NA",
+      "command": "NA"
+    }
+  },
+  "Discipline_tags": {
+    "discipline1": {
+      "field_of_research": "Computer and Information Sciences",
+      "research_area": "Software Engineering, Systems, and Development",
+      "software_type": "Supercomputing system",
+      "software_class": "High Performance Computing (HPC)",
+      "field_of_science": "Computer Science"
+    }
+  }
+}
+
+{
+  "Use_Case": {
+    "description": "Cray's supercomputers are used in a wide array of applications ranging from meteorology for weather prediction to complex simulations in astrophysics and bioinformatics. For instance, researchers using Cray can run simulations of protein folding, which is a complex process that is crucial to understanding diseases and developing drugs."
+  },
+  "Code_details_and_examples": {
+    "code": "Due to the proprietary nature of the Cray system and the diverse applications in which it is used, specific code examples are usually custom and specific to the individual researcher's use case."
+  }
+}

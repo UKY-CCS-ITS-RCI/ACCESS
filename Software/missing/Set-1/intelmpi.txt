@@ -1,0 +1,39 @@
+Software Name: Intel MPI
+
+Comprehensive Overview:
+Intel MPI is a high-performance, multi-fabric message passing library that implements the open-source MPI-3.0 specification. Intel MPI is designed to accelerate the development and execution of a wide range of computational-intensive workloads on a variety of computer architectures.
+
+Core Features:
+1. Scalable, High-Performance MPI: Optimized for multi-core and cluster-based systems, Intel MPI aims to deliver highly efficient, high-speed intra-node and inter-node communication.
+2. Interoperability: It is compatible with numerous programming languages such as C, C++, and Fortran.
+3. Flexible Fabric Support: Lower latency and improved throughput with fabric flexibility provided on Intel hardware.
+4. Dynamic Process Management: Supports efficient management of large scale parallel processes.
+5. Process Pinning: Processes can be pinned to improve performance on NUMA architectures.
+   
+General Tags: MPI, Multi-Fabric, Multi-Core, High-Performance Computing, Cluster-Based Systems
+
+Software Page: https://software.intel.com/content/www/us/en/develop/tools/mpi.html
+Documentation: https://software.intel.com/content/www/us/en/develop/articles/intel-mpi-library-developer-guide-for-linux.html
+Training and Tutorials: 
+1. https://www.intel.co.uk/content/www/uk/en/developer/articles/guide-getting-started-with-intel-mpi.html
+2. https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/performance-communications-mpi-library-paper.pdf
+
+Use Case:
+Use: Intel MPI is often utilized for managing and boosting the performance of distributed memory applications on clusters. It can be instrumental for research work that involves complex computational tasks requiring high-speed data sharing and processing at scale.
+
+Code details and examples:
+Code:
+To compile the MPI code, you use: 
+   mpicc -o outputfile inputfile.c
+To submit the job, you use:
+   mpirun -n num_of_processes outputfile
+
+Sample Input Files: A C or C++ source code file written using MPI API.
+Format Required: .c or .cpp file
+Specifications and Details in Input Files: The input file should contain the MPI APIs for process management, message passing, group and communicator management among others.
+
+Tags for research discipline: Computer and Information Sciences, Applied Computer Science, Software Engineering, Systems, and Development
+Tags for research area: High-Performance Computing, Parallel Computing
+Tags for software class: Communication Libraries
+Tags for software type: Libraries, Multi Processing Software
+Tags for the field of science: Computer and Information Sciences, Applied Computer Science, Software Engineering, Systems, and Development

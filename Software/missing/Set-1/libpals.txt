@@ -1,0 +1,53 @@
+{
+  "software": "libpals",
+  "overview": "libpals is an open source Python library developed to provide a set of tools for pattern mining. The library supports several types of pattern mining tasks including itemset, sequence, and graph mining. libpals also supports the extraction of patterns from different types of data, such as transaction databases and time-series data.",
+  "features": [
+    "Support for a wide range of pattern mining tasks: Whether you're interested in mining frequent, maximal or closed itemsets, libpals has you covered. The library supports a wide range of tasks including mining for frequent itemsets, association rules, sequences, and graph patterns.",
+    "Versatility in data types: libpals can extract patterns from various types of data. Whether your data is stored in a transaction database, a relational database, or as time-series data, libpals offers appropriate methods for pattern extraction.",
+    "Efficiency: libpals leverages efficient algorithms and data structures to ensure that pattern mining tasks are carried out rapidly and efficiently, maximizing productivity in large datasets.",
+    "Python compatibility: As a Python library, libpals can be integrated seamlessly into any Python project or pipeline, enabling straightforward incorporation into data science and analytics workflows."
+  ],
+  "tags": ["Pattern Mining", "Data Mining", "Itemset Mining", "Sequence Mining", "Graph Mining", "Python"]
+}
+
+{
+  "links": {
+    "softwarePage": "https://libpals.readthedocs.io/",
+    "documentation": "https://libpals.readthedocs.io/en/latest/",
+    "tutorials": [["https://www.youtube.com/watch?v=CUvGhkGTN8Q", "Pattern Mining with libpals"]]
+  }
+}
+
+Use Case: If you are working with a transaction database and you want to extract frequent itemsets, you can use libpals to do so. 
+
+Code Details and Examples: 
+
+Code:
+```python
+from libpals import apriori
+
+# Sample input
+transactions = [['a', 'b', 'c'], ['a'], ['b', 'c'], ['a', 'b']]
+
+# Use the apriori algorithm to mine frequent itemsets
+patterns = apriori(transactions, min_sup=2)
+
+# Print the discovered patterns
+for pattern, support in patterns:
+    print(f'Pattern: {pattern}, Support: {support}')
+```
+Command:
+```bash
+python myfile.py
+```
+In this example, the `apriori` function is used to mine frequent itemsets from a list of transactions. The `min_sup` parameter specifies the minimum support of the patterns to be discovered—in this case, two, which means that a pattern needs to appear in at least two transactions to be considered frequent.
+
+{
+  "tags": {
+    "researchDiscipline": ["Data Mining"],
+    "researchArea": ["Pattern Mining"],
+    "softwareClass": ["Library"],
+    "softwareType": ["Library"],
+    "fieldOfScience": ["Computer and Information Sciences"]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "Software Name": "Intel DNNL CPU IOMP",
+  "Overview": "The Intel Deep Neural Network Library (DNNL) previously known as Intel Math Kernel Library for Deep Neural Networks (MKL-DNN) is a performance library for deep learning applications, providing routines for low-level tensor manipulations and neural network layers. It is optimized for Intel architecture and Intel Xeon Scalable processors.",
+  "Core Features": {
+    "Intel Architecture Optimized": "It is specifically optimized to take full advantage of the Intel architecture to maximize speed and parallelism.",
+    "Comprehensive Performance": "Provides advanced performance primitives including convolution, normalization, activation, and pooling.",
+    "Interoperability": "Provides interoperability with popular data science tools like TensorFlow, PyTorch, etc.",
+    "Multi-threaded with OpenMP": "Leverages OpenMP to scale across all available cores in CPU to achieve great scale-up."
+  },
+  "Tags": ["Intel", "Deep Learning", "Neural Network", "Math Library", "Deep Neural Networks", "MKL-DNN", "Tensor Manipulation"]
+}
+
+{
+  "Software Page": "https://oneapi-src.github.io/oneDNN/",
+  "Documents and Trainings": {
+    "Documentation": "https://oneapi-src.github.io/oneDNN/",
+    "Training": [
+      "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html#gs.bw2etw",
+      "https://software.intel.com/content/www/us/en/develop/articles/intel-math-kernel-library-documentation.html"
+    ]
+  }
+}
+
+Use Case: 
+Use ; Intel DNNL CPU IOMP is used in scenarios that require high-performance computing for deep learning applications. It is widely used for training and making predictions from deep neural networks, and it can be deployed in a variety of environments, ranging from clusters to mobiles.
+
+Code Details and Examples: 
+Code ; 
+Here is an example of how you might use the DNNL library in a C++ program:
+
+```c++
+#include <dnnl.hpp>
+
+int main() {
+  dnnl::engine eng(dnnl::engine::kind::cpu, 0);
+  dnnl::stream s(eng);
+
+  const int N = 3, C = 2, H = 2, W = 2;
+  float src_data[N][C][H][W] = { /* data */ };
+
+  dnnl::memory::dims src_dims = {N, C, H, W};
+  auto m_src_memory = dnnl::memory({{src_dims}, dnnl::memory::data_type::f32, dnnl::memory::format_tag::nchw}, eng);
+  write_to_dnnl_memory(src_data, m_src_memory);
+}
+```
+To compile and run the code with gcc:
+
+```bash
+g++ -I/path/to/dnnl/include -L/path/to/dnnl/lib -ldnnl filename.cpp
+```
+
+
+{
+  "Tags for Research Discipline": ["Computer and Information Sciences", "Software Engineering, Systems, and Development", "Applied Computer Science"],
+  "Research Area": ["Artificial Intelligence and Intelligent Systems"],
+  "Software Class": ["Library", "High Performance Computing"],
+  "Software Type": ["Deep Learning", "High Performance Computing"],
+  "Field of Science": ["Computer and Information Sciences"]
+}

@@ -1,0 +1,58 @@
+{
+   "Software Name": "stat",
+   "Overview": "The 'stat' command line utility is an important tool in Unix and Linux like systems used to display Native file system status about a file or a file system. 'stat' provides more detailed information about file statistics than ls.",
+   "Core Features": [
+      "Display file or file system status",
+      "Show file details including size, permissions, inode number"
+   ],
+   "Tags": ["Unix", "Linux", "File System", "CLI"]
+   "Additional Details": {
+      "Software Page": "https://www.gnu.org/software/coreutils/manual/html_node/stat-invocation.html",
+      "Documentation": "https://man7.org/linux/man-pages/man1/stat.1.html",
+      "Tutorial": "https://www.tecmint.com/linux-stat-command-examples/"
+   }
+} 
+{
+   "Use Case":
+     "Use: Checking the status of a file; Checking file permissions", 
+
+   "Code details and examples: Code":
+      {
+         "Example1":
+           {"Sample Input": "File: /home/user/document.txt",
+            "Command":"stat /home/user/document.txt",
+            "Explanation":"This will provide a detailed stat report for the file 'document.txt' including Size, Blocks, IO Block, File type, Device, Inode, Links, Access, Modify, Change, Birth etc.", 
+            "Sample Output": "Expanded details of the file such as size, type, permissions etc."
+           }
+      }
+}
+
+{
+ "Tags for Research Discipline":{
+   "Software Engineering, Systems, and Development"
+ }
+}
+
+{
+ "Tags for Research Area": {
+   "Informatics, Analytics and Information Science"
+ }
+}
+
+{
+ "Tags for Software Class": {
+   "Command Line Tools"
+ }
+}
+
+{
+ "Tags for Software Type": {
+   "File System Tools"
+ }
+}
+
+{
+ "Tags for Field of Science":{
+   "Computer and Information Sciences"
+ }
+}

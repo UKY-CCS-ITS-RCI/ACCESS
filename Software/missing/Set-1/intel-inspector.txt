@@ -1,0 +1,51 @@
+{
+"Software": "Intel Inspector",
+"Overview": "Intel Inspector is a dynamic memory and threading error checking tool for users developing serial and multi-threaded applications on Windows and Linux operating systems. It identifies runtime threading and memory errors such as races, deadlocks, and memory leaks that can result in crashes, non-deterministic behaviors and performance degradation.",
+"Core Features": 
+{
+	"Thread Error Analysis": "Identify latent errors and check if different program inputs reveal threading errors.",
+	"Memory Error Analysis": "Examine your software for common memory errors including leaks, corruptions and misuses.",
+	"Support for Serial Applications": "Create a stable, error-free base before adding parallelism.",
+	"Hierarchy of Error Prioritization": "Lets you to quickly resolve issues in order of importance."
+},
+"Tags": ["Memory Inspector", "Threading Error", "Intel", "High Performance Computing", "Debugging Tool"]
+}
+
+{
+"Links":
+{
+	"Software Page": "https://software.intel.com/content/www/us/en/develop/tools/inspector.html",
+	"Documentation": "https://software.intel.com/content/www/us/en/develop/documentation/inspector-user-guide-multicore-linux/top.html",
+	"Tutorials": ["https://software.intel.com/content/www/us/en/develop/documentation/inspector-user-guide-windows/top.html", "https://www.intel.co.uk/content/www/uk/en/develop/documentation/get-started-with-inspector/top.html", "https://software.intel.com/content/www/us/en/develop/documentation/get-started-with-inspector/top.html"]
+}
+}
+
+{
+"Code Details and Examples":
+{
+	"Example 1":
+	{
+		"Use case": "To identify memory leaks and threading errors in a C++ application named 'myApplication'",
+		"Code":
+		{
+			"Command" : "inspxe-cl -collect mi3 -- myApplication"
+		}
+	},
+	"Example 2":
+	{
+		"Use case": "To start a new analysis",
+		"Code":
+		{
+			"Command" : "inspxe-gui"
+		}
+	}
+}
+}
+
+{
+"Tags for Research Discipline": ["Computer Science", "Functional and Logic Programming"],
+"Tags for Research Area": ["Parallel Computing", "High Performance Computing"],
+"Software Class": "Debugging and Analysis Tools",
+"Software Type": "Software",
+"Field of Science": "Computer and Information Sciences"
+}

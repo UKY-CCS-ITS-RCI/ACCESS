@@ -1,0 +1,48 @@
+{
+  "Software": "mrnet",
+  "Overview": "MrNet is a Python software library primarily used in medical imaging for deep learning. It particularly specializes in classifying images for Magnetic Resonance Imaging scans.",
+  "Core Features": [
+    {
+      "Deep Learning": "MrNet facilitates complex computations for deep learning tasks, providing users with comprehensive tools for developing and training neural networks."
+    },
+    {
+      "Medical Imaging": "MrNet helps to predict abnormalities in MRI scans such as meniscal tears, ACL tears, and other knee injuries."
+    },
+    {
+      "MRI analysis": "It comprehensively analyses whole volumes with a single pass of a 3D CNN."
+    }
+  ],
+  "Tags": ["Python", "Deep Learning", "MRI", "Medical Imaging"]
+}
+
+{
+  "Software Page": "https://github.com/hasibzunair/mrnet",
+  "Documentation": "https://github.com/hasibzunair/mrnet#mrnet",
+  "Tutorial": "https://github.com/hasibzunair/mrnet/blob/master/notebooks/MRNet.ipynb",
+  "Training Materials": "https://stanfordmlgroup.github.io/projects/mrnet/"
+}
+
+Use Case: 
+MRnet is extensively used for classifying Magnetic Resonance Imaging (MRI) scans to predict knee injuries such as Anterior Cruciate Ligament(ACL) tears, meniscal tears, etc. 
+
+Code Details and Examples:
+Code:
+
+```
+from model.MRNet import MRNet
+model = MRNet()
+```
+
+Input File Format:
+The input file format required by MRNet is NIfTI (Neuroimaging Informatics Technology Initiative) which is commonly used for storing MRI data.
+
+Command to Run:
+The command to run an MRNet model after it's been defined and the data is loaded could be `model.fit(train_loader, epochs, valid_loader)`
+
+{
+  "Research Discipline Tags": ["Medical Biotechnology", "Health Sciences", "Medical and Health Sciences"],
+  "Research Area Tags": ["Medical Imaging", "Deep Learning", "MRI Analysis"],
+  "Software Class Tags": ["Deep Learning Library"],
+  "Software Type Tags": ["Library"],
+  "Field of Science Tags": ["Medical and Health Sciences"]
+}

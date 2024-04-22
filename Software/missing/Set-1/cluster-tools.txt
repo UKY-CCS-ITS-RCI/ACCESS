@@ -1,0 +1,66 @@
+[Generate JSON string output]
+
+{
+  "software_name":"cluster-tools",
+  "overview":"Cluster Tools is a software package that provides a scheduling functionality to manage and schedule various jobs workload across distributed computing resources like servers, virtual machines, and other hardware.",
+  "core_features":[
+    {
+      "feature1":"Efficient CPU utilization",
+      "feature_description":"Cluster Tools maximizes the use of CPU resources by splitting a workload across multiple distributed computing resources."
+    },
+    {
+      "feature2":"Parallel Computing",
+      "feature_description":"Supports the ability to perform parallel computing. This means it allows a system to perform more than one task simultaneously."
+    },
+    {
+      "feature3":"Effective Scheduling",
+      "feature_description":"Cluster Tools provides efficient features for scheduling and managing jobs by assigning them to the least loaded nodes in the cluster."
+    },
+    {
+      "feature4":"Scalability",
+      "feature_description":"Cluster Tools can easily handle the increase in load by managing multiple tasks efficiently across various distributed systems."
+    }
+  ],
+  "tags":[
+    "High Performance Computing", "Parallelization", "Scheduling", "Resource Management"]
+}
+
+[Generate aaditonal JSON string output with a link]
+
+{
+  "softwarePage":"https://github.com/LLNL/cluster-tools",
+  "documentation":"https://github.com/LLNL/cluster-tools/blob/master/README.md",
+  "tutorial_materials":[
+      "https://github.com/LLNL/cluster-tools/wiki",
+      "https://www.youtube.com/watch?v=U4TnSRF4pjA"
+  ]
+}
+
+[Code details and examples]
+
+{
+  "instruction1":{
+      "input_files":["sample_job.sh", "sample_job2.sh", "sample_job3.sh"],
+      "file_format":"Shell script (.sh) with job instructions",
+      "specifications_details":"The input files should clearly specify the task, necessary libraries, and any environmental variables.",
+      "code_snippet":"#!/bin/bash\n#SBATCH --job-name=sample_job\n#SBATCH --output=res.txt\n#SBATCH --ntasks=10\n#SBATCH --time=10:00\n#SBATCH --mem-per-cpu=100\necho 'Job Execution'\nrun_program input_data\n",
+      "command": "sbatch sample_job.sh"
+  },
+  "instruction2":{
+      "input_files":["job_list.txt"],
+      "file_format":"Text file (.txt) listing all .sh files",
+      "specifications_details":"The input file should list all jobs that need to be scheduled in separate lines.",
+      "code_snippet":"sample_job1.sh\nsample_job2.sh\nsample_job3.sh\n",
+      "command": "sbatch $(< job_list.txt)"
+  }
+}
+
+[Additional JSON strings for tags]
+
+{
+  "research_discipline":"High Performance Computing",
+  "research_area":"Parallelization",
+  "software_class":"Scheduling tool",
+  "software_type":"Cluster Management Tool",
+  "field_of_science":"Computer and Information Sciences, Applied Computer Science"
+}

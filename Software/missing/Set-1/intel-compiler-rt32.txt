@@ -1,0 +1,48 @@
+{
+  "Software": "Intel Compiler Runtime",
+  "Overview": "The Intel Compiler Runtime is a set of tools used for creating high-performance applications for Intel processors. It includes several libraries, such as the Intel Math Kernel Library and Intel Integrated Performance Primitives, which provide math functions and other high-level abstractions for application development.", 
+  "Core Features": 
+    [
+      "Loop optimization", 
+      "Auto-vectorization", 
+      "Interprocedural optimization", 
+      "High-speed data prefetching", 
+      "Thread-level parallelization"
+    ], 
+  "Tags": ["Intel", "Compiler", "Runtime", "High-Performance", "Cloud", "Datacenter"]
+}
+
+{
+  "Additional Information": {
+    "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler.html",
+    "Documentation": "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-cpp-compiler-dev-guide-and-reference/top.html",
+    "Tutorials": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/dpc-compiler/training.html"
+  }
+}
+
+Use Case: 
+The Intel Compiler Runtime can be used to develop and optimize high-performance applications for Intel processors. It provides high-level abstractions and optimizations that can improve the performance of applications in various domains, including numerical simulations, data analytics, and machine learning.
+
+Code details and examples:
+// Sample C++ program 
+Code: 
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+```
+// Command to compile this program with the Intel Compiler
+Command: `icpc hello_world.cpp -o hello_world`
+
+{
+  "Tags Details": {
+    "Research Discipline": "Computer Science; Software Engineering, Systems, and Development",
+    "Research Area": "High-Performance Computing; Cloud Computing",
+    "Software Class": "Compiler",
+    "Software Type": "Development Tool",
+    "Field of Science": "Computer and Information Sciences"
+  }
+}

@@ -1,0 +1,48 @@
+{
+    "Software Name": "Intel Compiler32",
+    "Overview": "Intel Compiler32 is a set of compilers from Intel Corporation that allow developers to produce applications for IA-32 and Intel 64 architecture systems. The compilers generate optimized code that leverages the performance capabilities of the latest Intel processors.",
+    "Core Features": [
+        "Compatible with Linux, Windows, and macOS",
+        "Generates optimized code for IA-32 and Intel 64 architectures",
+        "Includes C++ and Fortran compilers",
+        "Supports OpenMP 5.0 and Intel Threading Building Blocks (TBB)",
+        "Supports vectorization and parallelization",
+        "Integrated with Intel Performance Libraries"
+    ],
+    "Tags": ["Compiler", "Programming", "Software Development"]
+}
+
+{
+    "URLs": {
+        "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler.html",
+        "Documentation": "https://software.intel.com/content/www/us/en/develop/documentation/onenote/top.html",
+        "Tutorials": [
+            "https://software.intel.com/content/www/us/en/develop/documentation/get-started-with-intel-oneapi-base-linux/top.html",
+            "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-cookbook/top.html"
+        ]
+    }
+}
+
+Use Case: 
+Use ; Intel Compiler 32 can be used in compiling a C++ application that utilizes SIMD operations provided by Intel processors.
+
+Code Details and Examples: 
+Code ; Assuming a simple C++ hello world application, the main.cxx source file is:
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, world!\n";
+    return 0;
+}
+```
+The command to compile this with Intel Compiler 32 is: `icpc -o hello main.cxx`
+
+{
+    "Research Discipline": "Applied Computer Science",
+    "Research Area": "High-Performance Computing",
+    "Software Class": "Compiler",
+    "Software Type": "Development Tools",
+    "Field of Science": "Computer and Information Sciences"
+}

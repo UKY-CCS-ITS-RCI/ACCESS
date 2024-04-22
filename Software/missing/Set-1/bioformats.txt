@@ -1,0 +1,47 @@
+{
+  "Software": "Bio-Formats",
+  "Overview": "Bio-Formats is a Java library for reading and writing life sciences image file formats. It is developed by the Open Microscopy Environment (particularly UW-Madison LOCI). Bio-Formats is capable of parsing both pixels and metadata for a large number of formats, as well as writing to several formats.",
+  "Core Features": [
+    {
+            "Read": "Provides the ability to parse metadata and pixel data from over 130 file formats.",
+            "Write": "Enables writing to several formats and shuffling of pixel data to any ordering.",
+            "Metadata": "Converts file metadata to OME-XML and has ability to interpret most native metadata formats.",
+            "Flexibility": "Bio-Formats is also modular, allowing for certain parts of a file to be read without relying on other parts."
+    }
+  ],
+  "Tags": ["Java library", "Image processing", "Life sciences"]
+}
+
+{
+  "Software Page": "https://www.openmicroscopy.org/bio-formats/",
+  "Documentation": "https://docs.openmicroscopy.org/bio-formats/5.8.2/",
+  "Tutorials": [
+    "https://docs.openmicroscopy.org/bio-formats/5.8.2/users/comlinetools/",
+    "https://docs.openmicroscopy.org/bio-formats/5.8.2/users/matlab/"
+  ]
+}
+
+Use Case: 
+Use: Reading and parsing a life sciences image file.
+
+Code Details and Examples:
+Code: 
+```
+import loci.formats.in.DefaultMetadataOptions;
+import loci.formats.in.MetadataLevel;
+...
+
+metadataOptions = new DefaultMetadataOptions(MetadataLevel.ALL);
+reader.setMetadataOptions(metadataOptions);
+```
+This example shows how to use Bio-Formats to parse an image file.
+
+Command to run the above code depends on the specific Java IDE or command line tool being used.
+
+{
+  "Research Discipline": ["Biophysics"],
+  "Research Area": ["Image Analysis"],
+  "Software Class": ["Library"],
+  "Software Type": ["Image Processing"],
+  "Field of Science": ["Biological Sciences"]
+}

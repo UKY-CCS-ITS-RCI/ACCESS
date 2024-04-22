@@ -1,0 +1,39 @@
+{
+  "Software": "PRANK",
+  "Overview": "PRANK is a probabilistic multiple alignment program for DNA, codon and amino-acid sequences. It's based on a novel algorithm that treats insertions correctly and avoids over-estimation of the number of deletion events.",
+  "Core Features": [
+    "Probabilistic multiple sequence alignment",
+    "Correct treatment of insertions and deletion events",
+    "Support for DNA, Codon, and Amino-Acid sequences",
+    "Generates reliable and accurate alignments"
+  ],
+  "Tags": ["Bioinformatics", "Sequence Alignment", "Multiple Alignment", "DNA Sequence", "Codon Sequence", "Amino-Acid Sequence"]
+}
+
+{
+  "Software Link": "http://wasabiapp.org/software/prank/",
+  "Documentation": "http://wasabiapp.org/software/prank/prank_manual/",
+  "Tutorials": ["http://wasabiapp.org/software/prank/prank_manual/"]
+}
+
+Use Case: For instance, if you have a set of DNA sequences and you are interested in finding the optimal multiple sequence alignment among them you can use PRANK.
+
+Code details and examples: 
+
+Start first by loading the fasta format input file containing your DNA sequences.
+
+```bash
+prank -d=input.fasta
+```
+
+The above command will run PRANK with your input file and generate the multiple alignment result.
+
+Fields of Science: ["Biological Sciences", "Bioinformatics", "Genetics"]
+
+Research Discipline: ["Bioinformatics"]
+
+Research Area: ["Multiple Sequence Alignment"]
+
+Software Class: ["Bioinformatics Tool"]
+
+Software Type: ["Multiple Alignment Software"]

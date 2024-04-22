@@ -1,0 +1,50 @@
+{
+  "Software": "deal.II",
+  "Overview": "deal.II is a free and open-source software library supporting the creation of finite element codes. It uses state-of-the-art programming techniques to offer a modern interface to the complex data structures and algorithms required.",
+  "Core features": [
+    "Parallel framework support",
+    "Support for 1D, 2D, and 3D",
+    "Numerous linear algebra backends",
+    "Automated testing and validation",
+    "Flexible handling of differential equations"],
+  "Tags": ["finite element", "open-source library", "PDEs", "Numerical methods"]
+}
+
+{
+  "Software page": "https://www.dealii.org/",
+  "Documentation": "https://www.dealii.org/9.0.0/doxygen/deal.II/index.html",
+  "Tutorials": [
+    "https://www.dealii.org/9.0.0/doxygen/deal.II/Tutorial.html",
+    "https://www.dealii.org/developer/doxygen/deal.II/Tutorial.html"]
+}
+
+Use Case: deal.II can be used for any domain where complex partial differential equations need to be solved. This can include areas such as aeronautical engineering, civil engineering, computational fluid dynamics among others; 
+
+Code details and examples: Sample code to solve the Poisson problem in 2D using deal.II:
+```cpp
+#include <deal.II/grid/tria.h>
+#include <deal.II/grid/grid_generator.h>
+#include <deal.II/grid/grid_out.h>
+
+int main ()
+{
+  dealii::Triangulation<2> triangulation;
+  dealii::GridGenerator::hyper_cube(triangulation);
+  triangulation.refine_global (4);
+
+  std::ofstream out ("grid.eps");
+  dealii::GridOut grid_out;
+  grid_out.write_eps (triangulation, out);
+}
+```
+This code generates a 2D grid of a hypercube and outputs it in EPS format. To compile, use `cmake` and `make` commands accordingly.
+
+For input files, deal.II primarily uses C++ sources with proper header files for defining specific problems.
+
+{
+ "Research Discipline": "Applied Mathematics",
+ "Research Area": "Numerical Analysis and Computation",
+ "Software Class": "Library",
+ "Software Type": "Computational",
+ "Field of Science": "Applied Mathematics"
+}

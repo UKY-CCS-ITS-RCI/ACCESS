@@ -1,0 +1,49 @@
+{
+  "Software Name": "Intel OCLFPGA",
+  "Overview": "Intel FPGA SDK for OpenCL is a suite of OpenCL application development tools optimized for Intel FPGA devices. This suite allows a software programmer to write programs that can run on a wide range of devices, including FPGAs, using a single high-level language. It encapsulates all the required functionality to compose an OpenCL application into a single, intuitive graphical user interface.",
+  "Core Features": {
+    "Broad Hardware Suppor": "Intel FPGA SDK for OpenCL provides broad support for FPGA devices, enabling programming of a variety of FPGA devices in OpenCL.",
+    "High-level Programming": "Regardless of the underlying hardware architecture, developers can write once and run on a variety of FPGA devices.",
+    "Graphical Interface": "Intel FPGA SDK for OpenCL provides a streamlined user interface for intuitive navigation of the OpenCL development process."
+  },
+  "General Tags": ["OpenCL", "FPGA", "Programming"]
+}
+{
+  "Software Page": "https://www.intel.com/content/www/us/en/software/programmable/sdk-for-opencl/overview.html",
+  "Documentation": "https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/opencl-sdk/aocl_programming_guide.pdf",
+  "Training and Tutorial Materials": [
+    "https://www.intel.co.uk/content/www/uk/en/programmable/support/training/course/oopencl101.html",
+    "https://www.youtube.com/watch?v=Z-PZ0Xg-IVY"
+  ]
+}
+
+Use Case: 
+Use: Writing optimized programs for FPGA devices in OpenCL, running simulations, and testing.
+
+Code details and examples: 
+Code: 
+```
+__kernel void HelloWorld(__global *mem) 
+{
+  mem[get_global_id(0)] = get_global_id(0);
+}
+```
+This sample OpenCL kernel will write the current global ID to the corresponding index in global memory.
+
+Command to run: 
+```
+aoc -v device/HelloWorld.cl -o bin/HelloWorld.aocx
+```
+This will compile an OpenCL program to run on an Intel FPGA.
+
+Note: The input files in OpenCL are generally .cl files, written in OpenCL C, a restricted subset of the C programming language.
+
+JSON for tags:
+
+{
+ "Research Discipline": "Computer Science",
+ "Research Area": "High Performance Computing",
+ "Software Class": "Compilers",
+ "Software Type": "Development Tools",
+ "Field of Science": "Applied Computer Science"
+}

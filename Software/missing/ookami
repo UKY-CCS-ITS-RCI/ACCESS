@@ -1,0 +1,14 @@
+7z
+all-architectures
+cluster-tools
+cpe-nosve
+fms2
+gnu-parallel
+jupyter-notebook
+libcap-devel
+module-git
+module-info
+pax-utils
+python3
+python37
+readline-devel

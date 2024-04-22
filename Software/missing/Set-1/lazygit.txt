@@ -1,0 +1,38 @@
+{
+"Software": {
+"name": "lazygit",
+"overview": "Lazygit is a free and open-source terminal-based git interface that aims to make using git easier.",
+"core_features": {
+"Feature_1": "Provides a terminal UI for git commands",
+"Feature_2": "Supports rebasing, merging, deleting of branches",
+"Feature_3": "Syntax highlighting for diffs",
+"Feature_4": "Displays a commit graph",
+"Feature_5": "Interactive add of a file or all files",
+"Feature_6": "Viewing diff of a file in the staging area"},
+"tags": ["Open-source", "Git Interface", "Terminal-based", "DevOps"]
+},
+"Links": {
+"Software_page": "https://github.com/jesseduffield/lazygit",
+"Documentation": "https://github.com/jesseduffield/lazygit/blob/master/README.md",
+"Tutorials": ["https://www.youtube.com/watch?v=CgLj6Ca_R9g", "https://www.youtube.com/watch?v=-2bG9PvAYO4"]
+},
+"Use Case": {
+"Use 1": "If a user wants to check the status of their git repository without typing git status; they can simply open lazygit in their terminal and get visual feedback.",
+"Use 2": "If the user wants to add files to a commit, they can just press 'a' on the file they want to add."
+},
+"Code details and examples": {
+"Code 1": {
+"Description": "Running Lazygit",
+"Command": "lazygit"
+}
+}
+}
+
+{
+"Field of Science": "Computer and Information Sciences",
+"Research Discipline": "Applied Computer Science",
+"Research Area": "Software development and version control",
+"Software Class": "Open-source software",
+"Software Type": "Development tool",
+"Tags": ["version control", "git", "terminal-based"]
+}

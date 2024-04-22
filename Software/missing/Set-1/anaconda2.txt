@@ -1,0 +1,43 @@
+{
+  "Software Name": "Anaconda2",
+  "Comprehensive Overview": "Anaconda2 is a free, open-source distribution of the Python and R programming languages. It is used for data processing, scientific computing, and statistical analysis. It aims to simplify package management and deployment, focusing on data-intensive and machine learning applications.",
+  "Core Features": [
+    "Over 200 precompiled packages for data science.",
+    "Large-scale data processing, predictive analytics, and scientific computing.",
+    "Package management through Conda.",
+    "Python 2.7 version environment."
+  ],
+  "General Tags": ["Python", "R", "Data Science", "Machine Learning", "Scientific Computing", "Package Management"]
+}
+
+{
+  "Software Page": "https://www.anaconda.com/products/distribution",
+  "Documentation": "https://docs.anaconda.com/anaconda/",
+  "Tutorials": [
+    "https://docs.anaconda.com/anaconda/user-guide/getting-started/",
+    "https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x"
+  ]
+}
+
+Use Case: 
+Use anaconda2 for complex scientific computing and statistical analysis tasks, executing scripts with large-scale data processing and predictive analytics.
+
+Code Details and Examples:
+For using a python package with Anaconda:
+Code:
+```
+# Activate the Anaconda environment
+source activate your_env_name
+
+# Once the environment is activated, you can then use the following command to install your packages
+conda install your_package_name
+```
+
+Tags:
+{
+  "Research Discipline": ["Data Science", "Scientific Computing"],
+  "Research Area": ["Statistical Analysis", "Machine Learning", "Data-intensive Applications"],
+  "Software Class": ["Programming and Scripting"],
+  "Software Type": ["Containerization and Virtualization Software"],
+  "Field of Science": ["Computer and Information Sciences", "Applied Computer Science"]
+}

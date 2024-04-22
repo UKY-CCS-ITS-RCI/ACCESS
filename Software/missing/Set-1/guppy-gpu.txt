@@ -1,0 +1,37 @@
+Software: Guppy-GPU
+{
+    "name": "Guppy-GPU",
+    "overview": "Guppy is a production basecaller provided by Oxford Nanopore Technologies. It is used to convert the raw electrical signals produced by Oxford Nanopore's sequencing devices into nucleotide sequences (basecalling). This software is distributed as part of Oxford Nanopore's EPI2ME platform.",
+    "core features": [
+        "High accuracy mode: a basecalling mode that optimizes for accuracy at the expense of speed.",
+        "Fast mode: a mode that sacrifices some accuracy in order to process data faster.",
+        "Support for all Oxford Nanopore devices: Guppy works with all sequencing devices produced by Oxford Nanopore.",
+        "Graphical Processing Unit (GPU) support: For supported platforms, guppy can take advantage of GPU acceleration to increase basecalling speed."
+    ],
+    "tags": ["bioinformatics", "basecalling", "GPU"]
+}
+
+{
+    "software page": "https://nanoporetech.com/nanopore-sequencing-data-analysis",
+    "documentation": "https://community.nanoporetech.com/protocols/Guppy-protocol/v/GPB_2003_v1_revl_14dec2018",
+    "tutorials": ["https://nanoporetech.com/resource-centre/video/webinar-genome-assembly-using-canu-and-guppy-basecaller"],
+    "additional URLs": ["https://github.com/nanoporetech/pyguppyclient"]
+}
+
+Use Case: Guppy-GPU is typically used in genome sequencing workflows where data is being generated on Oxford Nanopore devices. It converts the raw electrical signals produced by the sequencer into a sequence of bases (A, C, G, T), a process known as basecalling.
+
+Code details and examples:
+Code:
+# Command to run guppy-gpu
+guppy_basecaller -c dna_r9.4.1_450bps_hac.cfg -i /path/to/fast5/files -s /path/to/output/directory -x auto
+
+Input: FAST5 files (the raw output from an Oxford Nanopore device).
+Output: FASTQ files (basecalled reads).
+
+Note: Before the guppy_basecaller command is run, users must ensure that the appropriate GPU drivers are installed and that the GPU is correctly configured to work with Oxford Nanopore devices.
+
+Research discipline: Bioinformatics; Genomic Analysis
+Research area: Genomics; Metagenomics; Epigenetics
+Software class: High-throughput Sequencing
+Software type: Basecalling Software
+Field of science: Biological Sciences; Genetics; Biochemistry and Molecular Biology

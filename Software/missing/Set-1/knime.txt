@@ -1,0 +1,47 @@
+Software Overview:
+{
+  "Software Name": "KNIME",
+  "Overview": "KNIME Analytics Platform is an open-source data analytics, reporting, and integration platform, which allows analysts to create visual data workflows to explore, preprocess, model, and visualize data.",
+  "Core Features": [
+    {"Feature": "Data Preprocessing": "Allows users to clean and massage data prior to processing."},
+    {"Feature": "Data Analytics": "A multitude of analytical methods including statistical models, machine learning, data mining, and network analysis routines."},
+    {"Feature": "Data Visualization": "Presents your results in an intuitive way through its integrated views."},
+    {"Feature": "Integration": "Integrates various components for machine learning and data mining through its modular data pipelining concept."},
+    {"Feature": "Scalability": "Suitable for large scale data analysis, capable of handling large amounts of data plus tools to optimize memory and data handling."}
+  ],
+  "General Tags": ["Data Analytics", "Data Mining", "Machine Learning", "Statistical Analysis", "Data Visualization", "Data Preprocessing", "Integration"]
+}
+
+Links and Resources:
+{
+  "Software Page": "https://www.knime.com/",
+  "Documentation": "https://docs.knime.com/",
+  "Training Material": [
+    {"Link": "https://www.knime.com/knime-courseware"},
+    {"Link": "https://www.knime.com/knimepress"},
+    {"Link": "https://www.knime.com/certified-training-courses"},
+    {"Link": "https://www.knime.com/webinars"}
+  ]
+}
+
+Code Details and Examples:
+
+Use Case: Perform statistical analysis on a dataset
+
+Code:
+In the KNIME analytics platform, the analysis is performed through a visual workflow. For instance, to perform statistical analysis:
+1. Import the dataset using the 'File Reader' node.
+2. Connect the 'Data to Report' node to the 'File Reader' node, which allows the generation of a statistical report on the data.
+3. Execute the workflow.
+Note: This is a simplified workflow. KNIME allows complex workflows with multiple analytical methods applied on the data.
+
+Command to Run: As a GUI-based tool, workflows in KNIME are executed within the platform itself by selecting Execute > After Reset.
+
+Research Tags:
+{
+  "Research Discipline": ["Data Science", "Informatics", "Computer Science"],
+  "Research Area": ["Machine Learning", "Statistics and Probability", "Data Mining", "Data Visualization"],
+  "Software Class": ["Data Science Tools", "Statistical Software", "Data Mining Tools", "Machine Learning Tools"],
+  "Software Type": ["Analytics Platform"],
+  "Field of Science": ["Computer and Information Sciences", "Applied Computer Science", "Informatics, Analytics and Information Science"]
+}

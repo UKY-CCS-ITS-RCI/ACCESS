@@ -1,0 +1,42 @@
+Software Name: mc
+Overview: "mc" or "Midnight Commander" is a versatile text-based file manager and a rich set of other utilities. It is based on a visual shell for Unix-like systems and has internal support for working with files, directories, and subdirs.
+Core Features: 
+1. Includes an orthodox file manager with two panels
+2. Manipulates files and directories (copy, delete, rename, move)
+3. Works with common archive formats as if they were merely another directory
+4. Has a powerful file type extension system
+General Tags: File Management, Unix-like Systems, Text-based Utility
+
+JSON String: 
+
+{
+  "Software Name": "mc",
+  "Overview": "A versatile text-based file manager and a rich set of other utilities. It is based on a visual shell for Unix-like systems and has internal support for working with files, directories, and subdirs.",
+  "Core Features": ["Includes an orthodox file manager with two panels", "Manipulates files and directories (copy, delete, rename, move)", "Works with common archive formats as if they were merely another directory", "Has a powerful file type extension system"],
+  "General Tags": ["File Management", "Unix-like Systems", "Text-based Utility"],
+  "Links": {
+    "Software Page": "https://midnight-commander.org/",
+    "Documentation": "https://www.midnight-commander.org/wiki/doc",
+    "Tutorial": "https://www.midnight-commander.org/wiki/doc/tutorial"
+  }
+}
+
+Use Case: Use ; mc is often used to manage files in a Unix-based environment. As an example, to move a file you would navigate to the file with the arrow keys, press F6, then specify the destination directory.
+
+Code Details and Examples: Code ;
+
+To start Midnight Commander, you should type mc in your console and hit enter. Once it opens, you can navigate using the arrow keys and the listed function keys (or their equivalent number) to perform operations. For example, to view the contents of a directory, navigate to the directory and press Enter.
+
+Command: mc
+
+Tag JSON Strings:
+
+{
+  "Research Discipline": ["Applied Computer Science"],
+  "Research Area": ["File System Management"],
+  "Software Class": ["File Managers"],
+  "Software Type": ["Command Line Tools"],
+  "Field of Science": ["Computer and Information Sciences", "Software Engineering, Systems, and Development"]
+}
+
+Please note that actual usage and options may vary according to your specific needs and 'mc' or 'Midnight Commander' version.

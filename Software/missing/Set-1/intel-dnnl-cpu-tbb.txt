@@ -1,0 +1,47 @@
+{
+    "Software": "intel-dnnl-cpu-tbb",
+    "Overview": "Intel DNNL (Deep Neural Network Library) is a performance library for deep learning applications. The library includes basic building blocks for neural networks optimized for Intel Architecture Processors and Intel Processor Graphics. Intel DNNL CPU TBB is a specific module in the DNNL library that provides support for threading building blocks specifically optimized for CPU.",
+    "Core Features": [
+        "Primitive operations for building neural network layers",
+        "Optimized for Intel Architecture Processors and Intel Processor Graphics",
+        "Multi-threaded execution with Intel Threading Building Blocks (TBB) support",
+        "Integration with existing deep learning frameworks"
+    ],
+    "Tags": ["CPU", "Deep Learning", "Neural Networks", "Intel Architecture", "Threading Building Blocks"]
+}
+
+{
+    "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onednn.html",
+    "Documentation": "https://software.intel.com/content/www/us/en/develop/documentation/onednn-programmers-guide/top.html",
+    "Tutorials": [
+        "https://software.intel.com/content/www/us/en/develop/documentation/onednn-programmers-guide/top/primitives/attributes.html",
+        "https://software.intel.com/content/www/us/en/develop/documentation/onednn-tutorial/top.html"
+    ]
+}
+
+Use Case:
+For use in developing and optimizing deep learning models on Intel Architecture Processors and Intel Processor Graphics; leverages Intel Threading Building Blocks for efficient multi-threaded operation.
+
+Code details and examples:
+Code snippets would typically involve the initialization and use of various DNN primitives provided by the library. An example could be the creation of a convolutional layer:
+
+dnnl::primitive_attr attr;
+attr.set_scratchpad_mode(dnnl::scratchpad_mode::user);
+
+dnnl::convolution_forward::desc conv_desc(dnnl::prop_kind::forward_inference,
+    dnnl::algorithm::convolution_direct, src_md, weights_md, bias_md,
+    dst_md, strides_dims, padding_dims_l, padding_dims_r);
+
+dnnl::convolution_forward::primitive_desc conv_pd(conv_desc, attr, eng);
+
+This describes the creation of a convolution primitive for a forward inference layer, with a specified stride and padding, using user-provided scratchpad memory.
+
+Command to run: Typically, the code would be compiled with an Intel C++ compiler or another compatible compiler, and run as a normal executable.
+
+{
+"Tags for Research Discipline":["Applied Computer Science","Artificial Intelligence and Intelligent Systems"],
+"Research Area":["Deep Learning", "Neural Networks"],
+"Software Class":["Performance library"],
+"Software Type":["Deep Learning Library"],
+"Field of Science":["Computer and Information Sciences"]
+}

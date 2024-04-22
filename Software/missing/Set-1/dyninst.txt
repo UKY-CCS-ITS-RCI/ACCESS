@@ -1,0 +1,99 @@
+Software Name: Dyninst
+
+JSON:
+
+{
+"softwareName": "Dyninst",
+"overview": "Dyninst is a runtime code manipulation tool that offers a functional interface to build tools for the development, debugging, testing, and analysis of other codes. It enables efficient and powerful manipulation of unmodded executable files at runtime.",
+"coreFeatures": ["Behavioral observation of executables", "Runtime code generation and injection", "Simultaneous process debugging", "Revocable code patches"],
+"generalTags": ["runtime manipulation", "code analysis", "debugging"],
+"links": {
+  "softwarePage": "https://dyninst.org/",
+  "documentation": "https://dyninst.readthedocs.io/",
+  "tutorial": "https://dyninst.readthedocs.io/en/latest/tutorial.html"
+  }
+}
+  
+Use Case: Dyninst is extensively used for debugging applications, process tracking, runtime code injection and generation as well as behavioral observation of executables for performance and security analysis.
+
+Code details and examples: 
+
+Dyninst API allows you to inject code into a running process or modify the binary exeutable. Here is an example of using the library.
+
+Code:
+
+#include "BPatch.h"
+#include "BPatch_point.h"
+#include "BPatch_function.h"
+
+int main(int argc, char **argv) {
+  // create the BPatch library
+  BPatch bpatch;
+
+  // Create a process
+  BPatch_process *proc = bpatch.processCreate("./a.out", argv);
+
+  // Find the function named "foo"
+  BPatch_image *img = proc->getImage();
+  std::vector<BPatch_function*> funcs;
+  img->findFunction("foo", funcs);
+
+  // an array of BPatch_snippet * 's. Will hold one constant.
+  BPatch_Vector <BPatch_snippet *> args;
+
+  // The number 1 is an argument to the printf
+  BPatch_constExpr one(1);
+
+  // Add "one" to the list of arguments.
+  args.push_back(&one);
+
+  // create printf call object
+  BPatch_funcCallExpr printf_call(*(imgs->findFunction("printf")[0]), args);
+
+  // Create the points after which the printf will be called
+  BPatch_Vector<BPatch_point *> *points = funcs[0]->findPoint(BPatch_exit);
+
+  // Inject printf call at those points
+  proc->insertSnippet(printCall, *points);
+
+  // continue executing the mutatee
+  proc->continueExecution();
+
+  return 0;
+}
+
+You can compile this code with g++ and link against the Dyninst library. The binary created can be used to instrument another code (here a.out) at runtime.
+
+The software page link: https://dyninst.org/
+Documentation link: https://dyninst.readthedocs.io/
+Tutorial link: https://dyninst.readthedocs.io/en/latest/tutorial.html
+
+JSON for Research Discipline:
+
+{
+  "Research Discipline": ["Applied Mathematics", "Computer and Information Sciences"] 
+}
+
+JSON for Research Area:
+
+{
+  "Research Area": ["Software Analysis", "Code Debugging"]
+}
+
+JSON for Software Class:
+
+{
+  "Software Class": ["Library", "Developer Tools"]
+}
+
+JSON for Software Type:
+
+{
+  "Software Type": ["Library"]
+}
+
+JSON for Field of Science:
+
+{
+  "Field of Science": ["Computer and Information Sciences", "Applied Computer Science", "Software Engineering, Systems, and Development"]
+}

@@ -1,0 +1,42 @@
+{
+  "Software": "AutoDock",
+  "Overview": "AutoDock is an automated docking software designed for predicting the interaction of ligands with biomacromolecular targets. It is widely used in the field of computational chemistry to aid drug discovery process.",
+  "Core Features": [
+    "Protein-ligand docking",
+    "Virtual screening capabilities",
+    "Predicts binding affinities",
+    "Flexible ligand docking",
+    "Automated docking capabilities"
+  ],
+  "General Tags": ["Ligand docking", "Drug Discovery", "Virtual Screening", "Chemoinformatics", "Bioinformatics"]
+}
+
+{
+  "Software Page": "http://autodock.scripps.edu/",
+  "Documentation": "http://autodock.scripps.edu/faqs-help",
+  "Tutorials": [
+    "http://autodock.scripps.edu/faqs-help/tutorial",
+    "https://www.ncbi.nlm.nih.gov/pubmed/19399780"
+  ]
+}
+
+Use Case: Use AutoDock to perform a protein-ligand docking simulation to predict the binding affinity of a potential drug molecule to its target protein. 
+
+Code details and examples: Code
+
+# Prepare protein and ligand files
+prepare_receptor4.py -r protein.pdb -A bonds_hydrogens -U nphs_lps_waters_nonstdres
+prepare_ligand4.py -l ligand.mol2 -A bonds_hydrogens 
+
+# Run AutoDock
+autodock4 -p dock.prm -l dock.dlg
+
+The protein.pdb is the PDB format file of the target protein, and ligand.mol2 is the molecule file of the ligand. The dock.prm file contains parameters for the docking simulation.
+
+{
+  "Research Discipline": "Chemoinformatics",
+  "Research Area": "Drug Discovery",
+  "Software Class": "Bioinformatics tool",
+  "Software Type": "Docking Software",
+  "Field of Science": "Medical and Health Sciences"
+}

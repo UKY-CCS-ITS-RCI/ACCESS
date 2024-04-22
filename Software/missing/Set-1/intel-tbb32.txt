@@ -1,0 +1,79 @@
+{
+  "Software Name": "Intel TBB",
+  "Overview": "Intel Threading Building Blocks (TBB) is a widely used C++ template library developed by Intel for writing software programs that take advantage of multi-core processors. It greatly simplifies the creation of parallel programs by abstracting low-level threading details and providing high-level abstractions such as parallel loops, parallel tasks, and concurrent queues.",
+  "Core Features": [
+    {
+      "Feature": "Task scheduler",
+      "Description": "Manages the high-level division of labor across parallel tasks."
+    },
+    {
+      "Feature": "Algorithms",
+      "Description": "Provides high-level parallelism by splitting data into chunks and operating on them in parallel."
+    },
+    {
+      "Feature": "Data Structures",
+      "Description": "Provides thread-safe concurrent containers for parallel computation and communication."
+    },
+    {
+      "Feature": "Memory Allocators",
+      "Description": "Alleviates the problem of heap contention in multithreaded programs by providing scalable memory allocation and deallocation."
+    }],
+  "Tags": ["C++", "parallel programming", "concurrent computing", "multi-core", "multithreading"]
+}
+
+{
+  "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb.html",
+  "Documentation Details": [
+    {
+      "URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onetbb/documentation.html",
+      "Description": "Official documentation of Intel TBB."
+    }],
+  "Training and Tutorial Materials": [
+    {
+      "URL": "https://software.intel.com/content/www/us/en/develop/articles/intel-threading-building-blocks-documentation.html",
+      "Description": "Excellent resource for beginners to get acquainted with Intel TBB."
+    },
+    {
+      "URL": "https://www.threadingbuildingblocks.org/tutorial-intel-tbb-concurrent-containers",
+      "Description": "Tutorial on Intel TBB concurrent containers."
+    }]
+}
+
+Use Case: Use ; Intel TBB is commonly applied in scientific computing, computer graphics, artificial intelligence, machine learning, and game development due to its capacity for efficient parallel execution of tasks.
+
+Code details and examples: Code:
+```cpp
+#include "tbb/parallel_for.h"
+#include "tbb/blocked_range.h"
+
+void parallelAverage(float* array, size_t n) {
+  float sum = tbb::parallel_reduce(
+    tbb::blocked_range<size_t>(0, n),
+    0.0f,
+    [&](const tbb::blocked_range<size_t>& r, float value) -> float {
+      for (size_t i=r.begin(); i!=r.end(); ++i)
+        value += array[i];
+      return value;
+    },
+    std::plus<float>()
+  );
+  float avg = sum / n;
+
+  tbb::parallel_for(
+    tbb::blocked_range<size_t>(0, n),
+    [=](const tbb::blocked_range<size_t>& r) {
+      for (size_t i=r.begin(); i!=r.end(); ++i)
+        array[i] -= avg;
+    }
+  );
+}
+```
+This code uses Intel TBB's `parallel_reduce` to compute the average of the elements in an array and then `parallel_for` to subtract the average from each element. The number of threads used in both cases is automatically determined by TBB.
+
+{
+  "Tags for Research Discipline": ["Computer and Information Sciences", "Engineering and Technology"],
+  "Tags for Research Area": ["Parallel Computing", "Multithreading"],
+  "Tags for Software Class": ["Library"],
+  "Tags for Software Type": ["Parallel Computing Tools"],
+  "Tags for Field of Science": ["Computer and Information Sciences"]
+}

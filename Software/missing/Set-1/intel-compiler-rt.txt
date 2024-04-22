@@ -1,0 +1,75 @@
+{
+  "Software": "Intel Compiler Runtime",
+  "Overview": "The Intel Compiler Runtime is a set of software utilities that speed up run time and increase application performance on Intel processors. It includes essential libraries that help in compiler functioning and performance enhancement.",
+  "Core Features": [
+    {
+      "Feature": "Runtime Tuning",
+      "Detail": "It provides optimized runtime tuning for Intel processors."
+    },
+    {
+      "Feature": "Enhanced Performance",
+      "Detail": "It greatly enhances application performance on Intel processors."
+    },
+    {
+      "Feature": "Integrated Support",
+      "Detail": "It can be seamlessly integrated into existing system setups."
+    }
+  ],
+  "Tags": [
+    "Intel",
+    "Compiler",
+    "Runtime",
+    "Performance Optimization"
+  ]
+}
+
+{
+  "Links": {
+    "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/download.html",
+    "Documentation": "https://software.intel.com/content/www/us/en/develop/articles/intel-cplusplus-compiler-documentation.html",
+    "Tutorials": [
+      "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/choose-download.html",
+      "http://www-intel-software-network.7x.cz/commercial-software/intel-compiler-documentation"
+    ]
+  }
+}
+
+Use Case: Use the Intel Compiler Runtime to enhance the performance of a C++ application running on an Intel processor.
+
+Code Details and Examples: Example code cannot be provided as the Intel Compiler Runtime is a utility that operates in the background to enhance the performance of other applications.
+
+Command to run: There is no direct command to run the Intel Compiler Runtime as it is a support library for the Intel Compiler. It serves to enhance the performance of applications compiled with the Intel Compiler.
+
+{
+  "Research Discipline Tags": [
+    "Computer and Information Sciences",
+    "Applied Computer Science",
+    "Software Engineering, Systems, and Development"
+  ]
+}
+
+{
+  "Research Area Tags": [
+    "Performance Optimization",
+    "Software Performance Engineering",
+    "High Performance Computing"
+  ]
+}
+
+{
+  "Software Class Tags": [
+    "Libraries"
+  ]
+}
+
+{
+  "Software Type Tags": [
+    "Compiler Runtime"
+  ]
+}
+
+{
+  "Field of Science Tags": [
+    "Computer and Information Sciences"
+  ]
+}

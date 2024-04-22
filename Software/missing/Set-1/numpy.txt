@@ -1,0 +1,60 @@
+{
+  "Software": "Numpy",
+  "Overview": "Numpy is a Python library primarily used for numerical computations. It is considered as one of the core libraries in Python for scientific computing. It provides support for large multidimensional arrays and pandas objects, and it also gives tools for working with these arrays.",
+  "Features": {
+    "Multidimensional array object": "Numpy can handle a vast number of dimensions and is used to create ndarrays with any number of axes.",
+    "Mathematical functions": "Numpy provide utilities for mathematical computations like linear algebra operations, Fourier transform, and random number generation.",
+    "Broadcasting functions": "Allows numpy to work with arrays of different shapes when performing arithmetic operations.",
+    "Integration with C/C++ and Fortran": "Numpy can integrates seamlessly with code written in C, C++ or Fortran. This feature allows numpy to provide a high level of performance."
+  },
+  "Tags": "Python, computational software, mathematics, scientific computing"
+}
+
+{
+  "Additional Links": {
+    "Software page link": "https://numpy.org/",
+    "Documentation": "https://numpy.org/doc/stable/",
+    "Training and tutorial links": [
+      "https://numpy.org/devdocs/user/quickstart.html",
+      "https://www.tutorialspoint.com/numpy/index.htm",
+      "https://www.w3schools.com/python/numpy/default.asp"
+    ]
+  }
+}
+
+Use Case: 
+Use Numpy for performing complex mathematical operations, like computing the Fourier transform of an array, or for manipulating large matrices and arrays in your data analysis tasks.
+
+Code details and examples: 
+Code: 
+```python
+import numpy as np
+
+# Create a Numpy Array
+my_array = np.array([1, 2, 3, 4, 5])
+
+# Compute the mean of the array elements
+mean_value = np.mean(my_array)
+
+# Compute the Fourier Transform of the array
+fourier_transform = np.fft.fft(my_array)
+
+# Print results
+print("Mean Value: ", mean_value)
+print("Fourier Transform: ", fourier_transform)
+```
+
+Numpy accepts input data in array format. In the code snippet above, we first import the Numpy package. We then create a Numpy array using `np.array()`. We computed the mean of array elements using `np.mean()` and the Fourier transform using `np.fft.fft()`.
+
+{
+  "Software Class": "Library",
+  "Software Type": "Computational",
+  "Research Discipline": "Data Analysis, Machine Learning, Scientific Research",
+  "Research Area": "Data Science",
+  "Field of Science": [
+    "Computer and Information Sciences",
+    "Applied Computer Science",
+    "Informatics, Analytics and Information Science",
+    "Other Computer and Information Sciences"
+  ]
+}

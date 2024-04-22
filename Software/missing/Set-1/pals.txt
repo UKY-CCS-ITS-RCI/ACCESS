@@ -1,0 +1,47 @@
+{
+  "Software_name": "PALS",
+  "Overview": "Pathway Activity Level Scoring (PALS) is a software applied for metabolomics data analysis and biological interpretation. PALS employs pathway topology information to calculate pathway activity and provides quantitative information about pathways and metabolites, enabling researchers to focus on key metabolic changes.",
+  "Core_features": {
+    "Predictive Modelling": "Calculation of pathway activity based on pathway topology and metabolomics data.",
+    "Quantitative Analysis": "Provision of quantitative information about pathways and metabolites.",
+    "Data Interpretation": "Features for interpreting metabolomics data in a biological context."
+  },
+  "Tags": ["metabolomics", "data analysis", "bioinformatics", "software"]
+}
+
+{
+  "Links": {
+    "Software_page": "https://github.com/glasgowcompbio/PALS",
+    "Documentation": "https://glasgowcompbio.github.io/PALS/",
+    "Tutorial": "https://glasgowcompbio.github.io/PALS/getting_started"
+  }
+}
+
+Use Case: Use the PALS software package to analyze a given metabolomics dataset. The input data required is a metabolite dataset that is fully annotated with respect to KEGG compound identifiers, which PALS uses to perform pathway analyses. The data should be in a tab-separated format.
+
+Code details and examples: Code -
+
+# Import necessary libraries
+from pals.pals import PALS
+from pals.feature_extraction import DataSource
+from pals.pathway_analysis import PALS
+
+# Load the sample data
+data_source = DataSource('example_data/gnps_positive_ionmode_cleaned_by_matchms_and_lookups.csv')
+
+# Perform the pathway analysis
+pals = PALS(data_source)
+pathway_df = pals.get_pathway_df()
+
+# Print the result
+print(pathway_df)
+
+Command to run: python pals_sample.py
+
+{
+  "Research Discipline": "Bioinformatics",
+  "Research Area": "Metabolomics",
+  "Software Class": "Data Analysis",
+  "Software Type": "Bioinformatics Software",
+  "Field of Science": "Biological Sciences"
+}

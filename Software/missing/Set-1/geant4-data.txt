@@ -1,0 +1,70 @@
+Software Name: Geant4-data
+
+Comprehensive Overview:
+Geant4-data is a software package specifically designed to run with the Geant4 simulations tool, a software toolkit for the simulation of the passage of particles through matter. It is used by a variety of scientific fields including high energy, nuclear and accelerator physics, as well as studies in medical and space science.
+
+Core Features:
+- Collection of databases for Geant4 toolkit
+- Essential for modeling interactions of particles with matter
+- Manages data for nuclear and atomic interactions
+
+General Tags: Geant4, Geant4-data, Simulation, High Energy Physics, Nuclear Physics, Accelerator Physics, Medical Science, Space Science
+
+Additional JSON string 1:
+
+{
+"Software_page": "https://geant4.web.cern.ch/support/download",
+"Documentation_link": "https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/index.html",
+"Tutorial_links": [
+    "https://geant4-userdoc.web.cern.ch/UsersGuides/ForApplicationDeveloper/html/index.html",
+    "https://geant4.web.cern.ch/support/proc_mod_catalog/physics_lists/referencePL.html"
+]
+}
+
+
+Code details and examples:
+
+Use Case: 
+
+Use Geant4-data for modeling interactions of particles with matter. This becomes critical in assessing the effects of radiation on materials or particles' behavior in space and related fields. 
+
+Code:
+
+The Geant4-data isn't directly run. Instead, it is used by the Geant4 simulations. For instance, a sample simulation script might look similar to below:
+
+```
+#include "G4RunManager.hh"
+#include "G4UImanager.hh"
+
+#include "G4VisExecutive.hh"
+#include "G4UIExecutive.hh"
+
+int main(int argc, char** argv)
+{
+    G4RunManager* runManager = new G4RunManager;
+ 
+    G4VisManager* visManager = new G4VisExecutive;
+    visManager->Initialize();
+
+    G4UIExecutive* ui = new G4UIExecutive(argc, argv);
+    G4UImanager* UImanager = G4UImanager::GetUIpointer();
+    UImanager->ApplyCommand("/control/execute init_vis.mac");
+
+    ui->SessionStart();
+
+    delete ui;
+    delete visManager;
+    delete runManager;
+}
+```
+Here Geant4-data is used as a supplementary database for Geant4 which is used to model a variety of physical processes.
+
+Tags for Research Discipline: Nuclear Physics, Accelerator Physics, Space Science
+
+Tags for Research Area: Nuclear Interactions, Atomic Interactions, Particle Behavior
+
+Tags for Software Class: Simulation, Data Management
+
+Tags for Software Type: Tool, Database, Physics Simulation 
+
+Field of Science: Nuclear Physics, Particle and High-Energy Physics, Computer and Information Sciences, Applied Computer Science.

@@ -1,0 +1,47 @@
+{
+    "Software Name": "fastq-tools",
+    "Comprehensive Overview": "Fastq-tools is a software package that provides a set of utilities for short-read sequencing data; it manipulates FASTQ files types, which are often used in genomics to represent sequencing reads and their respective quality scores. Tools include manipulating sequences, computing quality statistics and filtering reads.",
+    "Core Features": [
+        "Fast and efficient processing of FASTQ files.",
+        "Simple to use command line interface which adheres to Unix principles.",
+        "Comprehensive tools collection for performing commonly required operations on FASTQ files.",
+        "Ability to manipulate sequences and quality scores.",
+        "Computation of quality statistics.",
+        "Performing simple filtration of reads."
+    ],
+   "General Tags": ["Bio-informatics Tools", "FASTQ", "Sequencing Data Analysis", "Genomics Tools", "Sequence Manipulation"]
+}
+
+{
+    "Software Page": "https://homes.cs.washington.edu/~dcjones/fastq-tools/",
+    "Documentation": "http://homes.cs.washington.edu/~dcjones/fastq-tools/fastq-tools.pdf",
+    "Training Materials": ["https://bioinformatics.uconn.edu/resources-and-events/tutorials/cgcb/tutorial-6-fastq-tools/"],
+    "Tutorial Link": "https://informatics.fas.harvard.edu/short-introduction-to-the-fastq-format.html"
+}
+
+Use Case: Fastq-tools helps in the manipulation and operation fastq format sequencing files; 
+
+Code details and examples: Each tool is designed to do one job in a flexible, efficient manner. Given below are examples of two core features. 
+
+/*Code1: Manipulating sequences*/
+/*fastq-grep is used to match sequences*/
+fastq-grep 'TGGGGAAT' in.fastq > out.fastq
+
+/*Code2 : Computing quality statistics*/
+/*fastq-quality computes quality statistics across all reads*/
+fastq-quality in.fastq > quality.txt
+
+Command to run them : 
+fastq-grep 'TGGGGAAT' in.fastq > out.fastq
+fastq-quality in.fastq > quality.txt
+
+Input file Format : 
+The software takes input in FASTQ format files which include sequence information and their quality scores. The file normally contains four lines per sequence.
+
+{
+"Research Discipline": "Genomics",
+"Research Area": "Bioinformatics",
+"Software Class": "Data Analysis Tools",
+"Software Type": "Command line tools",
+"Field of Science": "Biological Sciences"
+}

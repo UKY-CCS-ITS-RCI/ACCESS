@@ -1,0 +1,60 @@
+{
+  "Software Name": "libatomic_ops",
+  "Overview": "The libatomic_ops library provides implementations of atomic memory update operations on a number of architectures. This allows direct use of these in reasonably portable code. Unlike some similar packages, this allow for fine grain specification of memory ordering constraints and separately takes into account that certain architectures cannot perform some atomic operations on certain types.",
+  "Core Features": 
+    [
+      "Implements atomic memory update operations",
+      "Allows for fine grain specification of memory ordering",
+      "Supports a wide variety of hardware architectures"
+    ],
+  "General Tags": ["library", "atomic operations", "portable", "memory management"]
+}
+
+{
+  "Web Links": 
+  {
+    "Software Page": "https://www.hpl.hp.com/research/linux/atomic_ops/",
+    "Documentation": "https://www.hpl.hp.com/research/linux/atomic_ops/doc/atomic_ops.html",
+    "Tutorial Materials": "https://pj.routinetofun.com/posts/libatomic_ops/"
+  }
+}
+
+For Example:
+Use Case: To use atomic operations in your C program for efficient memory management and synchronization.
+
+Code details and examples: Code.
+```c
+#include "atomic_ops.h"
+
+int main() {
+    AO_t val;
+    AO_assert_is_initialized();
+
+    /* set val atomically */
+    AO_store(&val, 100);
+
+    /* add 50 to val atomically */
+    AO_fetch_and_add(&val, 50);
+
+    /* compare val with 150, if yes, set val to 200 */
+    AO_compare_and_swap(&val, 150, 200);
+
+    return 0;
+}
+```
+To compile and run the example you can use the following command line commands:
+```bash
+gcc -o atomic_ops_example atomic_ops_example.c -latomic_ops
+./atomic_ops_example
+```
+It will execute the atomic operations defined in the main function.
+
+For the input file, it only requires a C source code file to be compiled and it does not require any additional specifications or formats in the file.
+
+{
+"Tags for Research Discipline": ["Computer and Information Sciences"],
+"Tags for Research Area": ["Software Engineering, Systems, and Development"],
+"Tags for Software Class": ["Library"],
+"Tags for Software Type": ["Parallel Programming"],
+"Tags for Field of Science": ["Computer and Information Sciences"]
+}

@@ -1,0 +1,68 @@
+{
+  "Software": "pax-utils",
+  "Overview": "pax-utils is a suite of small and useful utilities that are utilized when dealing with various format (binary) files in a package build process. In essence, it provides valuable tools for pe-format files used to scan, list, check health and extract them.",
+  "Core Features": [
+    {
+      "Feature": "peekelf",
+      "Description": "A tool for investigating inner contents of ELF files."
+    },
+    {
+      "Feature": "scanelf",
+      "Description": "A utility for scanning and reporting ELF file properties."
+    },
+    {
+      "Feature": "scanmacho",
+      "Description": "A tool for scanning and reporting Mach-O file properties."
+    },
+    {
+      "Feature": "paxctl",
+      "Description": "A utility for managing PaX flags on ELF binaries."
+    },
+    {
+      "Feature": "dumpelf",
+      "Description": "A tool for dumping raw ELF files data."
+    }
+  ],
+  "Tags": ["ELF files", "binary files", "utilities", "PaX", "Mach-O"]
+}
+
+{
+  "Links": {
+    "Software Page": "https://wiki.gentoo.org/wiki/pax-utils",
+    "Documentation": "https://wiki.gentoo.org/wiki/pax-utils",
+    "Tutorials": "https://www.gentoo.org/proj/en/hardened/pax-utils.xml"
+  }
+}
+
+Use Case: Use pax-utils when you need to deal with pe-format files in a package building process or when investigating properties and contents of ELF files.
+
+Code Details and Examples: 
+
+Code: 
+In the most basic use case, you can use pax-utils to list the contents of an ELF file:
+
+```bash
+scanelf -e /path/to/binary
+```
+
+You can also use pax-utils to check the health of ELF files:
+
+```bash
+scanelf -e /path/to/binary | grep "<bad>"
+```
+
+If you have a .pax file and you want to extract it, you can use pax-utils:
+
+```bash
+paxctl -x /path/to/archive.pax
+```
+
+Please note, you need to replace "/path/to/binary" and "/path/to/archive.pax" with the path to your actual files.
+
+{
+  "Tags for research discipline": ["Software Engineering", "Systems", "and Development"],
+  "Research area": ["File System and Packages Build"],
+  "Software class": ["Utilities"],
+  "Software type": ["Package files management"],
+  "Field of science": ["Computer and Information Sciences"]
+}

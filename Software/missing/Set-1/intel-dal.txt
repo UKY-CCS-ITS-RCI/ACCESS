@@ -1,0 +1,55 @@
+{
+  "SoftwareName": "Intel DAAL",
+  "ComprehensiveOverview": "Intel's Data Analytics Acceleration Library (Intel DAAL) is a library that provides superior performance for data analysis and predictive modeling, especially on Intel Xeon processors. The library is composed of a set of basic building blocks, which are optimized to deliver top performance and make it easy to improve efficiency in data analytics and machine learning domains.",
+  "CoreFeatures": [
+    "Fast algorithms for machine learning, data mining, and basic linear algebra",
+    "Optimized for latest Intel hardware",
+    "Flexibility to allow for customization of data source, algorithm parameters, and computation modes",
+    "Domain-specific languages and services to simplify data analytics application development"
+  ],
+  "GeneralTags": ["Intel DAAL", "Data Analytics", "Machine Learning", "Intel", "High-Performance Computing"]
+}
+
+{
+  "LinkToSoftwarePage": "https://software.intel.com/content/www/us/en/develop/tools/data-analytics-acceleration-library.html",
+  "Documentation": "https://software.intel.com/en-us/daal-programming-guide",
+  "TrainingMaterials": [
+    "https://software.intel.com/content/www/us/en/develop/tools/data-analytics-acceleration-library/support/training.html",
+    "https://www.youtube.com/watch?v=ueO2FDFcq6s"
+  ]
+}
+
+Use Case:
+Use: Intel DAAL can be used in machine learning tasks. It speeds up big data analysis by providing highly optimized algorithmic building blocks for all data analysis stages (Preprocessing, Transformation, Analysis, Modeling, Validation, and Decision Making) for offline, streaming and distributed analytics usages. It's particularly useful in financial technology, health technology, scientific research, and energy sectors where large scale data analysis is required.
+
+Code details and examples:
+Code:
+
+```python
+from daal.data_management import (
+   DataSourceIface, FileDataSource, HomogenNumericTable
+)
+
+datasetFileName = 'path_to_your_file.csv'
+
+# Initialize FileDataSource<CSVFeatureManager> to retrieve the input data
+# from a .csv file
+dataSource = FileDataSource(
+   datasetFileName,
+   DataSourceIface.notAllocateNumericTable,
+   DataSourceIface.doDictionaryFromContext
+)
+```
+
+Command to run:
+```bash
+python script.py
+```
+
+{
+  "TagsForResearchDiscipline": ["Applied Computer Science", "Software Engineering, Systems, and Development", "Data Science"],
+  "TagsForResearchArea": ["Data Mining", "Predictive Modeling", "Machine Learning"],
+  "TagsForSoftwareClass": ["Libraries"],
+  "TagsForSoftwareType": ["Data Analytics"],
+  "TagsForFieldOfScience": ["Computer and Information Sciences"]
+}

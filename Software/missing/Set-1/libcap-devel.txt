@@ -1,0 +1,51 @@
+Software Details:
+```
+[
+  {
+    "Software Name": "libcap-devel",
+    "Comprehensive Overview": "The libcap-devel software is a development package for libcap, a library for getting and setting POSIX.1e (formerly POSIX 6) draft 15 capabilities.",
+    "Core Features": [ 
+      "Provides capabilities to aid secure service provision",
+      "Encourages secure coding practices",
+      "Allows system software to run with the minimum privilege set",
+      "Helps limiting potential damage in the event of software vulnerabilities."
+    ],
+    "General Tags": ["libcap", "development", "posix", "secure coding"]
+  }
+]
+```
+Links:
+```
+{
+  "Software Pagelink": "https://pkgs.org/download/libcap-devel",
+  "Documentation link": "https://www.kernel.org/doc/Documentation/prctl/seccomp_filter.txt",
+  "Training Material": "N/A"
+}
+```
+
+Use Case:
+```
+Use Case: Libcap development libraries are used when developing software that requires the use of Posix 1.e capabilities. This is useful for creating secure services by allowing software to run with the minimum set of privileges.
+```
+Code details and Examples:
+``` 
+Code: There are no specific code snippets for libcap-devel itself, but it provides the headers necessary to use libcap. A sample usage might be:
+#include <sys/capability.h>
+
+cap_t caps;
+caps = cap_get_proc();
+
+This would use libcap to get the capabilities of the current process.
+Command: To compile software using libcap, you might use a command like gcc -lcap myfile.c
+```
+
+Tags:
+```
+{
+  "Research Discipline": "Computer and Information Sciences",
+  "Research Area": "Software Engineering, Systems, and Development",
+  "Software Class": "Development Libraries",
+  "Software Type": "Library",
+  "Field of Science": "Computer and Information Sciences"
+}
+```

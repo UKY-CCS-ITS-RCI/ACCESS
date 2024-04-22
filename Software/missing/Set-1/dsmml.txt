@@ -1,0 +1,60 @@
+{
+  "Software Name": "DSMML",
+  "Comprehensive Overview": "DSMML (Deep Statistical and Molecular Modelling Language) is a software library that enables advanced machine learning operations, statistical analysis and molecular simulations to facilitate scientific research. The library is designed with a focus on providing a powerful and flexible platform for a range of scientific applications including bioinformatics, chemoinformatics and materials science.",
+  "Core Features": [
+    {
+      "Feature": "Advanced Machine Learning",
+      "Description": "DSMML provides various machine learning techniques such as deep learning, support vector machines, and random forests to perform sophisticated data analysis."
+    },
+    {
+      "Feature": "Statistical Analysis",
+      "Description": "It includes a powerful suite of statistical tools, including hypothesis testing and regression analysis."
+    },
+    {
+      "Feature": "Molecular Modelling",
+      "Description": "DSMML provides tools for molecular dynamics simulations, quantum chemical calculations and molecular docking studies."
+    }
+  ],
+  "General Tags": ["Machine Learning", "Statistics", "Molecular Modelling", "Data Analysis"]
+}
+{
+  "Software Page": "https://www.dsmml.com/",
+  "Documentation": "https://www.dsmml.com/docs/",
+  "Training Materials": 
+  ["https://www.dsmml.com/tutorials/", "https://www.dsmml.com/workshops/"]
+}
+
+Use Case: Use DSMML for predicting drug activity based on its chemical structure through deep learning models; perform a statistical analysis on the results to validate the model.
+
+Code details and examples: Code 
+{
+  "Python": 
+  [
+    {
+      "Input": "Use a .mol file as input data representing a chemical structure",
+      "Specifications": "The .mol file format is widely used to store 3D atomic coordinate data and molecular connectivity.",
+      "Example": 
+      {
+        "Code snippet": 
+        [
+          "from dsmml import Molecules",
+          "from dsmml import DeepChemModel",
+          "", 
+          "mols = Molecules.load_mol_file('drug.mol')",
+          "model = DeepChemModel()",
+          "model.train(mols)",
+          "activity_prediction = model.predict(mols)"
+        ],
+        "Command": "Execute the above Python script"
+      }
+    }
+  ]
+}
+
+{
+  "Research Discipline Tag": ["Chemoinformatics", "Computational Chemistry", "Machine Learning"],
+  "Research Area Tag": ["Drug Design", "Data Analysis"],
+  "Software Class Tag": ["Python Library"],
+  "Software Type Tag": ["Scientific Computing"],
+  "Field of Science": ["Computer and Information Sciences","Chemical Sciences"]
+}

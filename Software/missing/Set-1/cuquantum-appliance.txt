@@ -1,0 +1,34 @@
+{
+  "Software": {
+    "name": "cuQuantum",
+    "overview": "cuQuantum is a NVIDIA developed software appliance that accelerates quantum circuit simulations, speeding up the development of quantum computers and applications. It can be used to simulate pure and mixed quantum states, with support for both qubit- and gate-level parallelism and noise.",
+    "core_features": [
+      "Simulation of pure and mixed quantum states",
+      "Efficient qubit- and gate-level parallelism",
+      "Support for introducing noise into quantum simulations",
+      "Simulation of quantum circuits of up to 30 qubits on a single GPU",
+      "Supports commodity computing hardware"
+    ],
+    "tags": ["quantum computation", "quantum circuit simulation", "GPU acceleration", "qubit", "gate-level parallelism", "noise"]
+  },
+  "Links": {
+    "software_page": "https://developer.nvidia.com/cuquantum",
+    "documentation": "https://developer.nvidia.com/cuquantum/docs",
+    "tutorials": [
+      "https://developer.nvidia.com/cuquantum/docs/getting-started",
+      "https://developer.nvidia.com/cuquantum/docs/user-guide"
+    ]
+  },
+  "Code_Details_And_Examples": {
+    "sample_input_files": ["Quantum Circuit files (.qc)"],
+    "file_format_required": "Quantum Circuit files must be in .qc format",
+    "specifications_in_input_files": "Details of the quantum circuit - including number of qubits, gates and the sequence in which they are applied.",
+    "code_snippets": ["cuquantum -c /path/to/circuit.qc"],
+    "command_to_run": "cuquantum -c /path/to/circuit.qc"
+  },
+  "Research_Discipline": {"tags": ["Applied Mathematics", "Software Engineering, Systems, and Development", "Artificial Intelligence and Intelligent Systems", "Computer Science"]},
+  "Research_Area": {"tags": ["Quantum Computing", "High Performance Computing", "Simulation and Modeling"]},
+  "Software_Class": {"tags": ["Simulation software"]},
+  "Software_Type": {"tags": ["Desktop application"]},
+  "Field_Of_Science": {"tags":["Computer and Information Sciences", "Applied Mathematics", "Physical Sciences"]}
+}

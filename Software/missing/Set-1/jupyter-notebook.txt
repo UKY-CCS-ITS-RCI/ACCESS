@@ -1,0 +1,48 @@
+Software: Jupyter Notebook
+{
+  "Software Name": "Jupyter Notebook",
+  "Comprehensive Overview": "Jupyter Notebook is a web-based interactive development environment that supports multiple programming languages including Python, R, and Julia. It is an open-source platform that allows users to share documents that contain live code, equations, visualizations and accompanying text.",
+  "Core Features": [
+    {
+      "Feature": "Supports multiple languages",
+      "Details": "Jupyter notebook supports over 40 programming languages including Python, R, Julia, and more."
+    },
+    {
+      "Feature": "Interactive data science",
+      "Details": "Jupyter enables users to create and share documents that contain live code, equations, and visualizations, making it a powerful tool for data cleaning and transformation, numerical simulation, statistical modeling, data visualization etc."
+    },
+    {
+      "Feature": "Easily sharable",
+      "Details": "Work can easily be shared with colleagues, or published online, aiding in information dissemination."
+    }
+  ],
+  "General Tags": ["Data Visualization", "Data Science", "Machine Learning", "Multi-Language", "Scientific Computing"]
+}
+
+Use Case: 
+Use Jupyter Notebook to perform data cleaning and transformation on a given dataset. Once cleaned, apply various statistical modelling algorithms to analyze the data and draw insights. Finally visualize the results for reporting and decision making.
+
+Code details and examples: 
+Code:
+```python 
+import pandas as pd 
+dataset = pd.read_csv('dataset.csv') 
+dataset.head() 
+```
+{ "Software Page Link": "https://jupyter.org/",
+  "Documentation Link": "https://jupyter-notebook.readthedocs.io/en/latest/",
+  "Tutorial Link": [
+    "https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html",
+    "https://www.dataquest.io/blog/jupyter-notebook-tutorial/",
+    "https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook"
+  ]
+}
+
+Tags: 
+{
+ "Research Discipline": ["Data Science", "Machine Learning"],
+ "Research Area": ["Scientific Computing"],
+ "Software Class": ["Data Visualization"],
+ "Software Type": ["Interactive Development Environment"],
+ "Field of Science": ["Computer and Information Sciences", "Applied Computer Science", "Informatics, Analytics and Information Science"]
+}

@@ -1,0 +1,58 @@
+Software Name: AI (Artificial Intelligence)
+
+JSON Data:
+```json
+{
+  "softwareName": "AI",
+  "overview": "AI (Artificial Intelligence) is a broad field of computer science that involves building smart machines capable of performing tasks that typically require human intelligence.",
+  "features": [ "Natural Language Processing", "Machine Learning algorithms", "Deep Learning", "Robotics Control", "Computer Vision", "Speech Recognition" ],
+  "tags": [ "Artificial Intelligence", "Machine Learning", "Deep Learning", "Computer science", "Software", "Computational Tool" ]
+}
+```
+
+Additional JSON Data:
+```json
+{
+  "documentationLink": "https://ai.google/research/pubs/",
+  "tutorialLinks": ["https://developers.google.com/machine-learning/crash-course/", "https://www.coursera.org/courses?query=artificial%20intelligence"],
+  "softwarePageLink": "https://ai.google/"
+}
+```
+
+Use Case: Use AI for predicting customer churn rate in a business based on historical data; Implement computer vision in a manufacturing unit for product quality control; Build chatbots for customer service.
+
+Code Details & Examples:
+Code: 
+```python
+# Python code for a simple AI model using the Scikit-learn library
+from sklearn.model_selection import train_test_split
+from sklearn import datasets
+from sklearn.linear_model import LinearRegression
+import numpy as np
+
+iris_data = datasets.load_iris()
+
+X = iris_data.data
+y = iris_data.target
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=1)
+
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+prediction = model.predict(X_test)
+```
+Command to Run: python3 ai_model.py
+
+Input File Specifications: Not Required. The libraries used in this code load in-built datasets. If you want to use your own datasets, you can pass your CSV data file in the form of pandas DataFrame to the model. 
+
+Additional JSON Strings for Tags:
+```json
+{
+  "researchDiscipline": ["Artificial Intelligence", "Data Science", "Machine Learning", "Deep Learning"],
+  "researchArea": ["Computer Science", "Natural Language Processing", "Image Processing", "Speech Recognition"],
+  "softwareClass": ["Data Analysis", "Predictive Modelling", "Image Classification", "Natural Language Processing", "Deep Learning"],
+  "softwareType": ["Library"],
+  "fieldOfScience": ["Applied Computer Science", "Artificial Intelligence and Intelligent Systems", "Informatics, Analytics, and Information Science", "Other Computer and Information Sciences"]
+}
+```

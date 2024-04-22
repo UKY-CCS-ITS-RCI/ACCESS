@@ -1,0 +1,43 @@
+{
+  "Software": "irods-icommands",
+  "Overview": "iRODS (Integrated Rule-Oriented Data System) iCommands is a collection of commands for the iRODS client to interact with the iRODS system. It provides an interface for accessing the system and enables users to perform a wide range of tasks associated with managing and manipulating data stored within iRODS.",
+  "Core Features": {
+    "Commands": "A wide range of commands that allow users to interact with iRODS, including operations such as data transfer, metadata operations and query operations.",
+    "Manage data": "Capability to manage, access, and manipulate stored data within iRODS.",
+    "Cross-platform compatibility": "Supports multiple operating systems, including UNIX, Linux, and Windows."
+  },
+  "General Tags": ["Data Management", "Storage System", "iRODS", "Command Line", "Unix", "Linux", "Windows"]
+}
+
+{
+  "Software Links": {
+    "Software Page": "https://irods.org/",
+    "Documentation": "https://docs.irods.org/",
+    "Tutorials": ["https://docs.irods.org/4.1.10/icommands/user/", "https://docs.irods.org/master/icommands/user/"]
+  }
+}
+
+Use Case: Use irods-icommands for managing and manipulating data stored in iRODS ; 
+Examples: 
+
+Code details and examples:
+Code: 
+- iinit: used to authenticate the user to iRODS. 
+- ils: lists collections and data objects.
+- iget: to download files.
+- iput: to upload files.
+
+Input file: 
+Non specific, any file or data that need to be managed.
+
+Command: 
+- iput localfile remotefile: This command will upload 'localfile' to the remote location specified as 'remotefile'.
+- iget remotefile localfile: This command will download the 'remotefile' from the remote location to local specified as 'localfile'.
+
+{
+  "Research Discipline Tags": ["Computer and Information Sciences", "Applied Computer Science", "Software Engineering, Systems, and Development"],
+  "Research Area Tags": ["Data Management"],
+  "Software Class Tags": ["Data Management System"],
+  "Software Type Tags": ["Command Line Tools"],
+  "Field of Science Tags": ["Computer and Information Sciences"]
+}

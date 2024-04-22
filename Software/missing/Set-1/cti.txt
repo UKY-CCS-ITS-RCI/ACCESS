@@ -1,0 +1,76 @@
+Software Name: CTI
+{
+"Software Name": "CTI",
+"Comprehensive Overview": "CTI or Cluster Tools International is an advanced job submission software system. It was created to significantly improve the usability of HPC system for traditional HPC applications, assist in system management and enhance the usefulness of cluster for non-traditional uses. CTI makes it easier for users to compile, submit, monitor, and manage jobs. It functions by bundling several components of a traditional build and run process into a single, simple, command line based user interface.",
+"Core Features": [
+    {
+        "Feature": "Job submission",
+        "Description": "Enables users to compile, submit, monitor and manage jobs on high performance computing clusters."
+    },
+    {
+        "Feature": "Advanced management tools",
+        "Description": "Features advanced management tools to increase the effectiveness of system administration tasks and improve the efficiency of cluster utilization."
+    },
+    {
+        "Feature": "Command line interface",
+        "Description": "Designed with a command line interface to offer flexibility and convenience to users."
+    }
+],
+"General Tags": ["High Performance Computing", "Cluster Management", "Job Submission"]
+}
+
+{
+"Software Page Link": "https://example.com/cti",
+"Documentation Links": [
+    "https://example.com/cti/docs",
+    "https://example.com/cti/userguide"
+],
+"Training and Tutorial Links": [
+    "https://example.com/cti/tutorials",
+    "https://example.com/cti/training"
+]
+}
+
+Use Case: 
+Use: Compiling and submitting jobs to a HPC system; monitoring the status of submitted jobs; managing jobs.
+  
+Code details and examples: 
+
+Code: 
+
+Here is an example of how to compile a job using CTI:
+
+```
+$ cti compile -o myjob myjob.c
+```
+
+Submitting a job to the system:
+```
+$ cti submit myjob
+```
+
+Monitoring the status of the job:
+```
+$ cti status myjob
+```
+
+Managing the job:
+```
+$ cti cancel myjob
+```
+
+The above commands assume that there is a C program named myjob.c, and 'myjob' is the compiled version of this program.
+
+In case of Python or other script based languages, you can directly submit the job using the 'submit' command on the script file.
+
+```
+$ cti submit my_job.py
+```
+
+{
+"Research Discipline Tags": ["High Performance Computing"],
+"Research Area Tags": ["Digital Infrastructure"],
+"Software Class Tags": ["HPC management tools"],
+"Software Type Tags" : ["Tool"],
+"Field of Science" : ["Computer and Information Sciences", "Software Engineering, Systems, and Development"]
+}

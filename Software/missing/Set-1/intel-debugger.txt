@@ -1,0 +1,46 @@
+{
+  "Software": "Intel Debugger",
+  "Overview": "Intel Debugger, part of Intel Parallel Studio XE and Intel System Studio, is a full-featured debugging tool for programmers to diagnose and understand complex threading, memory, and performance issues that can manifest as deadlocks, memory problems, or incorrect program output. It supports debugging of various languages like Fortran, C, C++, and Python, and is capable of handling serial and parallel codes.",
+  "Core Features": {
+    "1": "Multithreaded Debugging: Offers tools to examine and control the execution of individual threads in multithreaded programs.",
+    "2": "Memory Debugging: Aids in tracking down memory errors such as unitialized memory reads, race conditions, memory leaks, and stack corruption.",
+    "3": "Performance Debugging: Facilitates identification of performance issues by integrating with Intel VTune Amplifier.",
+    "4": "Support for Various Languages: Handles Fortran, C, C++, and Python source code debugging.",
+    "5": "Support for Parallelism: Able to debug MPI, OpenMP, and hybrid applications."
+  },
+  "Tags": ["Debugging", "Performance Analysis", "High-Performance Computing", "Parallelism"]
+}
+
+{
+  "Official Website": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/debugger.html",
+  "Documentation": "https://software.intel.com/sites/products/documentation/doclib/iss/2013/debugger/",
+  "Tutorial": "https://software.intel.com/content/www/us/en/develop/documentation/debugger-help/"
+}
+
+Use Case: Use Intel Debugger to debug a multithreaded program written in C++; Identify bottlenecks in a Python script and optimize it using insights from the debugger;
+Code details and examples: Code 
+
+{
+"Input files": "C++ / Fortran / Python source code files",
+"Format required": "Source code files (.py, .cpp, .f90)",
+"Specifications": {
+  "Python": "Python scripts",
+  "C++": "C++ source code",
+  "Fortran": "Fortran source code"
+},
+"Details": "The source code files should either contain a main method (for C++ and Fortran) or if it's a Python script, a suitable sequence of instructions. Any rerquired libraries must be imported correctly.",
+"Code snippets": {
+  "Creating a breakpoint": "@@ -- python -- @@\nbp = gdb.Breakpoint ('main')\n@@ -- End of python code -- @@", 
+  "Running the debugger": "@@ -- bash -- @@\nidb myProgram\ngdb myProgram \n@@ -- End of bash code -- @@",
+  "Checking Debugging information": "@@ -- GDB -- @@ \n(gdb) info break\n@@ -- End of GDB code -- @@"
+},
+"Command to run": "compile the program with the -g option to include debug information. For example, to compile a C++ program, use g++ -g myProgram.cpp"
+}
+
+{
+  "Research Discipline": "Computer and Information Sciences",
+  "Research Area": "Software Engineering, Systems, and Development",
+  "Software Class": "Debugging tool",
+  "Software Type": "Performance Analysis Tool",
+  "Field of Science": "Computer Science" 
+}

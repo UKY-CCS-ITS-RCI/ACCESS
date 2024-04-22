@@ -1,0 +1,52 @@
+Use Case: JupyterLmod is a Jupyter notebook extension which combines Lmod with the interactive computing features of Jupyter. It provides an easy way to interact with environment modules before running notebook cells. JupyterLmod allows users to browse for and activate modules from a dropdown list conveniently located in the Jupyter notebook interface.
+
+Code details and examples: Code.
+In the notebook interface, you can browse for available modules by clicking on the "Environment" tab and then the "Module" button. A dropdown list of available modules will appear. Clicking on a module will load it into your environment. You can check the active modules in your environment by typing '!module list' in a cell and then running it.
+
+(Note: The extension must be installed and enabled to use these features. No coding or command line skills are necessary for using this extension.)
+
+Here is the JSON string output:
+```json
+{
+    "software_name": "jupyterlmod", 
+    "overview": "JupyterLmod is an extension for Jupyter. It integrates the functionality of Lmod, a software module system, into Jupyter, allowing users to manage software environments from within the Jupyter interface.", 
+    "core_features": ["Easy to use dropdown list for module management.", "No need to leave Jupyter interface to manage software environments.", "Ability to list currently loaded modules."], 
+    "tags": ["Jupyter", "Lmod", "environment modules", "interface", "dropdown list"], 
+    "links": {
+        "software": "https://github.com/jupyterlmod", 
+        "documentation": "https://jupyterlmod.readthedocs.io/en/latest/index.html", 
+        "tutorials": ["https://jupyterlmod.readthedocs.io/en/latest/installation.html", "https://jupyterlmod.readthedocs.io/en/latest/usage.html"], 
+        "examples": ["https://jupyterlmod.readthedocs.io/en/latest/usage.html"]
+    },
+    "research_discipline": ["Computer and Information Sciences", "Software Engineering, Systems, and Development"],
+    "research_area": ["Interactive computing", "Software environments management"],
+    "software_type": ["Jupyter extension"],
+    "fields_of_science": ["Computer and Information Sciences"]
+}
+```
+Additional JSON strings:
+```json
+{
+    "research_discipline_tags": ["Computer and Information Sciences", "Software engineering, System, development"]
+}
+```
+```json
+{
+    "research_area_tags": ["Interactive computing", "Software environments management"]
+}
+```
+```json
+{
+    "software_class_tags": ["Jupyter extension"]
+}
+```
+```json
+{
+    "software_type_tags": ["Extension"]
+}
+```
+```json
+{
+    "field_of_science_tags": ["Computer and Information Sciences"]
+}
+```

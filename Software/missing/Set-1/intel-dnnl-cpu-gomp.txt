@@ -1,0 +1,70 @@
+Use Case: 
+The Intel Deep Neural Network Library (DNNL) that uses GNU OpenMP (GOMP) is a performance library for deep learning applications. This version specifically targets CPUs and uses GNU OpenMP for parallelization. It is primarily used to speed up deep learning computations and to make it easier to design deep neural networks. The library includes highly optimized building blocks for implementation of convolutional neural networks (CNN), recurrent neural networks (RNN), and other commonly used deep learning operations.
+
+Code details and examples:
+An example implementation in Python would be as follows:
+
+```python
+from intel_dnnl_cpu_gomp import DNNL
+import numpy as np
+
+# Initialize DNNL
+dnnl = DNNL()
+
+# Create example data
+x = np.random.rand(1000, 784)
+y = np.random.rand(1000, 10)
+
+# Create a simple model
+model = dnnl.models.Sequential([
+    dnnl.layers.Dense(64, activation='relu', input_shape=(784, )),
+    dnnl.layers.Dense(10, activation='softmax')
+])
+
+# Compile the model
+model.compile(loss='categorical_crossentropy', optimizer='adam')
+
+# Train the model
+model.fit(x, y, epochs=10, batch_size=32)
+```
+
+In this script, an instance of the DNNL library is created. Then, a simple example model is created using the Sequential model from the library. The model is then compiled and trained in the usual way.
+
+Command to run:
+
+This script would be run as a standard Python script: `python script.py`
+
+JSON String:
+
+```json
+[
+    {
+        "software_name": "Intel DNNL CPUs with GOMP",
+        "overview": "A performance library for deep learning applications that specifically targets CPUs and uses GOMP for parallelization.",
+        "core_features": "Optimised building blocks for implementing neural networks, including support for CNNs and RNNs.",
+        "tags": "Deep Learning, Performance Optimization, Neural Networks"
+    }, 
+    {
+        "web_links":
+        {
+            "software_page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html",
+            "documentation": "https://oneapi-src.github.io/oneDNN/",
+            "tutorial_materials": "https://software.intel.com/content/www/us/en/develop/articles/get-started-with-intel-optimization-for-pytorch.html"
+        }
+    }
+]
+```
+
+Additional JSON String for tags:
+
+```json
+[
+    {
+        "research_discipline": "Computer and Information Sciences, Applied Computer Science",
+        "research_area": "Artificial Intelligence and Intelligent Systems",
+        "software_class": "Library",
+        "software_type": "Performance Optimization",
+        "field_of_science": "Computer and Information Sciences"
+    }
+]
+```

@@ -1,0 +1,43 @@
+Software Name: Miniconda3 
+
+JSON StringOutput:
+
+{
+"software_name": "Miniconda3",
+"comprehensive_overview": "Miniconda3 is a free minimal installer for conda. It is a small, bootstrap version of Anaconda, that includes only conda, Python, and the packages they depend on. The advantage of Miniconda is that you are in control over the packages and versions installed in your environment. Conda is a powerful package and environment manager that you use with command line commands.",
+"core_features": ["Fast environment creation", "Large library of packages", "Support for Windows, Linux and MacOS", "Python-based", "Dependency and package management"],
+"general_tags": ["Python", "Conda", "Environment Manager", "Package Manager"]
+}
+
+Additional JSON string output
+
+{
+"software_page_link": "https://docs.conda.io/en/latest/miniconda.html",
+"documentation_link": "https://conda.io/projects/conda/en/latest/user-guide/install/index.html",
+"training_materials": ["https://conda.io/projects/conda/en/latest/user-guide/getting-started.html", "https://docs.anaconda.com/anaconda/navigator/"]
+}
+
+Use Case: Miniconda3 is often used to create isolated environments for specific Python projects, ensuring any package installations or versions don't interfere with others.
+
+Code details and examples: 
+
+Code: 
+
+# To create a new environment named 'myenv'
+conda create --name myenv
+
+# To activate the environment named 'myenv'
+conda activate myenv
+
+# To install a package in the environment 'myenv'
+conda install --name myenv numpy
+
+JSON Strings for tags:
+
+{
+"research_discipline": "Computer and Information Sciences",
+"research_area": "Software Engineering, Systems, and Development",
+"software_class": "Package manager",
+"software_type": "Environment manager",
+"field_of_science": "Computer Science"
+}

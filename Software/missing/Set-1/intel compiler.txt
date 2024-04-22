@@ -1,0 +1,43 @@
+{
+  "Software Name": "Intel Compiler",
+  "Overview": "Intel Compiler, also known as Intel C++ Compiler (ICC), is an industry benchmark for creating high-performance, power-efficient, and scalable software applications. It is a set of compilers from Intel that supports languages such as C, C++, and Fortran for software development.",
+  "Core Features": [
+    {
+      "Feature": "High-performance code optimizer",
+      "Description": "The Intel Compiler uses advanced optimization features to generate code that seamlessly runs on Intel hardware."
+    },
+    {
+      "Feature": "Multi-threaded code execution",
+      "Description": "It allows developers to develop, analyze, and optimize multi-threaded application performance on Intel multicore and manycore systems."
+    },
+    {
+      "Feature": "Intel Performance Libraries",
+      "Description": "It includes Intel Performance Libraries that are optimized to take advantage of processor's capabilities."
+    },
+    {
+      "Feature": "Advanced Vector Extensions",
+      "Description": "The compiler supports AVX and AVX2 extensions which increases parallelism for scientific computations, video compression, image processing and similar workloads."
+    }
+  ],
+  "General Tags": ["Compiler", "Software Development", "High Performance", "C++", "Fortran", "C", "Intel"]
+}
+
+{
+  "Software Page Link": "https://software.intel.com/content/www/us/en/develop/tools/compilers.html",
+  "Documentation": [
+    {"Link": "https://software.intel.com/content/www/us/en/develop/tools/compilers/documentation.html", "Description": "Intel Compiler Documentation"},
+    {"Link": "https://software.intel.com/content/www/us/en/develop/documentation/get-started-with-intel-c-compiler-for-linux/top.html", "Description": "Getting Started Guide for Linux"}
+  ],
+  "Tutorials and Training Material": [{
+    "Link": "https://software.intel.com/content/www/us/en/develop/tools/developer-training.html", "Description": "Intel Developer Training"}]
+}
+
+Use Case: Use the Intel Compiler for developing high-performance software applications that can efficiently run on various Intel hardware like Intel Core processors, Intel Xeon Scalable processors, or Intel Xeon Phi processors. ; Code details and examples: Code would vary depending upon the programming language and usage scenario. For C programming, the usage could be as follows: `icc -O2 -o hello_world hello_world.c` where `-O2` is the optimization level, `-o` specifies the output file name and `hello_world.c` is the source file to compile.
+
+{
+  "Research Discipline Tags": ["Applied Computer Science", "Software Engineering, Systems, and Development", "Artificial Intelligence and Intelligent Systems"],
+  "Research Area Tags": ["Compiler Design", "Software Optimization"],
+  "Software Class Tags": ["Scientific Software"],
+  "Software Type Tags": ["Compilers"],
+  "Field of Science Tags": ["Computer and Information Sciences"]
+}

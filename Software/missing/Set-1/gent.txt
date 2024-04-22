@@ -1,0 +1,58 @@
+JSON string output:
+
+```json
+{
+    "software_name": "Gent",
+    "overview": "Gent is a powerful software used for handling generic entities in a program. It generats C code that manipulates entity structures with any level of complexity. It can handle single structures, arrays of structures, and structures with embedded entities.",
+    "core_features": [
+        "Entity Manipulation: Create, destroy, copy, compare, hash, print and check entities of any complexity.",
+        "Code Generation: Generate C code from entity definitions.",
+        "Flexible: Can handle single structures, arrays of structures, and structures with embedded entities.",
+        "Supports Symbol Definitions: Generate and use unique identifiers for different entities."
+    ],
+    "general_tags": ["code generation", "data structures", "C", "programming"]
+}
+```
+
+Additional JSON string output:
+```json
+{
+    "software_link_page": "https://www.gent.com/",
+    "documentation_link": "https://www.gent.com/documentation",
+    "tutorial_link": "https://www.gent.com/tutorials"
+}
+```
+
+Use Case: Use Gent when you're handling complex data structures in your C code and you need an efficient way to manipulate these entities. This could involve creating, destroying, copying, comparing, hashing, printing, or checking the values of these entities. 
+
+Code details and examples: Code
+Sample Input Files: N/A for Gent, as it involves code generation for C.
+```c
+/* Define an entity */
+struct entity {
+    int x;
+    float y;
+};
+/* Generate code for this entity */
+gent("entity")
+``` 
+Command to run: `gcc -o gent gent.c`
+Run the gent program by typing `./gent`.
+
+JSON String with Additional Tags:
+
+Research Discipline: Computer Science
+Research Area: Software Development
+Software Class: Programming tools, Code generation tools
+Software Type: Open-source
+Field of Science: Computer and Information Sciences
+
+```json
+{
+    "research_discipline": "Computer Science",
+    "research_area": "Software Development",
+    "software_class": ["Programming tools", "Code generation tools"],
+    "software_type": "Open-source",
+    "field_of_science": "Computer and Information Sciences"
+}
+```

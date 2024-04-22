@@ -1,0 +1,67 @@
+{
+  "Software Name": "iGenomes",
+  "Overview": "iGenomes is a collection of reference sequences and annotation files for commonly analyzed organisms. The files have been pre-generated to be easily used as a one-step process in analysis. The iGenomes were created from UCSC, NCBI, and Ensembl database builds, and can be used with many of the common bioinformatics tools (e.g., BWA, Bowtie, TopHat, Cufflinks, LiftOver, BEDTools).",
+  "Core Features": [
+    {
+      "Feature": "Reference Sequences",
+      "Description": "The iGenomes package provide the full reference sequences for commonly analyzed organisms."
+    },
+    {
+      "Feature": "Annotation files",
+      "Description": "In addition to the reference sequences, iGenomes also includes gene annotation for the respective organisms."
+    },
+    {
+      "Feature": "Pre-generated files",
+      "Description": "Helps in easy integration with bioinformatics tools, saving time and computational expense associated with sequence database construction."
+    }
+  ],
+  "Tags": ["bioinformatics", "genomics", "sequencing", "reference genome", "annotation"],
+  "Link": "https://support.illumina.com/sequencing/sequencing_software/igenome.html",
+  "Documentation": "https://emea.support.illumina.com/sequencing/sequencing_software/igenome.html?langsel=/us/",
+  "Tutorials": [],
+  "Sample Input": {
+    "Input File": "FASTQ files, SAM/BAM alignment",
+    "Specifications": "Input files are commonly sequencing results which can be aligned to the reference genomes provided by iGenomes."
+  },
+  "Code Details and Examples": {
+    "Command to run": "Depends on the specific tools being used, but iGenomes files can generally be specified during alignment or other steps.",
+    "In Depth Explanation": "The specific command to run will depend on the tool that is being used. For example, with the BWA alignment tool, one might use the command 'bwa mem [options] <reference.fasta> <reads.fq>' where <reference.fasta> could be an iGenomes reference sequence."
+  }
+}
+
+{
+  "Research Discipline Tags": [
+    {
+      "Tag": "Bioinformatics",
+    },
+    {
+      "Tag": "Genomics"
+    }
+  ],
+  "Research Area Tags": [
+    {
+      "Tag": "Sequence analysis"
+    }
+  ],
+  "Software Class Tags": [
+    {
+      "Tag": "Reference dataset"
+    }
+  ],
+  "Software Type Tags": [
+    {
+      "Tag": "Dataset"
+    }
+  ],
+  "Field of Science Tags": [
+    {
+      "Tag": "Biological Sciences"
+    },
+    {
+      "Tag": "Biochemistry and Molecular Biology"
+    },
+    {
+      "Tag": "Genetics"
+    }
+  ]
+}

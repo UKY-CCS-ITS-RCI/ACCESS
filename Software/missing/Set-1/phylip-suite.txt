@@ -1,0 +1,89 @@
+Use Case: PHYLIP (Phylogeny Inference Package) is a free computational package that performs a variety of functionalities in inferring phylogenies. This suite of programs has functions for performing multiple sequence alignments, drawing phylogenetic trees, inferring evolutionary relationships, and other tasks related to phylogenetics. These programs have a broad range of applications in the fields of molecular biology, genomics, and evolutionary biology.
+
+Code details and examples: Code:
+
+PHYLIP consists of several stand-alone tools. Here is an example of using Phylip's "dnaml" program:
+
+```bash
+# Create an alignment file in PHYLIP format
+cat >infile <<EOF
+5 42
+Turkey  AAGCTNGGGC ATTTCAGGGT
+Salmo g AAGCCTTGGC AGTTCGGGGT
+Homo sa AAGCCTTGGC ATTTCGAGGT
+Chimp   AAGCTTTTGC ATTTCAGGGT
+Gorilla AAGCTNTGGC AGTTCGAGGT
+EOF
+
+# Run dnaml
+dnaml
+
+# The result is saved in a file named "outtree".
+```
+For PHYLIP, input data usually comes in a very specific format. The input dataset must start with a single line indicating the number of sequences and the number of base pairs in the sequences. Following this, each sequence must be exactly on a line in the file with its respective identifier.
+
+JSON String: 
+```
+{
+"softwareName": "PHYLIP Suite",
+"overview": "A suite of programs for inferring phylogenies (evolutionary trees)",
+"coreFeatures": ["Multiple sequence alignments", "Drawing phylogenetic trees", "Inferring evolutionary relationships"],
+"tags": ["phylogenetics", "evolutionary biology", "genomics", "molecular biology"]
+}
+```
+Additional JSON strings:
+
+1.
+```
+{
+"linkToSoftware": "http://evolution.genetics.washington.edu/phylip.html"
+}
+```
+2.
+```
+{
+"linkToDocumentation": "http://evolution.genetics.washington.edu/phylip/doc/main.html"
+}
+```
+3.
+```
+{
+"trainingMaterials": [
+"http://evolution.genetics.washington.edu/phylip/tutorial.html",
+"https://www.youtube.com/watch?v=RHLoZtSb4mI"
+]
+}
+```
+
+Additional JSON strings for tags:
+
+1.
+```
+{
+"researchDiscipline": "Evolutionary Biology"
+}
+```
+2.
+```
+{
+"researchArea": "Phylogenetics"
+}
+```
+3.
+```
+{
+"softwareClass": "Computational Package"
+}
+```
+4.
+```
+{
+"softwareType": "Phylogenetics Software"
+}
+```
+5.
+```
+{
+"fieldOfScience": "Biological Sciences"
+}
+```

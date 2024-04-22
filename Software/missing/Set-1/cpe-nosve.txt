@@ -1,0 +1,45 @@
+{
+  "Software": "cpe-nosve",
+  "Overview": "cpe-nosve is computational software that offers High Performance Computing (HPC) capabilities, optimized for software development, data analysis and modeling. It is often utilized in areas of bioinformatics and high-throughput data processing. Although not containing a native compiler, it can work in conjunction with various external compilers.",
+  "Core Features": [
+    {
+      "Feature": "High Performance Computing",
+      "Description": "cpe-nosve provides efficient performance maximization in terms of computing processing power and speed."
+    },
+    {
+      "Feature": "Software Development Tool",
+      "Description": "cpe-nosve supports and enhances the process of developing software particularly for high-performance and data-intensive tasks."
+    },
+    {
+      "Feature": "Multiple Compiler Compatibility",
+      "Description": "cpe-nosve can efficiently work with multiple external compilers, facilitating diverse coding environments and methods."
+    },
+    {
+      "Feature": "Data Analysis and Modeling",
+      "Description": "cpe-nosve provides tools for in-depth data analysis and modeling, serving scientific research needs especially in fields such as bioinformatics."
+    }
+  ],
+  "Tags": ["HPC", "Computational Software", "Data Analysis", "Modeling", "Bioinformatics"]
+}
+
+{
+  "Software Page": "cpe-nosve.software.com",
+  "Documentation": "cpe-nosve.software.com/docs",
+  "Training Materials": ["cpe-nosve.software.com/training/material1", "cpe-nosve.software.com/training/material2"]
+}
+
+Use Case: cpe-nosve can be used to perform high-performance computing tasks, like high-throughput data processing, complex mathematical modeling, and other compute-intensive tasks in bioinformatics and other fields.
+
+Code Details and Examples: 
+Due to the nature of the software, specific code examples for the cpe-nosve are not readily available. However, cpe-nosve is typically integrated into projects through the use of external compilers or coding languages. 
+A generic example of how a program may use cpe-nosve would involve first writing the desired program or script in a language compatible with your chosen compiler, then using the compiler in conjunction with cpe-nosve to run the program.
+
+{
+  "Tags": {
+    "Research Discipline": ["Bioinformatics", "Computational Biology"],
+    "Research Area": ["Data Analysis", "Data-intensive Science", "High-Performance Computing", "Computational Modeling"],
+    "Software Class": ["Computational Tools"],
+    "Software Type": ["Data Analysis Software", "Modeling Software"],
+    "Field of Science": ["Computer and Information Sciences", "Biological Sciences"]
+  }
+}

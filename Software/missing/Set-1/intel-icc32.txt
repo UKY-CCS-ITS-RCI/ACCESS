@@ -1,0 +1,66 @@
+{
+  "Software": {
+    "Name": "Intel-icc32",
+    "Overview": "Intel-icc32 is Intel's proprietary compiler for Intel-based CPUs and is primarily used for high-performance computing, numerical, and scientific computing. It is known for its capability of generating optimized code.",
+    "Core Features": {
+      "1": "Automatic Parallelization",
+      "2": "Vectorization",
+      "3": "Interprocedural Optimization (IPO)",
+      "4": "Profile Guided Optimization",
+      "5": "High-level loop transformations (loop unrolling, blocking)"
+    },
+    "Tags": ["HPC", "Compiler", "Intel", "Optimization", "Parallel Computing"]
+  },
+  "Links": {
+    "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler.html/",
+    "Documentation": "https://software.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-compiler-dev-guide-and-reference/top.html",
+    "Tutorials": {
+      "1": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler.html#gs.hm6anb",
+      "2": "https://www.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-compiler.html#gs.65jy2l"
+    }    
+  }
+}
+
+Use Case: 
+
+Use: Intel-icc32 is perfect for applications that require maximum performance and efficiency. Ideal for computationally intensive simulations in fields such as physics or bioinformatics.
+
+Code Details and Examples: 
+
+Code:
+
+Assuming a C file named 'program.c', you can compile it using the Intel icc compiler like this:
+
+```bash
+icc -o program program.c
+```
+
+In this case, 'program.c' is the source file and 'program' is the output file.
+
+To enable optimizations, use the -O3 flag:
+
+```bash
+icc -O3 -o program program.c
+```
+
+The -O3 option instructs the compiler to apply high-level optimizations.
+
+To use the automatic parallelization feature, add the -parallel flag:
+
+```bash
+icc -parallel -o program program.c
+```
+
+This command will instruct the compiler to automatically distribute computation to multiple cores if possible, increasing the performance for parallelizable sections of your code.
+
+For more advanced use, you can take advantage of the interprocedural optimization or profile guided optimization features following the detailed guides in the official documentation.
+
+Additional Tags JSON strings:
+
+{
+  "Research Discipline": ["High Performance Computing"],
+  "Research Area": ["Code Optimization"],
+  "Software Class": ["Compiler"],
+  "Software Type": ["Code Optimizer"],
+  "Field of Science": ["Computer and Information Sciences"]
+}

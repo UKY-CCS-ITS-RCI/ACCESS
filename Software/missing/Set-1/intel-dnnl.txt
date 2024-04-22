@@ -1,0 +1,51 @@
+{
+  "Software": "intel-dnnl",
+  "Overview": "Intel DNNL, also known as Intel Deep Neural Network Library, is a collection of low-level performance primitives for deep learning. It is developed with the purpose of accelerating deep learning computations and maximizing hardware efficiency.",
+  "Core Features": [
+    "Optimized for Intel Architecture Processors",
+    "Support for a wide spectrum of deep learning primitives",
+    "Includes support for forward and backward convolution, pooling, normalization, activation, and fully connected layer algorithms",
+    "Includes support for data formats and memory management",
+    "Integrated with several software libraries/Frameworks via dynamically loadable plugins"
+  ],
+  "Tags": ["Deep Learning", "Neural Networks", "Software Development", "Computational Sciences", "High Performance Computing"]
+}
+
+{
+  "Additional Links": {
+    "Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dnn-library.html",
+    "Documentation": "https://intel.github.io/mkl-dnn/",
+    "Tutorials": [
+      "https://software.intel.com/content/www/us/en/develop/articles/get-started-with-intel-dnnl.html",
+      "https://software.intel.com/content/www/us/en/develop/documentation/onemkl-linux-developer-guide/top/optimization-and-performance/deep-neural-networks-dnn.html"
+    ]
+  }
+}
+
+Use Case: 
+Use the library for developing high performing deep learning models and optimizing neural network computations.
+
+Code details and examples: 
+Code:
+```
+#include <dnnl.hpp>
+.
+.
+.
+dnnl::memory::dims conv_src_tz = { batch, 3, 227, 227 };
+dnnl::memory::dims conv_weights_tz = { 96, 3, 11, 11 };
+dnnl::memory::dims conv_bias_tz = { 96 };
+dnnl::memory::dims conv_dst_tz = { batch, 96, 55, 55 };
+dnnl::memory::dims conv_strides = { 4, 4 };
+dnnl::memory::dims conv_padding = { 0, 0 };
+```
+Command to run: 
+The command could vary based on how the script is named and where it is located. An example would be 'g++ my_script.cpp -ldnnl'
+
+{
+  "Tags for Research discipline": ["Applied Computer Science", "Artificial Intelligence and Intelligent Systems"],
+  "Tags for Research Area": ["Deep Learning", "Neural Networks"],
+  "Tags for Science Class": ["Artificial Intelligence", "Neural Networks"],
+  "Tags for software class": ["Deep Learning Framework"],
+  "Field of Science": ["Computer and Information Sciences", "Artificial Intelligence and Intelligent Systems"]
+}

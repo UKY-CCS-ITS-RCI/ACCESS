@@ -1,0 +1,56 @@
+Use Case: GNU Parallel is a shell tool for executing jobs in parallel using one or more compute nodes. It is used to speed up processing by using multiple cores and servers, maximizing efficiency. It also helps integrate with CPU schedulers to distribute system load appropriately, protects against blocked jobs. GNU Parallel is widely used in data crunching and data analysis, especially where multiple CPU cores and servers are involved.
+
+Code details and examples:
+Code: Parallelizing a loop
+This script runs createSQL.sh for every csv file in the current level
+
+```bash
+ls *.csv | parallel ./createSQL.sh {}
+```
+
+Code: Using parallel with find 
+This script searches for .csv files and applies createSQL.sh to each
+
+```bash
+find . -name '*.csv' | parallel ./createSQL.sh
+```
+
+Code: Splitting STDIN and piping to a command 
+This script runs wc on a text file where each word is a job 
+
+```bash
+cat bigfile.txt | parallel --pipe wc -w
+```
+
+JSON OUTPUT 1:
+
+```json
+{
+"software_name": "gnu-parallel",
+"comprehensive_overview": "A command-line driven utility that abstracts away some of the complexity of multi-core/processor computing tasks in Unix-like environments.",
+"core_features": ["Job Parallelism", "Multi-core utilization", "Ease of Use", "Redirection Support", "Job Spawning", "Process Sequencing"],
+"general_tags": ["Parallel Computing", "Multithreading", "Multiprocessing", "Automation", "Command Line Tools"]
+}
+```
+
+JSON OUTPUT 2:
+
+```json
+{
+"software_page_link": "https://www.gnu.org/software/parallel/",
+"documentation_link": "https://www.gnu.org/software/parallel/parallel_tutorial.html",
+"tutorial_links": ["http://www.gnu.org/software/parallel/parallel_tutorial.html", "https://www.youtube.com/watch?v=OpaiGYxkSuQ"]
+}
+```
+
+ADDITIONAL JSON TAG STRINGS:
+
+```json
+{
+"research_discipline": ["Parallel Computing", "High Performance Computing", "Multiprocessing"],
+"research_area": ["High Performance Computing", "Computational Science"],
+"software_class": ["Task parallel libraries"],
+"software_type": ["Desktop applications"],
+"field_of_science": ["Computer and Information Sciences"]
+}
+```

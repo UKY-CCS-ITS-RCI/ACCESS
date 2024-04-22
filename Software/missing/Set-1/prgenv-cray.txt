@@ -1,0 +1,53 @@
+{
+  "Software": "PrgEnv-cray",
+  "Overview": "PrgEnv-cray is a software development suite for high-performance computing (HPC) systems provided by Cray. It includes compilers, libraries, performance analysis tools, and debugging tools for developing and optimizing parallel applications.",
+  "CoreFeatures": [
+    "Optimizing and parallelizing compilers",
+    "High-performance mathematical libraries",
+    "Debugging tools for memory leaks and performance bottlenecks",
+    "Integration with the Cray system environment and job scheduler"],
+  "Tags": ["high-performance computing", "compilers", "debugging", "programming environment"],
+  "URL": {
+    "SoftwarePage": "https://docs.cray.com/en-us/CSStorm/CLE/6.0/programmer-guide/index.html",
+    "Documentation": "https://docs.cray.com/en-us/CSStorm/CLE/6.0/programmer-guide/index.html",
+    "TrainingMaterials":  ["http://www.archer.ac.uk/training/course-material/2014/10/chapel_bristol/ChapelSlides.pdf"]
+  }
+}
+
+Use Case: 
+PrgEnv-cray is typically used in high-performance computing environments where there's a need for efficient utilization of large-scale systems and multi-threaded architectures. It offers a productive environment for developers working on scientific applications, data-intensive applications, simulations, and machine learning workloads. 
+
+Code Details and Examples: 
+Code: 
+Here is a brief example of using PrgEnv-cray to compile and run a Fortran code. 
+
+```bash
+module load PrgEnv-cray
+ftn -o my_program my_program.f90
+aprun -n 32 ./my_program
+```
+
+Here, `module load PrgEnv-cray` loads the PrgEnv-cray environment, `ftn` is the Fortran compiler provided by Cray, `-o my_program` specifies the output executable's name, and `my_program.f90` is the source code file. The `aprun` command is used to execute the compiled code across multiple processor cores, with `-n 32` specifying the number of cores to use.
+
+Field of Science: 
+"Computer and Information Sciences",
+"Applied Computer Science",
+"Software Engineering, Systems, and Development"
+
+Software Class: 
+"Computational Tools"
+"Programming Environments"
+"Debugging Tools"
+
+Research Discipline:
+"Parallel Computing"
+"High-performance Computing"
+
+Research Area: 
+"Scientific Computing"
+"Distributed Systems"
+"Systems Programming"
+
+Software Type: 
+"Computational Software"
+"HPC Software"

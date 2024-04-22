@@ -1,0 +1,51 @@
+{
+    "Software Name": "Python 3",
+    "Overview": "Python 3 is a high-level, general-purpose programming language that supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python 3 is an upgraded version of Python 2 with certain improved functionalities and syntax. It features a dynamic type system and automatic memory management, and supports multiple operating systems.",
+    "Core Features": [
+        {
+            "Feature": "Simple and consistent syntax",
+            "Description": "Python’s clear syntax allows developers to express concepts without writing additional code."
+        },
+        {
+            "Feature": "Support for multiple programming paradigms",
+            "Description": "Python supports object-oriented, procedural, and functional programming paradigms, making it flexible for a variety of projects."
+        },
+        {
+            "Feature": "Standard Library",
+            "Description": "Python’s extensive standard library allows developers to perform a variety of high-level tasks without the need for third-party libraries."
+        },
+        {
+            "Feature": "Interpreted Language",
+            "Description": "Python is an interpreted language which means that it executes the code line by line which makes debugging errors a lot easier and efficient."
+        }
+    ],
+    "Tags": ["Scripting", "Prototyping", "Algorithm Development", "Web Development", "Data Analysis", "Machine Learning"]
+}
+
+{
+    "Software Page": "https://www.python.org/",
+    "Documentation": "https://docs.python.org/3/",
+    "Tutorials": ["https://docs.python.org/3/tutorial/index.html", "https://www.learnpython.org/", "https://www.codecademy.com/learn/learn-python-3"]
+}
+
+Use Case: Use Python 3 for performing a simple arithmetic operation ;
+Code Details and Examples: 
+Code: 
+```python
+# arithmetic operation in python
+a = 5
+b = 3
+print('Sum:', a+b)
+print('Difference:', a-b)
+print('Product:', a*b)
+print('Division:', a/b)
+```
+Command to run: `python3 filename.py`
+
+{
+    "Research Discipline": "Computer and Information Sciences",
+    "Research Area": "Applied Computer Science",
+    "Software Class": "Programming Language",
+    "Software Type": "General-purpose",
+    "Field of Science": "Computer and Information Sciences"
+}

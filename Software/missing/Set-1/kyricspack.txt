@@ -1,0 +1,79 @@
+{
+  "SoftwareName": "Spack",
+  "Overview": "Spack is a flexible package manager that supports multiple versions, configurations, platforms, and compilers. It is aimed at HPC environments but also used in many other, less exotic computing environments. It is designed to enable all of your software to coexist peacefully and to be able to easily generate modules and other views of your installed packages.",
+  "CoreFeatures": [
+    "Flexible package recipes",
+    "Dependency resolution",
+    "Package configuration and customization",
+    "Build multiple versions, configurations",
+    "Compatibility with other package managers"
+  ],
+  "Tags": ["Package manager", "Configurations", "Versions", "Platforms", "Compilers"]
+}
+
+{
+  "SoftwarePageLink": "https://spack.io/",
+  "DocumentationLink": "https://spack.readthedocs.io/",
+  "TutorialsLinks": [
+    "https://spack-tutorial.readthedocs.io/",
+    "https://www.youtube.com/watch?v=U1i9BOzuOEU"
+  ],
+  "TrainingMaterialsLinks": "https://spack-tutorial.readthedocs.io/"
+}
+
+Use Case: Spack manages complex software dependencies, ensuring that different packages coexist peacefully. It downloads, builds and installs software in your environment, taking care of dependencies.
+
+Code details and examples:
+
+Code:
+
+1) Add a new package to Spack:
+
+```
+spack create https://url/to/cool-software-1.2.3.tar.gz
+```
+
+2) Install a package:
+
+```
+spack install mypackage
+```
+
+3) Find installed packages:
+
+```
+spack find
+```
+
+The command `spack install mypackage` installs 'mypackage' along with all its dependencies, while `spack find` lists all the installed software packages.
+
+Sample input file:
+
+To specify software requirements and versions, a `package.py` file is needed. For instance, a Spack package for MyPackage might look like the following:
+
+```
+from spack import *
+
+
+class MyPackage(Package):
+    homepage = "http://www.example.com"
+    url = "http://www.example.com/MyPackage-1.2.3.tar.gz"
+
+    version('1.2.3', '0123456789abcdef0123456789abcdef')
+
+    def install(self, spec, prefix):
+        configure('--prefix=%s' % prefix)
+        make()
+        make('install')
+```
+
+Tags for field of science: Computer and Information Sciences, Software Engineering, Systems, and Development.
+
+Research discipline: High Performance Computing, Software Development
+
+Research Area: Software management, High performance computing
+
+Software Class: Package Manager
+
+Software Type: Open-Source Software
+

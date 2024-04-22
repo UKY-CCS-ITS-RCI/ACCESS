@@ -1,0 +1,56 @@
+{
+  "Software Name": "STAR-Fusion",
+  "Comprehensive Overview": "STAR-Fusion uses the STAR aligner to identify candidate fusion transcripts supported by Illumina reads. It takes raw reads as input and produces fusion predictions as output. The tool is specially designed for RNA-Seq data.",
+  "Core Features": 
+  [
+    "Handles both single and paired-end reads.",
+    "Efficient memory use.",
+    "Rapid processing speed.",
+    "Utilizes the STAR aligner for accuracy."
+  ],
+  "Tags": ["RNA-seq", "Genomics", "Bioinformatics", "Alignment"]
+}
+
+{
+  "Additional links":{
+      "Software page": "https://github.com/STAR-Fusion/STAR-Fusion",
+      "Documentation": "https://github.com/STAR-Fusion/STAR-Fusion/wiki",
+      "Training and Tutorial Materials": ["https://github.com/STAR-Fusion/STAR-Fusion/wiki#tutorials"]
+    }
+}
+
+Use Case:
+Use STAR-Fusion for fusion gene detection in RNA-seq data.
+
+Code details and examples:
+
+Code to run STAR-Fusion:
+
+```
+STAR --genomeDir /path/to/your/STAR-index  \
+--readFilesIn sample_1.fastq sample_2.fastq \
+--outSAMtype BAM SortedByCoordinate \
+--readFilesCommand zcat \
+--outFileNamePrefix star
+```
+
+For this, you will need two files: sample_1.fastq and sample_2.fastq, which are your raw sequence data. Note that "/path/to/your/STAR-index" should be the path to your STAR index directory.
+
+After that, you can run STAR-Fusion with:
+```
+STAR-Fusion --genomeDir /path/to/your/STAR-index \
+--left_fq sample_1.fastq \
+--right_fq sample_2.fastq \
+--output_dir star_fusion_outdir
+```
+
+For this, you will need the same raw sequence data, and an output directory where the results will be saved. Note that "/path/to/your/STAR-index" should be the path to your STAR index directory.
+
+Additional JSON strings for tags:
+{
+"Research Discipline": ["Genomics", "Bioinformatics"],
+"Research Area": ["Genetic variation", "RNA sequencing", "Cancer research"],
+"Software Class": ["Bioinformatics software"],
+"Software Type": ["Command-line tool"],
+"Field of Science": ["Biological Sciences", "Biochemistry and Molecular Biology"]
+}

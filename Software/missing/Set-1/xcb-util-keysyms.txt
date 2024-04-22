@@ -1,0 +1,48 @@
+{
+    "Software": "xcb-util-keysyms",
+    "Overview": "xcb-util-keysyms is a library that provides convenient access to XCB for using X keysym definitions. It's a part of the xcb-util module which provides several libraries that sit on top of libxcb, the core X protocol library, and some of the extension libraries.",
+    "Core Features": [
+        "Provides API for keysym definitions",
+        "Standing interface to the X server",
+        "Usable extensions for libxcb"
+    ],
+    "Tags": ["XCB", "Keysyms", "Library"]
+}
+
+{
+    "Link Software Page": "https://xcb.freedesktop.org",
+    "Additional Web URLs": {
+        "Documentation": "https://xcb.freedesktop.org/tutorial/",
+        "Training Materials": "https://xcb.freedesktop.org/links/"
+    } 
+}
+
+Use Case: Use xcb-util-keysyms when you need to interact with X keysym definitions in a X server environment.
+
+Code details and examples: Code snippets might look like this:
+
+```C
+#include <stdio.h>
+#include <xcb/xcb.h>
+#include <xcb/xcb_keysyms.h>
+
+void handle_key_press(xcb_key_press_event_t *ev) {
+  xcb_keysym_t keysym = xcb_key_press_lookup_keysym(keysyms, ev, 0);
+
+  switch (keysym) {
+    case XCB_KEY_Up: printf("Up key was pressed\n"); break;
+    case XCB_KEY_Down: printf("Down key was pressed\n"); break;
+    default: printf("Other key was pressed\n");
+  }
+}
+```
+
+To compile this code in a Unix-based system you might use something like: `gcc main.c -lxcb -lxcb-keysyms -o myprogram`.
+
+{
+    "Research Discipline": "Computer and Information Sciences",
+    "Research Area": "Software Engineering, Systems, and Development",
+    "Software Class": "Library",
+    "Software Type": "Systems Software",
+    "Field of Science": "Computer and Information Sciences"
+}

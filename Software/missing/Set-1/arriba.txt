@@ -1,0 +1,47 @@
+{
+  "Software": "Arriba",
+  "Overview": "Arriba is a command-line tool for the detection of gene fusions from paired-end RNA-Seq data. It was developed for the use in a clinical research context. The main advantages of Arriba over other tools are a good balance between speed and sensitivity, outstanding specificity (i.e., few false positives), and the visualization of fusions in automatically generated PDFs.",
+  "Core Features": [
+    "Detection of gene fusions, circular RNAs, internal tandem duplications",
+    "Automatically created visualization of detected gene fusions",
+    "Requires only moderate computational resources",
+    "Blacklist filtering to remove recurrent false positives",
+    "Discovery mode for novel events"
+  ],
+  "Tags": ["RNA-Seq", "Gene Fusions", "Computational Biology", "Bioinformatics", "circular RNA", "Blacklist filtering"]
+}
+
+{
+  "Software Page": "https://github.com/suhrig/arriba",
+  "Documentation": "https://arriba.readthedocs.io/",
+  "Training and Tutorial": [
+    "https://arriba.readthedocs.io/en/latest/tutorials/",
+    "https://bio.tools/arriba"
+  ]
+}
+
+Use Case: The researchers want to detect gene fusions from a paired-end RNA-Seq data. 
+
+Code details and examples:
+
+Code: 
+```bash
+   arriba \
+   -x fusions.bam \
+   -o fusions.tsv \
+   -O fusions.discarded.tsv \
+   -a assembly.fa \
+   -g genes.gtf \
+   -b blacklist.tsv
+```
+
+Sample input files:
+The input files for Arriba consist of aligned reads in BAM format (fusions.bam), a genome assembly file (assembly.fa), a GTF file describing gene annotations (genes.gtf), and a blacklist file of recurrent false positives (blacklist.tsv)
+
+{
+  "Research Discipline": ["Computational Biology", "Genomics"],
+  "Research Area": ["Cancer Genomics", "RNA-Seq Analysis"],
+  "Software Class": ["Bioinformatics Tools"],
+  "Software Type": ["Gene Fusion Detection"],
+  "Field of Science": ["Biological Sciences", "Biochemistry and Molecular Biology", "Cell Biology", "Genetics"]
+}

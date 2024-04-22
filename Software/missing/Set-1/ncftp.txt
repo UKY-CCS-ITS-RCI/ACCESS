@@ -1,0 +1,85 @@
+Software Name: NcFTP
+
+Comprehensive Overview: NcFTP is an open-source command-line FTP (File Transfer Protocol) client software that is used to handle file transfer between a local computer and a remote server. NcFTP was designed to provide many improvements over the standard FTP user interface.
+
+Core Features: 
+- Supports URL-like syntax to specify FTP servers.
+- Provides automatic anonymous logins for ease of use.
+- Allows tab completion for remote directories, similar to bash shell.
+- Includes batch file processing and auto-restart of interrupted transfers.
+- Offers redial for busy sites and passive mode for behind firewall operation.
+
+General Tags: FTP, File Upload, File Download, Command-Line, Open Source, Client, Networking, Internet
+
+JSON String:
+
+```
+{
+    "softwareName": "NcFTP",
+    "overview": "NcFTP is an open-source command-line ftp client software that is used to handle file transfer between a local computer and a remote server.",
+    "coreFeatures": [
+        "URL-like syntax for specifying FTP servers",
+        "Automatic anonymous logins",
+        "Tab completion for remote directories",
+        "Batch file processing",
+        "Auto-restart of interrupted transfers",
+        "Redial for busy sites",
+        "Passive mode for operation behind firewalls"
+    ],
+    "tags": [
+        "FTP",
+        "File Upload",
+        "File Download",
+        "Command-Line",
+        "Open Source",
+        "Client",
+        "Networking",
+        "Internet"
+    ]
+}
+```
+
+Links:
+
+Software Link: [http://www.ncftp.com/ncftp/](http://www.ncftp.com/ncftp/)
+Documentation: [http://www.ncftp.com/ncftp/doc/ncftp.html](http://www.ncftp.com/ncftp/doc/ncftp.html)
+
+JSON String for websites:
+
+```
+{
+    "softwareLink": "http://www.ncftp.com/ncftp/",
+    "documentation": "http://www.ncftp.com/ncftp/doc/ncftp.html"
+}
+```
+
+Use Case: Use NcFTP for file transfer between local and remote servers for applications that require secure and efficient file transfers, like updating a website's files or downloading large datasets.
+
+Code details and examples:
+
+Code:
+```
+# Connect the remote server
+ncftp ftp://ftp.example.com
+
+# Listing files in a remote directory
+ncftp> ls
+
+# Uploading a file
+ncftp> put localfile.txt
+
+# Downloading a file
+ncftp> get remotefile.txt
+```
+
+JSON String for Research Tags:
+
+```
+{
+    "fieldOfScience": "Computer and Information Sciences",
+    "researchDiscipline": "Applied Computer Science",
+    "researchArea": "Data Networking and Communications",
+    "softwareClass": "Network Tools",
+    "softwareType": "FTP Clients"
+}
+```

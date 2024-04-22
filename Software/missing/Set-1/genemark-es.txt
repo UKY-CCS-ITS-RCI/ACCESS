@@ -1,0 +1,57 @@
+Software Name: GeneMark-ES
+
+Overview: GeneMark-ES is a gene-finding program for genome annotation. It stands out because it can automatically model, recognize, and annotate genes in eukaryotic genomes without the need for training.
+
+Core Features: 
+- Automatic identification of protein-coding genes
+- Fitted for prokaryotic and eukaryotic genomes
+- Self-training pattern recognition approach
+- Able to identify protein-coding genes in RNA and DNA sequences
+
+General Tags:
+- Bioinformatics
+- Genome annotation
+- Genomic analysis
+- Gene prediction
+
+Link JSON:
+```
+{
+  "softwarePage": "http://exon.gatech.edu/GeneMark/",
+  "documentationLink": "http://exon.gatech.edu/GeneMark/manual.html",
+  "tutorialLinks": [
+    "http://genemark.sourceforge.net/docs/GeneMarkES_MAC_UserManual_v4.57.pdf",
+    "http://exon.gatech.edu/GeneMark/faq.htm",
+    "http://exon.gatech.edu/GeneMark/es_tuto.htm"
+  ]
+}
+```
+
+Code Details and Examples:
+
+The GeneMark software typically requires a genome sequence in FASTA format as input. For example: 
+
+Input File (simple.fasta): 
+```
+>sequence
+ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG
+```
+
+Then, the command to run GeneMark using this input might look like this: 
+
+```
+gmsn.pl --ES --min 50 --max 1000 --strand direct --output geneList.txt simple.fasta 
+```
+
+This would identify genes on the direct strand of the given sequence, with lengths between 50 and 1000 bases, and output the results to geneList.txt.
+
+Research Discipline Tags:
+```
+{
+  "researchDiscipline": ["Bioinformatics", "Genomics"],
+  "researchArea": ["Gene annotation", "Genome analysis"],
+  "softwareClass": ["Bioinformatics software"],
+  "softwareType": ["Gene identification software"],
+  "fieldOfScience": ["Biological Sciences", "Biochemistry and Molecular Biology"]
+}
+```

@@ -1,0 +1,59 @@
+{
+  "Software": {
+    "Software Name": "Rich",
+    "Overview": "Rich is a Python library for rich text and beautiful formatting in the terminal. The library offers full support for True Color and can seamlessly fallback to 256 color mode when needed. Used effectively, Rich can make terminal applications look appealing and modern, effectively enhancing user experience.",
+    "Core Features": {
+      "Rich Text and Formatting": "Rich supports rich text formatting and markup. It can render text in various styles, display text in tables, and even colourize syntax.",
+      "Tracers and Debugging": "Rich provides traceback function which can provide visually appealing and highly effective log of errors.",
+      "Progress Bars": "Rich supports creating console progress bars which can show times, animations, multi-threading, and more.",
+      "Markdown": "Rich can render Markdown for console, making use of the entire screen real estate."
+    },
+    "Tags": ["Python", "Library", "Terminal", "Formatting", "True Color", "Markdown"]
+  },
+  "Links": {
+    "Software Page": "https://github.com/willmcgugan/rich",
+    "Documentation": "https://rich.readthedocs.io/en/latest/",
+    "Tutorials and Training Materials": [
+      "https://levelup.gitconnected.com/making-your-cli-apps-a-little-more-appealing-with-rich-c51dde150b18",
+      "https://rich.readthedocs.io/en/latest/introduction.html",
+      "https://pypi.org/project/rich/"
+    ]
+  },
+  "Code details and examples": {
+    "Code": [
+      {
+        "Title": "Basic Text Styling",
+        "Input Format": "String and Style options.",
+        "Code Snippet": "\
+from rich import print\
+print('[bold red]Hello[/bold red]')",
+        "Command to Run": "python3 script.py"
+      },
+      {
+        "Title": "Rendering Tracebacks",
+        "Input Format": "None. Rich takes care of it for you.",
+        "Code Snippet": "\
+from rich.traceback import install\
+install()\
+raise ValueError('A simple error')",
+        "Command to Run": "python3 script.py"
+      },
+      {
+        "Title": "Rendering Markdown",
+        "Input Format": "Markdown string.",
+        "Code Snippet": "\
+from rich import console, markdown\
+console = console.Console()\
+md_text = markdown.Markdown('# Hello, Rich!')\
+console.print(md_text)",
+        "Command to Run": "python3 script.py"
+      }
+    ]
+  },
+
+  "Tags for research discipline": ["Computer and Information Sciences"],
+  "Tags for research area": ["Software Engineering", "Systems", "Development"],
+  "Tags for software class": ["Libraries"],
+  "Tags for software type": ["Formatting"],
+  "Field of science": ["Computer Science"]
+}

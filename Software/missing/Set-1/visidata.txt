@@ -1,0 +1,39 @@
+Software Name: VisiData
+Overview: VisiData is an interactive multitool for tabular data. It is a terminal-based application for exploring and arranging tabular data in unix-like pipelines. 
+Core Features: 
+- Navigate the file system and enter directories to load the directory itself as a directory sheet.
+- Edit values and text in place.
+- Set widths of all visible Columns to their content with Shift+W.
+- Move the current column on the left.
+- Add, delete, modify and move columns.
+
+General Tags: Data Analysis, Data Visualization, Tabular-Data, Terminal-based
+
+{
+  "SoftwareDetails": {
+    "SoftwareName": "VisiData",
+    "Overview": "VisiData is an interactive multitool for tabular data. It is a terminal-based application for exploring and arranging tabular data in unix-like pipelines.",
+    "CoreFeatures": "Navigate the file system and enter directories to load the directory itself as a directory sheet, Edit values and text in place, Set widths of all visible Columns to their content with Shift+W, Move the current column on the left, Add, delete, modify and move columns.",
+    "GeneralTags": "Data Analysis, Data Visualization, Tabular-Data, Terminal-based"
+  },
+  "AdditionalLinks": {
+    "SoftwarePage": "https://www.visidata.org/",
+    "Documentation": "https://www.visidata.org/docs/",
+    "Tutorials": [
+      "https://www.visidata.org/tutorials/",
+      "https://jsvine.github.io/intro-to-visidata/"
+    ]
+  },
+  "CodeDetailsAndExamples": {
+    "UseCase": "Use VisiData to explore and analyze a .csv file;",
+    "Code": "Command to run visidata: vd filename.csv"
+  }
+}
+
+{
+  "ResearchDiscipline": "Data Science",
+  "ResearchArea": "Data Analysis",
+  "SoftwareClass": "Tabular Data Manipulation",
+  "SoftwareType": "Data Visualization",
+  "FieldOfScience": "Computer and Information Sciences"
+}

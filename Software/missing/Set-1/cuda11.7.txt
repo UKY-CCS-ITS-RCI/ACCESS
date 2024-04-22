@@ -1,0 +1,68 @@
+{
+  "Software" : "CUDA",
+  "Overview" : "CUDA (Compute Unified Device Architecture) is a parallel computing platform and application programming interface model created by Nvidia. It allows software developers and software engineers to use a CUDA-enabled graphics processing unit (GPU) for general purpose processing — an approach known as GPGPU (General-Purpose computing on Graphics Processing Units). The CUDA platform is a software layer that gives direct access to the GPU's virtual instruction set and parallel computational elements, for the execution of compute kernels.",
+  "Core Features" : [
+    "Scalable parallel programming model: provides an easy to use programming model for developers. The model offers flexibility and adjustability to support a variety of computation-heavy applications.",
+    "Ecosystem of Tools: CUDA is compatible with a broad set of development tools for functions like performance profiling and code debugging.",
+    "Portable across, and optimized for, all major GPU architectures: It offers stellar performance on several NVIDIA GPUs. CUDA code can be developed and tested on any of the low-cost CUDA-enabled GPUs and then easily ported to scalable deployment on NVIDIA’s enterprise GPUs."
+  ],
+  "Tags" : ["Parallel Computing", "GPU Computing", "HPC", "Software Development"]
+}
+
+{
+  "Links" : 
+  {
+    "Software Page" : "https://developer.nvidia.com/cuda-zone",
+    "Documentation" : "https://docs.nvidia.com/cuda/index.html",
+    "Tutorial" : "https://developer.nvidia.com/cuda-tutorials"
+  }
+}
+
+Use Case: 
+Use ; Massive image processing : CUDA's parallel processing capabilities make it well-suited for computational problems such as image and signal processing. 
+
+Code details and examples: 
+Code ; The following is an example of CUDA code to add two arrays.
+
+```c
+__global__ void add(int *a, int *b, int *c) {
+    *c = *a + *b;
+}
+
+int main(void) {
+    int a, b, c;
+    int *d_a, *d_b, *d_c;
+    int size = sizeof(int);
+
+    cudaMalloc((void **)&d_a, size);
+    cudaMalloc((void **)&d_b, size);
+    cudaMalloc((void **)&d_c, size);
+
+    a = 2;
+    b = 7;
+
+    cudaMemcpy(d_a, &a, size, cudaMemcpyHostToDevice);
+    cudaMemcpy(d_b, &b, size, cudaMemcpyHostToDevice);
+
+    add<<<1,1>>>(d_a, d_b, d_c);
+
+    cudaMemcpy(&c, d_c, size, cudaMemcpyDeviceToHost);
+
+    cudaFree(d_a);
+    cudaFree(d_b);
+    cudaFree(d_c);
+    
+    return 0;
+}
+```
+This script allocates memory on the GPU, copies the values to be added from the CPU to the GPU, calls a GPU function to add the values, and then copies the result from the GPU back to the CPU.
+
+Command to run: `nvcc add.cu -o add; ./add`
+
+{
+  "researchDiscipline" : ["Applied Computer Science"],
+  "researchArea" : ["High Performance Computing", "Parallel Computing"],
+  "softwareClass" : ["Development Tools"],
+  "softwareType" : ["Computational"],
+  "fieldOfScience" : ["Computer and Information Sciences"]
+}

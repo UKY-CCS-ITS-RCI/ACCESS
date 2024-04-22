@@ -1,0 +1,55 @@
+Software: {
+  "name": "FMS2",
+  "overview": "FMS2 is a Fortran-based software designed for numerical climate modelling. It provides a flexible platform for developing atmospheric, oceanic and climate system models and offers a suite of interoperable components for constructing a variety of climate models with different levels of complexity.",
+  "core features": [
+    "Interoperable components for constructing climate models",
+    "Support for parallel computing",
+    "Inbuilt diagnostics for climate simulations",
+    "Flexible grid generation",
+    "Module for managing model coupling and time-stepping",
+    "Array manipulation utilities"
+  ],
+  "general tags": ["Climate Modelling", "Numerical Simulation", "Parallel Computing", "Fortran"]
+}
+
+Links: {
+  "software page": "https://www.gfdl.noaa.gov/fms/",
+  "documentation": "https://www.gfdl.noaa.gov/fms/fms-user-documentation/",
+  "training material": [
+    "https://www.gfdl.noaa.gov/fms/fms-user-documentation/",
+    "http://fms2.software.informer.com/"
+  ]
+}
+
+Code details and examples: {
+  
+  "sample input files": ["INPUT/your_input.nml"],
+  "format required": [
+    "The input files for FMS2 should be in namelist format (*.nml)"
+  ],
+  "specifications and details in input files": [
+    "Input files provide parameters for the model, including grid setups, coupling options, solver settings etc."
+  ],
+  "command to run": ["mpirun -np 4 ./fms.x your_input.nml"],
+  "code snippets": [
+    `program run_model
+       use mpp_mod, only: mpp_init, mpp_npes, mpp_pe, stdout
+       implicit none
+       
+       call mpp_init()
+       if( mpp_pe() .eq. 0 ) then
+          write(stdout,*) 'Number of MPI tasks=',mpp_npes() 
+       end if
+       call your_model()
+     end program run_model`
+   ]
+}
+
+Tags: 
+{
+  "research discipline": "Climate Sciences",
+  "research area": "Climate Modeling",
+  "software class": "Scientific Software",
+  "software type": "Climate Modeling Software",
+  "field of science": "Earth and Environmental Sciences"
+}

@@ -1,0 +1,27 @@
+{
+"Software": "Intel ITAC",
+"Comprehensive_Overview": "Intel ITAC (Intel Trace Analyzer and Collector) is a suite of tools that aid in the diagnostics, visualization and correction of code behavior for performance analysis of parallel MPI applications. The suite consists of data collection tools (Trace Collector) and a separate graphical visualization tool (Trace Analyzer).",
+"Core_Features": [
+  "Data collection for MPI applications",
+  "User-definable events for providing user-specific information",
+  "Trace Visualization for event-based tracing",
+  "Histograms, timelines, and counter statistics visualization",
+  "Performance bottleneck analysis"
+ ],
+"General_Tags": ["Parallel Computing", "Diagnostics", "Performance Analysis"]
+
+}
+
+{
+"Software Page": "<https://software.intel.com/content/www/us/en/develop/documentation/itac-user-and-reference-guide/top.html>",
+"Documentation": "<https://software.intel.com/content/www/us/en/develop/documentation/itac-user-and-reference-guide/top/introduction-to-intel-trace-analyzer-and-collector.html>",
+"Tutorial Material": ["<https://software.intel.com/content/www/us/en/develop/tools/trace-analyzer-and-collector.html>", "<https://software.intel.com/content/www/us/en/develop/documentation/itac-user-and-reference-guide/top/tutorials.html>"]
+}
+
+Use Case: Use Intel ITAC to collect trace data during the execution of a parallel MPI application.; Code details and examples: Code: `mpirun -trace -n 4 ./myApplication` This command runs the `myApplication` program using 4 processes with Intel ITAC tracing enabled. The resulting trace file(s) can then be analysed with the Trace Analyzer tool.
+
+Research_Discipline_Tag: ["Applied Computer Science"]
+Research_Area_Tag: ["Performance Analysis", "Parallel Computing", "Diagnostics"]
+Software_Class_Tag: ["Diagnostics Tools"]
+Software_Type_Tag: ["Performance Analysis Tool"]
+Field_Of_Science_Tag: ["Computer and Information Sciences"]

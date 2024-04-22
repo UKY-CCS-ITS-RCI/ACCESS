@@ -1,0 +1,35 @@
+{
+"Software": "CCDB",
+"Overview": "The Cell Centered Database (CCDB) is a web based resource for the study of cellular architecture. The CCDB was designed around the process of reconstruction from 2D and 3D images and includes support for associated metadata such as imaging parameters and analytical tools.",
+"Core Features": [
+"High-resolution 2D and 3D images of cellular structures and regions.",
+"3D reconstructions of cellular components and features.",
+"Metadata and imaging parameters for each dataset.",
+"Tools for viewing, downloading, and analyzing the images and reconstructions."
+],
+"Tags": ["Cellular Imaging", "3D Reconstruction", "Metadata", "Analytical Tools"]
+}
+
+{
+"Links": [
+{"software_page": "https://www.ccdb.org/"},
+{"documentation": "https://www.ccdb.org/help/"},
+{"tutorials": "https://www.ccdb.org/tutorials.php"}
+]
+}
+
+Use Case: Use CCDB for studying cellular architecture and visualizing cellular structures. High-resolution 2D and 3D images allow in depth study of cellular structures. The database provides several types of representations and reconstructions, ranging from simple gallery-like 2D collections to intricate 3D volumes.
+
+Code Details and Examples: Code specifics and sample data vary for each tool within the CCDB. Users can browse the archive and select a dataset of interest to inspect the specific formats and instructions involved. Typically, users can open images in a variety of software tools or download them for offline use.
+
+Command: Commands vary depending on the individual tool or dataset. Refer to the specific tool or dataset documentation for detailed instructions.  
+
+{
+"Research Discipline Tags": ["Cell Biology", "Biochemistry and Molecular Biology"], 
+"Research Area Tags": ["Cellular Imaging", "Data Visualization"],
+"Software Class Tags": ["Database", "Analysis Tools"],
+"Software Type Tags": ["Web-based Application"],
+"Field of Science Tags": ["Biological Sciences"]
+} 
+
+Remember, this information is meant to guide you on CCDB usage. Always refer to the specific documentation for each tool or dataset for the most detailed and up-to-date procedures.

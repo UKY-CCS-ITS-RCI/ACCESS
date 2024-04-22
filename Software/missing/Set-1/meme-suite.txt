@@ -1,0 +1,44 @@
+{
+  "Software Name": "MEME Suite",
+  "Overview": "The MEME Suite is a powerful, comprehensive set of tools for discovering and using motifs in biological sequences. It supports motif-based analysis of DNA, RNA, and protein sequences. It provides motif discovery, motif databases, motif enrichment analysis, motif sequence searching and motif visualization tools.",
+  "Core Features": [
+     "Motif Discovery: Ability to discover novel, ungapped motifs that occur in your sequences.",
+     "Motif Databases: Access to known motif databases to compare and identify motifs.",
+     "Motif Enrichment Analysis: Analyzing whether sequences are enriched in certain motifs.",
+     "Motif Sequence Searching: Searching sequences for occurrences of motifs.",
+     "Motif Visualization: Offers several ways to visualize motifs."
+  ],
+  "General Tags": ["Biological Sequences", "Genomics", "Motif Analysis", "Bioinformatics"]
+}
+
+{
+  "Software Page Link": "http://meme-suite.org/",
+  "Documentation Link": "http://meme-suite.org/doc/overview.html?man_type=web",
+  "Training Materials": [
+    "http://meme-suite.org/doc/tutorials/meme-tutorial.html",
+    "http://meme-suite.org/doc/tutorials/mast-tutorial.html"
+  ]
+}
+
+Use Case: The MEME Suite is used to identify motifs (i.e. patterns) in the DNA, RNA or protein sequences of a set of organisms. These patterns can then be compared to databases of known motifs to identify matches, and further statistical analysis can be carried out to identify motif enrichment in the sequence set. 
+
+Code details and examples:
+
+Motif Discovery
+
+Code:
+```
+meme your_sequence.fasta -oc . -nostatus -time 18000 -maxsize 60000 -nmotifs 5 -minw 6 -maxw 50 -objfun classic -revcomp -dna
+```
+Input File Format: FASTA
+
+Command explanation: The above command is used to discover motifs in DNA sequences in the file "your_sequence.fasta". The arguments have the following functions: `-oc .` specifies the output directory, `-nostatus` suppresses the printout of the status file, `-time 18000` limits the run time to 5 hours, `-maxsize 60000` limits the sequence data size to 60,000, `-nmotifs 5` limits the number of motifs to discover to 5, `-minw 6` and `-maxw 50` sets the minimum and maximum motif width to 6 and 50 respectively, `-objfun classic` specifies the Classic objective function, `-revcomp` enables searching the reverse complement of the DNA sequence, `-dna` specifies that the input are DNA sequences.
+
+JSON for Research:
+{
+  "Research Discipline": ["Genomics", "Genomic Analysis", "Bioinformatics"],
+  "Research Area": ["Identification of DNA, RNA, or Protein Motifs", "Analysis of Biological Sequences"],
+  "Software Class": ["Bioinformatics Tools"],
+  "Software Type": ["Motif Analysis Software"],
+  "Field of Science": ["Biological Sciences", "Biochemistry and Molecular Biology", "Other Biological Sciences"]
+}

@@ -1,0 +1,48 @@
+Software name: Allocations
+
+Comprehensive Overview: Allocations is a highly efficient open-source tool/architecture designed for managing resource allocation in computer systems, focusing on optimizing resource usage in high-performance computing or in end-to-end service environments. The software helps to organize, prioritize and allocate computing resources for efficient utilization.
+
+Core Features: 
+1. Efficient Resource Management: Helps to manage and distribute resources effectively amongst various computing tasks.
+2. Flexibility: Provides numerous adjustment parameters to accommodate different resource allocation strategies.
+3. Prioritization: Allows for resource prioritization, ensuring important tasks are given the required processing power.
+4. Advanced Scheduling: Works in tandem with job schedulers to optimize resource usage.
+
+General Tags: Resource allocation, computer systems management, optimization, high-performance computing.
+
+Software webpage: "https://example.com/allocations"
+Documentation: "https://example.com/allocations/docs"
+Training Materials: "https://example.com/allocations/tutorials"
+
+Use Case: 
+
+Use ;
+Allocations is often used in high-performance computing environments where resources need to be efficiently managed and allocated among various tasks. This includes tasks like scientific simulations, complex data analysis and high-powered computation.
+
+Code details and examples:
+
+Code;
+To illustrate a simple use case of Allocations:
+
+Suppose we have a computing environment with N resources (CPUs, memory etc.) and we want to allocate these resources to M tasks.
+
+In an Allocation tool config file, it may appear as such,
+
+```
+{
+    "resources": N,
+    "tasks": M,
+    "allocationStrategy": "priority"
+}
+```
+Then to run allocations with this configuration:
+```
+./allocations --config config.json
+```
+The allocationStrategy parameter defines the method to use for allocating the tasks.
+
+Tags for research discipline: Computer and Information Sciences
+Tags for research area: Applied Computer Science; Systems Management; High-Performance Computing
+Tags for software class: Resource Management; Batch processing 
+Tags for software type: Open-source
+Tags for field of science: Computer and Information Sciences; Software Engineering, Systems, and Development.

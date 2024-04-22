@@ -1,0 +1,44 @@
+Software Details:
+```
+{ 
+    "Software Name" : "cuda-quantum",
+    "Comprehensive Overview" : "CUDA-Quantum is a Quantum Chemistry research software. This is a collaborative work by NVIDIA, ETH-Zurich, and the University of Texas at Austin. The tensor algebra used primarily in density functional theory calculations is accelerated with CUDA to perform these simulations on NVIDIA GPUs. Its aim is to speed up common computational chemistry calculations used in research.",
+    "Core Features" : [
+        "GPU-based acceleration of quantum chemistry calculations.", 
+        "Utilizes CUDA capabilities for numerical computations in quantum simulations.", 
+        "Provides significant performance improvements over equivalent CPU calculations."
+    ],
+    "General Tags" : ["CUDA", "Quantum Computing", "Quantum Chemistry", "GPU Computing", "Research", "Computational Chemistry", "Simulation Software"]
+}
+```
+
+Link Details:
+```
+{
+    "Software Page" : "https://www.nvidia.com/en-us/data-center/gpu-accelerated-applications/catalog/qua/?#cuda-quantum",
+    "Documentation Page" : "https://docs.nvidia.com/cuda/index.html",
+    "Tutorial Links" : ["https://developer.nvidia.com/CUDA-Quantum"]
+}
+```
+
+Code Details and Examples:
+Use Case: Use CUDA-Quantum for accelerating quantum chemistry calculations and simulations. 
+```
+{
+    "Sample Input Files" : "Normally input data for calculations would be molecule specifications and properties required for simulation.",
+    "Format Required" : "Specific format details for the input files can be found in the documentation. Typically the data format aligned with standard quantum chemistry specifications is required.",
+    "Specifications and Details in Input Files" : "Molecule properties, simulation conditions, type of calculations needed.",
+    "Command to Run" : "Command details for running the calculations would be in the documentation. Specifics depend on the task and input data."
+}
+```
+
+Tags for Discipline, Area, Class, Type, Field of Science:
+```
+{
+    "Research Discipline" : "Computational Chemistry",
+    "Research Area" : "Quantum Chemistry",
+    "Software Class" : "Simulation Software",
+    "Software Type" : "GPU-based Simulation",
+    "Field of Science" : "Chemical Sciences"
+}
+```

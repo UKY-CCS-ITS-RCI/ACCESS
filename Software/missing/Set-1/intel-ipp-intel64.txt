@@ -1,0 +1,54 @@
+{
+  "Software Name": "Intel IPP Intel64",
+  "Overview": "Intel IPP (Intel Integrated Performance Primitives) is a multi-threaded software library that provides a broad range of functionality, including general signal and image processing, computer vision, and cryptography. It provides high-performance APIs for applications based on Intel architecture platforms.",
+  "Features": {
+    "Comprehensive": "Includes signal and image processing, computer vision, data compression, and many more.",
+    "Portable": "Optimized for various platforms, including Intel64 systems.",
+    "Ease of Use": "High-level APIs and automatic buffer management simplify development.",
+    "Data Types": "Supports various data types, including integer, fixed-point, and floating-point."
+  },
+  "Tags": ["Software Library", "CPU Performance", "Image Processing", "Signal Processing", "Computer Vision"]
+}
+
+{
+  "Software Name": "Intel IPP Intel64",
+  "Software URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/ipp.html",
+  "Documentation URL": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/ipp.html#get-started",
+  "Tutorial URLs": [
+    "https://software.intel.com/content/www/us/en/develop/articles/getting-started-with-intel-ipp.html",
+    "https://software.intel.com/content/www/us/en/develop/documentation/ipp-dev-guide/top.html"
+  ]
+}
+
+Use Case: Use Intel IPP Intel64 for high-performance computing applications, typically in signal processing, image processing, or computer vision.
+Code:
+```python
+# Includes optional function-specific prefixes for easy search
+from scipy import signal
+from ipp import ipp
+import numpy as np
+
+# Input data
+data = np.random.random(10000)
+window = signal.gaussian(50, std=7)
+
+# Filtering function
+ippResult = ipp.ippFilter(data, window)
+```
+The command to run the code snippet:
+```
+python3 script.py
+```
+The input data in this sample Python script is a random array of 10000 floating-point numbers, and the filter window is a Gaussian window of 50 points with a standard deviation of 7.
+
+{
+  "Software Name": "Intel IPP Intel64",
+  "Tags":[
+    {
+      "Research Discipline": "Computer and Information Sciences",
+      "Research Area": "Applied Computer Science",
+      "Software Class": "Library",
+      "Software Type": "Computational",
+      "Field of Science": "Computer and Information Sciences"
+    }]
+}

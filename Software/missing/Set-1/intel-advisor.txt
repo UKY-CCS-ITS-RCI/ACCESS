@@ -1,0 +1,41 @@
+{
+"Software Name": "intel-advisor",
+"Comprehensive Overview": "Intel Advisor is a design and analysis tool that provides algorithm, threading, and vectorization assistance. It assists developers in ensuring their software is running at peak efficiency by providing threading, vectorization, and offloading to accelerators such as GPUs and FPGAs.",
+"Core Features": [
+{ "feature": "Vectorization advisor"; "description": "Provides suggestions for effective SIMD vectorization and GPU offloading." },
+{ "feature": "Threading advisor"; "description": "Exploits more parallelism and uses more cores with your Fortran, C++, and Python applications." },
+{ "feature": "Roofline Analysis"; "description": "Helps developers identify hardware bottlenecks by visually comparing actual performance to what is theoretically possible." },
+{ "feature": "Offload advisor"; "description": "Allows you to test code to project performance gains on accelerators before migration." }
+],
+"General Tags": ["Software Development", "Code Optimization", "Performance Analysis", "Vectorization", "Threading"]
+}
+
+{
+"Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/advisor.html",
+"Documentation": "https://software.intel.com/content/www/us/en/develop/documentation/advisor-user-guide/top.html",
+"Training Material": [
+{ "Training": "Introduction to Intel® Advisor", "URL": "https://software.intel.com/content/www/us/en/develop/tools/advisor/choose-download.html" },
+{ "Training": "Vectorization Advisor Tutorial", "URL": "https://software.intel.com/content/www/us/en/develop/documentation/advisor-user-guide/top/vectorization/vectorization-advisor/intel-advisorworkflow.html" },
+{ "Training": "Threading Advisor Tutorial", "URL": "https://software.intel.com/content/www/us/en/develop/documentation/advisor-user-guide/top/threading-profiler-threading-advisor/intel-advisor-workflow.html" },
+{ "Training": "A Guide to Vectorization with Intel® C++ Compilers", "URL": "https://software.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/optimization-and-programming-guide/vectorization/a-guide-to-vectorization-with-intel-c-compilers.html" }
+]
+}
+
+Use Case: Use Intel Advisor to analyze and optimize your C++, Fortran, or Python applications. It allows you to visualize hardware bottlenecks and provides suggestions for effective SIMD vectorization, threading, and GPU offloading.
+
+Code Details and Examples: Code to run a Vectorization Advisor tool can be similar to: 
+
+```
+advixe-cl --collect=survey --project-dir=./advisor_project -- ./myApp
+advixe-cl --collect=tripcounts --flop --project-dir=./advisor_project -- ./myApp
+```
+
+Please ensure that the application './myApp' is present and executable.
+
+{
+"Tags for Research Discipline": ["Computer Science", "Software Engineering, Systems, and Development", "Artificial Intelligence and Intelligent Systems"],
+"Tags for Research Area": ["Code optimization", "Parallel Computing", "High Performance Computing"],
+"Tags for Software Class": ["Code optimization tools"],
+"Tags for Software Type": ["Analysis Tool"],
+"Tags for Field of Science": ["Computer and Information Sciences"]
+}

@@ -1,0 +1,42 @@
+{
+  "Software Name": "AOCC Compiler",
+  "Comprehensive Overview": "The AMD Optimizing C/C++ Compiler (AOCC) is an advanced compiler provided by AMD for the purpose of accelerating the performance of C, C++, and Fortran workloads. It is specifically designed to utilize the advantages of AMD's latest wide variety of CPU architectures.",
+  "Core Features": [
+    "High optimization of code for AMD CPU architectures.",
+    "Supports OpenMP 4.5 for better parallel programming.",
+    "Includes code generation, vectorization, and loop transformations for better performance.",
+    "Provides detailed diagnostic messages."
+  ],
+  "General Tags": ["AMD", "Compiler", "C/C++", "Fortran", "High-Performance Computing"],
+  "Web Links": {
+    "Software Page": "https://developer.amd.com/amd-aocc/",
+    "Documentation": "https://developer.amd.com/amd-aocc/documentation/",
+    "Tutorial Materials": [
+      "https://developer.amd.com/amd-aocc/version-history/",
+      "https://developer.amd.com/amd-aocc/get-started/"
+    ]
+  }
+}
+
+Use Case: 
+Use the AOCC compiler to compile and optimize the performance of C, C++, and Fortran code written for AMD CPU architectures. This is particularly useful in improving the speed of high-performance computation programs.
+
+Code Details and Examples: 
+Code: 
+For C/C++ code, the AOCC compiler can be invoked using the following command:
+```shell
+clang -O2 helloworld.c -o helloworld
+```
+For Fortran code, the AOCC compiler can be invoked using the following command:
+```shell
+flang -O2 myprogram.f90
+```
+In these examples, the '-O2' is an option for optimization, the 'helloworld.c' and 'myprogram.f90' are the input files, and the 'helloworld' and 'myprogram' are the output executable files respectively.
+
+{
+  "Research Discipline": ["Applied Computer Science"],
+  "Research Area": ["High Performance Computing"],
+  "Software Class": ["Compilers"],
+  "Software Type": ["System Software"],
+  "Field of Science": ["Computer and Information Sciences"]
+}

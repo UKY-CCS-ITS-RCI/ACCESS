@@ -1,0 +1,43 @@
+{
+  "Software": "Flowcharts",
+  "Overview": "Flowcharts is a software tool used for designers, engineers, and project managers in creating a graphical representation to depict the steps involved in a process in the form of diagrams. This process presents a roadmap for optimal problem-solving.",
+  "Core Features": [
+    "Process Design and Analysis: This helps in creating a sequence of steps to solve a problem or execute a task.",
+    "Collaboration: This feature allows multiple users to work simultaneously on a chart.",
+    "Export/Import: The flowcharts can be exported and imported in various formats such as MS Word, PowerPoint, Excel etc.",
+    "Drag and Drop Interface: This tool features a drag-and-drop editor for creating flowcharts with ease.",
+    "Routing Paths: It automatically connects flow shapes and objects with lines or 'routes' based on their relation."
+  ],
+  "Tags": ["Flowchart", "Diagramming", "Chart", "Process mapping", "Collaborative design", "Project management"]
+}
+
+{
+  "Software Extra Links": {
+    "Software Page": "www.example.com/flowcharts",
+    "Documentation": "www.example.com/flowcharts/documentation",
+    "Tutorial": "www.example.com/flowcharts/tutorial",
+    "Training Materials": "www.example.com/flowcharts/training"
+  }
+}
+
+Use case:
+Flowcharts can be utilized to break down complex processes, like project management, design planning, and engineering tasks. 
+
+Code details and examples:
+
+Flowcharts doesn't usually involve code snippets as it's more of a graphical tool. However, the typical steps involved in creating a flowchart are as follows:
+
+1. Open the Flowcharts software.
+2. Choose a predefined template or start from scratch.
+3. Drag and drop shapes or symbols onto your chart.
+4. Connect the shapes using lines to represent the flow of the process.
+5. Label each shape and line as necessary to describe the process.
+6. Save or export your flowchart as necessary.
+
+{
+  "Tags for Research Discipline": ["Engineering and Technology"],
+  "Research Area": ["Project Management", "Design Planning"],
+  "Software Class": ["Diagramming Tool"],
+  "Software Type": ["Graphical Tool"],
+  "Field of Science": ["Computer and Information Sciences", "Engineering and Technology"]
+}

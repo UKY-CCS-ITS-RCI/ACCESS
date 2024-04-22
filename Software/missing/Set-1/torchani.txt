@@ -1,0 +1,67 @@
+{
+"Software Name": "TorchANI",
+"Overview": "TorchANI is a pytorch-based package for molecular simulations using projective quantum mechanical (PQM) methods. It is a part of the ANI project, which aims to integrate PQM methods and deep learning to accelerate materials science research.",
+"Core Features": 
+[
+    "Support for PyTorch: TorchANI is built with pytorch, bringing GPU support and seamless integration with other pytorch-based machine learning tools.",
+    "ANI Models: TorchANI includes pre-trained ANI models that can be used for molecular dynamics simulations.",
+    "Modularity: The API is designed to be modular to facilitate use of TorchANI's components with non-ANI forcefields or other custom model architectures."
+],
+"General Tags": ["Molecular Simulations", "Quantum Mechanical Methods", "Deep Learning", "Pytorch", "Materials Science Research"]
+}
+
+{
+"Software Links": 
+ {
+   "Software Page": "https://aiqm.github.io/torchani/index.html",
+   "Documentation Link": "https://aiqm.github.io/torchani/api.html",
+   "Training Material Links": [
+    {
+        "Tutorial on Github": "https://github.com/aiqm/torchani/tree/master/examples"
+    }]
+ }
+}
+
+Code Details and Examples:
+
+Use case: Calculate Energy and forces for a molecule with TorchANI
+
+Code:
+
+```python
+import torch
+import torchani
+
+# Create ANI model
+model = torchani.models.ANI2x()
+
+# Convert coordinates to tensor
+coordinates = torch.tensor([[[0,0,0], [0,0,1.1], [0,1.1,1.1]]], requires_grad=True)
+
+# Specify species
+species = torch.tensor([[6, 8, 1]])
+
+# Calculate energy and forces
+energy = model((species, coordinates)).energies
+
+# Use automatic differentiation to get forces
+forces = -torch.autograd.grad(energy.sum(), coordinates)[0]
+
+```
+
+The molecule specified is a carbon, oxygen and hydrogen atom arranged in a triangle. The coordinates are given in ångström.
+
+Command to run:
+
+```bash
+python script.py
+```
+
+Additional Tags:
+{
+"Research Discipline": "Materials Science",
+"Research Area": "Molecular Simulations",
+"Software Class": "Scientific Software",
+"Software Type": "Molecular Dynamics Software",
+"Field of Science": "Physical Sciences"
+}

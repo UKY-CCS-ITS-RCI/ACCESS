@@ -1,0 +1,78 @@
+{
+  "Software Name": "Geant4",
+  "Overview": "Geant4 is a toolkit for the simulation of the passage of particles through matter. Its areas of application include high energy, nuclear and accelerator physics, as well as studies in medical and space science.",
+  "Core Features": [
+    "Track particles through a complex detector environment",
+    "Physics models to handle interactions",
+    "Geometry module to define complex setups",
+    "Advanced visualization tools"
+  ],
+  "Tags": [
+    "High-Energy Physics",
+    "Nuclear Physics",
+    "Simulation",
+    "Visualization",
+    "Particle Tracking"
+  ]
+}
+
+{
+  "Software Page": "http://geant4.web.cern.ch/",
+  "Documentation": "http://geant4-userdoc.web.cern.ch/geant4-userdoc/UsersGuides/ForApplicationDeveloper/html/index.html",
+  "Training Materials": [
+    "http://geant4.web.cern.ch/geant4/support/geant4_course_material.shtml",
+    "https://geant4.in2p3.fr/2013/prog/lectures.pdf",
+    "https://confluence.slac.stanford.edu/display/STA/GEANT4+Workshop+SLAC+2016"
+  ]
+}
+
+Use Case: Use Geant4 to simulate a particle being tracked through a complex detector system.
+
+Code details and examples:
+
+Code:
+
+Create a detector:
+
+```
+G4VPhysicalVolume* DetectorConstruction::Construct()
+{
+  // define a box
+  G4Box* myBox = new G4Box("Box",10*cm,10*cm,10*cm);
+  
+  // define logical volume
+  G4LogicalVolume* myBox_log = new G4LogicalVolume(myBox,Ar,"Box_log");
+  
+  // placement of Box
+  G4VPhysicalVolume* myBox_phys =
+       new G4PVPlacement(0,G4ThreeVector(),myBox_log,"Box",0,false,0);
+  
+  return myBox_phys;
+}
+```
+
+Understand outputs of energy deposit:
+
+```
+G4cout << "Total energy deposit in calorimeter : " 
+       << fEdep/MeV << " MeV" << G4endl;
+```
+
+Command: 
+
+To run simulation, typically, bash scripts are used like so:
+
+```
+$ cd $G4WORKDIR/bin/$G4SYSTEM
+$ ./exampleB1
+```
+
+**Note:** Actual simulation setup will vary greatly project to project. This is a very basic example.
+
+{
+  "Research Discipline Tags": "High Energy Physics",
+  "Research Area Tags": "Particle Physics",
+  "Software Class Tags": "Simulation",
+  "Software Type Tags": "Library/Toolkits",
+  "Field of Science Tags": "Physical Sciences"
+}

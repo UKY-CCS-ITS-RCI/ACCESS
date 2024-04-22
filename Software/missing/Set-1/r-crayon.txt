@@ -1,0 +1,49 @@
+Software Name: r-crayon
+
+Overview: R-crayon is an R package that is used to add colors for terminal output (console). It allows the users to enhance the readability of the logs and messages in the console using multiple colors.
+
+Core Features:
+1. Text Decoration: Provides a consistent API for decorating string with colors and styles.
+2. Familiar Interface: Supports vectors and offers a familiar R interface.
+3. Dynamic Detection: Dynamically detects if colors are support of not and profoundly supports 256 colors as well.
+
+General Tags: R library, Console, Color
+
+JSON String:
+{
+   "Software Name": "r-crayon",
+   "Overview": "An R package which is meant to add colors for terminal output (console). It enhances the readability of logs and messages by using different colors.",
+   "Core Features": ["Text Decoration", "Familiar Interface", "Dynamic Detection"],
+   "General Tags": ["R library", "Console", "Color"]
+}
+
+Links:
+{
+  "Software URL" : "https://github.com/r-lib/crayon",
+  "Documentation URL" : "https://cran.r-project.org/web/packages/crayon/index.html",
+  "Tutorial URL" : "https://cran.r-project.org/web/packages/crayon/crayon.pdf"
+}
+
+Code details and examples:
+Input Format: Text strings which are to be printed on the console.
+Command to run: Rscript file.R
+
+Code:
+```R
+library(crayon)
+
+# Text in green color
+cat(green("This is in green color\n"))
+
+# Text in red color with underline
+cat(red("This is in red color with underline\n", underline = TRUE))
+```
+
+Tags for Research discipline, Research area, Software class, Software type and Field of science:
+{
+ "Research Discipline": "Computer Science",
+ "Research Area": "Programming and Software Development",
+ "Software Class": "Library",
+ "Software Type": "Console Logging",
+ "Field Of Science": "Computer and Information Sciences"
+}

@@ -1,0 +1,43 @@
+{
+"Software Name": "Intel IPP Cryptography (intel-ippcp-ia32)",
+"Overview": "Intel Integrated Performance Primitives Cryptography (IPP Cryptography) is a software library that provides a wide range of ready-to-use, performance-optimized functions, most of which are for cryptography and image processing. The IA32 specific version is tailored for 32-bit Intel architecture processors.",
+"Core Features": [
+    "Broad range of cryptographic functions",
+    "Tailored for 32-bit Intel architecture processors",
+    "Performance-optimized functions"
+],
+"General Tags": ["Intel", "Cryptography", "Software Library", "Image Processing", "Performance Optimization", "32-bit"]
+}
+
+{
+"User Guide": "https://software.intel.com/content/www/us/en/develop/documentation/ipp-crypto-user-and-reference-guide/top.html",
+"Software Page": "https://software.intel.com/content/www/us/en/develop/tools/oneapi/base-toolkit/download.html",
+"Additional Documentation": [
+    "https://software.intel.com/content/www/us/en/develop/articles/intel-ipp-cryptography-release-notes-and-new-features.html",
+    "https://software.intel.com/content/www/us/en/develop/products/intel-integrated-performance-primitives-intel-ipp.html"
+    ]
+}
+
+{
+"Use Case": "Use Intel IPP Cryptography for developing applications that require cryptographic functions, such as creating a hash, encryption, decryption etc.",
+"Code details and examples: Code": [
+    {
+    "Example": "Generating a cryptographic hash using Intel IPP Cryptography",
+    "Input File format": "Any file that needs to be hashed. This could be a .txt file, .dat file, etc. There are no specific requirements for the input file other than it being readable",
+    "Command": "ippcpGetLibVersion()"
+    },
+    {
+    "Example": "Encrypting a file using Intel IPP Cryptography",
+    "Input File format": "Any file that needs to be encrypted. This could be a .txt file, .dat file, etc. There are no specific requirements for the input file other than it being readable",
+    "Command": "ippcpAES_GCMEncrypt()"
+    }
+  ]
+}
+
+{
+"Tags for Research Discipline": ["Computer and Information Sciences", "Software Engineering, Systems, and Development"],
+"Research Area": ["Applied Computer Science"],
+"Software Class": ["Cryptography Library"],
+"Software Type": ["Development Library"],
+"Field of Science": ["Computer Science"]
+}

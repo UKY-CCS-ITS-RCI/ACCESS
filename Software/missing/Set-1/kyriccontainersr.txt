@@ -1,0 +1,60 @@
+{
+  "softwareName": "KyRIC Containers R",
+  "overview": "KyRIC Containers R is a computational software contained inside a Docker container. It includes the R statistical computing language and is designed to provide a consistent environment for the execution of R code.",
+  "coreFeatures": [
+    {
+      "feature": "R language",
+      "description": "Provides the R statistical computing and graphics language."
+    },
+    {
+      "feature": "Docker container",
+      "description": "Provisions a consistent environment that can be used across multiple systems."
+    },
+    {
+      "feature": "Portability",
+      "description": "Allows users to execute their code across systems without worrying about dependency management."
+    }
+  ],
+  "tags": ["R", "Docker", "Computational Software", "Containerization"]
+}
+
+{
+  "resourceLinks": {
+    "softwarePage": "https://hub.docker.com/repository/docker/kyric/r",
+    "documentation": "https://docs.docker.com/get-started/",
+    "tutorials": [
+      "https://cran.r-project.org/doc/manuals/r-devel/R-intro.html",
+      "https://www.datacamp.com/courses/free-introduction-to-r",
+      "https://docker-curriculum.com/"
+    ]
+  }
+}
+
+Use Case: Use ; Analyze data using R scripts in a portable, containerized environment.
+Code details and examples: Code ; Write an R script analysing your data.
+```
+## R Script (analyse.R)
+data <- read.csv('data.csv')
+summary <- summary(data)
+write.csv(summary, 'summary.csv')
+```
+Then, create a Dockerfile to bundle your R script with the R container.
+```
+## Dockerfile
+FROM kyric/r:latest
+COPY analyse.R /analyse.R
+CMD Rscript /analyse.R
+```
+Finally, build and run the Docker container.
+```
+docker build -t my-analysis .
+docker run -v $(pwd):/data my-analysis
+```
+
+{
+  "tagsResearchDiscipline": ["Statistical Analysis"],
+  "tagsResearchArea": ["Data Analysis"],
+  "tagsSoftwareClass": ["Statistical Software"],
+  "tagsSoftwareType": ["Containerized Software"],
+  "tagsFieldOfScience": ["Statistics and Probability"]
+}

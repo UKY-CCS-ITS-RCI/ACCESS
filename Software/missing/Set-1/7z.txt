@@ -1,0 +1,46 @@
+{
+  "software_name": "7z",
+  "comprehensive_overview": "7z is a file archiver with a high compression ratio. It is free software distributed under the GNU LGPL and able to support multiple compression and encryption methods.",
+  "core_features": {
+    "feature_1": "High compression ratio in 7z format with LZMA and LZMA2 compression",
+    "feature_2": "Supported formats for packing and unpacking: 7z, XZ, ZIP, GZIP, BZIP2 and TAR",
+    "feature_3": "Supported formats for unpacking only: ARJ, CAB, CHM, CPIO, DEB, DMG, FAT, HFS, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, RAR, RPM, Z and more",
+    "feature_4": "Supports secure AES-256 encryption in 7z and ZIP formats",
+    "feature_5": "Self-extracting capability for 7z format",
+    "feature_6": "Integration with Windows Shell",
+    "feature_7": "Powerful command line version"
+  },
+  "general_tags": [
+    "7z", "file archiver", "compression", "encryption", "software"
+  ]
+}
+
+{
+  "software_page": "https://www.7-zip.org/",
+  "documentation_link": "https://www.7-zip.org/faq.html",
+  "training_materials_links": [
+    "https://www.7-zip.org/download.html",
+    "https://www.youtube.com/watch?v=Zc-L8zYXdlI"
+  ]
+}
+
+Use Case: Use 7z to compress a file or a directory using a high compression ratio; decompress an archive in various supported formats; securely encrypt files and folders in 7z and ZIP formats using AES-256 encryption.
+
+Code details and examples: 
+
+To compress a directory named "test_directory" into a 7z file:
+Command: `7z a test_directory.7z test_directory`
+
+To extract a 7z file named "test_archive.7z":
+Command: `7z e test_archive.7z`
+
+To add a file named "test_file.txt" to an archive named "test_archive.7z" using password-protected AES-256 encryption:
+Command: `7z a -p -mhe -t7z test_archive.7z test_file.txt`
+
+{
+  "tags_research_discipline": ["Applied Computer Science"],
+  "tags_research_area": ["File Management", "Data Compression"],
+  "tags_software_class": ["Utility Software"],
+  "tags_software_type": ["File Archiver"],
+  "tags_field_of_science": ["Computer and Information Sciences"]
+}

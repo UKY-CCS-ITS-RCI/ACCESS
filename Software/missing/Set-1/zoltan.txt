@@ -1,0 +1,38 @@
+{
+  "Software": {
+    "Name": "Zoltan",
+    "Overview": "Zoltan is software for parallel applications that need dynamic load balancing, partitioning, ordering, coloring, and more. Zoltan includes the Scotch graph partitioning package from INRIA, and the ParMeTiS partitioning package from University of Minnesota. It is part of the Trilinos project, which is supported by the US Department of Energy and Sandia National Laboratories.",
+    "Core features": [
+      "Parallel static graph partitioning",
+      "Parallel dynamic graph partitioning",
+      "Parallel dynamic block partitioning",
+      "Geometric partitioning methods",
+      "Hypergraph partitioning",
+      "Graph coloring",
+      "Matrix ordering",
+      "Identification of connected components",
+      "Object migration tools"
+    ],
+    "Tags": ["load-balancing", "mesh", "partitioning", "Trilinos", "Zoltan", "parallel-computing"]
+  },
+  "Links": {
+    "Software Page": "http://www.cs.sandia.gov/zoltan/",
+    "Documentation": "http://www.cs.sandia.gov/zoltan/ug_html/ug.html",
+    "Tutorials": "http://trilinos.sandia.gov/packages/zoltan/tutorial/"
+  },
+  "Examples": {
+    "Sample Input Files": "Zoltan requires a input file that defines the system geometry, system graph or both. An example of this could be a file with the list of elements/endpoints and their connectivity (https://www.cs.sandia.gov/zoltan/ug_html/ug.html).",
+    "Required Specifications": "Input file type and structure can vary depending on the task. However, all of them require some kind of object information(e.g. weights, coordinates, adjacency) to make informed balance decisions.",
+    "Command to Run": "Application dependent. Please refer to specific user guide for detail. (http://www.cs.sandia.gov/zoltan/ug_html/ug.html)"
+  }
+},
+
+{
+  "Tags": {
+    "Research Discipline": "Computer and Information Sciences",
+    "Research Area": "Computer Science",
+    "Software Class": "Computational Software",
+    "Software Type": "Parallel Computing",
+    "Field of Science": "Computer and Information Sciences"
+    }
+}

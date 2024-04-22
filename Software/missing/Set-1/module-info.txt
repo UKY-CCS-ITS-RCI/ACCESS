@@ -1,0 +1,52 @@
+{
+  "Software": "Module-info",
+  "Overview": "Module-info is a feature of Java 9 and onwards that supports modular programming in Java. It allows for better encapsulation of the codebase and decreases complexities in large-scale applications. The module descriptor (module-info.java) defines a module with its dependencies, exported packages and provided services.",
+  "Core_Features": [
+    {
+      "Modular Programming": "Supports dividing the codebase into modules for improved encapsulation and separation of concerns"
+    },
+    {
+      "Dependencies": "Allows specifying other modules that this module depends on"
+    },
+    {
+      "Exported Packages": "Specifies which packages are accessible to other modules"
+    },
+    {
+      "Provided Services": "Allows defining services that can be used by other modules"
+    }
+  ],
+  "Tags": ["Java", "Java 9", "Modular Programming", "Module descriptor"]
+}
+
+{
+  "Web_URLs": {
+    "Software Page": "https://www.oracle.com/java/technologies/",
+    "Documentation": "https://docs.oracle.com/javase/9/modules/",
+    "Tutorial": "https://www.baeldung.com/java-9-modules-intro",
+    "Training": "https://cursos.alura.com.br/course/java-9-modules"
+  }
+}
+
+Use Case: 
+- Use the module-info.java file to specify the module name, list any modules that it requires, declare which packages it exports, and provide services. This is useful in large scale applications where encapsulation of the structure is needed. Developers can also reduce the complexity of the codebase through tighter encapsulation and increased modularity.
+
+Code Details and Examples:
+- Code to create a module-info.java file in the source code directory of a java program:
+
+```java
+module com.myapp {
+    requires java.logging;
+    exports com.myapp.api;
+    provides com.myapp.api.Service with com.myapp.ServiceImpl;
+}
+```
+- This indicates that the module name is `com.myapp`, it requires the `java.logging` module, it exports the `com.myapp.api` package, and it provides the `com.myapp.api.Service` service using the `com.myapp.ServiceImpl` class.
+
+- Command to compile:
+`javac -d mods/com.myapp src/com.myapp/module-info.java src/com.myapp/com/myapp/api/Service.java`
+
+Research Discipline: Software Engineering, Systems, and Development
+Research Area: Software development; System design
+Software Class: Programming Language
+Software Type: Compiler
+Field of Science: Computer and Information Sciences; Software Engineering, Systems, and Development

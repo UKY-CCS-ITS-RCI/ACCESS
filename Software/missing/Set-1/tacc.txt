@@ -1,0 +1,44 @@
+Software Name: TACC (Texas Advanced Computing Center)
+{
+"overview": "The Texas Advanced Computing Center (TACC) designs and operates some of the world's most powerful computing resources. Use of these systems is provided for computational science researchers across the United States, and are a part of the National Science Foundation's cyberinfrastructure, XSEDE (Extreme Science and Engineering Discovery Environment).",
+"core features": [
+  "Advanced computing resources: TACC offers a range of high-performance computing systems, including Stampede2, Lonestar5, and Frontera, that provide researchers with powerful tools for numerical simulation, data analysis, and other high-end computations.",
+  "Data storage: TACC provides large-scale data storage solutions, as well as data and file transfer services, to enable researchers to manage and move massive amounts of data.",
+  "Visualization: The center offers advanced visualization resources which can enable researchers to view and manipulate complex data sets.",
+  "Training and education: TACC offers a wealth of tutorials, webinars, workshops, and classes to help users get the most out of its resources."
+],
+"tags": ["HPC", "Supercomputing", "Data Analysis", "Visualization", "Education"]
+}
+
+Software Page: [https://www.tacc.utexas.edu/](https://www.tacc.utexas.edu/)
+Documentation: [https://portal.tacc.utexas.edu/user-guides](https://portal.tacc.utexas.edu/user-guides)
+Training Materials: [https://learn.tacc.utexas.edu/](https://learn.tacc.utexas.edu/)
+
+Use Case: Use ; The TACC can be used for a range of computational research projects, including climate modeling, genetic analysis, astrophysics, and many others. Projects might involve using TACC's supercomputers to run large-scale numerical simulations, storing and analyzing massive data sets, or using the center's visualization resources to explore complex data.
+
+Code details and examples: Code ; Tools used with TACC depend on specific use case - could include compilers (Intel, GCC), MPI libraries (OpenMPI, Intel MPI), debugger/profiler tools (TotalView, Allinea MAP/DTP), etc.
+
+Tags for Research Discipline: 
+{
+  "discipline": ["Computational Science"] 
+}
+
+Tags for Research Area:
+{
+  "area": ["High Performance Computing", "Data Analysis", "Data Visualization", "Education", "Supercomputing"] 
+}
+
+Tags for Software Class:
+{
+  "class": ["Library/API", "Computational tool"] 
+}
+
+Tags for Software Type:
+{
+  "type": ["Developer Tools", "Data Transfer/Storage", "Visualization"] 
+}
+
+Tags for Field of Science:
+{
+  "field": ["Computer Science", "Applied Computer Science", "Software Engineering, Systems, and Development", "Artificial Intelligence and Intelligent Systems", "Visualization and Human-Computer Systems", "Informatics, Analytics and Information Science", "Other Computer and Information Sciences"] 
+}

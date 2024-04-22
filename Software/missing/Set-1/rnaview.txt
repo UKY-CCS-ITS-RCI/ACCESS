@@ -1,0 +1,42 @@
+{
+    "rnaview": {
+        "Overview": "RNAView generates 2D displays of RNA/DNA secondary structures with 'base pairs' and 'base stacking'. The mechanism for determining base pair and base stacking is described in Zhang & Zhang, 1995, Computers & Chemistry 19: 105.",
+        "Core Features": [
+            "Generates 2D displays of RNA/DNA secondary structures",
+            "Outputs are in both PostScript and text formats",
+            "The text mode output file contains the geometric classification of base pairs",
+            "The base stacking positions are also calculated and reported"
+        ],
+        "General Tags": ["DNA analysis", "RNA analysis", "Secondary structure", "Base pairing", "bioinformatic tool"],
+        "Links": {
+            "Software page": "http://ndbserver.rutgers.edu/ndbmodule/services/download/rnaview.html",
+            "Documentation": [
+                "http://ndbserver.rutgers.edu/ndbmodule/services/download/rnaview.html"
+            ],
+            "Tutorials": [
+                "Not available"
+            ]
+        }
+    }
+}
+
+Code Details and Examples:
+
+Use case: To analyze and view the secondary structure of a DNA or RNA sequence. 
+
+Code:
+
+```bash
+# Assuming RNAView is already installed and your input PDB file is 'input.pdb'
+rnaview input.pdb output.txt
+```
+
+The input file should be in Protein Data Bank (PDB) format. The command will generate a 'output.txt' file which contains the geometric classification of base pairs and the base stacking positions.
+
+JSON Tag Strings:
+
+"Research Discipline": ["Biochemistry and Molecular Biology", "Biophysics"],
+"Research Area": ["Structural Biology", "Nucleic Acid Research"],
+"Software Class": ["Bioinformatics Tool"],
+"Software Type": ["Analysis Tool"],
+"Field of Science": ["Biological Sciences"]

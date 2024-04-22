@@ -1,0 +1,39 @@
+{
+"Software": "NGC (NVIDIA GPU Cloud)",
+"Overview": "NGC is a cloud-based platform providing GPU-accelerated software from NVIDIA, its partners, and the community. It provides access to a full catalog of GPU-optimized software for deep learning, high-performance computing (HPC), and visualization. The NGC catalog spans a wide range of ready-to-deploy containers, pre-trained models, scripts, and Helm chart configurations.",
+"CoreFeatures": 
+{
+  "Feature1": "Sophisticated deep learning tools with TensorFlow, PyTorch, MXNet, and more.",
+  "Feature2": "A catalog of GPU-accelerated software for AI, analytics, and HPC.",
+  "Feature3": "Turnkey solutions for common AI workloads.",
+  "Feature4": "Containers for visualization tools and libraries like ParaView."
+},
+"Tags": ["HPC", "deep learning", "AI", "visualization", "containers"]
+}
+
+{
+"SoftwarePage": 
+{
+  "url_main": "https://ngc.nvidia.com/",
+  "url_docs": "https://docs.nvidia.com/ngc/index.html",
+  "url_tutorials": "https://ngc.nvidia.com/catalog/learn"
+}
+}
+
+Use Case: NGC can be used to access and deploy high-performance applications and frameworks for AI, deep learning, and HPC. It can be used to accelerate rendering and simulation tasks in the visualization stack. Users can access pre-built container images for their favorite application and deploy it within their environment, making it easier to use complex software. NGC's helm charts allow users to deploy complex software stacks with a single command.
+
+Code details and examples: With NGC, it's possible to pull an image and run it with one line. For example, to run the TensorFlow image on your local machine, use:
+
+```
+docker run --gpus all -it --rm -v local_dir:container_dir nvcr.io/nvidia/tensorflow:latest
+```
+
+In the above code, replace "local_dir:container_dir" with the directories for I/O operations.
+
+{
+"ResearchDiscipline": ["Computer Science", "Applied Computer Science", "Artificial Intelligence and Intelligent Systems"],
+"ResearchArea": ["Deep Learning", "High Performance Computing", "Parallel Computing"],
+"SoftwareClass": ["Cloud Computing platform", "Container Repository"],
+"SoftwareType": ["Library", "Software Repository"],
+"FieldOfScience": ["Computer and Information Sciences", "Artificial Intelligence and Intelligent Systems"]
+}

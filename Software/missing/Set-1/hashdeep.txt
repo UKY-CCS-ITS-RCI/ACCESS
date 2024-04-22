@@ -1,0 +1,40 @@
+Software Name: Hashdeep
+
+Comprehensive Overview: Hashdeep is a cross-platform tool that computes the message digest, a small fixed size data hash, of any data or input files. It is commonly used in digital forensic investigations for securely verifying the digital documents. Besides compute, hashdeep can also match and audit against stored hashes, allowing scientists to handle large sets of known hashes easily.
+
+Core Features: 
+1. Recursive operation
+2. Auditing and matching modes
+3. Supports numerous hash algorithms (MD5, SHA-1, SHA-256, Tiger, Whirlpool, etc.)
+4. Can report all input files, whether matched or audited
+5. Supports hash-file format of other hash calculators
+6. Can estimate time of long operations
+
+General Tags: hash function, cross-platform tool, digital forensics, security, auditing, matching, hash-file format, 
+
+Software URL: {"hashdeep software page": "http://md5deep.sourceforge.net/"}
+
+Documentation: {"hashdeep documentation": "https://github.com/jessek/hashdeep"}
+
+Training Materials: {"hashdeep tutorial": "https://forensicswiki.xyz/wiki/index.php?title=Hashdeep"}
+
+Research Discipline Tags: {"Research Area": "Applied Computer Science", "Software Class": "Forensic Tools", "Software Type": "Cross-platform Tool", "Field of Science": "Computer and Information Sciences"}
+
+Use Case: Hashdeep can be used in digital forensics to securely verify the digital files or documents. It is also used in scientific research to validate data integrity by auditing and matching data sets against stored hashes.
+
+Code Details/Examples: Code
+To compute the MD5 hash of a file, you'll need the file to be available on your machine. Let's assume you have a file named "document.txt" in your current directory; you can calculate its MD5 hash by executing the following command:
+
+hashdeep -c md5 document.txt
+
+This command will provide an MD5 hash for the "document.txt" file. You can use similar commands to calculate or match other types of hashes by switching MD5 to another supported algorithm.
+
+Specifying multiple algorithms is also possible, like so:
+hashdeep -c md5,sha256 document.txt
+
+This will compute both the MD5 and SHA-256 hashes for the file. 
+
+You can also run it on multiple files at once:
+hashdeep -r -c md5,sha256 *
+
+The above command will calculate MD5 and SHA-256 for all files in the current directory and its subdirectories (-r option enables the recursive mode).

@@ -1,0 +1,66 @@
+Software 1: TensorFlow
+
+Details:
+{
+  "software_name": "TensorFlow",
+  "overview": "TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.",
+  "core_features": "APIs for defining and running computational graphs, Support for multiple platforms and languages, Extensive libraries and extensions, Community support and resources",
+  "tags": ["machine learning", "AI", "data analysis", "computational graphs"]
+}
+
+Links:
+{
+  "software_page": "https://www.tensorflow.org/",
+  "documentation": "https://www.tensorflow.org/guide",
+  "tutorials": [
+    "https://www.tensorflow.org/tutorials",
+    "https://www.tensorflow.org/tutorials/quickstart/beginner",
+    "https://www.tensorflow.org/tutorials/keras/classification"
+  ]
+}
+
+Use Case: 
+Use ; To develop a neural network model for image classification.
+
+Code details and examples: 
+Code:
+```
+# Import the required library
+import tensorflow as tf
+
+# Load and prepare the dataset
+mnist = tf.keras.datasets.mnist
+(x_train, y_train), (x_test, y_test) = mnist.load_data()
+x_train, x_test = x_train / 255.0, x_test / 255.0
+
+# Build the model
+model = tf.keras.models.Sequential([
+  tf.keras.layers.Flatten(input_shape=(28, 28)),
+  tf.keras.layers.Dense(128, activation='relu'),
+  tf.keras.layers.Dropout(0.2),
+  tf.keras.layers.Dense(10)
+])
+
+# Choose the optimizer and loss function
+model.compile(optimizer='adam',
+              loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+              metrics=['accuracy'])
+
+# Train and evaluate the model
+model.fit(x_train, y_train, epochs=5)
+model.evaluate(x_test,  y_test, verbose=2)
+```
+The input is a dataset of 28x28 grayscale images of handwritten digits. The model is trained on this dataset and then evaluated on a test set.
+
+To run the script, save it as a .py file and use the command `python filename.py`.
+
+Tags:
+{
+    "research_discipline": "Computer and Information Sciences",
+    "research_area": "Applied Computer Science",
+    "software_class": "Library",
+    "software_type": "Machine Learning",
+    "field_of_science": "Artificial Intelligence and Intelligent Systems"
+}
+
+More software details and information can be generated in this same format if required.

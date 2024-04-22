@@ -1,0 +1,47 @@
+{
+"Software Name": "rapidsai",
+"Overview": "RAPIDS is a suite of open source software libraries and APIs gives data scientists the ability to execute end-to-end data science and analytics pipelines entirely on GPUs.",
+"Core Features": [
+  "Seamless Integration: RAPIDS integrates straightforwardly into the traditional data science (using familiar interfaces like Numpy and Pandas) to radically accelerate productivity.", 
+  "GPU Data Frame: RAPIDS provides a GPU DataFrame library with a familiar Pandas-like API.", 
+  "Scalability: RAPIDS directly leverages Apache Arrow for data interchange and adopts the Apache Parquet for efficient and robust I/O."
+],
+"Tags": ["Data Science", "Machine Learning", "Analytics", "GPU Acceleration", "Deep Learning", "Artificial Intelligence"]
+}
+
+{
+"Software Page": "https://rapids.ai/",
+"Documentation": "https://docs.rapids.ai/",
+"Tutorials": [
+  "https://rapids.ai/start.html", 
+  "https://medium.com/rapids-ai/10-minutes-to-cudf-82de4912f6cd",
+  "https://www.datacamp.com/community/tutorials/tutorial-ridgeline-plots-rapids"
+]
+}
+
+Use Case: Rapids AI can be used for high performance GPU accelerated Data Analytics and Machine Learning workflows, provides interfaces that are consistent with Pandas, Dask, Scikit-Learn, NetworkX, and others making it simple to adopt;
+Code details and examples: Code:
+
+```python
+import cudf, io, requests
+from io import StringIO
+
+url="https://github.com/plotly/datasets/raw/master/tips.csv"
+content = requests.get(url).content.decode('utf-8')
+
+tips_df = cudf.read_csv(StringIO(content))
+tips_df['tip_percentage'] = tips_df['tip']/tips_df['total_bill']*100
+
+# display average tip by dining party size
+print(tips_df.groupby('size').tip_percentage.mean())
+```
+In this example, a CSV file is read into a GPU DataFrame and a new feature is created. Then the average 'tip_percentage' is aggregated for each 'size' group.
+Command line to run the code: python filename.py  (Replace filename with your file)
+
+{
+"Research Discipline Tags": ["Applied Mathematics", "Computer Science", "Artificial Intelligence"],
+"Research Area Tags": ["Machine Learning", "Data Science", "Deep Learning"],
+"Software Class Tags": ["Library"],
+"Software Type Tags": ["Analytical Software"],
+"Field of Science Tags": ["Computer and Information Sciences"]
+}

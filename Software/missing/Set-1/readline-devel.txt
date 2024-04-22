@@ -1,0 +1,53 @@
+{
+"Software": "readline-devel",
+"Overview": "readline-devel is a software package that provides the libraries and header files required to develop applications that use the readline functionality. Readline provides a set of functions for use by applications that allow users to edit command lines. A line editing interface both for interactive and non-interactive programs is provided via these libraries",
+"Core Features": [
+  {
+    "Editable command lines": "Readline allows users to edit command lines, providing a user interface for text input.",
+    "History functions": "Readline provides functions to remember previously entered command lines.",
+    "Completion functions": "The software also offers capabilities for programmable completion, allowing for custom autocomplete functionality.",
+    "Key binding": "It allows for customizable key-bindings, providing flexibility for interaction."
+  }
+],
+"Tags": ["readline-devel", "libraries", "header files", "command line editing", "development", "interactive programs"]
+}
+
+{
+"Additional resources and tutorials": [
+  {
+    "Software page": "https://www.gnu.org/software/readline/",
+    "Documentation": "http://cnswww.cns.cwru.edu/php/chet/readline/rluserman.html",
+    "Tutorials": "https://tiswww.case.edu/php/chet/readline/rltop.html"
+  }
+]
+}
+
+Use Case: readline-devel is primarily used in the development of various applications that require command line editing functionality. It provides a set of functions to applications to allow users to edit command lines as if they were using a text editor. During data feeds, this feature allows for easy manipulation and modifications for the operators.
+
+Code Details and Examples: 
+Code: 
+```
+#include <stdio.h>
+#include <readline/readline.h>
+#include <readline/history.h>
+
+int main()
+{
+    char* line = readline("Enter a line: ");
+    if (line != NULL) {
+        printf("You entered: %s\n", line);
+        free(line);
+    }
+
+    return 0;
+}
+```
+In this simple example, readline-devel is used to provide basic interactive command line input functionality in a C program. Once you have included needed headers, you can use readline() function call to read user input from command line.
+
+{
+"Research Discipline Tags": ["Computer and Information Sciences", "Software Engineering, Systems, and Development"],
+"Research Area Tags": ["Development Tools", "Programming Language Libraries"],
+"Software Class Tags": ["Development Libraries"],
+"Software Type Tags": ["Library for Command-line Input"],
+"Field of Science Tags": ["Computer and Information Sciences"]
+}

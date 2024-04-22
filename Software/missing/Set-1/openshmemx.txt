@@ -1,0 +1,67 @@
+{
+  "Software Name": "OpenSHMEMX",
+  "Overview": "OpenSHMEMX is an extension of OpenSHMEM, a programming interface standard for parallel computing which delivers a simple, efficient, and flexible interface for developing parallel applications across distributed memory systems.",
+  "Core Features": [
+    {
+      "Name": "Data transfer",
+      "Description": "Supports one-sided communication mechanisms for direct data transfer to/from the memory of remote pee nodes."
+    },
+    {
+      "Name": "Memory Management",
+      "Description": "Provides efficient and portable memory management mechanisms."
+    },
+    {
+      "Name": "Atomic Operations",
+      "Description": "Supports atomic operations for shared memory concurrency and synchronization."
+    },
+    {
+      "Name": "Collective Operations",
+      "Description": "Includes efficient and scalable collective operations for data movement, synchronization, and other global computational operations."
+    }
+  ],
+  "Tags": [
+    "Parallel Programming", 
+    "Shared Memory", 
+    "HPC", 
+    "OpenSHMEMX", 
+    "Distributed Programming"
+  ],
+  "URLs": {
+    "Software Page": "http://www.openshmem.org/",
+    "Documentation": "https://www.openshmem.org/doc/",
+    "Tutorials": [
+      "https://www.youtube.com/watch?v=zXO5Q2vXi0o",
+      "https://www.csm.ornl.gov/workshops/openshmem2013/tutorials.html"
+    ]
+  }
+}
+
+Use case: OpenSHMEMX can be used in various HPC and parallel computing applications, including scientific computing, simulations, data analytics, machine learning, and more. It is suitable for applications that need fast and efficient inter-node communication with shared memory.
+
+Code details and examples: Code example for a simple data transfer using OpenSHMEMX:
+
+```
+#include <shmemx.h>
+int main(void) {
+  shmemx_init();
+  int old_val = shmemx_int_atomic_fetch_add(&remote, 1, PE);
+  shmemx_finalize();
+  return 0;
+}
+```
+
+A typical compilation and execution command of an OpenSHMEMX program might look like this:
+
+```
+$ oshcc hello_world.c
+$ oshrun -np 4 ./a.out
+```
+
+JSON strings for tags:
+```
+{ "Research Discipline": ["Computer and Information Sciences", "Applied Computer Science", "Software Engineering, Systems, and Development"] }
+{ "Research Area": ["HPC", "Parallel Programming"] }
+{ "Software Class": ["HPC Tools"] }
+{ "Software Type": ["Libraries"] }
+{ "Field of Science": ["Computer and Information Sciences"] }
+```
