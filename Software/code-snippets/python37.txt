@@ -1,0 +1,23 @@
+Use Case: Python 3.7
+
+Code details and examples:
+Python 3.7 is a widely used programming language. Below is an example of a simple Python script that reads a text file and prints its content.
+
+Sample input file (input.txt):
+```
+Hello, world!
+This is a sample input file.
+```
+
+Python code (script.py):
+```python
+# Open the input file
+with open('input.txt', 'r') as f:
+    content = f.read()
+    print(content)
+```
+
+To run this Python script, you can use the following command:
+```
+python3.7 script.py
+```

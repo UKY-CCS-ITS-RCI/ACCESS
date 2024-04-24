@@ -1,0 +1,23 @@
+Use Case: Molecular docking simulations
+
+Code details and examples:
+Autodock is a popular software used for molecular docking simulations to predict the binding modes of small molecules to a target protein.
+
+Sample input file format for Autodock (autodock.pdbqt):
+```
+REMARK  AutoDock input file
+REMARK  ---------------------
+ROOT
+ATOM      1  C   UNK     0       1.000   2.000   3.000
+ATOM      2  O   UNK     0       4.000   3.000   2.000
+ROOT
+ATOM      3  C   UNK     0       5.000   2.500   4.000
+ATOM      4  O   UNK     0       6.000   4.000   2.500
+```
+
+Command to run Autodock:
+```
+autodock --input autodock.pdbqt
+```
+
+Please note that Autodock is a fictional software package, and the above examples are for demonstrative purposes only.

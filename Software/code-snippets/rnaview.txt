@@ -1,0 +1,5 @@
+Use Case: RNA structure visualization  
+Code details and examples:  
+Sample input file format: PDB or CT file format  
+Code: RNAview input.pdb  
+Command to run: RNAview input.pdb

@@ -1,0 +1,18 @@
+Use Case: Quality assessment of metagenome-assembled genomes in microbiome studies
+Package: CheckM
+
+Code details and examples:
+- Check the quality of a metagenome-assembled genome:
+```bash
+checkm lineage_wf -t 4 -x fa my_binned_genomes/ checkm_output/
+```
+- Generate a summary of the results:
+```bash
+checkm qa checkm_output/ > checkm_summary.txt
+```
+- Visualize the results:
+```bash
+checkm bin_qa_plot -x fa --pdf checkm_output/ checkm_plots/
+```
+
+Note: Ensure that the input files are in the specified format (e.g., fasta format for genome bins) before running the commands.

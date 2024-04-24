@@ -1,0 +1,7 @@
+Use Case: Compression and decompression software for handling 7z archives
+Code details and examples:
+```
+7z a new_archive.7z file1 file2       # Compress files into a new 7z archive
+7z x archive.7z                       # Extract files from a 7z archive
+```
+**Note:** Replace `file1`, `file2`, `new_archive.7z`, and `archive.7z` with actual file names.

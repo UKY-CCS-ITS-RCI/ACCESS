@@ -1,0 +1,13 @@
+Use Case: Record terminal sessions and share them online.
+Code details and examples: 
+To record a terminal session, simply run the `asciinema rec` command:
+```
+asciinema rec
+```
+This will start recording your terminal session. To stop the recording, press `Ctrl+D` or type `exit`. The recorded session will be saved as a JSON file.
+
+You can then share the recorded session by uploading it to asciinema.org or by using the `asciinema` command with the `-t` flag followed by the recorded file's path. For example:
+```
+asciinema play session.json
+```
+This will playback the recorded session in the terminal.

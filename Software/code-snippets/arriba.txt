@@ -1,0 +1,15 @@
+I'm assuming you are referring to Arriba, a software tool for gene fusion detection in RNA-seq data. 
+
+Use Case: Gene fusion detection in RNA-seq data using Arriba
+Code details and examples:
+Input format: Arriba takes aligned RNA-seq reads in BAM format as input.
+
+Sample command to run Arriba:
+```
+arriba -x gene_annotation.gtf -a sample_1.bam,sample_2.bam -o output_directory
+```
+
+In the above command:
+- `-x`: Specifies the gene annotation file in GTF format.
+- `-a`: Specifies the input BAM files containing aligned RNA-seq reads.
+- `-o`: Specifies the output directory where the results will be saved.

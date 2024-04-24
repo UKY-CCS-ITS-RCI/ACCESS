@@ -1,0 +1,14 @@
+Use Case: Python3
+
+Code details and examples:
+1. Input file format: Any text file
+2. Code snippet:
+```
+# Example Python code
+print("Hello, World!")
+```
+
+Command to run:
+```
+python3 script.py
+```

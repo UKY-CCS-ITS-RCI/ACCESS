@@ -1,0 +1,16 @@
+Since "MethylPy" is not a recognized HPC software or tool, I will provide you with a similar package commonly used in bioinformatics for DNA methylation analysis.
+
+Use Case: DNA methylation analysis
+Code details and examples: 
+MethylDackel is a tool for extracting methylation information from bisulfite-treated sequencing data. It can parse BAM/SAM files from whole genome or reduced representation bisulfite sequencing protocols. Here is an example of how to use MethylDackel:
+
+```
+$ MethylDackel extract -@ 4 -p 8 --CHH -R chr1:1000-2000 input.bam reference.fa output.txt
+```
+
+- -@: number of BAM reading threads
+- -p: number of BAM parsing threads
+- --CHH: include only CHH methylation
+- -R: region to report methylation information
+
+You can customize the parameters according to your analysis requirements and input files.

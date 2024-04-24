@@ -1,0 +1,8 @@
+Use Case: Verify integrity of files with hashdeep. 
+
+Code details and examples: 
+```
+hashdeep -c md5 example.txt
+```
+
+This command will generate md5 hashes for the contents of example.txt.

@@ -1,0 +1,10 @@
+Use Case: Data exploration and manipulation
+
+Code details and examples:
+```bash
+# Start visidata and load a sample CSV file
+vd sample.csv
+
+# Once visidata is open, you can navigate through the data, filter, sort, and perform various operations using keyboard shortcuts.
+# For example, you can press 'g' to sort data, 'f' to filter data, 'o' to open a new file, 'q' to quit, etc.
+```
