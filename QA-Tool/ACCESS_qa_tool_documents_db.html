@@ -1,0 +1,203 @@
+
+    <html>
+    <head>
+        <title>SQLite Data</title>
+        <style>
+            th {
+                cursor: pointer;
+            }
+            table {
+                width: 100%;
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 10px;
+                border: 1px solid black;
+                text-align: left;
+                width: auto;
+                resize: horizontal;
+                overflow: auto;
+            }
+        </style>
+        <script>
+            function sortTable(tableId, columnIndex) {
+                var table = document.getElementById(tableId);
+                var rows = Array.from(table.rows).slice(1); // Skip the header row
+                var isAscending = table.getAttribute('data-sort-order') !== 'asc';
+                
+                rows.sort(function (rowA, rowB) {
+                    var cellA = rowA.cells[columnIndex].innerText.toLowerCase();
+                    var cellB = rowB.cells[columnIndex].innerText.toLowerCase();
+
+                    // If sorting by Document No (first column), sort numerically
+                    if (columnIndex === 0) {
+                        return isAscending ? parseInt(cellA) - parseInt(cellB) : parseInt(cellB) - parseInt(cellA);
+                    }
+
+                    // Sort alphabetically for other columns
+                    if (cellA < cellB) return isAscending ? -1 : 1;
+                    if (cellA > cellB) return isAscending ? 1 : -1;
+                    return 0;
+                });
+
+                table.tBodies[0].append(...rows); // Re-append sorted rows
+                table.setAttribute('data-sort-order', isAscending ? 'asc' : 'desc'); // Toggle sort order
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Embeddings Metadata</h1>
+        <table id="sortableTable" data-sort-order="asc">
+        <thead>
+        <tr>
+            <th onclick="sortTable('sortableTable', 0)">Document No</th>  <!-- Added row number -->
+            <th onclick="sortTable('sortableTable', 1)">File Path</th>
+            <th onclick="sortTable('sortableTable', 2)">Description</th>
+            <th onclick="sortTable('sortableTable', 3)">Data Source</th>
+            <th onclick="sortTable('sortableTable', 4)">Maintainer</th>  <!-- Added Maintainer -->
+            <th onclick="sortTable('sortableTable', 5)">Keywords</th>
+            <th onclick="sortTable('sortableTable', 6)">URL Embedded for Reference</th>
+            <th onclick="sortTable('sortableTable', 7)">Source File Creation Date</th>
+            <th onclick="sortTable('sortableTable', 8)">Source File Embedding Date</th>
+        </tr>
+        </thead>
+        <tbody>
+    
+<tr>
+<td>1</td>
+<td>data/About-ACCESS/Acknowledging-ACCESS.pdf</td>
+<td>This document provides guidelines on how to acknowledge ACCESS in publications and presentations.</td>
+<td>Content extracted from <a href="https://access-ci.org/about/acknowledging-access/" target="_blank">https://access-ci.org/about/acknowledging-access/</a></td>
+<td>Support</td>
+<td>ACCESS acknowledgment</td>
+<td><a href="https://access-ci.org/about/acknowledging-access/" target="_blank">https://access-ci.org/about/acknowledging-access/</a></td>
+<td>2024-10-07 03:46:04</td>
+<td>2024-10-09 21:59:50</td>
+</tr>
+<tr>
+<td>2</td>
+<td>data/About-ACCESS/ACCESS-Organization.pdf</td>
+<td>This document provides an overview of the organization and structure of ACCESS.</td>
+<td>Content extracted from <a href="https://access-ci.org/about/organization/" target="_blank">https://access-ci.org/about/organization/</a></td>
+<td>Support</td>
+<td>ACCESS organization</td>
+<td><a href="https://access-ci.org/about/organization/" target="_blank">https://access-ci.org/about/organization/</a></td>
+<td>2024-10-07 03:46:04</td>
+<td>2024-10-09 21:59:51</td>
+</tr>
+<tr>
+<td>3</td>
+<td>data/ACCESS-Resources/NCAR-Derecho/derecho-use-policies.md</td>
+<td>This document provides Derecho usage policies.</td>
+<td>Content extracted from <a href="https://arc.ucar.edu/docs" target="_blank">https://arc.ucar.edu/docs</a></td>
+<td>Support</td>
+<td>Derecho policies</td>
+<td><a href="https://arc.ucar.edu/docs" target="_blank">https://arc.ucar.edu/docs</a></td>
+<td>2024-10-07 03:46:08</td>
+<td>2024-10-09 21:59:51</td>
+</tr>
+<tr>
+<td>4</td>
+<td>https://support.access-ci.org/news/events-trainings</td>
+<td>This page lists various events and training sessions related to ACCESS events.</td>
+<td><a href="https://support.access-ci.org/news/events-trainings" target="_blank">https://support.access-ci.org/news/events-trainings</a></td>
+<td>Support</td>
+<td>events, trainings, ACCESS events</td>
+<td><a href="https://support.access-ci.org/news/events-trainings" target="_blank">https://support.access-ci.org/news/events-trainings</a></td>
+<td>2024-10-09 22:08:24</td>
+<td>2024-10-09 22:08:24</td>
+</tr>
+<tr>
+<td>5</td>
+<td>https://support.access-ci.org/news/events-trainings?page=1</td>
+<td>This page lists various events and training sessions related to ACCESS events - Page 1.</td>
+<td><a href="https://support.access-ci.org/news/events-trainings?page=1" target="_blank">https://support.access-ci.org/news/events-trainings?page=1</a></td>
+<td>Support</td>
+<td>events, trainings, ACCESS events</td>
+<td><a href="https://support.access-ci.org/news/events-trainings?page=1" target="_blank">https://support.access-ci.org/news/events-trainings?page=1</a></td>
+<td>2024-10-09 22:08:26</td>
+<td>2024-10-09 22:08:26</td>
+</tr>
+<tr>
+<td>6</td>
+<td>https://support.access-ci.org/news/events-trainings?page=2</td>
+<td>This page lists various events and training sessions related to ACCESS events - Page 2.</td>
+<td><a href="https://support.access-ci.org/news/events-trainings?page=2" target="_blank">https://support.access-ci.org/news/events-trainings?page=2</a></td>
+<td>Support</td>
+<td>events, trainings, ACCESS events</td>
+<td><a href="https://support.access-ci.org/news/events-trainings?page=2" target="_blank">https://support.access-ci.org/news/events-trainings?page=2</a></td>
+<td>2024-10-09 22:08:28</td>
+<td>2024-10-09 22:08:28</td>
+</tr>
+<tr>
+<td>7</td>
+<td>https://support.access-ci.org/news/events-trainings?page=3</td>
+<td>This page lists various events and training sessions related to ACCESS events - Page 3.</td>
+<td><a href="https://support.access-ci.org/news/events-trainings?page=3" target="_blank">https://support.access-ci.org/news/events-trainings?page=3</a></td>
+<td>Support</td>
+<td>events, trainings, ACCESS events</td>
+<td><a href="https://support.access-ci.org/news/events-trainings?page=3" target="_blank">https://support.access-ci.org/news/events-trainings?page=3</a></td>
+<td>2024-10-09 22:08:29</td>
+<td>2024-10-09 22:08:29</td>
+</tr>
+<tr>
+<td>8</td>
+<td>https://support.access-ci.org/news/events-trainings?page=4</td>
+<td>This page lists various events and training sessions related to ACCESS events - Page 4.</td>
+<td><a href="https://support.access-ci.org/news/events-trainings?page=4" target="_blank">https://support.access-ci.org/news/events-trainings?page=4</a></td>
+<td>Support</td>
+<td>events, trainings, ACCESS events</td>
+<td><a href="https://support.access-ci.org/news/events-trainings?page=4" target="_blank">https://support.access-ci.org/news/events-trainings?page=4</a></td>
+<td>2024-10-09 22:08:31</td>
+<td>2024-10-09 22:08:31</td>
+</tr>
+<tr>
+<td>9</td>
+<td>https://support.access-ci.org/announcements</td>
+<td>This page lists various ACCESS related announcements.</td>
+<td><a href="https://support.access-ci.org/announcements" target="_blank">https://support.access-ci.org/announcements</a></td>
+<td>Support</td>
+<td>announcements, news, ACCESS announcements</td>
+<td><a href="https://support.access-ci.org/announcements" target="_blank">https://support.access-ci.org/announcements</a></td>
+<td>2024-10-09 22:08:34</td>
+<td>2024-10-09 22:08:34</td>
+</tr>
+<tr>
+<td>10</td>
+<td>https://support.access-ci.org/knowledge-base/ci-links</td>
+<td>This page provides links to various CI knowledge bases and resources.</td>
+<td><a href="https://support.access-ci.org/knowledge-base/ci-links" target="_blank">https://support.access-ci.org/knowledge-base/ci-links</a></td>
+<td>Support</td>
+<td>CI knowledge base and links</td>
+<td><a href="https://support.access-ci.org/knowledge-base/ci-links" target="_blank">https://support.access-ci.org/knowledge-base/ci-links</a></td>
+<td>2024-10-09 22:08:34</td>
+<td>2024-10-09 22:08:34</td>
+</tr>
+<tr>
+<td>11</td>
+<td>https://operations.access-ci.org/integration_news</td>
+<td>This document provides news and updates on RP integration.</td>
+<td><a href="https://operations.access-ci.org/integration_news" target="_blank">https://operations.access-ci.org/integration_news</a></td>
+<td>Support</td>
+<td>Resource provider (RP) integration news</td>
+<td><a href="https://operations.access-ci.org/integration_news" target="_blank">https://operations.access-ci.org/integration_news</a></td>
+<td>2024-10-09 22:08:34</td>
+<td>2024-10-09 22:08:34</td>
+</tr>
+<tr>
+<td>12</td>
+<td>https://operations.access-ci.org/infrastructure_news_view</td>
+<td>This document provides information about the infrastructure status and news of Resource Providers (RP) systems.</td>
+<td><a href="https://operations.access-ci.org/infrastructure_news_view" target="_blank">https://operations.access-ci.org/infrastructure_news_view</a></td>
+<td>Support</td>
+<td>RP system status, infrastructure status</td>
+<td><a href="https://operations.access-ci.org/infrastructure_news_view" target="_blank">https://operations.access-ci.org/infrastructure_news_view</a></td>
+<td>2024-10-09 22:08:35</td>
+<td>2024-10-09 22:08:35</td>
+</tr>
+
+        </tbody>
+        </table>
+    </body>
+    </html>
+    
