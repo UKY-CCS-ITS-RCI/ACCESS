@@ -18,20 +18,8 @@
                     resize: horizontal;
                     overflow: auto;
                 }
-                /* Pagination styles */
-                .pagination {
-                    margin-top: 20px;
-                }
-                .pagination button {
-                    padding: 10px;
-                    margin-right: 5px;
-                }
             </style>
             <script>
-                var currentPage = 1;
-                var rowsPerPage = 10;
-                var totalRows = 0;
-                
                 function sortTable(tableId, columnIndex) {
                     var table = document.getElementById(tableId);
                     var rows = Array.from(table.rows).slice(1); // Skip the header row
@@ -40,58 +28,20 @@
                     rows.sort(function (rowA, rowB) {
                         var cellA = rowA.cells[columnIndex].innerText.toLowerCase();
                         var cellB = rowB.cells[columnIndex].innerText.toLowerCase();
-        
+
                         // If sorting by Document No (first column), sort numerically
                         if (columnIndex === 0) {
                             return isAscending ? parseInt(cellA) - parseInt(cellB) : parseInt(cellB) - parseInt(cellA);
                         }
-        
+
                         // Sort alphabetically for other columns
                         if (cellA < cellB) return isAscending ? -1 : 1;
                         if (cellA > cellB) return isAscending ? 1 : -1;
                         return 0;
                     });
-        
+
                     table.tBodies[0].append(...rows); // Re-append sorted rows
                     table.setAttribute('data-sort-order', isAscending ? 'asc' : 'desc'); // Toggle sort order
-                    displayPage(1); // Reset to first page after sorting
-                }
-
-                function displayPage(page) {
-                    var table = document.getElementById('sortableTable');
-                    var rows = table.rows;
-                    totalRows = rows.length - 1; // Exclude the header
-                    var start = (page - 1) * rowsPerPage + 1; // Skip header row
-                    var end = start + rowsPerPage;
-        
-                    // Hide all rows first
-                    for (var i = 1; i < rows.length; i++) {
-                        rows[i].style.display = 'none';
-                    }
-        
-                    // Display only the rows for the current page
-                    for (var i = start; i < end && i <= totalRows; i++) {
-                        rows[i].style.display = '';
-                    }
-        
-                    currentPage = page;
-                }
-        
-                function nextPage() {
-                    if (currentPage * rowsPerPage < totalRows) {
-                        displayPage(currentPage + 1);
-                    }
-                }
-        
-                function prevPage() {
-                    if (currentPage > 1) {
-                        displayPage(currentPage - 1);
-                    }
-                }
-        
-                // Call initially to display the first page
-                window.onload = function() {
-                    displayPage(currentPage);
                 }
             </script>
         </head>
@@ -1166,10 +1116,6 @@
 
             </tbody>
             </table>
-            <div class="pagination">
-                <button onclick="prevPage()">Previous</button>
-                <button onclick="nextPage()">Next</button>
-            </div>
         </body>
         </html>
         
