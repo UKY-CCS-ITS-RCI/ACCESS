@@ -1,7 +1,7 @@
 
         <html>
         <head>
-            <title>SQLite Data</title>
+            <title>SQLite Data - UKY Repo</title>
             <style>
                 th { cursor: pointer; }
                 table { width: 100%; border-collapse: collapse; }
@@ -16,10 +16,7 @@
                     rows.sort(function (rowA, rowB) {
                         var cellA = rowA.cells[columnIndex].innerText.toLowerCase();
                         var cellB = rowB.cells[columnIndex].innerText.toLowerCase();
-                        if (columnIndex === 0) { return isAscending ? parseInt(cellA) - parseInt(cellB) : parseInt(cellB) - parseInt(cellA); }
-                        if (cellA < cellB) return isAscending ? -1 : 1;
-                        if (cellA > cellB) return isAscending ? 1 : -1;
-                        return 0;
+                        return cellA.localeCompare(cellB) * (isAscending ? 1 : -1);
                     });
                     table.tBodies[0].append(...rows);
                     table.setAttribute('data-sort-order', isAscending ? 'asc' : 'desc');
@@ -27,11 +24,10 @@
             </script>
         </head>
         <body>
-            <h1>Embeddings Metadata</h1>
+            <h1>Embeddings Metadata - UKY Repo</h1>
             <table id="sortableTable" data-sort-order="asc">
             <thead>
             <tr>
-
                 <th onclick="sortTable('sortableTable', 0)">Document No</th>
                 <th onclick="sortTable('sortableTable', 1)">File Path</th>
                 <th onclick="sortTable('sortableTable', 2)">Description</th>
@@ -41,8 +37,10 @@
                 <th onclick="sortTable('sortableTable', 6)">URL</th>
                 <th onclick="sortTable('sortableTable', 7)">Source File Creation Date</th>
                 <th onclick="sortTable('sortableTable', 8)">Source File Embedding Date</th>
-            
-</tr></thead><tbody>
+            </tr>
+            </thead>
+            <tbody>
+        
 <tr>
 <td>1</td>
 <td>data/About-ACCESS/Acknowledging-ACCESS.pdf</td>
